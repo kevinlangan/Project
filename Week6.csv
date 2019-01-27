@@ -1,0 +1,295 @@
+"","Player","Position","Injury","Game Status","Team","Week"
+"2","Malcom Brown","DL","Knee","Questionable","New England Patriots",6
+"3","Josh Gordon","WR","Hamstring","Questionable","New England Patriots",6
+"4","Rob Gronkowski","TE","Ankle","Questionable","New England Patriots",6
+"5","Chris Hogan","WR","Thigh","Questionable","New England Patriots",6
+"6","Sony Michel","RB","Knee","Questionable","New England Patriots",6
+"7","Eric Rowe","DB","Groin","Questionable","New England Patriots",6
+"8","Danny Shelton","DL","Elbow","Questionable","New England Patriots",6
+"9","John Simon","DE","Shoulder","Questionable","New England Patriots",6
+"21","Chase Allen","OLB","Foot","Questionable","Miami Dolphins",6
+"31","Danny Amendola","WR","Not Injury Related","Not Listed","Miami Dolphins",6
+"41","Andre Branch","DE","Knee","Questionable","Miami Dolphins",6
+"51","A.J. Derby","TE","Foot","Questionable","Miami Dolphins",6
+"61","Jakeem Grant","WR","Shoulder","Questionable","Miami Dolphins",6
+"71","Reshad Jones","FS","Shoulder","Not Listed","Miami Dolphins",6
+"81","Bobby McCain","CB","Knee","Questionable","Miami Dolphins",6
+"91","T.J. McDonald","S","Foot","Questionable","Miami Dolphins",6
+"10","DeVante Parker","WR","Quadricep","Questionable","Miami Dolphins",6
+"11","Robert Quinn","DE","Not Injury Related","Not Listed","Miami Dolphins",6
+"12","Durham Smythe","TE","Ankle","Not Listed","Miami Dolphins",6
+"13","Ryan Tannehill","QB","Shoulder (right)","Questionable","Miami Dolphins",6
+"14","Laremy Tunsil","OT","Concussion","Questionable","Miami Dolphins",6
+"15","Cameron Wake","DE","Knee","Doubtful","Miami Dolphins",6
+"16","Albert Wilson","WR","Abdomen","Not Listed","Miami Dolphins",6
+"22","Lorenzo Alexander","LB","Rest","Not Listed","Buffalo Bills",6
+"32","Rafael Bush","S","Shoulder","Not Listed","Buffalo Bills",6
+"42","Charles Clay","TE","Rest","Not Listed","Buffalo Bills",6
+"52","Micah Hyde","S","Groin","Not Listed","Buffalo Bills",6
+"62","John Miller","G","Ankle","Not Listed","Buffalo Bills",6
+"72","Tre'Davious White","CB","Ankle","Not Listed","Buffalo Bills",6
+"82","Kyle Williams","DT","Rest","Not Listed","Buffalo Bills",6
+"23","Kelvin Beachum","T","Foot","Not Listed","New York Jets",6
+"33","Isaiah Crowell","RB","Ankle","Questionable","New York Jets",6
+"43","Folorunso Fatukasi","DL","Hamstring","Not Listed","New York Jets",6
+"53","Trumaine Johnson","CB","Quadriceps","Doubtful","New York Jets",6
+"63","Spencer Long","C","Knee/Finger","Not Listed","New York Jets",6
+"73","Marcus Maye","S","Ankle/Foot","Questionable","New York Jets",6
+"83","Doug Middleton","S","Hamstring","Questionable","New York Jets",6
+"92","Charone Peake","WR","Hamstring","Out","New York Jets",6
+"101","Kevin Pierre-Louis","LB","Foot","Doubtful","New York Jets",6
+"111","Andre Roberts","WR","Elbow/Foot","Not Listed","New York Jets",6
+"121","Nathan Shepherd","DL","Shoulder","Not Listed","New York Jets",6
+"131","Buster Skrine","CB","Concussion","Out","New York Jets",6
+"141","Neal Sterling","TE","Concussion","Not Listed","New York Jets",6
+"151","Leonard Williams","DL","Back","Not Listed","New York Jets",6
+"24","Jadeveon Clowney","DE/OLB","Illness","Not Listed","Houston Texans",6
+"34","Sammie Coates Jr.","WR","Hamstring","Not Listed","Houston Texans",6
+"44","Aaron Colvin","CB","Ankle","Out","Houston Texans",6
+"54","Keke Coutee","WR","Hamstring","Not Listed","Houston Texans",6
+"64","Will Fuller V","WR","Hamstring","Not Listed","Houston Texans",6
+"74","Ryan Griffin","TE","Toe","Not Listed","Houston Texans",6
+"84","DeAndre Hopkins","WR","Foot","Not Listed","Houston Texans",6
+"93","Kareem Jackson","CB/S","Finger","Not Listed","Houston Texans",6
+"102","Johnathan Joseph","CB","Hip","Not Listed","Houston Texans",6
+"112","Lamar Miller","RB","Chest","Not Listed","Houston Texans",6
+"122","Brian Peters","ILB","Ankle","Out","Houston Texans",6
+"132","Brennan Scarlett","OLB","Groin","Not Listed","Houston Texans",6
+"142","Deshaun Watson","QB","Chest","Questionable","Houston Texans",6
+"152","Shareece Wright","CB","Shoulder/Hand","Not Listed","Houston Texans",6
+"25","Will Compton","LB","Hamstring","Out","Tennessee Titans",6
+"35","Kamalei Correa","LB","Foot","Questionable","Tennessee Titans",6
+"45","Dennis Kelly","T","Illness","Not Listed","Tennessee Titans",6
+"55","Taylor Lewan","T","Foot","Not Listed","Tennessee Titans",6
+"65","Bennie Logan","DT","Elbow","Questionable","Tennessee Titans",6
+"75","Kenny Vaccaro","SS","Elbow","Out","Tennessee Titans",6
+"85","Wesley Woodyard","ILB","Shoulder","Questionable","Tennessee Titans",6
+"26","Denico Autry","DT/DE","Hamstring","Out","Indianapolis Colts",6
+"36","Anthony Castonzo","T","Hamstring","Not Listed","Indianapolis Colts",6
+"46","Jack Doyle","TE","Hip","Out","Indianapolis Colts",6
+"56","Eric Ebron","TE","Shin/Quadricep/Ankle/Knee","Questionable","Indianapolis Colts",6
+"66","Matthias Farley","S","Shoulder/Groin/Wrist","Out","Indianapolis Colts",6
+"76","Clayton Geathers","S","Concussion/Neck","Out","Indianapolis Colts",6
+"86","Nate Hairston","CB","Ankle","Not Listed","Indianapolis Colts",6
+"94","T.Y. Hilton","WR","Chest/Hamstring","Out","Indianapolis Colts",6
+"103","Malik Hooker","S","Back","Not Listed","Indianapolis Colts",6
+"113","Margus Hunt","DT","Knee","Questionable","Indianapolis Colts",6
+"123","Ryan Kelly","C","Calf","Questionable","Indianapolis Colts",6
+"133","Darius Leonard","LB","Ankle","Questionable","Indianapolis Colts",6
+"143","Marlon Mack","RB","Hamstring","Not Listed","Indianapolis Colts",6
+"153","Mike Mitchell","S","Pectoral","Questionable","Indianapolis Colts",6
+"161","Kenny Moore II","CB","Concussion","Not Listed","Indianapolis Colts",6
+"17","Hassan Ridgeway","DT","Calf","Not Listed","Indianapolis Colts",6
+"18","Anthony Walker","LB","Concussion","Not Listed","Indianapolis Colts",6
+"19","Quincy Wilson","CB","Concussion","Not Listed","Indianapolis Colts",6
+"27","Calais Campbell","DL","Ankle","Not Listed","Jacksonville Jaguars",6
+"37","Leonard Fournette","RB","Hamstring","Out","Jacksonville Jaguars",6
+"47","D.J. Hayden","CB","Toe","Out","Jacksonville Jaguars",6
+"57","Tre Herndon","CB","Hamstring","Out","Jacksonville Jaguars",6
+"67","Malik Jackson","DT","Back","Not Listed","Jacksonville Jaguars",6
+"77","Brandon Linder","OL","Knee","Not Listed","Jacksonville Jaguars",6
+"87","Yannick Ngakoue","DE","Shoulder","Not Listed","Jacksonville Jaguars",6
+"95","Andrew Norwell","OL","Foot","Not Listed","Jacksonville Jaguars",6
+"104","Jermey Parnell","OL","Knee","Not Listed","Jacksonville Jaguars",6
+"114","Jalen Ramsey","CB","Knee","Not Listed","Jacksonville Jaguars",6
+"124","Josh Wells","OL","Groin","Out","Jacksonville Jaguars",6
+"28","Morgan Burnett","S","Groin","Out","Pittsburgh Steelers",6
+"38","Terrell Edmunds","S","Calf","Not Listed","Pittsburgh Steelers",6
+"48","L.J. Fort","LB","Ankle","Doubtful","Pittsburgh Steelers",6
+"58","Ramon Foster","G","Coaches Decision","Not Listed","Pittsburgh Steelers",6
+"68","Joe Haden","CB","Coaches Decision","Not Listed","Pittsburgh Steelers",6
+"78","Darrius Heyward-Bey","WR","Ankle","Out","Pittsburgh Steelers",6
+"88","Maurkice Pouncey","C","Coaches Decision","Not Listed","Pittsburgh Steelers",6
+"96","Ben Roethlisberger","QB","Coaches Decision","Not Listed","Pittsburgh Steelers",6
+"105","Vince Williams","LB","Hamstring","Not Listed","Pittsburgh Steelers",6
+"29","Anthony Averett","CB","Hamstring","Out","Baltimore Ravens",6
+"39","John Brown","WR","NIR","Not Listed","Baltimore Ravens",6
+"49","Brandon Carr","CB","Knee","Questionable","Baltimore Ravens",6
+"59","Anthony Levine Sr.","DB/LB","Hamstring","Questionable","Baltimore Ravens",6
+"69","Michael Pierce","DT","Foot","Questionable","Baltimore Ravens",6
+"79","Terrell Suggs","OLB","NIR","Not Listed","Baltimore Ravens",6
+"89","Tavon Young","CB","Hip","Questionable","Baltimore Ravens",6
+"97","De'Lance Turner","RB","Hamstring","Out","Baltimore Ravens",6
+"106","Eric Weddle","S","NIR","Not Listed","Baltimore Ravens",6
+"115","Tim Williams","OLB","Hamstring","Questionable","Baltimore Ravens",6
+"210","Giovani Bernard","HB","Knee","Out","Cincinnati Bengals",6
+"310","Clint Boling","G","Hip","Not Listed","Cincinnati Bengals",6
+"410","Preston Brown","LB","Ankle","Not Listed","Cincinnati Bengals",6
+"510","William Jackson","CB","Knee","Questionable","Cincinnati Bengals",6
+"610","Michael Johnson","DE","Knee","Not Listed","Cincinnati Bengals",6
+"710","Tyler Kroft","TE","Foot","Out","Cincinnati Bengals",6
+"810","Carl Lawson","DE","Ankle","Not Listed","Cincinnati Bengals",6
+"98","Cedric Ogbuehi","OT","Wrist","Questionable","Cincinnati Bengals",6
+"107","Billy Price","C","Foot","Out","Cincinnati Bengals",6
+"116","John Ross","WR","Groin","Questionable","Cincinnati Bengals",6
+"211","Seth DeValve","TE","Hamstring","Not Listed","Cleveland Browns",6
+"311","E.J. Gaines","DB","Groin","Not Listed","Cleveland Browns",6
+"411","Desmond Harrison","OL","Knee","Not Listed","Cleveland Browns",6
+"511","Rashard Higgins","WR","Knee","Out","Cleveland Browns",6
+"611","Damarious Randall","DB","Heel","Not Listed","Cleveland Browns",6
+"711","Tanner Vallejo","LB","Concussion","Out","Cleveland Browns",6
+"811","Derrick Willies","WR","Shoulder","Out","Cleveland Browns",6
+"212","Travis Benjamin","WR","Foot","Out","Los Angeles Chargers",6
+"312","Joey Bosa","DE","Foot","Out","Los Angeles Chargers",6
+"412","Jatavis Brown","OLB","Groin","Doubtful","Los Angeles Chargers",6
+"512","Virgil Green","TE","Rib","Not Listed","Los Angeles Chargers",6
+"612","Russell Okung","T","Groin","Questionable","Los Angeles Chargers",6
+"712","Mike Pouncey","C","Knee","Not Listed","Los Angeles Chargers",6
+"812","Damion Square","NT","Shoulder","Not Listed","Los Angeles Chargers",6
+"99","Kyzir White","LB","Knee","Out","Los Angeles Chargers",6
+"213","Eric Berry","DB","Heel","Doubtful","Kansas City Chiefs",6
+"313","Chris Conley","WR","Toe","Not Listed","Kansas City Chiefs",6
+"413","Dee Ford","LB","Groin/Hand","Not Listed","Kansas City Chiefs",6
+"513","Justin Houston","LB","Hamstring","Doubtful","Kansas City Chiefs",6
+"613","Tanoh Kpassagnon","LB","Ankle","Questionable","Kansas City Chiefs",6
+"713","Eric Murray","DB","Ankle","Out","Kansas City Chiefs",6
+"813","De'Anthony Thomas","WR","Tibia","Out","Kansas City Chiefs",6
+"910","Spencer Ware","RB","Not Injury Related","Not Listed","Kansas City Chiefs",6
+"108","Sammy Watkins","WR","Hamstring","Not Listed","Kansas City Chiefs",6
+"214","Shaquil Barrett","OLB","Illness","Not Listed","Denver Broncos",6
+"314","Garett Bolles","T","Ankle","Not Listed","Denver Broncos",6
+"414","Todd Davis","ILB","Shoulder","Not Listed","Denver Broncos",6
+"514","Adam Gotsis","DE","Knee","Not Listed","Denver Broncos",6
+"614","Case Keenum","QB","Knee","Not Listed","Denver Broncos",6
+"714","Brandon Marshall","ILB","Knee","Not Listed","Denver Broncos",6
+"814","Domata Peko Sr.","NT","Not injury related","Not Listed","Denver Broncos",6
+"911","Shane Ray","OLB","Wrist","Not Listed","Denver Broncos",6
+"109","Darian Stewart","S","Foot","Not Listed","Denver Broncos",6
+"117","Courtland Sutton","WR","Ankle","Not Listed","Denver Broncos",6
+"125","Jared Veldheer","T","Knee","Out","Denver Broncos",6
+"215","Martavis Bryant","WR","Illness","Questionable","Oakland Raiders",6
+"315","Rodney Hudson","C","Ankle","Not Listed","Oakland Raiders",6
+"415","Maurice Hurst","DT","Shoulder","Not Listed","Oakland Raiders",6
+"515","Gabe Jackson","G","Pectoral","Not Listed","Oakland Raiders",6
+"615","Karl Joseph","S","Hamstring","Questionable","Oakland Raiders",6
+"715","Emmanuel Lamur","LB","Foot","Not Listed","Oakland Raiders",6
+"815","Marshawn Lynch","RB","Hip","Not Listed","Oakland Raiders",6
+"912","Kolton Miller","T","Knee","Not Listed","Oakland Raiders",6
+"1010","Kelechi Osemele","G/T","Knee","Doubtful","Oakland Raiders",6
+"118","Frostee Rucker","DT","Neck","Doubtful","Oakland Raiders",6
+"216","Tavon Austin","WR","Shoulder","Not Listed","Dallas Cowboys",6
+"316","Chidobe Awuzie","CB","Ankle","Questionable","Dallas Cowboys",6
+"416","Cole Beasley","WR","Ankle","Not Listed","Dallas Cowboys",6
+"516","Taco Charlton","DE","Thumb","Not Listed","Dallas Cowboys",6
+"616","Maliek Collins","DT","Knee","Questionable","Dallas Cowboys",6
+"716","Ezekiel Elliott","RB","Knee","Not Listed","Dallas Cowboys",6
+"816","Randy Gregory","DE","Knee","Questionable","Dallas Cowboys",6
+"913","David Irving","DL","Not Injury Related","Not Listed","Dallas Cowboys",6
+"1011","Demarcus Lawrence","DE","Shoulder","Questionable","Dallas Cowboys",6
+"119","Sean Lee","LB","Hamstring","Out","Dallas Cowboys",6
+"126","Jamize Olawale","FB","Shoulder","Not Listed","Dallas Cowboys",6
+"134","Tyron Smith","T","Ankle","Not Listed","Dallas Cowboys",6
+"144","Joe Thomas","LB","Foot","Out","Dallas Cowboys",6
+"154","Antwaun Woods","DT","Calf","Not Listed","Dallas Cowboys",6
+"217","D.J. Alexander","LB","Quadricep","Out","Philadelphia Eagles",6
+"317","Derek Barnett","DE","Shoulder","Not Listed","Philadelphia Eagles",6
+"417","Corey Clement","RB","Quadricep","Not Listed","Philadelphia Eagles",6
+"517","Nathan Gerry","LB","Ankle, Knee","Out","Philadelphia Eagles",6
+"617","Corey Graham","S","Hamstring","Out","Philadelphia Eagles",6
+"717","Lane Johnson","T","Ankle","Questionable","Philadelphia Eagles",6
+"817","Sidney Jones","CB","Ankle","Not Listed","Philadelphia Eagles",6
+"914","Haloti Ngata","DT","Calf","Out","Philadelphia Eagles",6
+"1012","Jason Peters","T","Quadricep","Not Listed","Philadelphia Eagles",6
+"1110","Darren Sproles","RB","Hamstring","Out","Philadelphia Eagles",6
+"127","Carson Wentz","QB","Not Injury Related -- Rest","Not Listed","Philadelphia Eagles",6
+"218","Troy Apke","S","Hamstring","Out","Washington Redskins",6
+"318","Zach Brown","LB","Oblique/Knee","Not Listed","Washington Redskins",6
+"418","Jamison Crowder","WR","Ankle","Questionable","Washington Redskins",6
+"518","Vernon Davis","TE","Hamstring","Not Listed","Washington Redskins",6
+"618","Josh Doctson","WR","Heel","Questionable","Washington Redskins",6
+"718","Shawn Lauvao","G","Calf","Doubtful","Washington Redskins",6
+"818","Colt McCoy","QB","Right Thumb","Not Listed","Washington Redskins",6
+"915","Montae Nicholson","S","Ankle","Not Listed","Washington Redskins",6
+"1013","Josh Norman","CB","Hamstring","Not Listed","Washington Redskins",6
+"1111","Adrian Peterson","RB","Ankle/Shoulder/Knee","Questionable","Washington Redskins",6
+"128","Paul Richardson Jr.","WR","Shoulder/Knee","Questionable","Washington Redskins",6
+"135","Brandon Scherff","G","Knee","Not Listed","Washington Redskins",6
+"145","Chris Thompson","RB","Rib/Knee","Questionable","Washington Redskins",6
+"155","Zach Vigil","LB","Thigh","Questionable","Washington Redskins",6
+"162","Trent Williams","T","Knee","Not Listed","Washington Redskins",6
+"219","Odell Beckham, Jr.","WR","Quad","Out","New York Giants",6
+"319","Mario Edwards","DE","Calf","Out","New York Giants",6
+"419","Rhett Ellison","TE","Concussion","Out","New York Giants",6
+"519","B.J. Goodson","ILB","Foot","Not Listed","New York Giants",6
+"619","Alec Ogletree","LB","Concussion","Out","New York Giants",6
+"719","Spencer Pulley","C","Calf","Not Listed","New York Giants",6
+"819","Russell Shepard","WR","Ankle","Out","New York Giants",6
+"916","Sterling Shepard","WR","Hip","Not Listed","New York Giants",6
+"1014","Kerry Wynn","DE","Thumb","Not Listed","New York Giants",6
+"220","Cameron Artis-Payne","RB","Not Injury Related","Not Listed","Carolina Panthers",6
+"320","Damiere Byrd","WR","Ankle","Out","Carolina Panthers",6
+"420","Marquis Haynes","DE","Not Injury Related","Out","Carolina Panthers",6
+"520","Ryan Kalil","C","Neck","Not Listed","Carolina Panthers",6
+"620","Jared Norris","LB","Toe","Out","Carolina Panthers",6
+"720","Greg Olsen","TE","Foot","Questionable","Carolina Panthers",6
+"820","Julius Peppers","DE","Rest","Not Listed","Carolina Panthers",6
+"917","Kawann Short","DT","Ankle","Not Listed","Carolina Panthers",6
+"1015","Andre Smith","LB","Hamstring","Out","Carolina Panthers",6
+"221","Beau Allen","DT","Foot","Questionable","Tampa Bay Buccaneers",6
+"321","Carlton Davis","CB","Groin/Back","Questionable","Tampa Bay Buccaneers",6
+"421","Demar Dotson","T","Knee","Not Listed","Tampa Bay Buccaneers",6
+"521","O.J. Howard","TE","Knee","Questionable","Tampa Bay Buccaneers",6
+"621","Jordan Whitehead","S","Hamstring","Questionable","Tampa Bay Buccaneers",6
+"222","Prince Amukamara","CB","Hamstring","Not Listed","Chicago Bears",6
+"322","Eric Kush","OG","Neck","Not Listed","Chicago Bears",6
+"422","Anthony Miller","WR","Shoulder","Not Listed","Chicago Bears",6
+"223","Anthony Barr","LB","Shoulder","Not Listed","Minnesota Vikings",6
+"323","Chad Beebe","WR","Hamstring","Out","Minnesota Vikings",6
+"423","Tom Compton","G","Shoulder","Questionable","Minnesota Vikings",6
+"522","C.J. Ham","FB","Elbow","Out","Minnesota Vikings",6
+"622","Linval Joseph","DT","Knee","Not Listed","Minnesota Vikings",6
+"721","Eric Kendricks","LB","Hamstring","Out","Minnesota Vikings",6
+"821","David Morgan","TE","Knee","Not Listed","Minnesota Vikings",6
+"918","Mike Remmers","G","Low Back","Not Listed","Minnesota Vikings",6
+"1016","Xavier Rhodes","CB","Groin","Questionable","Minnesota Vikings",6
+"1112","Marcus Sherels","CB","Foot","Out","Minnesota Vikings",6
+"224","Davante Adams","WR","Knee","Questionable","Green Bay Packers",6
+"324","Jaire Alexander","CB","Groin","Questionable","Green Bay Packers",6
+"424","David Bakhtiari","T","Hip","Questionable","Green Bay Packers",6
+"523","Kentrell Brice","S","Ankle","Questionable","Green Bay Packers",6
+"623","Fadol Brown","DL","Toe","Questionable","Green Bay Packers",6
+"722","Bryan Bulaga","T","Knee","Not Listed","Green Bay Packers",6
+"822","Randall Cobb","WR","Concussion","Not Listed","Green Bay Packers",6
+"919","Jimmy Graham","TE","Knee / Thumb","Not Listed","Green Bay Packers",6
+"1017","Jake Kumerow","WR","Hand","Not Listed","Green Bay Packers",6
+"1113","Clay Matthews","LB","Back","Not Listed","Green Bay Packers",6
+"129","Lucas Patrick","G","Abdomen","Questionable","Green Bay Packers",6
+"136","Aaron Rodgers","QB","Knee / Groin","Not Listed","Green Bay Packers",6
+"146","Jason Spriggs","T","Concussion","Doubtful","Green Bay Packers",6
+"156","Equanimeous St. Brown","WR","Concussion","Doubtful","Green Bay Packers",6
+"163","Lane Taylor","G","Knee","Questionable","Green Bay Packers",6
+"225","Doug Baldwin","WR","Knee","Not Listed","Seattle Seahawks",6
+"325","Duane Brown","T","Knee","Not Listed","Seattle Seahawks",6
+"425","Chris Carson","RB","NIR","Not Listed","Seattle Seahawks",6
+"524","Mike Davis","RB","Foot","Not Listed","Seattle Seahawks",6
+"624","D.J. Fluker","G/T","Hamstring","Not Listed","Seattle Seahawks",6
+"723","Shaquill Griffin","CB","Ankle","Not Listed","Seattle Seahawks",6
+"823","Dion Jordan","DE","Knee","Not Listed","Seattle Seahawks",6
+"920","Tre Madden","FB","Hamstring","Doubtful","Seattle Seahawks",6
+"1018","Bradley McDougald","FS","Knee","Not Listed","Seattle Seahawks",6
+"1114","J.R. Sweezy","G","Foot","Questionable","Seattle Seahawks",6
+"1210","Tedric Thompson","FS","Ankle","Not Listed","Seattle Seahawks",6
+"226","Arik Armstead","DL","Hand","Not Listed","San Francisco 49ers",6
+"326","Matt Breida","RB","Ankle","Out","San Francisco 49ers",6
+"426","Garrett Celek","TE","Concussion","Out","San Francisco 49ers",6
+"525","Marquise Goodwin","WR","Calf","Out","San Francisco 49ers",6
+"625","Erik Magnuson","OL","Hamstring","Not Listed","San Francisco 49ers",6
+"724","Tarvarius Moore","DB","Shoulder","Questionable","San Francisco 49ers",6
+"824","Mark Nzeocha","LB","Groin","Not Listed","San Francisco 49ers",6
+"921","Mike Person","OL","Illness","Not Listed","San Francisco 49ers",6
+"1019","Dante Pettis","WR","Knee","Out","San Francisco 49ers",6
+"1115","Weston Richburg","C","Knee","Not Listed","San Francisco 49ers",6
+"1211","Malcolm Smith","LB","Achilles","Not Listed","San Francisco 49ers",6
+"137","Joe Staley","T","Not Injury Related","Not Listed","San Francisco 49ers",6
+"227","Budda Baker","S","Shoulder","Not Listed","Arizona Cardinals",6
+"327","Tre Boston","S","Shoulder","Not Listed","Arizona Cardinals",6
+"427","Josh Bynes","LB","Wrist","Not Listed","Arizona Cardinals",6
+"526","Chase Edmonds","RB","Back","Questionable","Arizona Cardinals",6
+"626","Larry Fitzgerald","WR","Hamstring/Back","Not Listed","Arizona Cardinals",6
+"725","Markus Golden","DE","Knee","Questionable","Arizona Cardinals",6
+"825","Jermaine Gresham","TE","Achilles","Not Listed","Arizona Cardinals",6
+"922","D.J. Humphries","OL","Knee","Questionable","Arizona Cardinals",6
+"1020","Mike Iupati","OL","Shoulder","Questionable","Arizona Cardinals",6
+"1116","Robert Nkemdiche","DT","Foot","Questionable","Arizona Cardinals",6
+"1212","Corey Peters","DT","Elbow","Not Listed","Arizona Cardinals",6
+"138","Trent Sherfield","WR","Illness","Not Listed","Arizona Cardinals",6
