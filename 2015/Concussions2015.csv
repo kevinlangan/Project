@@ -1,0 +1,382 @@
+"","name","injury","week","team","year"
+"1","['Bryan Stork']","Injured Reserve: Concussion","week_1","New England Patriots",2015
+"2","['Bryan Stork']","Injured Reserve: Concussion","week_2","New England Patriots",2015
+"3","['Bryan Stork']","Injured Reserve: Concussion","week_3","New England Patriots",2015
+"4","['Bryan Stork']","Injured Reserve: Concussion","week_5","New England Patriots",2015
+"5","['Bryan Stork']","Injured Reserve: Concussion","week_6","New England Patriots",2015
+"6","['Bryan Stork']","Injured Reserve: Concussion","week_7","New England Patriots",2015
+"7","['Bryan Stork']","Injured Reserve: Concussion","week_8","New England Patriots",2015
+"8","['Sebastian Vollmer']","Out: Concussion","week_10","New England Patriots",2015
+"9","['Sebastian Vollmer']","Questionable: Concussion","week_11","New England Patriots",2015
+"10","['Justin Coleman']","Out: Concussion","week_17","New England Patriots",2015
+"11","['Justin Coleman']","Questionable: concussion","week_19","New England Patriots",2015
+"12","['Bryan Stork']",": concussion","week_19","New England Patriots",2015
+"13","['Jason Fox']","Doubtful: Concussion","week_1","Miami Dolphins",2015
+"14","['Dion Sims']","Out: Concussion","week_2","Miami Dolphins",2015
+"15","['Dion Sims']","Doubtful: Concussion","week_3","Miami Dolphins",2015
+"16","['Dion Sims']","Out: Concussion","week_4","Miami Dolphins",2015
+"17","['Dion Sims']","Probable: Concussion","week_6","Miami Dolphins",2015
+"18","['Bobby McCain']","Questionable: Concussion","week_15","Miami Dolphins",2015
+"19","['Corey Graham']","Probable: Concussion","week_2","Buffalo Bills",2015
+"20","['Karlos Williams']","Out: Concussion","week_5","Buffalo Bills",2015
+"21","['Karlos Williams']","Out: Concussion","week_6","Buffalo Bills",2015
+"22","['Seantrel Henderson']","Out: Concussion","week_7","Buffalo Bills",2015
+"23","['Karlos Williams']","Out: Concussion","week_7","Buffalo Bills",2015
+"24","['Seantrel Henderson']","Probable: Concussion","week_9","Buffalo Bills",2015
+"25","['A.J. Tarpley']","Probable: Concussion","week_9","Buffalo Bills",2015
+"26","['Karlos Williams']","Probable: Concussion","week_9","Buffalo Bills",2015
+"27","['Marcus Easley']","Out: Concussion","week_12","Buffalo Bills",2015
+"28","['Marcus Easley']","Probable: Concussion","week_13","Buffalo Bills",2015
+"29","['Ron Brooks']","Out: Concussion","week_14","Buffalo Bills",2015
+"30","['Ron Brooks']","Out: Concussion","week_15","Buffalo Bills",2015
+"31","['Jeremy Kerley']","Probable: Concussion","week_1","New York Jets",2015
+"32","['Lorenzo Mauldin']","Out: Concussion","week_2","New York Jets",2015
+"33","['Lorenzo Mauldin']","Probable: Concussion","week_3","New York Jets",2015
+"34","['Jeff Cumberland']","Out: Concussion","week_4","New York Jets",2015
+"35","['Jeff Cumberland']","Probable: Concussion","week_6","New York Jets",2015
+"36","['Jamari Lattimore']","Probable: Concussion","week_6","New York Jets",2015
+"37","['Buster Skrine']","Probable: Concussion","week_7","New York Jets",2015
+"38","['Darrelle Revis']","Out: Concussion","week_12","New York Jets",2015
+"39","['Darrelle Revis']","Out: Concussion","week_13","New York Jets",2015
+"40","['Darrelle Revis']","Probable: Concussion","week_14","New York Jets",2015
+"41","['Carlos Thompson']","Out: Concussion","week_1","Houston Texans",2015
+"42","['Carlos Thompson']","Probable: Concussion","week_2","Houston Texans",2015
+"43","['DeAndre Hopkins']","Probable: Concussion","week_3","Houston Texans",2015
+"44","['Benardrick McKinney']","Out: Concussion","week_7","Houston Texans",2015
+"45","['Benardrick McKinney']","Out: Concussion","week_8","Houston Texans",2015
+"46","['Duane Brown']","Probable: Concussion","week_10","Houston Texans",2015
+"47","['Kurtis Drummond']","Probable: Concussion","week_10","Houston Texans",2015
+"48","['Benardrick McKinney']","Probable: Concussion","week_10","Houston Texans",2015
+"49","['Brian Hoyer']","Out: Concussion","week_11","Houston Texans",2015
+"50","['A.J. Bouye']","Probable: Concussion","week_12","Houston Texans",2015
+"51","['Brian Hoyer']","Probable: Concussion","week_12","Houston Texans",2015
+"52","['Brian Hoyer']","Out: Concussion","week_15","Houston Texans",2015
+"53","['Brian Hoyer']","Questionable: Concussion","week_16","Houston Texans",2015
+"54","['Brian Hoyer']","Probable: Concussion","week_17","Houston Texans",2015
+"55","['Sheldon Price']","Probable: Concussion","week_1","Indianapolis Colts",2015
+"56","['Vontae Davis']","Questionable: Concussion","week_3","Indianapolis Colts",2015
+"57","['Tyler Varga']","Injured Reserve: Concussion","week_4","Indianapolis Colts",2015
+"58","['Tyler Varga']","Injured Reserve: Concussion","week_5","Indianapolis Colts",2015
+"59","['Tyler Varga']","Injured Reserve: Concussion","week_6","Indianapolis Colts",2015
+"60","['Tyler Varga']","Injured Reserve: Concussion","week_7","Indianapolis Colts",2015
+"61","['Tyler Varga']","Injured Reserve: Concussion","week_8","Indianapolis Colts",2015
+"62","['Tyler Varga']","Injured Reserve: Concussion","week_9","Indianapolis Colts",2015
+"63","['Tyler Varga']","Injured Reserve: Concussion","week_11","Indianapolis Colts",2015
+"64","['Tyler Varga']","Injured Reserve: Concussion","week_12","Indianapolis Colts",2015
+"65","['Tyler Varga']","Injured Reserve: Concussion","week_13","Indianapolis Colts",2015
+"66","['Tyler Varga']","Injured Reserve: Concussion","week_14","Indianapolis Colts",2015
+"67","['Tyler Varga']","Injured Reserve: Concussion","week_15","Indianapolis Colts",2015
+"68","['Tyler Varga']","Injured Reserve: Concussion","week_16","Indianapolis Colts",2015
+"69","['Trent Cole']","Out: Concussion","week_17","Indianapolis Colts",2015
+"70","['Tyler Varga']","Injured Reserve: Concussion","week_17","Indianapolis Colts",2015
+"71","['Anthony Fasano']","Questionable: Concussion","week_6","Tennessee Titans",2015
+"72","['Andy Gallik']","Questionable: Concussion","week_8","Tennessee Titans",2015
+"73","['Taylor Lewan']","Out: Concussion","week_17","Tennessee Titans",2015
+"74","['John Lotulelei']","Out: Concussion","week_5","Jacksonville Jaguars",2015
+"75","['Bernard Pierce']","Out: Concussion","week_6","Jacksonville Jaguars",2015
+"76","['Bryan Walters']","Questionable: Concussion","week_11","Jacksonville Jaguars",2015
+"77","['Josh Evans']","Probable: Concussion","week_13","Jacksonville Jaguars",2015
+"78","['Allen Hurns']","Out: Concussion","week_13","Jacksonville Jaguars",2015
+"79","['Eugene Monroe']","Out: Concussion","week_2","Baltimore Ravens",2015
+"80","['Eugene Monroe']","Out: Concussion","week_4","Baltimore Ravens",2015
+"81","['Eugene Monroe']","Probable: Concussion","week_5","Baltimore Ravens",2015
+"82","['Darren Waller']","Out: Concussion","week_6","Baltimore Ravens",2015
+"83","['Darren Waller']","Probable: Concussion","week_7","Baltimore Ravens",2015
+"84","['Tray Walker']","Out: Concussion","week_8","Baltimore Ravens",2015
+"85","['Tray Walker']","Probable: Concussion","week_10","Baltimore Ravens",2015
+"86","['Maxx Williams']","Out: Concussion","week_13","Baltimore Ravens",2015
+"87","['Maxx Williams']","Probable: Concussion","week_14","Baltimore Ravens",2015
+"88","['Landry Jones']","Out: Concussion","week_1","Pittsburgh Steelers",2015
+"89","['Will Allen']","Probable: Concussion","week_2","Pittsburgh Steelers",2015
+"90","['Landry Jones']","Probable: Concussion","week_2","Pittsburgh Steelers",2015
+"91","['Mike Mitchell']","Probable: Concussion","week_9","Pittsburgh Steelers",2015
+"92","['Ben Roethlisberger']","Probable: Concussion","week_13","Pittsburgh Steelers",2015
+"93","['Ryan Shazier']","Probable: Concussion","week_13","Pittsburgh Steelers",2015
+"94","['William Gay']","Probable: Concussion","week_14","Pittsburgh Steelers",2015
+"95","['Antonio Brown']","Out: concussion","week_19","Pittsburgh Steelers",2015
+"96","['Pierre Desir']","Probable: Concussion","week_1","Cleveland Browns",2015
+"97","['Josh McCown']","Out: Concussion","week_2","Cleveland Browns",2015
+"98","['Josh McCown']","Probable: Concussion","week_3","Cleveland Browns",2015
+"99","[""K'Waun Williams""]","Out: Concussion","week_3","Cleveland Browns",2015
+"100","[""K'Waun Williams""]","Out: Concussion","week_4","Cleveland Browns",2015
+"101","[""K'Waun Williams""]","Probable: Concussion","week_5","Cleveland Browns",2015
+"102","['Joe Haden']","Out: Concussion","week_6","Cleveland Browns",2015
+"103","['Joe Haden']","Out: Concussion","week_7","Cleveland Browns",2015
+"104","['Joe Haden']","Probable: Concussion","week_8","Cleveland Browns",2015
+"105","['Andrew Hawkins']","Out: Concussion","week_8","Cleveland Browns",2015
+"106","['Joe Haden']","Injured Reserve: Concussion","week_9","Cleveland Browns",2015
+"107","['Brian Hartline']","Out: Concussion","week_9","Cleveland Browns",2015
+"108","['Andrew Hawkins']","Out: Concussion","week_9","Cleveland Browns",2015
+"109","['Donte Whitner']","Out: Concussion","week_9","Cleveland Browns",2015
+"110","['Joe Haden']","Injured Reserve: Concussion","week_10","Cleveland Browns",2015
+"111","['Brian Hartline']","Probable: Concussion","week_10","Cleveland Browns",2015
+"112","['Andrew Hawkins']","Probable: Concussion","week_10","Cleveland Browns",2015
+"113","['Donte Whitner']","Out: Concussion","week_10","Cleveland Browns",2015
+"114","['Taylor Gabriel']","Out: Concussion","week_12","Cleveland Browns",2015
+"115","['Joe Haden']","Injured Reserve: Concussion","week_12","Cleveland Browns",2015
+"116","['Andrew Hawkins']","Injured Reserve: Concussion","week_12","Cleveland Browns",2015
+"117","['Donte Whitner']","Probable: Concussion","week_12","Cleveland Browns",2015
+"118","['Taylor Gabriel']","Out: Concussion","week_13","Cleveland Browns",2015
+"119","['Justin Gilbert']","Out: Concussion","week_13","Cleveland Browns",2015
+"120","['Joe Haden']","Injured Reserve: Concussion","week_13","Cleveland Browns",2015
+"121","['Andrew Hawkins']","Injured Reserve: Concussion","week_13","Cleveland Browns",2015
+"122","['Taylor Gabriel']","Questionable: Concussion","week_14","Cleveland Browns",2015
+"123","['Justin Gilbert']","Out: Concussion","week_14","Cleveland Browns",2015
+"124","['Joe Haden']","Injured Reserve: Concussion","week_14","Cleveland Browns",2015
+"125","['Andrew Hawkins']","Injured Reserve: Concussion","week_14","Cleveland Browns",2015
+"126","['Justin Gilbert']","Questionable: Concussion","week_15","Cleveland Browns",2015
+"127","['Joe Haden']","Injured Reserve: Concussion","week_15","Cleveland Browns",2015
+"128","['Andrew Hawkins']","Injured Reserve: Concussion","week_15","Cleveland Browns",2015
+"129","['Glenn Winston']","Out: Concussion","week_15","Cleveland Browns",2015
+"130","['Joe Haden']","Injured Reserve: Concussion","week_16","Cleveland Browns",2015
+"131","['Andrew Hawkins']","Injured Reserve: Concussion","week_16","Cleveland Browns",2015
+"132","['Glenn Winston']","Out: Concussion","week_16","Cleveland Browns",2015
+"133","['Joe Haden']","Injured Reserve: Concussion","week_17","Cleveland Browns",2015
+"134","['Andrew Hawkins']","Injured Reserve: Concussion","week_17","Cleveland Browns",2015
+"135","['Johnny Manziel']","Out: Concussion","week_17","Cleveland Browns",2015
+"136","['Marlon Moore']","Out: Concussion","week_17","Cleveland Browns",2015
+"137","['Tramon Williams']","Out: Concussion","week_17","Cleveland Browns",2015
+"138","['Glenn Winston']","Out: Concussion","week_17","Cleveland Browns",2015
+"139","['Andre Smith']","Out: Concussion","week_9","Cincinnati Bengals",2015
+"140","['Andre Smith']","Out: Concussion","week_10","Cincinnati Bengals",2015
+"141","['Andre Smith']","Probable: Concussion","week_11","Cincinnati Bengals",2015
+"142","['Jake Fisher']","Doubtful: Concussion","week_14","Cincinnati Bengals",2015
+"143","['Tyler Eifert']","Out: Concussion","week_15","Cincinnati Bengals",2015
+"144","['Jake Fisher']","Out: Concussion","week_15","Cincinnati Bengals",2015
+"145","['Tyler Eifert']","Out: Concussion","week_16","Cincinnati Bengals",2015
+"146","['Jake Fisher']","Probable: Concussion","week_16","Cincinnati Bengals",2015
+"147","['Tyler Eifert']","Probable: Concussion","week_17","Cincinnati Bengals",2015
+"148","['Leon Hall']","Probable: concussion, back","week_18","Cincinnati Bengals",2015
+"149","['Mike DeVito']","Out: Concussion","week_7","Kansas City Chiefs",2015
+"150","['Jeremy Maclin']","Questionable: Concussion","week_7","Kansas City Chiefs",2015
+"151","['Mike DeVito']","Out: Concussion","week_8","Kansas City Chiefs",2015
+"152","['Jeremy Maclin']","Probable: Concussion","week_8","Kansas City Chiefs",2015
+"153","['Mike DeVito']","Probable: Concussion","week_10","Kansas City Chiefs",2015
+"154","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_12","Kansas City Chiefs",2015
+"155","['Mitch Morse']","Out: Concussion","week_13","Kansas City Chiefs",2015
+"156","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_13","Kansas City Chiefs",2015
+"157","['Husain Abdullah']","Out: Concussion","week_14","Kansas City Chiefs",2015
+"158","['Mike DeVito']","Out: Concussion","week_14","Kansas City Chiefs",2015
+"159","['Mitch Morse']","Probable: Concussion","week_14","Kansas City Chiefs",2015
+"160","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_14","Kansas City Chiefs",2015
+"161","['Husain Abdullah']","Out: Concussion","week_15","Kansas City Chiefs",2015
+"162","['Mike DeVito']","Probable: Concussion","week_15","Kansas City Chiefs",2015
+"163","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_15","Kansas City Chiefs",2015
+"164","['Husain Abdullah']","Out: Concussion","week_16","Kansas City Chiefs",2015
+"165","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_16","Kansas City Chiefs",2015
+"166","['Husain Abdullah']","Questionable: Concussion","week_17","Kansas City Chiefs",2015
+"167","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_17","Kansas City Chiefs",2015
+"168","['Husain Abdullah']","Questionable: concussion","week_18","Kansas City Chiefs",2015
+"169","['Dee Ford']","Questionable: concussion, wrist","week_18","Kansas City Chiefs",2015
+"170","['Mitch Morse']","Out: concussion","week_18","Kansas City Chiefs",2015
+"171","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_18","Kansas City Chiefs",2015
+"172","['Mitch Morse']","Out: concussion","week_19","Kansas City Chiefs",2015
+"173","[""De'Anthony Thomas""]","Injured Reserve: Concussion","week_19","Kansas City Chiefs",2015
+"174","['Ladarius Green']","Questionable: Concussion","week_1","Los Angeles Chargers",2015
+"175","['Ladarius Green']","Questionable: Concussion","week_3","Los Angeles Chargers",2015
+"176","['King Dunlap']","Doubtful: Concussion","week_4","Los Angeles Chargers",2015
+"177","['Ladarius Green']","Questionable: Concussion","week_4","Los Angeles Chargers",2015
+"178","['King Dunlap']","Doubtful: Concussion","week_5","Los Angeles Chargers",2015
+"179","['Brandon Flowers']","Questionable: Concussion","week_5","Los Angeles Chargers",2015
+"180","['Malcom Floyd']","Questionable: Concussion","week_5","Los Angeles Chargers",2015
+"181","['King Dunlap']","Out: Concussion","week_6","Los Angeles Chargers",2015
+"182","['King Dunlap']","Questionable: Concussion","week_7","Los Angeles Chargers",2015
+"183","['Patrick Robinson']","Questionable: Concussion","week_9","Los Angeles Chargers",2015
+"184","['Kyle Emanuel']","Probable: Concussion","week_11","Los Angeles Chargers",2015
+"185","['D.J. Fluker']","Questionable: Concussion","week_11","Los Angeles Chargers",2015
+"186","['Jahleel Addae']","Probable: Concussion","week_12","Los Angeles Chargers",2015
+"187","['D.J. Fluker']","Out: Concussion","week_12","Los Angeles Chargers",2015
+"188","['Sean Lissemore']","Questionable: Concussion","week_12","Los Angeles Chargers",2015
+"189","['D.J. Fluker']","Out: Concussion","week_13","Los Angeles Chargers",2015
+"190","['D.J. Fluker']","Questionable: Concussion","week_14","Los Angeles Chargers",2015
+"191","['Steve Williams']","Probable: Concussion","week_14","Los Angeles Chargers",2015
+"192","['D.J. Fluker']","Probable: Concussion","week_15","Los Angeles Chargers",2015
+"193","['Kyle Emanuel']","Out: Concussion","week_16","Los Angeles Chargers",2015
+"194","['Kyle Emanuel']","Probable: Concussion","week_17","Los Angeles Chargers",2015
+"195","['Orlando Franklin']","Out: Concussion","week_17","Los Angeles Chargers",2015
+"196","['Trevor Robinson']","Questionable: Concussion","week_17","Los Angeles Chargers",2015
+"197","['Vernon Davis']","Questionable: Concussion","week_14","Denver Broncos",2015
+"198","['Danny Trevathan']","Out: Concussion","week_14","Denver Broncos",2015
+"199","['Danny Trevathan']","Probable: Concussion","week_15","Denver Broncos",2015
+"200","['Denico Autry']","Out: Concussion","week_5","Oakland Raiders",2015
+"201","['Denico Autry']","Out: Concussion","week_7","Oakland Raiders",2015
+"202","['Denico Autry']","Probable: Concussion","week_8","Oakland Raiders",2015
+"203","['Latavius Murray']","Probable: Concussion","week_10","Oakland Raiders",2015
+"204","['Brandon Weeden']","Probable: Concussion","week_1","Dallas Cowboys",2015
+"205","['Jeremy Mincey']","Out: Concussion","week_3","Dallas Cowboys",2015
+"206","['Jeremy Mincey']","Probable: Concussion","week_4","Dallas Cowboys",2015
+"207","['Sean Lee']","Probable: Concussion","week_5","Dallas Cowboys",2015
+"208","['Sean Lee']","Out: Concussion","week_10","Dallas Cowboys",2015
+"209","['Sean Lee']","Probable: Concussion","week_11","Dallas Cowboys",2015
+"210","['Rolando McClain']","Out: Concussion","week_15","Dallas Cowboys",2015
+"211","['Rolando McClain']","Probable: Concussion","week_16","Dallas Cowboys",2015
+"212","['Devin Street']","Probable: Concussion","week_17","Dallas Cowboys",2015
+"213","['Seyi Ajirotutu']","Out: Concussion","week_2","Philadelphia Eagles",2015
+"214","['Josh Andrews']","Out: Concussion","week_10","Philadelphia Eagles",2015
+"215","['Malcolm Jenkins']","Probable: Concussion","week_10","Philadelphia Eagles",2015
+"216","['Josh Andrews']","Probable: Concussion","week_11","Philadelphia Eagles",2015
+"217","['Sam Bradford']","Out: Concussion","week_11","Philadelphia Eagles",2015
+"218","['Ryan Mathews']","Out: Concussion","week_11","Philadelphia Eagles",2015
+"219","['Sam Bradford']","Questionable: Concussion","week_12","Philadelphia Eagles",2015
+"220","['Zach Ertz']","Out: Concussion","week_12","Philadelphia Eagles",2015
+"221","['Ryan Mathews']","Out: Concussion","week_12","Philadelphia Eagles",2015
+"222","['Zach Ertz']","Probable: Concussion","week_13","Philadelphia Eagles",2015
+"223","['Josh Huff']","Probable: Concussion","week_13","Philadelphia Eagles",2015
+"224","['Ryan Mathews']","Out: Concussion","week_13","Philadelphia Eagles",2015
+"225","['Ryan Mathews']","Probable: Concussion","week_14","Philadelphia Eagles",2015
+"226","['Eric Rowe']","Probable: Concussion","week_16","Philadelphia Eagles",2015
+"227","['Robert Griffin']","Probable: Concussion","week_1","Washington Redskins",2015
+"228","['Martrell Spaight']","Injured Reserve: Concussion","week_2","Washington Redskins",2015
+"229","['Martrell Spaight']","Injured Reserve: Concussion","week_3","Washington Redskins",2015
+"230","['Martrell Spaight']","Injured Reserve: Concussion","week_4","Washington Redskins",2015
+"231","['Jordan Reed']","Out: Concussion","week_5","Washington Redskins",2015
+"232","['Martrell Spaight']","Injured Reserve: Concussion","week_5","Washington Redskins",2015
+"233","['Jordan Reed']","Out: Concussion","week_6","Washington Redskins",2015
+"234","['Martrell Spaight']","Injured Reserve: Concussion","week_6","Washington Redskins",2015
+"235","['Jordan Reed']","Questionable: Concussion","week_7","Washington Redskins",2015
+"236","['Martrell Spaight']","Injured Reserve: Concussion","week_7","Washington Redskins",2015
+"237","['Trent Williams']","Questionable: Concussion","week_7","Washington Redskins",2015
+"238","['Martrell Spaight']","Injured Reserve: Concussion","week_9","Washington Redskins",2015
+"239","['Martrell Spaight']","Injured Reserve: Concussion","week_10","Washington Redskins",2015
+"240","['Martrell Spaight']","Injured Reserve: Concussion","week_11","Washington Redskins",2015
+"241","['Martrell Spaight']","Injured Reserve: Concussion","week_12","Washington Redskins",2015
+"242","['Martrell Spaight']","Injured Reserve: Concussion","week_13","Washington Redskins",2015
+"243","['Martrell Spaight']","Injured Reserve: Concussion","week_14","Washington Redskins",2015
+"244","['Martrell Spaight']","Injured Reserve: Concussion","week_15","Washington Redskins",2015
+"245","['Martrell Spaight']","Injured Reserve: Concussion","week_16","Washington Redskins",2015
+"246","['Martrell Spaight']","Injured Reserve: Concussion","week_17","Washington Redskins",2015
+"247","['Martrell Spaight']","Injured Reserve: Concussion","week_18","Washington Redskins",2015
+"248","['Dominique Rodgers-Cromartie']","Out: Concussion","week_3","New York Giants",2015
+"249","['Dominique Rodgers-Cromartie']","Probable: Concussion","week_4","New York Giants",2015
+"250","['Jayron Hosley']","Questionable: Concussion","week_5","New York Giants",2015
+"251","['Jon Beason']","Questionable: Concussion","week_6","New York Giants",2015
+"252","['Trevin Wade']","Probable: Concussion","week_7","New York Giants",2015
+"253","['Justin Pugh']","Out: Concussion","week_12","New York Giants",2015
+"254","['Justin Pugh']","Probable: Concussion","week_13","New York Giants",2015
+"255","['George Selvie']","Out: Concussion","week_15","New York Giants",2015
+"256","['George Selvie']","Probable: Concussion","week_16","New York Giants",2015
+"257","['Cooper Taylor']","Out: Concussion","week_16","New York Giants",2015
+"258","['Craig Dahl']","Out: Concussion","week_17","New York Giants",2015
+"259","['Marshall Newhouse']","Out: Concussion","week_17","New York Giants",2015
+"260","['Cooper Taylor']","Out: Concussion","week_17","New York Giants",2015
+"261","['Damian Swann']","Out: Concussion","week_6","New Orleans Saints",2015
+"262","['Damian Swann']","Out: Concussion","week_7","New Orleans Saints",2015
+"263","['Damian Swann']","Probable: Concussion","week_8","New Orleans Saints",2015
+"264","['Damian Swann']","Out: Concussion","week_9","New Orleans Saints",2015
+"265","['Damian Swann']","Out: Concussion","week_10","New Orleans Saints",2015
+"266","['Damian Swann']","Out: Concussion","week_12","New Orleans Saints",2015
+"267","['John Jenkins']","Out: Concussion","week_13","New Orleans Saints",2015
+"268","['Damian Swann']","Probable: Concussion","week_13","New Orleans Saints",2015
+"269","['Brandin Cooks']","Probable: Concussion","week_14","New Orleans Saints",2015
+"270","['John Jenkins']","Out: Concussion","week_14","New Orleans Saints",2015
+"271","['John Jenkins']","Probable: Concussion","week_15","New Orleans Saints",2015
+"272","['Damian Swann']","Injured Reserve: Concussion","week_15","New Orleans Saints",2015
+"273","['Damian Swann']","Injured Reserve: Concussion","week_16","New Orleans Saints",2015
+"274","['Josh Hill']","Probable: Concussion","week_17","New Orleans Saints",2015
+"275","['Andrus Peat']","Out: Concussion","week_17","New Orleans Saints",2015
+"276","['Damian Swann']","Injured Reserve: Concussion","week_17","New Orleans Saints",2015
+"277","['Jacob Tamme']","Out: Concussion","week_4","Atlanta Falcons",2015
+"278","['Jacob Tamme']","Probable: Concussion","week_5","Atlanta Falcons",2015
+"279","['Paul Soliai']","Probable: Concussion","week_11","Atlanta Falcons",2015
+"280","['Devonta Freeman']","Out: Concussion","week_12","Atlanta Falcons",2015
+"281","['Devonta Freeman']","Probable: Concussion","week_13","Atlanta Falcons",2015
+"282","['Tevin Coleman']","Out: Concussion","week_16","Atlanta Falcons",2015
+"283","['Tevin Coleman']","Out: Concussion","week_17","Atlanta Falcons",2015
+"284","['Eric Weems']","Probable: Concussion","week_17","Atlanta Falcons",2015
+"285","['Josh Norman']","Probable: Concussion","week_1","Carolina Panthers",2015
+"286","['Luke Kuechly']","Doubtful: Concussion","week_2","Carolina Panthers",2015
+"287","['Luke Kuechly']","Doubtful: Concussion","week_3","Carolina Panthers",2015
+"288","['Luke Kuechly']","Out: Concussion","week_4","Carolina Panthers",2015
+"289","['A.J. Klein']","Out: Concussion","week_6","Carolina Panthers",2015
+"290","['Luke Kuechly']","Probable: Concussion","week_6","Carolina Panthers",2015
+"291","['A.J. Klein']","Probable: Concussion","week_7","Carolina Panthers",2015
+"292","['Teddy Williams']","Probable: Concussion","week_7","Carolina Panthers",2015
+"293","['Kyle Love']","Questionable: Concussion","week_16","Carolina Panthers",2015
+"294","['Reid Fragel']","Out: Concussion","week_7","Tampa Bay Buccaneers",2015
+"295","['Reid Fragel']","Out: Concussion","week_8","Tampa Bay Buccaneers",2015
+"296","['Bradley McDougald']","Questionable: Concussion","week_10","Tampa Bay Buccaneers",2015
+"297","['Keith Tandy']","Out: Concussion","week_12","Tampa Bay Buccaneers",2015
+"298","['Bruce Carter']","Doubtful: Concussion","week_13","Tampa Bay Buccaneers",2015
+"299","['Keith Tandy']","Probable: Concussion","week_13","Tampa Bay Buccaneers",2015
+"300","['Bruce Carter']","Probable: Concussion","week_14","Tampa Bay Buccaneers",2015
+"301","['William Gholston']","Probable: Concussion","week_14","Tampa Bay Buccaneers",2015
+"302","['Jimmy Clausen']","Probable: Concussion","week_1","Chicago Bears",2015
+"303","['Eddie Goldman']","Probable: Concussion","week_1","Chicago Bears",2015
+"304","['Jermon Bushrod']","Out: Concussion","week_4","Chicago Bears",2015
+"305","['Jermon Bushrod']","Out: Concussion","week_5","Chicago Bears",2015
+"306","['Bryce Callahan']","Questionable: Concussion","week_9","Chicago Bears",2015
+"307","[""Ka'Deem Carey""]","Out: Concussion","week_12","Chicago Bears",2015
+"308","[""Ka'Deem Carey""]","Probable: Concussion","week_13","Chicago Bears",2015
+"309","['Sherrick McManis']","Questionable: Concussion","week_15","Chicago Bears",2015
+"310","['Shea McClellin']","Doubtful: Concussion","week_16","Chicago Bears",2015
+"311","['Shea McClellin']","Questionable: Concussion","week_17","Chicago Bears",2015
+"312","['Brandon Fusco']","Questionable: Concussion","week_3","Minnesota Vikings",2015
+"313","['Xavier Rhodes']","Probable: Concussion","week_4","Minnesota Vikings",2015
+"314","['Rhett Ellison']","Out: Concussion","week_8","Minnesota Vikings",2015
+"315","['Jarius Wright']","Probable: Concussion","week_8","Minnesota Vikings",2015
+"316","['Rhett Ellison']","Probable: Concussion","week_9","Minnesota Vikings",2015
+"317","['Teddy Bridgewater']","Questionable: Concussion","week_10","Minnesota Vikings",2015
+"318","['Terence Newman']","Probable: Concussion","week_10","Minnesota Vikings",2015
+"319","['Tom Johnson']","Probable: Concussion","week_11","Minnesota Vikings",2015
+"320","['Scott Crichton']","Injured Reserve: Concussion","week_15","Minnesota Vikings",2015
+"321","['Scott Crichton']","Injured Reserve: Concussion","week_16","Minnesota Vikings",2015
+"322","['Josh Robinson']","Probable: Concussion","week_16","Minnesota Vikings",2015
+"323","['Scott Crichton']","Injured Reserve: Concussion","week_17","Minnesota Vikings",2015
+"324","['Scott Crichton']","Injured Reserve: Concussion","week_18","Minnesota Vikings",2015
+"325","['Casey Hayward']","Probable: Concussion","week_10","Green Bay Packers",2015
+"326","['Sam Shields']","Out: Concussion","week_15","Green Bay Packers",2015
+"327","['Sam Shields']","Doubtful: Concussion","week_16","Green Bay Packers",2015
+"328","['B.J. Raji']","Questionable: Concussion","week_17","Green Bay Packers",2015
+"329","['Sam Shields']","Questionable: Concussion","week_17","Green Bay Packers",2015
+"330","['Sam Shields']","Doubtful: concussion","week_18","Green Bay Packers",2015
+"331","['Sam Shields']","Questionable: concussion","week_19","Green Bay Packers",2015
+"332","['Josh Wilson']","Questionable: Concussion","week_7","Detroit Lions",2015
+"333","['Rashean Mathis']","Injured Reserve: Concussion","week_8","Detroit Lions",2015
+"334","['Rashean Mathis']","Out: Concussion","week_10","Detroit Lions",2015
+"335","['Nevin Lawson']","Questionable: Concussion","week_11","Detroit Lions",2015
+"336","['Rashean Mathis']","Injured Reserve: Concussion","week_11","Detroit Lions",2015
+"337","['Rashean Mathis']","Injured Reserve: Concussion","week_12","Detroit Lions",2015
+"338","['Rashean Mathis']","Injured Reserve: Concussion","week_13","Detroit Lions",2015
+"339","['Larry Warford']","Questionable: Concussion","week_13","Detroit Lions",2015
+"340","['Rashean Mathis']","Injured Reserve: Concussion","week_14","Detroit Lions",2015
+"341","['Rashean Mathis']","Injured Reserve: Concussion","week_15","Detroit Lions",2015
+"342","['Rashean Mathis']","Injured Reserve: Concussion","week_16","Detroit Lions",2015
+"343","['Glover Quin']","Questionable: Concussion","week_16","Detroit Lions",2015
+"344","['Rashean Mathis']","Injured Reserve: Concussion","week_17","Detroit Lions",2015
+"345","['Trumaine Johnson']","Probable: Concussion","week_2","Los Angeles Rams",2015
+"346","['Janoris Jenkins']","Probable: Concussion","week_7","Los Angeles Rams",2015
+"347","['Tim Barnes']","Probable: Concussion","week_11","Los Angeles Rams",2015
+"348","['Case Keenum']","Questionable: Concussion","week_12","Los Angeles Rams",2015
+"349","['Case Keenum']","Questionable: Concussion","week_13","Los Angeles Rams",2015
+"350","['Janoris Jenkins']","Doubtful: Concussion","week_14","Los Angeles Rams",2015
+"351","['Case Keenum']","Probable: Concussion","week_14","Los Angeles Rams",2015
+"352","['Lance Kendricks']","Probable: Concussion","week_14","Los Angeles Rams",2015
+"353","['Janoris Jenkins']","Probable: Concussion","week_15","Los Angeles Rams",2015
+"354","['Mark Barron']","Probable: Concussion","week_17","Los Angeles Rams",2015
+"355","['Nick Fairley']","Injured Reserve: Concussion","week_17","Los Angeles Rams",2015
+"356","['Ethan Westbrooks']","Probable: Concussion","week_17","Los Angeles Rams",2015
+"357","['Derrick Coleman']","Out: Concussion","week_7","Seattle Seahawks",2015
+"358","['Derrick Coleman']","Probable: Concussion","week_8","Seattle Seahawks",2015
+"359","['Demarcus Dobbs']","Out: Concussion","week_13","Seattle Seahawks",2015
+"360","['Will Tukuafu']","Questionable: Concussion","week_13","Seattle Seahawks",2015
+"361","['Demarcus Dobbs']","Out: Concussion","week_14","Seattle Seahawks",2015
+"362","['Demarcus Dobbs']","Probable: Concussion","week_15","Seattle Seahawks",2015
+"363","['J.R. Sweezy']","Out: Concussion","week_17","Seattle Seahawks",2015
+"364","['Luke Willson']","Out: Concussion","week_17","Seattle Seahawks",2015
+"365","['J.R. Sweezy']","Probable: concussion","week_18","Seattle Seahawks",2015
+"366","['Luke Willson']","Out: concussion","week_18","Seattle Seahawks",2015
+"367","['Luke Willson']","Probable: concussion","week_19","Seattle Seahawks",2015
+"368","['Quinton Patton']","Questionable: Concussion","week_5","San Francisco 49ers",2015
+"369","['Garrett Celek']","Questionable: Concussion","week_9","San Francisco 49ers",2015
+"370","['Kenneth Acker']","Probable: Concussion","week_11","San Francisco 49ers",2015
+"371","['Ahmad Brooks']","Questionable: Concussion","week_12","San Francisco 49ers",2015
+"372","['Aaron Lynch']","Questionable: Concussion","week_14","San Francisco 49ers",2015
+"373","['Vance McDonald']","Out: Concussion","week_14","San Francisco 49ers",2015
+"374","['Kendall Gaskins']","Probable: Concussion","week_15","San Francisco 49ers",2015
+"375","['Aaron Lynch']","Questionable: Concussion","week_15","San Francisco 49ers",2015
+"376","['Vance McDonald']","Probable: Concussion","week_15","San Francisco 49ers",2015
+"377","['Aaron Lynch']","Probable: Concussion","week_16","San Francisco 49ers",2015
+"378","['Marcus Martin']","Out: Concussion","week_16","San Francisco 49ers",2015
+"379","['Marcus Martin']","Doubtful: Concussion","week_17","San Francisco 49ers",2015
+"380","['Deone Bucannon']","Questionable: Concussion","week_12","Arizona Cardinals",2015
+"381","['Brittan Golden']","Probable: Concussion","week_15","Arizona Cardinals",2015

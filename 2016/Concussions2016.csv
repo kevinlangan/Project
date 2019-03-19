@@ -1,0 +1,427 @@
+,name,injury,week,team,year
+1,['Shea McClellin'],Out: concussion,week_5,New England Patriots,2016
+2,['Shea McClellin'],Questionable: concussion,week_6,New England Patriots,2016
+3,['Shea McClellin'],Questionable: concussion,week_7,New England Patriots,2016
+4,['Nate Ebner'],Questionable: concussion,week_13,New England Patriots,2016
+5,['Mario Williams'],Questionable: concussion,week_2,Miami Dolphins,2016
+6,['Jordan Cameron'],Injured Reserve: Concussion,week_4,Miami Dolphins,2016
+7,['Jordan Cameron'],Injured Reserve: Concussion,week_5,Miami Dolphins,2016
+8,['Jordan Cameron'],Injured Reserve: Concussion,week_6,Miami Dolphins,2016
+9,['Jordan Cameron'],Injured Reserve: Concussion,week_7,Miami Dolphins,2016
+10,['Jordan Cameron'],Injured Reserve: Concussion,week_9,Miami Dolphins,2016
+11,['Jordan Cameron'],Injured Reserve: Concussion,week_10,Miami Dolphins,2016
+12,['Jordan Cameron'],Injured Reserve: Concussion,week_11,Miami Dolphins,2016
+13,['Jordan Cameron'],Injured Reserve: Concussion,week_12,Miami Dolphins,2016
+14,['Jordan Cameron'],Injured Reserve: Concussion,week_13,Miami Dolphins,2016
+15,['Jordan Cameron'],Injured Reserve: Concussion,week_14,Miami Dolphins,2016
+16,['Jordan Cameron'],Injured Reserve: Concussion,week_15,Miami Dolphins,2016
+17,['Jordan Cameron'],Injured Reserve: Concussion,week_16,Miami Dolphins,2016
+18,['Jordan Cameron'],Injured Reserve: Concussion,week_17,Miami Dolphins,2016
+19,['Jordan Cameron'],Injured Reserve: Concussion,week_18,Miami Dolphins,2016
+20,['James Wilder'],Injured Reserve: Concussion,week_1,Buffalo Bills,2016
+21,['James Wilder'],Injured Reserve: Concussion,week_2,Buffalo Bills,2016
+22,['James Wilder'],Injured Reserve: Concussion,week_3,Buffalo Bills,2016
+23,['James Wilder'],Injured Reserve: Concussion,week_4,Buffalo Bills,2016
+24,['James Wilder'],Injured Reserve: Concussion,week_5,Buffalo Bills,2016
+25,['James Wilder'],Injured Reserve: Concussion,week_6,Buffalo Bills,2016
+26,['James Wilder'],Injured Reserve: Concussion,week_7,Buffalo Bills,2016
+27,['James Wilder'],Injured Reserve: Concussion,week_8,Buffalo Bills,2016
+28,['Brandon Tate'],Out: concussion,week_9,Buffalo Bills,2016
+29,['James Wilder'],Injured Reserve: Concussion,week_9,Buffalo Bills,2016
+30,['James Wilder'],Injured Reserve: Concussion,week_11,Buffalo Bills,2016
+31,['James Wilder'],Injured Reserve: Concussion,week_12,Buffalo Bills,2016
+32,['Ronald Darby'],Out: concussion,week_13,Buffalo Bills,2016
+33,['James Wilder'],Injured Reserve: Concussion,week_13,Buffalo Bills,2016
+34,['James Wilder'],Injured Reserve: Concussion,week_14,Buffalo Bills,2016
+35,['James Wilder'],Injured Reserve: Concussion,week_15,Buffalo Bills,2016
+36,['James Wilder'],Injured Reserve: Concussion,week_16,Buffalo Bills,2016
+37,['James Wilder'],Injured Reserve: Concussion,week_17,Buffalo Bills,2016
+38,['Brian Winters'],Out: concussion,week_5,New York Jets,2016
+39,['Josh Martin'],Out: concussion,week_10,New York Jets,2016
+40,['Jalin Marshall'],Out: concussion,week_13,New York Jets,2016
+41,['Calvin Pryor'],Out: concussion,week_13,New York Jets,2016
+42,['Antonio Allen'],Out: concussion,week_14,New York Jets,2016
+43,['Jalin Marshall'],Out: concussion,week_14,New York Jets,2016
+44,['Antonio Allen'],Injured Reserve: Concussion,week_15,New York Jets,2016
+45,['Buster Skrine'],Out: concussion,week_15,New York Jets,2016
+46,['Antonio Allen'],Injured Reserve: Concussion,week_16,New York Jets,2016
+47,['Antonio Allen'],Injured Reserve: Concussion,week_17,New York Jets,2016
+48,['Jeff Allen'],Out: concussion,week_6,Houston Texans,2016
+49,['Jeff Allen'],Out: concussion,week_15,Houston Texans,2016
+50,['C.J. Fiedorowicz'],Out: concussion,week_15,Houston Texans,2016
+51,['Tom Savage'],Out: concussion,week_18,Houston Texans,2016
+52,['Vontae Davis'],Questionable: concussion,week_9,Indianapolis Colts,2016
+53,['Joe Reitz'],Out: concussion,week_9,Indianapolis Colts,2016
+54,['Clayton Geathers'],Injured Reserve: Concussion,week_12,Indianapolis Colts,2016
+55,['Andrew Luck'],Out: concussion,week_12,Indianapolis Colts,2016
+56,['Clayton Geathers'],Injured Reserve: Concussion,week_13,Indianapolis Colts,2016
+57,['Clayton Geathers'],Injured Reserve: Concussion,week_14,Indianapolis Colts,2016
+58,['Denzelle Good'],Out: concussion,week_14,Indianapolis Colts,2016
+59,['Curt Maggitt'],Questionable: concussion,week_14,Indianapolis Colts,2016
+60,['Clayton Geathers'],Injured Reserve: Concussion,week_15,Indianapolis Colts,2016
+61,['Denzelle Good'],Out: concussion,week_15,Indianapolis Colts,2016
+62,['Clayton Geathers'],Injured Reserve: Concussion,week_16,Indianapolis Colts,2016
+63,['Darius Butler'],Out: concussion,week_17,Indianapolis Colts,2016
+64,['Clayton Geathers'],Injured Reserve: Concussion,week_17,Indianapolis Colts,2016
+65,['Phillip Supernaw'],Out: concussion,week_12,Tennessee Titans,2016
+66,['Jeff Linkenbach'],Injured Reserve: Concussion,week_1,Jacksonville Jaguars,2016
+67,['Jared Odrick'],"Questionable: jaw, concussion protocol",week_1,Jacksonville Jaguars,2016
+68,['Jeff Linkenbach'],Injured Reserve: Concussion,week_2,Jacksonville Jaguars,2016
+69,['Jeff Linkenbach'],Injured Reserve: Concussion,week_3,Jacksonville Jaguars,2016
+70,['Jeff Linkenbach'],Injured Reserve: Concussion,week_4,Jacksonville Jaguars,2016
+71,['Jeff Linkenbach'],Injured Reserve: Concussion,week_6,Jacksonville Jaguars,2016
+72,['Jeff Linkenbach'],Injured Reserve: Concussion,week_7,Jacksonville Jaguars,2016
+73,['Jeff Linkenbach'],Injured Reserve: Concussion,week_8,Jacksonville Jaguars,2016
+74,['Jeff Linkenbach'],Injured Reserve: Concussion,week_9,Jacksonville Jaguars,2016
+75,['Allen Hurns'],Questionable: concussion,week_10,Jacksonville Jaguars,2016
+76,['Jeff Linkenbach'],Injured Reserve: Concussion,week_10,Jacksonville Jaguars,2016
+77,['Bryan Walters'],Out: concussion,week_10,Jacksonville Jaguars,2016
+78,['Jeff Linkenbach'],Injured Reserve: Concussion,week_11,Jacksonville Jaguars,2016
+79,['Bryan Walters'],Questionable: concussion,week_11,Jacksonville Jaguars,2016
+80,['Arrelious Benn'],Questionable: concussion,week_12,Jacksonville Jaguars,2016
+81,['Aaron Colvin'],Questionable: concussion,week_12,Jacksonville Jaguars,2016
+82,['Jeff Linkenbach'],Injured Reserve: Concussion,week_12,Jacksonville Jaguars,2016
+83,['Jeff Linkenbach'],Injured Reserve: Concussion,week_13,Jacksonville Jaguars,2016
+84,['Jeff Linkenbach'],Injured Reserve: Concussion,week_14,Jacksonville Jaguars,2016
+85,['Jeff Linkenbach'],Injured Reserve: Concussion,week_15,Jacksonville Jaguars,2016
+86,['Arrelious Benn'],Out: concussion,week_16,Jacksonville Jaguars,2016
+87,['Jeff Linkenbach'],Injured Reserve: Concussion,week_16,Jacksonville Jaguars,2016
+88,['Neal Sterling'],Out: concussion,week_16,Jacksonville Jaguars,2016
+89,['Jeff Linkenbach'],Injured Reserve: Concussion,week_17,Jacksonville Jaguars,2016
+90,['Neal Sterling'],Questionable: concussion,week_17,Jacksonville Jaguars,2016
+91,['Kyle Arrington'],Injured Reserve: Concussion,week_1,Baltimore Ravens,2016
+92,['Kyle Arrington'],Injured Reserve: Concussion,week_2,Baltimore Ravens,2016
+93,['Kyle Arrington'],Injured Reserve: Concussion,week_3,Baltimore Ravens,2016
+94,['Kyle Arrington'],Injured Reserve: Concussion,week_4,Baltimore Ravens,2016
+95,['Alex Lewis'],Questionable: concussion,week_4,Baltimore Ravens,2016
+96,['Kyle Arrington'],Injured Reserve: Concussion,week_5,Baltimore Ravens,2016
+97,['Kyle Arrington'],Injured Reserve: Concussion,week_6,Baltimore Ravens,2016
+98,['Kyle Arrington'],Injured Reserve: Concussion,week_7,Baltimore Ravens,2016
+99,['Jimmy Smith'],Questionable: concussion,week_7,Baltimore Ravens,2016
+100,['Kyle Arrington'],Injured Reserve: Concussion,week_9,Baltimore Ravens,2016
+101,['Tavon Young'],Questionable: concussion,week_9,Baltimore Ravens,2016
+102,['Kyle Arrington'],Injured Reserve: Concussion,week_10,Baltimore Ravens,2016
+103,['Kyle Arrington'],Injured Reserve: Concussion,week_11,Baltimore Ravens,2016
+104,['Kyle Arrington'],Injured Reserve: Concussion,week_12,Baltimore Ravens,2016
+105,['Kyle Arrington'],Injured Reserve: Concussion,week_13,Baltimore Ravens,2016
+106,['Kyle Arrington'],Injured Reserve: Concussion,week_14,Baltimore Ravens,2016
+107,['Kyle Arrington'],Injured Reserve: Concussion,week_15,Baltimore Ravens,2016
+108,['Jerraud Powers'],Questionable: concussion,week_15,Baltimore Ravens,2016
+109,['Kyle Arrington'],Injured Reserve: Concussion,week_16,Baltimore Ravens,2016
+110,['Kyle Arrington'],Injured Reserve: Concussion,week_17,Baltimore Ravens,2016
+111,['Javon Hargrave'],Doubtful: concussion,week_14,Pittsburgh Steelers,2016
+112,['Shamarko Thomas'],Injured Reserve: Concussion,week_14,Pittsburgh Steelers,2016
+113,['Shamarko Thomas'],Injured Reserve: Concussion,week_15,Pittsburgh Steelers,2016
+114,['Ladarius Green'],Doubtful: concussion,week_16,Pittsburgh Steelers,2016
+115,['Shamarko Thomas'],Out: concussion,week_16,Pittsburgh Steelers,2016
+116,['Ladarius Green'],Out: concussion,week_17,Pittsburgh Steelers,2016
+117,['Shamarko Thomas'],Injured Reserve: Concussion,week_17,Pittsburgh Steelers,2016
+118,['Ladarius Green'],Questionable: concussion,week_18,Pittsburgh Steelers,2016
+119,['Shamarko Thomas'],Injured Reserve: Concussion,week_18,Pittsburgh Steelers,2016
+120,['Ladarius Green'],Doubtful: concussion,week_19,Pittsburgh Steelers,2016
+121,['Shamarko Thomas'],Injured Reserve: Concussion,week_19,Pittsburgh Steelers,2016
+122,['Fitzgerald Toussaint'],Questionable: concussion,week_19,Pittsburgh Steelers,2016
+123,['Ladarius Green'],Questionable: concussion,week_20,Pittsburgh Steelers,2016
+124,['Shamarko Thomas'],Injured Reserve: Concussion,week_20,Pittsburgh Steelers,2016
+125,['Cody Kessler'],Out: concussion,week_8,Cleveland Browns,2016
+126,['Tank Carder'],Questionable: concussion,week_9,Cleveland Browns,2016
+127,['Cody Kessler'],Out: concussion,week_12,Cleveland Browns,2016
+128,['Vontaze Burfict'],"Out: knee, concussion",week_16,Cincinnati Bengals,2016
+129,['Vontaze Burfict'],"Doubtful: knee, concussion",week_17,Cincinnati Bengals,2016
+130,['Parker Ehinger'],Out: concussion,week_2,Kansas City Chiefs,2016
+131,['Parker Ehinger'],"Out: concussion, foot",week_3,Kansas City Chiefs,2016
+132,['Spencer Ware'],Out: concussion,week_9,Kansas City Chiefs,2016
+133,['Brandon Flowers'],Out: concussion,week_4,Los Angeles Chargers,2016
+134,['Brandon Flowers'],Out: concussion,week_5,Los Angeles Chargers,2016
+135,['Brandon Flowers'],Out: concussion,week_6,Los Angeles Chargers,2016
+136,['Brandon Flowers'],Out: concussion,week_7,Los Angeles Chargers,2016
+137,['Hunter Henry'],Questionable: concussion,week_8,Los Angeles Chargers,2016
+138,['Craig Mager'],Out: concussion,week_8,Los Angeles Chargers,2016
+139,['Craig Mager'],Out: concussion,week_9,Los Angeles Chargers,2016
+140,['Orlando Franklin'],Questionable: concussion,week_10,Los Angeles Chargers,2016
+141,['Craig Mager'],Questionable: concussion,week_10,Los Angeles Chargers,2016
+142,['Asante Cleveland'],"Out: concussion, knee",week_12,Los Angeles Chargers,2016
+143,['Brandon Flowers'],Injured Reserve: Concussion,week_12,Los Angeles Chargers,2016
+144,['Asante Cleveland'],"Questionable: concussion, knee",week_13,Los Angeles Chargers,2016
+145,['Brandon Flowers'],Injured Reserve: Concussion,week_13,Los Angeles Chargers,2016
+146,['Brandon Flowers'],Injured Reserve: Concussion,week_14,Los Angeles Chargers,2016
+147,['Brandon Flowers'],Injured Reserve: Concussion,week_15,Los Angeles Chargers,2016
+148,['Brandon Flowers'],Injured Reserve: Concussion,week_16,Los Angeles Chargers,2016
+149,['Brandon Flowers'],Injured Reserve: Concussion,week_17,Los Angeles Chargers,2016
+150,['Sam Brenner'],Injured Reserve: Concussion,week_1,Denver Broncos,2016
+151,['Sam Brenner'],Injured Reserve: Concussion,week_2,Denver Broncos,2016
+152,['Sam Brenner'],Injured Reserve: Concussion,week_3,Denver Broncos,2016
+153,['Sam Brenner'],Injured Reserve: Concussion,week_4,Denver Broncos,2016
+154,['Sam Brenner'],Injured Reserve: Concussion,week_5,Denver Broncos,2016
+155,['Sam Brenner'],Injured Reserve: Concussion,week_6,Denver Broncos,2016
+156,['Sam Brenner'],Injured Reserve: Concussion,week_7,Denver Broncos,2016
+157,['Sam Brenner'],Injured Reserve: Concussion,week_8,Denver Broncos,2016
+158,['Sam Brenner'],Injured Reserve: Concussion,week_9,Denver Broncos,2016
+159,['Sam Brenner'],Injured Reserve: Concussion,week_10,Denver Broncos,2016
+160,['Sam Brenner'],Injured Reserve: Concussion,week_12,Denver Broncos,2016
+161,['Sam Brenner'],Injured Reserve: Concussion,week_13,Denver Broncos,2016
+162,['Sam Brenner'],Injured Reserve: Concussion,week_14,Denver Broncos,2016
+163,['Sam Brenner'],Injured Reserve: Concussion,week_15,Denver Broncos,2016
+164,['Sam Brenner'],Injured Reserve: Concussion,week_16,Denver Broncos,2016
+165,['A.J. Derby'],Out: concussion,week_16,Denver Broncos,2016
+166,['Virgil Green'],Out: concussion,week_16,Denver Broncos,2016
+167,['T.J. Ward'],Out: concussion,week_16,Denver Broncos,2016
+168,['Sam Brenner'],Injured Reserve: Concussion,week_17,Denver Broncos,2016
+169,['A.J. Derby'],Out: concussion,week_17,Denver Broncos,2016
+170,['T.J. Ward'],Out: concussion,week_17,Denver Broncos,2016
+171,['Kayvon Webster'],Injured Reserve: Concussion,week_17,Denver Broncos,2016
+172,['Taiwan Jones'],Questionable: concussion,week_2,Oakland Raiders,2016
+173,['David Amerson'],Questionable: concussion,week_3,Oakland Raiders,2016
+174,['Darius Latham'],Questionable: concussion,week_3,Oakland Raiders,2016
+175,['David Irving'],Out: concussion,week_5,Dallas Cowboys,2016
+176,['David Irving'],Questionable: concussion,week_6,Dallas Cowboys,2016
+177,['Anthony Brown'],Questionable: concussion,week_17,Dallas Cowboys,2016
+178,['Darren Sproles'],Out: concussion,week_15,Philadelphia Eagles,2016
+179,['Martrell Spaight'],Out: concussion,week_2,Washington Redskins,2016
+180,['Martrell Spaight'],Questionable: concussion,week_3,Washington Redskins,2016
+181,['David Bruton'],Injured Reserve: Concussion,week_5,Washington Redskins,2016
+182,"[""Su'a Cravens""]",Out: concussion,week_5,Washington Redskins,2016
+183,['David Bruton'],Injured Reserve: Concussion,week_6,Washington Redskins,2016
+184,"[""Su'a Cravens""]",Questionable: concussion,week_6,Washington Redskins,2016
+185,['Jordan Reed'],Questionable: concussion,week_6,Washington Redskins,2016
+186,['David Bruton'],Injured Reserve: Concussion,week_7,Washington Redskins,2016
+187,['Jordan Reed'],Out: concussion,week_7,Washington Redskins,2016
+188,['David Bruton'],Injured Reserve: Concussion,week_8,Washington Redskins,2016
+189,['Josh Norman'],"Questionable: concussion, wrist",week_8,Washington Redskins,2016
+190,['Jordan Reed'],Questionable: concussion,week_8,Washington Redskins,2016
+191,['David Bruton'],Injured Reserve: Concussion,week_10,Washington Redskins,2016
+192,['Duke Ihenacho'],Questionable: concussion,week_10,Washington Redskins,2016
+193,['David Bruton'],Injured Reserve: Concussion,week_11,Washington Redskins,2016
+194,['David Bruton'],Injured Reserve: Concussion,week_12,Washington Redskins,2016
+195,['David Bruton'],Injured Reserve: Concussion,week_13,Washington Redskins,2016
+196,['Will Blackmon'],"Out: concussion, thumb",week_14,Washington Redskins,2016
+197,['David Bruton'],Injured Reserve: Concussion,week_14,Washington Redskins,2016
+198,['Spencer Long'],"Out: concussion, stinger",week_14,Washington Redskins,2016
+199,['Will Blackmon'],"Questionable: concussion, thumb",week_15,Washington Redskins,2016
+200,['Mack Brown'],Questionable: concussion,week_15,Washington Redskins,2016
+201,['David Bruton'],Injured Reserve: Concussion,week_15,Washington Redskins,2016
+202,['Spencer Long'],"Questionable: concussion, stinger",week_15,Washington Redskins,2016
+203,['David Bruton'],Injured Reserve: Concussion,week_16,Washington Redskins,2016
+204,['Quinton Dunbar'],Out: concussion,week_16,Washington Redskins,2016
+205,['David Bruton'],Injured Reserve: Concussion,week_17,Washington Redskins,2016
+206,['Quinton Dunbar'],Out: concussion,week_17,Washington Redskins,2016
+207,['Byron Stingily'],Injured Reserve: Concussion,week_1,New York Giants,2016
+208,['Byron Stingily'],Injured Reserve: Concussion,week_2,New York Giants,2016
+209,['Byron Stingily'],Injured Reserve: Concussion,week_3,New York Giants,2016
+210,['Nat Berhe'],Out: concussion,week_4,New York Giants,2016
+211,['Byron Stingily'],Injured Reserve: Concussion,week_4,New York Giants,2016
+212,['Nat Berhe'],Out: concussion,week_5,New York Giants,2016
+213,['Larry Donnell'],Out: concussion,week_5,New York Giants,2016
+214,['Byron Stingily'],Injured Reserve: Concussion,week_5,New York Giants,2016
+215,['Nat Berhe'],Out: concussion,week_6,New York Giants,2016
+216,['Devon Kennard'],Questionable: concussion,week_6,New York Giants,2016
+217,['Byron Stingily'],Injured Reserve: Concussion,week_6,New York Giants,2016
+218,['Nat Berhe'],Out: concussion,week_7,New York Giants,2016
+219,['Byron Stingily'],Injured Reserve: Concussion,week_7,New York Giants,2016
+220,['Nat Berhe'],Questionable: concussion,week_9,New York Giants,2016
+221,['Byron Stingily'],Injured Reserve: Concussion,week_9,New York Giants,2016
+222,['Kerry Wynn'],Out: concussion,week_9,New York Giants,2016
+223,['Byron Stingily'],Injured Reserve: Concussion,week_10,New York Giants,2016
+224,['Kerry Wynn'],Questionable: concussion,week_10,New York Giants,2016
+225,['Byron Stingily'],Injured Reserve: Concussion,week_11,New York Giants,2016
+226,['Roger Lewis'],Questionable: concussion,week_12,New York Giants,2016
+227,['Byron Stingily'],Injured Reserve: Concussion,week_12,New York Giants,2016
+228,['Nat Berhe'],Out: concussion,week_13,New York Giants,2016
+229,['Mark Herzlich'],Out: concussion,week_13,New York Giants,2016
+230,['Byron Stingily'],Injured Reserve: Concussion,week_13,New York Giants,2016
+231,['Nat Berhe'],Out: concussion,week_14,New York Giants,2016
+232,['Mark Herzlich'],Out: concussion,week_14,New York Giants,2016
+233,['Byron Stingily'],Injured Reserve: Concussion,week_14,New York Giants,2016
+234,['Nat Berhe'],Questionable: concussion,week_15,New York Giants,2016
+235,['Byron Stingily'],Injured Reserve: Concussion,week_15,New York Giants,2016
+236,['Nat Berhe'],Out: concussion,week_16,New York Giants,2016
+237,['Byron Stingily'],Injured Reserve: Concussion,week_16,New York Giants,2016
+238,['Nat Berhe'],Out: concussion,week_17,New York Giants,2016
+239,['B.J. Goodson'],Questionable: concussion,week_17,New York Giants,2016
+240,['Byron Stingily'],Injured Reserve: Concussion,week_17,New York Giants,2016
+241,['Byron Stingily'],Injured Reserve: Concussion,week_18,New York Giants,2016
+242,['P.J. Williams'],Injured Reserve: Concussion,week_3,New Orleans Saints,2016
+243,['P.J. Williams'],Injured Reserve: Concussion,week_4,New Orleans Saints,2016
+244,['P.J. Williams'],Injured Reserve: Concussion,week_6,New Orleans Saints,2016
+245,['P.J. Williams'],Injured Reserve: Concussion,week_7,New Orleans Saints,2016
+246,['P.J. Williams'],Injured Reserve: Concussion,week_8,New Orleans Saints,2016
+247,['P.J. Williams'],Injured Reserve: Concussion,week_9,New Orleans Saints,2016
+248,['P.J. Williams'],Injured Reserve: Concussion,week_10,New Orleans Saints,2016
+249,['P.J. Williams'],Injured Reserve: Concussion,week_11,New Orleans Saints,2016
+250,['Mark Ingram'],Questionable: concussion,week_12,New Orleans Saints,2016
+251,['P.J. Williams'],Injured Reserve: Concussion,week_12,New Orleans Saints,2016
+252,['P.J. Williams'],Injured Reserve: Concussion,week_13,New Orleans Saints,2016
+253,['P.J. Williams'],Injured Reserve: Concussion,week_14,New Orleans Saints,2016
+254,['P.J. Williams'],Injured Reserve: Concussion,week_15,New Orleans Saints,2016
+255,['P.J. Williams'],Injured Reserve: Concussion,week_16,New Orleans Saints,2016
+256,['P.J. Williams'],Injured Reserve: Concussion,week_17,New Orleans Saints,2016
+257,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_1,Atlanta Falcons,2016
+258,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_2,Atlanta Falcons,2016
+259,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_3,Atlanta Falcons,2016
+260,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_4,Atlanta Falcons,2016
+261,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_5,Atlanta Falcons,2016
+262,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_6,Atlanta Falcons,2016
+263,['Taylor Gabriel'],Out: concussion,week_7,Atlanta Falcons,2016
+264,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_7,Atlanta Falcons,2016
+265,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_8,Atlanta Falcons,2016
+266,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_9,Atlanta Falcons,2016
+267,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_10,Atlanta Falcons,2016
+268,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_12,Atlanta Falcons,2016
+269,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_13,Atlanta Falcons,2016
+270,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_14,Atlanta Falcons,2016
+271,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_15,Atlanta Falcons,2016
+272,['Nick Williams'],Out: concussion,week_15,Atlanta Falcons,2016
+273,"[""De'Vondre Campbell""]",Out: concussion,week_16,Atlanta Falcons,2016
+274,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_16,Atlanta Falcons,2016
+275,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_17,Atlanta Falcons,2016
+276,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_19,Atlanta Falcons,2016
+277,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_20,Atlanta Falcons,2016
+278,['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_21,Atlanta Falcons,2016
+279,['LaRon Byrd'],Injured Reserve: Concussion,week_1,Carolina Panthers,2016
+280,['LaRon Byrd'],Injured Reserve: Concussion,week_2,Carolina Panthers,2016
+281,['LaRon Byrd'],Injured Reserve: Concussion,week_3,Carolina Panthers,2016
+282,['LaRon Byrd'],Injured Reserve: Concussion,week_4,Carolina Panthers,2016
+283,['Cam Newton'],: concussion,week_4,Carolina Panthers,2016
+284,['Michael Oher'],Injured Reserve: Concussion,week_4,Carolina Panthers,2016
+285,['LaRon Byrd'],Injured Reserve: Concussion,week_5,Carolina Panthers,2016
+286,['Cam Newton'],Out: concussion,week_5,Carolina Panthers,2016
+287,['Michael Oher'],Injured Reserve: Concussion,week_5,Carolina Panthers,2016
+288,['LaRon Byrd'],Injured Reserve: Concussion,week_6,Carolina Panthers,2016
+289,['Cam Newton'],Questionable: concussion,week_6,Carolina Panthers,2016
+290,['Michael Oher'],Injured Reserve: Concussion,week_6,Carolina Panthers,2016
+291,['LaRon Byrd'],Injured Reserve: Concussion,week_8,Carolina Panthers,2016
+292,['Cam Newton'],: concussion,week_8,Carolina Panthers,2016
+293,['Michael Oher'],Injured Reserve: Concussion,week_8,Carolina Panthers,2016
+294,['Daryl Worley'],Questionable: concussion,week_8,Carolina Panthers,2016
+295,['LaRon Byrd'],Injured Reserve: Concussion,week_9,Carolina Panthers,2016
+296,['Cam Newton'],: concussion,week_9,Carolina Panthers,2016
+297,['Michael Oher'],Injured Reserve: Concussion,week_9,Carolina Panthers,2016
+298,['LaRon Byrd'],Injured Reserve: Concussion,week_10,Carolina Panthers,2016
+299,['Colin Jones'],Out: concussion,week_10,Carolina Panthers,2016
+300,['Cam Newton'],: concussion,week_10,Carolina Panthers,2016
+301,['Michael Oher'],Injured Reserve: Concussion,week_10,Carolina Panthers,2016
+302,['LaRon Byrd'],Injured Reserve: Concussion,week_11,Carolina Panthers,2016
+303,['Colin Jones'],Out: concussion,week_11,Carolina Panthers,2016
+304,['Cam Newton'],: concussion,week_11,Carolina Panthers,2016
+305,['Michael Oher'],Injured Reserve: Concussion,week_11,Carolina Panthers,2016
+306,['LaRon Byrd'],Injured Reserve: Concussion,week_12,Carolina Panthers,2016
+307,['Colin Jones'],Questionable: concussion,week_12,Carolina Panthers,2016
+308,['Luke Kuechly'],Out: concussion,week_12,Carolina Panthers,2016
+309,['Cam Newton'],: concussion,week_12,Carolina Panthers,2016
+310,['Michael Oher'],Injured Reserve: Concussion,week_12,Carolina Panthers,2016
+311,['LaRon Byrd'],Injured Reserve: Concussion,week_13,Carolina Panthers,2016
+312,['Kurt Coleman'],Out: concussion,week_13,Carolina Panthers,2016
+313,['Luke Kuechly'],Out: concussion,week_13,Carolina Panthers,2016
+314,['Cam Newton'],: concussion,week_13,Carolina Panthers,2016
+315,['Michael Oher'],Injured Reserve: Concussion,week_13,Carolina Panthers,2016
+316,['LaRon Byrd'],Injured Reserve: Concussion,week_14,Carolina Panthers,2016
+317,['Kurt Coleman'],Questionable: concussion,week_14,Carolina Panthers,2016
+318,['Luke Kuechly'],Questionable: concussion,week_14,Carolina Panthers,2016
+319,['David Mayo'],Out: concussion,week_14,Carolina Panthers,2016
+320,['Cam Newton'],: concussion,week_14,Carolina Panthers,2016
+321,['Michael Oher'],Injured Reserve: Concussion,week_14,Carolina Panthers,2016
+322,['Daryl Worley'],Questionable: concussion,week_14,Carolina Panthers,2016
+323,['LaRon Byrd'],Injured Reserve: Concussion,week_15,Carolina Panthers,2016
+324,['Luke Kuechly'],Questionable: concussion,week_15,Carolina Panthers,2016
+325,['David Mayo'],Questionable: concussion,week_15,Carolina Panthers,2016
+326,['Michael Oher'],Injured Reserve: Concussion,week_15,Carolina Panthers,2016
+327,['LaRon Byrd'],Injured Reserve: Concussion,week_16,Carolina Panthers,2016
+328,['Cam Newton'],: concussion,week_16,Carolina Panthers,2016
+329,['Michael Oher'],Injured Reserve: Concussion,week_16,Carolina Panthers,2016
+330,['LaRon Byrd'],Injured Reserve: Concussion,week_17,Carolina Panthers,2016
+331,['Michael Oher'],Injured Reserve: Concussion,week_17,Carolina Panthers,2016
+332,['Kevin Pamphile'],Out: concussion,week_10,Tampa Bay Buccaneers,2016
+333,['Kevin Pamphile'],Out: concussion,week_11,Tampa Bay Buccaneers,2016
+334,['Demar Dotson'],Out: concussion,week_14,Tampa Bay Buccaneers,2016
+335,['Adam Humphries'],Out: concussion,week_14,Tampa Bay Buccaneers,2016
+336,['Demar Dotson'],Out: concussion,week_15,Tampa Bay Buccaneers,2016
+337,['Demar Dotson'],Out: concussion,week_16,Tampa Bay Buccaneers,2016
+338,['Adrian Amos'],Questionable: concussion,week_3,Chicago Bears,2016
+339,['Bryce Callahan'],Questionable: concussion,week_3,Chicago Bears,2016
+340,['Harold Jones-Quartey'],Questionable: concussion,week_4,Chicago Bears,2016
+341,['Bobby Massie'],Doubtful: concussion,week_11,Chicago Bears,2016
+342,['Leonard Floyd'],Out: concussion,week_12,Chicago Bears,2016
+343,['Leonard Floyd'],Questionable: concussion,week_13,Chicago Bears,2016
+344,['Eric Kush'],Out: concussion,week_16,Chicago Bears,2016
+345,['Leonard Floyd'],Doubtful: concussion,week_17,Chicago Bears,2016
+346,['Alex Boone'],"Out: concussion, shoulder, kne",week_9,Minnesota Vikings,2016
+347,['Tom Johnson'],Questionable: concussion,week_9,Minnesota Vikings,2016
+348,['Eric Kendricks'],Out: concussion,week_9,Minnesota Vikings,2016
+349,['Joe Berger'],Out: concussion,week_13,Minnesota Vikings,2016
+350,['Joe Berger'],Out: concussion,week_14,Minnesota Vikings,2016
+351,['Joe Berger'],Questionable: concussion,week_15,Minnesota Vikings,2016
+352,['Brandon Fusco'],Out: concussion,week_15,Minnesota Vikings,2016
+353,['Trae Waynes'],Out: concussion,week_15,Minnesota Vikings,2016
+354,['Brandon Fusco'],Out: concussion,week_16,Minnesota Vikings,2016
+355,['Zach Line'],Out: concussion,week_16,Minnesota Vikings,2016
+356,['Sam Shields'],Injured Reserve: Concussion,week_2,Green Bay Packers,2016
+357,['Sam Shields'],Injured Reserve: Concussion,week_3,Green Bay Packers,2016
+358,['Sam Shields'],Injured Reserve: Concussion,week_5,Green Bay Packers,2016
+359,['Sam Shields'],Injured Reserve: Concussion,week_6,Green Bay Packers,2016
+360,['Davante Adams'],Questionable: concussion,week_7,Green Bay Packers,2016
+361,['Sam Shields'],Injured Reserve: Concussion,week_7,Green Bay Packers,2016
+362,['Sam Shields'],Injured Reserve: Concussion,week_8,Green Bay Packers,2016
+363,['Demetri Goodson'],Questionable: concussion,week_9,Green Bay Packers,2016
+364,['Sam Shields'],Injured Reserve: Concussion,week_9,Green Bay Packers,2016
+365,['Sam Shields'],Injured Reserve: Concussion,week_10,Green Bay Packers,2016
+366,['Sam Shields'],Injured Reserve: Concussion,week_11,Green Bay Packers,2016
+367,['Sam Shields'],Injured Reserve: Concussion,week_12,Green Bay Packers,2016
+368,['Sam Shields'],Injured Reserve: Concussion,week_13,Green Bay Packers,2016
+369,['Sam Shields'],Injured Reserve: Concussion,week_14,Green Bay Packers,2016
+370,['Sam Shields'],Injured Reserve: Concussion,week_15,Green Bay Packers,2016
+371,['James Starks'],Doubtful: concussion,week_15,Green Bay Packers,2016
+372,['Sam Shields'],Injured Reserve: Concussion,week_16,Green Bay Packers,2016
+373,['James Starks'],Out: concussion,week_16,Green Bay Packers,2016
+374,['Sam Shields'],Injured Reserve: Concussion,week_17,Green Bay Packers,2016
+375,['James Starks'],Out: concussion,week_17,Green Bay Packers,2016
+376,['Quinten Rollins'],"Out: neck, concussion",week_18,Green Bay Packers,2016
+377,['Sam Shields'],Injured Reserve: Concussion,week_18,Green Bay Packers,2016
+378,['James Starks'],Out: concussion,week_18,Green Bay Packers,2016
+379,['Quinten Rollins'],"Questionable: neck, concussion",week_19,Green Bay Packers,2016
+380,['Sam Shields'],Injured Reserve: Concussion,week_19,Green Bay Packers,2016
+381,['James Starks'],Out: concussion,week_19,Green Bay Packers,2016
+382,['Quinten Rollins'],"Questionable: neck, concussion",week_20,Green Bay Packers,2016
+383,['Sam Shields'],Injured Reserve: Concussion,week_20,Green Bay Packers,2016
+384,['James Starks'],Out: concussion,week_20,Green Bay Packers,2016
+385,['Travis Swanson'],Out: concussion,week_14,Detroit Lions,2016
+386,['Travis Swanson'],Out: concussion,week_15,Detroit Lions,2016
+387,['Zach Zenner'],Questionable: concussion,week_15,Detroit Lions,2016
+388,['Travis Swanson'],Out: concussion,week_16,Detroit Lions,2016
+389,['Travis Swanson'],Doubtful: concussion,week_17,Detroit Lions,2016
+390,['Travis Swanson'],Questionable: concussion,week_18,Detroit Lions,2016
+391,['Bryce Hager'],Questionable: concussion,week_1,Los Angeles Rams,2016
+392,['Eugene Sims'],Questionable: concussion,week_11,Los Angeles Rams,2016
+393,['Robert Quinn'],Injured Reserve: Concussion,week_13,Los Angeles Rams,2016
+394,['Robert Quinn'],Injured Reserve: Concussion,week_14,Los Angeles Rams,2016
+395,['Maurice Alexander'],Out: concussion,week_15,Los Angeles Rams,2016
+396,['Robert Quinn'],Doubtful: concussion,week_15,Los Angeles Rams,2016
+397,['Robert Quinn'],Injured Reserve: Concussion,week_16,Los Angeles Rams,2016
+398,['Robert Quinn'],Injured Reserve: Concussion,week_17,Los Angeles Rams,2016
+399,['Will Tukuafu'],Injured Reserve: Concussion,week_14,Seattle Seahawks,2016
+400,['Will Tukuafu'],Injured Reserve: Concussion,week_15,Seattle Seahawks,2016
+401,['Will Tukuafu'],Injured Reserve: Concussion,week_16,Seattle Seahawks,2016
+402,['Will Tukuafu'],Injured Reserve: Concussion,week_17,Seattle Seahawks,2016
+403,['Tony McDaniel'],Out: concussion,week_18,Seattle Seahawks,2016
+404,['Will Tukuafu'],Injured Reserve: Concussion,week_18,Seattle Seahawks,2016
+405,['Will Tukuafu'],Injured Reserve: Concussion,week_19,Seattle Seahawks,2016
+406,['Anthony Davis'],Out: concussion,week_2,San Francisco 49ers,2016
+407,['Anthony Davis'],Out: concussion,week_3,San Francisco 49ers,2016
+408,['Rashard Robinson'],Questionable: concussion,week_7,San Francisco 49ers,2016
+409,['Jimmie Ward'],Questionable: concussion,week_12,San Francisco 49ers,2016
+410,['Torrey Smith'],Injured Reserve: Concussion,week_15,San Francisco 49ers,2016
+411,['Torrey Smith'],Injured Reserve: Concussion,week_16,San Francisco 49ers,2016
+412,['Torrey Smith'],Injured Reserve: Concussion,week_17,San Francisco 49ers,2016
+413,['Carson Palmer'],: concussion,week_4,Arizona Cardinals,2016
+414,['Carson Palmer'],: concussion,week_6,Arizona Cardinals,2016
+415,['Carson Palmer'],: concussion,week_8,Arizona Cardinals,2016
+416,['Carson Palmer'],: concussion,week_10,Arizona Cardinals,2016
+417,['Carson Palmer'],: concussion,week_11,Arizona Cardinals,2016
+418,['Carson Palmer'],: concussion,week_12,Arizona Cardinals,2016
+419,['Carson Palmer'],: concussion,week_13,Arizona Cardinals,2016
+420,['Carson Palmer'],: concussion,week_14,Arizona Cardinals,2016
+421,['D.J. Humphries'],Out: concussion,week_15,Arizona Cardinals,2016
+422,['Carson Palmer'],: concussion,week_15,Arizona Cardinals,2016
+423,['D.J. Humphries'],Out: concussion,week_16,Arizona Cardinals,2016
+424,['Carson Palmer'],: concussion,week_16,Arizona Cardinals,2016
+425,['D.J. Humphries'],Out: concussion,week_17,Arizona Cardinals,2016
+426,['Carson Palmer'],: concussion,week_17,Arizona Cardinals,2016
