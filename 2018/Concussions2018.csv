@@ -1,0 +1,300 @@
+"","name","injury","week","team","year"
+"1","['Rex Burkhead']","Questionable: Concussion","week_2","New England Patriots",2018
+"2","['Patrick Chung']","Doubtful: Concussion","week_3","New England Patriots",2018
+"3","['Trey Flowers']","Doubtful: Concussion","week_3","New England Patriots",2018
+"4","['Patrick Chung']","Questionable: Concussion","week_4","New England Patriots",2018
+"5","['Trey Flowers']","Questionable: Concussion","week_4","New England Patriots",2018
+"6","['Marcus Cannon']","Out: Concussion","week_7","New England Patriots",2018
+"7","['Marcus Cannon']","Questionable: Concussion","week_8","New England Patriots",2018
+"8","['Marcus Cannon']","Questionable: Concussion","week_9","New England Patriots",2018
+"9","['Laremy Tunsil']","Questionable: Concussion","week_6","Miami Dolphins",2018
+"10","['Jonathan Woodard']","Out: Concussion","week_7","Miami Dolphins",2018
+"11","['LeSean McCoy']","Questionable: Concussion","week_8","Buffalo Bills",2018
+"12","['Derek Anderson']","Questionable: Concussion","week_9","Buffalo Bills",2018
+"13","['Derek Anderson']","Out: Concussion","week_10","Buffalo Bills",2018
+"14","['Derek Anderson']","Out: Concussion","week_12","Buffalo Bills",2018
+"15","['Derek Anderson']","Out: Concussion","week_13","Buffalo Bills",2018
+"16","['Derek Anderson']","Out: Concussion","week_14","Buffalo Bills",2018
+"17","['Ryan Lewis']","Out: Concussion","week_15","Buffalo Bills",2018
+"18","['Ryan Lewis']","Out: Concussion","week_16","Buffalo Bills",2018
+"19","['Ryan Lewis']","Questionable: Concussion","week_17","Buffalo Bills",2018
+"20","['Josh Martin']","Out: Concussion","week_1","New York Jets",2018
+"21","['Josh Martin']","Out: Concussion","week_2","New York Jets",2018
+"22","['Josh Martin']","Out: Concussion","week_3","New York Jets",2018
+"23","['Neal Sterling']","Out: Concussion","week_3","New York Jets",2018
+"24","['Neal Sterling']","Out: Concussion","week_4","New York Jets",2018
+"25","['Josh Martin']","Injured Reserve: Concussion","week_5","New York Jets",2018
+"26","['Neal Sterling']","Out: Concussion","week_5","New York Jets",2018
+"27","['Josh Martin']","Injured Reserve: Concussion","week_6","New York Jets",2018
+"28","['Buster Skrine']","Out: Concussion","week_6","New York Jets",2018
+"29","['Josh Martin']","Injured Reserve: Concussion","week_7","New York Jets",2018
+"30","['Buster Skrine']","Out: Concussion","week_7","New York Jets",2018
+"31","['Josh Martin']","Injured Reserve: Concussion","week_8","New York Jets",2018
+"32","['Josh Martin']","Injured Reserve: Concussion","week_9","New York Jets",2018
+"33","['Neal Sterling']","Injured Reserve: Concussion","week_9","New York Jets",2018
+"34","['Josh Martin']","Injured Reserve: Concussion","week_10","New York Jets",2018
+"35","['Neal Sterling']","Injured Reserve: Concussion","week_10","New York Jets",2018
+"36","['Josh Martin']","Injured Reserve: Concussion","week_12","New York Jets",2018
+"37","['Neal Sterling']","Injured Reserve: Concussion","week_12","New York Jets",2018
+"38","['Josh Martin']","Injured Reserve: Concussion","week_13","New York Jets",2018
+"39","['Neal Sterling']","Injured Reserve: Concussion","week_13","New York Jets",2018
+"40","['Josh Martin']","Injured Reserve: Concussion","week_14","New York Jets",2018
+"41","['Neal Sterling']","Injured Reserve: Concussion","week_14","New York Jets",2018
+"42","['Jeremiah Attaochu']","Injured Reserve: Concussion","week_15","New York Jets",2018
+"43","['Josh Martin']","Injured Reserve: Concussion","week_15","New York Jets",2018
+"44","['Neal Sterling']","Injured Reserve: Concussion","week_15","New York Jets",2018
+"45","['Jeremiah Attaochu']","Injured Reserve: Concussion","week_16","New York Jets",2018
+"46","['Josh Martin']","Injured Reserve: Concussion","week_16","New York Jets",2018
+"47","['Neal Sterling']","Injured Reserve: Concussion","week_16","New York Jets",2018
+"48","['Jeremiah Attaochu']","Injured Reserve: Concussion","week_17","New York Jets",2018
+"49","['Josh Martin']","Injured Reserve: Concussion","week_17","New York Jets",2018
+"50","['Neal Sterling']","Injured Reserve: Concussion","week_17","New York Jets",2018
+"51","['Kevin Johnson']","Injured Reserve: Concussion","week_2","Houston Texans",2018
+"52","['Kevin Johnson']","Injured Reserve: Concussion","week_3","Houston Texans",2018
+"53","['Kevin Johnson']","Injured Reserve: Concussion","week_4","Houston Texans",2018
+"54","['Kevin Johnson']","Injured Reserve: Concussion","week_5","Houston Texans",2018
+"55","['Kevin Johnson']","Injured Reserve: Concussion","week_6","Houston Texans",2018
+"56","['Kevin Johnson']","Injured Reserve: Concussion","week_7","Houston Texans",2018
+"57","['Kevin Johnson']","Injured Reserve: Concussion","week_8","Houston Texans",2018
+"58","['Kevin Johnson']","Injured Reserve: Concussion","week_9","Houston Texans",2018
+"59","['Kevin Johnson']","Injured Reserve: Concussion","week_11","Houston Texans",2018
+"60","['Kevin Johnson']","Injured Reserve: Concussion","week_12","Houston Texans",2018
+"61","['Kevin Johnson']","Injured Reserve: Concussion","week_13","Houston Texans",2018
+"62","['Kevin Johnson']","Injured Reserve: Concussion","week_14","Houston Texans",2018
+"63","['Kevin Johnson']","Injured Reserve: Concussion","week_15","Houston Texans",2018
+"64","['Kevin Johnson']","Injured Reserve: Concussion","week_16","Houston Texans",2018
+"65","['Michael Tyson']","Out: Concussion","week_16","Houston Texans",2018
+"66","['Kevin Johnson']","Injured Reserve: Concussion","week_17","Houston Texans",2018
+"67","['Kevin Johnson']","Injured Reserve: Concussion","week_18","Houston Texans",2018
+"68","['Chris Cooper']","Injured Reserve: Concussion","week_2","Indianapolis Colts",2018
+"69","['Robert Jackson']","Injured Reserve: Concussion","week_2","Indianapolis Colts",2018
+"70","['Christopher Milton']","Out: Concussion","week_2","Indianapolis Colts",2018
+"71","['Chris Cooper']","Injured Reserve: Concussion","week_3","Indianapolis Colts",2018
+"72","['Robert Jackson']","Injured Reserve: Concussion","week_3","Indianapolis Colts",2018
+"73","['Christopher Milton']","Questionable: Concussion","week_3","Indianapolis Colts",2018
+"74","['Quincy Wilson']","Out: Concussion","week_3","Indianapolis Colts",2018
+"75","['Chris Cooper']","Injured Reserve: Concussion","week_4","Indianapolis Colts",2018
+"76","['Robert Jackson']","Injured Reserve: Concussion","week_4","Indianapolis Colts",2018
+"77","['Quincy Wilson']","Out: Concussion","week_4","Indianapolis Colts",2018
+"78","['Chris Cooper']","Injured Reserve: Concussion","week_5","Indianapolis Colts",2018
+"79","['Robert Jackson']","Injured Reserve: Concussion","week_5","Indianapolis Colts",2018
+"80","['Kenny Moore']","Out: Concussion","week_5","Indianapolis Colts",2018
+"81","['Quincy Wilson']","Out: Concussion","week_5","Indianapolis Colts",2018
+"82","['Chris Cooper']","Injured Reserve: Concussion","week_6","Indianapolis Colts",2018
+"83","['Clayton Geathers']","Out: Concussion","week_6","Indianapolis Colts",2018
+"84","['Robert Jackson']","Injured Reserve: Concussion","week_6","Indianapolis Colts",2018
+"85","['Chris Cooper']","Injured Reserve: Concussion","week_7","Indianapolis Colts",2018
+"86","['Clayton Geathers']","Out: Concussion","week_7","Indianapolis Colts",2018
+"87","['Robert Jackson']","Injured Reserve: Concussion","week_7","Indianapolis Colts",2018
+"88","['Chris Cooper']","Injured Reserve: Concussion","week_8","Indianapolis Colts",2018
+"89","['Robert Jackson']","Injured Reserve: Concussion","week_8","Indianapolis Colts",2018
+"90","['Chris Cooper']","Injured Reserve: Concussion","week_10","Indianapolis Colts",2018
+"91","['Robert Jackson']","Injured Reserve: Concussion","week_10","Indianapolis Colts",2018
+"92","['Chris Cooper']","Injured Reserve: Concussion","week_11","Indianapolis Colts",2018
+"93","['Robert Jackson']","Injured Reserve: Concussion","week_11","Indianapolis Colts",2018
+"94","['Chris Cooper']","Injured Reserve: Concussion","week_12","Indianapolis Colts",2018
+"95","['Robert Jackson']","Injured Reserve: Concussion","week_12","Indianapolis Colts",2018
+"96","['Chris Cooper']","Injured Reserve: Concussion","week_13","Indianapolis Colts",2018
+"97","['Robert Jackson']","Injured Reserve: Concussion","week_13","Indianapolis Colts",2018
+"98","['Marlon Mack']","Questionable: Concussion","week_13","Indianapolis Colts",2018
+"99","['Chris Cooper']","Injured Reserve: Concussion","week_14","Indianapolis Colts",2018
+"100","['Robert Jackson']","Injured Reserve: Concussion","week_14","Indianapolis Colts",2018
+"101","['Chris Cooper']","Injured Reserve: Concussion","week_15","Indianapolis Colts",2018
+"102","['Robert Jackson']","Injured Reserve: Concussion","week_15","Indianapolis Colts",2018
+"103","['Chris Cooper']","Injured Reserve: Concussion","week_16","Indianapolis Colts",2018
+"104","['Robert Jackson']","Injured Reserve: Concussion","week_16","Indianapolis Colts",2018
+"105","['Chris Cooper']","Injured Reserve: Concussion","week_17","Indianapolis Colts",2018
+"106","['Eric Ebron']","Questionable: Concussion","week_17","Indianapolis Colts",2018
+"107","['Robert Jackson']","Injured Reserve: Concussion","week_17","Indianapolis Colts",2018
+"108","['Chris Cooper']","Injured Reserve: Concussion","week_18","Indianapolis Colts",2018
+"109","['Robert Jackson']","Injured Reserve: Concussion","week_18","Indianapolis Colts",2018
+"110","['Chris Cooper']","Injured Reserve: Concussion","week_19","Indianapolis Colts",2018
+"111","['Robert Jackson']","Injured Reserve: Concussion","week_19","Indianapolis Colts",2018
+"112","['Taylor Lewan']","Out: Concussion","week_2","Tennessee Titans",2018
+"113","['Blaine Gabbert']","Questionable: Concussion","week_4","Tennessee Titans",2018
+"114","['Jack Conklin']","Out: Concussion","week_10","Tennessee Titans",2018
+"115","['Josh Wells']","Out: Concussion","week_17","Jacksonville Jaguars",2018
+"116","['Nick Boyle']","Questionable: Concussion","week_16","Baltimore Ravens",2018
+"117","['James Burgess']","Doubtful: Concussion","week_1","Cleveland Browns",2018
+"118","['Tanner Vallejo']","Out: Concussion","week_6","Cleveland Browns",2018
+"119","['E.J. Gaines']","Out: Concussion","week_7","Cleveland Browns",2018
+"120","['E.J. Gaines']","Out: Concussion","week_8","Cleveland Browns",2018
+"121","['E.J. Gaines']","Injured Reserve: Concussion","week_10","Cleveland Browns",2018
+"122","['E.J. Gaines']","Injured Reserve: Concussion","week_12","Cleveland Browns",2018
+"123","['E.J. Gaines']","Injured Reserve: Concussion","week_13","Cleveland Browns",2018
+"124","['E.J. Gaines']","Injured Reserve: Concussion","week_14","Cleveland Browns",2018
+"125","['Denzel Ward']","Out: Concussion","week_14","Cleveland Browns",2018
+"126","['E.J. Gaines']","Injured Reserve: Concussion","week_15","Cleveland Browns",2018
+"127","['Denzel Ward']","Out: Concussion","week_15","Cleveland Browns",2018
+"128","['E.J. Gaines']","Injured Reserve: Concussion","week_16","Cleveland Browns",2018
+"129","['E.J. Gaines']","Injured Reserve: Concussion","week_17","Cleveland Browns",2018
+"130","['Denzel Ward']","Out: Concussion","week_17","Cleveland Browns",2018
+"131","['Shawn Williams']","Questionable: Concussion","week_7","Cincinnati Bengals",2018
+"132","['Dre Kirkpatrick']","Questionable: Concussion","week_11","Cincinnati Bengals",2018
+"133","['Tony McRae']","Out: Concussion","week_13","Cincinnati Bengals",2018
+"134","['Vontaze Burfict']","Out: Concussion","week_14","Cincinnati Bengals",2018
+"135","['Tony McRae']","Out: Concussion","week_14","Cincinnati Bengals",2018
+"136","['Vontaze Burfict']","Out: Concussion","week_15","Cincinnati Bengals",2018
+"137","['Michael Johnson']","Questionable: Concussion","week_15","Cincinnati Bengals",2018
+"138","['Tony McRae']","Questionable: Concussion","week_15","Cincinnati Bengals",2018
+"139","['Vontaze Burfict']","Questionable: Concussion","week_16","Cincinnati Bengals",2018
+"140","['Vontaze Burfict']","Out: Concussion","week_17","Cincinnati Bengals",2018
+"141","['Mitch Morse']","Out: Concussion","week_7","Kansas City Chiefs",2018
+"142","['Mitch Morse']","Out: Concussion","week_8","Kansas City Chiefs",2018
+"143","['Mitch Morse']","Out: Concussion","week_9","Kansas City Chiefs",2018
+"144","['Mitch Morse']","Out: Concussion","week_10","Kansas City Chiefs",2018
+"145","['Mitch Morse']","Out: Concussion","week_11","Kansas City Chiefs",2018
+"146","['Brandon Facyson']","Questionable: Concussion","week_19","Los Angeles Chargers",2018
+"147","['Kyle Wilson']","Questionable: Concussion","week_19","Los Angeles Chargers",2018
+"148","['Jared Veldheer']","Questionable: Concussion","week_3","Denver Broncos",2018
+"149","['Nico Falah']","Questionable: Concussion","week_8","Denver Broncos",2018
+"150","['Bradley Roby']","Questionable: Concussion","week_12","Denver Broncos",2018
+"151","['Derek Wolfe']","Questionable: Concussion","week_15","Denver Broncos",2018
+"152","['Brendan Langley']","Out: Concussion","week_16","Denver Broncos",2018
+"153","['Seth Roberts']","Questionable: Concussion","week_14","Oakland Raiders",2018
+"154","['Gareon Conley']","Questionable: Concussion","week_16","Oakland Raiders",2018
+"155","['Gareon Conley']","Questionable: Concussion","week_17","Oakland Raiders",2018
+"156","['Randy Gregory']","Doubtful: Concussion","week_2","Dallas Cowboys",2018
+"157","['Antwaun Woods']","Doubtful: Concussion","week_11","Dallas Cowboys",2018
+"158","['Adam Redmond']","Out: Concussion","week_12","Dallas Cowboys",2018
+"159","['Antwaun Woods']","Questionable: Concussion","week_12","Dallas Cowboys",2018
+"160","['Maurice Harris']","Out: Concussion","week_1","Washington Redskins",2018
+"161","['Maurice Harris']","Questionable: Concussion","week_2","Washington Redskins",2018
+"162","['Maurice Harris']","Questionable: Concussion","week_3","Washington Redskins",2018
+"163","['Josh Doctson']","Questionable: Concussion","week_15","Washington Redskins",2018
+"164","['Vernon Davis']","Questionable: Concussion","week_16","Washington Redskins",2018
+"165","['Maurice Harris']","Injured Reserve: Concussion","week_16","Washington Redskins",2018
+"166","['Vernon Davis']","Doubtful: Concussion","week_17","Washington Redskins",2018
+"167","['Maurice Harris']","Out: Concussion","week_17","Washington Redskins",2018
+"168","['Ray-Ray Armstrong']","Injured Reserve: Concussion","week_7","New York Giants",2018
+"169","['Jawill Davis']","Out: Concussion","week_7","New York Giants",2018
+"170","['Jawill Davis']","Out: Concussion","week_8","New York Giants",2018
+"171","['Ray-Ray Armstrong']","Injured Reserve: Concussion","week_10","New York Giants",2018
+"172","['Ray-Ray Armstrong']","Injured Reserve: Concussion","week_11","New York Giants",2018
+"173","['Kerry Wynn']","Out: Concussion","week_12","New York Giants",2018
+"174","['Ray-Ray Armstrong']","Injured Reserve: Concussion","week_15","New York Giants",2018
+"175","['Alec Ogletree']","Out: Concussion","week_16","New York Giants",2018
+"176","['Rhett Ellison']","Out: Concussion","week_17","New York Giants",2018
+"177","['Alec Ogletree']","Out: Concussion","week_17","New York Giants",2018
+"178","['Andrus Peat']","Out: Concussion","week_7","New Orleans Saints",2018
+"179","['Trai Turner']","Out: Concussion","week_2","Carolina Panthers",2018
+"180","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_3","Carolina Panthers",2018
+"181","['Trai Turner']","Out: Concussion","week_3","Carolina Panthers",2018
+"182","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_5","Carolina Panthers",2018
+"183","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_6","Carolina Panthers",2018
+"184","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_7","Carolina Panthers",2018
+"185","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_8","Carolina Panthers",2018
+"186","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_9","Carolina Panthers",2018
+"187","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_10","Carolina Panthers",2018
+"188","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_11","Carolina Panthers",2018
+"189","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_12","Carolina Panthers",2018
+"190","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_13","Carolina Panthers",2018
+"191","['Brendan Mahon']","Injured Reserve: Concussion","week_14","Carolina Panthers",2018
+"192","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_14","Carolina Panthers",2018
+"193","['Brendan Mahon']","Injured Reserve: Concussion","week_15","Carolina Panthers",2018
+"194","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_15","Carolina Panthers",2018
+"195","['Amini Silatolu']","Injured Reserve: Concussion","week_15","Carolina Panthers",2018
+"196","['Brendan Mahon']","Injured Reserve: Concussion","week_16","Carolina Panthers",2018
+"197","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_16","Carolina Panthers",2018
+"198","['Amini Silatolu']","Injured Reserve: Concussion","week_16","Carolina Panthers",2018
+"199","['Brendan Mahon']","Injured Reserve: Concussion","week_17","Carolina Panthers",2018
+"200","[""Da'Norris Searcy""]","Injured Reserve: Concussion","week_17","Carolina Panthers",2018
+"201","['Amini Silatolu']","Injured Reserve: Concussion","week_17","Carolina Panthers",2018
+"202","['Mitch Unrein']","Injured Reserve: Concussion","week_1","Tampa Bay Buccaneers",2018
+"203","['Mitch Unrein']","Injured Reserve: Concussion","week_2","Tampa Bay Buccaneers",2018
+"204","['Mitch Unrein']","Injured Reserve: Concussion","week_3","Tampa Bay Buccaneers",2018
+"205","['Mitch Unrein']","Injured Reserve: Concussion","week_4","Tampa Bay Buccaneers",2018
+"206","['Mitch Unrein']","Injured Reserve: Concussion","week_6","Tampa Bay Buccaneers",2018
+"207","['Mitch Unrein']","Injured Reserve: Concussion","week_7","Tampa Bay Buccaneers",2018
+"208","['Mitch Unrein']","Injured Reserve: Concussion","week_8","Tampa Bay Buccaneers",2018
+"209","['Mitch Unrein']","Injured Reserve: Concussion","week_9","Tampa Bay Buccaneers",2018
+"210","['Mitch Unrein']","Injured Reserve: Concussion","week_10","Tampa Bay Buccaneers",2018
+"211","['Mitch Unrein']","Injured Reserve: Concussion","week_11","Tampa Bay Buccaneers",2018
+"212","['Mitch Unrein']","Injured Reserve: Concussion","week_12","Tampa Bay Buccaneers",2018
+"213","['Jordan Whitehead']","Questionable: Concussion","week_12","Tampa Bay Buccaneers",2018
+"214","['Mitch Unrein']","Injured Reserve: Concussion","week_13","Tampa Bay Buccaneers",2018
+"215","['Isaiah Johnson']","Out: Concussion","week_14","Tampa Bay Buccaneers",2018
+"216","['Mitch Unrein']","Injured Reserve: Concussion","week_14","Tampa Bay Buccaneers",2018
+"217","['Isaiah Johnson']","Questionable: Concussion","week_15","Tampa Bay Buccaneers",2018
+"218","['Mitch Unrein']","Injured Reserve: Concussion","week_15","Tampa Bay Buccaneers",2018
+"219","['Mitch Unrein']","Injured Reserve: Concussion","week_16","Tampa Bay Buccaneers",2018
+"220","['Mitch Unrein']","Injured Reserve: Concussion","week_17","Tampa Bay Buccaneers",2018
+"221","['Marlon Brown']","Injured Reserve: Concussion","week_1","Chicago Bears",2018
+"222","['Marlon Brown']","Injured Reserve: Concussion","week_2","Chicago Bears",2018
+"223","['Marlon Brown']","Injured Reserve: Concussion","week_3","Chicago Bears",2018
+"224","['Marlon Brown']","Injured Reserve: Concussion","week_4","Chicago Bears",2018
+"225","['Marlon Brown']","Injured Reserve: Concussion","week_6","Chicago Bears",2018
+"226","['Marlon Brown']","Injured Reserve: Concussion","week_7","Chicago Bears",2018
+"227","['Marlon Brown']","Injured Reserve: Concussion","week_8","Chicago Bears",2018
+"228","['Ben Braunecker']","Out: Concussion","week_9","Chicago Bears",2018
+"229","['Marlon Brown']","Injured Reserve: Concussion","week_9","Chicago Bears",2018
+"230","['Marlon Brown']","Injured Reserve: Concussion","week_10","Chicago Bears",2018
+"231","['Dion Sims']","Injured Reserve: Concussion","week_10","Chicago Bears",2018
+"232","['Marlon Brown']","Injured Reserve: Concussion","week_11","Chicago Bears",2018
+"233","['Dion Sims']","Injured Reserve: Concussion","week_11","Chicago Bears",2018
+"234","['Marlon Brown']","Injured Reserve: Concussion","week_12","Chicago Bears",2018
+"235","['Aaron Lynch']","Out: Concussion","week_12","Chicago Bears",2018
+"236","['Adam Shaheen']","Out: Concussion","week_12","Chicago Bears",2018
+"237","['Dion Sims']","Injured Reserve: Concussion","week_12","Chicago Bears",2018
+"238","['Marlon Brown']","Injured Reserve: Concussion","week_13","Chicago Bears",2018
+"239","['Dion Sims']","Injured Reserve: Concussion","week_13","Chicago Bears",2018
+"240","['Marlon Brown']","Injured Reserve: Concussion","week_14","Chicago Bears",2018
+"241","['Dion Sims']","Injured Reserve: Concussion","week_14","Chicago Bears",2018
+"242","['Marlon Brown']","Injured Reserve: Concussion","week_15","Chicago Bears",2018
+"243","['Dion Sims']","Injured Reserve: Concussion","week_15","Chicago Bears",2018
+"244","['Marlon Brown']","Injured Reserve: Concussion","week_16","Chicago Bears",2018
+"245","['Dion Sims']","Injured Reserve: Concussion","week_16","Chicago Bears",2018
+"246","['Marlon Brown']","Injured Reserve: Concussion","week_17","Chicago Bears",2018
+"247","['Dion Sims']","Injured Reserve: Concussion","week_17","Chicago Bears",2018
+"248","['Marlon Brown']","Injured Reserve: Concussion","week_18","Chicago Bears",2018
+"249","['Dion Sims']","Injured Reserve: Concussion","week_18","Chicago Bears",2018
+"250","['Trae Waynes']","Out: Concussion","week_5","Minnesota Vikings",2018
+"251","['Ben Gedeon']","Out: Concussion","week_12","Minnesota Vikings",2018
+"252","['Trae Waynes']","Out: Concussion","week_14","Minnesota Vikings",2018
+"253","['Nick Perry']","Questionable: Concussion","week_4","Green Bay Packers",2018
+"254","['Geronimo Allison']","Questionable: Concussion","week_5","Green Bay Packers",2018
+"255","['Lucas Patrick']","Doubtful: Concussion","week_11","Green Bay Packers",2018
+"256","['Lucas Patrick']","Questionable: Concussion","week_12","Green Bay Packers",2018
+"257","['Randall Cobb']","Doubtful: Concussion","week_16","Green Bay Packers",2018
+"258","['Jason Spriggs']","Doubtful: Concussion","week_16","Green Bay Packers",2018
+"259","['Jason Spriggs']","Doubtful: Concussion","week_17","Green Bay Packers",2018
+"260","['Darius Slay']","Questionable: Concussion","week_3","Detroit Lions",2018
+"261","['T.J. Lang']","Out: Concussion","week_5","Detroit Lions",2018
+"262","['T.J. Lang']","Questionable: Concussion","week_7","Detroit Lions",2018
+"263","['Ricky Wagner']","Out: Concussion","week_15","Detroit Lions",2018
+"264","['Luke Willson']","Out: Concussion","week_17","Detroit Lions",2018
+"265","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_2","Seattle Seahawks",2018
+"266","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_3","Seattle Seahawks",2018
+"267","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_4","Seattle Seahawks",2018
+"268","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_5","Seattle Seahawks",2018
+"269","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_6","Seattle Seahawks",2018
+"270","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_8","Seattle Seahawks",2018
+"271","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_9","Seattle Seahawks",2018
+"272","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_10","Seattle Seahawks",2018
+"273","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_11","Seattle Seahawks",2018
+"274","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_12","Seattle Seahawks",2018
+"275","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_13","Seattle Seahawks",2018
+"276","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_14","Seattle Seahawks",2018
+"277","['Maurice Alexander']","Out: Concussion","week_15","Seattle Seahawks",2018
+"278","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_15","Seattle Seahawks",2018
+"279","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_16","Seattle Seahawks",2018
+"280","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_17","Seattle Seahawks",2018
+"281","[""Ricky Ali'ifua""]","Injured Reserve: Concussion","week_18","Seattle Seahawks",2018
+"282","['Brock Coyle']","Injured Reserve: Concussion","week_2","San Francisco 49ers",2018
+"283","['Brock Coyle']","Injured Reserve: Concussion","week_3","San Francisco 49ers",2018
+"284","['Brock Coyle']","Injured Reserve: Concussion","week_4","San Francisco 49ers",2018
+"285","['Brock Coyle']","Injured Reserve: Concussion","week_5","San Francisco 49ers",2018
+"286","['Brock Coyle']","Injured Reserve: Concussion","week_6","San Francisco 49ers",2018
+"287","['Brock Coyle']","Injured Reserve: Concussion","week_7","San Francisco 49ers",2018
+"288","['Brock Coyle']","Injured Reserve: Concussion","week_8","San Francisco 49ers",2018
+"289","['Brock Coyle']","Injured Reserve: Concussion","week_9","San Francisco 49ers",2018
+"290","['Antone Exum']","Out: Concussion","week_9","San Francisco 49ers",2018
+"291","['Brock Coyle']","Injured Reserve: Concussion","week_10","San Francisco 49ers",2018
+"292","['Brock Coyle']","Injured Reserve: Concussion","week_12","San Francisco 49ers",2018
+"293","['Brock Coyle']","Injured Reserve: Concussion","week_13","San Francisco 49ers",2018
+"294","['Brock Coyle']","Injured Reserve: Concussion","week_14","San Francisco 49ers",2018
+"295","['Brock Coyle']","Injured Reserve: Concussion","week_15","San Francisco 49ers",2018
+"296","['Cassius Marsh']","Questionable: Concussion","week_15","San Francisco 49ers",2018
+"297","['Brock Coyle']","Injured Reserve: Concussion","week_16","San Francisco 49ers",2018
+"298","['Garrett Celek']","Out: Concussion","week_17","San Francisco 49ers",2018
+"299","['Brock Coyle']","Injured Reserve: Concussion","week_17","San Francisco 49ers",2018

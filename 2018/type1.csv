@@ -1,0 +1,673 @@
+﻿team,gameweek,concussions
+New England Patriots,1,0
+New England Patriots,2,1
+New England Patriots,3,2
+New England Patriots,4,2
+New England Patriots,5,0
+New England Patriots,6,0
+New England Patriots,7,1
+New England Patriots,8,1
+New England Patriots,9,1
+New England Patriots,10,0
+New England Patriots,11,0
+New England Patriots,12,0
+New England Patriots,13,0
+New England Patriots,14,0
+New England Patriots,15,0
+New England Patriots,16,0
+New England Patriots,17,0
+New England Patriots,18,0
+New England Patriots,19,0
+New England Patriots,20,0
+New England Patriots,21,0
+Miami Dolphins,1,0
+Miami Dolphins,2,0
+Miami Dolphins,3,0
+Miami Dolphins,4,0
+Miami Dolphins,5,0
+Miami Dolphins,6,1
+Miami Dolphins,7,1
+Miami Dolphins,8,0
+Miami Dolphins,9,0
+Miami Dolphins,10,0
+Miami Dolphins,11,0
+Miami Dolphins,12,0
+Miami Dolphins,13,0
+Miami Dolphins,14,0
+Miami Dolphins,15,0
+Miami Dolphins,16,0
+Miami Dolphins,17,0
+Miami Dolphins,18,0
+Miami Dolphins,19,0
+Miami Dolphins,20,0
+Miami Dolphins,21,0
+Buffalo Bills,1,0
+Buffalo Bills,2,0
+Buffalo Bills,3,0
+Buffalo Bills,4,0
+Buffalo Bills,5,0
+Buffalo Bills,6,0
+Buffalo Bills,7,0
+Buffalo Bills,8,1
+Buffalo Bills,9,1
+Buffalo Bills,10,1
+Buffalo Bills,11,0
+Buffalo Bills,12,1
+Buffalo Bills,13,1
+Buffalo Bills,14,1
+Buffalo Bills,15,1
+Buffalo Bills,16,1
+Buffalo Bills,17,1
+Buffalo Bills,18,0
+Buffalo Bills,19,0
+Buffalo Bills,20,0
+Buffalo Bills,21,0
+New York Jets,1,1
+New York Jets,2,1
+New York Jets,3,1
+New York Jets,4,1
+New York Jets,5,2
+New York Jets,6,2
+New York Jets,7,2
+New York Jets,8,1
+New York Jets,9,2
+New York Jets,10,2
+New York Jets,11,0
+New York Jets,12,2
+New York Jets,13,2
+New York Jets,14,2
+New York Jets,15,3
+New York Jets,16,3
+New York Jets,17,3
+New York Jets,18,0
+New York Jets,19,0
+New York Jets,20,0
+New York Jets,21,0
+Houston Texans,1,0
+Houston Texans,2,1
+Houston Texans,3,1
+Houston Texans,4,1
+Houston Texans,5,1
+Houston Texans,6,1
+Houston Texans,7,1
+Houston Texans,8,1
+Houston Texans,9,1
+Houston Texans,10,0
+Houston Texans,11,1
+Houston Texans,12,1
+Houston Texans,13,1
+Houston Texans,14,1
+Houston Texans,15,1
+Houston Texans,16,2
+Houston Texans,17,1
+Houston Texans,18,1
+Houston Texans,19,0
+Houston Texans,20,0
+Houston Texans,21,0
+Indianapolis Colts,1,0
+Indianapolis Colts,2,3
+Indianapolis Colts,3,4
+Indianapolis Colts,4,3
+Indianapolis Colts,5,4
+Indianapolis Colts,6,3
+Indianapolis Colts,7,3
+Indianapolis Colts,8,2
+Indianapolis Colts,9,2
+Indianapolis Colts,10,2
+Indianapolis Colts,11,2
+Indianapolis Colts,12,2
+Indianapolis Colts,13,3
+Indianapolis Colts,14,2
+Indianapolis Colts,15,2
+Indianapolis Colts,16,2
+Indianapolis Colts,17,3
+Indianapolis Colts,18,2
+Indianapolis Colts,19,2
+Indianapolis Colts,20,0
+Indianapolis Colts,21,0
+Tennessee Titans,1,0
+Tennessee Titans,2,1
+Tennessee Titans,3,0
+Tennessee Titans,4,1
+Tennessee Titans,5,0
+Tennessee Titans,6,0
+Tennessee Titans,7,0
+Tennessee Titans,8,0
+Tennessee Titans,9,0
+Tennessee Titans,10,1
+Tennessee Titans,11,0
+Tennessee Titans,12,0
+Tennessee Titans,13,0
+Tennessee Titans,14,0
+Tennessee Titans,15,0
+Tennessee Titans,16,0
+Tennessee Titans,17,0
+Tennessee Titans,18,0
+Tennessee Titans,19,0
+Tennessee Titans,20,0
+Tennessee Titans,21,0
+Jacksonville Jaguars,1,0
+Jacksonville Jaguars,2,0
+Jacksonville Jaguars,3,0
+Jacksonville Jaguars,4,0
+Jacksonville Jaguars,5,0
+Jacksonville Jaguars,6,0
+Jacksonville Jaguars,7,0
+Jacksonville Jaguars,8,0
+Jacksonville Jaguars,9,0
+Jacksonville Jaguars,10,0
+Jacksonville Jaguars,11,0
+Jacksonville Jaguars,12,0
+Jacksonville Jaguars,13,0
+Jacksonville Jaguars,14,0
+Jacksonville Jaguars,15,0
+Jacksonville Jaguars,16,0
+Jacksonville Jaguars,17,1
+Jacksonville Jaguars,18,0
+Jacksonville Jaguars,19,0
+Jacksonville Jaguars,20,0
+Jacksonville Jaguars,21,0
+Baltimore Ravens,1,0
+Baltimore Ravens,2,0
+Baltimore Ravens,3,0
+Baltimore Ravens,4,0
+Baltimore Ravens,5,0
+Baltimore Ravens,6,0
+Baltimore Ravens,7,0
+Baltimore Ravens,8,0
+Baltimore Ravens,9,0
+Baltimore Ravens,10,0
+Baltimore Ravens,11,0
+Baltimore Ravens,12,0
+Baltimore Ravens,13,0
+Baltimore Ravens,14,0
+Baltimore Ravens,15,0
+Baltimore Ravens,16,1
+Baltimore Ravens,17,0
+Baltimore Ravens,18,0
+Baltimore Ravens,19,0
+Baltimore Ravens,20,0
+Baltimore Ravens,21,0
+Pittsburgh Steelers,1,0
+Pittsburgh Steelers,2,0
+Pittsburgh Steelers,3,0
+Pittsburgh Steelers,4,0
+Pittsburgh Steelers,5,0
+Pittsburgh Steelers,6,0
+Pittsburgh Steelers,7,0
+Pittsburgh Steelers,8,0
+Pittsburgh Steelers,9,0
+Pittsburgh Steelers,10,0
+Pittsburgh Steelers,11,0
+Pittsburgh Steelers,12,0
+Pittsburgh Steelers,13,0
+Pittsburgh Steelers,14,0
+Pittsburgh Steelers,15,0
+Pittsburgh Steelers,16,0
+Pittsburgh Steelers,17,0
+Pittsburgh Steelers,18,0
+Pittsburgh Steelers,19,0
+Pittsburgh Steelers,20,0
+Pittsburgh Steelers,21,0
+Cleveland Browns,1,1
+Cleveland Browns,2,0
+Cleveland Browns,3,0
+Cleveland Browns,4,0
+Cleveland Browns,5,0
+Cleveland Browns,6,1
+Cleveland Browns,7,1
+Cleveland Browns,8,1
+Cleveland Browns,9,0
+Cleveland Browns,10,1
+Cleveland Browns,11,0
+Cleveland Browns,12,1
+Cleveland Browns,13,1
+Cleveland Browns,14,2
+Cleveland Browns,15,2
+Cleveland Browns,16,1
+Cleveland Browns,17,2
+Cleveland Browns,18,0
+Cleveland Browns,19,0
+Cleveland Browns,20,0
+Cleveland Browns,21,0
+Cincinnati Bengals,1,0
+Cincinnati Bengals,2,0
+Cincinnati Bengals,3,0
+Cincinnati Bengals,4,0
+Cincinnati Bengals,5,0
+Cincinnati Bengals,6,0
+Cincinnati Bengals,7,1
+Cincinnati Bengals,8,0
+Cincinnati Bengals,9,0
+Cincinnati Bengals,10,0
+Cincinnati Bengals,11,1
+Cincinnati Bengals,12,0
+Cincinnati Bengals,13,1
+Cincinnati Bengals,14,2
+Cincinnati Bengals,15,3
+Cincinnati Bengals,16,1
+Cincinnati Bengals,17,1
+Cincinnati Bengals,18,0
+Cincinnati Bengals,19,0
+Cincinnati Bengals,20,0
+Cincinnati Bengals,21,0
+Kansas City Chiefs,1,0
+Kansas City Chiefs,2,0
+Kansas City Chiefs,3,0
+Kansas City Chiefs,4,0
+Kansas City Chiefs,5,0
+Kansas City Chiefs,6,0
+Kansas City Chiefs,7,1
+Kansas City Chiefs,8,1
+Kansas City Chiefs,9,1
+Kansas City Chiefs,10,1
+Kansas City Chiefs,11,1
+Kansas City Chiefs,12,0
+Kansas City Chiefs,13,0
+Kansas City Chiefs,14,0
+Kansas City Chiefs,15,0
+Kansas City Chiefs,16,0
+Kansas City Chiefs,17,0
+Kansas City Chiefs,18,0
+Kansas City Chiefs,19,0
+Kansas City Chiefs,20,0
+Kansas City Chiefs,21,0
+Los Angeles Chargers,1,0
+Los Angeles Chargers,2,0
+Los Angeles Chargers,3,0
+Los Angeles Chargers,4,0
+Los Angeles Chargers,5,0
+Los Angeles Chargers,6,0
+Los Angeles Chargers,7,0
+Los Angeles Chargers,8,0
+Los Angeles Chargers,9,0
+Los Angeles Chargers,10,0
+Los Angeles Chargers,11,0
+Los Angeles Chargers,12,0
+Los Angeles Chargers,13,0
+Los Angeles Chargers,14,0
+Los Angeles Chargers,15,0
+Los Angeles Chargers,16,0
+Los Angeles Chargers,17,0
+Los Angeles Chargers,18,0
+Los Angeles Chargers,19,2
+Los Angeles Chargers,20,0
+Los Angeles Chargers,21,0
+Denver Broncos,1,0
+Denver Broncos,2,0
+Denver Broncos,3,1
+Denver Broncos,4,0
+Denver Broncos,5,0
+Denver Broncos,6,0
+Denver Broncos,7,0
+Denver Broncos,8,1
+Denver Broncos,9,0
+Denver Broncos,10,0
+Denver Broncos,11,0
+Denver Broncos,12,1
+Denver Broncos,13,0
+Denver Broncos,14,0
+Denver Broncos,15,1
+Denver Broncos,16,1
+Denver Broncos,17,0
+Denver Broncos,18,0
+Denver Broncos,19,0
+Denver Broncos,20,0
+Denver Broncos,21,0
+Oakland Raiders,1,0
+Oakland Raiders,2,0
+Oakland Raiders,3,0
+Oakland Raiders,4,0
+Oakland Raiders,5,0
+Oakland Raiders,6,0
+Oakland Raiders,7,0
+Oakland Raiders,8,0
+Oakland Raiders,9,0
+Oakland Raiders,10,0
+Oakland Raiders,11,0
+Oakland Raiders,12,0
+Oakland Raiders,13,0
+Oakland Raiders,14,1
+Oakland Raiders,15,0
+Oakland Raiders,16,1
+Oakland Raiders,17,1
+Oakland Raiders,18,0
+Oakland Raiders,19,0
+Oakland Raiders,20,0
+Oakland Raiders,21,0
+Dallas Cowboys,1,0
+Dallas Cowboys,2,1
+Dallas Cowboys,3,0
+Dallas Cowboys,4,0
+Dallas Cowboys,5,0
+Dallas Cowboys,6,0
+Dallas Cowboys,7,0
+Dallas Cowboys,8,0
+Dallas Cowboys,9,0
+Dallas Cowboys,10,0
+Dallas Cowboys,11,1
+Dallas Cowboys,12,2
+Dallas Cowboys,13,0
+Dallas Cowboys,14,0
+Dallas Cowboys,15,0
+Dallas Cowboys,16,0
+Dallas Cowboys,17,0
+Dallas Cowboys,18,0
+Dallas Cowboys,19,0
+Dallas Cowboys,20,0
+Dallas Cowboys,21,0
+Philadelphia Eagles,1,0
+Philadelphia Eagles,2,0
+Philadelphia Eagles,3,0
+Philadelphia Eagles,4,0
+Philadelphia Eagles,5,0
+Philadelphia Eagles,6,0
+Philadelphia Eagles,7,0
+Philadelphia Eagles,8,0
+Philadelphia Eagles,9,0
+Philadelphia Eagles,10,0
+Philadelphia Eagles,11,0
+Philadelphia Eagles,12,0
+Philadelphia Eagles,13,0
+Philadelphia Eagles,14,0
+Philadelphia Eagles,15,0
+Philadelphia Eagles,16,0
+Philadelphia Eagles,17,0
+Philadelphia Eagles,18,0
+Philadelphia Eagles,19,0
+Philadelphia Eagles,20,0
+Philadelphia Eagles,21,0
+Washington Redskins,1,1
+Washington Redskins,2,1
+Washington Redskins,3,1
+Washington Redskins,4,0
+Washington Redskins,5,0
+Washington Redskins,6,0
+Washington Redskins,7,0
+Washington Redskins,8,0
+Washington Redskins,9,0
+Washington Redskins,10,0
+Washington Redskins,11,0
+Washington Redskins,12,0
+Washington Redskins,13,0
+Washington Redskins,14,0
+Washington Redskins,15,1
+Washington Redskins,16,2
+Washington Redskins,17,2
+Washington Redskins,18,0
+Washington Redskins,19,0
+Washington Redskins,20,0
+Washington Redskins,21,0
+New York Giants,1,0
+New York Giants,2,0
+New York Giants,3,0
+New York Giants,4,0
+New York Giants,5,0
+New York Giants,6,0
+New York Giants,7,2
+New York Giants,8,1
+New York Giants,9,0
+New York Giants,10,1
+New York Giants,11,1
+New York Giants,12,1
+New York Giants,13,0
+New York Giants,14,0
+New York Giants,15,1
+New York Giants,16,1
+New York Giants,17,2
+New York Giants,18,0
+New York Giants,19,0
+New York Giants,20,0
+New York Giants,21,0
+New Orleans Saints,1,0
+New Orleans Saints,2,0
+New Orleans Saints,3,0
+New Orleans Saints,4,0
+New Orleans Saints,5,0
+New Orleans Saints,6,0
+New Orleans Saints,7,1
+New Orleans Saints,8,0
+New Orleans Saints,9,0
+New Orleans Saints,10,0
+New Orleans Saints,11,0
+New Orleans Saints,12,0
+New Orleans Saints,13,0
+New Orleans Saints,14,0
+New Orleans Saints,15,0
+New Orleans Saints,16,0
+New Orleans Saints,17,0
+New Orleans Saints,18,0
+New Orleans Saints,19,0
+New Orleans Saints,20,0
+New Orleans Saints,21,0
+Atlanta Falcons,1,0
+Atlanta Falcons,2,0
+Atlanta Falcons,3,0
+Atlanta Falcons,4,0
+Atlanta Falcons,5,0
+Atlanta Falcons,6,0
+Atlanta Falcons,7,0
+Atlanta Falcons,8,0
+Atlanta Falcons,9,0
+Atlanta Falcons,10,0
+Atlanta Falcons,11,0
+Atlanta Falcons,12,0
+Atlanta Falcons,13,0
+Atlanta Falcons,14,0
+Atlanta Falcons,15,0
+Atlanta Falcons,16,0
+Atlanta Falcons,17,0
+Atlanta Falcons,18,0
+Atlanta Falcons,19,0
+Atlanta Falcons,20,0
+Atlanta Falcons,21,0
+Carolina Panthers,1,0
+Carolina Panthers,2,1
+Carolina Panthers,3,2
+Carolina Panthers,4,0
+Carolina Panthers,5,1
+Carolina Panthers,6,1
+Carolina Panthers,7,1
+Carolina Panthers,8,1
+Carolina Panthers,9,1
+Carolina Panthers,10,1
+Carolina Panthers,11,1
+Carolina Panthers,12,1
+Carolina Panthers,13,1
+Carolina Panthers,14,2
+Carolina Panthers,15,3
+Carolina Panthers,16,3
+Carolina Panthers,17,3
+Carolina Panthers,18,0
+Carolina Panthers,19,0
+Carolina Panthers,20,0
+Carolina Panthers,21,0
+Tampa Bay Buccaneers,1,1
+Tampa Bay Buccaneers,2,1
+Tampa Bay Buccaneers,3,1
+Tampa Bay Buccaneers,4,1
+Tampa Bay Buccaneers,5,0
+Tampa Bay Buccaneers,6,1
+Tampa Bay Buccaneers,7,1
+Tampa Bay Buccaneers,8,1
+Tampa Bay Buccaneers,9,1
+Tampa Bay Buccaneers,10,1
+Tampa Bay Buccaneers,11,1
+Tampa Bay Buccaneers,12,2
+Tampa Bay Buccaneers,13,1
+Tampa Bay Buccaneers,14,2
+Tampa Bay Buccaneers,15,2
+Tampa Bay Buccaneers,16,1
+Tampa Bay Buccaneers,17,1
+Tampa Bay Buccaneers,18,0
+Tampa Bay Buccaneers,19,0
+Tampa Bay Buccaneers,20,0
+Tampa Bay Buccaneers,21,0
+Chicago Bears,1,1
+Chicago Bears,2,1
+Chicago Bears,3,1
+Chicago Bears,4,1
+Chicago Bears,5,0
+Chicago Bears,6,1
+Chicago Bears,7,1
+Chicago Bears,8,1
+Chicago Bears,9,2
+Chicago Bears,10,2
+Chicago Bears,11,2
+Chicago Bears,12,4
+Chicago Bears,13,2
+Chicago Bears,14,2
+Chicago Bears,15,2
+Chicago Bears,16,2
+Chicago Bears,17,2
+Chicago Bears,18,2
+Chicago Bears,19,0
+Chicago Bears,20,0
+Chicago Bears,21,0
+Minnesota Vikings,1,0
+Minnesota Vikings,2,0
+Minnesota Vikings,3,0
+Minnesota Vikings,4,0
+Minnesota Vikings,5,1
+Minnesota Vikings,6,0
+Minnesota Vikings,7,0
+Minnesota Vikings,8,0
+Minnesota Vikings,9,0
+Minnesota Vikings,10,0
+Minnesota Vikings,11,0
+Minnesota Vikings,12,1
+Minnesota Vikings,13,0
+Minnesota Vikings,14,1
+Minnesota Vikings,15,0
+Minnesota Vikings,16,0
+Minnesota Vikings,17,0
+Minnesota Vikings,18,0
+Minnesota Vikings,19,0
+Minnesota Vikings,20,0
+Minnesota Vikings,21,0
+Green Bay Packers,1,0
+Green Bay Packers,2,0
+Green Bay Packers,3,0
+Green Bay Packers,4,1
+Green Bay Packers,5,1
+Green Bay Packers,6,0
+Green Bay Packers,7,0
+Green Bay Packers,8,0
+Green Bay Packers,9,0
+Green Bay Packers,10,0
+Green Bay Packers,11,1
+Green Bay Packers,12,1
+Green Bay Packers,13,0
+Green Bay Packers,14,0
+Green Bay Packers,15,0
+Green Bay Packers,16,2
+Green Bay Packers,17,1
+Green Bay Packers,18,0
+Green Bay Packers,19,0
+Green Bay Packers,20,0
+Green Bay Packers,21,0
+Detroit Lions,1,0
+Detroit Lions,2,0
+Detroit Lions,3,1
+Detroit Lions,4,0
+Detroit Lions,5,1
+Detroit Lions,6,0
+Detroit Lions,7,1
+Detroit Lions,8,0
+Detroit Lions,9,0
+Detroit Lions,10,0
+Detroit Lions,11,0
+Detroit Lions,12,0
+Detroit Lions,13,0
+Detroit Lions,14,0
+Detroit Lions,15,1
+Detroit Lions,16,0
+Detroit Lions,17,1
+Detroit Lions,18,0
+Detroit Lions,19,0
+Detroit Lions,20,0
+Detroit Lions,21,0
+Los Angeles Rams,1,0
+Los Angeles Rams,2,0
+Los Angeles Rams,3,0
+Los Angeles Rams,4,0
+Los Angeles Rams,5,0
+Los Angeles Rams,6,0
+Los Angeles Rams,7,0
+Los Angeles Rams,8,0
+Los Angeles Rams,9,0
+Los Angeles Rams,10,0
+Los Angeles Rams,11,0
+Los Angeles Rams,12,0
+Los Angeles Rams,13,0
+Los Angeles Rams,14,0
+Los Angeles Rams,15,0
+Los Angeles Rams,16,0
+Los Angeles Rams,17,0
+Los Angeles Rams,18,0
+Los Angeles Rams,19,0
+Los Angeles Rams,20,0
+Los Angeles Rams,21,0
+Seattle Seahawks,1,0
+Seattle Seahawks,2,1
+Seattle Seahawks,3,1
+Seattle Seahawks,4,1
+Seattle Seahawks,5,1
+Seattle Seahawks,6,1
+Seattle Seahawks,7,0
+Seattle Seahawks,8,1
+Seattle Seahawks,9,1
+Seattle Seahawks,10,1
+Seattle Seahawks,11,1
+Seattle Seahawks,12,1
+Seattle Seahawks,13,1
+Seattle Seahawks,14,1
+Seattle Seahawks,15,2
+Seattle Seahawks,16,1
+Seattle Seahawks,17,1
+Seattle Seahawks,18,1
+Seattle Seahawks,19,0
+Seattle Seahawks,20,0
+Seattle Seahawks,21,0
+San Francisco 49ers,1,0
+San Francisco 49ers,2,1
+San Francisco 49ers,3,1
+San Francisco 49ers,4,1
+San Francisco 49ers,5,1
+San Francisco 49ers,6,1
+San Francisco 49ers,7,1
+San Francisco 49ers,8,1
+San Francisco 49ers,9,2
+San Francisco 49ers,10,1
+San Francisco 49ers,11,0
+San Francisco 49ers,12,1
+San Francisco 49ers,13,1
+San Francisco 49ers,14,1
+San Francisco 49ers,15,2
+San Francisco 49ers,16,1
+San Francisco 49ers,17,2
+San Francisco 49ers,18,0
+San Francisco 49ers,19,0
+San Francisco 49ers,20,0
+San Francisco 49ers,21,0
+Arizona Cardinals,1,0
+Arizona Cardinals,2,0
+Arizona Cardinals,3,0
+Arizona Cardinals,4,0
+Arizona Cardinals,5,0
+Arizona Cardinals,6,0
+Arizona Cardinals,7,0
+Arizona Cardinals,8,0
+Arizona Cardinals,9,0
+Arizona Cardinals,10,0
+Arizona Cardinals,11,0
+Arizona Cardinals,12,0
+Arizona Cardinals,13,0
+Arizona Cardinals,14,0
+Arizona Cardinals,15,0
+Arizona Cardinals,16,0
+Arizona Cardinals,17,0
+Arizona Cardinals,18,0
+Arizona Cardinals,19,0
+Arizona Cardinals,20,0
+Arizona Cardinals,21,0
