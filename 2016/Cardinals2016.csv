@@ -1,0 +1,609 @@
+﻿name,injury,week,team,year
+['Justin Bethel'],Questionable: foot,week_1,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_1,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_1,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_1,Arizona Cardinals,2016
+['John Brown'],NA,week_1,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_1,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_1,Arizona Cardinals,2016
+['Drew Butler'],NA,week_1,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_1,Arizona Cardinals,2016
+['Alani Fua'],NA,week_1,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_1,Arizona Cardinals,2016
+['Markus Golden'],NA,week_1,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_1,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_1,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_1,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_1,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_1,Arizona Cardinals,2016
+['Ulrick John'],NA,week_1,Arizona Cardinals,2016
+['Chris Johnson'],NA,week_1,Arizona Cardinals,2016
+['Lamar Louis'],NA,week_1,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_1,Arizona Cardinals,2016
+['Kareem Martin'],Out: knee,week_1,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_1,Arizona Cardinals,2016
+['Evan Mathis'],NA,week_1,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_1,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_1,Arizona Cardinals,2016
+['Sio Moore'],Questionable: hamstring,week_1,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_1,Arizona Cardinals,2016
+['Troy Niklas'],NA,week_1,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_1,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_1,Arizona Cardinals,2016
+['Carson Palmer'],NA,week_1,Arizona Cardinals,2016
+['Corey Peters'],NA,week_1,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_1,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_1,Arizona Cardinals,2016
+['Stepfan Taylor'],Questionable: knee,week_1,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_1,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_1,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_2,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_2,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_2,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_2,Arizona Cardinals,2016
+['John Brown'],NA,week_2,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_2,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_2,Arizona Cardinals,2016
+['Drew Butler'],NA,week_2,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_2,Arizona Cardinals,2016
+['Alani Fua'],NA,week_2,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_2,Arizona Cardinals,2016
+['Markus Golden'],NA,week_2,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_2,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_2,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_2,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_2,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_2,Arizona Cardinals,2016
+['Ulrick John'],NA,week_2,Arizona Cardinals,2016
+['Chris Johnson'],NA,week_2,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_2,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_2,Arizona Cardinals,2016
+['Kareem Martin'],Out: knee,week_2,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_2,Arizona Cardinals,2016
+['Evan Mathis'],Questionable: foot,week_2,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_2,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_2,Arizona Cardinals,2016
+['Sio Moore'],NA,week_2,Arizona Cardinals,2016
+['JJ Nelson'],Questionable: shoulder,week_2,Arizona Cardinals,2016
+['Troy Niklas'],NA,week_2,Arizona Cardinals,2016
+['Robert Nkemdiche'],Questionable: ankle,week_2,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_2,Arizona Cardinals,2016
+['Carson Palmer'],NA,week_2,Arizona Cardinals,2016
+['Corey Peters'],NA,week_2,Arizona Cardinals,2016
+['Frostee Rucker'],Out: knee,week_2,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_2,Arizona Cardinals,2016
+['Stepfan Taylor'],Questionable: knee,week_2,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_2,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_2,Arizona Cardinals,2016
+['Justin Bethel'],Questionable: foot,week_3,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_3,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_3,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_3,Arizona Cardinals,2016
+['John Brown'],NA,week_3,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_3,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_3,Arizona Cardinals,2016
+['Drew Butler'],NA,week_3,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_3,Arizona Cardinals,2016
+['Alani Fua'],NA,week_3,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_3,Arizona Cardinals,2016
+['Markus Golden'],NA,week_3,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_3,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_3,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_3,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_3,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_3,Arizona Cardinals,2016
+['Ulrick John'],NA,week_3,Arizona Cardinals,2016
+['Chris Johnson'],NA,week_3,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_3,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_3,Arizona Cardinals,2016
+['Kareem Martin'],Doubtful: knee,week_3,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_3,Arizona Cardinals,2016
+['Evan Mathis'],"Out: foot, toe",week_3,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_3,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_3,Arizona Cardinals,2016
+['Sio Moore'],NA,week_3,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_3,Arizona Cardinals,2016
+['Troy Niklas'],NA,week_3,Arizona Cardinals,2016
+['Robert Nkemdiche'],Questionable: ankle,week_3,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_3,Arizona Cardinals,2016
+['Carson Palmer'],NA,week_3,Arizona Cardinals,2016
+['Corey Peters'],NA,week_3,Arizona Cardinals,2016
+['Frostee Rucker'],Doubtful: knee,week_3,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_3,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_3,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_3,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_3,Arizona Cardinals,2016
+['Justin Bethel'],Questionable: foot,week_4,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_4,Arizona Cardinals,2016
+['Tyvon Branch'],Questionable: groin,week_4,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_4,Arizona Cardinals,2016
+['John Brown'],NA,week_4,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_4,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_4,Arizona Cardinals,2016
+['Drew Butler'],Out: left calf,week_4,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_4,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_4,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_4,Arizona Cardinals,2016
+['Markus Golden'],NA,week_4,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_4,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_4,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_4,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_4,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_4,Arizona Cardinals,2016
+['Ulrick John'],NA,week_4,Arizona Cardinals,2016
+['Chris Johnson'],: groin,week_4,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_4,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_4,Arizona Cardinals,2016
+['Kareem Martin'],Questionable: knee,week_4,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_4,Arizona Cardinals,2016
+['Evan Mathis'],NA,week_4,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_4,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_4,Arizona Cardinals,2016
+['Sio Moore'],NA,week_4,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_4,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_4,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_4,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_4,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_4,Arizona Cardinals,2016
+['Corey Peters'],NA,week_4,Arizona Cardinals,2016
+['Frostee Rucker'],Out: knee,week_4,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_4,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_4,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_4,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_4,Arizona Cardinals,2016
+['Justin Bethel'],Questionable: ,week_5,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_5,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_5,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_5,Arizona Cardinals,2016
+['John Brown'],NA,week_5,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_5,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_5,Arizona Cardinals,2016
+['Drew Butler'],NA,week_5,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_5,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_5,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_5,Arizona Cardinals,2016
+['Markus Golden'],NA,week_5,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_5,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_5,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_5,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_5,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_5,Arizona Cardinals,2016
+['Ulrick John'],NA,week_5,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_5,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_5,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_5,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_5,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_5,Arizona Cardinals,2016
+['Evan Mathis'],NA,week_5,Arizona Cardinals,2016
+['Josh Mauro'],Questionable: ,week_5,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_5,Arizona Cardinals,2016
+['Sio Moore'],NA,week_5,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_5,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_5,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_5,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_5,Arizona Cardinals,2016
+['Carson Palmer'],Out: ,week_5,Arizona Cardinals,2016
+['Corey Peters'],NA,week_5,Arizona Cardinals,2016
+['Frostee Rucker'],Questionable: ,week_5,Arizona Cardinals,2016
+['Ed Stinson'],Out: ,week_5,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_5,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_5,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_5,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_6,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_6,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_6,Arizona Cardinals,2016
+['Jaron Brown'],NA,week_6,Arizona Cardinals,2016
+['John Brown'],NA,week_6,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_6,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_6,Arizona Cardinals,2016
+['Drew Butler'],NA,week_6,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_6,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_6,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_6,Arizona Cardinals,2016
+['Markus Golden'],NA,week_6,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_6,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_6,Arizona Cardinals,2016
+['Mike Iupati'],Doubtful: ankle,week_6,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_6,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_6,Arizona Cardinals,2016
+['Ulrick John'],NA,week_6,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_6,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_6,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_6,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_6,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_6,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_6,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_6,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_6,Arizona Cardinals,2016
+['Sio Moore'],NA,week_6,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_6,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_6,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_6,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_6,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_6,Arizona Cardinals,2016
+['Corey Peters'],NA,week_6,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_6,Arizona Cardinals,2016
+['Ed Stinson'],Out: toe,week_6,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_6,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_6,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_6,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_7,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_7,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_7,Arizona Cardinals,2016
+['Jaron Brown'],Questionable: knee,week_7,Arizona Cardinals,2016
+['John Brown'],Doubtful: hamstring,week_7,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_7,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_7,Arizona Cardinals,2016
+['Drew Butler'],NA,week_7,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_7,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_7,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_7,Arizona Cardinals,2016
+['Markus Golden'],NA,week_7,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_7,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_7,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_7,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_7,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_7,Arizona Cardinals,2016
+['Ulrick John'],NA,week_7,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_7,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_7,Arizona Cardinals,2016
+['Gabe Martin'],Doubtful: knee,week_7,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_7,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_7,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_7,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_7,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_7,Arizona Cardinals,2016
+['Sio Moore'],NA,week_7,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_7,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_7,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_7,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_7,Arizona Cardinals,2016
+['Carson Palmer'],Questionable: hamstring,week_7,Arizona Cardinals,2016
+['Corey Peters'],NA,week_7,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_7,Arizona Cardinals,2016
+['Ed Stinson'],Out: toe,week_7,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_7,Arizona Cardinals,2016
+['Jared Veldheer'],NA,week_7,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_7,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_8,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_8,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_8,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_8,Arizona Cardinals,2016
+['John Brown'],Questionable: hamstring,week_8,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_8,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_8,Arizona Cardinals,2016
+['Drew Butler'],NA,week_8,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_8,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_8,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_8,Arizona Cardinals,2016
+['Markus Golden'],NA,week_8,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_8,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_8,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_8,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_8,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_8,Arizona Cardinals,2016
+['Ulrick John'],NA,week_8,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_8,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_8,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_8,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_8,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_8,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_8,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_8,Arizona Cardinals,2016
+['Ifeanyi Momah'],NA,week_8,Arizona Cardinals,2016
+['Sio Moore'],NA,week_8,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_8,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_8,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_8,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_8,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_8,Arizona Cardinals,2016
+['Corey Peters'],NA,week_8,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_8,Arizona Cardinals,2016
+['Ed Stinson'],Out: toe,week_8,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_8,Arizona Cardinals,2016
+['Jared Veldheer'],Questionable: finger,week_8,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_8,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_10,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_10,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_10,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_10,Arizona Cardinals,2016
+['John Brown'],NA,week_10,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_10,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_10,Arizona Cardinals,2016
+['Drew Butler'],NA,week_10,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_10,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_10,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_10,Arizona Cardinals,2016
+['Markus Golden'],NA,week_10,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_10,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_10,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_10,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_10,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_10,Arizona Cardinals,2016
+['Ulrick John'],NA,week_10,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_10,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_10,Arizona Cardinals,2016
+['Gabe Martin'],NA,week_10,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_10,Arizona Cardinals,2016
+['Tyrann Mathieu'],Out: shoulder,week_10,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_10,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_10,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_10,Arizona Cardinals,2016
+['Sio Moore'],NA,week_10,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_10,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_10,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_10,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_10,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_10,Arizona Cardinals,2016
+['Corey Peters'],NA,week_10,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_10,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_10,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_10,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_10,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_10,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_11,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_11,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_11,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_11,Arizona Cardinals,2016
+['John Brown'],NA,week_11,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_11,Arizona Cardinals,2016
+['Deone Bucannon'],Questionable: ankle,week_11,Arizona Cardinals,2016
+['Drew Butler'],NA,week_11,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_11,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_11,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_11,Arizona Cardinals,2016
+['Markus Golden'],NA,week_11,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_11,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_11,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_11,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_11,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_11,Arizona Cardinals,2016
+['Ulrick John'],NA,week_11,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_11,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_11,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_11,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_11,Arizona Cardinals,2016
+['Tyrann Mathieu'],Questionable: shoulder,week_11,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_11,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_11,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_11,Arizona Cardinals,2016
+['Sio Moore'],NA,week_11,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_11,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_11,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_11,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_11,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_11,Arizona Cardinals,2016
+['Corey Peters'],Doubtful: foot,week_11,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_11,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_11,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_11,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_11,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_11,Arizona Cardinals,2016
+['Justin Bethel'],Questionable: foot,week_12,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_12,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_12,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_12,Arizona Cardinals,2016
+['John Brown'],NA,week_12,Arizona Cardinals,2016
+['C.B. Bryant'],Questionable: groin,week_12,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_12,Arizona Cardinals,2016
+['Drew Butler'],NA,week_12,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_12,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_12,Arizona Cardinals,2016
+['Brittan Golden'],Questionable: groin,week_12,Arizona Cardinals,2016
+['Markus Golden'],NA,week_12,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_12,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_12,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_12,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_12,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_12,Arizona Cardinals,2016
+['Ulrick John'],NA,week_12,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_12,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_12,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_12,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_12,Arizona Cardinals,2016
+['Tyrann Mathieu'],Questionable: shoulder,week_12,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_12,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_12,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_12,Arizona Cardinals,2016
+['Sio Moore'],NA,week_12,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_12,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_12,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_12,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_12,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_12,Arizona Cardinals,2016
+['Corey Peters'],Questionable: foot,week_12,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_12,Arizona Cardinals,2016
+['Ed Stinson'],Questionable: hip,week_12,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_12,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_12,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_12,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_13,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_13,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_13,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_13,Arizona Cardinals,2016
+['John Brown'],Questionable: illness,week_13,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_13,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_13,Arizona Cardinals,2016
+['Drew Butler'],NA,week_13,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_13,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_13,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_13,Arizona Cardinals,2016
+['Markus Golden'],NA,week_13,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_13,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_13,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_13,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_13,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_13,Arizona Cardinals,2016
+['Ulrick John'],NA,week_13,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_13,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_13,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_13,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_13,Arizona Cardinals,2016
+['Tyrann Mathieu'],Doubtful: shoulder,week_13,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_13,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_13,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_13,Arizona Cardinals,2016
+['Sio Moore'],NA,week_13,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_13,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_13,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_13,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_13,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_13,Arizona Cardinals,2016
+['Corey Peters'],NA,week_13,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_13,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_13,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_13,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_13,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_13,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_14,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_14,Arizona Cardinals,2016
+['Tyvon Branch'],NA,week_14,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_14,Arizona Cardinals,2016
+['John Brown'],Questionable: illness,week_14,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_14,Arizona Cardinals,2016
+['Deone Bucannon'],NA,week_14,Arizona Cardinals,2016
+['Drew Butler'],NA,week_14,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_14,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_14,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_14,Arizona Cardinals,2016
+['Markus Golden'],Questionable: hamstring,week_14,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_14,Arizona Cardinals,2016
+['D.J. Humphries'],NA,week_14,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_14,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_14,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_14,Arizona Cardinals,2016
+['Ulrick John'],NA,week_14,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_14,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_14,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_14,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_14,Arizona Cardinals,2016
+['Tyrann Mathieu'],Out: shoulder,week_14,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_14,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_14,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_14,Arizona Cardinals,2016
+['Sio Moore'],NA,week_14,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_14,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_14,Arizona Cardinals,2016
+['Robert Nkemdiche'],Questionable: elbow,week_14,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_14,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_14,Arizona Cardinals,2016
+['Corey Peters'],NA,week_14,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_14,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_14,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_14,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_14,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_14,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_15,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_15,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_15,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_15,Arizona Cardinals,2016
+['John Brown'],Questionable: illness,week_15,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_15,Arizona Cardinals,2016
+['Deone Bucannon'],Injured Reserve: Ankle,week_15,Arizona Cardinals,2016
+['Drew Butler'],NA,week_15,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_15,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_15,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_15,Arizona Cardinals,2016
+['Markus Golden'],NA,week_15,Arizona Cardinals,2016
+['Jermaine Gresham'],Questionable: knee,week_15,Arizona Cardinals,2016
+['D.J. Humphries'],Out: concussion,week_15,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_15,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_15,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_15,Arizona Cardinals,2016
+['Ulrick John'],Injured Reserve: Shoulder,week_15,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_15,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_15,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_15,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_15,Arizona Cardinals,2016
+['Tyrann Mathieu'],NA,week_15,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_15,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_15,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_15,Arizona Cardinals,2016
+['Sio Moore'],NA,week_15,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_15,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_15,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_15,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_15,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_15,Arizona Cardinals,2016
+['Corey Peters'],NA,week_15,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_15,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_15,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_15,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_15,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_15,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_16,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_16,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_16,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_16,Arizona Cardinals,2016
+['John Brown'],Questionable: illness,week_16,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_16,Arizona Cardinals,2016
+['Deone Bucannon'],Injured Reserve: Ankle,week_16,Arizona Cardinals,2016
+['Drew Butler'],NA,week_16,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_16,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_16,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_16,Arizona Cardinals,2016
+['Markus Golden'],NA,week_16,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_16,Arizona Cardinals,2016
+['D.J. Humphries'],Out: concussion,week_16,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_16,Arizona Cardinals,2016
+['Tony Jefferson'],NA,week_16,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_16,Arizona Cardinals,2016
+['Ulrick John'],Injured Reserve: Shoulder,week_16,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_16,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_16,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_16,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_16,Arizona Cardinals,2016
+['Tyrann Mathieu'],Injured Reserve: Shoulder,week_16,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_16,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_16,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_16,Arizona Cardinals,2016
+['Sio Moore'],NA,week_16,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_16,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_16,Arizona Cardinals,2016
+['Robert Nkemdiche'],NA,week_16,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_16,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_16,Arizona Cardinals,2016
+['Corey Peters'],NA,week_16,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_16,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_16,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_16,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_16,Arizona Cardinals,2016
+['Brandon Williams'],Questionable: back,week_16,Arizona Cardinals,2016
+['Justin Bethel'],NA,week_17,Arizona Cardinals,2016
+['Elie Bouka'],Injured Reserve: Hamstring,week_17,Arizona Cardinals,2016
+['Tyvon Branch'],Injured Reserve: Groin,week_17,Arizona Cardinals,2016
+['Jaron Brown'],Injured Reserve: Knee,week_17,Arizona Cardinals,2016
+['John Brown'],Questionable: illness,week_17,Arizona Cardinals,2016
+['C.B. Bryant'],NA,week_17,Arizona Cardinals,2016
+['Deone Bucannon'],Injured Reserve: Ankle,week_17,Arizona Cardinals,2016
+['Drew Butler'],NA,week_17,Arizona Cardinals,2016
+['Durell Eskridge'],Injured Reserve: Arm,week_17,Arizona Cardinals,2016
+['Alani Fua'],Injured Reserve: Knee,week_17,Arizona Cardinals,2016
+['Brittan Golden'],NA,week_17,Arizona Cardinals,2016
+['Markus Golden'],NA,week_17,Arizona Cardinals,2016
+['Jermaine Gresham'],NA,week_17,Arizona Cardinals,2016
+['D.J. Humphries'],Out: concussion,week_17,Arizona Cardinals,2016
+['Mike Iupati'],NA,week_17,Arizona Cardinals,2016
+['Tony Jefferson'],Injured Reserve: Knee,week_17,Arizona Cardinals,2016
+['Mike Jenkins'],Injured Reserve: Knee,week_17,Arizona Cardinals,2016
+['Ulrick John'],Injured Reserve: Shoulder,week_17,Arizona Cardinals,2016
+['Chris Johnson'],Injured Reserve: Groin,week_17,Arizona Cardinals,2016
+['Lamar Louis'],Injured Reserve: Knee,week_17,Arizona Cardinals,2016
+['Gabe Martin'],Injured Reserve: Hamstring,week_17,Arizona Cardinals,2016
+['Kareem Martin'],NA,week_17,Arizona Cardinals,2016
+['Tyrann Mathieu'],Injured Reserve: Shoulder,week_17,Arizona Cardinals,2016
+['Evan Mathis'],Injured Reserve: Ankle,week_17,Arizona Cardinals,2016
+['Josh Mauro'],NA,week_17,Arizona Cardinals,2016
+['Ifeanyi Momah'],Injured Reserve: Wrist,week_17,Arizona Cardinals,2016
+['Sio Moore'],Questionable: ankle,week_17,Arizona Cardinals,2016
+['JJ Nelson'],NA,week_17,Arizona Cardinals,2016
+['Troy Niklas'],Injured Reserve: Wrist,week_17,Arizona Cardinals,2016
+['Robert Nkemdiche'],Questionable: ankle,week_17,Arizona Cardinals,2016
+['Tristan Okpalaugo'],Injured Reserve: Hamstring,week_17,Arizona Cardinals,2016
+['Carson Palmer'],: concussion,week_17,Arizona Cardinals,2016
+['Corey Peters'],NA,week_17,Arizona Cardinals,2016
+['Frostee Rucker'],NA,week_17,Arizona Cardinals,2016
+['Ed Stinson'],NA,week_17,Arizona Cardinals,2016
+['Stepfan Taylor'],NA,week_17,Arizona Cardinals,2016
+['Jared Veldheer'],Injured Reserve: Tricep,week_17,Arizona Cardinals,2016
+['Brandon Williams'],NA,week_17,Arizona Cardinals,2016

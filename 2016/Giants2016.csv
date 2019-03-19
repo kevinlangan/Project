@@ -1,0 +1,613 @@
+﻿name,injury,week,team,year
+['Andrew Adams'],NA,week_1,New York Giants,2016
+['Jerell Adams'],NA,week_1,New York Giants,2016
+['Eli Apple'],NA,week_1,New York Giants,2016
+['Nat Berhe'],NA,week_1,New York Giants,2016
+['Jonathan Casillas'],NA,week_1,New York Giants,2016
+['Victor Cruz'],NA,week_1,New York Giants,2016
+['Orleans Darkwa'],NA,week_1,New York Giants,2016
+['Zak DeOssie'],NA,week_1,New York Giants,2016
+['Larry Donnell'],NA,week_1,New York Giants,2016
+['Adam Gettis'],NA,week_1,New York Giants,2016
+['B.J. Goodson'],NA,week_1,New York Giants,2016
+['Dwayne Harris'],NA,week_1,New York Giants,2016
+['Mark Herzlich'],NA,week_1,New York Giants,2016
+['Janoris Jenkins'],NA,week_1,New York Giants,2016
+['Rashad Jennings'],NA,week_1,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_1,New York Giants,2016
+['Brett Jones'],NA,week_1,New York Giants,2016
+['Devon Kennard'],NA,week_1,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_1,New York Giants,2016
+['Roger Lewis'],NA,week_1,New York Giants,2016
+['Ryan Nassib'],NA,week_1,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_1,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_1,New York Giants,2016
+['Justin Pugh'],NA,week_1,New York Giants,2016
+['Bobby Rainey'],NA,week_1,New York Giants,2016
+['Keenan Robinson'],NA,week_1,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_1,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_1,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_1,New York Giants,2016
+['J.T. Thomas'],NA,week_1,New York Giants,2016
+['Robert Thomas'],Out: illness,week_1,New York Giants,2016
+['Darian Thompson'],NA,week_1,New York Giants,2016
+['Mykkele Thompson'],NA,week_1,New York Giants,2016
+['Shane Vereen'],NA,week_1,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_1,New York Giants,2016
+['Kerry Wynn'],NA,week_1,New York Giants,2016
+['Andrew Adams'],NA,week_2,New York Giants,2016
+['Jerell Adams'],NA,week_2,New York Giants,2016
+['Eli Apple'],NA,week_2,New York Giants,2016
+['Nat Berhe'],NA,week_2,New York Giants,2016
+['Jonathan Casillas'],NA,week_2,New York Giants,2016
+['Victor Cruz'],NA,week_2,New York Giants,2016
+['Orleans Darkwa'],NA,week_2,New York Giants,2016
+['Zak DeOssie'],NA,week_2,New York Giants,2016
+['Larry Donnell'],NA,week_2,New York Giants,2016
+['Adam Gettis'],NA,week_2,New York Giants,2016
+['B.J. Goodson'],NA,week_2,New York Giants,2016
+['Dwayne Harris'],NA,week_2,New York Giants,2016
+['Mark Herzlich'],NA,week_2,New York Giants,2016
+['Janoris Jenkins'],NA,week_2,New York Giants,2016
+['Rashad Jennings'],NA,week_2,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_2,New York Giants,2016
+['Brett Jones'],NA,week_2,New York Giants,2016
+['Devon Kennard'],NA,week_2,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_2,New York Giants,2016
+['Roger Lewis'],NA,week_2,New York Giants,2016
+['Ryan Nassib'],NA,week_2,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_2,New York Giants,2016
+['Jason Pierre-Paul'],Questionable: shoulder,week_2,New York Giants,2016
+['Justin Pugh'],NA,week_2,New York Giants,2016
+['Bobby Rainey'],NA,week_2,New York Giants,2016
+['Keenan Robinson'],NA,week_2,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_2,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_2,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_2,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_2,New York Giants,2016
+['Robert Thomas'],Out: illness,week_2,New York Giants,2016
+['Darian Thompson'],NA,week_2,New York Giants,2016
+['Mykkele Thompson'],NA,week_2,New York Giants,2016
+['Shane Vereen'],NA,week_2,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_2,New York Giants,2016
+['Kerry Wynn'],NA,week_2,New York Giants,2016
+['Andrew Adams'],NA,week_3,New York Giants,2016
+['Jerell Adams'],NA,week_3,New York Giants,2016
+['Eli Apple'],NA,week_3,New York Giants,2016
+['Nat Berhe'],NA,week_3,New York Giants,2016
+['Jonathan Casillas'],NA,week_3,New York Giants,2016
+['Victor Cruz'],NA,week_3,New York Giants,2016
+['Orleans Darkwa'],NA,week_3,New York Giants,2016
+['Zak DeOssie'],NA,week_3,New York Giants,2016
+['Larry Donnell'],NA,week_3,New York Giants,2016
+['Adam Gettis'],NA,week_3,New York Giants,2016
+['B.J. Goodson'],NA,week_3,New York Giants,2016
+['Dwayne Harris'],NA,week_3,New York Giants,2016
+['Mark Herzlich'],NA,week_3,New York Giants,2016
+['Janoris Jenkins'],NA,week_3,New York Giants,2016
+['Rashad Jennings'],NA,week_3,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_3,New York Giants,2016
+['Brett Jones'],NA,week_3,New York Giants,2016
+['Devon Kennard'],NA,week_3,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_3,New York Giants,2016
+['Roger Lewis'],NA,week_3,New York Giants,2016
+['Ryan Nassib'],NA,week_3,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_3,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_3,New York Giants,2016
+['Justin Pugh'],NA,week_3,New York Giants,2016
+['Bobby Rainey'],NA,week_3,New York Giants,2016
+['Keenan Robinson'],NA,week_3,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_3,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_3,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_3,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_3,New York Giants,2016
+['Robert Thomas'],Out: illness,week_3,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_3,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_3,New York Giants,2016
+['Shane Vereen'],NA,week_3,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_3,New York Giants,2016
+['Kerry Wynn'],NA,week_3,New York Giants,2016
+['Andrew Adams'],NA,week_4,New York Giants,2016
+['Jerell Adams'],NA,week_4,New York Giants,2016
+['Eli Apple'],Doubtful: hamstring,week_4,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_4,New York Giants,2016
+['Jonathan Casillas'],NA,week_4,New York Giants,2016
+['Victor Cruz'],NA,week_4,New York Giants,2016
+['Orleans Darkwa'],NA,week_4,New York Giants,2016
+['Zak DeOssie'],NA,week_4,New York Giants,2016
+['Larry Donnell'],NA,week_4,New York Giants,2016
+['Adam Gettis'],NA,week_4,New York Giants,2016
+['B.J. Goodson'],NA,week_4,New York Giants,2016
+['Dwayne Harris'],NA,week_4,New York Giants,2016
+['Mark Herzlich'],NA,week_4,New York Giants,2016
+['Janoris Jenkins'],NA,week_4,New York Giants,2016
+['Rashad Jennings'],Questionable: thumb,week_4,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_4,New York Giants,2016
+['Brett Jones'],NA,week_4,New York Giants,2016
+['Devon Kennard'],NA,week_4,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_4,New York Giants,2016
+['Roger Lewis'],NA,week_4,New York Giants,2016
+['Ryan Nassib'],NA,week_4,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_4,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_4,New York Giants,2016
+['Justin Pugh'],NA,week_4,New York Giants,2016
+['Bobby Rainey'],NA,week_4,New York Giants,2016
+['Keenan Robinson'],NA,week_4,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_4,New York Giants,2016
+['Dominique Rodgers-Cromartie'],Questionable: groin,week_4,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_4,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_4,New York Giants,2016
+['Robert Thomas'],Out: illness,week_4,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_4,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_4,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_4,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_4,New York Giants,2016
+['Kerry Wynn'],NA,week_4,New York Giants,2016
+['Andrew Adams'],NA,week_5,New York Giants,2016
+['Jerell Adams'],NA,week_5,New York Giants,2016
+['Eli Apple'],Questionable: hamstring,week_5,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_5,New York Giants,2016
+['Jonathan Casillas'],NA,week_5,New York Giants,2016
+['Victor Cruz'],NA,week_5,New York Giants,2016
+['Orleans Darkwa'],NA,week_5,New York Giants,2016
+['Zak DeOssie'],NA,week_5,New York Giants,2016
+['Larry Donnell'],Out: concussion,week_5,New York Giants,2016
+['Adam Gettis'],NA,week_5,New York Giants,2016
+['B.J. Goodson'],NA,week_5,New York Giants,2016
+['Dwayne Harris'],NA,week_5,New York Giants,2016
+['Mark Herzlich'],NA,week_5,New York Giants,2016
+['Janoris Jenkins'],NA,week_5,New York Giants,2016
+['Rashad Jennings'],Questionable: thumb,week_5,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_5,New York Giants,2016
+['Brett Jones'],NA,week_5,New York Giants,2016
+['Devon Kennard'],NA,week_5,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_5,New York Giants,2016
+['Roger Lewis'],NA,week_5,New York Giants,2016
+['Ryan Nassib'],NA,week_5,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_5,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_5,New York Giants,2016
+['Justin Pugh'],NA,week_5,New York Giants,2016
+['Bobby Rainey'],NA,week_5,New York Giants,2016
+['Keenan Robinson'],NA,week_5,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_5,New York Giants,2016
+['Dominique Rodgers-Cromartie'],Questionable: groin,week_5,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_5,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_5,New York Giants,2016
+['Robert Thomas'],NA,week_5,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_5,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_5,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_5,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_5,New York Giants,2016
+['Kerry Wynn'],NA,week_5,New York Giants,2016
+['Andrew Adams'],NA,week_6,New York Giants,2016
+['Jerell Adams'],NA,week_6,New York Giants,2016
+['Eli Apple'],Questionable: groin,week_6,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_6,New York Giants,2016
+['Jonathan Casillas'],NA,week_6,New York Giants,2016
+['Victor Cruz'],NA,week_6,New York Giants,2016
+['Orleans Darkwa'],NA,week_6,New York Giants,2016
+['Zak DeOssie'],NA,week_6,New York Giants,2016
+['Larry Donnell'],NA,week_6,New York Giants,2016
+['Adam Gettis'],NA,week_6,New York Giants,2016
+['B.J. Goodson'],NA,week_6,New York Giants,2016
+['Dwayne Harris'],Questionable: toe,week_6,New York Giants,2016
+['Mark Herzlich'],NA,week_6,New York Giants,2016
+['Janoris Jenkins'],NA,week_6,New York Giants,2016
+['Rashad Jennings'],Questionable: thumb,week_6,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_6,New York Giants,2016
+['Brett Jones'],NA,week_6,New York Giants,2016
+['Devon Kennard'],Questionable: concussion,week_6,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_6,New York Giants,2016
+['Roger Lewis'],NA,week_6,New York Giants,2016
+['Ryan Nassib'],NA,week_6,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_6,New York Giants,2016
+['Jason Pierre-Paul'],Questionable: groin,week_6,New York Giants,2016
+['Justin Pugh'],NA,week_6,New York Giants,2016
+['Bobby Rainey'],NA,week_6,New York Giants,2016
+['Keenan Robinson'],NA,week_6,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_6,New York Giants,2016
+['Dominique Rodgers-Cromartie'],Questionable: groin,week_6,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_6,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_6,New York Giants,2016
+['Robert Thomas'],NA,week_6,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_6,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_6,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_6,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_6,New York Giants,2016
+['Kerry Wynn'],NA,week_6,New York Giants,2016
+['Andrew Adams'],NA,week_7,New York Giants,2016
+['Jerell Adams'],NA,week_7,New York Giants,2016
+['Eli Apple'],NA,week_7,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_7,New York Giants,2016
+['Jonathan Casillas'],NA,week_7,New York Giants,2016
+['Victor Cruz'],NA,week_7,New York Giants,2016
+['Orleans Darkwa'],NA,week_7,New York Giants,2016
+['Zak DeOssie'],Questionable: ankle,week_7,New York Giants,2016
+['Larry Donnell'],NA,week_7,New York Giants,2016
+['Adam Gettis'],NA,week_7,New York Giants,2016
+['B.J. Goodson'],NA,week_7,New York Giants,2016
+['Dwayne Harris'],NA,week_7,New York Giants,2016
+['Mark Herzlich'],NA,week_7,New York Giants,2016
+['Janoris Jenkins'],NA,week_7,New York Giants,2016
+['Rashad Jennings'],NA,week_7,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_7,New York Giants,2016
+['Brett Jones'],NA,week_7,New York Giants,2016
+['Devon Kennard'],NA,week_7,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_7,New York Giants,2016
+['Roger Lewis'],NA,week_7,New York Giants,2016
+['Ryan Nassib'],NA,week_7,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_7,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_7,New York Giants,2016
+['Justin Pugh'],NA,week_7,New York Giants,2016
+['Bobby Rainey'],NA,week_7,New York Giants,2016
+['Keenan Robinson'],NA,week_7,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_7,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_7,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_7,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_7,New York Giants,2016
+['Robert Thomas'],NA,week_7,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_7,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_7,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_7,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_7,New York Giants,2016
+['Kerry Wynn'],NA,week_7,New York Giants,2016
+['Andrew Adams'],NA,week_9,New York Giants,2016
+['Jerell Adams'],NA,week_9,New York Giants,2016
+['Eli Apple'],NA,week_9,New York Giants,2016
+['Nat Berhe'],Questionable: concussion,week_9,New York Giants,2016
+['Jonathan Casillas'],NA,week_9,New York Giants,2016
+['Victor Cruz'],NA,week_9,New York Giants,2016
+['Orleans Darkwa'],NA,week_9,New York Giants,2016
+['Zak DeOssie'],NA,week_9,New York Giants,2016
+['Larry Donnell'],NA,week_9,New York Giants,2016
+['Adam Gettis'],NA,week_9,New York Giants,2016
+['B.J. Goodson'],NA,week_9,New York Giants,2016
+['Dwayne Harris'],NA,week_9,New York Giants,2016
+['Mark Herzlich'],NA,week_9,New York Giants,2016
+['Janoris Jenkins'],NA,week_9,New York Giants,2016
+['Rashad Jennings'],NA,week_9,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_9,New York Giants,2016
+['Brett Jones'],NA,week_9,New York Giants,2016
+['Devon Kennard'],NA,week_9,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_9,New York Giants,2016
+['Roger Lewis'],NA,week_9,New York Giants,2016
+['Ryan Nassib'],NA,week_9,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_9,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_9,New York Giants,2016
+['Justin Pugh'],NA,week_9,New York Giants,2016
+['Bobby Rainey'],Questionable: calf,week_9,New York Giants,2016
+['Keenan Robinson'],NA,week_9,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_9,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_9,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_9,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_9,New York Giants,2016
+['Robert Thomas'],NA,week_9,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_9,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_9,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_9,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_9,New York Giants,2016
+['Kerry Wynn'],Out: concussion,week_9,New York Giants,2016
+['Andrew Adams'],Questionable: shoulder,week_10,New York Giants,2016
+['Jerell Adams'],NA,week_10,New York Giants,2016
+['Eli Apple'],NA,week_10,New York Giants,2016
+['Nat Berhe'],NA,week_10,New York Giants,2016
+['Jonathan Casillas'],Questionable: calf,week_10,New York Giants,2016
+['Victor Cruz'],Questionable: ankle,week_10,New York Giants,2016
+['Orleans Darkwa'],NA,week_10,New York Giants,2016
+['Zak DeOssie'],NA,week_10,New York Giants,2016
+['Larry Donnell'],NA,week_10,New York Giants,2016
+['Adam Gettis'],NA,week_10,New York Giants,2016
+['B.J. Goodson'],NA,week_10,New York Giants,2016
+['Dwayne Harris'],NA,week_10,New York Giants,2016
+['Mark Herzlich'],NA,week_10,New York Giants,2016
+['Janoris Jenkins'],NA,week_10,New York Giants,2016
+['Rashad Jennings'],NA,week_10,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_10,New York Giants,2016
+['Brett Jones'],NA,week_10,New York Giants,2016
+['Devon Kennard'],NA,week_10,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_10,New York Giants,2016
+['Roger Lewis'],NA,week_10,New York Giants,2016
+['Ryan Nassib'],NA,week_10,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_10,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_10,New York Giants,2016
+['Justin Pugh'],Out: knee,week_10,New York Giants,2016
+['Bobby Rainey'],NA,week_10,New York Giants,2016
+['Keenan Robinson'],NA,week_10,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_10,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_10,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_10,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_10,New York Giants,2016
+['Robert Thomas'],NA,week_10,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_10,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_10,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_10,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_10,New York Giants,2016
+['Kerry Wynn'],Questionable: concussion,week_10,New York Giants,2016
+['Andrew Adams'],NA,week_11,New York Giants,2016
+['Jerell Adams'],NA,week_11,New York Giants,2016
+['Eli Apple'],NA,week_11,New York Giants,2016
+['Nat Berhe'],NA,week_11,New York Giants,2016
+['Jonathan Casillas'],NA,week_11,New York Giants,2016
+['Victor Cruz'],NA,week_11,New York Giants,2016
+['Orleans Darkwa'],Questionable: lower leg,week_11,New York Giants,2016
+['Zak DeOssie'],NA,week_11,New York Giants,2016
+['Larry Donnell'],NA,week_11,New York Giants,2016
+['Adam Gettis'],Questionable: calf,week_11,New York Giants,2016
+['B.J. Goodson'],NA,week_11,New York Giants,2016
+['Dwayne Harris'],NA,week_11,New York Giants,2016
+['Mark Herzlich'],NA,week_11,New York Giants,2016
+['Janoris Jenkins'],NA,week_11,New York Giants,2016
+['Rashad Jennings'],NA,week_11,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_11,New York Giants,2016
+['Brett Jones'],Out: calf,week_11,New York Giants,2016
+['Devon Kennard'],NA,week_11,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_11,New York Giants,2016
+['Roger Lewis'],NA,week_11,New York Giants,2016
+['Ryan Nassib'],NA,week_11,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_11,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_11,New York Giants,2016
+['Justin Pugh'],Out: knee,week_11,New York Giants,2016
+['Bobby Rainey'],NA,week_11,New York Giants,2016
+['Keenan Robinson'],NA,week_11,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_11,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_11,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_11,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_11,New York Giants,2016
+['Robert Thomas'],NA,week_11,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_11,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_11,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_11,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_11,New York Giants,2016
+['Kerry Wynn'],NA,week_11,New York Giants,2016
+['Andrew Adams'],NA,week_12,New York Giants,2016
+['Jerell Adams'],NA,week_12,New York Giants,2016
+['Eli Apple'],NA,week_12,New York Giants,2016
+['Nat Berhe'],NA,week_12,New York Giants,2016
+['Jonathan Casillas'],NA,week_12,New York Giants,2016
+['Victor Cruz'],NA,week_12,New York Giants,2016
+['Orleans Darkwa'],Questionable: lower leg,week_12,New York Giants,2016
+['Zak DeOssie'],NA,week_12,New York Giants,2016
+['Larry Donnell'],NA,week_12,New York Giants,2016
+['Adam Gettis'],Questionable: calf,week_12,New York Giants,2016
+['B.J. Goodson'],NA,week_12,New York Giants,2016
+['Dwayne Harris'],NA,week_12,New York Giants,2016
+['Mark Herzlich'],NA,week_12,New York Giants,2016
+['Janoris Jenkins'],NA,week_12,New York Giants,2016
+['Rashad Jennings'],NA,week_12,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_12,New York Giants,2016
+['Brett Jones'],Out: calf,week_12,New York Giants,2016
+['Devon Kennard'],NA,week_12,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_12,New York Giants,2016
+['Roger Lewis'],Questionable: concussion,week_12,New York Giants,2016
+['Ryan Nassib'],NA,week_12,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_12,New York Giants,2016
+['Jason Pierre-Paul'],Questionable: knee,week_12,New York Giants,2016
+['Justin Pugh'],Out: knee,week_12,New York Giants,2016
+['Bobby Rainey'],NA,week_12,New York Giants,2016
+['Keenan Robinson'],NA,week_12,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_12,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_12,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_12,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_12,New York Giants,2016
+['Robert Thomas'],NA,week_12,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_12,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_12,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_12,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_12,New York Giants,2016
+['Kerry Wynn'],NA,week_12,New York Giants,2016
+['Andrew Adams'],NA,week_13,New York Giants,2016
+['Jerell Adams'],NA,week_13,New York Giants,2016
+['Eli Apple'],NA,week_13,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_13,New York Giants,2016
+['Jonathan Casillas'],NA,week_13,New York Giants,2016
+['Victor Cruz'],NA,week_13,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_13,New York Giants,2016
+['Zak DeOssie'],NA,week_13,New York Giants,2016
+['Larry Donnell'],NA,week_13,New York Giants,2016
+['Adam Gettis'],NA,week_13,New York Giants,2016
+['B.J. Goodson'],NA,week_13,New York Giants,2016
+['Dwayne Harris'],NA,week_13,New York Giants,2016
+['Mark Herzlich'],Out: concussion,week_13,New York Giants,2016
+['Janoris Jenkins'],NA,week_13,New York Giants,2016
+['Rashad Jennings'],NA,week_13,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_13,New York Giants,2016
+['Brett Jones'],Questionable: calf,week_13,New York Giants,2016
+['Devon Kennard'],NA,week_13,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_13,New York Giants,2016
+['Roger Lewis'],NA,week_13,New York Giants,2016
+['Ryan Nassib'],NA,week_13,New York Giants,2016
+['Owamagbe Odighizuwa'],Out: knee,week_13,New York Giants,2016
+['Jason Pierre-Paul'],NA,week_13,New York Giants,2016
+['Justin Pugh'],Out: knee,week_13,New York Giants,2016
+['Bobby Rainey'],NA,week_13,New York Giants,2016
+['Keenan Robinson'],NA,week_13,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_13,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_13,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_13,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_13,New York Giants,2016
+['Robert Thomas'],NA,week_13,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_13,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_13,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_13,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_13,New York Giants,2016
+['Kerry Wynn'],NA,week_13,New York Giants,2016
+['Andrew Adams'],NA,week_14,New York Giants,2016
+['Jerell Adams'],NA,week_14,New York Giants,2016
+['Eli Apple'],NA,week_14,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_14,New York Giants,2016
+['Jonathan Casillas'],NA,week_14,New York Giants,2016
+['Victor Cruz'],NA,week_14,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_14,New York Giants,2016
+['Zak DeOssie'],NA,week_14,New York Giants,2016
+['Larry Donnell'],NA,week_14,New York Giants,2016
+['Adam Gettis'],NA,week_14,New York Giants,2016
+['B.J. Goodson'],NA,week_14,New York Giants,2016
+['Dwayne Harris'],Questionable: ankle,week_14,New York Giants,2016
+['Mark Herzlich'],Out: concussion,week_14,New York Giants,2016
+['Janoris Jenkins'],NA,week_14,New York Giants,2016
+['Rashad Jennings'],NA,week_14,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_14,New York Giants,2016
+['Brett Jones'],NA,week_14,New York Giants,2016
+['Devon Kennard'],NA,week_14,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_14,New York Giants,2016
+['Roger Lewis'],NA,week_14,New York Giants,2016
+['Ryan Nassib'],NA,week_14,New York Giants,2016
+['Owamagbe Odighizuwa'],Questionable: knee,week_14,New York Giants,2016
+['Jason Pierre-Paul'],Out: core muscle,week_14,New York Giants,2016
+['Justin Pugh'],Questionable: knee,week_14,New York Giants,2016
+['Bobby Rainey'],NA,week_14,New York Giants,2016
+['Keenan Robinson'],NA,week_14,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_14,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_14,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_14,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_14,New York Giants,2016
+['Robert Thomas'],NA,week_14,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_14,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_14,New York Giants,2016
+['Shane Vereen'],NA,week_14,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_14,New York Giants,2016
+['Kerry Wynn'],NA,week_14,New York Giants,2016
+['Andrew Adams'],NA,week_15,New York Giants,2016
+['Jerell Adams'],NA,week_15,New York Giants,2016
+['Eli Apple'],NA,week_15,New York Giants,2016
+['Nat Berhe'],Questionable: concussion,week_15,New York Giants,2016
+['Jonathan Casillas'],NA,week_15,New York Giants,2016
+['Victor Cruz'],NA,week_15,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_15,New York Giants,2016
+['Zak DeOssie'],NA,week_15,New York Giants,2016
+['Larry Donnell'],NA,week_15,New York Giants,2016
+['Adam Gettis'],NA,week_15,New York Giants,2016
+['B.J. Goodson'],NA,week_15,New York Giants,2016
+['Dwayne Harris'],NA,week_15,New York Giants,2016
+['Mark Herzlich'],NA,week_15,New York Giants,2016
+['Janoris Jenkins'],NA,week_15,New York Giants,2016
+['Rashad Jennings'],NA,week_15,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_15,New York Giants,2016
+['Brett Jones'],NA,week_15,New York Giants,2016
+['Devon Kennard'],NA,week_15,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_15,New York Giants,2016
+['Roger Lewis'],NA,week_15,New York Giants,2016
+['Ryan Nassib'],NA,week_15,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_15,New York Giants,2016
+['Jason Pierre-Paul'],Out: core muscle,week_15,New York Giants,2016
+['Justin Pugh'],NA,week_15,New York Giants,2016
+['Bobby Rainey'],NA,week_15,New York Giants,2016
+['Keenan Robinson'],Questionable: shoulder,week_15,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_15,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_15,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_15,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_15,New York Giants,2016
+['Robert Thomas'],NA,week_15,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_15,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_15,New York Giants,2016
+['Shane Vereen'],NA,week_15,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_15,New York Giants,2016
+['Kerry Wynn'],NA,week_15,New York Giants,2016
+['Andrew Adams'],NA,week_16,New York Giants,2016
+['Jerell Adams'],NA,week_16,New York Giants,2016
+['Eli Apple'],NA,week_16,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_16,New York Giants,2016
+['Jonathan Casillas'],Questionable: knee,week_16,New York Giants,2016
+['Victor Cruz'],NA,week_16,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_16,New York Giants,2016
+['Zak DeOssie'],NA,week_16,New York Giants,2016
+['Larry Donnell'],NA,week_16,New York Giants,2016
+['Adam Gettis'],NA,week_16,New York Giants,2016
+['B.J. Goodson'],NA,week_16,New York Giants,2016
+['Dwayne Harris'],NA,week_16,New York Giants,2016
+['Mark Herzlich'],NA,week_16,New York Giants,2016
+['Janoris Jenkins'],Questionable: back,week_16,New York Giants,2016
+['Rashad Jennings'],NA,week_16,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_16,New York Giants,2016
+['Brett Jones'],NA,week_16,New York Giants,2016
+['Devon Kennard'],NA,week_16,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_16,New York Giants,2016
+['Roger Lewis'],NA,week_16,New York Giants,2016
+['Ryan Nassib'],Injured Reserve: Elbow,week_16,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_16,New York Giants,2016
+['Jason Pierre-Paul'],Out: core muscle,week_16,New York Giants,2016
+['Justin Pugh'],NA,week_16,New York Giants,2016
+['Bobby Rainey'],NA,week_16,New York Giants,2016
+['Keenan Robinson'],NA,week_16,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_16,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_16,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_16,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_16,New York Giants,2016
+['Robert Thomas'],NA,week_16,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_16,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_16,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_16,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_16,New York Giants,2016
+['Kerry Wynn'],NA,week_16,New York Giants,2016
+['Andrew Adams'],NA,week_17,New York Giants,2016
+['Jerell Adams'],Questionable: shoulder,week_17,New York Giants,2016
+['Eli Apple'],NA,week_17,New York Giants,2016
+['Nat Berhe'],Out: concussion,week_17,New York Giants,2016
+['Jonathan Casillas'],NA,week_17,New York Giants,2016
+['Victor Cruz'],NA,week_17,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_17,New York Giants,2016
+['Zak DeOssie'],NA,week_17,New York Giants,2016
+['Larry Donnell'],NA,week_17,New York Giants,2016
+['Adam Gettis'],NA,week_17,New York Giants,2016
+['B.J. Goodson'],Questionable: concussion,week_17,New York Giants,2016
+['Dwayne Harris'],NA,week_17,New York Giants,2016
+['Mark Herzlich'],NA,week_17,New York Giants,2016
+['Janoris Jenkins'],Questionable: back,week_17,New York Giants,2016
+['Rashad Jennings'],NA,week_17,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_17,New York Giants,2016
+['Brett Jones'],NA,week_17,New York Giants,2016
+['Devon Kennard'],NA,week_17,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_17,New York Giants,2016
+['Roger Lewis'],NA,week_17,New York Giants,2016
+['Ryan Nassib'],Injured Reserve: Elbow,week_17,New York Giants,2016
+['Owamagbe Odighizuwa'],NA,week_17,New York Giants,2016
+['Jason Pierre-Paul'],Out: core muscle,week_17,New York Giants,2016
+['Justin Pugh'],NA,week_17,New York Giants,2016
+['Bobby Rainey'],NA,week_17,New York Giants,2016
+['Keenan Robinson'],NA,week_17,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_17,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_17,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_17,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_17,New York Giants,2016
+['Robert Thomas'],NA,week_17,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_17,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_17,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_17,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_17,New York Giants,2016
+['Kerry Wynn'],NA,week_17,New York Giants,2016
+['Andrew Adams'],NA,week_18,New York Giants,2016
+['Jerell Adams'],NA,week_18,New York Giants,2016
+['Eli Apple'],NA,week_18,New York Giants,2016
+['Nat Berhe'],NA,week_18,New York Giants,2016
+['Jonathan Casillas'],NA,week_18,New York Giants,2016
+['Victor Cruz'],NA,week_18,New York Giants,2016
+['Orleans Darkwa'],Injured Reserve: Leg,week_18,New York Giants,2016
+['Zak DeOssie'],NA,week_18,New York Giants,2016
+['Larry Donnell'],NA,week_18,New York Giants,2016
+['Adam Gettis'],NA,week_18,New York Giants,2016
+['B.J. Goodson'],NA,week_18,New York Giants,2016
+['Dwayne Harris'],NA,week_18,New York Giants,2016
+['Mark Herzlich'],NA,week_18,New York Giants,2016
+['Janoris Jenkins'],NA,week_18,New York Giants,2016
+['Rashad Jennings'],NA,week_18,New York Giants,2016
+['Will Johnson'],Injured Reserve: Stinger,week_18,New York Giants,2016
+['Brett Jones'],NA,week_18,New York Giants,2016
+['Devon Kennard'],NA,week_18,New York Giants,2016
+['Matt LaCosse'],Injured Reserve: Knee,week_18,New York Giants,2016
+['Roger Lewis'],NA,week_18,New York Giants,2016
+['Ryan Nassib'],Injured Reserve: Elbow,week_18,New York Giants,2016
+['Owamagbe Odighizuwa'],Doubtful: hamstring,week_18,New York Giants,2016
+['Jason Pierre-Paul'],Out: core muscle,week_18,New York Giants,2016
+['Justin Pugh'],NA,week_18,New York Giants,2016
+['Bobby Rainey'],NA,week_18,New York Giants,2016
+['Keenan Robinson'],NA,week_18,New York Giants,2016
+['Jake Rodgers'],Injured Reserve: Ankle,week_18,New York Giants,2016
+['Dominique Rodgers-Cromartie'],NA,week_18,New York Giants,2016
+['Byron Stingily'],Injured Reserve: Concussion,week_18,New York Giants,2016
+['J.T. Thomas'],Injured Reserve: Knee,week_18,New York Giants,2016
+['Robert Thomas'],NA,week_18,New York Giants,2016
+['Darian Thompson'],Injured Reserve: Foot,week_18,New York Giants,2016
+['Mykkele Thompson'],Injured Reserve: Knee,week_18,New York Giants,2016
+['Shane Vereen'],Injured Reserve: Tricep,week_18,New York Giants,2016
+['Nikita Whitlock'],Injured Reserve: Foot,week_18,New York Giants,2016
+['Kerry Wynn'],NA,week_18,New York Giants,2016

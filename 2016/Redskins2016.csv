@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Houston Bates'],NA,week_1,Washington Redskins,2016
+['Will Blackmon'],NA,week_1,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_1,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_1,Washington Redskins,2016
+['Mack Brown'],NA,week_1,Washington Redskins,2016
+['David Bruton'],NA,week_1,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_1,Washington Redskins,2016
+['William Compton'],NA,week_1,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_1,Washington Redskins,2016
+['Jamison Crowder'],NA,week_1,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_1,Washington Redskins,2016
+['Vernon Davis'],NA,week_1,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_1,Washington Redskins,2016
+['Josh Doctson'],Questionable: Achilles,week_1,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_1,Washington Redskins,2016
+['Kedric Golston'],Questionable: back,week_1,Washington Redskins,2016
+['DeAngelo Hall'],NA,week_1,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_1,Washington Redskins,2016
+['Matt Jones'],Questionable: shoulder,week_1,Washington Redskins,2016
+['Robert Kelley'],NA,week_1,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_1,Washington Redskins,2016
+['Anthony Lanier'],NA,week_1,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_1,Washington Redskins,2016
+['Kory Lichtensteiger'],NA,week_1,Washington Redskins,2016
+['Spencer Long'],Questionable: ankle,week_1,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_1,Washington Redskins,2016
+['Morgan Moses'],NA,week_1,Washington Redskins,2016
+['Trent Murphy'],NA,week_1,Washington Redskins,2016
+['Josh Norman'],NA,week_1,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_1,Washington Redskins,2016
+['Vinston Painter'],NA,week_1,Washington Redskins,2016
+['Niles Paul'],NA,week_1,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_1,Washington Redskins,2016
+['Jordan Reed'],NA,week_1,Washington Redskins,2016
+['Brandon Scherff'],NA,week_1,Washington Redskins,2016
+['Preston Smith'],NA,week_1,Washington Redskins,2016
+['Martrell Spaight'],NA,week_1,Washington Redskins,2016
+['Nick Sundberg'],NA,week_1,Washington Redskins,2016
+['Chris Thompson'],NA,week_1,Washington Redskins,2016
+['Donte Whitner'],NA,week_1,Washington Redskins,2016
+['Trent Williams'],NA,week_1,Washington Redskins,2016
+['Houston Bates'],NA,week_2,Washington Redskins,2016
+['Will Blackmon'],NA,week_2,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_2,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_2,Washington Redskins,2016
+['Mack Brown'],NA,week_2,Washington Redskins,2016
+['David Bruton'],NA,week_2,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_2,Washington Redskins,2016
+['William Compton'],NA,week_2,Washington Redskins,2016
+"[""Su'a Cravens""]",Questionable: hip,week_2,Washington Redskins,2016
+['Jamison Crowder'],NA,week_2,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_2,Washington Redskins,2016
+['Vernon Davis'],NA,week_2,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_2,Washington Redskins,2016
+['Josh Doctson'],Questionable: Achilles,week_2,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_2,Washington Redskins,2016
+['Kedric Golston'],NA,week_2,Washington Redskins,2016
+['DeAngelo Hall'],NA,week_2,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_2,Washington Redskins,2016
+['Matt Jones'],NA,week_2,Washington Redskins,2016
+['Robert Kelley'],NA,week_2,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_2,Washington Redskins,2016
+['Anthony Lanier'],NA,week_2,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_2,Washington Redskins,2016
+['Kory Lichtensteiger'],NA,week_2,Washington Redskins,2016
+['Spencer Long'],NA,week_2,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_2,Washington Redskins,2016
+['Morgan Moses'],NA,week_2,Washington Redskins,2016
+['Trent Murphy'],NA,week_2,Washington Redskins,2016
+['Josh Norman'],NA,week_2,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_2,Washington Redskins,2016
+['Vinston Painter'],NA,week_2,Washington Redskins,2016
+['Niles Paul'],NA,week_2,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_2,Washington Redskins,2016
+['Jordan Reed'],NA,week_2,Washington Redskins,2016
+['Brandon Scherff'],NA,week_2,Washington Redskins,2016
+['Preston Smith'],NA,week_2,Washington Redskins,2016
+['Martrell Spaight'],Out: concussion,week_2,Washington Redskins,2016
+['Nick Sundberg'],NA,week_2,Washington Redskins,2016
+['Chris Thompson'],NA,week_2,Washington Redskins,2016
+['Donte Whitner'],NA,week_2,Washington Redskins,2016
+['Trent Williams'],Questionable: glute,week_2,Washington Redskins,2016
+['Houston Bates'],NA,week_3,Washington Redskins,2016
+['Will Blackmon'],NA,week_3,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_3,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_3,Washington Redskins,2016
+['Mack Brown'],NA,week_3,Washington Redskins,2016
+['David Bruton'],NA,week_3,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_3,Washington Redskins,2016
+['William Compton'],NA,week_3,Washington Redskins,2016
+"[""Su'a Cravens""]",Questionable: hip,week_3,Washington Redskins,2016
+['Jamison Crowder'],NA,week_3,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_3,Washington Redskins,2016
+['Vernon Davis'],NA,week_3,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_3,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_3,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_3,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_3,Washington Redskins,2016
+['DeAngelo Hall'],NA,week_3,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_3,Washington Redskins,2016
+['Matt Jones'],NA,week_3,Washington Redskins,2016
+['Robert Kelley'],NA,week_3,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_3,Washington Redskins,2016
+['Anthony Lanier'],NA,week_3,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_3,Washington Redskins,2016
+['Kory Lichtensteiger'],Questionable: back,week_3,Washington Redskins,2016
+['Spencer Long'],NA,week_3,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_3,Washington Redskins,2016
+['Morgan Moses'],NA,week_3,Washington Redskins,2016
+['Trent Murphy'],NA,week_3,Washington Redskins,2016
+['Josh Norman'],NA,week_3,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: foot,week_3,Washington Redskins,2016
+['Vinston Painter'],NA,week_3,Washington Redskins,2016
+['Niles Paul'],NA,week_3,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_3,Washington Redskins,2016
+['Jordan Reed'],NA,week_3,Washington Redskins,2016
+['Brandon Scherff'],NA,week_3,Washington Redskins,2016
+['Preston Smith'],NA,week_3,Washington Redskins,2016
+['Martrell Spaight'],Questionable: concussion,week_3,Washington Redskins,2016
+['Nick Sundberg'],NA,week_3,Washington Redskins,2016
+['Chris Thompson'],NA,week_3,Washington Redskins,2016
+['Donte Whitner'],NA,week_3,Washington Redskins,2016
+['Trent Williams'],NA,week_3,Washington Redskins,2016
+['Houston Bates'],NA,week_4,Washington Redskins,2016
+['Will Blackmon'],NA,week_4,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_4,Washington Redskins,2016
+['Bashaud Breeland'],Out: ankle,week_4,Washington Redskins,2016
+['Mack Brown'],NA,week_4,Washington Redskins,2016
+['David Bruton'],NA,week_4,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_4,Washington Redskins,2016
+['William Compton'],NA,week_4,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_4,Washington Redskins,2016
+['Jamison Crowder'],NA,week_4,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_4,Washington Redskins,2016
+['Vernon Davis'],NA,week_4,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_4,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_4,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_4,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_4,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_4,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_4,Washington Redskins,2016
+['Matt Jones'],NA,week_4,Washington Redskins,2016
+['Robert Kelley'],NA,week_4,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_4,Washington Redskins,2016
+['Anthony Lanier'],NA,week_4,Washington Redskins,2016
+['Shawn Lauvao'],Out: ankle,week_4,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_4,Washington Redskins,2016
+['Spencer Long'],NA,week_4,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_4,Washington Redskins,2016
+['Morgan Moses'],NA,week_4,Washington Redskins,2016
+['Trent Murphy'],"Questionable: elbow, shoulder",week_4,Washington Redskins,2016
+['Josh Norman'],NA,week_4,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_4,Washington Redskins,2016
+['Vinston Painter'],NA,week_4,Washington Redskins,2016
+['Niles Paul'],NA,week_4,Washington Redskins,2016
+['Dashaun Phillips'],Out: hamstring,week_4,Washington Redskins,2016
+['Jordan Reed'],NA,week_4,Washington Redskins,2016
+['Brandon Scherff'],NA,week_4,Washington Redskins,2016
+['Preston Smith'],NA,week_4,Washington Redskins,2016
+['Martrell Spaight'],NA,week_4,Washington Redskins,2016
+['Nick Sundberg'],NA,week_4,Washington Redskins,2016
+['Chris Thompson'],NA,week_4,Washington Redskins,2016
+['Donte Whitner'],NA,week_4,Washington Redskins,2016
+['Trent Williams'],NA,week_4,Washington Redskins,2016
+['Houston Bates'],NA,week_5,Washington Redskins,2016
+['Will Blackmon'],NA,week_5,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_5,Washington Redskins,2016
+['Bashaud Breeland'],Out: ankle,week_5,Washington Redskins,2016
+['Mack Brown'],NA,week_5,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_5,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_5,Washington Redskins,2016
+['William Compton'],NA,week_5,Washington Redskins,2016
+"[""Su'a Cravens""]",Out: concussion,week_5,Washington Redskins,2016
+['Jamison Crowder'],NA,week_5,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_5,Washington Redskins,2016
+['Vernon Davis'],NA,week_5,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_5,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_5,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_5,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_5,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_5,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_5,Washington Redskins,2016
+['Matt Jones'],NA,week_5,Washington Redskins,2016
+['Robert Kelley'],NA,week_5,Washington Redskins,2016
+['Ryan Kerrigan'],Questionable: elbow,week_5,Washington Redskins,2016
+['Anthony Lanier'],NA,week_5,Washington Redskins,2016
+['Shawn Lauvao'],Questionable: ankle,week_5,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_5,Washington Redskins,2016
+['Spencer Long'],NA,week_5,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_5,Washington Redskins,2016
+['Morgan Moses'],NA,week_5,Washington Redskins,2016
+['Trent Murphy'],NA,week_5,Washington Redskins,2016
+['Josh Norman'],NA,week_5,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_5,Washington Redskins,2016
+['Vinston Painter'],NA,week_5,Washington Redskins,2016
+['Niles Paul'],NA,week_5,Washington Redskins,2016
+['Dashaun Phillips'],Out: hamstring,week_5,Washington Redskins,2016
+['Jordan Reed'],NA,week_5,Washington Redskins,2016
+['Brandon Scherff'],NA,week_5,Washington Redskins,2016
+['Preston Smith'],NA,week_5,Washington Redskins,2016
+['Martrell Spaight'],NA,week_5,Washington Redskins,2016
+['Nick Sundberg'],NA,week_5,Washington Redskins,2016
+['Chris Thompson'],NA,week_5,Washington Redskins,2016
+['Donte Whitner'],NA,week_5,Washington Redskins,2016
+['Trent Williams'],NA,week_5,Washington Redskins,2016
+['Houston Bates'],NA,week_6,Washington Redskins,2016
+['Will Blackmon'],NA,week_6,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_6,Washington Redskins,2016
+['Bashaud Breeland'],Questionable: ankle,week_6,Washington Redskins,2016
+['Mack Brown'],NA,week_6,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_6,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_6,Washington Redskins,2016
+['William Compton'],NA,week_6,Washington Redskins,2016
+"[""Su'a Cravens""]",Questionable: concussion,week_6,Washington Redskins,2016
+['Jamison Crowder'],NA,week_6,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_6,Washington Redskins,2016
+['Vernon Davis'],NA,week_6,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_6,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_6,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_6,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_6,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_6,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_6,Washington Redskins,2016
+['Matt Jones'],NA,week_6,Washington Redskins,2016
+['Robert Kelley'],NA,week_6,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_6,Washington Redskins,2016
+['Anthony Lanier'],NA,week_6,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_6,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_6,Washington Redskins,2016
+['Spencer Long'],NA,week_6,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_6,Washington Redskins,2016
+['Morgan Moses'],NA,week_6,Washington Redskins,2016
+['Trent Murphy'],NA,week_6,Washington Redskins,2016
+['Josh Norman'],NA,week_6,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_6,Washington Redskins,2016
+['Vinston Painter'],NA,week_6,Washington Redskins,2016
+['Niles Paul'],NA,week_6,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_6,Washington Redskins,2016
+['Jordan Reed'],Questionable: concussion,week_6,Washington Redskins,2016
+['Brandon Scherff'],NA,week_6,Washington Redskins,2016
+['Preston Smith'],NA,week_6,Washington Redskins,2016
+['Martrell Spaight'],NA,week_6,Washington Redskins,2016
+['Nick Sundberg'],NA,week_6,Washington Redskins,2016
+['Chris Thompson'],NA,week_6,Washington Redskins,2016
+['Donte Whitner'],NA,week_6,Washington Redskins,2016
+['Trent Williams'],NA,week_6,Washington Redskins,2016
+['Houston Bates'],NA,week_7,Washington Redskins,2016
+['Will Blackmon'],NA,week_7,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_7,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_7,Washington Redskins,2016
+['Mack Brown'],NA,week_7,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_7,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_7,Washington Redskins,2016
+['William Compton'],NA,week_7,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_7,Washington Redskins,2016
+['Jamison Crowder'],NA,week_7,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_7,Washington Redskins,2016
+['Vernon Davis'],NA,week_7,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_7,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_7,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_7,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_7,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_7,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_7,Washington Redskins,2016
+['Matt Jones'],NA,week_7,Washington Redskins,2016
+['Robert Kelley'],NA,week_7,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_7,Washington Redskins,2016
+['Anthony Lanier'],NA,week_7,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_7,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_7,Washington Redskins,2016
+['Spencer Long'],NA,week_7,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_7,Washington Redskins,2016
+['Morgan Moses'],NA,week_7,Washington Redskins,2016
+['Trent Murphy'],NA,week_7,Washington Redskins,2016
+['Josh Norman'],NA,week_7,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_7,Washington Redskins,2016
+['Vinston Painter'],NA,week_7,Washington Redskins,2016
+['Niles Paul'],NA,week_7,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_7,Washington Redskins,2016
+['Jordan Reed'],Out: concussion,week_7,Washington Redskins,2016
+['Brandon Scherff'],NA,week_7,Washington Redskins,2016
+['Preston Smith'],NA,week_7,Washington Redskins,2016
+['Martrell Spaight'],NA,week_7,Washington Redskins,2016
+['Nick Sundberg'],NA,week_7,Washington Redskins,2016
+['Chris Thompson'],NA,week_7,Washington Redskins,2016
+['Donte Whitner'],NA,week_7,Washington Redskins,2016
+['Trent Williams'],NA,week_7,Washington Redskins,2016
+['Houston Bates'],NA,week_8,Washington Redskins,2016
+['Will Blackmon'],NA,week_8,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_8,Washington Redskins,2016
+['Bashaud Breeland'],Questionable: ankle,week_8,Washington Redskins,2016
+['Mack Brown'],NA,week_8,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_8,Washington Redskins,2016
+['Derek Carrier'],Injured Reserve: Knee,week_8,Washington Redskins,2016
+['William Compton'],NA,week_8,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_8,Washington Redskins,2016
+['Jamison Crowder'],Questionable: groin,week_8,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_8,Washington Redskins,2016
+['Vernon Davis'],Questionable: groin,week_8,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_8,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_8,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_8,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_8,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_8,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_8,Washington Redskins,2016
+['Matt Jones'],Out: knee,week_8,Washington Redskins,2016
+['Robert Kelley'],NA,week_8,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_8,Washington Redskins,2016
+['Anthony Lanier'],NA,week_8,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_8,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_8,Washington Redskins,2016
+['Spencer Long'],Questionable: chest,week_8,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_8,Washington Redskins,2016
+['Morgan Moses'],NA,week_8,Washington Redskins,2016
+['Trent Murphy'],NA,week_8,Washington Redskins,2016
+['Josh Norman'],"Questionable: concussion, wrist",week_8,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_8,Washington Redskins,2016
+['Vinston Painter'],NA,week_8,Washington Redskins,2016
+['Niles Paul'],NA,week_8,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_8,Washington Redskins,2016
+['Jordan Reed'],Questionable: concussion,week_8,Washington Redskins,2016
+['Brandon Scherff'],Questionable: shoulder,week_8,Washington Redskins,2016
+['Preston Smith'],NA,week_8,Washington Redskins,2016
+['Martrell Spaight'],NA,week_8,Washington Redskins,2016
+['Nick Sundberg'],NA,week_8,Washington Redskins,2016
+['Chris Thompson'],NA,week_8,Washington Redskins,2016
+['Donte Whitner'],NA,week_8,Washington Redskins,2016
+['Trent Williams'],Questionable: knee,week_8,Washington Redskins,2016
+['Houston Bates'],NA,week_10,Washington Redskins,2016
+['Will Blackmon'],Questionable: thumb,week_10,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_10,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_10,Washington Redskins,2016
+['Mack Brown'],NA,week_10,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_10,Washington Redskins,2016
+['Derek Carrier'],NA,week_10,Washington Redskins,2016
+['William Compton'],NA,week_10,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_10,Washington Redskins,2016
+['Jamison Crowder'],NA,week_10,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_10,Washington Redskins,2016
+['Vernon Davis'],NA,week_10,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_10,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_10,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_10,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_10,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_10,Washington Redskins,2016
+['Duke Ihenacho'],Questionable: concussion,week_10,Washington Redskins,2016
+['Matt Jones'],NA,week_10,Washington Redskins,2016
+['Robert Kelley'],NA,week_10,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_10,Washington Redskins,2016
+['Anthony Lanier'],NA,week_10,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_10,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_10,Washington Redskins,2016
+['Spencer Long'],NA,week_10,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_10,Washington Redskins,2016
+['Morgan Moses'],Questionable: ankle,week_10,Washington Redskins,2016
+['Trent Murphy'],NA,week_10,Washington Redskins,2016
+['Josh Norman'],NA,week_10,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_10,Washington Redskins,2016
+['Vinston Painter'],NA,week_10,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_10,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_10,Washington Redskins,2016
+['Jordan Reed'],NA,week_10,Washington Redskins,2016
+['Brandon Scherff'],NA,week_10,Washington Redskins,2016
+['Preston Smith'],NA,week_10,Washington Redskins,2016
+['Martrell Spaight'],NA,week_10,Washington Redskins,2016
+['Nick Sundberg'],NA,week_10,Washington Redskins,2016
+['Chris Thompson'],NA,week_10,Washington Redskins,2016
+['Donte Whitner'],NA,week_10,Washington Redskins,2016
+['Trent Williams'],NA,week_10,Washington Redskins,2016
+['Houston Bates'],NA,week_11,Washington Redskins,2016
+['Will Blackmon'],NA,week_11,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_11,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_11,Washington Redskins,2016
+['Mack Brown'],NA,week_11,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_11,Washington Redskins,2016
+['Derek Carrier'],NA,week_11,Washington Redskins,2016
+['William Compton'],NA,week_11,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_11,Washington Redskins,2016
+['Jamison Crowder'],NA,week_11,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_11,Washington Redskins,2016
+['Vernon Davis'],NA,week_11,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_11,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_11,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_11,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_11,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_11,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_11,Washington Redskins,2016
+['Matt Jones'],NA,week_11,Washington Redskins,2016
+['Robert Kelley'],NA,week_11,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_11,Washington Redskins,2016
+['Anthony Lanier'],NA,week_11,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_11,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_11,Washington Redskins,2016
+['Spencer Long'],NA,week_11,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_11,Washington Redskins,2016
+['Morgan Moses'],Questionable: ankle,week_11,Washington Redskins,2016
+['Trent Murphy'],NA,week_11,Washington Redskins,2016
+['Josh Norman'],NA,week_11,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_11,Washington Redskins,2016
+['Vinston Painter'],NA,week_11,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_11,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_11,Washington Redskins,2016
+['Jordan Reed'],NA,week_11,Washington Redskins,2016
+['Brandon Scherff'],NA,week_11,Washington Redskins,2016
+['Preston Smith'],NA,week_11,Washington Redskins,2016
+['Martrell Spaight'],NA,week_11,Washington Redskins,2016
+['Nick Sundberg'],Questionable: back,week_11,Washington Redskins,2016
+['Chris Thompson'],NA,week_11,Washington Redskins,2016
+['Donte Whitner'],NA,week_11,Washington Redskins,2016
+['Trent Williams'],NA,week_11,Washington Redskins,2016
+['Houston Bates'],NA,week_12,Washington Redskins,2016
+['Will Blackmon'],NA,week_12,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_12,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_12,Washington Redskins,2016
+['Mack Brown'],NA,week_12,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_12,Washington Redskins,2016
+['Derek Carrier'],NA,week_12,Washington Redskins,2016
+['William Compton'],NA,week_12,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_12,Washington Redskins,2016
+['Jamison Crowder'],NA,week_12,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_12,Washington Redskins,2016
+['Vernon Davis'],NA,week_12,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_12,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_12,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_12,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_12,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_12,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_12,Washington Redskins,2016
+['Matt Jones'],NA,week_12,Washington Redskins,2016
+['Robert Kelley'],NA,week_12,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_12,Washington Redskins,2016
+['Anthony Lanier'],NA,week_12,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_12,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_12,Washington Redskins,2016
+['Spencer Long'],NA,week_12,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_12,Washington Redskins,2016
+['Morgan Moses'],NA,week_12,Washington Redskins,2016
+['Trent Murphy'],NA,week_12,Washington Redskins,2016
+['Josh Norman'],NA,week_12,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: ankle,week_12,Washington Redskins,2016
+['Vinston Painter'],NA,week_12,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_12,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_12,Washington Redskins,2016
+['Jordan Reed'],NA,week_12,Washington Redskins,2016
+['Brandon Scherff'],NA,week_12,Washington Redskins,2016
+['Preston Smith'],NA,week_12,Washington Redskins,2016
+['Martrell Spaight'],NA,week_12,Washington Redskins,2016
+['Nick Sundberg'],Out: back,week_12,Washington Redskins,2016
+['Chris Thompson'],NA,week_12,Washington Redskins,2016
+['Donte Whitner'],NA,week_12,Washington Redskins,2016
+['Trent Williams'],NA,week_12,Washington Redskins,2016
+['Houston Bates'],NA,week_13,Washington Redskins,2016
+['Will Blackmon'],NA,week_13,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_13,Washington Redskins,2016
+['Bashaud Breeland'],Questionable: ankle,week_13,Washington Redskins,2016
+['Mack Brown'],NA,week_13,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_13,Washington Redskins,2016
+['Derek Carrier'],NA,week_13,Washington Redskins,2016
+['William Compton'],NA,week_13,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_13,Washington Redskins,2016
+['Jamison Crowder'],NA,week_13,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_13,Washington Redskins,2016
+['Vernon Davis'],NA,week_13,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_13,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_13,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_13,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_13,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_13,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_13,Washington Redskins,2016
+['Matt Jones'],NA,week_13,Washington Redskins,2016
+['Robert Kelley'],NA,week_13,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_13,Washington Redskins,2016
+['Anthony Lanier'],Injured Reserve: Leg,week_13,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_13,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_13,Washington Redskins,2016
+['Spencer Long'],NA,week_13,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_13,Washington Redskins,2016
+['Morgan Moses'],NA,week_13,Washington Redskins,2016
+['Trent Murphy'],Questionable: ankle,week_13,Washington Redskins,2016
+['Josh Norman'],NA,week_13,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: ankle,week_13,Washington Redskins,2016
+['Vinston Painter'],NA,week_13,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_13,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_13,Washington Redskins,2016
+['Jordan Reed'],Out: shoulder,week_13,Washington Redskins,2016
+['Brandon Scherff'],Questionable: ankle,week_13,Washington Redskins,2016
+['Preston Smith'],NA,week_13,Washington Redskins,2016
+['Martrell Spaight'],NA,week_13,Washington Redskins,2016
+['Nick Sundberg'],Questionable: back,week_13,Washington Redskins,2016
+['Chris Thompson'],Questionable: illness,week_13,Washington Redskins,2016
+['Donte Whitner'],NA,week_13,Washington Redskins,2016
+['Trent Williams'],NA,week_13,Washington Redskins,2016
+['Houston Bates'],NA,week_14,Washington Redskins,2016
+['Will Blackmon'],"Out: concussion, thumb",week_14,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_14,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_14,Washington Redskins,2016
+['Mack Brown'],NA,week_14,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_14,Washington Redskins,2016
+['Derek Carrier'],Questionable: knee,week_14,Washington Redskins,2016
+['William Compton'],Questionable: hip,week_14,Washington Redskins,2016
+"[""Su'a Cravens""]",NA,week_14,Washington Redskins,2016
+['Jamison Crowder'],NA,week_14,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_14,Washington Redskins,2016
+['Vernon Davis'],NA,week_14,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_14,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_14,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_14,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_14,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_14,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_14,Washington Redskins,2016
+['Matt Jones'],NA,week_14,Washington Redskins,2016
+['Robert Kelley'],NA,week_14,Washington Redskins,2016
+['Ryan Kerrigan'],NA,week_14,Washington Redskins,2016
+['Anthony Lanier'],Injured Reserve: Leg,week_14,Washington Redskins,2016
+['Shawn Lauvao'],Questionable: groin,week_14,Washington Redskins,2016
+['Kory Lichtensteiger'],NA,week_14,Washington Redskins,2016
+['Spencer Long'],"Out: concussion, stinger",week_14,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_14,Washington Redskins,2016
+['Morgan Moses'],NA,week_14,Washington Redskins,2016
+['Trent Murphy'],NA,week_14,Washington Redskins,2016
+['Josh Norman'],NA,week_14,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: ankle,week_14,Washington Redskins,2016
+['Vinston Painter'],NA,week_14,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_14,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_14,Washington Redskins,2016
+['Jordan Reed'],Questionable: shoulder,week_14,Washington Redskins,2016
+['Brandon Scherff'],Questionable: ankle,week_14,Washington Redskins,2016
+['Preston Smith'],Questionable: groin,week_14,Washington Redskins,2016
+['Martrell Spaight'],NA,week_14,Washington Redskins,2016
+['Nick Sundberg'],NA,week_14,Washington Redskins,2016
+['Chris Thompson'],NA,week_14,Washington Redskins,2016
+['Donte Whitner'],NA,week_14,Washington Redskins,2016
+['Trent Williams'],NA,week_14,Washington Redskins,2016
+['Houston Bates'],NA,week_15,Washington Redskins,2016
+['Will Blackmon'],"Questionable: concussion, thumb",week_15,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_15,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_15,Washington Redskins,2016
+['Mack Brown'],Questionable: concussion,week_15,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_15,Washington Redskins,2016
+['Derek Carrier'],NA,week_15,Washington Redskins,2016
+['William Compton'],Doubtful: knee,week_15,Washington Redskins,2016
+"[""Su'a Cravens""]","Out: upper arm, illness",week_15,Washington Redskins,2016
+['Jamison Crowder'],NA,week_15,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_15,Washington Redskins,2016
+['Vernon Davis'],NA,week_15,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_15,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_15,Washington Redskins,2016
+['Quinton Dunbar'],NA,week_15,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_15,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_15,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_15,Washington Redskins,2016
+['Matt Jones'],NA,week_15,Washington Redskins,2016
+['Robert Kelley'],NA,week_15,Washington Redskins,2016
+['Ryan Kerrigan'],Questionable: knee,week_15,Washington Redskins,2016
+['Anthony Lanier'],Injured Reserve: Leg,week_15,Washington Redskins,2016
+['Shawn Lauvao'],Questionable: groin,week_15,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_15,Washington Redskins,2016
+['Spencer Long'],"Questionable: concussion, stinger",week_15,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_15,Washington Redskins,2016
+['Morgan Moses'],NA,week_15,Washington Redskins,2016
+['Trent Murphy'],NA,week_15,Washington Redskins,2016
+['Josh Norman'],NA,week_15,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: ankle,week_15,Washington Redskins,2016
+['Vinston Painter'],NA,week_15,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_15,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_15,Washington Redskins,2016
+['Jordan Reed'],"Questionable: shoulder, illness",week_15,Washington Redskins,2016
+['Brandon Scherff'],NA,week_15,Washington Redskins,2016
+['Preston Smith'],NA,week_15,Washington Redskins,2016
+['Martrell Spaight'],Questionable: shoulder,week_15,Washington Redskins,2016
+['Nick Sundberg'],NA,week_15,Washington Redskins,2016
+['Chris Thompson'],NA,week_15,Washington Redskins,2016
+['Donte Whitner'],NA,week_15,Washington Redskins,2016
+['Trent Williams'],NA,week_15,Washington Redskins,2016
+['Houston Bates'],Injured Reserve: Knee,week_16,Washington Redskins,2016
+['Will Blackmon'],NA,week_16,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_16,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_16,Washington Redskins,2016
+['Mack Brown'],NA,week_16,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_16,Washington Redskins,2016
+['Derek Carrier'],NA,week_16,Washington Redskins,2016
+['William Compton'],Questionable: knee,week_16,Washington Redskins,2016
+"[""Su'a Cravens""]",Out: upper arm,week_16,Washington Redskins,2016
+['Jamison Crowder'],NA,week_16,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_16,Washington Redskins,2016
+['Vernon Davis'],NA,week_16,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_16,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_16,Washington Redskins,2016
+['Quinton Dunbar'],Out: concussion,week_16,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_16,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_16,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_16,Washington Redskins,2016
+['Matt Jones'],NA,week_16,Washington Redskins,2016
+['Robert Kelley'],NA,week_16,Washington Redskins,2016
+['Ryan Kerrigan'],Questionable: elbow,week_16,Washington Redskins,2016
+['Anthony Lanier'],Injured Reserve: Leg,week_16,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_16,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_16,Washington Redskins,2016
+['Spencer Long'],NA,week_16,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_16,Washington Redskins,2016
+['Morgan Moses'],NA,week_16,Washington Redskins,2016
+['Trent Murphy'],NA,week_16,Washington Redskins,2016
+['Josh Norman'],NA,week_16,Washington Redskins,2016
+['Ty Nsekhe'],Questionable: ankle,week_16,Washington Redskins,2016
+['Vinston Painter'],NA,week_16,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_16,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_16,Washington Redskins,2016
+['Jordan Reed'],Questionable: shoulder,week_16,Washington Redskins,2016
+['Brandon Scherff'],NA,week_16,Washington Redskins,2016
+['Preston Smith'],NA,week_16,Washington Redskins,2016
+['Martrell Spaight'],Questionable: shoulder,week_16,Washington Redskins,2016
+['Nick Sundberg'],NA,week_16,Washington Redskins,2016
+['Chris Thompson'],NA,week_16,Washington Redskins,2016
+['Donte Whitner'],NA,week_16,Washington Redskins,2016
+['Trent Williams'],NA,week_16,Washington Redskins,2016
+['Houston Bates'],Injured Reserve: Knee,week_17,Washington Redskins,2016
+['Will Blackmon'],NA,week_17,Washington Redskins,2016
+['Kevin Bowen'],Injured Reserve: Undisclosed,week_17,Washington Redskins,2016
+['Bashaud Breeland'],NA,week_17,Washington Redskins,2016
+['Mack Brown'],NA,week_17,Washington Redskins,2016
+['David Bruton'],Injured Reserve: Concussion,week_17,Washington Redskins,2016
+['Derek Carrier'],NA,week_17,Washington Redskins,2016
+['William Compton'],Questionable: knee,week_17,Washington Redskins,2016
+"[""Su'a Cravens""]",Out: upper arm,week_17,Washington Redskins,2016
+['Jamison Crowder'],NA,week_17,Washington Redskins,2016
+['Steven Daniels'],Injured Reserve: Shoulder,week_17,Washington Redskins,2016
+['Vernon Davis'],NA,week_17,Washington Redskins,2016
+['Reggie Diggs'],Injured Reserve: Knee,week_17,Washington Redskins,2016
+['Josh Doctson'],Injured Reserve: Achilles,week_17,Washington Redskins,2016
+['Quinton Dunbar'],Out: concussion,week_17,Washington Redskins,2016
+['Kedric Golston'],Injured Reserve: Hamstring,week_17,Washington Redskins,2016
+['DeAngelo Hall'],Injured Reserve: Knee,week_17,Washington Redskins,2016
+['Duke Ihenacho'],NA,week_17,Washington Redskins,2016
+['Matt Jones'],NA,week_17,Washington Redskins,2016
+['Robert Kelley'],Questionable: knee,week_17,Washington Redskins,2016
+['Ryan Kerrigan'],Questionable: elbow,week_17,Washington Redskins,2016
+['Anthony Lanier'],Injured Reserve: Leg,week_17,Washington Redskins,2016
+['Shawn Lauvao'],NA,week_17,Washington Redskins,2016
+['Kory Lichtensteiger'],Injured Reserve: Calf,week_17,Washington Redskins,2016
+['Spencer Long'],Questionable: ankle,week_17,Washington Redskins,2016
+['Keith Marshall'],Injured Reserve: Elbow,week_17,Washington Redskins,2016
+['Morgan Moses'],NA,week_17,Washington Redskins,2016
+['Trent Murphy'],Questionable: foot,week_17,Washington Redskins,2016
+['Josh Norman'],NA,week_17,Washington Redskins,2016
+['Ty Nsekhe'],NA,week_17,Washington Redskins,2016
+['Vinston Painter'],Out: calf,week_17,Washington Redskins,2016
+['Niles Paul'],Injured Reserve: Shoulder,week_17,Washington Redskins,2016
+['Dashaun Phillips'],NA,week_17,Washington Redskins,2016
+['Jordan Reed'],Questionable: shoulder,week_17,Washington Redskins,2016
+['Brandon Scherff'],NA,week_17,Washington Redskins,2016
+['Preston Smith'],NA,week_17,Washington Redskins,2016
+['Martrell Spaight'],Questionable: shoulder,week_17,Washington Redskins,2016
+['Nick Sundberg'],NA,week_17,Washington Redskins,2016
+['Chris Thompson'],NA,week_17,Washington Redskins,2016
+['Donte Whitner'],Injured Reserve: Undisclosed,week_17,Washington Redskins,2016
+['Trent Williams'],NA,week_17,Washington Redskins,2016

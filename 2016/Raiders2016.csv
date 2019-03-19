@@ -1,0 +1,545 @@
+﻿name,injury,week,team,year
+['Vadal Alexander'],NA,week_1,Oakland Raiders,2016
+['David Amerson'],NA,week_1,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_1,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_1,Oakland Raiders,2016
+['Derek Carr'],NA,week_1,Oakland Raiders,2016
+['Amari Cooper'],NA,week_1,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_1,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_1,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_1,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_1,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_1,Oakland Raiders,2016
+['Ben Heeney'],NA,week_1,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_1,Oakland Raiders,2016
+['Austin Howard'],Out: ankle,week_1,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_1,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_1,Oakland Raiders,2016
+['Cory James'],NA,week_1,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_1,Oakland Raiders,2016
+['Karl Joseph'],NA,week_1,Oakland Raiders,2016
+['Darius Latham'],NA,week_1,Oakland Raiders,2016
+['Keith McGill'],NA,week_1,Oakland Raiders,2016
+['Matt McGloin'],NA,week_1,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_1,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_1,Oakland Raiders,2016
+['Donald Penn'],NA,week_1,Oakland Raiders,2016
+['Jalen Richard'],NA,week_1,Oakland Raiders,2016
+['Perry Riley'],NA,week_1,Oakland Raiders,2016
+['Lee Smith'],NA,week_1,Oakland Raiders,2016
+['Sean Smith'],NA,week_1,Oakland Raiders,2016
+['Clive Walford'],NA,week_1,Oakland Raiders,2016
+['Jihad Ward'],NA,week_1,Oakland Raiders,2016
+['Dan Williams'],NA,week_1,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_2,Oakland Raiders,2016
+['David Amerson'],NA,week_2,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_2,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_2,Oakland Raiders,2016
+['Derek Carr'],NA,week_2,Oakland Raiders,2016
+['Amari Cooper'],NA,week_2,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_2,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_2,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_2,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_2,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_2,Oakland Raiders,2016
+['Ben Heeney'],NA,week_2,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_2,Oakland Raiders,2016
+['Austin Howard'],NA,week_2,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_2,Oakland Raiders,2016
+['Gabe Jackson'],Questionable: knee,week_2,Oakland Raiders,2016
+['Cory James'],NA,week_2,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: concussion,week_2,Oakland Raiders,2016
+['Karl Joseph'],NA,week_2,Oakland Raiders,2016
+['Darius Latham'],NA,week_2,Oakland Raiders,2016
+['Keith McGill'],NA,week_2,Oakland Raiders,2016
+['Matt McGloin'],NA,week_2,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_2,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_2,Oakland Raiders,2016
+['Donald Penn'],NA,week_2,Oakland Raiders,2016
+['Jalen Richard'],NA,week_2,Oakland Raiders,2016
+['Perry Riley'],NA,week_2,Oakland Raiders,2016
+['Lee Smith'],NA,week_2,Oakland Raiders,2016
+['Sean Smith'],NA,week_2,Oakland Raiders,2016
+['Clive Walford'],NA,week_2,Oakland Raiders,2016
+['Jihad Ward'],NA,week_2,Oakland Raiders,2016
+['Dan Williams'],NA,week_2,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_3,Oakland Raiders,2016
+['David Amerson'],Questionable: concussion,week_3,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_3,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_3,Oakland Raiders,2016
+['Derek Carr'],NA,week_3,Oakland Raiders,2016
+['Amari Cooper'],NA,week_3,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_3,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_3,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_3,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_3,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_3,Oakland Raiders,2016
+['Ben Heeney'],NA,week_3,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_3,Oakland Raiders,2016
+['Austin Howard'],Out: ankle,week_3,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_3,Oakland Raiders,2016
+['Gabe Jackson'],Questionable: knee,week_3,Oakland Raiders,2016
+['Cory James'],NA,week_3,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_3,Oakland Raiders,2016
+['Karl Joseph'],NA,week_3,Oakland Raiders,2016
+['Darius Latham'],Questionable: concussion,week_3,Oakland Raiders,2016
+['Keith McGill'],NA,week_3,Oakland Raiders,2016
+['Matt McGloin'],NA,week_3,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_3,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_3,Oakland Raiders,2016
+['Donald Penn'],NA,week_3,Oakland Raiders,2016
+['Jalen Richard'],NA,week_3,Oakland Raiders,2016
+['Perry Riley'],NA,week_3,Oakland Raiders,2016
+['Lee Smith'],NA,week_3,Oakland Raiders,2016
+['Sean Smith'],NA,week_3,Oakland Raiders,2016
+['Clive Walford'],NA,week_3,Oakland Raiders,2016
+['Jihad Ward'],Questionable: hip,week_3,Oakland Raiders,2016
+['Dan Williams'],NA,week_3,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_4,Oakland Raiders,2016
+['David Amerson'],NA,week_4,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_4,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_4,Oakland Raiders,2016
+['Derek Carr'],NA,week_4,Oakland Raiders,2016
+['Amari Cooper'],NA,week_4,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_4,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_4,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_4,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_4,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_4,Oakland Raiders,2016
+['Ben Heeney'],NA,week_4,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_4,Oakland Raiders,2016
+['Austin Howard'],Out: ankle,week_4,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_4,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_4,Oakland Raiders,2016
+['Cory James'],NA,week_4,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_4,Oakland Raiders,2016
+['Karl Joseph'],NA,week_4,Oakland Raiders,2016
+['Darius Latham'],NA,week_4,Oakland Raiders,2016
+['Keith McGill'],NA,week_4,Oakland Raiders,2016
+['Matt McGloin'],NA,week_4,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_4,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_4,Oakland Raiders,2016
+['Donald Penn'],NA,week_4,Oakland Raiders,2016
+['Jalen Richard'],NA,week_4,Oakland Raiders,2016
+['Perry Riley'],NA,week_4,Oakland Raiders,2016
+['Lee Smith'],NA,week_4,Oakland Raiders,2016
+['Sean Smith'],NA,week_4,Oakland Raiders,2016
+['Clive Walford'],NA,week_4,Oakland Raiders,2016
+['Jihad Ward'],NA,week_4,Oakland Raiders,2016
+['Dan Williams'],NA,week_4,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_5,Oakland Raiders,2016
+['David Amerson'],NA,week_5,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_5,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_5,Oakland Raiders,2016
+['Derek Carr'],NA,week_5,Oakland Raiders,2016
+['Amari Cooper'],NA,week_5,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_5,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_5,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_5,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_5,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_5,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_5,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_5,Oakland Raiders,2016
+['Austin Howard'],Questionable: ankle,week_5,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_5,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_5,Oakland Raiders,2016
+['Cory James'],NA,week_5,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_5,Oakland Raiders,2016
+['Karl Joseph'],NA,week_5,Oakland Raiders,2016
+['Darius Latham'],NA,week_5,Oakland Raiders,2016
+['Keith McGill'],NA,week_5,Oakland Raiders,2016
+['Matt McGloin'],NA,week_5,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_5,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_5,Oakland Raiders,2016
+['Donald Penn'],NA,week_5,Oakland Raiders,2016
+['Jalen Richard'],NA,week_5,Oakland Raiders,2016
+['Perry Riley'],NA,week_5,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_5,Oakland Raiders,2016
+['Sean Smith'],NA,week_5,Oakland Raiders,2016
+['Clive Walford'],Questionable: knee,week_5,Oakland Raiders,2016
+['Jihad Ward'],NA,week_5,Oakland Raiders,2016
+['Dan Williams'],NA,week_5,Oakland Raiders,2016
+['Vadal Alexander'],Out: ankle,week_6,Oakland Raiders,2016
+['David Amerson'],NA,week_6,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_6,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_6,Oakland Raiders,2016
+['Derek Carr'],NA,week_6,Oakland Raiders,2016
+['Amari Cooper'],NA,week_6,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_6,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_6,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_6,Oakland Raiders,2016
+['Jon Feliciano'],Questionable: calf,week_6,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_6,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_6,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_6,Oakland Raiders,2016
+['Austin Howard'],NA,week_6,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_6,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_6,Oakland Raiders,2016
+['Cory James'],NA,week_6,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_6,Oakland Raiders,2016
+['Karl Joseph'],NA,week_6,Oakland Raiders,2016
+['Darius Latham'],NA,week_6,Oakland Raiders,2016
+['Keith McGill'],NA,week_6,Oakland Raiders,2016
+['Matt McGloin'],NA,week_6,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_6,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_6,Oakland Raiders,2016
+['Donald Penn'],NA,week_6,Oakland Raiders,2016
+['Jalen Richard'],NA,week_6,Oakland Raiders,2016
+['Perry Riley'],NA,week_6,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_6,Oakland Raiders,2016
+['Sean Smith'],NA,week_6,Oakland Raiders,2016
+['Clive Walford'],Questionable: knee,week_6,Oakland Raiders,2016
+['Jihad Ward'],NA,week_6,Oakland Raiders,2016
+['Dan Williams'],NA,week_6,Oakland Raiders,2016
+['Vadal Alexander'],Doubtful: ankle,week_7,Oakland Raiders,2016
+['David Amerson'],NA,week_7,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_7,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_7,Oakland Raiders,2016
+['Derek Carr'],NA,week_7,Oakland Raiders,2016
+['Amari Cooper'],NA,week_7,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_7,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_7,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_7,Oakland Raiders,2016
+['Jon Feliciano'],Questionable: calf,week_7,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_7,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_7,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_7,Oakland Raiders,2016
+['Austin Howard'],NA,week_7,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_7,Oakland Raiders,2016
+['Gabe Jackson'],Questionable: knee,week_7,Oakland Raiders,2016
+['Cory James'],NA,week_7,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_7,Oakland Raiders,2016
+['Karl Joseph'],NA,week_7,Oakland Raiders,2016
+['Darius Latham'],NA,week_7,Oakland Raiders,2016
+['Keith McGill'],NA,week_7,Oakland Raiders,2016
+['Matt McGloin'],NA,week_7,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_7,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_7,Oakland Raiders,2016
+['Donald Penn'],NA,week_7,Oakland Raiders,2016
+['Jalen Richard'],NA,week_7,Oakland Raiders,2016
+['Perry Riley'],NA,week_7,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_7,Oakland Raiders,2016
+['Sean Smith'],NA,week_7,Oakland Raiders,2016
+['Clive Walford'],NA,week_7,Oakland Raiders,2016
+['Jihad Ward'],NA,week_7,Oakland Raiders,2016
+['Dan Williams'],NA,week_7,Oakland Raiders,2016
+['Vadal Alexander'],Questionable: ankle,week_8,Oakland Raiders,2016
+['David Amerson'],NA,week_8,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_8,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_8,Oakland Raiders,2016
+['Derek Carr'],NA,week_8,Oakland Raiders,2016
+['Amari Cooper'],NA,week_8,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_8,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_8,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_8,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_8,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_8,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_8,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_8,Oakland Raiders,2016
+['Austin Howard'],NA,week_8,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_8,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_8,Oakland Raiders,2016
+['Cory James'],NA,week_8,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_8,Oakland Raiders,2016
+['Karl Joseph'],NA,week_8,Oakland Raiders,2016
+['Darius Latham'],NA,week_8,Oakland Raiders,2016
+['Keith McGill'],NA,week_8,Oakland Raiders,2016
+['Matt McGloin'],NA,week_8,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_8,Oakland Raiders,2016
+['Kelechi Osemele'],NA,week_8,Oakland Raiders,2016
+['Donald Penn'],NA,week_8,Oakland Raiders,2016
+['Jalen Richard'],NA,week_8,Oakland Raiders,2016
+['Perry Riley'],NA,week_8,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_8,Oakland Raiders,2016
+['Sean Smith'],NA,week_8,Oakland Raiders,2016
+['Clive Walford'],NA,week_8,Oakland Raiders,2016
+['Jihad Ward'],NA,week_8,Oakland Raiders,2016
+['Dan Williams'],NA,week_8,Oakland Raiders,2016
+['Vadal Alexander'],Questionable: ankle,week_9,Oakland Raiders,2016
+['David Amerson'],NA,week_9,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_9,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_9,Oakland Raiders,2016
+['Derek Carr'],NA,week_9,Oakland Raiders,2016
+['Amari Cooper'],Questionable: back,week_9,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_9,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_9,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_9,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_9,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_9,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_9,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_9,Oakland Raiders,2016
+['Austin Howard'],NA,week_9,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_9,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_9,Oakland Raiders,2016
+['Cory James'],NA,week_9,Oakland Raiders,2016
+['Taiwan Jones'],Questionable: knee,week_9,Oakland Raiders,2016
+['Karl Joseph'],NA,week_9,Oakland Raiders,2016
+['Darius Latham'],NA,week_9,Oakland Raiders,2016
+['Keith McGill'],NA,week_9,Oakland Raiders,2016
+['Matt McGloin'],NA,week_9,Oakland Raiders,2016
+['Jamize Olawale'],Questionable: ankle,week_9,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_9,Oakland Raiders,2016
+['Donald Penn'],NA,week_9,Oakland Raiders,2016
+['Jalen Richard'],NA,week_9,Oakland Raiders,2016
+['Perry Riley'],NA,week_9,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_9,Oakland Raiders,2016
+['Sean Smith'],Questionable: shoulder,week_9,Oakland Raiders,2016
+['Clive Walford'],NA,week_9,Oakland Raiders,2016
+['Jihad Ward'],NA,week_9,Oakland Raiders,2016
+['Dan Williams'],NA,week_9,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_11,Oakland Raiders,2016
+['David Amerson'],NA,week_11,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_11,Oakland Raiders,2016
+['Shilique Calhoun'],NA,week_11,Oakland Raiders,2016
+['Derek Carr'],NA,week_11,Oakland Raiders,2016
+['Amari Cooper'],Questionable: back,week_11,Oakland Raiders,2016
+['James Cowser'],Injured Reserve: Head,week_11,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_11,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_11,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_11,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_11,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_11,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_11,Oakland Raiders,2016
+['Austin Howard'],NA,week_11,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_11,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_11,Oakland Raiders,2016
+['Cory James'],NA,week_11,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_11,Oakland Raiders,2016
+['Karl Joseph'],NA,week_11,Oakland Raiders,2016
+['Darius Latham'],NA,week_11,Oakland Raiders,2016
+['Keith McGill'],NA,week_11,Oakland Raiders,2016
+['Matt McGloin'],NA,week_11,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_11,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_11,Oakland Raiders,2016
+['Donald Penn'],NA,week_11,Oakland Raiders,2016
+['Jalen Richard'],NA,week_11,Oakland Raiders,2016
+['Perry Riley'],NA,week_11,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_11,Oakland Raiders,2016
+['Sean Smith'],Questionable: shoulder,week_11,Oakland Raiders,2016
+['Clive Walford'],NA,week_11,Oakland Raiders,2016
+['Jihad Ward'],NA,week_11,Oakland Raiders,2016
+['Dan Williams'],NA,week_11,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_12,Oakland Raiders,2016
+['David Amerson'],Questionable: knee,week_12,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_12,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_12,Oakland Raiders,2016
+['Derek Carr'],NA,week_12,Oakland Raiders,2016
+['Amari Cooper'],NA,week_12,Oakland Raiders,2016
+['James Cowser'],NA,week_12,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: ankle,week_12,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_12,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_12,Oakland Raiders,2016
+['D.J. Hayden'],NA,week_12,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_12,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_12,Oakland Raiders,2016
+['Austin Howard'],NA,week_12,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_12,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_12,Oakland Raiders,2016
+['Cory James'],NA,week_12,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_12,Oakland Raiders,2016
+['Karl Joseph'],NA,week_12,Oakland Raiders,2016
+['Darius Latham'],NA,week_12,Oakland Raiders,2016
+['Keith McGill'],Questionable: abdomen,week_12,Oakland Raiders,2016
+['Matt McGloin'],NA,week_12,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_12,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_12,Oakland Raiders,2016
+['Donald Penn'],NA,week_12,Oakland Raiders,2016
+['Jalen Richard'],NA,week_12,Oakland Raiders,2016
+['Perry Riley'],Questionable: hamstring,week_12,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_12,Oakland Raiders,2016
+['Sean Smith'],NA,week_12,Oakland Raiders,2016
+['Clive Walford'],NA,week_12,Oakland Raiders,2016
+['Jihad Ward'],NA,week_12,Oakland Raiders,2016
+['Dan Williams'],NA,week_12,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_13,Oakland Raiders,2016
+['David Amerson'],Questionable: knee,week_13,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_13,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_13,Oakland Raiders,2016
+['Derek Carr'],NA,week_13,Oakland Raiders,2016
+['Amari Cooper'],NA,week_13,Oakland Raiders,2016
+['James Cowser'],NA,week_13,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: ankle,week_13,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_13,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_13,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_13,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_13,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_13,Oakland Raiders,2016
+['Austin Howard'],NA,week_13,Oakland Raiders,2016
+['Rodney Hudson'],Questionable: knee,week_13,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_13,Oakland Raiders,2016
+['Cory James'],NA,week_13,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_13,Oakland Raiders,2016
+['Karl Joseph'],NA,week_13,Oakland Raiders,2016
+['Darius Latham'],Out: ankle,week_13,Oakland Raiders,2016
+['Keith McGill'],NA,week_13,Oakland Raiders,2016
+['Matt McGloin'],NA,week_13,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_13,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_13,Oakland Raiders,2016
+['Donald Penn'],NA,week_13,Oakland Raiders,2016
+['Jalen Richard'],NA,week_13,Oakland Raiders,2016
+['Perry Riley'],Questionable: hamstring,week_13,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_13,Oakland Raiders,2016
+['Sean Smith'],NA,week_13,Oakland Raiders,2016
+['Clive Walford'],NA,week_13,Oakland Raiders,2016
+['Jihad Ward'],NA,week_13,Oakland Raiders,2016
+['Dan Williams'],NA,week_13,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_14,Oakland Raiders,2016
+['David Amerson'],NA,week_14,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_14,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_14,Oakland Raiders,2016
+['Derek Carr'],NA,week_14,Oakland Raiders,2016
+['Amari Cooper'],NA,week_14,Oakland Raiders,2016
+['James Cowser'],NA,week_14,Oakland Raiders,2016
+['Michael Crabtree'],NA,week_14,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_14,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_14,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_14,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_14,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_14,Oakland Raiders,2016
+['Austin Howard'],NA,week_14,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_14,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_14,Oakland Raiders,2016
+['Cory James'],Questionable: shoulder,week_14,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_14,Oakland Raiders,2016
+['Karl Joseph'],Out: toe,week_14,Oakland Raiders,2016
+['Darius Latham'],Questionable: ankle,week_14,Oakland Raiders,2016
+['Keith McGill'],NA,week_14,Oakland Raiders,2016
+['Matt McGloin'],NA,week_14,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_14,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_14,Oakland Raiders,2016
+['Donald Penn'],NA,week_14,Oakland Raiders,2016
+['Jalen Richard'],NA,week_14,Oakland Raiders,2016
+['Perry Riley'],NA,week_14,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_14,Oakland Raiders,2016
+['Sean Smith'],NA,week_14,Oakland Raiders,2016
+['Clive Walford'],NA,week_14,Oakland Raiders,2016
+['Jihad Ward'],NA,week_14,Oakland Raiders,2016
+['Dan Williams'],NA,week_14,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_15,Oakland Raiders,2016
+['David Amerson'],NA,week_15,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_15,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_15,Oakland Raiders,2016
+['Derek Carr'],NA,week_15,Oakland Raiders,2016
+['Amari Cooper'],Questionable: shoulder,week_15,Oakland Raiders,2016
+['James Cowser'],NA,week_15,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: finger,week_15,Oakland Raiders,2016
+['Mario Edwards'],Injured Reserve: Hip,week_15,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_15,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_15,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_15,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_15,Oakland Raiders,2016
+['Austin Howard'],NA,week_15,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_15,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_15,Oakland Raiders,2016
+['Cory James'],NA,week_15,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_15,Oakland Raiders,2016
+['Karl Joseph'],Out: toe,week_15,Oakland Raiders,2016
+['Darius Latham'],Questionable: ankle,week_15,Oakland Raiders,2016
+['Keith McGill'],NA,week_15,Oakland Raiders,2016
+['Matt McGloin'],NA,week_15,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_15,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: knee,week_15,Oakland Raiders,2016
+['Donald Penn'],NA,week_15,Oakland Raiders,2016
+['Jalen Richard'],NA,week_15,Oakland Raiders,2016
+['Perry Riley'],Questionable: hamstring,week_15,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_15,Oakland Raiders,2016
+['Sean Smith'],NA,week_15,Oakland Raiders,2016
+['Clive Walford'],NA,week_15,Oakland Raiders,2016
+['Jihad Ward'],NA,week_15,Oakland Raiders,2016
+['Dan Williams'],NA,week_15,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_16,Oakland Raiders,2016
+['David Amerson'],NA,week_16,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_16,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_16,Oakland Raiders,2016
+['Derek Carr'],NA,week_16,Oakland Raiders,2016
+['Amari Cooper'],Questionable: shoulder,week_16,Oakland Raiders,2016
+['James Cowser'],NA,week_16,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: finger,week_16,Oakland Raiders,2016
+['Mario Edwards'],NA,week_16,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_16,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_16,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_16,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_16,Oakland Raiders,2016
+['Austin Howard'],NA,week_16,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_16,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_16,Oakland Raiders,2016
+['Cory James'],NA,week_16,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_16,Oakland Raiders,2016
+['Karl Joseph'],Out: toe,week_16,Oakland Raiders,2016
+['Darius Latham'],NA,week_16,Oakland Raiders,2016
+['Keith McGill'],NA,week_16,Oakland Raiders,2016
+['Matt McGloin'],NA,week_16,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_16,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: ankle,week_16,Oakland Raiders,2016
+['Donald Penn'],NA,week_16,Oakland Raiders,2016
+['Jalen Richard'],NA,week_16,Oakland Raiders,2016
+['Perry Riley'],Questionable: hamstring,week_16,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_16,Oakland Raiders,2016
+['Sean Smith'],NA,week_16,Oakland Raiders,2016
+['Clive Walford'],NA,week_16,Oakland Raiders,2016
+['Jihad Ward'],NA,week_16,Oakland Raiders,2016
+['Dan Williams'],Questionable: foot,week_16,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_17,Oakland Raiders,2016
+['David Amerson'],NA,week_17,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_17,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_17,Oakland Raiders,2016
+['Derek Carr'],Out: ankle,week_17,Oakland Raiders,2016
+['Amari Cooper'],Questionable: shoulder,week_17,Oakland Raiders,2016
+['James Cowser'],NA,week_17,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: ankle,week_17,Oakland Raiders,2016
+['Mario Edwards'],NA,week_17,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_17,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_17,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_17,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_17,Oakland Raiders,2016
+['Austin Howard'],NA,week_17,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_17,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_17,Oakland Raiders,2016
+['Cory James'],NA,week_17,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_17,Oakland Raiders,2016
+['Karl Joseph'],Doubtful: toe,week_17,Oakland Raiders,2016
+['Darius Latham'],NA,week_17,Oakland Raiders,2016
+['Keith McGill'],NA,week_17,Oakland Raiders,2016
+['Matt McGloin'],NA,week_17,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_17,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: ankle,week_17,Oakland Raiders,2016
+['Donald Penn'],NA,week_17,Oakland Raiders,2016
+['Jalen Richard'],Questionable: shoulder,week_17,Oakland Raiders,2016
+['Perry Riley'],Questionable: hamstring,week_17,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_17,Oakland Raiders,2016
+['Sean Smith'],NA,week_17,Oakland Raiders,2016
+['Clive Walford'],NA,week_17,Oakland Raiders,2016
+['Jihad Ward'],NA,week_17,Oakland Raiders,2016
+['Dan Williams'],NA,week_17,Oakland Raiders,2016
+['Vadal Alexander'],NA,week_18,Oakland Raiders,2016
+['David Amerson'],NA,week_18,Oakland Raiders,2016
+['Neiron Ball'],Injured Reserve: Undisclosed,week_18,Oakland Raiders,2016
+['Shilique Calhoun'],Injured Reserve: Knee,week_18,Oakland Raiders,2016
+['Derek Carr'],Out: ankle,week_18,Oakland Raiders,2016
+['Amari Cooper'],Questionable: shoulder,week_18,Oakland Raiders,2016
+['James Cowser'],NA,week_18,Oakland Raiders,2016
+['Michael Crabtree'],Questionable: ankle,week_18,Oakland Raiders,2016
+['Mario Edwards'],NA,week_18,Oakland Raiders,2016
+['Jon Feliciano'],NA,week_18,Oakland Raiders,2016
+['D.J. Hayden'],Injured Reserve: Hamstring,week_18,Oakland Raiders,2016
+['Ben Heeney'],Injured Reserve: Ankle,week_18,Oakland Raiders,2016
+['Gabe Holmes'],Injured Reserve: Ankle,week_18,Oakland Raiders,2016
+['Austin Howard'],NA,week_18,Oakland Raiders,2016
+['Rodney Hudson'],NA,week_18,Oakland Raiders,2016
+['Gabe Jackson'],NA,week_18,Oakland Raiders,2016
+['Cory James'],NA,week_18,Oakland Raiders,2016
+['Taiwan Jones'],NA,week_18,Oakland Raiders,2016
+['Karl Joseph'],Questionable: toe,week_18,Oakland Raiders,2016
+['Darius Latham'],NA,week_18,Oakland Raiders,2016
+['Keith McGill'],NA,week_18,Oakland Raiders,2016
+['Matt McGloin'],Questionable: left shoulder,week_18,Oakland Raiders,2016
+['Jamize Olawale'],NA,week_18,Oakland Raiders,2016
+['Kelechi Osemele'],Questionable: ankle,week_18,Oakland Raiders,2016
+['Donald Penn'],Out: knee,week_18,Oakland Raiders,2016
+['Jalen Richard'],NA,week_18,Oakland Raiders,2016
+['Perry Riley'],NA,week_18,Oakland Raiders,2016
+['Lee Smith'],Injured Reserve: Leg,week_18,Oakland Raiders,2016
+['Sean Smith'],NA,week_18,Oakland Raiders,2016
+['Clive Walford'],NA,week_18,Oakland Raiders,2016
+['Jihad Ward'],NA,week_18,Oakland Raiders,2016
+['Dan Williams'],NA,week_18,Oakland Raiders,2016

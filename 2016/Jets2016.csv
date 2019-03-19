@@ -1,0 +1,769 @@
+﻿name,injury,week,team,year
+['Antonio Allen'],NA,week_1,New York Jets,2016
+['Robby Anderson'],NA,week_1,New York Jets,2016
+['Brandon Bostick'],NA,week_1,New York Jets,2016
+['Braedon Bowman'],NA,week_1,New York Jets,2016
+['Juston Burris'],NA,week_1,New York Jets,2016
+['Bruce Carter'],Questionable: shoulder,week_1,New York Jets,2016
+['Mike Catapano'],NA,week_1,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_1,New York Jets,2016
+['Ryan Clady'],NA,week_1,New York Jets,2016
+['Kellen Davis'],NA,week_1,New York Jets,2016
+['Eric Decker'],NA,week_1,New York Jets,2016
+['Quincy Enunwa'],NA,week_1,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_1,New York Jets,2016
+['Matt Forte'],NA,week_1,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_1,New York Jets,2016
+['Marcus Gilchrist'],NA,week_1,New York Jets,2016
+['David Harris'],Questionable: shoulder,week_1,New York Jets,2016
+['Erin Henderson'],NA,week_1,New York Jets,2016
+['Jordan Jenkins'],Doubtful: calf,week_1,New York Jets,2016
+['Darron Lee'],NA,week_1,New York Jets,2016
+['Corey Lemonier'],NA,week_1,New York Jets,2016
+['Nick Mangold'],NA,week_1,New York Jets,2016
+['Jalin Marshall'],NA,week_1,New York Jets,2016
+['Nick Marshall'],NA,week_1,New York Jets,2016
+['Josh Martin'],NA,week_1,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_1,New York Jets,2016
+['Steve McLendon'],NA,week_1,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_1,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_1,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_1,New York Jets,2016
+['Bryce Petty'],Out: right shoulder,week_1,New York Jets,2016
+['Calvin Pryor'],NA,week_1,New York Jets,2016
+['Brent Qvale'],NA,week_1,New York Jets,2016
+['Darrelle Revis'],NA,week_1,New York Jets,2016
+['Sheldon Richardson'],NA,week_1,New York Jets,2016
+['Darryl Roberts'],Out: foot,week_1,New York Jets,2016
+['Khiry Robinson'],NA,week_1,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_1,New York Jets,2016
+['Brandon Shell'],NA,week_1,New York Jets,2016
+['Buster Skrine'],NA,week_1,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_1,New York Jets,2016
+['Geno Smith'],NA,week_1,New York Jets,2016
+['Julian Stanford'],NA,week_1,New York Jets,2016
+['Lawrence Thomas'],NA,week_1,New York Jets,2016
+['Brandon Wilds'],NA,week_1,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_1,New York Jets,2016
+['Marcus Williams'],NA,week_1,New York Jets,2016
+['Brian Winters'],NA,week_1,New York Jets,2016
+['Antonio Allen'],NA,week_2,New York Jets,2016
+['Robby Anderson'],NA,week_2,New York Jets,2016
+['Brandon Bostick'],NA,week_2,New York Jets,2016
+['Braedon Bowman'],NA,week_2,New York Jets,2016
+['Juston Burris'],NA,week_2,New York Jets,2016
+['Bruce Carter'],Questionable: shoulder,week_2,New York Jets,2016
+['Mike Catapano'],NA,week_2,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_2,New York Jets,2016
+['Ryan Clady'],NA,week_2,New York Jets,2016
+['Kellen Davis'],NA,week_2,New York Jets,2016
+['Eric Decker'],NA,week_2,New York Jets,2016
+['Quincy Enunwa'],NA,week_2,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_2,New York Jets,2016
+['Matt Forte'],NA,week_2,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_2,New York Jets,2016
+['Marcus Gilchrist'],NA,week_2,New York Jets,2016
+['David Harris'],Questionable: shoulder,week_2,New York Jets,2016
+['Erin Henderson'],NA,week_2,New York Jets,2016
+['Jordan Jenkins'],Doubtful: calf,week_2,New York Jets,2016
+['Darron Lee'],NA,week_2,New York Jets,2016
+['Corey Lemonier'],NA,week_2,New York Jets,2016
+['Nick Mangold'],NA,week_2,New York Jets,2016
+['Jalin Marshall'],NA,week_2,New York Jets,2016
+['Nick Marshall'],NA,week_2,New York Jets,2016
+['Josh Martin'],NA,week_2,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_2,New York Jets,2016
+['Steve McLendon'],NA,week_2,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_2,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_2,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_2,New York Jets,2016
+['Bryce Petty'],Out: right shoulder,week_2,New York Jets,2016
+['Calvin Pryor'],NA,week_2,New York Jets,2016
+['Brent Qvale'],NA,week_2,New York Jets,2016
+['Darrelle Revis'],NA,week_2,New York Jets,2016
+['Sheldon Richardson'],NA,week_2,New York Jets,2016
+['Darryl Roberts'],Doubtful: foot,week_2,New York Jets,2016
+['Khiry Robinson'],NA,week_2,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_2,New York Jets,2016
+['Brandon Shell'],NA,week_2,New York Jets,2016
+['Buster Skrine'],NA,week_2,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_2,New York Jets,2016
+['Geno Smith'],NA,week_2,New York Jets,2016
+['Julian Stanford'],NA,week_2,New York Jets,2016
+['Lawrence Thomas'],NA,week_2,New York Jets,2016
+['Brandon Wilds'],NA,week_2,New York Jets,2016
+['Muhammad Wilkerson'],"Questionable: ankle, toe",week_2,New York Jets,2016
+['Marcus Williams'],NA,week_2,New York Jets,2016
+['Brian Winters'],NA,week_2,New York Jets,2016
+['Antonio Allen'],NA,week_3,New York Jets,2016
+['Robby Anderson'],NA,week_3,New York Jets,2016
+['Brandon Bostick'],NA,week_3,New York Jets,2016
+['Braedon Bowman'],NA,week_3,New York Jets,2016
+['Juston Burris'],NA,week_3,New York Jets,2016
+['Bruce Carter'],NA,week_3,New York Jets,2016
+['Mike Catapano'],NA,week_3,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_3,New York Jets,2016
+['Ryan Clady'],NA,week_3,New York Jets,2016
+['Kellen Davis'],NA,week_3,New York Jets,2016
+['Eric Decker'],NA,week_3,New York Jets,2016
+['Quincy Enunwa'],NA,week_3,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_3,New York Jets,2016
+['Matt Forte'],NA,week_3,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_3,New York Jets,2016
+['Marcus Gilchrist'],NA,week_3,New York Jets,2016
+['David Harris'],Questionable: shoulder,week_3,New York Jets,2016
+['Erin Henderson'],Questionable: foot,week_3,New York Jets,2016
+['Jordan Jenkins'],NA,week_3,New York Jets,2016
+['Darron Lee'],NA,week_3,New York Jets,2016
+['Corey Lemonier'],NA,week_3,New York Jets,2016
+['Nick Mangold'],NA,week_3,New York Jets,2016
+['Jalin Marshall'],NA,week_3,New York Jets,2016
+['Nick Marshall'],NA,week_3,New York Jets,2016
+['Josh Martin'],NA,week_3,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_3,New York Jets,2016
+['Steve McLendon'],NA,week_3,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_3,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_3,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_3,New York Jets,2016
+['Bryce Petty'],Out: right shoulder,week_3,New York Jets,2016
+['Calvin Pryor'],NA,week_3,New York Jets,2016
+['Brent Qvale'],NA,week_3,New York Jets,2016
+['Darrelle Revis'],NA,week_3,New York Jets,2016
+['Sheldon Richardson'],NA,week_3,New York Jets,2016
+['Darryl Roberts'],NA,week_3,New York Jets,2016
+['Khiry Robinson'],NA,week_3,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_3,New York Jets,2016
+['Brandon Shell'],NA,week_3,New York Jets,2016
+['Buster Skrine'],NA,week_3,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_3,New York Jets,2016
+['Geno Smith'],NA,week_3,New York Jets,2016
+['Julian Stanford'],NA,week_3,New York Jets,2016
+['Lawrence Thomas'],NA,week_3,New York Jets,2016
+['Brandon Wilds'],NA,week_3,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_3,New York Jets,2016
+['Marcus Williams'],NA,week_3,New York Jets,2016
+['Brian Winters'],NA,week_3,New York Jets,2016
+['Antonio Allen'],NA,week_4,New York Jets,2016
+['Robby Anderson'],NA,week_4,New York Jets,2016
+['Brandon Bostick'],NA,week_4,New York Jets,2016
+['Braedon Bowman'],NA,week_4,New York Jets,2016
+['Juston Burris'],NA,week_4,New York Jets,2016
+['Bruce Carter'],Questionable: ankle,week_4,New York Jets,2016
+['Mike Catapano'],NA,week_4,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_4,New York Jets,2016
+['Ryan Clady'],Questionable: shoulder,week_4,New York Jets,2016
+['Kellen Davis'],NA,week_4,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_4,New York Jets,2016
+['Quincy Enunwa'],NA,week_4,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_4,New York Jets,2016
+['Matt Forte'],NA,week_4,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_4,New York Jets,2016
+['Marcus Gilchrist'],NA,week_4,New York Jets,2016
+['David Harris'],NA,week_4,New York Jets,2016
+['Erin Henderson'],NA,week_4,New York Jets,2016
+['Jordan Jenkins'],NA,week_4,New York Jets,2016
+['Darron Lee'],NA,week_4,New York Jets,2016
+['Corey Lemonier'],Doubtful: not injury related,week_4,New York Jets,2016
+['Nick Mangold'],NA,week_4,New York Jets,2016
+['Jalin Marshall'],Out: shoulder,week_4,New York Jets,2016
+['Nick Marshall'],NA,week_4,New York Jets,2016
+['Josh Martin'],NA,week_4,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_4,New York Jets,2016
+['Steve McLendon'],NA,week_4,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_4,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_4,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_4,New York Jets,2016
+['Bryce Petty'],Out: right shoulder,week_4,New York Jets,2016
+['Calvin Pryor'],NA,week_4,New York Jets,2016
+['Brent Qvale'],NA,week_4,New York Jets,2016
+['Darrelle Revis'],NA,week_4,New York Jets,2016
+['Sheldon Richardson'],NA,week_4,New York Jets,2016
+['Darryl Roberts'],NA,week_4,New York Jets,2016
+['Khiry Robinson'],NA,week_4,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_4,New York Jets,2016
+['Brandon Shell'],NA,week_4,New York Jets,2016
+['Buster Skrine'],NA,week_4,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_4,New York Jets,2016
+['Geno Smith'],NA,week_4,New York Jets,2016
+['Julian Stanford'],NA,week_4,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_4,New York Jets,2016
+['Brandon Wilds'],NA,week_4,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_4,New York Jets,2016
+['Marcus Williams'],NA,week_4,New York Jets,2016
+['Brian Winters'],NA,week_4,New York Jets,2016
+['Antonio Allen'],NA,week_5,New York Jets,2016
+['Robby Anderson'],NA,week_5,New York Jets,2016
+['Brandon Bostick'],NA,week_5,New York Jets,2016
+['Braedon Bowman'],Out: knee,week_5,New York Jets,2016
+['Juston Burris'],NA,week_5,New York Jets,2016
+['Bruce Carter'],NA,week_5,New York Jets,2016
+['Mike Catapano'],NA,week_5,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_5,New York Jets,2016
+['Ryan Clady'],NA,week_5,New York Jets,2016
+['Kellen Davis'],NA,week_5,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_5,New York Jets,2016
+['Quincy Enunwa'],Questionable: knee,week_5,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_5,New York Jets,2016
+['Matt Forte'],NA,week_5,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_5,New York Jets,2016
+['Marcus Gilchrist'],NA,week_5,New York Jets,2016
+['David Harris'],NA,week_5,New York Jets,2016
+['Erin Henderson'],NA,week_5,New York Jets,2016
+['Jordan Jenkins'],NA,week_5,New York Jets,2016
+['Darron Lee'],NA,week_5,New York Jets,2016
+['Corey Lemonier'],NA,week_5,New York Jets,2016
+['Nick Mangold'],NA,week_5,New York Jets,2016
+['Jalin Marshall'],Doubtful: shoulder,week_5,New York Jets,2016
+['Nick Marshall'],NA,week_5,New York Jets,2016
+['Josh Martin'],NA,week_5,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_5,New York Jets,2016
+['Steve McLendon'],NA,week_5,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_5,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_5,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_5,New York Jets,2016
+['Bryce Petty'],Out: right shoulder,week_5,New York Jets,2016
+['Calvin Pryor'],NA,week_5,New York Jets,2016
+['Brent Qvale'],NA,week_5,New York Jets,2016
+['Darrelle Revis'],Doubtful: hamstring,week_5,New York Jets,2016
+['Sheldon Richardson'],NA,week_5,New York Jets,2016
+['Darryl Roberts'],NA,week_5,New York Jets,2016
+['Khiry Robinson'],NA,week_5,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_5,New York Jets,2016
+['Brandon Shell'],NA,week_5,New York Jets,2016
+['Buster Skrine'],NA,week_5,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_5,New York Jets,2016
+['Geno Smith'],NA,week_5,New York Jets,2016
+['Julian Stanford'],NA,week_5,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_5,New York Jets,2016
+['Brandon Wilds'],NA,week_5,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_5,New York Jets,2016
+['Marcus Williams'],NA,week_5,New York Jets,2016
+['Brian Winters'],Out: concussion,week_5,New York Jets,2016
+['Antonio Allen'],NA,week_6,New York Jets,2016
+['Robby Anderson'],NA,week_6,New York Jets,2016
+['Brandon Bostick'],NA,week_6,New York Jets,2016
+['Braedon Bowman'],NA,week_6,New York Jets,2016
+['Juston Burris'],NA,week_6,New York Jets,2016
+['Bruce Carter'],NA,week_6,New York Jets,2016
+['Mike Catapano'],NA,week_6,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_6,New York Jets,2016
+['Ryan Clady'],NA,week_6,New York Jets,2016
+['Kellen Davis'],NA,week_6,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_6,New York Jets,2016
+['Quincy Enunwa'],NA,week_6,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_6,New York Jets,2016
+['Matt Forte'],NA,week_6,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_6,New York Jets,2016
+['Marcus Gilchrist'],NA,week_6,New York Jets,2016
+['David Harris'],Doubtful: hamstring,week_6,New York Jets,2016
+['Erin Henderson'],NA,week_6,New York Jets,2016
+['Jordan Jenkins'],NA,week_6,New York Jets,2016
+['Darron Lee'],NA,week_6,New York Jets,2016
+['Corey Lemonier'],NA,week_6,New York Jets,2016
+['Nick Mangold'],Questionable: knee,week_6,New York Jets,2016
+['Jalin Marshall'],NA,week_6,New York Jets,2016
+['Nick Marshall'],NA,week_6,New York Jets,2016
+['Josh Martin'],NA,week_6,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_6,New York Jets,2016
+['Steve McLendon'],NA,week_6,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_6,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_6,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_6,New York Jets,2016
+['Bryce Petty'],NA,week_6,New York Jets,2016
+['Calvin Pryor'],NA,week_6,New York Jets,2016
+['Brent Qvale'],NA,week_6,New York Jets,2016
+['Darrelle Revis'],Questionable: hamstring,week_6,New York Jets,2016
+['Sheldon Richardson'],NA,week_6,New York Jets,2016
+['Darryl Roberts'],NA,week_6,New York Jets,2016
+['Khiry Robinson'],NA,week_6,New York Jets,2016
+['Austin Seferian-Jenkins'],Questionable: ankle,week_6,New York Jets,2016
+['Brandon Shell'],NA,week_6,New York Jets,2016
+['Buster Skrine'],NA,week_6,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_6,New York Jets,2016
+['Geno Smith'],NA,week_6,New York Jets,2016
+['Julian Stanford'],NA,week_6,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_6,New York Jets,2016
+['Brandon Wilds'],NA,week_6,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_6,New York Jets,2016
+['Marcus Williams'],NA,week_6,New York Jets,2016
+['Brian Winters'],NA,week_6,New York Jets,2016
+['Antonio Allen'],NA,week_7,New York Jets,2016
+['Robby Anderson'],NA,week_7,New York Jets,2016
+['Brandon Bostick'],NA,week_7,New York Jets,2016
+['Braedon Bowman'],Out: knee,week_7,New York Jets,2016
+['Juston Burris'],NA,week_7,New York Jets,2016
+['Bruce Carter'],NA,week_7,New York Jets,2016
+['Mike Catapano'],NA,week_7,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_7,New York Jets,2016
+['Ryan Clady'],Questionable: shoulder,week_7,New York Jets,2016
+['Kellen Davis'],NA,week_7,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_7,New York Jets,2016
+['Quincy Enunwa'],NA,week_7,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_7,New York Jets,2016
+['Matt Forte'],NA,week_7,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_7,New York Jets,2016
+['Marcus Gilchrist'],NA,week_7,New York Jets,2016
+['David Harris'],NA,week_7,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_7,New York Jets,2016
+['Jordan Jenkins'],NA,week_7,New York Jets,2016
+['Darron Lee'],Out: ankle,week_7,New York Jets,2016
+['Corey Lemonier'],NA,week_7,New York Jets,2016
+['Nick Mangold'],Questionable: knee,week_7,New York Jets,2016
+['Jalin Marshall'],NA,week_7,New York Jets,2016
+['Nick Marshall'],NA,week_7,New York Jets,2016
+['Josh Martin'],NA,week_7,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_7,New York Jets,2016
+['Steve McLendon'],NA,week_7,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_7,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_7,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_7,New York Jets,2016
+['Bryce Petty'],NA,week_7,New York Jets,2016
+['Calvin Pryor'],NA,week_7,New York Jets,2016
+['Brent Qvale'],Out: neck,week_7,New York Jets,2016
+['Darrelle Revis'],NA,week_7,New York Jets,2016
+['Sheldon Richardson'],NA,week_7,New York Jets,2016
+['Darryl Roberts'],NA,week_7,New York Jets,2016
+['Khiry Robinson'],NA,week_7,New York Jets,2016
+['Austin Seferian-Jenkins'],Out: ankle,week_7,New York Jets,2016
+['Brandon Shell'],NA,week_7,New York Jets,2016
+['Buster Skrine'],NA,week_7,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_7,New York Jets,2016
+['Geno Smith'],NA,week_7,New York Jets,2016
+['Julian Stanford'],NA,week_7,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_7,New York Jets,2016
+['Brandon Wilds'],NA,week_7,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_7,New York Jets,2016
+['Marcus Williams'],NA,week_7,New York Jets,2016
+['Brian Winters'],NA,week_7,New York Jets,2016
+['Antonio Allen'],NA,week_8,New York Jets,2016
+['Robby Anderson'],NA,week_8,New York Jets,2016
+['Brandon Bostick'],NA,week_8,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_8,New York Jets,2016
+['Juston Burris'],NA,week_8,New York Jets,2016
+['Bruce Carter'],Out: quadricep,week_8,New York Jets,2016
+['Mike Catapano'],NA,week_8,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_8,New York Jets,2016
+['Ryan Clady'],Questionable: shoulder,week_8,New York Jets,2016
+['Kellen Davis'],NA,week_8,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_8,New York Jets,2016
+['Quincy Enunwa'],NA,week_8,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_8,New York Jets,2016
+['Matt Forte'],NA,week_8,New York Jets,2016
+['Breno Giacomini'],NA,week_8,New York Jets,2016
+['Marcus Gilchrist'],NA,week_8,New York Jets,2016
+['David Harris'],NA,week_8,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_8,New York Jets,2016
+['Jordan Jenkins'],NA,week_8,New York Jets,2016
+['Darron Lee'],Out: ankle,week_8,New York Jets,2016
+['Corey Lemonier'],NA,week_8,New York Jets,2016
+['Nick Mangold'],Doubtful: ankle,week_8,New York Jets,2016
+['Jalin Marshall'],NA,week_8,New York Jets,2016
+['Nick Marshall'],NA,week_8,New York Jets,2016
+['Josh Martin'],NA,week_8,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_8,New York Jets,2016
+['Steve McLendon'],NA,week_8,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_8,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_8,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_8,New York Jets,2016
+['Bryce Petty'],NA,week_8,New York Jets,2016
+['Calvin Pryor'],NA,week_8,New York Jets,2016
+['Brent Qvale'],Doubtful: neck,week_8,New York Jets,2016
+['Darrelle Revis'],NA,week_8,New York Jets,2016
+['Sheldon Richardson'],NA,week_8,New York Jets,2016
+['Darryl Roberts'],NA,week_8,New York Jets,2016
+['Khiry Robinson'],NA,week_8,New York Jets,2016
+['Austin Seferian-Jenkins'],Doubtful: ankle,week_8,New York Jets,2016
+['Brandon Shell'],NA,week_8,New York Jets,2016
+['Buster Skrine'],Doubtful: knee,week_8,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_8,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_8,New York Jets,2016
+['Julian Stanford'],NA,week_8,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_8,New York Jets,2016
+['Brandon Wilds'],NA,week_8,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_8,New York Jets,2016
+['Marcus Williams'],NA,week_8,New York Jets,2016
+['Brian Winters'],NA,week_8,New York Jets,2016
+['Antonio Allen'],NA,week_9,New York Jets,2016
+['Robby Anderson'],NA,week_9,New York Jets,2016
+['Brandon Bostick'],NA,week_9,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_9,New York Jets,2016
+['Juston Burris'],NA,week_9,New York Jets,2016
+['Bruce Carter'],Out: quadriceps,week_9,New York Jets,2016
+['Mike Catapano'],NA,week_9,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_9,New York Jets,2016
+['Ryan Clady'],Questionable: shoulder,week_9,New York Jets,2016
+['Kellen Davis'],Out: elbow,week_9,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_9,New York Jets,2016
+['Quincy Enunwa'],NA,week_9,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_9,New York Jets,2016
+['Matt Forte'],NA,week_9,New York Jets,2016
+['Breno Giacomini'],Questionable: shoulder,week_9,New York Jets,2016
+['Marcus Gilchrist'],NA,week_9,New York Jets,2016
+['David Harris'],NA,week_9,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_9,New York Jets,2016
+['Jordan Jenkins'],NA,week_9,New York Jets,2016
+['Darron Lee'],Out: ankle,week_9,New York Jets,2016
+['Corey Lemonier'],NA,week_9,New York Jets,2016
+['Nick Mangold'],Doubtful: ankle,week_9,New York Jets,2016
+['Jalin Marshall'],NA,week_9,New York Jets,2016
+['Nick Marshall'],NA,week_9,New York Jets,2016
+['Josh Martin'],NA,week_9,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_9,New York Jets,2016
+['Steve McLendon'],NA,week_9,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_9,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_9,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_9,New York Jets,2016
+['Bryce Petty'],NA,week_9,New York Jets,2016
+['Calvin Pryor'],NA,week_9,New York Jets,2016
+['Brent Qvale'],Doubtful: neck,week_9,New York Jets,2016
+['Darrelle Revis'],NA,week_9,New York Jets,2016
+['Sheldon Richardson'],NA,week_9,New York Jets,2016
+['Darryl Roberts'],NA,week_9,New York Jets,2016
+['Khiry Robinson'],NA,week_9,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_9,New York Jets,2016
+['Brandon Shell'],Questionable: shoulder,week_9,New York Jets,2016
+['Buster Skrine'],NA,week_9,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_9,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_9,New York Jets,2016
+['Julian Stanford'],NA,week_9,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_9,New York Jets,2016
+['Brandon Wilds'],NA,week_9,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_9,New York Jets,2016
+['Marcus Williams'],NA,week_9,New York Jets,2016
+['Brian Winters'],NA,week_9,New York Jets,2016
+['Antonio Allen'],NA,week_10,New York Jets,2016
+['Robby Anderson'],NA,week_10,New York Jets,2016
+['Brandon Bostick'],NA,week_10,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_10,New York Jets,2016
+['Juston Burris'],NA,week_10,New York Jets,2016
+['Bruce Carter'],Out: quadriceps,week_10,New York Jets,2016
+['Mike Catapano'],NA,week_10,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_10,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_10,New York Jets,2016
+['Kellen Davis'],NA,week_10,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_10,New York Jets,2016
+['Quincy Enunwa'],NA,week_10,New York Jets,2016
+['Ryan Fitzpatrick'],Questionable: knee,week_10,New York Jets,2016
+['Matt Forte'],NA,week_10,New York Jets,2016
+['Breno Giacomini'],NA,week_10,New York Jets,2016
+['Marcus Gilchrist'],NA,week_10,New York Jets,2016
+['David Harris'],NA,week_10,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_10,New York Jets,2016
+['Jordan Jenkins'],NA,week_10,New York Jets,2016
+['Darron Lee'],NA,week_10,New York Jets,2016
+['Corey Lemonier'],NA,week_10,New York Jets,2016
+['Nick Mangold'],Out: ankle,week_10,New York Jets,2016
+['Jalin Marshall'],NA,week_10,New York Jets,2016
+['Nick Marshall'],NA,week_10,New York Jets,2016
+['Josh Martin'],Out: concussion,week_10,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_10,New York Jets,2016
+['Steve McLendon'],NA,week_10,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_10,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_10,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_10,New York Jets,2016
+['Bryce Petty'],NA,week_10,New York Jets,2016
+['Calvin Pryor'],NA,week_10,New York Jets,2016
+['Brent Qvale'],NA,week_10,New York Jets,2016
+['Darrelle Revis'],NA,week_10,New York Jets,2016
+['Sheldon Richardson'],NA,week_10,New York Jets,2016
+['Darryl Roberts'],NA,week_10,New York Jets,2016
+['Khiry Robinson'],NA,week_10,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_10,New York Jets,2016
+['Brandon Shell'],Questionable: shoulder,week_10,New York Jets,2016
+['Buster Skrine'],Questionable: knee,week_10,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_10,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_10,New York Jets,2016
+['Julian Stanford'],NA,week_10,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_10,New York Jets,2016
+['Brandon Wilds'],NA,week_10,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_10,New York Jets,2016
+['Marcus Williams'],Out: ankle,week_10,New York Jets,2016
+['Brian Winters'],NA,week_10,New York Jets,2016
+['Antonio Allen'],NA,week_12,New York Jets,2016
+['Robby Anderson'],NA,week_12,New York Jets,2016
+['Brandon Bostick'],NA,week_12,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_12,New York Jets,2016
+['Juston Burris'],NA,week_12,New York Jets,2016
+['Bruce Carter'],NA,week_12,New York Jets,2016
+['Mike Catapano'],NA,week_12,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_12,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_12,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_12,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_12,New York Jets,2016
+['Quincy Enunwa'],NA,week_12,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_12,New York Jets,2016
+['Matt Forte'],NA,week_12,New York Jets,2016
+['Breno Giacomini'],NA,week_12,New York Jets,2016
+['Marcus Gilchrist'],NA,week_12,New York Jets,2016
+['David Harris'],NA,week_12,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_12,New York Jets,2016
+['Jordan Jenkins'],NA,week_12,New York Jets,2016
+['Darron Lee'],NA,week_12,New York Jets,2016
+['Corey Lemonier'],NA,week_12,New York Jets,2016
+['Nick Mangold'],Questionable: ankle,week_12,New York Jets,2016
+['Jalin Marshall'],NA,week_12,New York Jets,2016
+['Nick Marshall'],Out: ankle,week_12,New York Jets,2016
+['Josh Martin'],NA,week_12,New York Jets,2016
+['Lorenzo Mauldin'],NA,week_12,New York Jets,2016
+['Steve McLendon'],Questionable: hamstring,week_12,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_12,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_12,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_12,New York Jets,2016
+['Bryce Petty'],NA,week_12,New York Jets,2016
+['Calvin Pryor'],NA,week_12,New York Jets,2016
+['Brent Qvale'],NA,week_12,New York Jets,2016
+['Darrelle Revis'],NA,week_12,New York Jets,2016
+['Sheldon Richardson'],NA,week_12,New York Jets,2016
+['Darryl Roberts'],NA,week_12,New York Jets,2016
+['Khiry Robinson'],NA,week_12,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_12,New York Jets,2016
+['Brandon Shell'],NA,week_12,New York Jets,2016
+['Buster Skrine'],NA,week_12,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_12,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_12,New York Jets,2016
+['Julian Stanford'],NA,week_12,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_12,New York Jets,2016
+['Brandon Wilds'],NA,week_12,New York Jets,2016
+['Muhammad Wilkerson'],NA,week_12,New York Jets,2016
+['Marcus Williams'],Out: ankle,week_12,New York Jets,2016
+['Brian Winters'],NA,week_12,New York Jets,2016
+['Antonio Allen'],NA,week_13,New York Jets,2016
+['Robby Anderson'],NA,week_13,New York Jets,2016
+['Brandon Bostick'],NA,week_13,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_13,New York Jets,2016
+['Juston Burris'],NA,week_13,New York Jets,2016
+['Bruce Carter'],Questionable: quadriceps,week_13,New York Jets,2016
+['Mike Catapano'],NA,week_13,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_13,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_13,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_13,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_13,New York Jets,2016
+['Quincy Enunwa'],NA,week_13,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_13,New York Jets,2016
+['Matt Forte'],NA,week_13,New York Jets,2016
+['Breno Giacomini'],"Questionable: back, shoulder",week_13,New York Jets,2016
+['Marcus Gilchrist'],NA,week_13,New York Jets,2016
+['David Harris'],NA,week_13,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_13,New York Jets,2016
+['Jordan Jenkins'],NA,week_13,New York Jets,2016
+['Darron Lee'],NA,week_13,New York Jets,2016
+['Corey Lemonier'],NA,week_13,New York Jets,2016
+['Nick Mangold'],NA,week_13,New York Jets,2016
+['Jalin Marshall'],Out: concussion,week_13,New York Jets,2016
+['Nick Marshall'],NA,week_13,New York Jets,2016
+['Josh Martin'],NA,week_13,New York Jets,2016
+['Lorenzo Mauldin'],Doubtful: ankle,week_13,New York Jets,2016
+['Steve McLendon'],Out: hamstring,week_13,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_13,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_13,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_13,New York Jets,2016
+['Bryce Petty'],NA,week_13,New York Jets,2016
+['Calvin Pryor'],Out: concussion,week_13,New York Jets,2016
+['Brent Qvale'],NA,week_13,New York Jets,2016
+['Darrelle Revis'],NA,week_13,New York Jets,2016
+['Sheldon Richardson'],NA,week_13,New York Jets,2016
+['Darryl Roberts'],NA,week_13,New York Jets,2016
+['Khiry Robinson'],NA,week_13,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_13,New York Jets,2016
+['Brandon Shell'],NA,week_13,New York Jets,2016
+['Buster Skrine'],NA,week_13,New York Jets,2016
+['Devin Smith'],Injured Reserve: Knee,week_13,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_13,New York Jets,2016
+['Julian Stanford'],NA,week_13,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_13,New York Jets,2016
+['Brandon Wilds'],NA,week_13,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_13,New York Jets,2016
+['Marcus Williams'],Questionable: ankle,week_13,New York Jets,2016
+['Brian Winters'],NA,week_13,New York Jets,2016
+['Antonio Allen'],Out: concussion,week_14,New York Jets,2016
+['Robby Anderson'],NA,week_14,New York Jets,2016
+['Brandon Bostick'],NA,week_14,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_14,New York Jets,2016
+['Juston Burris'],NA,week_14,New York Jets,2016
+['Bruce Carter'],NA,week_14,New York Jets,2016
+['Mike Catapano'],NA,week_14,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_14,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_14,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_14,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_14,New York Jets,2016
+['Quincy Enunwa'],NA,week_14,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_14,New York Jets,2016
+['Matt Forte'],NA,week_14,New York Jets,2016
+['Breno Giacomini'],"Out: shoulder, back, calf",week_14,New York Jets,2016
+['Marcus Gilchrist'],NA,week_14,New York Jets,2016
+['David Harris'],NA,week_14,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_14,New York Jets,2016
+['Jordan Jenkins'],NA,week_14,New York Jets,2016
+['Darron Lee'],NA,week_14,New York Jets,2016
+['Corey Lemonier'],NA,week_14,New York Jets,2016
+['Nick Mangold'],Injured Reserve: Ankle,week_14,New York Jets,2016
+['Jalin Marshall'],Out: concussion,week_14,New York Jets,2016
+['Nick Marshall'],NA,week_14,New York Jets,2016
+['Josh Martin'],NA,week_14,New York Jets,2016
+['Lorenzo Mauldin'],Out: ankle,week_14,New York Jets,2016
+['Steve McLendon'],Out: hamstring,week_14,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_14,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_14,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_14,New York Jets,2016
+['Bryce Petty'],NA,week_14,New York Jets,2016
+['Calvin Pryor'],NA,week_14,New York Jets,2016
+['Brent Qvale'],NA,week_14,New York Jets,2016
+['Darrelle Revis'],NA,week_14,New York Jets,2016
+['Sheldon Richardson'],NA,week_14,New York Jets,2016
+['Darryl Roberts'],NA,week_14,New York Jets,2016
+['Khiry Robinson'],Out: leg,week_14,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_14,New York Jets,2016
+['Brandon Shell'],NA,week_14,New York Jets,2016
+['Buster Skrine'],NA,week_14,New York Jets,2016
+['Devin Smith'],NA,week_14,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_14,New York Jets,2016
+['Julian Stanford'],Injured Reserve: Ankle,week_14,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_14,New York Jets,2016
+['Brandon Wilds'],NA,week_14,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_14,New York Jets,2016
+['Marcus Williams'],NA,week_14,New York Jets,2016
+['Brian Winters'],NA,week_14,New York Jets,2016
+['Antonio Allen'],Injured Reserve: Concussion,week_15,New York Jets,2016
+['Robby Anderson'],NA,week_15,New York Jets,2016
+['Brandon Bostick'],Questionable: ankle,week_15,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_15,New York Jets,2016
+['Juston Burris'],NA,week_15,New York Jets,2016
+['Bruce Carter'],NA,week_15,New York Jets,2016
+['Mike Catapano'],Injured Reserve: Knee,week_15,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_15,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_15,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_15,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_15,New York Jets,2016
+['Quincy Enunwa'],Questionable: ribs,week_15,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_15,New York Jets,2016
+['Matt Forte'],Questionable: knee,week_15,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_15,New York Jets,2016
+['Marcus Gilchrist'],Injured Reserve: Knee,week_15,New York Jets,2016
+['David Harris'],NA,week_15,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_15,New York Jets,2016
+['Jordan Jenkins'],NA,week_15,New York Jets,2016
+['Darron Lee'],NA,week_15,New York Jets,2016
+['Corey Lemonier'],NA,week_15,New York Jets,2016
+['Nick Mangold'],Injured Reserve: Ankle,week_15,New York Jets,2016
+['Jalin Marshall'],NA,week_15,New York Jets,2016
+['Nick Marshall'],NA,week_15,New York Jets,2016
+['Josh Martin'],NA,week_15,New York Jets,2016
+['Lorenzo Mauldin'],Out: ankle,week_15,New York Jets,2016
+['Steve McLendon'],Out: hamstring,week_15,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_15,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_15,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_15,New York Jets,2016
+['Bryce Petty'],NA,week_15,New York Jets,2016
+['Calvin Pryor'],NA,week_15,New York Jets,2016
+['Brent Qvale'],Doubtful: hamstring,week_15,New York Jets,2016
+['Darrelle Revis'],NA,week_15,New York Jets,2016
+['Sheldon Richardson'],NA,week_15,New York Jets,2016
+['Darryl Roberts'],NA,week_15,New York Jets,2016
+['Khiry Robinson'],Doubtful: lower leg,week_15,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_15,New York Jets,2016
+['Brandon Shell'],NA,week_15,New York Jets,2016
+['Buster Skrine'],Out: concussion,week_15,New York Jets,2016
+['Devin Smith'],NA,week_15,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_15,New York Jets,2016
+['Julian Stanford'],Injured Reserve: Ankle,week_15,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_15,New York Jets,2016
+['Brandon Wilds'],NA,week_15,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_15,New York Jets,2016
+['Marcus Williams'],NA,week_15,New York Jets,2016
+['Brian Winters'],NA,week_15,New York Jets,2016
+['Antonio Allen'],Injured Reserve: Concussion,week_16,New York Jets,2016
+['Robby Anderson'],NA,week_16,New York Jets,2016
+['Brandon Bostick'],NA,week_16,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_16,New York Jets,2016
+['Juston Burris'],NA,week_16,New York Jets,2016
+['Bruce Carter'],NA,week_16,New York Jets,2016
+['Mike Catapano'],Injured Reserve: Knee,week_16,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_16,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_16,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Quincy Enunwa'],NA,week_16,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_16,New York Jets,2016
+['Matt Forte'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_16,New York Jets,2016
+['Marcus Gilchrist'],Injured Reserve: Knee,week_16,New York Jets,2016
+['David Harris'],NA,week_16,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_16,New York Jets,2016
+['Jordan Jenkins'],NA,week_16,New York Jets,2016
+['Darron Lee'],NA,week_16,New York Jets,2016
+['Corey Lemonier'],NA,week_16,New York Jets,2016
+['Nick Mangold'],Injured Reserve: Ankle,week_16,New York Jets,2016
+['Jalin Marshall'],NA,week_16,New York Jets,2016
+['Nick Marshall'],NA,week_16,New York Jets,2016
+['Josh Martin'],NA,week_16,New York Jets,2016
+['Lorenzo Mauldin'],Out: ankle,week_16,New York Jets,2016
+['Steve McLendon'],Out: hamstring,week_16,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_16,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_16,New York Jets,2016
+['Bryce Petty'],NA,week_16,New York Jets,2016
+['Calvin Pryor'],NA,week_16,New York Jets,2016
+['Brent Qvale'],NA,week_16,New York Jets,2016
+['Darrelle Revis'],NA,week_16,New York Jets,2016
+['Sheldon Richardson'],NA,week_16,New York Jets,2016
+['Darryl Roberts'],NA,week_16,New York Jets,2016
+['Khiry Robinson'],Questionable: lower leg,week_16,New York Jets,2016
+['Austin Seferian-Jenkins'],NA,week_16,New York Jets,2016
+['Brandon Shell'],NA,week_16,New York Jets,2016
+['Buster Skrine'],NA,week_16,New York Jets,2016
+['Devin Smith'],NA,week_16,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_16,New York Jets,2016
+['Julian Stanford'],Injured Reserve: Ankle,week_16,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Brandon Wilds'],NA,week_16,New York Jets,2016
+['Muhammad Wilkerson'],Questionable: ankle,week_16,New York Jets,2016
+['Marcus Williams'],NA,week_16,New York Jets,2016
+['Brian Winters'],Injured Reserve: Shoulder,week_16,New York Jets,2016
+['Antonio Allen'],Injured Reserve: Concussion,week_17,New York Jets,2016
+['Robby Anderson'],Questionable: hamstring,week_17,New York Jets,2016
+['Brandon Bostick'],NA,week_17,New York Jets,2016
+['Braedon Bowman'],Injured Reserve: Knee,week_17,New York Jets,2016
+['Juston Burris'],Questionable: knee,week_17,New York Jets,2016
+['Bruce Carter'],NA,week_17,New York Jets,2016
+['Mike Catapano'],Injured Reserve: Knee,week_17,New York Jets,2016
+['Jake Ceresna'],Injured Reserve: Undisclosed,week_17,New York Jets,2016
+['Ryan Clady'],Injured Reserve: Shoulder,week_17,New York Jets,2016
+['Kellen Davis'],Injured Reserve: Elbow,week_17,New York Jets,2016
+['Eric Decker'],Injured Reserve: Shoulder,week_17,New York Jets,2016
+['Quincy Enunwa'],NA,week_17,New York Jets,2016
+['Ryan Fitzpatrick'],NA,week_17,New York Jets,2016
+['Matt Forte'],Out: knee,week_17,New York Jets,2016
+['Breno Giacomini'],Injured Reserve: Back,week_17,New York Jets,2016
+['Marcus Gilchrist'],Injured Reserve: Knee,week_17,New York Jets,2016
+['David Harris'],NA,week_17,New York Jets,2016
+['Erin Henderson'],Injured Reserve: Undisclosed,week_17,New York Jets,2016
+['Jordan Jenkins'],NA,week_17,New York Jets,2016
+['Darron Lee'],NA,week_17,New York Jets,2016
+['Corey Lemonier'],NA,week_17,New York Jets,2016
+['Nick Mangold'],Injured Reserve: Ankle,week_17,New York Jets,2016
+['Jalin Marshall'],NA,week_17,New York Jets,2016
+['Nick Marshall'],Doubtful: hamstring,week_17,New York Jets,2016
+['Josh Martin'],NA,week_17,New York Jets,2016
+['Lorenzo Mauldin'],Out: ankle,week_17,New York Jets,2016
+['Steve McLendon'],Out: hamstirng,week_17,New York Jets,2016
+['Dee Milliner'],Injured Reserve: Hamstring,week_17,New York Jets,2016
+['Romar Morris'],Injured Reserve: Shoulder,week_17,New York Jets,2016
+['Julien Obioha'],Injured Reserve: Undisclosed,week_17,New York Jets,2016
+['Bryce Petty'],Injured Reserve: Shoulder,week_17,New York Jets,2016
+['Calvin Pryor'],NA,week_17,New York Jets,2016
+['Brent Qvale'],NA,week_17,New York Jets,2016
+['Darrelle Revis'],NA,week_17,New York Jets,2016
+['Sheldon Richardson'],Questionable: back,week_17,New York Jets,2016
+['Darryl Roberts'],NA,week_17,New York Jets,2016
+['Khiry Robinson'],Injured Reserve: Leg,week_17,New York Jets,2016
+['Austin Seferian-Jenkins'],Out: hamstring,week_17,New York Jets,2016
+['Brandon Shell'],NA,week_17,New York Jets,2016
+['Buster Skrine'],NA,week_17,New York Jets,2016
+['Devin Smith'],NA,week_17,New York Jets,2016
+['Geno Smith'],Injured Reserve: Knee,week_17,New York Jets,2016
+['Julian Stanford'],Injured Reserve: Ankle,week_17,New York Jets,2016
+['Lawrence Thomas'],Injured Reserve: Shoulder,week_17,New York Jets,2016
+['Brandon Wilds'],Questionable: hamstring,week_17,New York Jets,2016
+['Muhammad Wilkerson'],"Questionable: ankle, knee",week_17,New York Jets,2016
+['Marcus Williams'],NA,week_17,New York Jets,2016
+['Brian Winters'],Injured Reserve: Shoulder,week_17,New York Jets,2016

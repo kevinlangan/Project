@@ -1,0 +1,545 @@
+﻿name,injury,week,team,year
+['Maurice Alexander'],NA,week_1,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_1,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_1,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_1,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_1,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_1,Los Angeles Rams,2016
+['Pharoh Cooper'],Out: shoulder,week_1,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_1,Los Angeles Rams,2016
+['Cody Davis'],NA,week_1,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_1,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_1,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_1,Los Angeles Rams,2016
+['E.J. Gaines'],Out: thigh,week_1,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_1,Los Angeles Rams,2016
+['Bryce Hager'],Questionable: concussion,week_1,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_1,Los Angeles Rams,2016
+['Rob Havenstein'],Questionable: foot,week_1,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_1,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_1,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_1,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_1,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_1,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_1,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_1,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_1,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_1,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_1,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_1,Los Angeles Rams,2016
+['Nelson Spruce'],NA,week_1,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_1,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_1,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_1,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_1,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_1,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_2,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_2,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_2,Los Angeles Rams,2016
+['Michael Brockers'],Questionable: thigh,week_2,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_2,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_2,Los Angeles Rams,2016
+['Pharoh Cooper'],Doubtful: shoulder,week_2,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_2,Los Angeles Rams,2016
+['Cody Davis'],NA,week_2,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_2,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_2,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_2,Los Angeles Rams,2016
+['E.J. Gaines'],Out: thigh,week_2,Los Angeles Rams,2016
+['Todd Gurley'],Questionable: not injury related,week_2,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_2,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_2,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_2,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_2,Los Angeles Rams,2016
+['Lamarcus Joyner'],Questionable: foot,week_2,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_2,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_2,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_2,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_2,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_2,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_2,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_2,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_2,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_2,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_2,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_2,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_2,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_2,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_2,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_2,Los Angeles Rams,2016
+['Maurice Alexander'],Questionable: thigh,week_3,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_3,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_3,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_3,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_3,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_3,Los Angeles Rams,2016
+['Pharoh Cooper'],Doubtful: shoulder,week_3,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_3,Los Angeles Rams,2016
+['Cody Davis'],NA,week_3,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_3,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_3,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_3,Los Angeles Rams,2016
+['E.J. Gaines'],Questionable: thigh,week_3,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_3,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_3,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_3,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_3,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_3,Los Angeles Rams,2016
+['Lamarcus Joyner'],Questionable: toe,week_3,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_3,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_3,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_3,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_3,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_3,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_3,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_3,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_3,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_3,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_3,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_3,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_3,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_3,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_3,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_3,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_4,Los Angeles Rams,2016
+['Tavon Austin'],Questionable: shoulder,week_4,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_4,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_4,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_4,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_4,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_4,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_4,Los Angeles Rams,2016
+['Cody Davis'],NA,week_4,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_4,Los Angeles Rams,2016
+['Dominique Easley'],Questionable: illness,week_4,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_4,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_4,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_4,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_4,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_4,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_4,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_4,Los Angeles Rams,2016
+['Lamarcus Joyner'],Questionable: toe,week_4,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_4,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_4,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_4,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_4,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_4,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_4,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_4,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_4,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_4,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_4,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_4,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_4,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_4,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_4,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_4,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_5,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_5,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_5,Los Angeles Rams,2016
+['Michael Brockers'],Questionable: hip,week_5,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_5,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_5,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_5,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_5,Los Angeles Rams,2016
+['Cody Davis'],Questionable: groin,week_5,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_5,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_5,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_5,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_5,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_5,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_5,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_5,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_5,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_5,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_5,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_5,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_5,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_5,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_5,Los Angeles Rams,2016
+['Robert Quinn'],Questionable: shoulder,week_5,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_5,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_5,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_5,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_5,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_5,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_5,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_5,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_5,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_5,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_5,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_6,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_6,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_6,Los Angeles Rams,2016
+['Michael Brockers'],Questionable: hip,week_6,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_6,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_6,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_6,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_6,Los Angeles Rams,2016
+['Cody Davis'],NA,week_6,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_6,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_6,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_6,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_6,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_6,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_6,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_6,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_6,Los Angeles Rams,2016
+['Trumaine Johnson'],Out: ankle,week_6,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_6,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_6,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_6,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_6,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_6,Los Angeles Rams,2016
+['Robert Quinn'],Questionable: shoulder,week_6,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_6,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_6,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_6,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_6,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_6,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_6,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_6,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_6,Los Angeles Rams,2016
+['Cody Wichmann'],Questionable: ankle,week_6,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_6,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_7,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_7,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_7,Los Angeles Rams,2016
+['Michael Brockers'],Out: thigh,week_7,Los Angeles Rams,2016
+['Jamon Brown'],Doubtful: hand,week_7,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_7,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_7,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_7,Los Angeles Rams,2016
+['Cody Davis'],NA,week_7,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_7,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_7,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_7,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_7,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_7,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_7,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_7,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_7,Los Angeles Rams,2016
+['Trumaine Johnson'],Out: ankle,week_7,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_7,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_7,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_7,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_7,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_7,Los Angeles Rams,2016
+['Robert Quinn'],Questionable: shoulder,week_7,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_7,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_7,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_7,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_7,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_7,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_7,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_7,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_7,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_7,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_7,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_9,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_9,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_9,Los Angeles Rams,2016
+['Michael Brockers'],Questionable: groin,week_9,Los Angeles Rams,2016
+['Jamon Brown'],Questionable: hand,week_9,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_9,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_9,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_9,Los Angeles Rams,2016
+['Cody Davis'],NA,week_9,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_9,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_9,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_9,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_9,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_9,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_9,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_9,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_9,Los Angeles Rams,2016
+['Trumaine Johnson'],Questionable: ankle,week_9,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_9,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_9,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_9,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_9,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_9,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_9,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_9,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_9,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_9,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_9,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_9,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_9,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_9,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_9,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_9,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_9,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_10,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_10,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_10,Los Angeles Rams,2016
+['Michael Brockers'],Questionable: groin,week_10,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_10,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_10,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_10,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_10,Los Angeles Rams,2016
+['Cody Davis'],NA,week_10,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_10,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_10,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_10,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_10,Los Angeles Rams,2016
+['Todd Gurley'],Questionable: thigh,week_10,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_10,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_10,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_10,Los Angeles Rams,2016
+['Trumaine Johnson'],Questionable: ankle,week_10,Los Angeles Rams,2016
+['Lamarcus Joyner'],Questionable: back,week_10,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_10,Los Angeles Rams,2016
+['Matt Longacre'],Questionable: hip,week_10,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_10,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_10,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_10,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_10,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_10,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_10,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_10,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_10,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_10,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_10,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_10,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_10,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_10,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_11,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_11,Los Angeles Rams,2016
+['Tim Barnes'],Questionable: foot,week_11,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_11,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_11,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_11,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_11,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_11,Los Angeles Rams,2016
+['Cody Davis'],NA,week_11,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_11,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_11,Los Angeles Rams,2016
+['Josh Forrest'],NA,week_11,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_11,Los Angeles Rams,2016
+['Todd Gurley'],Questionable: thigh,week_11,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_11,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_11,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_11,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_11,Los Angeles Rams,2016
+['Lamarcus Joyner'],Questionable: ankle,week_11,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_11,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_11,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_11,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_11,Los Angeles Rams,2016
+['Robert Quinn'],Questionable: illness,week_11,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_11,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_11,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_11,Los Angeles Rams,2016
+['Eugene Sims'],Questionable: concussion,week_11,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_11,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_11,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_11,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_11,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_11,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_11,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_12,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_12,Los Angeles Rams,2016
+['Tim Barnes'],Questionable: foot,week_12,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_12,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_12,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_12,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_12,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_12,Los Angeles Rams,2016
+['Cody Davis'],NA,week_12,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_12,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_12,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_12,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_12,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_12,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_12,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_12,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_12,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_12,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_12,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_12,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_12,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_12,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_12,Los Angeles Rams,2016
+['Robert Quinn'],NA,week_12,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_12,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_12,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_12,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_12,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_12,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_12,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_12,Los Angeles Rams,2016
+['Ethan Westbrooks'],Questionable: thigh,week_12,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_12,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_12,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_13,Los Angeles Rams,2016
+['Tavon Austin'],Doubtful: chest,week_13,Los Angeles Rams,2016
+['Tim Barnes'],Questionable: foot,week_13,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_13,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_13,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_13,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_13,Los Angeles Rams,2016
+['Benny Cunningham'],NA,week_13,Los Angeles Rams,2016
+['Cody Davis'],NA,week_13,Los Angeles Rams,2016
+['Andrew Donnal'],Questionable: hip,week_13,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_13,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_13,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_13,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_13,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_13,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_13,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_13,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_13,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_13,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_13,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_13,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_13,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_13,Los Angeles Rams,2016
+['Robert Quinn'],Injured Reserve: Concussion,week_13,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_13,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_13,Los Angeles Rams,2016
+['Rodger Saffold'],Questionable: hand,week_13,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_13,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_13,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_13,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_13,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_13,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_13,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_13,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_14,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_14,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_14,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_14,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_14,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_14,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_14,Los Angeles Rams,2016
+['Benny Cunningham'],Injured Reserve: Neck,week_14,Los Angeles Rams,2016
+['Cody Davis'],NA,week_14,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_14,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_14,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_14,Los Angeles Rams,2016
+['E.J. Gaines'],Questionable: thigh,week_14,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_14,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_14,Los Angeles Rams,2016
+['Cory Harkey'],NA,week_14,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_14,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_14,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_14,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_14,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_14,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_14,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_14,Los Angeles Rams,2016
+['Robert Quinn'],Injured Reserve: Concussion,week_14,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_14,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_14,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_14,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_14,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_14,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_14,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_14,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_14,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_14,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_14,Los Angeles Rams,2016
+['Maurice Alexander'],Out: concussion,week_15,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_15,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_15,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_15,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_15,Los Angeles Rams,2016
+['Marqui Christian'],NA,week_15,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_15,Los Angeles Rams,2016
+['Benny Cunningham'],Injured Reserve: Neck,week_15,Los Angeles Rams,2016
+['Cody Davis'],NA,week_15,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_15,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_15,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_15,Los Angeles Rams,2016
+['E.J. Gaines'],Doubtful: thigh,week_15,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_15,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_15,Los Angeles Rams,2016
+['Cory Harkey'],Injured Reserve: Tricep,week_15,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_15,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_15,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_15,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_15,Los Angeles Rams,2016
+['Matt Longacre'],Questionable: heel,week_15,Los Angeles Rams,2016
+['Bradley Marquez'],NA,week_15,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_15,Los Angeles Rams,2016
+['Robert Quinn'],Doubtful: concussion,week_15,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_15,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_15,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_15,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_15,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_15,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_15,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_15,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_15,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_15,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_15,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_16,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_16,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_16,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_16,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_16,Los Angeles Rams,2016
+['Marqui Christian'],Injured Reserve: Leg,week_16,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_16,Los Angeles Rams,2016
+['Benny Cunningham'],Injured Reserve: Neck,week_16,Los Angeles Rams,2016
+['Cody Davis'],NA,week_16,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_16,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_16,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_16,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_16,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_16,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_16,Los Angeles Rams,2016
+['Cory Harkey'],Injured Reserve: Tricep,week_16,Los Angeles Rams,2016
+['Rob Havenstein'],NA,week_16,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_16,Los Angeles Rams,2016
+['Lamarcus Joyner'],NA,week_16,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_16,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_16,Los Angeles Rams,2016
+['Bradley Marquez'],Injured Reserve: Knee,week_16,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_16,Los Angeles Rams,2016
+['Robert Quinn'],Injured Reserve: Concussion,week_16,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_16,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_16,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_16,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_16,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_16,Los Angeles Rams,2016
+['Mike Thomas'],NA,week_16,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_16,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_16,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_16,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_16,Los Angeles Rams,2016
+['Maurice Alexander'],NA,week_17,Los Angeles Rams,2016
+['Tavon Austin'],NA,week_17,Los Angeles Rams,2016
+['Tim Barnes'],NA,week_17,Los Angeles Rams,2016
+['Michael Brockers'],NA,week_17,Los Angeles Rams,2016
+['Jamon Brown'],NA,week_17,Los Angeles Rams,2016
+['Marqui Christian'],Injured Reserve: Leg,week_17,Los Angeles Rams,2016
+['Pharoh Cooper'],NA,week_17,Los Angeles Rams,2016
+['Benny Cunningham'],Injured Reserve: Neck,week_17,Los Angeles Rams,2016
+['Cody Davis'],NA,week_17,Los Angeles Rams,2016
+['Andrew Donnal'],NA,week_17,Los Angeles Rams,2016
+['Dominique Easley'],NA,week_17,Los Angeles Rams,2016
+['Josh Forrest'],Injured Reserve: Knee,week_17,Los Angeles Rams,2016
+['E.J. Gaines'],NA,week_17,Los Angeles Rams,2016
+['Todd Gurley'],NA,week_17,Los Angeles Rams,2016
+['Bryce Hager'],NA,week_17,Los Angeles Rams,2016
+['Cory Harkey'],Injured Reserve: Tricep,week_17,Los Angeles Rams,2016
+['Rob Havenstein'],Doubtful: ankle,week_17,Los Angeles Rams,2016
+['Trumaine Johnson'],NA,week_17,Los Angeles Rams,2016
+['Lamarcus Joyner'],Doubtful: ankle,week_17,Los Angeles Rams,2016
+['Zach Laskey'],Injured Reserve: Undisclosed,week_17,Los Angeles Rams,2016
+['Matt Longacre'],NA,week_17,Los Angeles Rams,2016
+['Bradley Marquez'],Injured Reserve: Knee,week_17,Los Angeles Rams,2016
+['Marquez North'],Injured Reserve: Undisclosed,week_17,Los Angeles Rams,2016
+['Robert Quinn'],Injured Reserve: Concussion,week_17,Los Angeles Rams,2016
+['Brian Randolph'],Injured Reserve: Knee,week_17,Los Angeles Rams,2016
+['Garrett Reynolds'],Injured Reserve: Undisclosed,week_17,Los Angeles Rams,2016
+['Rodger Saffold'],NA,week_17,Los Angeles Rams,2016
+['Eugene Sims'],NA,week_17,Los Angeles Rams,2016
+['Nelson Spruce'],Injured Reserve: Knee,week_17,Los Angeles Rams,2016
+['Mike Thomas'],Questionable: hip,week_17,Los Angeles Rams,2016
+['Louis Trinca-Pasat'],Injured Reserve: Knee,week_17,Los Angeles Rams,2016
+['Ethan Westbrooks'],NA,week_17,Los Angeles Rams,2016
+['Cody Wichmann'],NA,week_17,Los Angeles Rams,2016
+['Darrell Williams'],Injured Reserve: Undisclosed,week_17,Los Angeles Rams,2016

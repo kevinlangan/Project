@@ -1,0 +1,529 @@
+﻿name,injury,week,team,year
+['Henry Anderson'],Out: knee,week_1,Indianapolis Colts,2016
+['Quan Bray'],NA,week_1,Indianapolis Colts,2016
+['Darius Butler'],Out: ankle,week_1,Indianapolis Colts,2016
+['Trent Cole'],NA,week_1,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_1,Indianapolis Colts,2016
+['Vontae Davis'],Out: ankle,week_1,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_1,Indianapolis Colts,2016
+['Clayton Geathers'],Out: foot,week_1,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_1,Indianapolis Colts,2016
+['T.J. Green'],NA,week_1,Indianapolis Colts,2016
+['Joe Haeg'],Questionable: ankle,week_1,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_1,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_1,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_1,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_1,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_1,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_1,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_1,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_1,Indianapolis Colts,2016
+['Jack Mewhort'],Questionable: knee,week_1,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_1,Indianapolis Colts,2016
+['Donte Moncrief'],NA,week_1,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_1,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_1,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_1,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_1,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_1,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_1,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_1,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_1,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_1,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_1,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_1,Indianapolis Colts,2016
+['Henry Anderson'],Out: knee,week_2,Indianapolis Colts,2016
+['Quan Bray'],NA,week_2,Indianapolis Colts,2016
+['Darius Butler'],Questionable: ankle,week_2,Indianapolis Colts,2016
+['Trent Cole'],Doubtful: back,week_2,Indianapolis Colts,2016
+['Antonio Cromartie'],Questionable: hamstring,week_2,Indianapolis Colts,2016
+['Vontae Davis'],Out: ankle,week_2,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_2,Indianapolis Colts,2016
+['Clayton Geathers'],Questionable: foot,week_2,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_2,Indianapolis Colts,2016
+['T.J. Green'],Out: knee,week_2,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_2,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_2,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_2,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_2,Indianapolis Colts,2016
+['Kendall Langford'],Questionable: knee,week_2,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_2,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_2,Indianapolis Colts,2016
+['Robert Mathis'],Questionable: foot,week_2,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_2,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_2,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_2,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_2,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_2,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_2,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_2,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_2,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_2,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_2,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_2,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_2,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_2,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_2,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_2,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_3,Indianapolis Colts,2016
+['Quan Bray'],NA,week_3,Indianapolis Colts,2016
+['Darius Butler'],Out: hamstring,week_3,Indianapolis Colts,2016
+['Trent Cole'],Questionable: back,week_3,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_3,Indianapolis Colts,2016
+['Vontae Davis'],Questionable: ankle,week_3,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_3,Indianapolis Colts,2016
+['Clayton Geathers'],Questionable: foot,week_3,Indianapolis Colts,2016
+['Denzelle Good'],Out: back,week_3,Indianapolis Colts,2016
+['T.J. Green'],Questionable: knee,week_3,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_3,Indianapolis Colts,2016
+['T.Y. Hilton'],Questionable: knee,week_3,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_3,Indianapolis Colts,2016
+['Ryan Kelly'],Questionable: shoulder,week_3,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_3,Indianapolis Colts,2016
+['Andrew Luck'],Questionable: right shoulder,week_3,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_3,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_3,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_3,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_3,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_3,Indianapolis Colts,2016
+['Donte Moncrief'],Out: shoulder,week_3,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_3,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_3,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_3,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_3,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_3,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_3,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_3,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_3,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_3,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_3,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_3,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_4,Indianapolis Colts,2016
+['Quan Bray'],NA,week_4,Indianapolis Colts,2016
+['Darius Butler'],Out: hamstring,week_4,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_4,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_4,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_4,Indianapolis Colts,2016
+['Phillip Dorsett'],Questionable: ankle,week_4,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_4,Indianapolis Colts,2016
+['Denzelle Good'],Questionable: back,week_4,Indianapolis Colts,2016
+['T.J. Green'],NA,week_4,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_4,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_4,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_4,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_4,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_4,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_4,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_4,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_4,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_4,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_4,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_4,Indianapolis Colts,2016
+['Donte Moncrief'],Out: shoulder,week_4,Indianapolis Colts,2016
+['Joe Reitz'],Questionable: back,week_4,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_4,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_4,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_4,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_4,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_4,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_4,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_4,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_4,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_4,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_4,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_5,Indianapolis Colts,2016
+['Quan Bray'],NA,week_5,Indianapolis Colts,2016
+['Darius Butler'],Questionable: hamstring,week_5,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_5,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_5,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_5,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_5,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_5,Indianapolis Colts,2016
+['Denzelle Good'],Questionable: back,week_5,Indianapolis Colts,2016
+['T.J. Green'],NA,week_5,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_5,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_5,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_5,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_5,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_5,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_5,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_5,Indianapolis Colts,2016
+['Robert Mathis'],Questionable: foot,week_5,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_5,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_5,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_5,Indianapolis Colts,2016
+['Donte Moncrief'],Out: shoulder,week_5,Indianapolis Colts,2016
+['Joe Reitz'],Questionable: back,week_5,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_5,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_5,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_5,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_5,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_5,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_5,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_5,Indianapolis Colts,2016
+['Robert Turbin'],"Questionable: wrist, shoulder",week_5,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_5,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_5,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_6,Indianapolis Colts,2016
+['Quan Bray'],Questionable: shin,week_6,Indianapolis Colts,2016
+['Darius Butler'],NA,week_6,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_6,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_6,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_6,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_6,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_6,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_6,Indianapolis Colts,2016
+['T.J. Green'],NA,week_6,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_6,Indianapolis Colts,2016
+['T.Y. Hilton'],Questionable: hip,week_6,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_6,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_6,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_6,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_6,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_6,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_6,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_6,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_6,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_6,Indianapolis Colts,2016
+['Donte Moncrief'],Out: shoulder,week_6,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_6,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_6,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_6,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_6,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_6,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_6,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_6,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_6,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_6,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_6,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_6,Indianapolis Colts,2016
+['Henry Anderson'],Out: knee,week_7,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_7,Indianapolis Colts,2016
+['Darius Butler'],"Questionable: calf, hamstring",week_7,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_7,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_7,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_7,Indianapolis Colts,2016
+['Phillip Dorsett'],"Out: foot, hamstring",week_7,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_7,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_7,Indianapolis Colts,2016
+['T.J. Green'],Questionable: knee,week_7,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_7,Indianapolis Colts,2016
+['T.Y. Hilton'],Questionable: hip,week_7,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_7,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_7,Indianapolis Colts,2016
+['Kendall Langford'],NA,week_7,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_7,Indianapolis Colts,2016
+['Curt Maggitt'],Out: ankle,week_7,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_7,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_7,Indianapolis Colts,2016
+['Jack Mewhort'],Out: tricep,week_7,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_7,Indianapolis Colts,2016
+['Donte Moncrief'],Out: shoulder,week_7,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_7,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_7,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_7,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_7,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_7,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_7,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_7,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_7,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_7,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_7,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_7,Indianapolis Colts,2016
+['Henry Anderson'],Out: knee,week_8,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_8,Indianapolis Colts,2016
+['Darius Butler'],NA,week_8,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_8,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_8,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_8,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_8,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_8,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_8,Indianapolis Colts,2016
+['T.J. Green'],NA,week_8,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_8,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_8,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_8,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_8,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_8,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_8,Indianapolis Colts,2016
+['Curt Maggitt'],Out: ankle,week_8,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_8,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_8,Indianapolis Colts,2016
+['Jack Mewhort'],Out: triceps,week_8,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_8,Indianapolis Colts,2016
+['Donte Moncrief'],Questionable: shoulder,week_8,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_8,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_8,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_8,Indianapolis Colts,2016
+['Chester Rogers'],"Out: hamstring, foot",week_8,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_8,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_8,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_8,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_8,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_8,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_8,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_8,Indianapolis Colts,2016
+['Henry Anderson'],Questionable: knee,week_9,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_9,Indianapolis Colts,2016
+['Darius Butler'],NA,week_9,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_9,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_9,Indianapolis Colts,2016
+['Vontae Davis'],Questionable: concussion,week_9,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_9,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_9,Indianapolis Colts,2016
+['Denzelle Good'],Questionable: knee,week_9,Indianapolis Colts,2016
+['T.J. Green'],NA,week_9,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_9,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_9,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_9,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_9,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_9,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_9,Indianapolis Colts,2016
+['Curt Maggitt'],Questionable: ankle,week_9,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_9,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_9,Indianapolis Colts,2016
+['Jack Mewhort'],Out: triceps,week_9,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_9,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_9,Indianapolis Colts,2016
+['Joe Reitz'],Out: concussion,week_9,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_9,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_9,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_9,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_9,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_9,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_9,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_9,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_9,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_9,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_9,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_11,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_11,Indianapolis Colts,2016
+['Darius Butler'],NA,week_11,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_11,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_11,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_11,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_11,Indianapolis Colts,2016
+['Clayton Geathers'],NA,week_11,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_11,Indianapolis Colts,2016
+['T.J. Green'],NA,week_11,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_11,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_11,Indianapolis Colts,2016
+['Arthur Jones'],Questionable: illness,week_11,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_11,Indianapolis Colts,2016
+['Kendall Langford'],Out: knee,week_11,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_11,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_11,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_11,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_11,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_11,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_11,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_11,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_11,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_11,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_11,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_11,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_11,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_11,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_11,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_11,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_11,Indianapolis Colts,2016
+['Frankie Williams'],NA,week_11,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_11,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_12,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_12,Indianapolis Colts,2016
+['Darius Butler'],NA,week_12,Indianapolis Colts,2016
+['Trent Cole'],Injured Reserve: Back,week_12,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_12,Indianapolis Colts,2016
+['Vontae Davis'],Questionable: ankle,week_12,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_12,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_12,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_12,Indianapolis Colts,2016
+['T.J. Green'],NA,week_12,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_12,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_12,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_12,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_12,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_12,Indianapolis Colts,2016
+['Andrew Luck'],Out: concussion,week_12,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_12,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_12,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_12,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_12,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_12,Indianapolis Colts,2016
+['Donte Moncrief'],Questionable: hamstring,week_12,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_12,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_12,Indianapolis Colts,2016
+['Patrick Robinson'],NA,week_12,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_12,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_12,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_12,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_12,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_12,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_12,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_12,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_12,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_13,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_13,Indianapolis Colts,2016
+['Darius Butler'],NA,week_13,Indianapolis Colts,2016
+['Trent Cole'],NA,week_13,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_13,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_13,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_13,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_13,Indianapolis Colts,2016
+['Denzelle Good'],Questionable: shoulder,week_13,Indianapolis Colts,2016
+['T.J. Green'],NA,week_13,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_13,Indianapolis Colts,2016
+['T.Y. Hilton'],Questionable: back,week_13,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_13,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_13,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_13,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_13,Indianapolis Colts,2016
+['Curt Maggitt'],NA,week_13,Indianapolis Colts,2016
+['Robert Mathis'],Out: biceps,week_13,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_13,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_13,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_13,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_13,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_13,Indianapolis Colts,2016
+['Hassan Ridgeway'],Questionable: back,week_13,Indianapolis Colts,2016
+['Patrick Robinson'],Injured Reserve: Groin,week_13,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_13,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_13,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_13,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_13,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_13,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_13,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_13,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_13,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_14,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_14,Indianapolis Colts,2016
+['Darius Butler'],NA,week_14,Indianapolis Colts,2016
+['Trent Cole'],NA,week_14,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_14,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_14,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_14,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_14,Indianapolis Colts,2016
+['Denzelle Good'],Out: concussion,week_14,Indianapolis Colts,2016
+['T.J. Green'],NA,week_14,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_14,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_14,Indianapolis Colts,2016
+['Arthur Jones'],NA,week_14,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_14,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_14,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_14,Indianapolis Colts,2016
+['Curt Maggitt'],Questionable: concussion,week_14,Indianapolis Colts,2016
+['Robert Mathis'],Out: biceps,week_14,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_14,Indianapolis Colts,2016
+['Jack Mewhort'],NA,week_14,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_14,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_14,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_14,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_14,Indianapolis Colts,2016
+['Patrick Robinson'],Injured Reserve: Groin,week_14,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_14,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_14,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_14,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_14,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_14,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_14,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_14,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_14,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_15,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_15,Indianapolis Colts,2016
+['Darius Butler'],NA,week_15,Indianapolis Colts,2016
+['Trent Cole'],NA,week_15,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_15,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_15,Indianapolis Colts,2016
+['Phillip Dorsett'],Questionable: groin,week_15,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_15,Indianapolis Colts,2016
+['Denzelle Good'],Out: concussion,week_15,Indianapolis Colts,2016
+['T.J. Green'],Questionable: ankle,week_15,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_15,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_15,Indianapolis Colts,2016
+['Arthur Jones'],Injured Reserve: Groin,week_15,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_15,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_15,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_15,Indianapolis Colts,2016
+['Curt Maggitt'],Injured Reserve: Knee,week_15,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_15,Indianapolis Colts,2016
+['Rashaan Melvin'],NA,week_15,Indianapolis Colts,2016
+['Jack Mewhort'],Injured Reserve: Knee,week_15,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_15,Indianapolis Colts,2016
+['Donte Moncrief'],Out: hamstring,week_15,Indianapolis Colts,2016
+['Joe Reitz'],Out: back,week_15,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_15,Indianapolis Colts,2016
+['Patrick Robinson'],Injured Reserve: Groin,week_15,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_15,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_15,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_15,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_15,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_15,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_15,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_15,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_15,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_16,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_16,Indianapolis Colts,2016
+['Darius Butler'],NA,week_16,Indianapolis Colts,2016
+['Trent Cole'],NA,week_16,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_16,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_16,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_16,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_16,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_16,Indianapolis Colts,2016
+['T.J. Green'],NA,week_16,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_16,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_16,Indianapolis Colts,2016
+['Arthur Jones'],Injured Reserve: Groin,week_16,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_16,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_16,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_16,Indianapolis Colts,2016
+['Curt Maggitt'],Injured Reserve: Knee,week_16,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_16,Indianapolis Colts,2016
+['Rashaan Melvin'],Questionable: knee,week_16,Indianapolis Colts,2016
+['Jack Mewhort'],Injured Reserve: Knee,week_16,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_16,Indianapolis Colts,2016
+['Donte Moncrief'],": head, neck",week_16,Indianapolis Colts,2016
+['Joe Reitz'],Questionable: back,week_16,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_16,Indianapolis Colts,2016
+['Patrick Robinson'],Injured Reserve: Groin,week_16,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_16,Indianapolis Colts,2016
+"[""D'Joun Smith""]",Injured Reserve: Knee,week_16,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_16,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_16,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_16,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_16,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_16,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_16,Indianapolis Colts,2016
+['Henry Anderson'],NA,week_17,Indianapolis Colts,2016
+['Quan Bray'],Injured Reserve: Ankle,week_17,Indianapolis Colts,2016
+['Darius Butler'],Out: concussion,week_17,Indianapolis Colts,2016
+['Trent Cole'],NA,week_17,Indianapolis Colts,2016
+['Antonio Cromartie'],NA,week_17,Indianapolis Colts,2016
+['Vontae Davis'],NA,week_17,Indianapolis Colts,2016
+['Phillip Dorsett'],NA,week_17,Indianapolis Colts,2016
+['Clayton Geathers'],Injured Reserve: Concussion,week_17,Indianapolis Colts,2016
+['Denzelle Good'],NA,week_17,Indianapolis Colts,2016
+['T.J. Green'],NA,week_17,Indianapolis Colts,2016
+['Joe Haeg'],NA,week_17,Indianapolis Colts,2016
+['T.Y. Hilton'],NA,week_17,Indianapolis Colts,2016
+['Arthur Jones'],Injured Reserve: Groin,week_17,Indianapolis Colts,2016
+['Ryan Kelly'],NA,week_17,Indianapolis Colts,2016
+['Kendall Langford'],Injured Reserve: Knee,week_17,Indianapolis Colts,2016
+['Andrew Luck'],NA,week_17,Indianapolis Colts,2016
+['Curt Maggitt'],Injured Reserve: Knee,week_17,Indianapolis Colts,2016
+['Robert Mathis'],NA,week_17,Indianapolis Colts,2016
+['Rashaan Melvin'],Questionable: knee,week_17,Indianapolis Colts,2016
+['Jack Mewhort'],Injured Reserve: Knee,week_17,Indianapolis Colts,2016
+['Tevin Mitchel'],Injured Reserve: Hamstring,week_17,Indianapolis Colts,2016
+['Donte Moncrief'],Doubtful: shoulder,week_17,Indianapolis Colts,2016
+['Joe Reitz'],NA,week_17,Indianapolis Colts,2016
+['Hassan Ridgeway'],NA,week_17,Indianapolis Colts,2016
+['Patrick Robinson'],Injured Reserve: Groin,week_17,Indianapolis Colts,2016
+['Chester Rogers'],NA,week_17,Indianapolis Colts,2016
+"[""D'Joun Smith""]",NA,week_17,Indianapolis Colts,2016
+['Dezmen Southward'],Injured Reserve: Undisclosed,week_17,Indianapolis Colts,2016
+['Ron Thompson'],Injured Reserve: Undisclosed,week_17,Indianapolis Colts,2016
+['Hugh Thornton'],Injured Reserve: Foot,week_17,Indianapolis Colts,2016
+['Robert Turbin'],NA,week_17,Indianapolis Colts,2016
+['Frankie Williams'],Injured Reserve: Undisclosed,week_17,Indianapolis Colts,2016
+['Andrew Williamson'],Injured Reserve: Knee,week_17,Indianapolis Colts,2016

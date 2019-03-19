@@ -1,0 +1,533 @@
+﻿name,injury,week,team,year
+['Matthew Bosher'],NA,week_1,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_1,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_1,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_1,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_1,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_1,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_1,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_1,Atlanta Falcons,2016
+['Dashon Goldson'],Questionable: hamstring,week_1,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_1,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_1,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_1,Atlanta Falcons,2016
+['Deion Jones'],NA,week_1,Atlanta Falcons,2016
+['Julio Jones'],NA,week_1,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_1,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_1,Atlanta Falcons,2016
+['Chris Mayes'],NA,week_1,Atlanta Falcons,2016
+['Keanu Neal'],Out: knee,week_1,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_1,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_1,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_1,Atlanta Falcons,2016
+['Tyler Starr'],NA,week_1,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_1,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_1,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_1,Atlanta Falcons,2016
+['Terron Ward'],Questionable: ankle,week_1,Atlanta Falcons,2016
+['Sean Weatherspoon'],NA,week_1,Atlanta Falcons,2016
+['Nick Williams'],NA,week_1,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_2,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",Out: ankle,week_2,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_2,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_2,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_2,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_2,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_2,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_2,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_2,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_2,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_2,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_2,Atlanta Falcons,2016
+['Deion Jones'],NA,week_2,Atlanta Falcons,2016
+['Julio Jones'],NA,week_2,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_2,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_2,Atlanta Falcons,2016
+['Chris Mayes'],NA,week_2,Atlanta Falcons,2016
+['Keanu Neal'],Out: knee,week_2,Atlanta Falcons,2016
+['Brooks Reed'],Questionable: shoulder,week_2,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_2,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_2,Atlanta Falcons,2016
+['Tyler Starr'],NA,week_2,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_2,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_2,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_2,Atlanta Falcons,2016
+['Terron Ward'],NA,week_2,Atlanta Falcons,2016
+['Sean Weatherspoon'],NA,week_2,Atlanta Falcons,2016
+['Nick Williams'],NA,week_2,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_3,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",Out: ankle,week_3,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_3,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_3,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_3,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_3,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_3,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_3,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_3,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_3,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_3,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_3,Atlanta Falcons,2016
+['Deion Jones'],NA,week_3,Atlanta Falcons,2016
+['Julio Jones'],Questionable: calf,week_3,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_3,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_3,Atlanta Falcons,2016
+['Chris Mayes'],NA,week_3,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_3,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_3,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_3,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_3,Atlanta Falcons,2016
+['Tyler Starr'],NA,week_3,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_3,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_3,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_3,Atlanta Falcons,2016
+['Terron Ward'],NA,week_3,Atlanta Falcons,2016
+['Sean Weatherspoon'],NA,week_3,Atlanta Falcons,2016
+['Nick Williams'],NA,week_3,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_4,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",Out: ankle,week_4,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_4,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_4,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_4,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_4,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_4,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_4,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_4,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_4,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_4,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_4,Atlanta Falcons,2016
+['Deion Jones'],NA,week_4,Atlanta Falcons,2016
+['Julio Jones'],NA,week_4,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_4,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_4,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_4,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_4,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_4,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_4,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_4,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_4,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_4,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_4,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_4,Atlanta Falcons,2016
+['Terron Ward'],NA,week_4,Atlanta Falcons,2016
+['Sean Weatherspoon'],NA,week_4,Atlanta Falcons,2016
+['Nick Williams'],NA,week_4,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_5,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",Out: ankle,week_5,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_5,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_5,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_5,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_5,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_5,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_5,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_5,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_5,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_5,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_5,Atlanta Falcons,2016
+['Deion Jones'],Out: ankle,week_5,Atlanta Falcons,2016
+['Julio Jones'],NA,week_5,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_5,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_5,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_5,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_5,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_5,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_5,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_5,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_5,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_5,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_5,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_5,Atlanta Falcons,2016
+['Terron Ward'],NA,week_5,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_5,Atlanta Falcons,2016
+['Nick Williams'],NA,week_5,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_6,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_6,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_6,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_6,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_6,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_6,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_6,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_6,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_6,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_6,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_6,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_6,Atlanta Falcons,2016
+['Deion Jones'],NA,week_6,Atlanta Falcons,2016
+['Julio Jones'],NA,week_6,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_6,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_6,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_6,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_6,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_6,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_6,Atlanta Falcons,2016
+['Derrick Shelby'],NA,week_6,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_6,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_6,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_6,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_6,Atlanta Falcons,2016
+['Terron Ward'],NA,week_6,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_6,Atlanta Falcons,2016
+['Nick Williams'],NA,week_6,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_7,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_7,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_7,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_7,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_7,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_7,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_7,Atlanta Falcons,2016
+['Taylor Gabriel'],Out: concussion,week_7,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_7,Atlanta Falcons,2016
+['C.J. Goodwin'],Out: hamstring,week_7,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_7,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_7,Atlanta Falcons,2016
+['Deion Jones'],NA,week_7,Atlanta Falcons,2016
+['Julio Jones'],NA,week_7,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_7,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_7,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_7,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_7,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_7,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_7,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_7,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_7,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_7,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_7,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_7,Atlanta Falcons,2016
+['Terron Ward'],NA,week_7,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_7,Atlanta Falcons,2016
+['Nick Williams'],NA,week_7,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_8,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_8,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_8,Atlanta Falcons,2016
+['Tevin Coleman'],Out: hamstring,week_8,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_8,Atlanta Falcons,2016
+['Dwight Freeney'],Questionable: quadriceps,week_8,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_8,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_8,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_8,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_8,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_8,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_8,Atlanta Falcons,2016
+['Deion Jones'],NA,week_8,Atlanta Falcons,2016
+['Julio Jones'],NA,week_8,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_8,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_8,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_8,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_8,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_8,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_8,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_8,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_8,Atlanta Falcons,2016
+['Jacob Tamme'],NA,week_8,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_8,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_8,Atlanta Falcons,2016
+['Terron Ward'],NA,week_8,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_8,Atlanta Falcons,2016
+['Nick Williams'],NA,week_8,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_9,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_9,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_9,Atlanta Falcons,2016
+['Tevin Coleman'],Out: hamstring,week_9,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_9,Atlanta Falcons,2016
+['Dwight Freeney'],Out: quadriceps,week_9,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_9,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_9,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_9,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_9,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_9,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_9,Atlanta Falcons,2016
+['Deion Jones'],NA,week_9,Atlanta Falcons,2016
+['Julio Jones'],NA,week_9,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_9,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_9,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_9,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_9,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_9,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_9,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_9,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_9,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_9,Atlanta Falcons,2016
+['Desmond Trufant'],NA,week_9,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_9,Atlanta Falcons,2016
+['Terron Ward'],NA,week_9,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_9,Atlanta Falcons,2016
+['Nick Williams'],NA,week_9,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_10,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_10,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_10,Atlanta Falcons,2016
+['Tevin Coleman'],Out: hamstring,week_10,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_10,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_10,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_10,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_10,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_10,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_10,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_10,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_10,Atlanta Falcons,2016
+['Deion Jones'],NA,week_10,Atlanta Falcons,2016
+['Julio Jones'],NA,week_10,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_10,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_10,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_10,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_10,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_10,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_10,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_10,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_10,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_10,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_10,Atlanta Falcons,2016
+['Terron Ward'],NA,week_10,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2016
+['Nick Williams'],NA,week_10,Atlanta Falcons,2016
+['Matthew Bosher'],Questionable: hamstring,week_12,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_12,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_12,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_12,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_12,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_12,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_12,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_12,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_12,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_12,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_12,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_12,Atlanta Falcons,2016
+['Deion Jones'],NA,week_12,Atlanta Falcons,2016
+['Julio Jones'],NA,week_12,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_12,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_12,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_12,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_12,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_12,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_12,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_12,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_12,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_12,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_12,Atlanta Falcons,2016
+['Terron Ward'],NA,week_12,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2016
+['Nick Williams'],NA,week_12,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_13,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_13,Atlanta Falcons,2016
+['Adrian Clayborn'],Out: knee,week_13,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_13,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_13,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_13,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_13,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_13,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_13,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_13,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_13,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_13,Atlanta Falcons,2016
+['Deion Jones'],NA,week_13,Atlanta Falcons,2016
+['Julio Jones'],NA,week_13,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_13,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_13,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_13,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_13,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_13,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_13,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_13,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_13,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_13,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_13,Atlanta Falcons,2016
+['Terron Ward'],NA,week_13,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2016
+['Nick Williams'],NA,week_13,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_14,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_14,Atlanta Falcons,2016
+['Adrian Clayborn'],Out: knee,week_14,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_14,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_14,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_14,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_14,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_14,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_14,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_14,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_14,Atlanta Falcons,2016
+['Kemal Ishmael'],NA,week_14,Atlanta Falcons,2016
+['Deion Jones'],NA,week_14,Atlanta Falcons,2016
+['Julio Jones'],Questionable: toe,week_14,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_14,Atlanta Falcons,2016
+['Jake Matthews'],Questionable: knee,week_14,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_14,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_14,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_14,Atlanta Falcons,2016
+['Mohamed Sanu'],Out: groin,week_14,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_14,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_14,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_14,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_14,Atlanta Falcons,2016
+['Terron Ward'],NA,week_14,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2016
+['Nick Williams'],NA,week_14,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_15,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_15,Atlanta Falcons,2016
+['Adrian Clayborn'],Out: groin,week_15,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_15,Atlanta Falcons,2016
+['Jalen Collins'],Out: knee,week_15,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_15,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_15,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_15,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_15,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_15,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_15,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_15,Atlanta Falcons,2016
+['Deion Jones'],NA,week_15,Atlanta Falcons,2016
+['Julio Jones'],Out: toe,week_15,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_15,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_15,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_15,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_15,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_15,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_15,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_15,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_15,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_15,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_15,Atlanta Falcons,2016
+['Terron Ward'],NA,week_15,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2016
+['Nick Williams'],Out: concussion,week_15,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_16,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",Out: concussion,week_16,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_16,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_16,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_16,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_16,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_16,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_16,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_16,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_16,Atlanta Falcons,2016
+['Austin Hooper'],Out: knee,week_16,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_16,Atlanta Falcons,2016
+['Deion Jones'],NA,week_16,Atlanta Falcons,2016
+['Julio Jones'],NA,week_16,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_16,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_16,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_16,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_16,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_16,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_16,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_16,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_16,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_16,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_16,Atlanta Falcons,2016
+['Terron Ward'],NA,week_16,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2016
+['Nick Williams'],NA,week_16,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_17,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_17,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_17,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_17,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_17,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_17,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_17,Atlanta Falcons,2016
+['Taylor Gabriel'],Out: foot,week_17,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_17,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_17,Atlanta Falcons,2016
+['Austin Hooper'],Out: knee,week_17,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_17,Atlanta Falcons,2016
+['Deion Jones'],NA,week_17,Atlanta Falcons,2016
+['Julio Jones'],NA,week_17,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_17,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_17,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_17,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_17,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_17,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_17,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_17,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_17,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_17,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_17,Atlanta Falcons,2016
+['Terron Ward'],NA,week_17,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2016
+['Nick Williams'],NA,week_17,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_19,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_19,Atlanta Falcons,2016
+['Adrian Clayborn'],NA,week_19,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_19,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_19,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_19,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_19,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_19,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_19,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_19,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_19,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_19,Atlanta Falcons,2016
+['Deion Jones'],NA,week_19,Atlanta Falcons,2016
+['Julio Jones'],NA,week_19,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_19,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_19,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_19,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_19,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_19,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_19,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_19,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_19,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_19,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_19,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_19,Atlanta Falcons,2016
+['Terron Ward'],NA,week_19,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_19,Atlanta Falcons,2016
+['Nick Williams'],NA,week_19,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_20,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_20,Atlanta Falcons,2016
+['Adrian Clayborn'],Injured Reserve: Bicep,week_20,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_20,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_20,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_20,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_20,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_20,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_20,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_20,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_20,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_20,Atlanta Falcons,2016
+['Deion Jones'],NA,week_20,Atlanta Falcons,2016
+['Julio Jones'],NA,week_20,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_20,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_20,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_20,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_20,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_20,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_20,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_20,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_20,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_20,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_20,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_20,Atlanta Falcons,2016
+['Terron Ward'],NA,week_20,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_20,Atlanta Falcons,2016
+['Nick Williams'],NA,week_20,Atlanta Falcons,2016
+['Matthew Bosher'],NA,week_21,Atlanta Falcons,2016
+"[""De'Vondre Campbell""]",NA,week_21,Atlanta Falcons,2016
+['Adrian Clayborn'],Injured Reserve: Bicep,week_21,Atlanta Falcons,2016
+['Tevin Coleman'],NA,week_21,Atlanta Falcons,2016
+['Jalen Collins'],NA,week_21,Atlanta Falcons,2016
+['Dwight Freeney'],NA,week_21,Atlanta Falcons,2016
+['Devin Fuller'],Injured Reserve: Shoulder,week_21,Atlanta Falcons,2016
+['Taylor Gabriel'],NA,week_21,Atlanta Falcons,2016
+['Dashon Goldson'],NA,week_21,Atlanta Falcons,2016
+['C.J. Goodwin'],NA,week_21,Atlanta Falcons,2016
+['Austin Hooper'],NA,week_21,Atlanta Falcons,2016
+['Kemal Ishmael'],Injured Reserve: Shoulder,week_21,Atlanta Falcons,2016
+['Deion Jones'],NA,week_21,Atlanta Falcons,2016
+['Julio Jones'],NA,week_21,Atlanta Falcons,2016
+['Akeem King'],Injured Reserve: Foot,week_21,Atlanta Falcons,2016
+['Jake Matthews'],NA,week_21,Atlanta Falcons,2016
+['Chris Mayes'],Injured Reserve: Foot,week_21,Atlanta Falcons,2016
+['Keanu Neal'],NA,week_21,Atlanta Falcons,2016
+['Brooks Reed'],NA,week_21,Atlanta Falcons,2016
+['Mohamed Sanu'],NA,week_21,Atlanta Falcons,2016
+['Derrick Shelby'],Injured Reserve: Achilles,week_21,Atlanta Falcons,2016
+['Tyler Starr'],Injured Reserve: Undisclosed,week_21,Atlanta Falcons,2016
+['Jacob Tamme'],Injured Reserve: Shoulder,week_21,Atlanta Falcons,2016
+['Desmond Trufant'],Injured Reserve: Pectoral,week_21,Atlanta Falcons,2016
+['DeMarcus Van Dyke'],Injured Reserve: Concussion,week_21,Atlanta Falcons,2016
+['Terron Ward'],NA,week_21,Atlanta Falcons,2016
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_21,Atlanta Falcons,2016
+['Nick Williams'],NA,week_21,Atlanta Falcons,2016

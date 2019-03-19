@@ -1,0 +1,579 @@
+﻿name,injury,week,team,year
+['Dan Bailey'],NA,week_1,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_1,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_1,Dallas Cowboys,2016
+"[""La'el Collins""]",NA,week_1,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_1,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_1,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_1,Dallas Cowboys,2016
+['Justin Durant'],NA,week_1,Dallas Cowboys,2016
+['Doug Free'],NA,week_1,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_1,Dallas Cowboys,2016
+['Chaz Green'],NA,week_1,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_1,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_1,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_1,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_1,Dallas Cowboys,2016
+['David Irving'],NA,week_1,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_1,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_1,Dallas Cowboys,2016
+['Sean Lee'],NA,week_1,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_1,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_1,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_1,Dallas Cowboys,2016
+['Mark Nzeocha'],Out: Achilles,week_1,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_1,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_1,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_1,Dallas Cowboys,2016
+['Tyron Smith'],NA,week_1,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_1,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_1,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_1,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_1,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_1,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_1,Dallas Cowboys,2016
+['Jason Witten'],NA,week_1,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_2,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_2,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_2,Dallas Cowboys,2016
+"[""La'el Collins""]",NA,week_2,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_2,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_2,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_2,Dallas Cowboys,2016
+['Justin Durant'],NA,week_2,Dallas Cowboys,2016
+['Doug Free'],NA,week_2,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_2,Dallas Cowboys,2016
+['Chaz Green'],NA,week_2,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_2,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_2,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_2,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_2,Dallas Cowboys,2016
+['David Irving'],NA,week_2,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_2,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_2,Dallas Cowboys,2016
+['Sean Lee'],NA,week_2,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_2,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_2,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_2,Dallas Cowboys,2016
+['Mark Nzeocha'],Out: Achilles,week_2,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_2,Dallas Cowboys,2016
+['Orlando Scandrick'],Questionable: hamstring,week_2,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_2,Dallas Cowboys,2016
+['Tyron Smith'],NA,week_2,Dallas Cowboys,2016
+['Geoff Swaim'],Questionable: ankle,week_2,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_2,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_2,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_2,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_2,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_2,Dallas Cowboys,2016
+['Jason Witten'],NA,week_2,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_3,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_3,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_3,Dallas Cowboys,2016
+"[""La'el Collins""]",NA,week_3,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_3,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_3,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_3,Dallas Cowboys,2016
+['Justin Durant'],NA,week_3,Dallas Cowboys,2016
+['Doug Free'],Questionable: quadriceps,week_3,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_3,Dallas Cowboys,2016
+['Chaz Green'],NA,week_3,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_3,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_3,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_3,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_3,Dallas Cowboys,2016
+['David Irving'],NA,week_3,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_3,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_3,Dallas Cowboys,2016
+['Sean Lee'],NA,week_3,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_3,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_3,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_3,Dallas Cowboys,2016
+['Mark Nzeocha'],Doubtful: Achilles,week_3,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_3,Dallas Cowboys,2016
+['Orlando Scandrick'],Questionable: hamstring,week_3,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_3,Dallas Cowboys,2016
+['Tyron Smith'],NA,week_3,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_3,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_3,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_3,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_3,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_3,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_3,Dallas Cowboys,2016
+['Jason Witten'],NA,week_3,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_4,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_4,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: knee,week_4,Dallas Cowboys,2016
+"[""La'el Collins""]",Out: toe,week_4,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_4,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_4,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_4,Dallas Cowboys,2016
+['Justin Durant'],NA,week_4,Dallas Cowboys,2016
+['Doug Free'],Questionable: quadriceps,week_4,Dallas Cowboys,2016
+['Andrew Gachkar'],Questionable: neck,week_4,Dallas Cowboys,2016
+['Chaz Green'],NA,week_4,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_4,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_4,Dallas Cowboys,2016
+['Jeff Heath'],Questionable: knee,week_4,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_4,Dallas Cowboys,2016
+['David Irving'],NA,week_4,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_4,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_4,Dallas Cowboys,2016
+['Sean Lee'],NA,week_4,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_4,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_4,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_4,Dallas Cowboys,2016
+['Mark Nzeocha'],Questionable: Achilles,week_4,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_4,Dallas Cowboys,2016
+['Orlando Scandrick'],Questionable: hamstring,week_4,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_4,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_4,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_4,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_4,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_4,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_4,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_4,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_4,Dallas Cowboys,2016
+['Jason Witten'],NA,week_4,Dallas Cowboys,2016
+['Dan Bailey'],Questionable: back,week_5,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_5,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: knee,week_5,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_5,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_5,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_5,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_5,Dallas Cowboys,2016
+['Justin Durant'],NA,week_5,Dallas Cowboys,2016
+['Doug Free'],NA,week_5,Dallas Cowboys,2016
+['Andrew Gachkar'],Questionable: neck,week_5,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_5,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_5,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_5,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_5,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_5,Dallas Cowboys,2016
+['David Irving'],Out: concussion,week_5,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_5,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_5,Dallas Cowboys,2016
+['Sean Lee'],NA,week_5,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_5,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_5,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_5,Dallas Cowboys,2016
+['Mark Nzeocha'],Questionable: Achilles,week_5,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_5,Dallas Cowboys,2016
+['Orlando Scandrick'],Questionable: hamstring,week_5,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_5,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_5,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_5,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_5,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_5,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_5,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_5,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_5,Dallas Cowboys,2016
+['Jason Witten'],NA,week_5,Dallas Cowboys,2016
+['Dan Bailey'],Questionable: back,week_6,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_6,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: knee,week_6,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_6,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_6,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_6,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_6,Dallas Cowboys,2016
+['Justin Durant'],NA,week_6,Dallas Cowboys,2016
+['Doug Free'],NA,week_6,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_6,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_6,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_6,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_6,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_6,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_6,Dallas Cowboys,2016
+['David Irving'],Questionable: concussion,week_6,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_6,Dallas Cowboys,2016
+['Demarcus Lawrence'],NA,week_6,Dallas Cowboys,2016
+['Sean Lee'],NA,week_6,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_6,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_6,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_6,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_6,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_6,Dallas Cowboys,2016
+['Orlando Scandrick'],Out: hamstring,week_6,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_6,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_6,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_6,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_6,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_6,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_6,Dallas Cowboys,2016
+['Kyle Wilber'],Questionable: neck,week_6,Dallas Cowboys,2016
+['Terrance Williams'],Questionable: shoulder,week_6,Dallas Cowboys,2016
+['Jason Witten'],Questionable: chest,week_6,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_8,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_8,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: knee,week_8,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_8,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_8,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_8,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_8,Dallas Cowboys,2016
+['Justin Durant'],NA,week_8,Dallas Cowboys,2016
+['Doug Free'],NA,week_8,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_8,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_8,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_8,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_8,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_8,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_8,Dallas Cowboys,2016
+['David Irving'],Questionable: ankle,week_8,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_8,Dallas Cowboys,2016
+['Demarcus Lawrence'],"Questionable: back, shoulder",week_8,Dallas Cowboys,2016
+['Sean Lee'],NA,week_8,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_8,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_8,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_8,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_8,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_8,Dallas Cowboys,2016
+['Orlando Scandrick'],Questionable: hamstring,week_8,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_8,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_8,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_8,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_8,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_8,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_8,Dallas Cowboys,2016
+['Kyle Wilber'],Questionable: neck,week_8,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_8,Dallas Cowboys,2016
+['Jason Witten'],Questionable: chest,week_8,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_9,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_9,Dallas Cowboys,2016
+['Dez Bryant'],"Questionable: knee, back",week_9,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_9,Dallas Cowboys,2016
+['Maliek Collins'],Questionable: knee,week_9,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_9,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_9,Dallas Cowboys,2016
+['Justin Durant'],NA,week_9,Dallas Cowboys,2016
+['Doug Free'],NA,week_9,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_9,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_9,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_9,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_9,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_9,Dallas Cowboys,2016
+['Anthony Hitchens'],Questionable: knee,week_9,Dallas Cowboys,2016
+['David Irving'],NA,week_9,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_9,Dallas Cowboys,2016
+['Demarcus Lawrence'],"Questionable: back, shoulder",week_9,Dallas Cowboys,2016
+['Sean Lee'],NA,week_9,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_9,Dallas Cowboys,2016
+['Darren McFadden'],NA,week_9,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_9,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_9,Dallas Cowboys,2016
+['Tony Romo'],Out: back,week_9,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_9,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_9,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_9,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_9,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_9,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_9,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_9,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_9,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_9,Dallas Cowboys,2016
+['Jason Witten'],NA,week_9,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_10,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_10,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: knee,week_10,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_10,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_10,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_10,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_10,Dallas Cowboys,2016
+['Justin Durant'],NA,week_10,Dallas Cowboys,2016
+['Doug Free'],NA,week_10,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_10,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_10,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_10,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_10,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_10,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_10,Dallas Cowboys,2016
+['David Irving'],NA,week_10,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_10,Dallas Cowboys,2016
+['Demarcus Lawrence'],"Questionable: back, shoulder",week_10,Dallas Cowboys,2016
+['Sean Lee'],NA,week_10,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_10,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_10,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_10,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_10,Dallas Cowboys,2016
+['Tony Romo'],Questionable: back,week_10,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_10,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_10,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_10,Dallas Cowboys,2016
+['Geoff Swaim'],NA,week_10,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_10,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_10,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_10,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_10,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_10,Dallas Cowboys,2016
+['Jason Witten'],NA,week_10,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_11,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_11,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: back,week_11,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_11,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_11,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_11,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_11,Dallas Cowboys,2016
+['Justin Durant'],NA,week_11,Dallas Cowboys,2016
+['Doug Free'],NA,week_11,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_11,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_11,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_11,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_11,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_11,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_11,Dallas Cowboys,2016
+['David Irving'],NA,week_11,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_11,Dallas Cowboys,2016
+['Demarcus Lawrence'],Questionable: back,week_11,Dallas Cowboys,2016
+['Sean Lee'],NA,week_11,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_11,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_11,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_11,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_11,Dallas Cowboys,2016
+['Tony Romo'],Questionable: back,week_11,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_11,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_11,Dallas Cowboys,2016
+['Tyron Smith'],"Questionable: back, hip",week_11,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_11,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_11,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_11,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_11,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_11,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_11,Dallas Cowboys,2016
+['Jason Witten'],NA,week_11,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_12,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_12,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: back,week_12,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_12,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_12,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_12,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_12,Dallas Cowboys,2016
+['Justin Durant'],NA,week_12,Dallas Cowboys,2016
+['Doug Free'],NA,week_12,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_12,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_12,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_12,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_12,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_12,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_12,Dallas Cowboys,2016
+['David Irving'],NA,week_12,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_12,Dallas Cowboys,2016
+['Demarcus Lawrence'],Questionable: back,week_12,Dallas Cowboys,2016
+['Sean Lee'],NA,week_12,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_12,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_12,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_12,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_12,Dallas Cowboys,2016
+['Tony Romo'],NA,week_12,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_12,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_12,Dallas Cowboys,2016
+['Tyron Smith'],"Questionable: back, hip",week_12,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_12,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_12,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_12,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_12,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_12,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_12,Dallas Cowboys,2016
+['Jason Witten'],NA,week_12,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_13,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_13,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_13,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_13,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_13,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_13,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_13,Dallas Cowboys,2016
+['Justin Durant'],Out: hamstring,week_13,Dallas Cowboys,2016
+['Doug Free'],NA,week_13,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_13,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_13,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_13,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_13,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_13,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_13,Dallas Cowboys,2016
+['David Irving'],Questionable: illness,week_13,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_13,Dallas Cowboys,2016
+['Demarcus Lawrence'],Questionable: back,week_13,Dallas Cowboys,2016
+['Sean Lee'],Questionable: illness,week_13,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_13,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_13,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_13,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_13,Dallas Cowboys,2016
+['Tony Romo'],NA,week_13,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_13,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_13,Dallas Cowboys,2016
+['Tyron Smith'],"Questionable: back, hip",week_13,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_13,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_13,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_13,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_13,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_13,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_13,Dallas Cowboys,2016
+['Jason Witten'],NA,week_13,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_14,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_14,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_14,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_14,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_14,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_14,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_14,Dallas Cowboys,2016
+['Justin Durant'],Questionable: hamstring,week_14,Dallas Cowboys,2016
+['Doug Free'],NA,week_14,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_14,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_14,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_14,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_14,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_14,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_14,Dallas Cowboys,2016
+['David Irving'],NA,week_14,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_14,Dallas Cowboys,2016
+['Demarcus Lawrence'],Questionable: back,week_14,Dallas Cowboys,2016
+['Sean Lee'],NA,week_14,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_14,Dallas Cowboys,2016
+['Darren McFadden'],Injured Reserve: Elbow,week_14,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_14,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_14,Dallas Cowboys,2016
+['Tony Romo'],NA,week_14,Dallas Cowboys,2016
+['Orlando Scandrick'],"Questionable: foot, not injury related",week_14,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_14,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: back,week_14,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_14,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_14,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_14,Dallas Cowboys,2016
+['Cedric Thornton'],NA,week_14,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_14,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_14,Dallas Cowboys,2016
+['Jason Witten'],NA,week_14,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_15,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_15,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: back,week_15,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_15,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_15,Dallas Cowboys,2016
+['Tyrone Crawford'],NA,week_15,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_15,Dallas Cowboys,2016
+['Justin Durant'],NA,week_15,Dallas Cowboys,2016
+['Doug Free'],NA,week_15,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_15,Dallas Cowboys,2016
+['Chaz Green'],Out: back,week_15,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_15,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_15,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_15,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_15,Dallas Cowboys,2016
+['David Irving'],NA,week_15,Dallas Cowboys,2016
+['L.P. Ladouceur'],Questionable: knee,week_15,Dallas Cowboys,2016
+['Demarcus Lawrence'],Out: back,week_15,Dallas Cowboys,2016
+['Sean Lee'],Questionable: knee,week_15,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_15,Dallas Cowboys,2016
+['Darren McFadden'],NA,week_15,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_15,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_15,Dallas Cowboys,2016
+['Tony Romo'],NA,week_15,Dallas Cowboys,2016
+['Orlando Scandrick'],"Questionable: foot, not injury related",week_15,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_15,Dallas Cowboys,2016
+['Tyron Smith'],"Questionable: back, knee",week_15,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_15,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_15,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_15,Dallas Cowboys,2016
+['Cedric Thornton'],Questionable: ankle,week_15,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_15,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_15,Dallas Cowboys,2016
+['Jason Witten'],NA,week_15,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_16,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_16,Dallas Cowboys,2016
+['Dez Bryant'],Questionable: back,week_16,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_16,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_16,Dallas Cowboys,2016
+['Tyrone Crawford'],Doubtful: foot,week_16,Dallas Cowboys,2016
+['Ryan Davis'],NA,week_16,Dallas Cowboys,2016
+['Justin Durant'],Out: elbow,week_16,Dallas Cowboys,2016
+['Doug Free'],NA,week_16,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_16,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_16,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_16,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_16,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_16,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_16,Dallas Cowboys,2016
+['David Irving'],NA,week_16,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_16,Dallas Cowboys,2016
+['Demarcus Lawrence'],Out: back,week_16,Dallas Cowboys,2016
+['Sean Lee'],Questionable: knee,week_16,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_16,Dallas Cowboys,2016
+['Darren McFadden'],NA,week_16,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_16,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_16,Dallas Cowboys,2016
+['Tony Romo'],NA,week_16,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_16,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_16,Dallas Cowboys,2016
+['Tyron Smith'],"Questionable: back, knee",week_16,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_16,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_16,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_16,Dallas Cowboys,2016
+['Cedric Thornton'],Out: ankle,week_16,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_16,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_16,Dallas Cowboys,2016
+['Jason Witten'],NA,week_16,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_17,Dallas Cowboys,2016
+['Anthony Brown'],Questionable: concussion,week_17,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_17,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_17,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_17,Dallas Cowboys,2016
+['Tyrone Crawford'],"Out: shoulder, hamstring",week_17,Dallas Cowboys,2016
+['Ryan Davis'],Injured Reserve: Knee,week_17,Dallas Cowboys,2016
+['Justin Durant'],Out: elbow,week_17,Dallas Cowboys,2016
+['Doug Free'],NA,week_17,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_17,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_17,Dallas Cowboys,2016
+['Randy Gregory'],Questionable: abdomen,week_17,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_17,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_17,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_17,Dallas Cowboys,2016
+['David Irving'],NA,week_17,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_17,Dallas Cowboys,2016
+['Demarcus Lawrence'],Out: back,week_17,Dallas Cowboys,2016
+['Sean Lee'],Questionable: knee,week_17,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_17,Dallas Cowboys,2016
+['Darren McFadden'],NA,week_17,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_17,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_17,Dallas Cowboys,2016
+['Tony Romo'],NA,week_17,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_17,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_17,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: knee,week_17,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_17,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_17,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_17,Dallas Cowboys,2016
+['Cedric Thornton'],Out: ankle,week_17,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_17,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_17,Dallas Cowboys,2016
+['Jason Witten'],NA,week_17,Dallas Cowboys,2016
+['Dan Bailey'],NA,week_19,Dallas Cowboys,2016
+['Anthony Brown'],NA,week_19,Dallas Cowboys,2016
+['Dez Bryant'],NA,week_19,Dallas Cowboys,2016
+"[""La'el Collins""]",Injured Reserve: Foot,week_19,Dallas Cowboys,2016
+['Maliek Collins'],NA,week_19,Dallas Cowboys,2016
+['Tyrone Crawford'],Questionable: shoulder,week_19,Dallas Cowboys,2016
+['Ryan Davis'],Injured Reserve: Knee,week_19,Dallas Cowboys,2016
+['Justin Durant'],Questionable: elbow,week_19,Dallas Cowboys,2016
+['Doug Free'],NA,week_19,Dallas Cowboys,2016
+['Andrew Gachkar'],NA,week_19,Dallas Cowboys,2016
+['Chaz Green'],Injured Reserve: Foot,week_19,Dallas Cowboys,2016
+['Randy Gregory'],NA,week_19,Dallas Cowboys,2016
+['James Hanna'],Injured Reserve: Knee,week_19,Dallas Cowboys,2016
+['Jeff Heath'],NA,week_19,Dallas Cowboys,2016
+['Anthony Hitchens'],NA,week_19,Dallas Cowboys,2016
+['David Irving'],NA,week_19,Dallas Cowboys,2016
+['L.P. Ladouceur'],NA,week_19,Dallas Cowboys,2016
+['Demarcus Lawrence'],Questionable: back,week_19,Dallas Cowboys,2016
+['Sean Lee'],NA,week_19,Dallas Cowboys,2016
+['Rolando McClain'],Injured Reserve: Suspension,week_19,Dallas Cowboys,2016
+['Darren McFadden'],NA,week_19,Dallas Cowboys,2016
+['Kellen Moore'],Injured Reserve: Ankle,week_19,Dallas Cowboys,2016
+['Mark Nzeocha'],NA,week_19,Dallas Cowboys,2016
+['Tony Romo'],NA,week_19,Dallas Cowboys,2016
+['Orlando Scandrick'],NA,week_19,Dallas Cowboys,2016
+['Jaylon Smith'],Injured Reserve: Knee,week_19,Dallas Cowboys,2016
+['Tyron Smith'],Questionable: knee,week_19,Dallas Cowboys,2016
+['Geoff Swaim'],Injured Reserve: Pectoral,week_19,Dallas Cowboys,2016
+['Charles Tapper'],Injured Reserve: Back,week_19,Dallas Cowboys,2016
+['Josh Thomas'],Injured Reserve: Thumb,week_19,Dallas Cowboys,2016
+['Cedric Thornton'],Questionable: ankle,week_19,Dallas Cowboys,2016
+['Kyle Wilber'],NA,week_19,Dallas Cowboys,2016
+['Terrance Williams'],NA,week_19,Dallas Cowboys,2016
+['Jason Witten'],NA,week_19,Dallas Cowboys,2016

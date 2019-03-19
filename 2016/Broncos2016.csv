@@ -1,0 +1,433 @@
+﻿name,injury,week,team,year
+['C.J. Anderson'],NA,week_1,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_1,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_1,Denver Broncos,2016
+['Marlon Brown'],NA,week_1,Denver Broncos,2016
+['Todd Davis'],NA,week_1,Denver Broncos,2016
+['A.J. Derby'],NA,week_1,Denver Broncos,2016
+['James Ferentz'],Questionable: knee,week_1,Denver Broncos,2016
+['Bennie Fowler'],Out: elbow,week_1,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_1,Denver Broncos,2016
+['Virgil Green'],NA,week_1,Denver Broncos,2016
+['Jeff Heuerman'],Questionable: ankle,week_1,Denver Broncos,2016
+['Andy Janovich'],NA,week_1,Denver Broncos,2016
+['Casey Kreiter'],NA,week_1,Denver Broncos,2016
+['Brandon Marshall'],NA,week_1,Denver Broncos,2016
+['Corey Nelson'],NA,week_1,Denver Broncos,2016
+['Matt Paradis'],NA,week_1,Denver Broncos,2016
+['Ty Sambrailo'],Questionable: elbow,week_1,Denver Broncos,2016
+['Trevor Siemian'],NA,week_1,Denver Broncos,2016
+['Justin Simmons'],NA,week_1,Denver Broncos,2016
+['Donald Stephenson'],NA,week_1,Denver Broncos,2016
+['Aqib Talib'],NA,week_1,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_1,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_1,Denver Broncos,2016
+['T.J. Ward'],NA,week_1,Denver Broncos,2016
+['DeMarcus Ware'],NA,week_1,Denver Broncos,2016
+['Kayvon Webster'],NA,week_1,Denver Broncos,2016
+['Derek Wolfe'],NA,week_1,Denver Broncos,2016
+['C.J. Anderson'],NA,week_2,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_2,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_2,Denver Broncos,2016
+['Marlon Brown'],NA,week_2,Denver Broncos,2016
+['Todd Davis'],NA,week_2,Denver Broncos,2016
+['A.J. Derby'],NA,week_2,Denver Broncos,2016
+['James Ferentz'],NA,week_2,Denver Broncos,2016
+['Bennie Fowler'],Out: elbow,week_2,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_2,Denver Broncos,2016
+['Virgil Green'],: calf,week_2,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_2,Denver Broncos,2016
+['Andy Janovich'],NA,week_2,Denver Broncos,2016
+['Casey Kreiter'],NA,week_2,Denver Broncos,2016
+['Brandon Marshall'],NA,week_2,Denver Broncos,2016
+['Corey Nelson'],NA,week_2,Denver Broncos,2016
+['Matt Paradis'],NA,week_2,Denver Broncos,2016
+['Ty Sambrailo'],Questionable: elbow,week_2,Denver Broncos,2016
+['Trevor Siemian'],NA,week_2,Denver Broncos,2016
+['Justin Simmons'],NA,week_2,Denver Broncos,2016
+['Donald Stephenson'],NA,week_2,Denver Broncos,2016
+['Aqib Talib'],NA,week_2,Denver Broncos,2016
+['Demaryius Thomas'],Questionable: hip,week_2,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_2,Denver Broncos,2016
+['T.J. Ward'],NA,week_2,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_2,Denver Broncos,2016
+['Kayvon Webster'],NA,week_2,Denver Broncos,2016
+['Derek Wolfe'],Questionable: neck,week_2,Denver Broncos,2016
+['C.J. Anderson'],NA,week_3,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_3,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_3,Denver Broncos,2016
+['Marlon Brown'],NA,week_3,Denver Broncos,2016
+['Todd Davis'],NA,week_3,Denver Broncos,2016
+['A.J. Derby'],NA,week_3,Denver Broncos,2016
+['James Ferentz'],NA,week_3,Denver Broncos,2016
+['Bennie Fowler'],Questionable: elbow,week_3,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_3,Denver Broncos,2016
+['Virgil Green'],Out: calf,week_3,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_3,Denver Broncos,2016
+['Andy Janovich'],NA,week_3,Denver Broncos,2016
+['Casey Kreiter'],NA,week_3,Denver Broncos,2016
+['Brandon Marshall'],NA,week_3,Denver Broncos,2016
+['Corey Nelson'],Questionable: ankle,week_3,Denver Broncos,2016
+['Matt Paradis'],NA,week_3,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_3,Denver Broncos,2016
+['Trevor Siemian'],NA,week_3,Denver Broncos,2016
+['Justin Simmons'],Questionable: hand,week_3,Denver Broncos,2016
+['Donald Stephenson'],Out: calf,week_3,Denver Broncos,2016
+['Aqib Talib'],NA,week_3,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_3,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_3,Denver Broncos,2016
+['T.J. Ward'],NA,week_3,Denver Broncos,2016
+['DeMarcus Ware'],Out: forearm,week_3,Denver Broncos,2016
+['Kayvon Webster'],NA,week_3,Denver Broncos,2016
+['Derek Wolfe'],NA,week_3,Denver Broncos,2016
+['C.J. Anderson'],NA,week_4,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_4,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_4,Denver Broncos,2016
+['Marlon Brown'],NA,week_4,Denver Broncos,2016
+['Todd Davis'],NA,week_4,Denver Broncos,2016
+['A.J. Derby'],NA,week_4,Denver Broncos,2016
+['James Ferentz'],NA,week_4,Denver Broncos,2016
+['Bennie Fowler'],NA,week_4,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_4,Denver Broncos,2016
+['Virgil Green'],Out: calf,week_4,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_4,Denver Broncos,2016
+['Andy Janovich'],NA,week_4,Denver Broncos,2016
+['Casey Kreiter'],NA,week_4,Denver Broncos,2016
+['Brandon Marshall'],NA,week_4,Denver Broncos,2016
+['Corey Nelson'],NA,week_4,Denver Broncos,2016
+['Matt Paradis'],NA,week_4,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_4,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_4,Denver Broncos,2016
+['Justin Simmons'],NA,week_4,Denver Broncos,2016
+['Donald Stephenson'],Out: calf,week_4,Denver Broncos,2016
+['Aqib Talib'],NA,week_4,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_4,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_4,Denver Broncos,2016
+['T.J. Ward'],NA,week_4,Denver Broncos,2016
+['DeMarcus Ware'],Out: forearm,week_4,Denver Broncos,2016
+['Kayvon Webster'],NA,week_4,Denver Broncos,2016
+['Derek Wolfe'],NA,week_4,Denver Broncos,2016
+['C.J. Anderson'],NA,week_5,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_5,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_5,Denver Broncos,2016
+['Marlon Brown'],NA,week_5,Denver Broncos,2016
+['Todd Davis'],NA,week_5,Denver Broncos,2016
+['A.J. Derby'],NA,week_5,Denver Broncos,2016
+['James Ferentz'],NA,week_5,Denver Broncos,2016
+['Bennie Fowler'],NA,week_5,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_5,Denver Broncos,2016
+['Virgil Green'],Questionable: calf,week_5,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_5,Denver Broncos,2016
+['Andy Janovich'],NA,week_5,Denver Broncos,2016
+['Casey Kreiter'],NA,week_5,Denver Broncos,2016
+['Brandon Marshall'],NA,week_5,Denver Broncos,2016
+['Corey Nelson'],NA,week_5,Denver Broncos,2016
+['Matt Paradis'],NA,week_5,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_5,Denver Broncos,2016
+['Trevor Siemian'],Questionable: left shoulder,week_5,Denver Broncos,2016
+['Justin Simmons'],NA,week_5,Denver Broncos,2016
+['Donald Stephenson'],Questionable: calf,week_5,Denver Broncos,2016
+['Aqib Talib'],NA,week_5,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_5,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_5,Denver Broncos,2016
+['T.J. Ward'],NA,week_5,Denver Broncos,2016
+['DeMarcus Ware'],Out: forearm,week_5,Denver Broncos,2016
+['Kayvon Webster'],NA,week_5,Denver Broncos,2016
+['Derek Wolfe'],NA,week_5,Denver Broncos,2016
+['C.J. Anderson'],NA,week_6,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_6,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_6,Denver Broncos,2016
+['Marlon Brown'],NA,week_6,Denver Broncos,2016
+['Todd Davis'],NA,week_6,Denver Broncos,2016
+['A.J. Derby'],NA,week_6,Denver Broncos,2016
+['James Ferentz'],NA,week_6,Denver Broncos,2016
+['Bennie Fowler'],NA,week_6,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_6,Denver Broncos,2016
+['Virgil Green'],: calf,week_6,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_6,Denver Broncos,2016
+['Andy Janovich'],NA,week_6,Denver Broncos,2016
+['Casey Kreiter'],NA,week_6,Denver Broncos,2016
+['Brandon Marshall'],NA,week_6,Denver Broncos,2016
+['Corey Nelson'],NA,week_6,Denver Broncos,2016
+['Matt Paradis'],NA,week_6,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_6,Denver Broncos,2016
+['Trevor Siemian'],Questionable: left shoulder,week_6,Denver Broncos,2016
+['Justin Simmons'],NA,week_6,Denver Broncos,2016
+['Donald Stephenson'],NA,week_6,Denver Broncos,2016
+['Aqib Talib'],NA,week_6,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_6,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_6,Denver Broncos,2016
+['T.J. Ward'],NA,week_6,Denver Broncos,2016
+['DeMarcus Ware'],Out: forearm,week_6,Denver Broncos,2016
+['Kayvon Webster'],NA,week_6,Denver Broncos,2016
+['Derek Wolfe'],NA,week_6,Denver Broncos,2016
+['C.J. Anderson'],NA,week_7,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_7,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_7,Denver Broncos,2016
+['Marlon Brown'],NA,week_7,Denver Broncos,2016
+['Todd Davis'],NA,week_7,Denver Broncos,2016
+['A.J. Derby'],NA,week_7,Denver Broncos,2016
+['James Ferentz'],NA,week_7,Denver Broncos,2016
+['Bennie Fowler'],NA,week_7,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_7,Denver Broncos,2016
+['Virgil Green'],: calf,week_7,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_7,Denver Broncos,2016
+['Andy Janovich'],NA,week_7,Denver Broncos,2016
+['Casey Kreiter'],NA,week_7,Denver Broncos,2016
+['Brandon Marshall'],NA,week_7,Denver Broncos,2016
+['Corey Nelson'],NA,week_7,Denver Broncos,2016
+['Matt Paradis'],NA,week_7,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_7,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_7,Denver Broncos,2016
+['Justin Simmons'],NA,week_7,Denver Broncos,2016
+['Donald Stephenson'],NA,week_7,Denver Broncos,2016
+['Aqib Talib'],NA,week_7,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_7,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_7,Denver Broncos,2016
+['T.J. Ward'],NA,week_7,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_7,Denver Broncos,2016
+['Kayvon Webster'],NA,week_7,Denver Broncos,2016
+['Derek Wolfe'],NA,week_7,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_8,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_8,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_8,Denver Broncos,2016
+['Marlon Brown'],NA,week_8,Denver Broncos,2016
+['Todd Davis'],NA,week_8,Denver Broncos,2016
+['A.J. Derby'],NA,week_8,Denver Broncos,2016
+['James Ferentz'],NA,week_8,Denver Broncos,2016
+['Bennie Fowler'],NA,week_8,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_8,Denver Broncos,2016
+['Virgil Green'],: calf,week_8,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_8,Denver Broncos,2016
+['Andy Janovich'],NA,week_8,Denver Broncos,2016
+['Casey Kreiter'],NA,week_8,Denver Broncos,2016
+['Brandon Marshall'],Questionable: hamstring,week_8,Denver Broncos,2016
+['Corey Nelson'],NA,week_8,Denver Broncos,2016
+['Matt Paradis'],Questionable: hip,week_8,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_8,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_8,Denver Broncos,2016
+['Justin Simmons'],NA,week_8,Denver Broncos,2016
+['Donald Stephenson'],NA,week_8,Denver Broncos,2016
+['Aqib Talib'],Questionable: lower back,week_8,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_8,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_8,Denver Broncos,2016
+['T.J. Ward'],NA,week_8,Denver Broncos,2016
+['DeMarcus Ware'],Questionable: forearm,week_8,Denver Broncos,2016
+['Kayvon Webster'],NA,week_8,Denver Broncos,2016
+['Derek Wolfe'],NA,week_8,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_9,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_9,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_9,Denver Broncos,2016
+['Marlon Brown'],NA,week_9,Denver Broncos,2016
+['Todd Davis'],NA,week_9,Denver Broncos,2016
+['A.J. Derby'],NA,week_9,Denver Broncos,2016
+['James Ferentz'],NA,week_9,Denver Broncos,2016
+['Bennie Fowler'],NA,week_9,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_9,Denver Broncos,2016
+['Virgil Green'],: calf,week_9,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_9,Denver Broncos,2016
+['Andy Janovich'],NA,week_9,Denver Broncos,2016
+['Casey Kreiter'],NA,week_9,Denver Broncos,2016
+['Brandon Marshall'],NA,week_9,Denver Broncos,2016
+['Corey Nelson'],NA,week_9,Denver Broncos,2016
+['Matt Paradis'],NA,week_9,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_9,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_9,Denver Broncos,2016
+['Justin Simmons'],NA,week_9,Denver Broncos,2016
+['Donald Stephenson'],NA,week_9,Denver Broncos,2016
+['Aqib Talib'],NA,week_9,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_9,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_9,Denver Broncos,2016
+['T.J. Ward'],NA,week_9,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_9,Denver Broncos,2016
+['Kayvon Webster'],NA,week_9,Denver Broncos,2016
+['Derek Wolfe'],NA,week_9,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_10,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_10,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_10,Denver Broncos,2016
+['Marlon Brown'],NA,week_10,Denver Broncos,2016
+['Todd Davis'],NA,week_10,Denver Broncos,2016
+['A.J. Derby'],NA,week_10,Denver Broncos,2016
+['James Ferentz'],NA,week_10,Denver Broncos,2016
+['Bennie Fowler'],NA,week_10,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_10,Denver Broncos,2016
+['Virgil Green'],: calf,week_10,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_10,Denver Broncos,2016
+['Andy Janovich'],NA,week_10,Denver Broncos,2016
+['Casey Kreiter'],NA,week_10,Denver Broncos,2016
+['Brandon Marshall'],NA,week_10,Denver Broncos,2016
+['Corey Nelson'],NA,week_10,Denver Broncos,2016
+['Matt Paradis'],NA,week_10,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_10,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_10,Denver Broncos,2016
+['Justin Simmons'],NA,week_10,Denver Broncos,2016
+['Donald Stephenson'],NA,week_10,Denver Broncos,2016
+['Aqib Talib'],NA,week_10,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_10,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_10,Denver Broncos,2016
+['T.J. Ward'],NA,week_10,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_10,Denver Broncos,2016
+['Kayvon Webster'],NA,week_10,Denver Broncos,2016
+['Derek Wolfe'],NA,week_10,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_12,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_12,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_12,Denver Broncos,2016
+['Marlon Brown'],NA,week_12,Denver Broncos,2016
+['Todd Davis'],NA,week_12,Denver Broncos,2016
+['A.J. Derby'],NA,week_12,Denver Broncos,2016
+['James Ferentz'],NA,week_12,Denver Broncos,2016
+['Bennie Fowler'],NA,week_12,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_12,Denver Broncos,2016
+['Virgil Green'],: calf,week_12,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_12,Denver Broncos,2016
+['Andy Janovich'],NA,week_12,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_12,Denver Broncos,2016
+['Brandon Marshall'],NA,week_12,Denver Broncos,2016
+['Corey Nelson'],NA,week_12,Denver Broncos,2016
+['Matt Paradis'],NA,week_12,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_12,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_12,Denver Broncos,2016
+['Justin Simmons'],NA,week_12,Denver Broncos,2016
+['Donald Stephenson'],NA,week_12,Denver Broncos,2016
+['Aqib Talib'],NA,week_12,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_12,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_12,Denver Broncos,2016
+['T.J. Ward'],NA,week_12,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_12,Denver Broncos,2016
+['Kayvon Webster'],NA,week_12,Denver Broncos,2016
+['Derek Wolfe'],NA,week_12,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_13,Denver Broncos,2016
+['Kapri Bibbs'],NA,week_13,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_13,Denver Broncos,2016
+['Marlon Brown'],NA,week_13,Denver Broncos,2016
+['Todd Davis'],NA,week_13,Denver Broncos,2016
+['A.J. Derby'],NA,week_13,Denver Broncos,2016
+['James Ferentz'],NA,week_13,Denver Broncos,2016
+['Bennie Fowler'],Out: knee,week_13,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_13,Denver Broncos,2016
+['Virgil Green'],: calf,week_13,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_13,Denver Broncos,2016
+['Andy Janovich'],Out: ankle,week_13,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_13,Denver Broncos,2016
+['Brandon Marshall'],NA,week_13,Denver Broncos,2016
+['Corey Nelson'],NA,week_13,Denver Broncos,2016
+['Matt Paradis'],NA,week_13,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_13,Denver Broncos,2016
+['Trevor Siemian'],Out: sprained left foot,week_13,Denver Broncos,2016
+['Justin Simmons'],NA,week_13,Denver Broncos,2016
+['Donald Stephenson'],NA,week_13,Denver Broncos,2016
+['Aqib Talib'],NA,week_13,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_13,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_13,Denver Broncos,2016
+['T.J. Ward'],NA,week_13,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_13,Denver Broncos,2016
+['Kayvon Webster'],NA,week_13,Denver Broncos,2016
+['Derek Wolfe'],NA,week_13,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_14,Denver Broncos,2016
+['Kapri Bibbs'],Injured Reserve: Ankle,week_14,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_14,Denver Broncos,2016
+['Marlon Brown'],Injured Reserve: Undisclosed,week_14,Denver Broncos,2016
+['Todd Davis'],NA,week_14,Denver Broncos,2016
+['A.J. Derby'],NA,week_14,Denver Broncos,2016
+['James Ferentz'],NA,week_14,Denver Broncos,2016
+['Bennie Fowler'],Questionable: knee,week_14,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_14,Denver Broncos,2016
+['Virgil Green'],: calf,week_14,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_14,Denver Broncos,2016
+['Andy Janovich'],Injured Reserve: Ankle,week_14,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_14,Denver Broncos,2016
+['Brandon Marshall'],Out: hamstring,week_14,Denver Broncos,2016
+['Corey Nelson'],NA,week_14,Denver Broncos,2016
+['Matt Paradis'],NA,week_14,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_14,Denver Broncos,2016
+['Trevor Siemian'],Questionable: foot,week_14,Denver Broncos,2016
+['Justin Simmons'],NA,week_14,Denver Broncos,2016
+['Donald Stephenson'],NA,week_14,Denver Broncos,2016
+['Aqib Talib'],NA,week_14,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_14,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_14,Denver Broncos,2016
+['T.J. Ward'],NA,week_14,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_14,Denver Broncos,2016
+['Kayvon Webster'],NA,week_14,Denver Broncos,2016
+['Derek Wolfe'],NA,week_14,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_15,Denver Broncos,2016
+['Kapri Bibbs'],Injured Reserve: Ankle,week_15,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_15,Denver Broncos,2016
+['Marlon Brown'],Injured Reserve: Undisclosed,week_15,Denver Broncos,2016
+['Todd Davis'],Questionable: rib cage,week_15,Denver Broncos,2016
+['A.J. Derby'],NA,week_15,Denver Broncos,2016
+['James Ferentz'],NA,week_15,Denver Broncos,2016
+['Bennie Fowler'],NA,week_15,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_15,Denver Broncos,2016
+['Virgil Green'],: calf,week_15,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_15,Denver Broncos,2016
+['Andy Janovich'],Injured Reserve: Ankle,week_15,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_15,Denver Broncos,2016
+['Brandon Marshall'],Out: hamstring,week_15,Denver Broncos,2016
+['Corey Nelson'],NA,week_15,Denver Broncos,2016
+['Matt Paradis'],NA,week_15,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_15,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_15,Denver Broncos,2016
+['Justin Simmons'],NA,week_15,Denver Broncos,2016
+['Donald Stephenson'],NA,week_15,Denver Broncos,2016
+['Aqib Talib'],NA,week_15,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_15,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_15,Denver Broncos,2016
+['T.J. Ward'],NA,week_15,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_15,Denver Broncos,2016
+['Kayvon Webster'],NA,week_15,Denver Broncos,2016
+['Derek Wolfe'],NA,week_15,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_16,Denver Broncos,2016
+['Kapri Bibbs'],Injured Reserve: Ankle,week_16,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_16,Denver Broncos,2016
+['Marlon Brown'],Injured Reserve: Undisclosed,week_16,Denver Broncos,2016
+['Todd Davis'],NA,week_16,Denver Broncos,2016
+['A.J. Derby'],Out: concussion,week_16,Denver Broncos,2016
+['James Ferentz'],NA,week_16,Denver Broncos,2016
+['Bennie Fowler'],NA,week_16,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_16,Denver Broncos,2016
+['Virgil Green'],Out: concussion,week_16,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_16,Denver Broncos,2016
+['Andy Janovich'],Injured Reserve: Ankle,week_16,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_16,Denver Broncos,2016
+['Brandon Marshall'],Out: hamstring,week_16,Denver Broncos,2016
+['Corey Nelson'],NA,week_16,Denver Broncos,2016
+['Matt Paradis'],NA,week_16,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_16,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_16,Denver Broncos,2016
+['Justin Simmons'],NA,week_16,Denver Broncos,2016
+['Donald Stephenson'],NA,week_16,Denver Broncos,2016
+['Aqib Talib'],NA,week_16,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_16,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_16,Denver Broncos,2016
+['T.J. Ward'],Out: concussion,week_16,Denver Broncos,2016
+['DeMarcus Ware'],: fractured right forearm,week_16,Denver Broncos,2016
+['Kayvon Webster'],NA,week_16,Denver Broncos,2016
+['Derek Wolfe'],NA,week_16,Denver Broncos,2016
+['C.J. Anderson'],Injured Reserve: Knee,week_17,Denver Broncos,2016
+['Kapri Bibbs'],Injured Reserve: Ankle,week_17,Denver Broncos,2016
+['Sam Brenner'],Injured Reserve: Concussion,week_17,Denver Broncos,2016
+['Marlon Brown'],Injured Reserve: Undisclosed,week_17,Denver Broncos,2016
+['Todd Davis'],NA,week_17,Denver Broncos,2016
+['A.J. Derby'],Out: concussion,week_17,Denver Broncos,2016
+['James Ferentz'],NA,week_17,Denver Broncos,2016
+['Bennie Fowler'],NA,week_17,Denver Broncos,2016
+['Garrett Graham'],Injured Reserve: Shoulder,week_17,Denver Broncos,2016
+['Virgil Green'],: calf,week_17,Denver Broncos,2016
+['Jeff Heuerman'],NA,week_17,Denver Broncos,2016
+['Andy Janovich'],Injured Reserve: Ankle,week_17,Denver Broncos,2016
+['Casey Kreiter'],Injured Reserve: Calf,week_17,Denver Broncos,2016
+['Brandon Marshall'],Questionable: hamstring,week_17,Denver Broncos,2016
+['Corey Nelson'],NA,week_17,Denver Broncos,2016
+['Matt Paradis'],NA,week_17,Denver Broncos,2016
+['Ty Sambrailo'],NA,week_17,Denver Broncos,2016
+['Trevor Siemian'],: sprained left shoulder,week_17,Denver Broncos,2016
+['Justin Simmons'],NA,week_17,Denver Broncos,2016
+['Donald Stephenson'],NA,week_17,Denver Broncos,2016
+['Aqib Talib'],NA,week_17,Denver Broncos,2016
+['Demaryius Thomas'],NA,week_17,Denver Broncos,2016
+['Vance Walker'],Injured Reserve: Knee,week_17,Denver Broncos,2016
+['T.J. Ward'],Out: concussion,week_17,Denver Broncos,2016
+['DeMarcus Ware'],Injured Reserve: Back,week_17,Denver Broncos,2016
+['Kayvon Webster'],Injured Reserve: Concussion,week_17,Denver Broncos,2016
+['Derek Wolfe'],Out: neck,week_17,Denver Broncos,2016

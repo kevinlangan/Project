@@ -1,0 +1,561 @@
+﻿name,injury,week,team,year
+['Mackensie Alexander'],NA,week_1,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_1,Minnesota Vikings,2016
+['Joe Berger'],NA,week_1,Minnesota Vikings,2016
+['Alex Boone'],NA,week_1,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_1,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_1,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_1,Minnesota Vikings,2016
+['Nick Easton'],Out: ankle,week_1,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_1,Minnesota Vikings,2016
+['Sharrif Floyd'],NA,week_1,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_1,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_1,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_1,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_1,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_1,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_1,Minnesota Vikings,2016
+['Matt Kalil'],NA,week_1,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_1,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_1,Minnesota Vikings,2016
+['Zach Line'],NA,week_1,Minnesota Vikings,2016
+['Jake Long'],NA,week_1,Minnesota Vikings,2016
+['Jerick McKinnon'],Questionable: foot,week_1,Minnesota Vikings,2016
+['David Morgan'],NA,week_1,Minnesota Vikings,2016
+['Terence Newman'],NA,week_1,Minnesota Vikings,2016
+['Adrian Peterson'],NA,week_1,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_1,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_1,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_1,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_1,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_1,Minnesota Vikings,2016
+['Andre Smith'],NA,week_1,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_1,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_1,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_1,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_1,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_2,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_2,Minnesota Vikings,2016
+['Joe Berger'],NA,week_2,Minnesota Vikings,2016
+['Alex Boone'],NA,week_2,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_2,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_2,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_2,Minnesota Vikings,2016
+['Nick Easton'],NA,week_2,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_2,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_2,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_2,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_2,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_2,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_2,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_2,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_2,Minnesota Vikings,2016
+['Matt Kalil'],NA,week_2,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_2,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_2,Minnesota Vikings,2016
+['Zach Line'],NA,week_2,Minnesota Vikings,2016
+['Jake Long'],NA,week_2,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_2,Minnesota Vikings,2016
+['David Morgan'],NA,week_2,Minnesota Vikings,2016
+['Terence Newman'],NA,week_2,Minnesota Vikings,2016
+['Adrian Peterson'],NA,week_2,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_2,Minnesota Vikings,2016
+['Xavier Rhodes'],Out: knee,week_2,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_2,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_2,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_2,Minnesota Vikings,2016
+['Andre Smith'],NA,week_2,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_2,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_2,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_2,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_2,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_3,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_3,Minnesota Vikings,2016
+['Joe Berger'],NA,week_3,Minnesota Vikings,2016
+['Alex Boone'],NA,week_3,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_3,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_3,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_3,Minnesota Vikings,2016
+['Nick Easton'],NA,week_3,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_3,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_3,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_3,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_3,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_3,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_3,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_3,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_3,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_3,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_3,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_3,Minnesota Vikings,2016
+['Zach Line'],NA,week_3,Minnesota Vikings,2016
+['Jake Long'],NA,week_3,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_3,Minnesota Vikings,2016
+['David Morgan'],NA,week_3,Minnesota Vikings,2016
+['Terence Newman'],NA,week_3,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_3,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_3,Minnesota Vikings,2016
+['Xavier Rhodes'],Questionable: knee,week_3,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_3,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_3,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_3,Minnesota Vikings,2016
+['Andre Smith'],NA,week_3,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_3,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_3,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_3,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_3,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_4,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_4,Minnesota Vikings,2016
+['Joe Berger'],NA,week_4,Minnesota Vikings,2016
+['Alex Boone'],NA,week_4,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_4,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_4,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_4,Minnesota Vikings,2016
+['Nick Easton'],NA,week_4,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_4,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_4,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_4,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_4,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_4,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_4,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_4,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_4,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_4,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_4,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_4,Minnesota Vikings,2016
+['Zach Line'],NA,week_4,Minnesota Vikings,2016
+['Jake Long'],NA,week_4,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_4,Minnesota Vikings,2016
+['David Morgan'],Out: knee,week_4,Minnesota Vikings,2016
+['Terence Newman'],NA,week_4,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_4,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_4,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_4,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_4,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_4,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_4,Minnesota Vikings,2016
+['Andre Smith'],NA,week_4,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_4,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_4,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_4,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_4,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_5,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_5,Minnesota Vikings,2016
+['Joe Berger'],NA,week_5,Minnesota Vikings,2016
+['Alex Boone'],NA,week_5,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_5,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_5,Minnesota Vikings,2016
+['Stefon Diggs'],Doubtful: groin,week_5,Minnesota Vikings,2016
+['Nick Easton'],NA,week_5,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_5,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_5,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_5,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_5,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_5,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_5,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_5,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_5,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_5,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_5,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_5,Minnesota Vikings,2016
+['Zach Line'],NA,week_5,Minnesota Vikings,2016
+['Jake Long'],NA,week_5,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_5,Minnesota Vikings,2016
+['David Morgan'],Out: knee,week_5,Minnesota Vikings,2016
+['Terence Newman'],NA,week_5,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_5,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_5,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_5,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_5,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_5,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_5,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_5,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_5,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_5,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_5,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_5,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_7,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_7,Minnesota Vikings,2016
+['Joe Berger'],NA,week_7,Minnesota Vikings,2016
+['Alex Boone'],NA,week_7,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_7,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_7,Minnesota Vikings,2016
+['Stefon Diggs'],Questionable: groin,week_7,Minnesota Vikings,2016
+['Nick Easton'],NA,week_7,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_7,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_7,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_7,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_7,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_7,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_7,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_7,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_7,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_7,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_7,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_7,Minnesota Vikings,2016
+['Zach Line'],NA,week_7,Minnesota Vikings,2016
+['Jake Long'],NA,week_7,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_7,Minnesota Vikings,2016
+['David Morgan'],NA,week_7,Minnesota Vikings,2016
+['Terence Newman'],NA,week_7,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_7,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_7,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_7,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_7,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_7,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_7,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_7,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_7,Minnesota Vikings,2016
+['Laquon Treadwell'],Questionable: thumb,week_7,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_7,Minnesota Vikings,2016
+['Jarius Wright'],Doubtful: ankle,week_7,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_8,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_8,Minnesota Vikings,2016
+['Joe Berger'],NA,week_8,Minnesota Vikings,2016
+['Alex Boone'],NA,week_8,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_8,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_8,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_8,Minnesota Vikings,2016
+['Nick Easton'],NA,week_8,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_8,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_8,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_8,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_8,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_8,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_8,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_8,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_8,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_8,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_8,Minnesota Vikings,2016
+['Zac Kerin'],Out: hand,week_8,Minnesota Vikings,2016
+['Zach Line'],NA,week_8,Minnesota Vikings,2016
+['Jake Long'],NA,week_8,Minnesota Vikings,2016
+['Jerick McKinnon'],Out: ankle,week_8,Minnesota Vikings,2016
+['David Morgan'],NA,week_8,Minnesota Vikings,2016
+['Terence Newman'],NA,week_8,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_8,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_8,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_8,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_8,Minnesota Vikings,2016
+['Andrew Sendejo'],Out: ankle,week_8,Minnesota Vikings,2016
+['Marcus Sherels'],Questionable: wrist,week_8,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_8,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_8,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_8,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_8,Minnesota Vikings,2016
+['Jarius Wright'],Questionable: ankle,week_8,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_9,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_9,Minnesota Vikings,2016
+['Joe Berger'],NA,week_9,Minnesota Vikings,2016
+['Alex Boone'],"Out: concussion, shoulder, kne",week_9,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_9,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_9,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_9,Minnesota Vikings,2016
+['Nick Easton'],NA,week_9,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_9,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_9,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_9,Minnesota Vikings,2016
+['Michael Griffin'],NA,week_9,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_9,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_9,Minnesota Vikings,2016
+['Tom Johnson'],Questionable: concussion,week_9,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_9,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_9,Minnesota Vikings,2016
+['Eric Kendricks'],Out: concussion,week_9,Minnesota Vikings,2016
+['Zac Kerin'],Out: hand,week_9,Minnesota Vikings,2016
+['Zach Line'],NA,week_9,Minnesota Vikings,2016
+['Jake Long'],NA,week_9,Minnesota Vikings,2016
+['Jerick McKinnon'],Questionable: ankle,week_9,Minnesota Vikings,2016
+['David Morgan'],NA,week_9,Minnesota Vikings,2016
+['Terence Newman'],NA,week_9,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_9,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_9,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_9,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_9,Minnesota Vikings,2016
+['Andrew Sendejo'],Questionable: ankle,week_9,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_9,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_9,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_9,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_9,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_9,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_9,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_10,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_10,Minnesota Vikings,2016
+['Joe Berger'],NA,week_10,Minnesota Vikings,2016
+['Alex Boone'],NA,week_10,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_10,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_10,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_10,Minnesota Vikings,2016
+['Nick Easton'],NA,week_10,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_10,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_10,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_10,Minnesota Vikings,2016
+['Michael Griffin'],NA,week_10,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_10,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_10,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_10,Minnesota Vikings,2016
+['Linval Joseph'],Questionable: shoulder,week_10,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_10,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_10,Minnesota Vikings,2016
+['Zac Kerin'],Questionable: hand,week_10,Minnesota Vikings,2016
+['Zach Line'],NA,week_10,Minnesota Vikings,2016
+['Jake Long'],NA,week_10,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_10,Minnesota Vikings,2016
+['David Morgan'],NA,week_10,Minnesota Vikings,2016
+['Terence Newman'],NA,week_10,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_10,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_10,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_10,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_10,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_10,Minnesota Vikings,2016
+['Marcus Sherels'],Out: ankle,week_10,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_10,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_10,Minnesota Vikings,2016
+['Laquon Treadwell'],Questionable: hamstring,week_10,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_10,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_10,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_11,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_11,Minnesota Vikings,2016
+['Joe Berger'],NA,week_11,Minnesota Vikings,2016
+['Alex Boone'],NA,week_11,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_11,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_11,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_11,Minnesota Vikings,2016
+['Nick Easton'],NA,week_11,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_11,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_11,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_11,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_11,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_11,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_11,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_11,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_11,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_11,Minnesota Vikings,2016
+['Eric Kendricks'],Questionable: hip,week_11,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_11,Minnesota Vikings,2016
+['Zach Line'],NA,week_11,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_11,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_11,Minnesota Vikings,2016
+['David Morgan'],NA,week_11,Minnesota Vikings,2016
+['Terence Newman'],NA,week_11,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_11,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_11,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_11,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_11,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_11,Minnesota Vikings,2016
+['Marcus Sherels'],Questionable: ankle,week_11,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_11,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_11,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_11,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_11,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_11,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_12,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_12,Minnesota Vikings,2016
+['Joe Berger'],NA,week_12,Minnesota Vikings,2016
+['Alex Boone'],NA,week_12,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_12,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_12,Minnesota Vikings,2016
+['Stefon Diggs'],Questionable: knee,week_12,Minnesota Vikings,2016
+['Nick Easton'],NA,week_12,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_12,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_12,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_12,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_12,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_12,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_12,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_12,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_12,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_12,Minnesota Vikings,2016
+['Eric Kendricks'],Questionable: hip,week_12,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_12,Minnesota Vikings,2016
+['Zach Line'],NA,week_12,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_12,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_12,Minnesota Vikings,2016
+['David Morgan'],NA,week_12,Minnesota Vikings,2016
+['Terence Newman'],Doubtful: neck,week_12,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_12,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_12,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_12,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_12,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_12,Minnesota Vikings,2016
+['Marcus Sherels'],"Out: ribs, ankle",week_12,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_12,Minnesota Vikings,2016
+['Harrison Smith'],Questionable: ankle,week_12,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_12,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_12,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_12,Minnesota Vikings,2016
+['Mackensie Alexander'],Doubtful: groin,week_13,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_13,Minnesota Vikings,2016
+['Joe Berger'],Out: concussion,week_13,Minnesota Vikings,2016
+['Alex Boone'],NA,week_13,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_13,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_13,Minnesota Vikings,2016
+['Stefon Diggs'],Questionable: knee,week_13,Minnesota Vikings,2016
+['Nick Easton'],NA,week_13,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_13,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_13,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_13,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_13,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_13,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_13,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_13,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_13,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_13,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_13,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_13,Minnesota Vikings,2016
+['Zach Line'],NA,week_13,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_13,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_13,Minnesota Vikings,2016
+['David Morgan'],NA,week_13,Minnesota Vikings,2016
+['Terence Newman'],Questionable: neck,week_13,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_13,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_13,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_13,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_13,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_13,Minnesota Vikings,2016
+['Marcus Sherels'],Out: rib,week_13,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_13,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_13,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_13,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_13,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_13,Minnesota Vikings,2016
+['Mackensie Alexander'],NA,week_14,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_14,Minnesota Vikings,2016
+['Joe Berger'],Out: concussion,week_14,Minnesota Vikings,2016
+['Alex Boone'],NA,week_14,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_14,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_14,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_14,Minnesota Vikings,2016
+['Nick Easton'],NA,week_14,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_14,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_14,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_14,Minnesota Vikings,2016
+['Michael Griffin'],NA,week_14,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_14,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_14,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_14,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_14,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_14,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_14,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_14,Minnesota Vikings,2016
+['Zach Line'],NA,week_14,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_14,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_14,Minnesota Vikings,2016
+['David Morgan'],NA,week_14,Minnesota Vikings,2016
+['Terence Newman'],NA,week_14,Minnesota Vikings,2016
+['Adrian Peterson'],Injured Reserve: Knee,week_14,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_14,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_14,Minnesota Vikings,2016
+['Edmond Robinson'],Questionable: hamstring,week_14,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_14,Minnesota Vikings,2016
+['Marcus Sherels'],Questionable: rib,week_14,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_14,Minnesota Vikings,2016
+['Harrison Smith'],Out: ankle,week_14,Minnesota Vikings,2016
+['Laquon Treadwell'],NA,week_14,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_14,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_14,Minnesota Vikings,2016
+['Mackensie Alexander'],Questionable: abdomen,week_15,Minnesota Vikings,2016
+['Matt Asiata'],Questionable: ankle,week_15,Minnesota Vikings,2016
+['Joe Berger'],Questionable: concussion,week_15,Minnesota Vikings,2016
+['Alex Boone'],NA,week_15,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_15,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_15,Minnesota Vikings,2016
+['Stefon Diggs'],NA,week_15,Minnesota Vikings,2016
+['Nick Easton'],NA,week_15,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_15,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_15,Minnesota Vikings,2016
+['Brandon Fusco'],Out: concussion,week_15,Minnesota Vikings,2016
+['Michael Griffin'],Injured Reserve: Back,week_15,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_15,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_15,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_15,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_15,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_15,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_15,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_15,Minnesota Vikings,2016
+['Zach Line'],NA,week_15,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_15,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_15,Minnesota Vikings,2016
+['David Morgan'],NA,week_15,Minnesota Vikings,2016
+['Terence Newman'],NA,week_15,Minnesota Vikings,2016
+['Adrian Peterson'],: torn right meniscus,week_15,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_15,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_15,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_15,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_15,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_15,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_15,Minnesota Vikings,2016
+['Harrison Smith'],Out: ankle,week_15,Minnesota Vikings,2016
+['Laquon Treadwell'],Out: ankle,week_15,Minnesota Vikings,2016
+['Trae Waynes'],Out: concussion,week_15,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_15,Minnesota Vikings,2016
+['Mackensie Alexander'],Injured Reserve: Abdominal,week_16,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_16,Minnesota Vikings,2016
+['Joe Berger'],NA,week_16,Minnesota Vikings,2016
+['Alex Boone'],NA,week_16,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_16,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_16,Minnesota Vikings,2016
+['Stefon Diggs'],Questionable: hip,week_16,Minnesota Vikings,2016
+['Nick Easton'],NA,week_16,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_16,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_16,Minnesota Vikings,2016
+['Brandon Fusco'],Out: concussion,week_16,Minnesota Vikings,2016
+['Michael Griffin'],NA,week_16,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_16,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_16,Minnesota Vikings,2016
+['Tom Johnson'],NA,week_16,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_16,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_16,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_16,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_16,Minnesota Vikings,2016
+['Zach Line'],Out: concussion,week_16,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_16,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_16,Minnesota Vikings,2016
+['David Morgan'],NA,week_16,Minnesota Vikings,2016
+['Terence Newman'],NA,week_16,Minnesota Vikings,2016
+['Adrian Peterson'],"Out: knee, groin",week_16,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_16,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_16,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_16,Minnesota Vikings,2016
+['Andrew Sendejo'],NA,week_16,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_16,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_16,Minnesota Vikings,2016
+['Harrison Smith'],Questionable: ankle,week_16,Minnesota Vikings,2016
+['Laquon Treadwell'],Out: ankle,week_16,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_16,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_16,Minnesota Vikings,2016
+['Mackensie Alexander'],Injured Reserve: Abdominal,week_17,Minnesota Vikings,2016
+['Matt Asiata'],NA,week_17,Minnesota Vikings,2016
+['Joe Berger'],NA,week_17,Minnesota Vikings,2016
+['Alex Boone'],Doubtful: back,week_17,Minnesota Vikings,2016
+['Teddy Bridgewater'],Injured Reserve: Knee,week_17,Minnesota Vikings,2016
+['Scott Crichton'],Injured Reserve: Undisclosed,week_17,Minnesota Vikings,2016
+['Stefon Diggs'],Doubtful: hip,week_17,Minnesota Vikings,2016
+['Nick Easton'],NA,week_17,Minnesota Vikings,2016
+['Antone Exum'],Injured Reserve: Leg,week_17,Minnesota Vikings,2016
+['Sharrif Floyd'],Injured Reserve: Knee,week_17,Minnesota Vikings,2016
+['Brandon Fusco'],NA,week_17,Minnesota Vikings,2016
+['Michael Griffin'],NA,week_17,Minnesota Vikings,2016
+['Mike Harris'],Injured Reserve: Illness,week_17,Minnesota Vikings,2016
+['Taylor Heinicke'],Injured Reserve: Foot,week_17,Minnesota Vikings,2016
+['Tom Johnson'],Injured Reserve: Hamstring,week_17,Minnesota Vikings,2016
+['Linval Joseph'],NA,week_17,Minnesota Vikings,2016
+['Matt Kalil'],Injured Reserve: Hip,week_17,Minnesota Vikings,2016
+['Eric Kendricks'],NA,week_17,Minnesota Vikings,2016
+['Zac Kerin'],NA,week_17,Minnesota Vikings,2016
+['Zach Line'],NA,week_17,Minnesota Vikings,2016
+['Jake Long'],Injured Reserve: Achilles,week_17,Minnesota Vikings,2016
+['Jerick McKinnon'],NA,week_17,Minnesota Vikings,2016
+['David Morgan'],NA,week_17,Minnesota Vikings,2016
+['Terence Newman'],NA,week_17,Minnesota Vikings,2016
+['Adrian Peterson'],"Out: knee, groin",week_17,Minnesota Vikings,2016
+['Jabari Price'],Injured Reserve: Knee,week_17,Minnesota Vikings,2016
+['Xavier Rhodes'],NA,week_17,Minnesota Vikings,2016
+['Edmond Robinson'],NA,week_17,Minnesota Vikings,2016
+['Andrew Sendejo'],Out: knee,week_17,Minnesota Vikings,2016
+['Marcus Sherels'],NA,week_17,Minnesota Vikings,2016
+['Andre Smith'],Injured Reserve: Tricep,week_17,Minnesota Vikings,2016
+['Harrison Smith'],NA,week_17,Minnesota Vikings,2016
+['Laquon Treadwell'],Doubtful: ankle,week_17,Minnesota Vikings,2016
+['Trae Waynes'],NA,week_17,Minnesota Vikings,2016
+['Jarius Wright'],NA,week_17,Minnesota Vikings,2016

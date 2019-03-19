@@ -1,0 +1,513 @@
+﻿name,injury,week,team,year
+['Arik Armstead'],Questionable: shoulder,week_1,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],NA,week_1,San Francisco 49ers,2016
+['Blake Bell'],NA,week_1,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_1,San Francisco 49ers,2016
+['NaVorro Bowman'],NA,week_1,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_1,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_1,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_1,San Francisco 49ers,2016
+['Anthony Davis'],Questionable: not injury related,week_1,San Francisco 49ers,2016
+['Chris Davis'],Doubtful: hamstring,week_1,San Francisco 49ers,2016
+['Quinton Dial'],Questionable: knee,week_1,San Francisco 49ers,2016
+['Glenn Dorsey'],Questionable: knee,week_1,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_1,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_1,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_1,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_1,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_1,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_1,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_1,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_1,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_1,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_1,San Francisco 49ers,2016
+['Keith Reaser'],Questionable: ankle,week_1,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_1,San Francisco 49ers,2016
+['Eric Reid'],NA,week_1,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_1,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_1,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_1,San Francisco 49ers,2016
+['Joe Staley'],NA,week_1,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_1,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_1,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_1,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_2,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],NA,week_2,San Francisco 49ers,2016
+['Blake Bell'],NA,week_2,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_2,San Francisco 49ers,2016
+['NaVorro Bowman'],NA,week_2,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_2,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_2,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_2,San Francisco 49ers,2016
+['Anthony Davis'],Out: concussion,week_2,San Francisco 49ers,2016
+['Chris Davis'],Questionable: hamstring,week_2,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_2,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_2,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_2,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_2,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_2,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_2,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_2,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_2,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_2,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_2,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_2,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_2,San Francisco 49ers,2016
+['Keith Reaser'],Questionable: ankle,week_2,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_2,San Francisco 49ers,2016
+['Eric Reid'],NA,week_2,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_2,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_2,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_2,San Francisco 49ers,2016
+['Joe Staley'],NA,week_2,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_2,San Francisco 49ers,2016
+['Andrew Tiller'],Questionable: ankle,week_2,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_2,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_3,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_3,San Francisco 49ers,2016
+['Blake Bell'],NA,week_3,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_3,San Francisco 49ers,2016
+['NaVorro Bowman'],NA,week_3,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_3,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_3,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_3,San Francisco 49ers,2016
+['Anthony Davis'],Out: concussion,week_3,San Francisco 49ers,2016
+['Chris Davis'],NA,week_3,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_3,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_3,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_3,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_3,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_3,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_3,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_3,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_3,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_3,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_3,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_3,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_3,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_3,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_3,San Francisco 49ers,2016
+['Eric Reid'],NA,week_3,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_3,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_3,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_3,San Francisco 49ers,2016
+['Joe Staley'],NA,week_3,San Francisco 49ers,2016
+['Jaquiski Tartt'],Questionable: knee,week_3,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_3,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_3,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_4,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_4,San Francisco 49ers,2016
+['Blake Bell'],NA,week_4,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_4,San Francisco 49ers,2016
+['NaVorro Bowman'],NA,week_4,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_4,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_4,San Francisco 49ers,2016
+['Garrett Celek'],Questionable: back,week_4,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_4,San Francisco 49ers,2016
+['Chris Davis'],NA,week_4,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_4,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_4,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_4,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_4,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_4,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_4,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_4,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_4,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_4,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_4,San Francisco 49ers,2016
+['Vance McDonald'],Questionable: hip,week_4,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_4,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_4,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_4,San Francisco 49ers,2016
+['Eric Reid'],NA,week_4,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_4,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_4,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_4,San Francisco 49ers,2016
+['Joe Staley'],NA,week_4,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_4,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_4,San Francisco 49ers,2016
+['Jimmie Ward'],Out: quadriceps,week_4,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_5,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_5,San Francisco 49ers,2016
+['Blake Bell'],NA,week_5,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_5,San Francisco 49ers,2016
+['NaVorro Bowman'],Out: Achilles,week_5,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_5,San Francisco 49ers,2016
+['DeForest Buckner'],Out: foot,week_5,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_5,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_5,San Francisco 49ers,2016
+['Chris Davis'],NA,week_5,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_5,San Francisco 49ers,2016
+['Glenn Dorsey'],Questionable: knee,week_5,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_5,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_5,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_5,San Francisco 49ers,2016
+['Jeremy Kerley'],Questionable: ankle,week_5,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_5,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_5,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_5,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_5,San Francisco 49ers,2016
+['Vance McDonald'],Questionable: hip,week_5,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_5,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_5,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_5,San Francisco 49ers,2016
+['Eric Reid'],NA,week_5,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_5,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_5,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_5,San Francisco 49ers,2016
+['Joe Staley'],NA,week_5,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_5,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_5,San Francisco 49ers,2016
+['Jimmie Ward'],Out: quadriceps,week_5,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_6,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_6,San Francisco 49ers,2016
+['Blake Bell'],NA,week_6,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_6,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_6,San Francisco 49ers,2016
+['Ahmad Brooks'],Questionable: groin,week_6,San Francisco 49ers,2016
+['DeForest Buckner'],Questionable: foot,week_6,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_6,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_6,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_6,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_6,San Francisco 49ers,2016
+['Glenn Dorsey'],Questionable: knee,week_6,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_6,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_6,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_6,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_6,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_6,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_6,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_6,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_6,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_6,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_6,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_6,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_6,San Francisco 49ers,2016
+['Eric Reid'],NA,week_6,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_6,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_6,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_6,San Francisco 49ers,2016
+['Joe Staley'],NA,week_6,San Francisco 49ers,2016
+['Jaquiski Tartt'],Questionable: quadriceps,week_6,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_6,San Francisco 49ers,2016
+['Jimmie Ward'],Out: quadriceps,week_6,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_7,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_7,San Francisco 49ers,2016
+['Blake Bell'],NA,week_7,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_7,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_7,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_7,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_7,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_7,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_7,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_7,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_7,San Francisco 49ers,2016
+['Glenn Dorsey'],Questionable: knee,week_7,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_7,San Francisco 49ers,2016
+['Carlos Hyde'],Out: shoulder,week_7,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_7,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_7,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_7,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_7,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_7,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_7,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_7,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_7,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_7,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_7,San Francisco 49ers,2016
+['Eric Reid'],NA,week_7,San Francisco 49ers,2016
+['Rashard Robinson'],Questionable: concussion,week_7,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_7,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_7,San Francisco 49ers,2016
+['Joe Staley'],NA,week_7,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_7,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_7,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_7,San Francisco 49ers,2016
+['Arik Armstead'],NA,week_9,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_9,San Francisco 49ers,2016
+['Blake Bell'],NA,week_9,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_9,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_9,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_9,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_9,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_9,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_9,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_9,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_9,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_9,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_9,San Francisco 49ers,2016
+['Carlos Hyde'],Questionable: shoulder,week_9,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_9,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_9,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_9,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_9,San Francisco 49ers,2016
+['Aaron Lynch'],Out: ankle,week_9,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_9,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_9,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_9,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_9,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_9,San Francisco 49ers,2016
+['Eric Reid'],NA,week_9,San Francisco 49ers,2016
+['Rashard Robinson'],Out: knee,week_9,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_9,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_9,San Francisco 49ers,2016
+['Joe Staley'],NA,week_9,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_9,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_9,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_9,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_10,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_10,San Francisco 49ers,2016
+['Blake Bell'],NA,week_10,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_10,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_10,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_10,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_10,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_10,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_10,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_10,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_10,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_10,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_10,San Francisco 49ers,2016
+['Carlos Hyde'],Questionable: shoulder,week_10,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_10,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_10,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_10,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_10,San Francisco 49ers,2016
+['Aaron Lynch'],Out: ankle,week_10,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_10,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_10,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_10,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_10,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_10,San Francisco 49ers,2016
+['Eric Reid'],NA,week_10,San Francisco 49ers,2016
+['Rashard Robinson'],Questionable: back,week_10,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_10,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_10,San Francisco 49ers,2016
+['Joe Staley'],NA,week_10,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_10,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_10,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_10,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_11,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_11,San Francisco 49ers,2016
+['Blake Bell'],NA,week_11,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_11,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_11,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_11,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_11,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_11,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_11,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_11,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_11,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_11,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_11,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_11,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_11,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_11,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_11,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_11,San Francisco 49ers,2016
+['Aaron Lynch'],Out: ankle,week_11,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_11,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_11,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_11,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_11,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_11,San Francisco 49ers,2016
+['Eric Reid'],NA,week_11,San Francisco 49ers,2016
+['Rashard Robinson'],Questionable: knee,week_11,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_11,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_11,San Francisco 49ers,2016
+['Joe Staley'],NA,week_11,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_11,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_11,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_11,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_12,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_12,San Francisco 49ers,2016
+['Blake Bell'],NA,week_12,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_12,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_12,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_12,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_12,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_12,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_12,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_12,San Francisco 49ers,2016
+['Quinton Dial'],"Questionable: knee, neck",week_12,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_12,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_12,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_12,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_12,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_12,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_12,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_12,San Francisco 49ers,2016
+['Aaron Lynch'],Questionable: ankle,week_12,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_12,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_12,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_12,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_12,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_12,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_12,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_12,San Francisco 49ers,2016
+['Shayne Skov'],NA,week_12,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_12,San Francisco 49ers,2016
+['Joe Staley'],NA,week_12,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_12,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_12,San Francisco 49ers,2016
+['Jimmie Ward'],Questionable: concussion,week_12,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_13,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_13,San Francisco 49ers,2016
+['Blake Bell'],NA,week_13,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_13,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_13,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_13,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_13,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_13,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_13,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_13,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_13,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_13,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_13,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_13,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_13,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_13,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_13,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_13,San Francisco 49ers,2016
+['Aaron Lynch'],Questionable: ankle,week_13,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_13,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_13,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_13,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_13,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_13,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_13,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_13,San Francisco 49ers,2016
+['Shayne Skov'],Injured Reserve: Knee,week_13,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_13,San Francisco 49ers,2016
+['Joe Staley'],NA,week_13,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_13,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_13,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_13,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_14,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_14,San Francisco 49ers,2016
+['Blake Bell'],NA,week_14,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_14,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_14,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_14,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_14,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_14,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_14,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_14,San Francisco 49ers,2016
+['Quinton Dial'],Questionable: elbow,week_14,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_14,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_14,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_14,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_14,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_14,San Francisco 49ers,2016
+['Daniel Kilgore'],NA,week_14,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_14,San Francisco 49ers,2016
+['Aaron Lynch'],Questionable: ankle,week_14,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_14,San Francisco 49ers,2016
+['Vance McDonald'],NA,week_14,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_14,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_14,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_14,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_14,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_14,San Francisco 49ers,2016
+['Shayne Skov'],Injured Reserve: Knee,week_14,San Francisco 49ers,2016
+['Torrey Smith'],NA,week_14,San Francisco 49ers,2016
+['Joe Staley'],Doubtful: hamstring,week_14,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_14,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_14,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_14,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_15,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_15,San Francisco 49ers,2016
+['Blake Bell'],NA,week_15,San Francisco 49ers,2016
+['Nick Bellore'],NA,week_15,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_15,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_15,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_15,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_15,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_15,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_15,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_15,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_15,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_15,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_15,San Francisco 49ers,2016
+['Dontae Johnson'],NA,week_15,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_15,San Francisco 49ers,2016
+['Daniel Kilgore'],Injured Reserve: Hamstring,week_15,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_15,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_15,San Francisco 49ers,2016
+['Marcus Martin'],NA,week_15,San Francisco 49ers,2016
+['Vance McDonald'],Injured Reserve: Shoulder,week_15,San Francisco 49ers,2016
+['Quinton Patton'],NA,week_15,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_15,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_15,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_15,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_15,San Francisco 49ers,2016
+['Shayne Skov'],Injured Reserve: Knee,week_15,San Francisco 49ers,2016
+['Torrey Smith'],Injured Reserve: Concussion,week_15,San Francisco 49ers,2016
+['Joe Staley'],Doubtful: hamstring,week_15,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_15,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_15,San Francisco 49ers,2016
+['Jimmie Ward'],NA,week_15,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_16,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_16,San Francisco 49ers,2016
+['Blake Bell'],Injured Reserve: Shoulder,week_16,San Francisco 49ers,2016
+['Nick Bellore'],Injured Reserve: Elbow,week_16,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_16,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_16,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_16,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_16,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_16,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_16,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_16,San Francisco 49ers,2016
+['Glenn Dorsey'],"Questionable: knee, ribs",week_16,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_16,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_16,San Francisco 49ers,2016
+['Dontae Johnson'],Doubtful: groin,week_16,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_16,San Francisco 49ers,2016
+['Daniel Kilgore'],Injured Reserve: Hamstring,week_16,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_16,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_16,San Francisco 49ers,2016
+['Marcus Martin'],Injured Reserve: Ankle,week_16,San Francisco 49ers,2016
+['Vance McDonald'],Injured Reserve: Shoulder,week_16,San Francisco 49ers,2016
+['Quinton Patton'],Injured Reserve: Foot,week_16,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_16,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_16,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_16,San Francisco 49ers,2016
+['Rashard Robinson'],NA,week_16,San Francisco 49ers,2016
+['Shayne Skov'],Injured Reserve: Knee,week_16,San Francisco 49ers,2016
+['Torrey Smith'],Injured Reserve: Concussion,week_16,San Francisco 49ers,2016
+['Joe Staley'],Doubtful: hamstring,week_16,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_16,San Francisco 49ers,2016
+['Andrew Tiller'],NA,week_16,San Francisco 49ers,2016
+['Jimmie Ward'],Injured Reserve: Collarbone,week_16,San Francisco 49ers,2016
+['Arik Armstead'],Injured Reserve: Shoulder,week_17,San Francisco 49ers,2016
+['Ray-Ray Armstrong'],Injured Reserve: Pectoral,week_17,San Francisco 49ers,2016
+['Blake Bell'],Injured Reserve: Shoulder,week_17,San Francisco 49ers,2016
+['Nick Bellore'],Injured Reserve: Elbow,week_17,San Francisco 49ers,2016
+['NaVorro Bowman'],Injured Reserve: Achilles,week_17,San Francisco 49ers,2016
+['Ahmad Brooks'],NA,week_17,San Francisco 49ers,2016
+['DeForest Buckner'],NA,week_17,San Francisco 49ers,2016
+['Garrett Celek'],NA,week_17,San Francisco 49ers,2016
+['Anthony Davis'],NA,week_17,San Francisco 49ers,2016
+['Chris Davis'],Injured Reserve: Knee,week_17,San Francisco 49ers,2016
+['Quinton Dial'],NA,week_17,San Francisco 49ers,2016
+['Glenn Dorsey'],NA,week_17,San Francisco 49ers,2016
+['Bruce Ellington'],Injured Reserve: Hamstring,week_17,San Francisco 49ers,2016
+['Carlos Hyde'],NA,week_17,San Francisco 49ers,2016
+['Dontae Johnson'],Questionable: groin,week_17,San Francisco 49ers,2016
+['Jeremy Kerley'],NA,week_17,San Francisco 49ers,2016
+['Daniel Kilgore'],Injured Reserve: Hamstring,week_17,San Francisco 49ers,2016
+['Thaddeus Lewis'],Injured Reserve: Knee,week_17,San Francisco 49ers,2016
+['Aaron Lynch'],NA,week_17,San Francisco 49ers,2016
+['Marcus Martin'],Injured Reserve: Ankle,week_17,San Francisco 49ers,2016
+['Vance McDonald'],Injured Reserve: Shoulder,week_17,San Francisco 49ers,2016
+['Quinton Patton'],Injured Reserve: Foot,week_17,San Francisco 49ers,2016
+['Keith Reaser'],NA,week_17,San Francisco 49ers,2016
+['Will Redmond'],Injured Reserve: Knee,week_17,San Francisco 49ers,2016
+['Eric Reid'],Injured Reserve: Bicep,week_17,San Francisco 49ers,2016
+['Rashard Robinson'],Questionable: hamstring,week_17,San Francisco 49ers,2016
+['Shayne Skov'],Injured Reserve: Knee,week_17,San Francisco 49ers,2016
+['Torrey Smith'],Injured Reserve: Concussion,week_17,San Francisco 49ers,2016
+['Joe Staley'],Questionable: hamstring,week_17,San Francisco 49ers,2016
+['Jaquiski Tartt'],NA,week_17,San Francisco 49ers,2016
+['Andrew Tiller'],Out: ankle,week_17,San Francisco 49ers,2016
+['Jimmie Ward'],Injured Reserve: Collarbone,week_17,San Francisco 49ers,2016

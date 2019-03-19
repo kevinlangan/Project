@@ -1,0 +1,737 @@
+﻿name,injury,week,team,year
+[''],NA,week_1,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_1,New Orleans Saints,2016
+['Terron Armstead'],"Questionable: knee, quadricep",week_1,New Orleans Saints,2016
+['Chris Banjo'],Doubtful: hamstring,week_1,New Orleans Saints,2016
+['Sam Barrington'],NA,week_1,New Orleans Saints,2016
+['Delvin Breaux'],: broken left fibula,week_1,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_1,New Orleans Saints,2016
+['Tony Carter'],NA,week_1,New Orleans Saints,2016
+['Ken Crawley'],NA,week_1,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_1,New Orleans Saints,2016
+['Dannell Ellerbe'],Out: quadriceps,week_1,New Orleans Saints,2016
+['Obum Gwacham'],NA,week_1,New Orleans Saints,2016
+['Erik Harris'],NA,week_1,New Orleans Saints,2016
+['Josh Hill'],NA,week_1,New Orleans Saints,2016
+['Tony Hills'],NA,week_1,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_1,New Orleans Saints,2016
+['Mark Ingram'],NA,week_1,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_1,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_1,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_1,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_1,New Orleans Saints,2016
+['Paul Kruger'],NA,week_1,New Orleans Saints,2016
+['John Kuhn'],NA,week_1,New Orleans Saints,2016
+['Jake Lampman'],NA,week_1,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_1,New Orleans Saints,2016
+['James Laurinaitis'],NA,week_1,New Orleans Saints,2016
+['Michael Mauti'],NA,week_1,New Orleans Saints,2016
+['Sterling Moore'],NA,week_1,New Orleans Saints,2016
+['David Onyemata'],NA,week_1,New Orleans Saints,2016
+['Andrus Peat'],NA,week_1,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_1,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_1,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_1,New Orleans Saints,2016
+['Craig Robertson'],NA,week_1,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2016
+['Willie Snead'],NA,week_1,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_1,New Orleans Saints,2016
+['Michael Thomas'],Questionable: ankle,week_1,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2016
+['Max Unger'],NA,week_1,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_1,New Orleans Saints,2016
+['P.J. Williams'],NA,week_1,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_1,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_2,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_2,New Orleans Saints,2016
+['Terron Armstead'],Questionable: quadriceps,week_2,New Orleans Saints,2016
+['Chris Banjo'],Doubtful: hamstring,week_2,New Orleans Saints,2016
+['Sam Barrington'],Out: hamstring,week_2,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_2,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_2,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+['Ken Crawley'],NA,week_2,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_2,New Orleans Saints,2016
+['Dannell Ellerbe'],Out: quadriceps,week_2,New Orleans Saints,2016
+['Obum Gwacham'],NA,week_2,New Orleans Saints,2016
+['Erik Harris'],NA,week_2,New Orleans Saints,2016
+['Josh Hill'],Out: ankle,week_2,New Orleans Saints,2016
+['Tony Hills'],NA,week_2,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_2,New Orleans Saints,2016
+['Mark Ingram'],NA,week_2,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_2,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_2,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_2,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_2,New Orleans Saints,2016
+['Paul Kruger'],NA,week_2,New Orleans Saints,2016
+['John Kuhn'],NA,week_2,New Orleans Saints,2016
+['Jake Lampman'],NA,week_2,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_2,New Orleans Saints,2016
+['James Laurinaitis'],NA,week_2,New Orleans Saints,2016
+['Michael Mauti'],NA,week_2,New Orleans Saints,2016
+['Sterling Moore'],NA,week_2,New Orleans Saints,2016
+['David Onyemata'],NA,week_2,New Orleans Saints,2016
+['Andrus Peat'],NA,week_2,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_2,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_2,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_2,New Orleans Saints,2016
+['Craig Robertson'],NA,week_2,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+['Willie Snead'],NA,week_2,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_2,New Orleans Saints,2016
+['Michael Thomas'],NA,week_2,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+['Max Unger'],NA,week_2,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_2,New Orleans Saints,2016
+['P.J. Williams'],NA,week_2,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_2,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_3,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_3,New Orleans Saints,2016
+['Terron Armstead'],Out: knee,week_3,New Orleans Saints,2016
+['Chris Banjo'],NA,week_3,New Orleans Saints,2016
+['Sam Barrington'],NA,week_3,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_3,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_3,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+['Ken Crawley'],NA,week_3,New Orleans Saints,2016
+['Tyeler Davison'],"Questionable: shoulder, foot",week_3,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: quadriceps,week_3,New Orleans Saints,2016
+['Obum Gwacham'],NA,week_3,New Orleans Saints,2016
+['Erik Harris'],NA,week_3,New Orleans Saints,2016
+['Josh Hill'],Questionable: ankle,week_3,New Orleans Saints,2016
+['Tony Hills'],NA,week_3,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_3,New Orleans Saints,2016
+['Mark Ingram'],NA,week_3,New Orleans Saints,2016
+['Cameron Jordan'],Questionable: knee,week_3,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_3,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_3,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_3,New Orleans Saints,2016
+['Paul Kruger'],NA,week_3,New Orleans Saints,2016
+['John Kuhn'],NA,week_3,New Orleans Saints,2016
+['Jake Lampman'],NA,week_3,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_3,New Orleans Saints,2016
+['James Laurinaitis'],NA,week_3,New Orleans Saints,2016
+['Michael Mauti'],NA,week_3,New Orleans Saints,2016
+['Sterling Moore'],NA,week_3,New Orleans Saints,2016
+['David Onyemata'],NA,week_3,New Orleans Saints,2016
+['Andrus Peat'],NA,week_3,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_3,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_3,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_3,New Orleans Saints,2016
+['Craig Robertson'],NA,week_3,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+['Willie Snead'],Questionable: toe,week_3,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_3,New Orleans Saints,2016
+['Michael Thomas'],NA,week_3,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+['Max Unger'],NA,week_3,New Orleans Saints,2016
+['Kenny Vaccaro'],Questionable: ankle,week_3,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_3,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_3,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_4,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_4,New Orleans Saints,2016
+['Terron Armstead'],Out: knee,week_4,New Orleans Saints,2016
+['Chris Banjo'],NA,week_4,New Orleans Saints,2016
+['Sam Barrington'],NA,week_4,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_4,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_4,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Ken Crawley'],NA,week_4,New Orleans Saints,2016
+['Tyeler Davison'],"Questionable: shoulder, foot",week_4,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: quadriceps,week_4,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Erik Harris'],NA,week_4,New Orleans Saints,2016
+['Josh Hill'],Out: ankle,week_4,New Orleans Saints,2016
+['Tony Hills'],NA,week_4,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_4,New Orleans Saints,2016
+['Mark Ingram'],NA,week_4,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_4,New Orleans Saints,2016
+['Senio Kelemete'],Out: hamstring,week_4,New Orleans Saints,2016
+['Shiloh Keo'],Questionable: knee,week_4,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_4,New Orleans Saints,2016
+['Paul Kruger'],NA,week_4,New Orleans Saints,2016
+['John Kuhn'],NA,week_4,New Orleans Saints,2016
+['Jake Lampman'],NA,week_4,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_4,New Orleans Saints,2016
+['James Laurinaitis'],Questionable: quadriceps,week_4,New Orleans Saints,2016
+['Michael Mauti'],NA,week_4,New Orleans Saints,2016
+['Sterling Moore'],NA,week_4,New Orleans Saints,2016
+['David Onyemata'],NA,week_4,New Orleans Saints,2016
+['Andrus Peat'],NA,week_4,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_4,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_4,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_4,New Orleans Saints,2016
+['Craig Robertson'],NA,week_4,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Willie Snead'],Questionable: toe,week_4,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_4,New Orleans Saints,2016
+['Michael Thomas'],NA,week_4,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+['Max Unger'],NA,week_4,New Orleans Saints,2016
+['Kenny Vaccaro'],Questionable: ankle,week_4,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_4,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_4,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_6,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_6,New Orleans Saints,2016
+['Terron Armstead'],Out: knee,week_6,New Orleans Saints,2016
+['Chris Banjo'],Out: hamstring,week_6,New Orleans Saints,2016
+['Sam Barrington'],NA,week_6,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_6,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_6,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Ken Crawley'],NA,week_6,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_6,New Orleans Saints,2016
+['Dannell Ellerbe'],Out: quadriceps,week_6,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_6,New Orleans Saints,2016
+['Josh Hill'],Questionable: ankle,week_6,New Orleans Saints,2016
+['Tony Hills'],NA,week_6,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_6,New Orleans Saints,2016
+['Mark Ingram'],NA,week_6,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_6,New Orleans Saints,2016
+['Senio Kelemete'],Questionable: hamstring,week_6,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_6,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_6,New Orleans Saints,2016
+['Paul Kruger'],Questionable: back,week_6,New Orleans Saints,2016
+['John Kuhn'],NA,week_6,New Orleans Saints,2016
+['Jake Lampman'],NA,week_6,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_6,New Orleans Saints,2016
+['James Laurinaitis'],Questionable: quadriceps,week_6,New Orleans Saints,2016
+['Michael Mauti'],NA,week_6,New Orleans Saints,2016
+['Sterling Moore'],NA,week_6,New Orleans Saints,2016
+['David Onyemata'],NA,week_6,New Orleans Saints,2016
+['Andrus Peat'],NA,week_6,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_6,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_6,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_6,New Orleans Saints,2016
+['Craig Robertson'],NA,week_6,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Willie Snead'],NA,week_6,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_6,New Orleans Saints,2016
+['Michael Thomas'],NA,week_6,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+['Max Unger'],NA,week_6,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_6,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_6,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_6,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_7,New Orleans Saints,2016
+['Stephone Anthony'],Out: hamstring,week_7,New Orleans Saints,2016
+['Terron Armstead'],Questionable: knee,week_7,New Orleans Saints,2016
+['Chris Banjo'],NA,week_7,New Orleans Saints,2016
+['Sam Barrington'],NA,week_7,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_7,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_7,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Ken Crawley'],NA,week_7,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_7,New Orleans Saints,2016
+['Dannell Ellerbe'],Out: quadriceps,week_7,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_7,New Orleans Saints,2016
+['Josh Hill'],NA,week_7,New Orleans Saints,2016
+['Tony Hills'],NA,week_7,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_7,New Orleans Saints,2016
+['Mark Ingram'],NA,week_7,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_7,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_7,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_7,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_7,New Orleans Saints,2016
+['Paul Kruger'],Questionable: back,week_7,New Orleans Saints,2016
+['John Kuhn'],NA,week_7,New Orleans Saints,2016
+['Jake Lampman'],NA,week_7,New Orleans Saints,2016
+['Daniel Lasco'],Out: hamstring,week_7,New Orleans Saints,2016
+['James Laurinaitis'],NA,week_7,New Orleans Saints,2016
+['Michael Mauti'],NA,week_7,New Orleans Saints,2016
+['Sterling Moore'],Out: abdomen,week_7,New Orleans Saints,2016
+['David Onyemata'],NA,week_7,New Orleans Saints,2016
+['Andrus Peat'],Out: groin,week_7,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_7,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_7,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_7,New Orleans Saints,2016
+['Craig Robertson'],NA,week_7,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Willie Snead'],NA,week_7,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_7,New Orleans Saints,2016
+['Michael Thomas'],NA,week_7,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+['Max Unger'],NA,week_7,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_7,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_7,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_7,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_8,New Orleans Saints,2016
+['Stephone Anthony'],Out: hamstring,week_8,New Orleans Saints,2016
+['Terron Armstead'],Questionable: knee,week_8,New Orleans Saints,2016
+['Chris Banjo'],NA,week_8,New Orleans Saints,2016
+['Sam Barrington'],NA,week_8,New Orleans Saints,2016
+['Delvin Breaux'],Out: fibula,week_8,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_8,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Ken Crawley'],NA,week_8,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_8,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: quadriceps,week_8,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_8,New Orleans Saints,2016
+['Josh Hill'],NA,week_8,New Orleans Saints,2016
+['Tony Hills'],NA,week_8,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_8,New Orleans Saints,2016
+['Mark Ingram'],NA,week_8,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_8,New Orleans Saints,2016
+['Senio Kelemete'],Questionable: neck,week_8,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_8,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_8,New Orleans Saints,2016
+['Paul Kruger'],NA,week_8,New Orleans Saints,2016
+['John Kuhn'],NA,week_8,New Orleans Saints,2016
+['Jake Lampman'],Out: knee,week_8,New Orleans Saints,2016
+['Daniel Lasco'],Questionable: hamstring,week_8,New Orleans Saints,2016
+['James Laurinaitis'],NA,week_8,New Orleans Saints,2016
+['Michael Mauti'],NA,week_8,New Orleans Saints,2016
+['Sterling Moore'],Out: abdomen,week_8,New Orleans Saints,2016
+['David Onyemata'],NA,week_8,New Orleans Saints,2016
+['Andrus Peat'],Questionable: groin,week_8,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_8,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_8,New Orleans Saints,2016
+['Sheldon Rankins'],Injured Reserve: Leg,week_8,New Orleans Saints,2016
+['Craig Robertson'],NA,week_8,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Willie Snead'],NA,week_8,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_8,New Orleans Saints,2016
+['Michael Thomas'],NA,week_8,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+['Max Unger'],NA,week_8,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_8,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_8,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_8,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_9,New Orleans Saints,2016
+['Stephone Anthony'],Questionable: hamstring,week_9,New Orleans Saints,2016
+['Terron Armstead'],Questionable: knee,week_9,New Orleans Saints,2016
+['Chris Banjo'],NA,week_9,New Orleans Saints,2016
+['Sam Barrington'],NA,week_9,New Orleans Saints,2016
+['Delvin Breaux'],Questionable: fibula,week_9,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_9,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Ken Crawley'],NA,week_9,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_9,New Orleans Saints,2016
+['Dannell Ellerbe'],Out: quadriceps,week_9,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_9,New Orleans Saints,2016
+['Josh Hill'],NA,week_9,New Orleans Saints,2016
+['Tony Hills'],NA,week_9,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_9,New Orleans Saints,2016
+['Mark Ingram'],NA,week_9,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_9,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_9,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_9,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_9,New Orleans Saints,2016
+['Paul Kruger'],NA,week_9,New Orleans Saints,2016
+['John Kuhn'],NA,week_9,New Orleans Saints,2016
+['Jake Lampman'],Questionable: knee,week_9,New Orleans Saints,2016
+['Daniel Lasco'],Out: hamstring,week_9,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_9,New Orleans Saints,2016
+['Michael Mauti'],NA,week_9,New Orleans Saints,2016
+['Sterling Moore'],Questionable: abdomen,week_9,New Orleans Saints,2016
+['David Onyemata'],NA,week_9,New Orleans Saints,2016
+['Andrus Peat'],NA,week_9,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_9,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_9,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_9,New Orleans Saints,2016
+['Craig Robertson'],NA,week_9,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Willie Snead'],NA,week_9,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_9,New Orleans Saints,2016
+['Michael Thomas'],NA,week_9,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+['Max Unger'],NA,week_9,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_9,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_9,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_9,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_10,New Orleans Saints,2016
+['Stephone Anthony'],Out: hamstring,week_10,New Orleans Saints,2016
+['Terron Armstead'],Questionable: knee,week_10,New Orleans Saints,2016
+['Chris Banjo'],NA,week_10,New Orleans Saints,2016
+['Sam Barrington'],NA,week_10,New Orleans Saints,2016
+['Delvin Breaux'],: broken left fibula,week_10,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_10,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Ken Crawley'],NA,week_10,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_10,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: quadriceps,week_10,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_10,New Orleans Saints,2016
+['Josh Hill'],NA,week_10,New Orleans Saints,2016
+['Tony Hills'],NA,week_10,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_10,New Orleans Saints,2016
+['Mark Ingram'],NA,week_10,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_10,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_10,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_10,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_10,New Orleans Saints,2016
+['Paul Kruger'],NA,week_10,New Orleans Saints,2016
+['John Kuhn'],NA,week_10,New Orleans Saints,2016
+['Jake Lampman'],NA,week_10,New Orleans Saints,2016
+['Daniel Lasco'],Questionable: hamstring,week_10,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_10,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_10,New Orleans Saints,2016
+['Sterling Moore'],NA,week_10,New Orleans Saints,2016
+['David Onyemata'],NA,week_10,New Orleans Saints,2016
+['Andrus Peat'],NA,week_10,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_10,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_10,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_10,New Orleans Saints,2016
+['Craig Robertson'],NA,week_10,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Willie Snead'],NA,week_10,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_10,New Orleans Saints,2016
+['Michael Thomas'],NA,week_10,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+['Max Unger'],NA,week_10,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_10,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_10,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_10,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_11,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_11,New Orleans Saints,2016
+['Terron Armstead'],"Out: knee, quadriceps",week_11,New Orleans Saints,2016
+['Chris Banjo'],NA,week_11,New Orleans Saints,2016
+['Sam Barrington'],NA,week_11,New Orleans Saints,2016
+['Delvin Breaux'],Questionable: fibula,week_11,New Orleans Saints,2016
+['Travaris Cadet'],Questionable: toe,week_11,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Ken Crawley'],NA,week_11,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_11,New Orleans Saints,2016
+['Dannell Ellerbe'],NA,week_11,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_11,New Orleans Saints,2016
+['Josh Hill'],NA,week_11,New Orleans Saints,2016
+['Tony Hills'],NA,week_11,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_11,New Orleans Saints,2016
+['Mark Ingram'],NA,week_11,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_11,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_11,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_11,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_11,New Orleans Saints,2016
+['Paul Kruger'],NA,week_11,New Orleans Saints,2016
+['John Kuhn'],NA,week_11,New Orleans Saints,2016
+['Jake Lampman'],NA,week_11,New Orleans Saints,2016
+['Daniel Lasco'],Out: hamstring,week_11,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_11,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_11,New Orleans Saints,2016
+['Sterling Moore'],NA,week_11,New Orleans Saints,2016
+['David Onyemata'],NA,week_11,New Orleans Saints,2016
+['Andrus Peat'],NA,week_11,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_11,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_11,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_11,New Orleans Saints,2016
+['Craig Robertson'],NA,week_11,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Willie Snead'],NA,week_11,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_11,New Orleans Saints,2016
+['Michael Thomas'],NA,week_11,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+['Max Unger'],NA,week_11,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_11,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_11,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_11,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_12,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_12,New Orleans Saints,2016
+['Terron Armstead'],"Questionable: knee, quadriceps",week_12,New Orleans Saints,2016
+['Chris Banjo'],NA,week_12,New Orleans Saints,2016
+['Sam Barrington'],NA,week_12,New Orleans Saints,2016
+['Delvin Breaux'],: broken left fibula,week_12,New Orleans Saints,2016
+['Travaris Cadet'],Questionable: toe,week_12,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Ken Crawley'],NA,week_12,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_12,New Orleans Saints,2016
+['Dannell Ellerbe'],NA,week_12,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_12,New Orleans Saints,2016
+['Josh Hill'],NA,week_12,New Orleans Saints,2016
+['Tony Hills'],Questionable: abdomen,week_12,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_12,New Orleans Saints,2016
+['Mark Ingram'],Questionable: concussion,week_12,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_12,New Orleans Saints,2016
+['Senio Kelemete'],Questionable: triceps,week_12,New Orleans Saints,2016
+['Shiloh Keo'],Questionable: neck,week_12,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_12,New Orleans Saints,2016
+['Paul Kruger'],NA,week_12,New Orleans Saints,2016
+['John Kuhn'],NA,week_12,New Orleans Saints,2016
+['Jake Lampman'],NA,week_12,New Orleans Saints,2016
+['Daniel Lasco'],Out: hamstring,week_12,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_12,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_12,New Orleans Saints,2016
+['Sterling Moore'],NA,week_12,New Orleans Saints,2016
+['David Onyemata'],Questionable: knee,week_12,New Orleans Saints,2016
+['Andrus Peat'],NA,week_12,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_12,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_12,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_12,New Orleans Saints,2016
+['Craig Robertson'],NA,week_12,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Willie Snead'],NA,week_12,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_12,New Orleans Saints,2016
+['Michael Thomas'],NA,week_12,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+['Max Unger'],NA,week_12,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_12,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_12,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_12,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_13,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_13,New Orleans Saints,2016
+['Terron Armstead'],"Out: knee, quadriceps",week_13,New Orleans Saints,2016
+['Chris Banjo'],NA,week_13,New Orleans Saints,2016
+['Sam Barrington'],NA,week_13,New Orleans Saints,2016
+['Delvin Breaux'],: broken left fibula,week_13,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_13,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Ken Crawley'],NA,week_13,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_13,New Orleans Saints,2016
+['Dannell Ellerbe'],NA,week_13,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_13,New Orleans Saints,2016
+['Josh Hill'],NA,week_13,New Orleans Saints,2016
+['Tony Hills'],NA,week_13,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_13,New Orleans Saints,2016
+['Mark Ingram'],Questionable: toe,week_13,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_13,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_13,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_13,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_13,New Orleans Saints,2016
+['Paul Kruger'],NA,week_13,New Orleans Saints,2016
+['John Kuhn'],NA,week_13,New Orleans Saints,2016
+['Jake Lampman'],NA,week_13,New Orleans Saints,2016
+['Daniel Lasco'],Out: hamstring,week_13,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_13,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_13,New Orleans Saints,2016
+['Sterling Moore'],NA,week_13,New Orleans Saints,2016
+['David Onyemata'],NA,week_13,New Orleans Saints,2016
+['Andrus Peat'],NA,week_13,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_13,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_13,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_13,New Orleans Saints,2016
+['Craig Robertson'],NA,week_13,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Willie Snead'],NA,week_13,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_13,New Orleans Saints,2016
+['Michael Thomas'],NA,week_13,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+['Max Unger'],NA,week_13,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_13,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_13,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_13,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_14,New Orleans Saints,2016
+['Stephone Anthony'],NA,week_14,New Orleans Saints,2016
+['Terron Armstead'],"Questionable: knee, quadriceps",week_14,New Orleans Saints,2016
+['Chris Banjo'],NA,week_14,New Orleans Saints,2016
+['Sam Barrington'],NA,week_14,New Orleans Saints,2016
+['Delvin Breaux'],: broken left fibula,week_14,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_14,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Ken Crawley'],NA,week_14,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_14,New Orleans Saints,2016
+['Dannell Ellerbe'],NA,week_14,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_14,New Orleans Saints,2016
+['Josh Hill'],Injured Reserve: Leg,week_14,New Orleans Saints,2016
+['Tony Hills'],NA,week_14,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_14,New Orleans Saints,2016
+['Mark Ingram'],"Questionable: toe, knee",week_14,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_14,New Orleans Saints,2016
+['Senio Kelemete'],Questionable: hip,week_14,New Orleans Saints,2016
+['Shiloh Keo'],Questionable: hamstring,week_14,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_14,New Orleans Saints,2016
+['Paul Kruger'],NA,week_14,New Orleans Saints,2016
+['John Kuhn'],NA,week_14,New Orleans Saints,2016
+['Jake Lampman'],NA,week_14,New Orleans Saints,2016
+['Daniel Lasco'],Questionable: hamstring,week_14,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_14,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_14,New Orleans Saints,2016
+['Sterling Moore'],NA,week_14,New Orleans Saints,2016
+['David Onyemata'],NA,week_14,New Orleans Saints,2016
+['Andrus Peat'],NA,week_14,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_14,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_14,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_14,New Orleans Saints,2016
+['Craig Robertson'],Questionable: shoulder,week_14,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Willie Snead'],NA,week_14,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_14,New Orleans Saints,2016
+['Michael Thomas'],Questionable: foot,week_14,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+['Max Unger'],Questionable: foot,week_14,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_14,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_14,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_14,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_15,New Orleans Saints,2016
+['Stephone Anthony'],Injured Reserve: Knee,week_15,New Orleans Saints,2016
+['Terron Armstead'],Injured Reserve: Leg,week_15,New Orleans Saints,2016
+['Chris Banjo'],NA,week_15,New Orleans Saints,2016
+['Sam Barrington'],NA,week_15,New Orleans Saints,2016
+['Delvin Breaux'],Injured Reserve: Shoulder,week_15,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_15,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Ken Crawley'],NA,week_15,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_15,New Orleans Saints,2016
+['Dannell Ellerbe'],NA,week_15,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_15,New Orleans Saints,2016
+['Josh Hill'],Injured Reserve: Leg,week_15,New Orleans Saints,2016
+['Tony Hills'],NA,week_15,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_15,New Orleans Saints,2016
+['Mark Ingram'],NA,week_15,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_15,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_15,New Orleans Saints,2016
+['Shiloh Keo'],Questionable: hamstring,week_15,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_15,New Orleans Saints,2016
+['Paul Kruger'],NA,week_15,New Orleans Saints,2016
+['John Kuhn'],NA,week_15,New Orleans Saints,2016
+['Jake Lampman'],NA,week_15,New Orleans Saints,2016
+['Daniel Lasco'],Questionable: hamstring,week_15,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_15,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_15,New Orleans Saints,2016
+['Sterling Moore'],NA,week_15,New Orleans Saints,2016
+['David Onyemata'],NA,week_15,New Orleans Saints,2016
+['Andrus Peat'],NA,week_15,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_15,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_15,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_15,New Orleans Saints,2016
+['Craig Robertson'],Questionable: shoulder,week_15,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Willie Snead'],NA,week_15,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_15,New Orleans Saints,2016
+['Michael Thomas'],NA,week_15,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+['Max Unger'],Questionable: foot,week_15,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_15,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_15,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_15,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_16,New Orleans Saints,2016
+['Stephone Anthony'],Injured Reserve: Knee,week_16,New Orleans Saints,2016
+['Terron Armstead'],Injured Reserve: Leg,week_16,New Orleans Saints,2016
+['Chris Banjo'],NA,week_16,New Orleans Saints,2016
+['Sam Barrington'],NA,week_16,New Orleans Saints,2016
+['Delvin Breaux'],Injured Reserve: Shoulder,week_16,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_16,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Ken Crawley'],NA,week_16,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_16,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: foot,week_16,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_16,New Orleans Saints,2016
+['Josh Hill'],Injured Reserve: Leg,week_16,New Orleans Saints,2016
+['Tony Hills'],NA,week_16,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_16,New Orleans Saints,2016
+['Mark Ingram'],NA,week_16,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_16,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_16,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_16,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_16,New Orleans Saints,2016
+['Paul Kruger'],NA,week_16,New Orleans Saints,2016
+['John Kuhn'],Questionable: hip,week_16,New Orleans Saints,2016
+['Jake Lampman'],NA,week_16,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_16,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_16,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_16,New Orleans Saints,2016
+['Sterling Moore'],NA,week_16,New Orleans Saints,2016
+['David Onyemata'],NA,week_16,New Orleans Saints,2016
+['Andrus Peat'],NA,week_16,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_16,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_16,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_16,New Orleans Saints,2016
+['Craig Robertson'],Questionable: shoulder,week_16,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Willie Snead'],NA,week_16,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_16,New Orleans Saints,2016
+['Michael Thomas'],NA,week_16,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+['Max Unger'],Questionable: foot,week_16,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_16,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_16,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_16,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2016
+[''],Injured Reserve: Knee,week_17,New Orleans Saints,2016
+['Stephone Anthony'],Injured Reserve: Knee,week_17,New Orleans Saints,2016
+['Terron Armstead'],Injured Reserve: Leg,week_17,New Orleans Saints,2016
+['Chris Banjo'],NA,week_17,New Orleans Saints,2016
+['Sam Barrington'],NA,week_17,New Orleans Saints,2016
+['Delvin Breaux'],Injured Reserve: Shoulder,week_17,New Orleans Saints,2016
+['Travaris Cadet'],NA,week_17,New Orleans Saints,2016
+['Tony Carter'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Ken Crawley'],Out: knee,week_17,New Orleans Saints,2016
+['Tyeler Davison'],NA,week_17,New Orleans Saints,2016
+['Dannell Ellerbe'],Questionable: foot,week_17,New Orleans Saints,2016
+['Obum Gwacham'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Erik Harris'],Injured Reserve: Knee,week_17,New Orleans Saints,2016
+['Josh Hill'],Injured Reserve: Leg,week_17,New Orleans Saints,2016
+['Tony Hills'],NA,week_17,New Orleans Saints,2016
+['Michael Hoomanawanui'],Injured Reserve: Leg,week_17,New Orleans Saints,2016
+['Mark Ingram'],NA,week_17,New Orleans Saints,2016
+['Cameron Jordan'],NA,week_17,New Orleans Saints,2016
+['Senio Kelemete'],NA,week_17,New Orleans Saints,2016
+['Shiloh Keo'],NA,week_17,New Orleans Saints,2016
+"[""Hau'oli Kikaha""]",Injured Reserve: Knee,week_17,New Orleans Saints,2016
+['Paul Kruger'],NA,week_17,New Orleans Saints,2016
+['John Kuhn'],NA,week_17,New Orleans Saints,2016
+['Jake Lampman'],NA,week_17,New Orleans Saints,2016
+['Daniel Lasco'],NA,week_17,New Orleans Saints,2016
+['James Laurinaitis'],Injured Reserve: Quadricep,week_17,New Orleans Saints,2016
+['Michael Mauti'],Injured Reserve: Illness,week_17,New Orleans Saints,2016
+['Sterling Moore'],NA,week_17,New Orleans Saints,2016
+['David Onyemata'],NA,week_17,New Orleans Saints,2016
+['Andrus Peat'],NA,week_17,New Orleans Saints,2016
+['D.J. Pettway'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Kyle Prater'],Injured Reserve: Upper Body,week_17,New Orleans Saints,2016
+['Jimmy Pruitt'],Injured Reserve: Knee,week_17,New Orleans Saints,2016
+['Sheldon Rankins'],NA,week_17,New Orleans Saints,2016
+['Craig Robertson'],Questionable: shoulder,week_17,New Orleans Saints,2016
+['Jamarca Sanford'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Jeff Schoettmer'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Willie Snead'],NA,week_17,New Orleans Saints,2016
+['Damian Swann'],Injured Reserve: Abdominal,week_17,New Orleans Saints,2016
+['Michael Thomas'],NA,week_17,New Orleans Saints,2016
+['Tyrus Thompson'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016
+['Max Unger'],NA,week_17,New Orleans Saints,2016
+['Kenny Vaccaro'],NA,week_17,New Orleans Saints,2016
+['P.J. Williams'],Injured Reserve: Concussion,week_17,New Orleans Saints,2016
+['Kyle Wilson'],Injured Reserve: Shoulder,week_17,New Orleans Saints,2016
+['Avery Young'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2016

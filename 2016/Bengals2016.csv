@@ -1,0 +1,417 @@
+﻿name,injury,week,team,year
+['Giovani Bernard'],NA,week_1,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_1,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_1,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_1,Cincinnati Bengals,2016
+['Darqueze Dennard'],Doubtful: ankle,week_1,Cincinnati Bengals,2016
+['Tyler Eifert'],Out: ankle,week_1,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_1,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_1,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_1,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_1,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_1,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_1,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_1,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_1,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_1,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_1,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_1,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_1,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_1,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_1,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_1,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_1,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_1,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_1,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_2,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_2,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_2,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_2,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_2,Cincinnati Bengals,2016
+['Tyler Eifert'],Out: ankle,week_2,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_2,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_2,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_2,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_2,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_2,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_2,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_2,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_2,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_2,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_2,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_2,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_2,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_2,Cincinnati Bengals,2016
+['Pat Sims'],Questionable: ankle,week_2,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_2,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_2,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_2,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_2,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_3,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_3,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_3,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_3,Cincinnati Bengals,2016
+['Darqueze Dennard'],Questionable: hamstring,week_3,Cincinnati Bengals,2016
+['Tyler Eifert'],Doubtful: ankle,week_3,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_3,Cincinnati Bengals,2016
+['Wallace Gilberry'],Questionable: abdomen,week_3,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_3,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_3,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_3,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_3,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_3,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_3,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_3,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_3,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_3,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_3,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_3,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_3,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_3,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_3,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_3,Cincinnati Bengals,2016
+['Eric Winston'],Questionable: back,week_3,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_4,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_4,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_4,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_4,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_4,Cincinnati Bengals,2016
+['Tyler Eifert'],Doubtful: ankle,week_4,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_4,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_4,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_4,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_4,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_4,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_4,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_4,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_4,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],Doubtful: hamstring,week_4,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_4,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_4,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_4,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_4,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_4,Cincinnati Bengals,2016
+['Derron Smith'],Questionable: chest,week_4,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_4,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_4,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_4,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_5,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2016
+['Clint Boling'],Questionable: shoulder,week_5,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_5,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_5,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_5,Cincinnati Bengals,2016
+['Tyler Eifert'],"Out: back, ankle",week_5,Cincinnati Bengals,2016
+['Jake Fisher'],Questionable: back,week_5,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_5,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_5,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_5,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_5,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_5,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_5,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_5,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_5,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_5,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_5,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_5,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_5,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_5,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_5,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_5,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_5,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_5,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_6,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_6,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_6,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_6,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_6,Cincinnati Bengals,2016
+['Tyler Eifert'],"Out: back, ankle",week_6,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_6,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_6,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_6,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_6,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_6,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_6,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_6,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_6,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_6,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_6,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_6,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_6,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_6,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_6,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_6,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_6,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_6,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_6,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_7,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_7,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_7,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_7,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_7,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_7,Cincinnati Bengals,2016
+['Tyler Eifert'],"Questionable: back, ankle",week_7,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_7,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_7,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_7,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_7,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_7,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_7,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_7,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_7,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_7,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_7,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_7,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_7,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_7,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_7,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_7,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_7,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_7,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_7,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_7,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_8,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_8,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_8,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_8,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_8,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_8,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_8,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_8,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_8,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_8,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_8,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_8,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_8,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_8,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_8,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_8,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_8,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_8,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_8,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_8,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_8,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_8,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_8,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_8,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_10,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_10,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_10,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_10,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_10,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_10,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_10,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_10,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_10,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_10,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_10,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_10,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_10,Cincinnati Bengals,2016
+['Michael Johnson'],Questionable: calf,week_10,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_10,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_10,Cincinnati Bengals,2016
+['Rey Maualuga'],Out: fibula,week_10,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_10,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_10,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_10,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_10,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_10,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_10,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_10,Cincinnati Bengals,2016
+['Giovani Bernard'],NA,week_11,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_11,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_11,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_11,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_11,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_11,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_11,Cincinnati Bengals,2016
+['Wallace Gilberry'],Questionable: calf,week_11,Cincinnati Bengals,2016
+['A.J. Green'],NA,week_11,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_11,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_11,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_11,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_11,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_11,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_11,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_11,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_11,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_11,Cincinnati Bengals,2016
+['Cedric Peerman'],Injured Reserve: Arm,week_11,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_11,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_11,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2016
+['C.J. Uzomah'],Doubtful: calf,week_11,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_11,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_11,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_12,Cincinnati Bengals,2016
+['Chykie Brown'],NA,week_12,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_12,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_12,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_12,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_12,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_12,Cincinnati Bengals,2016
+['A.J. Green'],Out: hamstring,week_12,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_12,Cincinnati Bengals,2016
+['Clark Harris'],Questionable: groin,week_12,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_12,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_12,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_12,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_12,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_12,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_12,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_12,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_12,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_12,Cincinnati Bengals,2016
+['Derron Smith'],Questionable: thigh,week_12,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2016
+['C.J. Uzomah'],Doubtful: calf,week_12,Cincinnati Bengals,2016
+['Shawn Williams'],Doubtful: hamstring,week_12,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_12,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_13,Cincinnati Bengals,2016
+['Chykie Brown'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_13,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_13,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_13,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_13,Cincinnati Bengals,2016
+['Wallace Gilberry'],Out: calf,week_13,Cincinnati Bengals,2016
+['A.J. Green'],Out: hamstring,week_13,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_13,Cincinnati Bengals,2016
+['Clark Harris'],Doubtful: groin,week_13,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_13,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_13,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_13,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_13,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_13,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_13,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_13,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_13,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_13,Cincinnati Bengals,2016
+['Derron Smith'],Out: thigh,week_13,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2016
+['C.J. Uzomah'],Doubtful: calf,week_13,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_13,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_13,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_14,Cincinnati Bengals,2016
+['Chykie Brown'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_14,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_14,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_14,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_14,Cincinnati Bengals,2016
+['Wallace Gilberry'],Out: calf,week_14,Cincinnati Bengals,2016
+['A.J. Green'],Out: hamstring,week_14,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_14,Cincinnati Bengals,2016
+['Clark Harris'],Questionable: groin,week_14,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_14,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_14,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_14,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_14,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_14,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_14,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_14,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_14,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_14,Cincinnati Bengals,2016
+['Derron Smith'],Out: thigh,week_14,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2016
+['C.J. Uzomah'],Out: calf,week_14,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_14,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_14,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2016
+['Clint Boling'],NA,week_15,Cincinnati Bengals,2016
+['Chykie Brown'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2016
+['Vontaze Burfict'],NA,week_15,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_15,Cincinnati Bengals,2016
+['Tyler Eifert'],NA,week_15,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_15,Cincinnati Bengals,2016
+['Wallace Gilberry'],Doubtful: calf,week_15,Cincinnati Bengals,2016
+['A.J. Green'],Doubtful: hamstring,week_15,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_15,Cincinnati Bengals,2016
+['Clark Harris'],Questionable: groin,week_15,Cincinnati Bengals,2016
+['Jeremy Hill'],NA,week_15,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_15,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_15,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_15,Cincinnati Bengals,2016
+['Tyler Kroft'],NA,week_15,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_15,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_15,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_15,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_15,Cincinnati Bengals,2016
+['Derron Smith'],Questionable: thigh,week_15,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2016
+['C.J. Uzomah'],Questionable: calf,week_15,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_15,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_15,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2016
+['Clint Boling'],Injured Reserve: Shoulder,week_16,Cincinnati Bengals,2016
+['Chykie Brown'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2016
+['Vontaze Burfict'],"Out: knee, concussion",week_16,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_16,Cincinnati Bengals,2016
+['Tyler Eifert'],Injured Reserve: Back,week_16,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_16,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_16,Cincinnati Bengals,2016
+['A.J. Green'],Injured Reserve: Hamstring,week_16,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_16,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_16,Cincinnati Bengals,2016
+['Jeremy Hill'],Questionable: knee,week_16,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_16,Cincinnati Bengals,2016
+['Michael Johnson'],Questionable: shoulder,week_16,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_16,Cincinnati Bengals,2016
+['Tyler Kroft'],"Out: knee, ankle",week_16,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_16,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],NA,week_16,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_16,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_16,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_16,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_16,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_16,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_16,Cincinnati Bengals,2016
+['Giovani Bernard'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2016
+['Andrew Billings'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2016
+['Clint Boling'],Injured Reserve: Shoulder,week_17,Cincinnati Bengals,2016
+['Chykie Brown'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2016
+['Vontaze Burfict'],"Doubtful: knee, concussion",week_17,Cincinnati Bengals,2016
+['Darqueze Dennard'],NA,week_17,Cincinnati Bengals,2016
+['Tyler Eifert'],Injured Reserve: Back,week_17,Cincinnati Bengals,2016
+['Jake Fisher'],NA,week_17,Cincinnati Bengals,2016
+['Wallace Gilberry'],NA,week_17,Cincinnati Bengals,2016
+['A.J. Green'],Out: hamstring,week_17,Cincinnati Bengals,2016
+['Marcus Hardison'],Injured Reserve: Shoulder,week_17,Cincinnati Bengals,2016
+['Clark Harris'],NA,week_17,Cincinnati Bengals,2016
+['Jeremy Hill'],Questionable: knee,week_17,Cincinnati Bengals,2016
+['William Jackson'],Injured Reserve: Pectoral,week_17,Cincinnati Bengals,2016
+['Michael Johnson'],NA,week_17,Cincinnati Bengals,2016
+['Dre Kirkpatrick'],NA,week_17,Cincinnati Bengals,2016
+['Tyler Kroft'],"Doubtful: knee, ankle",week_17,Cincinnati Bengals,2016
+['Rey Maualuga'],NA,week_17,Cincinnati Bengals,2016
+['Cedric Ogbuehi'],Injured Reserve: Shoulder,week_17,Cincinnati Bengals,2016
+['Cedric Peerman'],NA,week_17,Cincinnati Bengals,2016
+['Pat Sims'],NA,week_17,Cincinnati Bengals,2016
+['Derron Smith'],NA,week_17,Cincinnati Bengals,2016
+['Brandon Thompson'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2016
+['C.J. Uzomah'],NA,week_17,Cincinnati Bengals,2016
+['Shawn Williams'],NA,week_17,Cincinnati Bengals,2016
+['Eric Winston'],NA,week_17,Cincinnati Bengals,2016

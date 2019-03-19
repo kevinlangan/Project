@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Lorenzo Alexander'],NA,week_1,Buffalo Bills,2016
+['Colt Anderson'],Out: foot,week_1,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_1,Buffalo Bills,2016
+['Robert Blanton'],NA,week_1,Buffalo Bills,2016
+['Preston Brown'],NA,week_1,Buffalo Bills,2016
+['Sergio Brown'],NA,week_1,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_1,Buffalo Bills,2016
+['Reggie Bush'],NA,week_1,Buffalo Bills,2016
+['Charles Clay'],NA,week_1,Buffalo Bills,2016
+['Ronald Darby'],NA,week_1,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_1,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_1,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_1,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_1,Buffalo Bills,2016
+['Jerome Felton'],NA,week_1,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_1,Buffalo Bills,2016
+['Cordy Glenn'],NA,week_1,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_1,Buffalo Bills,2016
+['Ryan Groy'],Questionable: ribs,week_1,Buffalo Bills,2016
+['Percy Harvin'],NA,week_1,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_1,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_1,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_1,Buffalo Bills,2016
+['Richie Incognito'],NA,week_1,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_1,Buffalo Bills,2016
+['Cardale Jones'],Questionable: right shoulder,week_1,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_1,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_1,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_1,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_1,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_1,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_1,Buffalo Bills,2016
+['John Miller'],NA,week_1,Buffalo Bills,2016
+['Walt Powell'],NA,week_1,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_1,Buffalo Bills,2016
+['Greg Salas'],NA,week_1,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_1,Buffalo Bills,2016
+['Kevon Seymour'],Out: hamstring,week_1,Buffalo Bills,2016
+['Brandon Tate'],NA,week_1,Buffalo Bills,2016
+['Sammy Watkins'],NA,week_1,Buffalo Bills,2016
+['Corey White'],NA,week_1,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_1,Buffalo Bills,2016
+['Aaron Williams'],NA,week_1,Buffalo Bills,2016
+['Jonathan Williams'],Questionable: ribs,week_1,Buffalo Bills,2016
+['Kyle Williams'],NA,week_1,Buffalo Bills,2016
+['Eric Wood'],NA,week_1,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_1,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_2,Buffalo Bills,2016
+['Colt Anderson'],Out: foot,week_2,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_2,Buffalo Bills,2016
+['Robert Blanton'],NA,week_2,Buffalo Bills,2016
+['Preston Brown'],NA,week_2,Buffalo Bills,2016
+['Sergio Brown'],NA,week_2,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_2,Buffalo Bills,2016
+['Reggie Bush'],NA,week_2,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_2,Buffalo Bills,2016
+['Ronald Darby'],NA,week_2,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_2,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_2,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_2,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_2,Buffalo Bills,2016
+['Jerome Felton'],NA,week_2,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_2,Buffalo Bills,2016
+['Cordy Glenn'],Out: ankle,week_2,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_2,Buffalo Bills,2016
+['Ryan Groy'],NA,week_2,Buffalo Bills,2016
+['Percy Harvin'],NA,week_2,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_2,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_2,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_2,Buffalo Bills,2016
+['Richie Incognito'],NA,week_2,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_2,Buffalo Bills,2016
+['Cardale Jones'],Questionable: right shoulder,week_2,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_2,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_2,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_2,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_2,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_2,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_2,Buffalo Bills,2016
+['John Miller'],NA,week_2,Buffalo Bills,2016
+['Walt Powell'],NA,week_2,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_2,Buffalo Bills,2016
+['Greg Salas'],NA,week_2,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_2,Buffalo Bills,2016
+['Kevon Seymour'],Questionable: hamstring,week_2,Buffalo Bills,2016
+['Brandon Tate'],NA,week_2,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_2,Buffalo Bills,2016
+['Corey White'],NA,week_2,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_2,Buffalo Bills,2016
+['Aaron Williams'],NA,week_2,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_2,Buffalo Bills,2016
+['Kyle Williams'],NA,week_2,Buffalo Bills,2016
+['Eric Wood'],NA,week_2,Buffalo Bills,2016
+['Jerel Worthy'],Questionable: knee,week_2,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_3,Buffalo Bills,2016
+['Colt Anderson'],Out: foot,week_3,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_3,Buffalo Bills,2016
+['Robert Blanton'],NA,week_3,Buffalo Bills,2016
+['Preston Brown'],NA,week_3,Buffalo Bills,2016
+['Sergio Brown'],NA,week_3,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_3,Buffalo Bills,2016
+['Reggie Bush'],NA,week_3,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_3,Buffalo Bills,2016
+['Ronald Darby'],Questionable: hamstring,week_3,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_3,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_3,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_3,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_3,Buffalo Bills,2016
+['Jerome Felton'],NA,week_3,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_3,Buffalo Bills,2016
+['Cordy Glenn'],Out: ankle,week_3,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_3,Buffalo Bills,2016
+['Ryan Groy'],NA,week_3,Buffalo Bills,2016
+['Percy Harvin'],NA,week_3,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_3,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_3,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_3,Buffalo Bills,2016
+['Richie Incognito'],NA,week_3,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_3,Buffalo Bills,2016
+['Cardale Jones'],Questionable: right shoulder,week_3,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_3,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_3,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_3,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_3,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_3,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_3,Buffalo Bills,2016
+['John Miller'],NA,week_3,Buffalo Bills,2016
+['Walt Powell'],NA,week_3,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_3,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_3,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_3,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_3,Buffalo Bills,2016
+['Brandon Tate'],NA,week_3,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_3,Buffalo Bills,2016
+['Corey White'],NA,week_3,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_3,Buffalo Bills,2016
+['Aaron Williams'],NA,week_3,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_3,Buffalo Bills,2016
+['Kyle Williams'],NA,week_3,Buffalo Bills,2016
+['Eric Wood'],NA,week_3,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_3,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_4,Buffalo Bills,2016
+['Colt Anderson'],Questionable: foot,week_4,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_4,Buffalo Bills,2016
+['Robert Blanton'],NA,week_4,Buffalo Bills,2016
+['Preston Brown'],NA,week_4,Buffalo Bills,2016
+['Sergio Brown'],NA,week_4,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_4,Buffalo Bills,2016
+['Reggie Bush'],NA,week_4,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_4,Buffalo Bills,2016
+['Ronald Darby'],Questionable: hamstring,week_4,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_4,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_4,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_4,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_4,Buffalo Bills,2016
+['Jerome Felton'],NA,week_4,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_4,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_4,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_4,Buffalo Bills,2016
+['Ryan Groy'],NA,week_4,Buffalo Bills,2016
+['Percy Harvin'],NA,week_4,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_4,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_4,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_4,Buffalo Bills,2016
+['Richie Incognito'],NA,week_4,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_4,Buffalo Bills,2016
+['Cardale Jones'],Questionable: right shoulder,week_4,Buffalo Bills,2016
+['Cyrus Kouandjio'],Out: ankle,week_4,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_4,Buffalo Bills,2016
+['Patrick Lewis'],Out: knee,week_4,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_4,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_4,Buffalo Bills,2016
+['Jonathan Meeks'],Questionable: foot,week_4,Buffalo Bills,2016
+['John Miller'],NA,week_4,Buffalo Bills,2016
+['Walt Powell'],NA,week_4,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_4,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_4,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_4,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_4,Buffalo Bills,2016
+['Brandon Tate'],NA,week_4,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_4,Buffalo Bills,2016
+['Corey White'],NA,week_4,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_4,Buffalo Bills,2016
+['Aaron Williams'],Questionable: ankle,week_4,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_4,Buffalo Bills,2016
+['Kyle Williams'],NA,week_4,Buffalo Bills,2016
+['Eric Wood'],NA,week_4,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_4,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_5,Buffalo Bills,2016
+['Colt Anderson'],NA,week_5,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_5,Buffalo Bills,2016
+['Robert Blanton'],NA,week_5,Buffalo Bills,2016
+['Preston Brown'],NA,week_5,Buffalo Bills,2016
+['Sergio Brown'],NA,week_5,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_5,Buffalo Bills,2016
+['Reggie Bush'],NA,week_5,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_5,Buffalo Bills,2016
+['Ronald Darby'],NA,week_5,Buffalo Bills,2016
+['Marcell Dareus'],Questionable: hamstring,week_5,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_5,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_5,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_5,Buffalo Bills,2016
+['Jerome Felton'],Questionable: back,week_5,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_5,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_5,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_5,Buffalo Bills,2016
+['Ryan Groy'],NA,week_5,Buffalo Bills,2016
+['Percy Harvin'],NA,week_5,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_5,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_5,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_5,Buffalo Bills,2016
+['Richie Incognito'],NA,week_5,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_5,Buffalo Bills,2016
+['Cardale Jones'],NA,week_5,Buffalo Bills,2016
+['Cyrus Kouandjio'],Out: ankle,week_5,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_5,Buffalo Bills,2016
+['Patrick Lewis'],Out: knee,week_5,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_5,Buffalo Bills,2016
+['LeSean McCoy'],Questionable: hand,week_5,Buffalo Bills,2016
+['Jonathan Meeks'],Questionable: foot,week_5,Buffalo Bills,2016
+['John Miller'],NA,week_5,Buffalo Bills,2016
+['Walt Powell'],NA,week_5,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_5,Buffalo Bills,2016
+['Greg Salas'],Out: groin,week_5,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_5,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_5,Buffalo Bills,2016
+['Brandon Tate'],NA,week_5,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_5,Buffalo Bills,2016
+['Corey White'],Out: shoulder,week_5,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_5,Buffalo Bills,2016
+['Aaron Williams'],NA,week_5,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_5,Buffalo Bills,2016
+['Kyle Williams'],NA,week_5,Buffalo Bills,2016
+['Eric Wood'],NA,week_5,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_5,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_6,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_6,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_6,Buffalo Bills,2016
+['Robert Blanton'],NA,week_6,Buffalo Bills,2016
+['Preston Brown'],NA,week_6,Buffalo Bills,2016
+['Sergio Brown'],NA,week_6,Buffalo Bills,2016
+['Corbin Bryant'],Questionable: ankle,week_6,Buffalo Bills,2016
+['Reggie Bush'],NA,week_6,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_6,Buffalo Bills,2016
+['Ronald Darby'],NA,week_6,Buffalo Bills,2016
+['Marcell Dareus'],Doubtful: hamstring,week_6,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_6,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_6,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_6,Buffalo Bills,2016
+['Jerome Felton'],NA,week_6,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_6,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_6,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_6,Buffalo Bills,2016
+['Ryan Groy'],NA,week_6,Buffalo Bills,2016
+['Percy Harvin'],NA,week_6,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_6,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_6,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_6,Buffalo Bills,2016
+['Richie Incognito'],NA,week_6,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_6,Buffalo Bills,2016
+['Cardale Jones'],NA,week_6,Buffalo Bills,2016
+['Cyrus Kouandjio'],Questionable: ankle,week_6,Buffalo Bills,2016
+['Shaq Lawson'],Injured Reserve: Shoulder,week_6,Buffalo Bills,2016
+['Patrick Lewis'],Questionable: knee,week_6,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_6,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_6,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_6,Buffalo Bills,2016
+['John Miller'],NA,week_6,Buffalo Bills,2016
+['Walt Powell'],NA,week_6,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_6,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_6,Buffalo Bills,2016
+['Colton Schmidt'],Questionable: right quadricep,week_6,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_6,Buffalo Bills,2016
+['Brandon Tate'],NA,week_6,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_6,Buffalo Bills,2016
+['Corey White'],Questionable: shoulder,week_6,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_6,Buffalo Bills,2016
+['Aaron Williams'],Questionable: ankle,week_6,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_6,Buffalo Bills,2016
+['Kyle Williams'],NA,week_6,Buffalo Bills,2016
+['Eric Wood'],NA,week_6,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_6,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_7,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_7,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_7,Buffalo Bills,2016
+['Robert Blanton'],NA,week_7,Buffalo Bills,2016
+['Preston Brown'],NA,week_7,Buffalo Bills,2016
+['Sergio Brown'],NA,week_7,Buffalo Bills,2016
+['Corbin Bryant'],NA,week_7,Buffalo Bills,2016
+['Reggie Bush'],NA,week_7,Buffalo Bills,2016
+['Charles Clay'],Questionable: ankle,week_7,Buffalo Bills,2016
+['Ronald Darby'],NA,week_7,Buffalo Bills,2016
+['Marcell Dareus'],Doubtful: hamstring,week_7,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_7,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_7,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_7,Buffalo Bills,2016
+['Jerome Felton'],Questionable: back,week_7,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_7,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_7,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_7,Buffalo Bills,2016
+['Ryan Groy'],NA,week_7,Buffalo Bills,2016
+['Percy Harvin'],NA,week_7,Buffalo Bills,2016
+['Seantrel Henderson'],Out: back,week_7,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_7,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_7,Buffalo Bills,2016
+['Richie Incognito'],NA,week_7,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_7,Buffalo Bills,2016
+['Cardale Jones'],NA,week_7,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_7,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_7,Buffalo Bills,2016
+['Patrick Lewis'],Questionable: knee,week_7,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_7,Buffalo Bills,2016
+['LeSean McCoy'],Questionable: hamstring,week_7,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_7,Buffalo Bills,2016
+['John Miller'],NA,week_7,Buffalo Bills,2016
+['Walt Powell'],NA,week_7,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_7,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_7,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_7,Buffalo Bills,2016
+['Kevon Seymour'],Questionable: shoulder,week_7,Buffalo Bills,2016
+['Brandon Tate'],NA,week_7,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_7,Buffalo Bills,2016
+['Corey White'],NA,week_7,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_7,Buffalo Bills,2016
+['Aaron Williams'],NA,week_7,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_7,Buffalo Bills,2016
+['Kyle Williams'],Questionable: nack,week_7,Buffalo Bills,2016
+['Eric Wood'],NA,week_7,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_7,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_8,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_8,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_8,Buffalo Bills,2016
+['Robert Blanton'],NA,week_8,Buffalo Bills,2016
+['Preston Brown'],NA,week_8,Buffalo Bills,2016
+['Sergio Brown'],NA,week_8,Buffalo Bills,2016
+['Corbin Bryant'],Questionable: shoulder,week_8,Buffalo Bills,2016
+['Reggie Bush'],NA,week_8,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_8,Buffalo Bills,2016
+['Ronald Darby'],NA,week_8,Buffalo Bills,2016
+['Marcell Dareus'],Questionable: hamstring,week_8,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_8,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_8,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_8,Buffalo Bills,2016
+['Jerome Felton'],NA,week_8,Buffalo Bills,2016
+['Mike Gillislee'],Questionable: foot,week_8,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_8,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_8,Buffalo Bills,2016
+['Ryan Groy'],NA,week_8,Buffalo Bills,2016
+['Percy Harvin'],NA,week_8,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_8,Buffalo Bills,2016
+['Jerry Hughes'],Questionable: hand,week_8,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_8,Buffalo Bills,2016
+['Richie Incognito'],NA,week_8,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_8,Buffalo Bills,2016
+['Cardale Jones'],NA,week_8,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_8,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_8,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_8,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_8,Buffalo Bills,2016
+['LeSean McCoy'],Doubtful: hamstring,week_8,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_8,Buffalo Bills,2016
+['John Miller'],Questionable: shoulder,week_8,Buffalo Bills,2016
+['Walt Powell'],NA,week_8,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_8,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_8,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_8,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_8,Buffalo Bills,2016
+['Brandon Tate'],NA,week_8,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_8,Buffalo Bills,2016
+['Corey White'],NA,week_8,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_8,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_8,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_8,Buffalo Bills,2016
+['Kyle Williams'],NA,week_8,Buffalo Bills,2016
+['Eric Wood'],NA,week_8,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_8,Buffalo Bills,2016
+['Lorenzo Alexander'],Questionable: hamstring,week_9,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_9,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_9,Buffalo Bills,2016
+['Robert Blanton'],NA,week_9,Buffalo Bills,2016
+['Preston Brown'],NA,week_9,Buffalo Bills,2016
+['Sergio Brown'],NA,week_9,Buffalo Bills,2016
+['Corbin Bryant'],Out: shoulder,week_9,Buffalo Bills,2016
+['Reggie Bush'],Questionable: groin,week_9,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_9,Buffalo Bills,2016
+['Ronald Darby'],NA,week_9,Buffalo Bills,2016
+['Marcell Dareus'],Out: groin,week_9,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_9,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_9,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_9,Buffalo Bills,2016
+['Jerome Felton'],NA,week_9,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_9,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: ankle,week_9,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_9,Buffalo Bills,2016
+['Ryan Groy'],NA,week_9,Buffalo Bills,2016
+['Percy Harvin'],NA,week_9,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_9,Buffalo Bills,2016
+['Jerry Hughes'],Questionable: hand,week_9,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_9,Buffalo Bills,2016
+['Richie Incognito'],NA,week_9,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_9,Buffalo Bills,2016
+['Cardale Jones'],NA,week_9,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_9,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_9,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_9,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_9,Buffalo Bills,2016
+['LeSean McCoy'],Questionable: hamstring,week_9,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_9,Buffalo Bills,2016
+['John Miller'],NA,week_9,Buffalo Bills,2016
+['Walt Powell'],NA,week_9,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_9,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_9,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_9,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_9,Buffalo Bills,2016
+['Brandon Tate'],Out: concussion,week_9,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_9,Buffalo Bills,2016
+['Corey White'],NA,week_9,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_9,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_9,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_9,Buffalo Bills,2016
+['Kyle Williams'],NA,week_9,Buffalo Bills,2016
+['Eric Wood'],NA,week_9,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_9,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_11,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_11,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_11,Buffalo Bills,2016
+['Robert Blanton'],NA,week_11,Buffalo Bills,2016
+['Preston Brown'],NA,week_11,Buffalo Bills,2016
+['Sergio Brown'],NA,week_11,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_11,Buffalo Bills,2016
+['Reggie Bush'],NA,week_11,Buffalo Bills,2016
+['Charles Clay'],NA,week_11,Buffalo Bills,2016
+['Ronald Darby'],NA,week_11,Buffalo Bills,2016
+['Marcell Dareus'],Questionable: groin,week_11,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_11,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_11,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_11,Buffalo Bills,2016
+['Jerome Felton'],NA,week_11,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_11,Buffalo Bills,2016
+['Cordy Glenn'],NA,week_11,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_11,Buffalo Bills,2016
+['Ryan Groy'],NA,week_11,Buffalo Bills,2016
+['Percy Harvin'],NA,week_11,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_11,Buffalo Bills,2016
+['Jerry Hughes'],Questionable: hand,week_11,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_11,Buffalo Bills,2016
+['Richie Incognito'],NA,week_11,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_11,Buffalo Bills,2016
+['Cardale Jones'],NA,week_11,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_11,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_11,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_11,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_11,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_11,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_11,Buffalo Bills,2016
+['John Miller'],NA,week_11,Buffalo Bills,2016
+['Walt Powell'],Questionable: hip,week_11,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_11,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_11,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_11,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_11,Buffalo Bills,2016
+['Brandon Tate'],NA,week_11,Buffalo Bills,2016
+['Sammy Watkins'],Injured Reserve: Foot,week_11,Buffalo Bills,2016
+['Corey White'],NA,week_11,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_11,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_11,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_11,Buffalo Bills,2016
+['Kyle Williams'],NA,week_11,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_11,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_11,Buffalo Bills,2016
+['Lorenzo Alexander'],Questionable: ankle,week_12,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_12,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_12,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_12,Buffalo Bills,2016
+['Preston Brown'],NA,week_12,Buffalo Bills,2016
+['Sergio Brown'],NA,week_12,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_12,Buffalo Bills,2016
+['Reggie Bush'],NA,week_12,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_12,Buffalo Bills,2016
+['Ronald Darby'],NA,week_12,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_12,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_12,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_12,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_12,Buffalo Bills,2016
+['Jerome Felton'],NA,week_12,Buffalo Bills,2016
+['Mike Gillislee'],Out: hamstring,week_12,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: back,week_12,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_12,Buffalo Bills,2016
+['Ryan Groy'],NA,week_12,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_12,Buffalo Bills,2016
+['Seantrel Henderson'],Questionable: not football related,week_12,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_12,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_12,Buffalo Bills,2016
+['Richie Incognito'],NA,week_12,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_12,Buffalo Bills,2016
+['Cardale Jones'],NA,week_12,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_12,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_12,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_12,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_12,Buffalo Bills,2016
+['LeSean McCoy'],Questionable: thumb,week_12,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_12,Buffalo Bills,2016
+['John Miller'],NA,week_12,Buffalo Bills,2016
+['Walt Powell'],NA,week_12,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_12,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_12,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_12,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_12,Buffalo Bills,2016
+['Brandon Tate'],NA,week_12,Buffalo Bills,2016
+['Sammy Watkins'],NA,week_12,Buffalo Bills,2016
+['Corey White'],NA,week_12,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_12,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_12,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_12,Buffalo Bills,2016
+['Kyle Williams'],NA,week_12,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_12,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_12,Buffalo Bills,2016
+['Lorenzo Alexander'],Questionable: ankle,week_13,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_13,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_13,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_13,Buffalo Bills,2016
+['Preston Brown'],NA,week_13,Buffalo Bills,2016
+['Sergio Brown'],Questionable: hamstring,week_13,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_13,Buffalo Bills,2016
+['Reggie Bush'],NA,week_13,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_13,Buffalo Bills,2016
+['Ronald Darby'],Out: concussion,week_13,Buffalo Bills,2016
+['Marcell Dareus'],Questionable: abdominal,week_13,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_13,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_13,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_13,Buffalo Bills,2016
+['Jerome Felton'],NA,week_13,Buffalo Bills,2016
+['Mike Gillislee'],Questionable: hamstring,week_13,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: back,week_13,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_13,Buffalo Bills,2016
+['Ryan Groy'],NA,week_13,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_13,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_13,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_13,Buffalo Bills,2016
+['James Ihedigbo'],Questionable: ankle,week_13,Buffalo Bills,2016
+['Richie Incognito'],Questionable: neck,week_13,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_13,Buffalo Bills,2016
+['Cardale Jones'],NA,week_13,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_13,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_13,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_13,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_13,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_13,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_13,Buffalo Bills,2016
+['John Miller'],Questionable: shoulder,week_13,Buffalo Bills,2016
+['Walt Powell'],Injured Reserve: Ankle,week_13,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_13,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_13,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_13,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_13,Buffalo Bills,2016
+['Brandon Tate'],NA,week_13,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_13,Buffalo Bills,2016
+['Corey White'],NA,week_13,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_13,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_13,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_13,Buffalo Bills,2016
+['Kyle Williams'],NA,week_13,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_13,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_13,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_14,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_14,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_14,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_14,Buffalo Bills,2016
+['Preston Brown'],NA,week_14,Buffalo Bills,2016
+['Sergio Brown'],NA,week_14,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_14,Buffalo Bills,2016
+['Reggie Bush'],NA,week_14,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_14,Buffalo Bills,2016
+['Ronald Darby'],NA,week_14,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_14,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_14,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_14,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_14,Buffalo Bills,2016
+['Jerome Felton'],NA,week_14,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_14,Buffalo Bills,2016
+['Cordy Glenn'],Questionable: back,week_14,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_14,Buffalo Bills,2016
+['Ryan Groy'],NA,week_14,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_14,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_14,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_14,Buffalo Bills,2016
+['James Ihedigbo'],NA,week_14,Buffalo Bills,2016
+['Richie Incognito'],NA,week_14,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_14,Buffalo Bills,2016
+['Cardale Jones'],NA,week_14,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_14,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_14,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_14,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_14,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_14,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_14,Buffalo Bills,2016
+['John Miller'],NA,week_14,Buffalo Bills,2016
+['Walt Powell'],Injured Reserve: Ankle,week_14,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_14,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_14,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_14,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_14,Buffalo Bills,2016
+['Brandon Tate'],NA,week_14,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_14,Buffalo Bills,2016
+['Corey White'],NA,week_14,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_14,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_14,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_14,Buffalo Bills,2016
+['Kyle Williams'],Questionable: back,week_14,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_14,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_14,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_15,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_15,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_15,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_15,Buffalo Bills,2016
+['Preston Brown'],NA,week_15,Buffalo Bills,2016
+['Sergio Brown'],NA,week_15,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_15,Buffalo Bills,2016
+['Reggie Bush'],NA,week_15,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_15,Buffalo Bills,2016
+['Ronald Darby'],NA,week_15,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_15,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_15,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_15,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_15,Buffalo Bills,2016
+['Jerome Felton'],NA,week_15,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_15,Buffalo Bills,2016
+['Cordy Glenn'],Doubtful: foot,week_15,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_15,Buffalo Bills,2016
+['Ryan Groy'],NA,week_15,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_15,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_15,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_15,Buffalo Bills,2016
+['James Ihedigbo'],Injured Reserve: Ankle,week_15,Buffalo Bills,2016
+['Richie Incognito'],NA,week_15,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_15,Buffalo Bills,2016
+['Cardale Jones'],NA,week_15,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_15,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_15,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_15,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_15,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_15,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_15,Buffalo Bills,2016
+['John Miller'],NA,week_15,Buffalo Bills,2016
+['Walt Powell'],Injured Reserve: Ankle,week_15,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_15,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_15,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_15,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_15,Buffalo Bills,2016
+['Brandon Tate'],NA,week_15,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_15,Buffalo Bills,2016
+['Corey White'],NA,week_15,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_15,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_15,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_15,Buffalo Bills,2016
+['Kyle Williams'],Questionable: back,week_15,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_15,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_15,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_16,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_16,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_16,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_16,Buffalo Bills,2016
+['Preston Brown'],Questionable: foot,week_16,Buffalo Bills,2016
+['Sergio Brown'],NA,week_16,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_16,Buffalo Bills,2016
+['Reggie Bush'],NA,week_16,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_16,Buffalo Bills,2016
+['Ronald Darby'],NA,week_16,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_16,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_16,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_16,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_16,Buffalo Bills,2016
+['Jerome Felton'],Questionable: foot,week_16,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_16,Buffalo Bills,2016
+['Cordy Glenn'],Doubtful: back,week_16,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_16,Buffalo Bills,2016
+['Ryan Groy'],NA,week_16,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_16,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_16,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_16,Buffalo Bills,2016
+['James Ihedigbo'],Injured Reserve: Ankle,week_16,Buffalo Bills,2016
+['Richie Incognito'],NA,week_16,Buffalo Bills,2016
+['Randell Johnson'],NA,week_16,Buffalo Bills,2016
+['Cardale Jones'],NA,week_16,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_16,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_16,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_16,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_16,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_16,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_16,Buffalo Bills,2016
+['John Miller'],Questionable: hip,week_16,Buffalo Bills,2016
+['Walt Powell'],Injured Reserve: Ankle,week_16,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_16,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_16,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_16,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_16,Buffalo Bills,2016
+['Brandon Tate'],NA,week_16,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_16,Buffalo Bills,2016
+['Corey White'],NA,week_16,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_16,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_16,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_16,Buffalo Bills,2016
+['Kyle Williams'],Questionable: back,week_16,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_16,Buffalo Bills,2016
+['Jerel Worthy'],Questionable: shoulder,week_16,Buffalo Bills,2016
+['Lorenzo Alexander'],NA,week_17,Buffalo Bills,2016
+['Colt Anderson'],Injured Reserve: Hand,week_17,Buffalo Bills,2016
+['Blake Annen'],Injured Reserve: Neck,week_17,Buffalo Bills,2016
+['Robert Blanton'],Injured Reserve: Foot,week_17,Buffalo Bills,2016
+['Preston Brown'],Questionable: foot,week_17,Buffalo Bills,2016
+['Sergio Brown'],NA,week_17,Buffalo Bills,2016
+['Corbin Bryant'],Injured Reserve: Shoulder,week_17,Buffalo Bills,2016
+['Reggie Bush'],NA,week_17,Buffalo Bills,2016
+['Charles Clay'],Questionable: knee,week_17,Buffalo Bills,2016
+['Ronald Darby'],NA,week_17,Buffalo Bills,2016
+['Marcell Dareus'],NA,week_17,Buffalo Bills,2016
+['Jonathan Dowling'],Injured Reserve: Knee,week_17,Buffalo Bills,2016
+['Marcus Easley'],Injured Reserve: Knee,week_17,Buffalo Bills,2016
+['IK Enemkpali'],Injured Reserve: Knee,week_17,Buffalo Bills,2016
+['Jerome Felton'],NA,week_17,Buffalo Bills,2016
+['Mike Gillislee'],NA,week_17,Buffalo Bills,2016
+['Cordy Glenn'],Out: back,week_17,Buffalo Bills,2016
+['Chris Gragg'],Injured Reserve: Knee,week_17,Buffalo Bills,2016
+['Ryan Groy'],NA,week_17,Buffalo Bills,2016
+['Percy Harvin'],Injured Reserve: Migraine,week_17,Buffalo Bills,2016
+['Seantrel Henderson'],NA,week_17,Buffalo Bills,2016
+['Jerry Hughes'],NA,week_17,Buffalo Bills,2016
+['James Ihedigbo'],Injured Reserve: Ankle,week_17,Buffalo Bills,2016
+['Richie Incognito'],NA,week_17,Buffalo Bills,2016
+['Randell Johnson'],Injured Reserve: Ankle,week_17,Buffalo Bills,2016
+['Cardale Jones'],NA,week_17,Buffalo Bills,2016
+['Cyrus Kouandjio'],NA,week_17,Buffalo Bills,2016
+['Shaq Lawson'],NA,week_17,Buffalo Bills,2016
+['Patrick Lewis'],NA,week_17,Buffalo Bills,2016
+['Kolby Listenbee'],Injured Reserve: Hernia,week_17,Buffalo Bills,2016
+['LeSean McCoy'],NA,week_17,Buffalo Bills,2016
+['Jonathan Meeks'],NA,week_17,Buffalo Bills,2016
+['John Miller'],Questionable: hip,week_17,Buffalo Bills,2016
+['Walt Powell'],Injured Reserve: Ankle,week_17,Buffalo Bills,2016
+['Reggie Ragland'],Injured Reserve: Knee,week_17,Buffalo Bills,2016
+['Greg Salas'],Injured Reserve: Groin,week_17,Buffalo Bills,2016
+['Colton Schmidt'],NA,week_17,Buffalo Bills,2016
+['Kevon Seymour'],NA,week_17,Buffalo Bills,2016
+['Brandon Tate'],NA,week_17,Buffalo Bills,2016
+['Sammy Watkins'],Questionable: foot,week_17,Buffalo Bills,2016
+['Corey White'],NA,week_17,Buffalo Bills,2016
+['James Wilder'],Injured Reserve: Concussion,week_17,Buffalo Bills,2016
+['Aaron Williams'],Injured Reserve: Neck,week_17,Buffalo Bills,2016
+['Jonathan Williams'],NA,week_17,Buffalo Bills,2016
+['Kyle Williams'],Questionable: back,week_17,Buffalo Bills,2016
+['Eric Wood'],Injured Reserve: Leg,week_17,Buffalo Bills,2016
+['Jerel Worthy'],NA,week_17,Buffalo Bills,2016

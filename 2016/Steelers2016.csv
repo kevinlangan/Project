@@ -1,0 +1,666 @@
+﻿name,injury,week,team,year
+['Chris Boswell'],NA,week_1,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_1,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_1,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_1,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_1,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_1,Pittsburgh Steelers,2016
+['William Gay'],NA,week_1,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_1,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_1,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_1,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_1,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_1,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_1,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_1,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_1,Pittsburgh Steelers,2016
+['Ryan Harris'],NA,week_1,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_1,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_1,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_1,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_1,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_1,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_1,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_1,Pittsburgh Steelers,2016
+['Roosevelt Nix'],Out: back,week_1,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_1,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_1,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_1,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_1,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_1,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_1,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_1,Pittsburgh Steelers,2016
+['Cody Wallace'],Out: knee,week_1,Pittsburgh Steelers,2016
+['Markus Wheaton'],NA,week_1,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_1,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_1,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_2,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_2,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_2,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_2,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_2,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_2,Pittsburgh Steelers,2016
+['William Gay'],NA,week_2,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_2,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_2,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_2,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_2,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_2,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_2,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_2,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_2,Pittsburgh Steelers,2016
+['Ryan Harris'],NA,week_2,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_2,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_2,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_2,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_2,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_2,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_2,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_2,Pittsburgh Steelers,2016
+['Roosevelt Nix'],Out: back,week_2,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_2,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_2,Pittsburgh Steelers,2016
+['Ryan Shazier'],Questionable: knee,week_2,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_2,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_2,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_2,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_2,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_2,Pittsburgh Steelers,2016
+['Markus Wheaton'],NA,week_2,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_2,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_2,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_3,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_3,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_3,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_3,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_3,Pittsburgh Steelers,2016
+['Ramon Foster'],Questionable: elbow,week_3,Pittsburgh Steelers,2016
+['William Gay'],NA,week_3,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_3,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_3,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_3,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_3,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_3,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_3,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_3,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_3,Pittsburgh Steelers,2016
+['Ryan Harris'],NA,week_3,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_3,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_3,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_3,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_3,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_3,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_3,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_3,Pittsburgh Steelers,2016
+['Roosevelt Nix'],Doubtful: back,week_3,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_3,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_3,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_3,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_3,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_3,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_3,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_3,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_3,Pittsburgh Steelers,2016
+['Markus Wheaton'],NA,week_3,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_3,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_3,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_4,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_4,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_4,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_4,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_4,Pittsburgh Steelers,2016
+['Ramon Foster'],Out: chest,week_4,Pittsburgh Steelers,2016
+['William Gay'],NA,week_4,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_4,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_4,Pittsburgh Steelers,2016
+['Robert Golden'],Out: hamstring,week_4,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_4,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_4,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_4,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_4,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_4,Pittsburgh Steelers,2016
+['Ryan Harris'],NA,week_4,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_4,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_4,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_4,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_4,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_4,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_4,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_4,Pittsburgh Steelers,2016
+['Roosevelt Nix'],Out: back,week_4,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_4,Pittsburgh Steelers,2016
+['Eli Rogers'],Out: toe,week_4,Pittsburgh Steelers,2016
+['Ryan Shazier'],Out: knee,week_4,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_4,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_4,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_4,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_4,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_4,Pittsburgh Steelers,2016
+['Markus Wheaton'],NA,week_4,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_4,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_4,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_5,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_5,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_5,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_5,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_5,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_5,Pittsburgh Steelers,2016
+['William Gay'],NA,week_5,Pittsburgh Steelers,2016
+['Justin Gilbert'],Out: knee,week_5,Pittsburgh Steelers,2016
+['Marcus Gilbert'],Out: ankle,week_5,Pittsburgh Steelers,2016
+['Robert Golden'],Out: hamstring,week_5,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_5,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_5,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_5,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_5,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_5,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_5,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_5,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_5,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_5,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_5,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_5,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_5,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_5,Pittsburgh Steelers,2016
+['Roosevelt Nix'],Out: back,week_5,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_5,Pittsburgh Steelers,2016
+['Eli Rogers'],Out: toe,week_5,Pittsburgh Steelers,2016
+['Ryan Shazier'],Out: knee,week_5,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_5,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_5,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_5,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_5,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_5,Pittsburgh Steelers,2016
+['Markus Wheaton'],NA,week_5,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_5,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_5,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_6,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_6,Pittsburgh Steelers,2016
+['Sammie Coates'],Questionable: finger,week_6,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_6,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_6,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_6,Pittsburgh Steelers,2016
+['William Gay'],NA,week_6,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_6,Pittsburgh Steelers,2016
+['Marcus Gilbert'],Out: ankle,week_6,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_6,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_6,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_6,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_6,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_6,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_6,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_6,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_6,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_6,Pittsburgh Steelers,2016
+['Cameron Heyward'],Out: hamstring,week_6,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_6,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_6,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_6,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_6,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_6,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_6,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_6,Pittsburgh Steelers,2016
+['Ryan Shazier'],Out: knee,week_6,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Out: groin,week_6,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_6,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_6,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_6,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_6,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_6,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_6,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_6,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_7,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_7,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_7,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_7,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_7,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_7,Pittsburgh Steelers,2016
+['William Gay'],NA,week_7,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_7,Pittsburgh Steelers,2016
+['Marcus Gilbert'],Out: ankle,week_7,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_7,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_7,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_7,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_7,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_7,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_7,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_7,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_7,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_7,Pittsburgh Steelers,2016
+['Cameron Heyward'],Out: hamstring,week_7,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_7,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_7,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_7,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_7,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_7,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],Out: knee,week_7,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_7,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_7,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Out: groin,week_7,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_7,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_7,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_7,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_7,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_7,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Out: knee,week_7,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_7,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_9,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_9,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_9,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_9,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_9,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_9,Pittsburgh Steelers,2016
+['William Gay'],Questionable: foot,week_9,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_9,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_9,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_9,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_9,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_9,Pittsburgh Steelers,2016
+['Ladarius Green'],Injured Reserve: Ankle,week_9,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_9,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_9,Pittsburgh Steelers,2016
+['Ryan Harris'],NA,week_9,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_9,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_9,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_9,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_9,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_9,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_9,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_9,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_9,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],Questionable: left knee,week_9,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_9,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_9,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_9,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_9,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_9,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_9,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_9,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_9,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Questionable: knee,week_9,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_9,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_10,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_10,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_10,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],Out: groin,week_10,Pittsburgh Steelers,2016
+['Bud Dupree'],Injured Reserve: Abdominal,week_10,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_10,Pittsburgh Steelers,2016
+['William Gay'],NA,week_10,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_10,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_10,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_10,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_10,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_10,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_10,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_10,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_10,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_10,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_10,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_10,Pittsburgh Steelers,2016
+['Cameron Heyward'],NA,week_10,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_10,Pittsburgh Steelers,2016
+['Steven Johnson'],NA,week_10,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_10,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_10,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_10,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_10,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_10,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_10,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_10,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_10,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_10,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_10,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_10,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_10,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Out: knee,week_10,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_10,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_11,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_11,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_11,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],Questionable: groin,week_11,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_11,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_11,Pittsburgh Steelers,2016
+['William Gay'],NA,week_11,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_11,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_11,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_11,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_11,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_11,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_11,Pittsburgh Steelers,2016
+['Xavier Grimble'],Questionable: quadricep,week_11,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_11,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_11,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_11,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_11,Pittsburgh Steelers,2016
+['Cameron Heyward'],Out: pectoral,week_11,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_11,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_11,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_11,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_11,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_11,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_11,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_11,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_11,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Out: groin,week_11,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_11,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_11,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_11,Pittsburgh Steelers,2016
+['Cody Wallace'],NA,week_11,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_11,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Out: knee,week_11,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_11,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_12,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_12,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_12,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_12,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_12,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_12,Pittsburgh Steelers,2016
+['William Gay'],NA,week_12,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_12,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_12,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_12,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_12,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_12,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_12,Pittsburgh Steelers,2016
+['Xavier Grimble'],Out: quadricep,week_12,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_12,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_12,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_12,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_12,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_12,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_12,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_12,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_12,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_12,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_12,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_12,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_12,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_12,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Out: groin,week_12,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_12,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_12,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_12,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_12,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Out: knee,week_12,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_12,Pittsburgh Steelers,2016
+['Chris Boswell'],Questionable: abdomen,week_13,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_13,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_13,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_13,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_13,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_13,Pittsburgh Steelers,2016
+['William Gay'],NA,week_13,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_13,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_13,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_13,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_13,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_13,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_13,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_13,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_13,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_13,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_13,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_13,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_13,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_13,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_13,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_13,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_13,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_13,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_13,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_13,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_13,Pittsburgh Steelers,2016
+['Shamarko Thomas'],NA,week_13,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_13,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_13,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_13,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_13,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Out: knee,week_13,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_13,Pittsburgh Steelers,2016
+['Chris Boswell'],Questionable: abdomen,week_14,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_14,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_14,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_14,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_14,Pittsburgh Steelers,2016
+['Ramon Foster'],Questionable: chest,week_14,Pittsburgh Steelers,2016
+['William Gay'],NA,week_14,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_14,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_14,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_14,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_14,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_14,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_14,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_14,Pittsburgh Steelers,2016
+['Javon Hargrave'],Doubtful: concussion,week_14,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_14,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_14,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_14,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_14,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_14,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_14,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_14,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_14,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_14,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_14,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_14,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_14,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_14,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_14,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_14,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_14,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_14,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_14,Pittsburgh Steelers,2016
+['DeAngelo Williams'],Questionable: knee,week_14,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_14,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_15,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_15,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_15,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_15,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_15,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_15,Pittsburgh Steelers,2016
+['William Gay'],NA,week_15,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_15,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_15,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_15,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_15,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_15,Pittsburgh Steelers,2016
+['Ladarius Green'],NA,week_15,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_15,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_15,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_15,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_15,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_15,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_15,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Out: foot,week_15,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_15,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_15,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_15,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_15,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_15,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_15,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_15,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_15,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_15,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_15,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_15,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_15,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_15,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_15,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_15,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_16,Pittsburgh Steelers,2016
+['Anthony Chickillo'],Questionable: ankle,week_16,Pittsburgh Steelers,2016
+['Sammie Coates'],Doubtful: hamstring,week_16,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_16,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_16,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_16,Pittsburgh Steelers,2016
+['William Gay'],NA,week_16,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_16,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_16,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_16,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_16,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_16,Pittsburgh Steelers,2016
+['Ladarius Green'],Doubtful: concussion,week_16,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_16,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_16,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_16,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_16,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_16,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_16,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],Questionable: foot,week_16,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_16,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_16,Pittsburgh Steelers,2016
+['Ricardo Mathews'],Questionable: ankle,week_16,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_16,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_16,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_16,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_16,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Out: concussion,week_16,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_16,Pittsburgh Steelers,2016
+['Stephon Tuitt'],Questionable: knee,week_16,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_16,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_16,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_16,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_16,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_17,Pittsburgh Steelers,2016
+['Anthony Chickillo'],Questionable: ankle,week_17,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_17,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_17,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_17,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_17,Pittsburgh Steelers,2016
+['William Gay'],NA,week_17,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_17,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_17,Pittsburgh Steelers,2016
+['Robert Golden'],Out: ankle,week_17,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_17,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_17,Pittsburgh Steelers,2016
+['Ladarius Green'],Out: concussion,week_17,Pittsburgh Steelers,2016
+['Xavier Grimble'],Questionable: ribs,week_17,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_17,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_17,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_17,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_17,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_17,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_17,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_17,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_17,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_17,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_17,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_17,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_17,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_17,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_17,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_17,Pittsburgh Steelers,2016
+['Stephon Tuitt'],Out: knee,week_17,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_17,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_17,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_17,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_17,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_18,Pittsburgh Steelers,2016
+['Anthony Chickillo'],Out: ankle,week_18,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_18,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_18,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_18,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_18,Pittsburgh Steelers,2016
+['William Gay'],NA,week_18,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_18,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_18,Pittsburgh Steelers,2016
+['Robert Golden'],Questionable: ankle,week_18,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_18,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_18,Pittsburgh Steelers,2016
+['Ladarius Green'],Questionable: concussion,week_18,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_18,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_18,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_18,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_18,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_18,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_18,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_18,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_18,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_18,Pittsburgh Steelers,2016
+['Ricardo Mathews'],Out: ankle,week_18,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_18,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_18,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_18,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_18,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_18,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_18,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_18,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_18,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_18,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_18,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_18,Pittsburgh Steelers,2016
+['Vince Williams'],Questionable: shoulder,week_18,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_19,Pittsburgh Steelers,2016
+['Anthony Chickillo'],Out: ankle,week_19,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_19,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_19,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_19,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_19,Pittsburgh Steelers,2016
+['William Gay'],NA,week_19,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_19,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_19,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_19,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_19,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_19,Pittsburgh Steelers,2016
+['Ladarius Green'],Doubtful: concussion,week_19,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_19,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_19,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_19,Pittsburgh Steelers,2016
+['James Harrison'],NA,week_19,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_19,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_19,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_19,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_19,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_19,Pittsburgh Steelers,2016
+['Ricardo Mathews'],Questionable: ankle,week_19,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_19,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_19,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_19,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_19,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_19,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],Questionable: concussion,week_19,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_19,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_19,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_19,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_19,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_19,Pittsburgh Steelers,2016
+['Chris Boswell'],NA,week_20,Pittsburgh Steelers,2016
+['Anthony Chickillo'],NA,week_20,Pittsburgh Steelers,2016
+['Sammie Coates'],NA,week_20,Pittsburgh Steelers,2016
+['Jordan Dangerfield'],NA,week_20,Pittsburgh Steelers,2016
+['Bud Dupree'],NA,week_20,Pittsburgh Steelers,2016
+['Ramon Foster'],NA,week_20,Pittsburgh Steelers,2016
+['William Gay'],NA,week_20,Pittsburgh Steelers,2016
+['Justin Gilbert'],NA,week_20,Pittsburgh Steelers,2016
+['Marcus Gilbert'],NA,week_20,Pittsburgh Steelers,2016
+['Robert Golden'],NA,week_20,Pittsburgh Steelers,2016
+['Senquez Golson'],Injured Reserve: Foot,week_20,Pittsburgh Steelers,2016
+['Bruce Gradkowski'],Injured Reserve: Hamstring,week_20,Pittsburgh Steelers,2016
+['Ladarius Green'],Questionable: concussion,week_20,Pittsburgh Steelers,2016
+['Xavier Grimble'],NA,week_20,Pittsburgh Steelers,2016
+['Javon Hargrave'],NA,week_20,Pittsburgh Steelers,2016
+['Ryan Harris'],Injured Reserve: Shin,week_20,Pittsburgh Steelers,2016
+['James Harrison'],"Questionable: shoulder, triceps",week_20,Pittsburgh Steelers,2016
+['Jerald Hawkins'],Injured Reserve: Shoulder,week_20,Pittsburgh Steelers,2016
+['Cameron Heyward'],Injured Reserve: Pectoral,week_20,Pittsburgh Steelers,2016
+['Darrius Heyward-Bey'],NA,week_20,Pittsburgh Steelers,2016
+['Steven Johnson'],Injured Reserve: Ankle,week_20,Pittsburgh Steelers,2016
+['Cole Manhart'],Injured Reserve: Undisclosed,week_20,Pittsburgh Steelers,2016
+['Ricardo Mathews'],NA,week_20,Pittsburgh Steelers,2016
+['Roosevelt Nix'],NA,week_20,Pittsburgh Steelers,2016
+['Ben Roethlisberger'],NA,week_20,Pittsburgh Steelers,2016
+['Eli Rogers'],NA,week_20,Pittsburgh Steelers,2016
+['Ryan Shazier'],NA,week_20,Pittsburgh Steelers,2016
+['Shamarko Thomas'],Injured Reserve: Concussion,week_20,Pittsburgh Steelers,2016
+['Fitzgerald Toussaint'],NA,week_20,Pittsburgh Steelers,2016
+['Stephon Tuitt'],NA,week_20,Pittsburgh Steelers,2016
+['Valerian Ume-Ezeoke'],Injured Reserve: Undisclosed,week_20,Pittsburgh Steelers,2016
+['Cody Wallace'],Injured Reserve: Knee,week_20,Pittsburgh Steelers,2016
+['Markus Wheaton'],Injured Reserve: Shoulder,week_20,Pittsburgh Steelers,2016
+['DeAngelo Williams'],NA,week_20,Pittsburgh Steelers,2016
+['Vince Williams'],NA,week_20,Pittsburgh Steelers,2016

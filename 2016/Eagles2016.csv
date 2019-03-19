@@ -1,0 +1,401 @@
+﻿name,injury,week,team,year
+['Allen Barbre'],NA,week_1,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_1,Philadelphia Eagles,2016
+['Ron Brooks'],NA,week_1,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_1,Philadelphia Eagles,2016
+['Trey Burton'],Questionable: calf,week_1,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_1,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_1,Philadelphia Eagles,2016
+['Vinny Curry'],Questionable: knee,week_1,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_1,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_1,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_1,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_1,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_1,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_1,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_1,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_1,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_1,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_1,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_1,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_1,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_1,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_1,Philadelphia Eagles,2016
+['Bryce Treggs'],Out: knee,week_1,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_1,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_1,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_2,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_2,Philadelphia Eagles,2016
+['Ron Brooks'],NA,week_2,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_2,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_2,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_2,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_2,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_2,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_2,Philadelphia Eagles,2016
+['Zach Ertz'],Out: rib,week_2,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_2,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_2,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_2,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_2,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_2,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_2,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_2,Philadelphia Eagles,2016
+['Leodis McKelvin'],Out: hamstring,week_2,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_2,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_2,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_2,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_2,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_2,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_2,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_2,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_3,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_3,Philadelphia Eagles,2016
+['Ron Brooks'],NA,week_3,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_3,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_3,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_3,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_3,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_3,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_3,Philadelphia Eagles,2016
+['Zach Ertz'],Out: rib,week_3,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_3,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_3,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_3,Philadelphia Eagles,2016
+['Mychal Kendricks'],"Questionable: nose, quadriceps",week_3,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_3,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_3,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_3,Philadelphia Eagles,2016
+['Leodis McKelvin'],Out: hamstring,week_3,Philadelphia Eagles,2016
+['Isaac Seumalo'],Out: pectoral,week_3,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_3,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_3,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_3,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_3,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_3,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_3,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_5,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_5,Philadelphia Eagles,2016
+['Ron Brooks'],NA,week_5,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_5,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_5,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_5,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_5,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_5,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_5,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_5,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_5,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_5,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_5,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_5,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_5,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_5,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_5,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_5,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_5,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_5,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_5,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_5,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_5,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_5,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_5,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_6,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_6,Philadelphia Eagles,2016
+['Ron Brooks'],NA,week_6,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_6,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_6,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_6,Philadelphia Eagles,2016
+['Fletcher Cox'],Questionable: ankle,week_6,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_6,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_6,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_6,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_6,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_6,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_6,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_6,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_6,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_6,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_6,Philadelphia Eagles,2016
+['Leodis McKelvin'],Questionable: hamstring,week_6,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_6,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_6,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_6,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_6,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_6,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_6,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_6,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_7,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_7,Philadelphia Eagles,2016
+['Ron Brooks'],Questionable: calf,week_7,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_7,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_7,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_7,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_7,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_7,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_7,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_7,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_7,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_7,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_7,Philadelphia Eagles,2016
+['Mychal Kendricks'],Questionable: ribs,week_7,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_7,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_7,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_7,Philadelphia Eagles,2016
+['Leodis McKelvin'],Questionable: hamstring,week_7,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_7,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_7,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_7,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_7,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_7,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_7,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_7,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_8,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_8,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_8,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_8,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_8,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_8,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_8,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_8,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_8,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_8,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_8,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],Out: hamstring,week_8,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_8,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_8,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_8,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_8,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_8,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_8,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_8,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_8,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_8,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_8,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_8,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_8,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_8,Philadelphia Eagles,2016
+['Allen Barbre'],Out: hamstring,week_9,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_9,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_9,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_9,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_9,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_9,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_9,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_9,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_9,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_9,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_9,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],Out: hamstring,week_9,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_9,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_9,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_9,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_9,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_9,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_9,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_9,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_9,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_9,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_9,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_9,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_9,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_9,Philadelphia Eagles,2016
+['Allen Barbre'],Out: hamstring,week_10,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_10,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_10,Philadelphia Eagles,2016
+['Terrence Brooks'],Out: hamstring,week_10,Philadelphia Eagles,2016
+['Trey Burton'],Questionable: hamstring,week_10,Philadelphia Eagles,2016
+['Brent Celek'],Questionable: ribs,week_10,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_10,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_10,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_10,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_10,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_10,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],Doubtful: hamstring,week_10,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_10,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_10,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_10,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_10,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_10,Philadelphia Eagles,2016
+['Leodis McKelvin'],Questionable: hamstring,week_10,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_10,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_10,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_10,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_10,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_10,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_10,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_10,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_11,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_11,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_11,Philadelphia Eagles,2016
+['Terrence Brooks'],Out: hamstring,week_11,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_11,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_11,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_11,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_11,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_11,Philadelphia Eagles,2016
+['Zach Ertz'],Questionable: hamstring,week_11,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_11,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_11,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_11,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_11,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_11,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: back,week_11,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_11,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_11,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_11,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_11,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_11,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_11,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_11,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_11,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_11,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_12,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_12,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_12,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_12,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_12,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_12,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_12,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_12,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_12,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_12,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_12,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_12,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_12,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_12,Philadelphia Eagles,2016
+['Ryan Mathews'],Out: knee,week_12,Philadelphia Eagles,2016
+['Jordan Matthews'],NA,week_12,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_12,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_12,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_12,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_12,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_12,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_12,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_12,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],Out: knee,week_12,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_12,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_13,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_13,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_13,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_13,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_13,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_13,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_13,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_13,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_13,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_13,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_13,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_13,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_13,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_13,Philadelphia Eagles,2016
+['Ryan Mathews'],Out: knee,week_13,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: ankle,week_13,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_13,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_13,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_13,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_13,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_13,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_13,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_13,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],Out: knee,week_13,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_13,Philadelphia Eagles,2016
+['Allen Barbre'],NA,week_14,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_14,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_14,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_14,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_14,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_14,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_14,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_14,Philadelphia Eagles,2016
+['Jon Dorenbos'],NA,week_14,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_14,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],Questionable: abdomen,week_14,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_14,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_14,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_14,Philadelphia Eagles,2016
+['Ryan Mathews'],Questionable: knee,week_14,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: ankle,week_14,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_14,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_14,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_14,Philadelphia Eagles,2016
+['Wendell Smallwood'],NA,week_14,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_14,Philadelphia Eagles,2016
+['Matt Tobin'],NA,week_14,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_14,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],Out: knee,week_14,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_14,Philadelphia Eagles,2016
+['Allen Barbre'],Questionable: hamstring,week_15,Philadelphia Eagles,2016
+['Kenjon Barner'],NA,week_15,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_15,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_15,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_15,Philadelphia Eagles,2016
+['Brent Celek'],Questionable: stinger,week_15,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_15,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_15,Philadelphia Eagles,2016
+['Jon Dorenbos'],Injured Reserve: Wrist,week_15,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_15,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],Questionable: abdomen,week_15,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],Questionable: illness,week_15,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_15,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_15,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_15,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: ankle,week_15,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_15,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_15,Philadelphia Eagles,2016
+['Isaac Seumalo'],NA,week_15,Philadelphia Eagles,2016
+['Wendell Smallwood'],Injured Reserve: Knee,week_15,Philadelphia Eagles,2016
+['Darren Sproles'],Out: concussion,week_15,Philadelphia Eagles,2016
+['Matt Tobin'],Injured Reserve: Knee,week_15,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_15,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],Out: knee,week_15,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_15,Philadelphia Eagles,2016
+['Allen Barbre'],Questionable: hamstring,week_16,Philadelphia Eagles,2016
+['Kenjon Barner'],Injured Reserve: Hamstring,week_16,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_16,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_16,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_16,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_16,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_16,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_16,Philadelphia Eagles,2016
+['Jon Dorenbos'],Injured Reserve: Wrist,week_16,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_16,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_16,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_16,Philadelphia Eagles,2016
+['Jordan Hicks'],NA,week_16,Philadelphia Eagles,2016
+['Mychal Kendricks'],NA,week_16,Philadelphia Eagles,2016
+['Ryan Mathews'],NA,week_16,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: ankle,week_16,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_16,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_16,Philadelphia Eagles,2016
+['Isaac Seumalo'],Questionable: ankle,week_16,Philadelphia Eagles,2016
+['Wendell Smallwood'],Injured Reserve: Knee,week_16,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_16,Philadelphia Eagles,2016
+['Matt Tobin'],Injured Reserve: Knee,week_16,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_16,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],Questionable: knee,week_16,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_16,Philadelphia Eagles,2016
+['Allen Barbre'],Doubtful: hamstring,week_17,Philadelphia Eagles,2016
+['Kenjon Barner'],Injured Reserve: Hamstring,week_17,Philadelphia Eagles,2016
+['Ron Brooks'],Injured Reserve: Quadricep,week_17,Philadelphia Eagles,2016
+['Terrence Brooks'],NA,week_17,Philadelphia Eagles,2016
+['Trey Burton'],NA,week_17,Philadelphia Eagles,2016
+['Brent Celek'],NA,week_17,Philadelphia Eagles,2016
+['Fletcher Cox'],NA,week_17,Philadelphia Eagles,2016
+['Vinny Curry'],NA,week_17,Philadelphia Eagles,2016
+['Jon Dorenbos'],Injured Reserve: Wrist,week_17,Philadelphia Eagles,2016
+['Zach Ertz'],NA,week_17,Philadelphia Eagles,2016
+['Dorial Green-Beckham'],NA,week_17,Philadelphia Eagles,2016
+['Kamu Grugier-Hill'],NA,week_17,Philadelphia Eagles,2016
+['Jordan Hicks'],Questionable: ankle,week_17,Philadelphia Eagles,2016
+['Mychal Kendricks'],Questionable: quadriceps,week_17,Philadelphia Eagles,2016
+['Ryan Mathews'],Injured Reserve: Neck,week_17,Philadelphia Eagles,2016
+['Jordan Matthews'],Questionable: ankle,week_17,Philadelphia Eagles,2016
+['Alex McCalister'],Injured Reserve: Calf,week_17,Philadelphia Eagles,2016
+['Leodis McKelvin'],NA,week_17,Philadelphia Eagles,2016
+['Isaac Seumalo'],Questionable: ankle,week_17,Philadelphia Eagles,2016
+['Wendell Smallwood'],Injured Reserve: Knee,week_17,Philadelphia Eagles,2016
+['Darren Sproles'],NA,week_17,Philadelphia Eagles,2016
+['Matt Tobin'],Injured Reserve: Knee,week_17,Philadelphia Eagles,2016
+['Bryce Treggs'],NA,week_17,Philadelphia Eagles,2016
+['Halapoulivaati Vaitai'],NA,week_17,Philadelphia Eagles,2016
+['Joe Walker'],Injured Reserve: Knee,week_17,Philadelphia Eagles,2016

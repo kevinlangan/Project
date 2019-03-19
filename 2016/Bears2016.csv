@@ -1,0 +1,833 @@
+﻿name,injury,week,team,year
+['Sam Acho'],NA,week_1,Chicago Bears,2016
+['Mike Adams'],NA,week_1,Chicago Bears,2016
+['Adrian Amos'],NA,week_1,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_1,Chicago Bears,2016
+['Johnthan Banks'],NA,week_1,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_1,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_1,Chicago Bears,2016
+['Josh Bellamy'],Questionable: shoulder,week_1,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_1,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_1,Chicago Bears,2016
+['Deon Bush'],Questionable: hamstring,week_1,Chicago Bears,2016
+['Bryce Callahan'],Questionable: groin,week_1,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_1,Chicago Bears,2016
+['Jay Cutler'],NA,week_1,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_1,Chicago Bears,2016
+['Leonard Floyd'],NA,week_1,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_1,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_1,Chicago Bears,2016
+['Eddie Goldman'],NA,week_1,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_1,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_1,Chicago Bears,2016
+['Lamarr Houston'],NA,week_1,Chicago Bears,2016
+['Brian Hoyer'],NA,week_1,Chicago Bears,2016
+['Christian Jones'],NA,week_1,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_1,Chicago Bears,2016
+['Eric Kush'],NA,week_1,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_1,Chicago Bears,2016
+['Jeremy Langford'],NA,week_1,Chicago Bears,2016
+['Paul Lasike'],Questionable: wrist,week_1,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_1,Chicago Bears,2016
+['Charles Leno'],NA,week_1,Chicago Bears,2016
+['Kyle Long'],Questionable: shoulder,week_1,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_1,Chicago Bears,2016
+['Bobby Massie'],NA,week_1,Chicago Bears,2016
+['Sherrick McManis'],NA,week_1,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_1,Chicago Bears,2016
+['Cameron Meredith'],NA,week_1,Chicago Bears,2016
+['Zach Miller'],NA,week_1,Chicago Bears,2016
+['Tracy Porter'],NA,week_1,Chicago Bears,2016
+['Chris Prosinski'],NA,week_1,Chicago Bears,2016
+['MyCole Pruitt'],Out: knee,week_1,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_1,Chicago Bears,2016
+['Eddie Royal'],NA,week_1,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_1,Chicago Bears,2016
+['Josh Sitton'],NA,week_1,Chicago Bears,2016
+['Will Sutton'],NA,week_1,Chicago Bears,2016
+['Deonte Thompson'],"Questionable: knee, ankle",week_1,Chicago Bears,2016
+['Danny Trevathan'],NA,week_1,Chicago Bears,2016
+['Mitch Unrein'],NA,week_1,Chicago Bears,2016
+['Kevin White'],Questionable: hamstring,week_1,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_1,Chicago Bears,2016
+['Willie Young'],NA,week_1,Chicago Bears,2016
+['Sam Acho'],NA,week_2,Chicago Bears,2016
+['Mike Adams'],NA,week_2,Chicago Bears,2016
+['Adrian Amos'],NA,week_2,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_2,Chicago Bears,2016
+['Johnthan Banks'],NA,week_2,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_2,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_2,Chicago Bears,2016
+['Josh Bellamy'],NA,week_2,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_2,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_2,Chicago Bears,2016
+['Deon Bush'],NA,week_2,Chicago Bears,2016
+['Bryce Callahan'],NA,week_2,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_2,Chicago Bears,2016
+['Jay Cutler'],: right thumb sprain,week_2,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_2,Chicago Bears,2016
+['Leonard Floyd'],NA,week_2,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_2,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_2,Chicago Bears,2016
+['Eddie Goldman'],: high ankle sprain,week_2,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_2,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_2,Chicago Bears,2016
+['Lamarr Houston'],NA,week_2,Chicago Bears,2016
+['Brian Hoyer'],NA,week_2,Chicago Bears,2016
+['Christian Jones'],NA,week_2,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_2,Chicago Bears,2016
+['Eric Kush'],NA,week_2,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_2,Chicago Bears,2016
+['Jeremy Langford'],NA,week_2,Chicago Bears,2016
+['Paul Lasike'],NA,week_2,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_2,Chicago Bears,2016
+['Charles Leno'],NA,week_2,Chicago Bears,2016
+['Kyle Long'],NA,week_2,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_2,Chicago Bears,2016
+['Bobby Massie'],NA,week_2,Chicago Bears,2016
+['Sherrick McManis'],NA,week_2,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_2,Chicago Bears,2016
+['Cameron Meredith'],NA,week_2,Chicago Bears,2016
+['Zach Miller'],NA,week_2,Chicago Bears,2016
+['Tracy Porter'],NA,week_2,Chicago Bears,2016
+['Chris Prosinski'],NA,week_2,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_2,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_2,Chicago Bears,2016
+['Eddie Royal'],NA,week_2,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_2,Chicago Bears,2016
+['Josh Sitton'],NA,week_2,Chicago Bears,2016
+['Will Sutton'],NA,week_2,Chicago Bears,2016
+['Deonte Thompson'],NA,week_2,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_2,Chicago Bears,2016
+['Mitch Unrein'],NA,week_2,Chicago Bears,2016
+['Kevin White'],NA,week_2,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_2,Chicago Bears,2016
+['Willie Young'],NA,week_2,Chicago Bears,2016
+['Sam Acho'],NA,week_3,Chicago Bears,2016
+['Mike Adams'],NA,week_3,Chicago Bears,2016
+['Adrian Amos'],Questionable: concussion,week_3,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_3,Chicago Bears,2016
+['Johnthan Banks'],NA,week_3,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_3,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_3,Chicago Bears,2016
+['Josh Bellamy'],NA,week_3,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_3,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_3,Chicago Bears,2016
+['Deon Bush'],NA,week_3,Chicago Bears,2016
+['Bryce Callahan'],Questionable: concussion,week_3,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Doubtful: hamstring,week_3,Chicago Bears,2016
+['Jay Cutler'],Doubtful: right thumb,week_3,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_3,Chicago Bears,2016
+['Leonard Floyd'],NA,week_3,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_3,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_3,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_3,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_3,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_3,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_3,Chicago Bears,2016
+['Brian Hoyer'],NA,week_3,Chicago Bears,2016
+['Christian Jones'],NA,week_3,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_3,Chicago Bears,2016
+['Eric Kush'],NA,week_3,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_3,Chicago Bears,2016
+['Jeremy Langford'],NA,week_3,Chicago Bears,2016
+['Paul Lasike'],NA,week_3,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_3,Chicago Bears,2016
+['Charles Leno'],NA,week_3,Chicago Bears,2016
+['Kyle Long'],NA,week_3,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_3,Chicago Bears,2016
+['Bobby Massie'],Questionable: toe,week_3,Chicago Bears,2016
+['Sherrick McManis'],NA,week_3,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_3,Chicago Bears,2016
+['Cameron Meredith'],NA,week_3,Chicago Bears,2016
+['Zach Miller'],NA,week_3,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_3,Chicago Bears,2016
+['Chris Prosinski'],Questionable: calf,week_3,Chicago Bears,2016
+['MyCole Pruitt'],Questionable: knee,week_3,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_3,Chicago Bears,2016
+['Eddie Royal'],NA,week_3,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_3,Chicago Bears,2016
+['Josh Sitton'],Questionable: shoulder,week_3,Chicago Bears,2016
+['Will Sutton'],Questionable: elbow,week_3,Chicago Bears,2016
+['Deonte Thompson'],NA,week_3,Chicago Bears,2016
+['Danny Trevathan'],Out: thumb,week_3,Chicago Bears,2016
+['Mitch Unrein'],NA,week_3,Chicago Bears,2016
+['Kevin White'],NA,week_3,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_3,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_3,Chicago Bears,2016
+['Sam Acho'],NA,week_4,Chicago Bears,2016
+['Mike Adams'],NA,week_4,Chicago Bears,2016
+['Adrian Amos'],NA,week_4,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_4,Chicago Bears,2016
+['Johnthan Banks'],NA,week_4,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_4,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_4,Chicago Bears,2016
+['Josh Bellamy'],NA,week_4,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_4,Chicago Bears,2016
+['Jonathan Bullard'],Questionable: toe,week_4,Chicago Bears,2016
+['Deon Bush'],NA,week_4,Chicago Bears,2016
+['Bryce Callahan'],NA,week_4,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Doubtful: hamstring,week_4,Chicago Bears,2016
+['Jay Cutler'],Doubtful: right thumb,week_4,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_4,Chicago Bears,2016
+['Leonard Floyd'],NA,week_4,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_4,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_4,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_4,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_4,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_4,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_4,Chicago Bears,2016
+['Brian Hoyer'],NA,week_4,Chicago Bears,2016
+['Christian Jones'],NA,week_4,Chicago Bears,2016
+['Harold Jones-Quartey'],Questionable: concussion,week_4,Chicago Bears,2016
+['Eric Kush'],NA,week_4,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_4,Chicago Bears,2016
+['Jeremy Langford'],Doubtful: ankle,week_4,Chicago Bears,2016
+['Paul Lasike'],NA,week_4,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_4,Chicago Bears,2016
+['Charles Leno'],NA,week_4,Chicago Bears,2016
+['Kyle Long'],NA,week_4,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_4,Chicago Bears,2016
+['Bobby Massie'],NA,week_4,Chicago Bears,2016
+['Sherrick McManis'],Questionable: hamstring,week_4,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_4,Chicago Bears,2016
+['Cameron Meredith'],NA,week_4,Chicago Bears,2016
+['Zach Miller'],NA,week_4,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_4,Chicago Bears,2016
+['Chris Prosinski'],NA,week_4,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_4,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_4,Chicago Bears,2016
+['Eddie Royal'],NA,week_4,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_4,Chicago Bears,2016
+['Josh Sitton'],Questionable: shoulder,week_4,Chicago Bears,2016
+['Will Sutton'],NA,week_4,Chicago Bears,2016
+['Deonte Thompson'],NA,week_4,Chicago Bears,2016
+['Danny Trevathan'],Doubtful: thumb,week_4,Chicago Bears,2016
+['Mitch Unrein'],NA,week_4,Chicago Bears,2016
+['Kevin White'],: left ankle,week_4,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_4,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_4,Chicago Bears,2016
+['Sam Acho'],NA,week_5,Chicago Bears,2016
+['Mike Adams'],NA,week_5,Chicago Bears,2016
+['Adrian Amos'],NA,week_5,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_5,Chicago Bears,2016
+['Johnthan Banks'],NA,week_5,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_5,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_5,Chicago Bears,2016
+['Josh Bellamy'],NA,week_5,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_5,Chicago Bears,2016
+['Jonathan Bullard'],Questionable: shoulder,week_5,Chicago Bears,2016
+['Deon Bush'],NA,week_5,Chicago Bears,2016
+['Bryce Callahan'],NA,week_5,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Questionable: hamstring,week_5,Chicago Bears,2016
+['Jay Cutler'],Doubtful: right thumb,week_5,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_5,Chicago Bears,2016
+['Leonard Floyd'],Questionable: calf,week_5,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_5,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_5,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_5,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_5,Chicago Bears,2016
+"[""Deiondre' Hall""]",Doubtful: ankle,week_5,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_5,Chicago Bears,2016
+['Brian Hoyer'],NA,week_5,Chicago Bears,2016
+['Christian Jones'],NA,week_5,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_5,Chicago Bears,2016
+['Eric Kush'],NA,week_5,Chicago Bears,2016
+['Nick Kwiatkoski'],Questionable: elbow,week_5,Chicago Bears,2016
+['Jeremy Langford'],Doubtful: ankle,week_5,Chicago Bears,2016
+['Paul Lasike'],NA,week_5,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_5,Chicago Bears,2016
+['Charles Leno'],Questionable: illness,week_5,Chicago Bears,2016
+['Kyle Long'],NA,week_5,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_5,Chicago Bears,2016
+['Bobby Massie'],NA,week_5,Chicago Bears,2016
+['Sherrick McManis'],Questionable: hamstring,week_5,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_5,Chicago Bears,2016
+['Cameron Meredith'],NA,week_5,Chicago Bears,2016
+['Zach Miller'],Questionable: ribs,week_5,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_5,Chicago Bears,2016
+['Chris Prosinski'],NA,week_5,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_5,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_5,Chicago Bears,2016
+['Eddie Royal'],Questionable: calf,week_5,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_5,Chicago Bears,2016
+['Josh Sitton'],NA,week_5,Chicago Bears,2016
+['Will Sutton'],NA,week_5,Chicago Bears,2016
+['Deonte Thompson'],NA,week_5,Chicago Bears,2016
+['Danny Trevathan'],Questionable: thumb,week_5,Chicago Bears,2016
+['Mitch Unrein'],NA,week_5,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_5,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_5,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_5,Chicago Bears,2016
+['Sam Acho'],Questionable: ribs,week_6,Chicago Bears,2016
+['Mike Adams'],NA,week_6,Chicago Bears,2016
+['Adrian Amos'],NA,week_6,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_6,Chicago Bears,2016
+['Johnthan Banks'],NA,week_6,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_6,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_6,Chicago Bears,2016
+['Josh Bellamy'],NA,week_6,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_6,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_6,Chicago Bears,2016
+['Deon Bush'],NA,week_6,Chicago Bears,2016
+['Bryce Callahan'],Questionable: hamstring,week_6,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Questionable: hamstring,week_6,Chicago Bears,2016
+['Jay Cutler'],Doubtful: right thumb,week_6,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_6,Chicago Bears,2016
+['Leonard Floyd'],Questionable: calf,week_6,Chicago Bears,2016
+['Jerrell Freeman'],Questionable: wrist,week_6,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_6,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_6,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_6,Chicago Bears,2016
+"[""Deiondre' Hall""]",Out: ankle,week_6,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_6,Chicago Bears,2016
+['Brian Hoyer'],NA,week_6,Chicago Bears,2016
+['Christian Jones'],NA,week_6,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_6,Chicago Bears,2016
+['Eric Kush'],NA,week_6,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_6,Chicago Bears,2016
+['Jeremy Langford'],Doubtful: ankle,week_6,Chicago Bears,2016
+['Paul Lasike'],NA,week_6,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_6,Chicago Bears,2016
+['Charles Leno'],NA,week_6,Chicago Bears,2016
+['Kyle Long'],Questionable: shoulder,week_6,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_6,Chicago Bears,2016
+['Bobby Massie'],Questionable: ankle,week_6,Chicago Bears,2016
+['Sherrick McManis'],NA,week_6,Chicago Bears,2016
+['Pernell McPhee'],Injured Reserve: Knee,week_6,Chicago Bears,2016
+['Cameron Meredith'],NA,week_6,Chicago Bears,2016
+['Zach Miller'],Questionable: ribs,week_6,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_6,Chicago Bears,2016
+['Chris Prosinski'],NA,week_6,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_6,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_6,Chicago Bears,2016
+['Eddie Royal'],Questionable: calf,week_6,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_6,Chicago Bears,2016
+['Josh Sitton'],Questionable: shoulder,week_6,Chicago Bears,2016
+['Will Sutton'],NA,week_6,Chicago Bears,2016
+['Deonte Thompson'],NA,week_6,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_6,Chicago Bears,2016
+['Mitch Unrein'],NA,week_6,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_6,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_6,Chicago Bears,2016
+['Willie Young'],"Questionable: knee, elbow",week_6,Chicago Bears,2016
+['Sam Acho'],Questionable: ribs,week_7,Chicago Bears,2016
+['Mike Adams'],NA,week_7,Chicago Bears,2016
+['Adrian Amos'],NA,week_7,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_7,Chicago Bears,2016
+['Johnthan Banks'],NA,week_7,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_7,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_7,Chicago Bears,2016
+['Josh Bellamy'],NA,week_7,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_7,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_7,Chicago Bears,2016
+['Deon Bush'],NA,week_7,Chicago Bears,2016
+['Bryce Callahan'],Questionable: hamstring,week_7,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Questionable: hamstring,week_7,Chicago Bears,2016
+['Jay Cutler'],Doubtful: right thumb,week_7,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_7,Chicago Bears,2016
+['Leonard Floyd'],Questionable: calf,week_7,Chicago Bears,2016
+['Jerrell Freeman'],Questionable: wrist,week_7,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_7,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_7,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_7,Chicago Bears,2016
+"[""Deiondre' Hall""]",Out: ankle,week_7,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_7,Chicago Bears,2016
+['Brian Hoyer'],NA,week_7,Chicago Bears,2016
+['Christian Jones'],NA,week_7,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_7,Chicago Bears,2016
+['Eric Kush'],NA,week_7,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_7,Chicago Bears,2016
+['Jeremy Langford'],Doubtful: ankle,week_7,Chicago Bears,2016
+['Paul Lasike'],NA,week_7,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_7,Chicago Bears,2016
+['Charles Leno'],NA,week_7,Chicago Bears,2016
+['Kyle Long'],NA,week_7,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_7,Chicago Bears,2016
+['Bobby Massie'],NA,week_7,Chicago Bears,2016
+['Sherrick McManis'],NA,week_7,Chicago Bears,2016
+['Pernell McPhee'],NA,week_7,Chicago Bears,2016
+['Cameron Meredith'],NA,week_7,Chicago Bears,2016
+['Zach Miller'],Questionable: ribs,week_7,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_7,Chicago Bears,2016
+['Chris Prosinski'],NA,week_7,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_7,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_7,Chicago Bears,2016
+['Eddie Royal'],Out: toe,week_7,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_7,Chicago Bears,2016
+['Josh Sitton'],Doubtful: ankle,week_7,Chicago Bears,2016
+['Will Sutton'],NA,week_7,Chicago Bears,2016
+['Deonte Thompson'],NA,week_7,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_7,Chicago Bears,2016
+['Mitch Unrein'],NA,week_7,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_7,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_7,Chicago Bears,2016
+['Willie Young'],NA,week_7,Chicago Bears,2016
+['Sam Acho'],NA,week_8,Chicago Bears,2016
+['Mike Adams'],NA,week_8,Chicago Bears,2016
+['Adrian Amos'],NA,week_8,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_8,Chicago Bears,2016
+['Johnthan Banks'],NA,week_8,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_8,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_8,Chicago Bears,2016
+['Josh Bellamy'],NA,week_8,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_8,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_8,Chicago Bears,2016
+['Deon Bush'],NA,week_8,Chicago Bears,2016
+['Bryce Callahan'],Questionable: hamstring,week_8,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_8,Chicago Bears,2016
+['Jay Cutler'],: right thumb sprain,week_8,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_8,Chicago Bears,2016
+['Leonard Floyd'],NA,week_8,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_8,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_8,Chicago Bears,2016
+['Eddie Goldman'],Doubtful: ankle,week_8,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_8,Chicago Bears,2016
+"[""Deiondre' Hall""]",Out: ankle,week_8,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_8,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_8,Chicago Bears,2016
+['Christian Jones'],NA,week_8,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_8,Chicago Bears,2016
+['Eric Kush'],NA,week_8,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_8,Chicago Bears,2016
+['Jeremy Langford'],Questionable: ankle,week_8,Chicago Bears,2016
+['Paul Lasike'],NA,week_8,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_8,Chicago Bears,2016
+['Charles Leno'],NA,week_8,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_8,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_8,Chicago Bears,2016
+['Bobby Massie'],NA,week_8,Chicago Bears,2016
+['Sherrick McManis'],NA,week_8,Chicago Bears,2016
+['Pernell McPhee'],Questionable: knee,week_8,Chicago Bears,2016
+['Cameron Meredith'],Questionable: shoulder,week_8,Chicago Bears,2016
+['Zach Miller'],NA,week_8,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_8,Chicago Bears,2016
+['Chris Prosinski'],NA,week_8,Chicago Bears,2016
+['MyCole Pruitt'],Questionable: knee,week_8,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_8,Chicago Bears,2016
+['Eddie Royal'],Doubtful: toe,week_8,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_8,Chicago Bears,2016
+['Josh Sitton'],Questionable: ankle,week_8,Chicago Bears,2016
+['Will Sutton'],NA,week_8,Chicago Bears,2016
+['Deonte Thompson'],NA,week_8,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_8,Chicago Bears,2016
+['Mitch Unrein'],NA,week_8,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_8,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_8,Chicago Bears,2016
+['Willie Young'],NA,week_8,Chicago Bears,2016
+['Sam Acho'],NA,week_10,Chicago Bears,2016
+['Mike Adams'],NA,week_10,Chicago Bears,2016
+['Adrian Amos'],NA,week_10,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_10,Chicago Bears,2016
+['Johnthan Banks'],NA,week_10,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_10,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_10,Chicago Bears,2016
+['Josh Bellamy'],NA,week_10,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_10,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_10,Chicago Bears,2016
+['Deon Bush'],NA,week_10,Chicago Bears,2016
+['Bryce Callahan'],Questionable: hamstring,week_10,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_10,Chicago Bears,2016
+['Jay Cutler'],: right thumb sprain,week_10,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_10,Chicago Bears,2016
+['Leonard Floyd'],NA,week_10,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_10,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_10,Chicago Bears,2016
+['Eddie Goldman'],Questionable: ankle,week_10,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_10,Chicago Bears,2016
+"[""Deiondre' Hall""]",Out: ankle,week_10,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_10,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_10,Chicago Bears,2016
+['Christian Jones'],NA,week_10,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_10,Chicago Bears,2016
+['Eric Kush'],NA,week_10,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_10,Chicago Bears,2016
+['Jeremy Langford'],NA,week_10,Chicago Bears,2016
+['Paul Lasike'],NA,week_10,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_10,Chicago Bears,2016
+['Charles Leno'],NA,week_10,Chicago Bears,2016
+['Kyle Long'],NA,week_10,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_10,Chicago Bears,2016
+['Bobby Massie'],NA,week_10,Chicago Bears,2016
+['Sherrick McManis'],NA,week_10,Chicago Bears,2016
+['Pernell McPhee'],Questionable: knee,week_10,Chicago Bears,2016
+['Cameron Meredith'],NA,week_10,Chicago Bears,2016
+['Zach Miller'],NA,week_10,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_10,Chicago Bears,2016
+['Chris Prosinski'],NA,week_10,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_10,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_10,Chicago Bears,2016
+['Eddie Royal'],Questionable: toe,week_10,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_10,Chicago Bears,2016
+['Josh Sitton'],NA,week_10,Chicago Bears,2016
+['Will Sutton'],NA,week_10,Chicago Bears,2016
+['Deonte Thompson'],NA,week_10,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_10,Chicago Bears,2016
+['Mitch Unrein'],Questionable: back,week_10,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_10,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_10,Chicago Bears,2016
+['Willie Young'],NA,week_10,Chicago Bears,2016
+['Sam Acho'],NA,week_11,Chicago Bears,2016
+['Mike Adams'],NA,week_11,Chicago Bears,2016
+['Adrian Amos'],NA,week_11,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_11,Chicago Bears,2016
+['Johnthan Banks'],NA,week_11,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_11,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_11,Chicago Bears,2016
+['Josh Bellamy'],NA,week_11,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_11,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_11,Chicago Bears,2016
+['Deon Bush'],NA,week_11,Chicago Bears,2016
+['Bryce Callahan'],Questionable: hamstring,week_11,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_11,Chicago Bears,2016
+['Jay Cutler'],: right thumb sprain,week_11,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_11,Chicago Bears,2016
+['Leonard Floyd'],NA,week_11,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_11,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_11,Chicago Bears,2016
+['Eddie Goldman'],Questionable: ankle,week_11,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_11,Chicago Bears,2016
+"[""Deiondre' Hall""]",Doubtful: ankle,week_11,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_11,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_11,Chicago Bears,2016
+['Christian Jones'],NA,week_11,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_11,Chicago Bears,2016
+['Eric Kush'],NA,week_11,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_11,Chicago Bears,2016
+['Jeremy Langford'],NA,week_11,Chicago Bears,2016
+['Paul Lasike'],NA,week_11,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_11,Chicago Bears,2016
+['Charles Leno'],NA,week_11,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_11,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_11,Chicago Bears,2016
+['Bobby Massie'],Doubtful: concussion,week_11,Chicago Bears,2016
+['Sherrick McManis'],NA,week_11,Chicago Bears,2016
+['Pernell McPhee'],Questionable: knee,week_11,Chicago Bears,2016
+['Cameron Meredith'],NA,week_11,Chicago Bears,2016
+['Zach Miller'],NA,week_11,Chicago Bears,2016
+['Tracy Porter'],Questionable: knee,week_11,Chicago Bears,2016
+['Chris Prosinski'],NA,week_11,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_11,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_11,Chicago Bears,2016
+['Eddie Royal'],Questionable: toe,week_11,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_11,Chicago Bears,2016
+['Josh Sitton'],Questionable: ankle,week_11,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_11,Chicago Bears,2016
+['Deonte Thompson'],NA,week_11,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_11,Chicago Bears,2016
+['Mitch Unrein'],Doubtful: back,week_11,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_11,Chicago Bears,2016
+['Marquess Wilson'],Questionable: foot,week_11,Chicago Bears,2016
+['Willie Young'],Questionable: ankle,week_11,Chicago Bears,2016
+['Sam Acho'],NA,week_12,Chicago Bears,2016
+['Mike Adams'],NA,week_12,Chicago Bears,2016
+['Adrian Amos'],NA,week_12,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_12,Chicago Bears,2016
+['Johnthan Banks'],NA,week_12,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_12,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_12,Chicago Bears,2016
+['Josh Bellamy'],NA,week_12,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_12,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_12,Chicago Bears,2016
+['Deon Bush'],NA,week_12,Chicago Bears,2016
+['Bryce Callahan'],NA,week_12,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_12,Chicago Bears,2016
+['Jay Cutler'],Injured Reserve: Shoulder,week_12,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_12,Chicago Bears,2016
+['Leonard Floyd'],Out: concussion,week_12,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_12,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_12,Chicago Bears,2016
+['Eddie Goldman'],: high ankle sprain,week_12,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_12,Chicago Bears,2016
+"[""Deiondre' Hall""]",Questionable: ankle,week_12,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_12,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_12,Chicago Bears,2016
+['Christian Jones'],"Questionable: ankle, back",week_12,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_12,Chicago Bears,2016
+['Eric Kush'],NA,week_12,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_12,Chicago Bears,2016
+['Jeremy Langford'],NA,week_12,Chicago Bears,2016
+['Paul Lasike'],NA,week_12,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_12,Chicago Bears,2016
+['Charles Leno'],NA,week_12,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_12,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_12,Chicago Bears,2016
+['Bobby Massie'],NA,week_12,Chicago Bears,2016
+['Sherrick McManis'],NA,week_12,Chicago Bears,2016
+['Pernell McPhee'],NA,week_12,Chicago Bears,2016
+['Cameron Meredith'],NA,week_12,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_12,Chicago Bears,2016
+['Tracy Porter'],NA,week_12,Chicago Bears,2016
+['Chris Prosinski'],NA,week_12,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_12,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_12,Chicago Bears,2016
+['Eddie Royal'],Questionable: toe,week_12,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_12,Chicago Bears,2016
+['Josh Sitton'],Doubtful: ankle,week_12,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_12,Chicago Bears,2016
+['Deonte Thompson'],NA,week_12,Chicago Bears,2016
+['Danny Trevathan'],: thumb,week_12,Chicago Bears,2016
+['Mitch Unrein'],Questionable: back,week_12,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_12,Chicago Bears,2016
+['Marquess Wilson'],NA,week_12,Chicago Bears,2016
+['Willie Young'],NA,week_12,Chicago Bears,2016
+['Sam Acho'],NA,week_13,Chicago Bears,2016
+['Mike Adams'],NA,week_13,Chicago Bears,2016
+['Adrian Amos'],Questionable: foot,week_13,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_13,Chicago Bears,2016
+['Johnthan Banks'],NA,week_13,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_13,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_13,Chicago Bears,2016
+['Josh Bellamy'],NA,week_13,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_13,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_13,Chicago Bears,2016
+['Deon Bush'],NA,week_13,Chicago Bears,2016
+['Bryce Callahan'],NA,week_13,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_13,Chicago Bears,2016
+['Jay Cutler'],: right thumb sprain,week_13,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_13,Chicago Bears,2016
+['Leonard Floyd'],Questionable: concussion,week_13,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_13,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_13,Chicago Bears,2016
+['Eddie Goldman'],: high ankle sprain,week_13,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_13,Chicago Bears,2016
+"[""Deiondre' Hall""]",Questionable: ankle,week_13,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_13,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_13,Chicago Bears,2016
+['Christian Jones'],NA,week_13,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_13,Chicago Bears,2016
+['Eric Kush'],NA,week_13,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_13,Chicago Bears,2016
+['Jeremy Langford'],NA,week_13,Chicago Bears,2016
+['Paul Lasike'],NA,week_13,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_13,Chicago Bears,2016
+['Charles Leno'],NA,week_13,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_13,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_13,Chicago Bears,2016
+['Bobby Massie'],NA,week_13,Chicago Bears,2016
+['Sherrick McManis'],NA,week_13,Chicago Bears,2016
+['Pernell McPhee'],NA,week_13,Chicago Bears,2016
+['Cameron Meredith'],NA,week_13,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_13,Chicago Bears,2016
+['Tracy Porter'],NA,week_13,Chicago Bears,2016
+['Chris Prosinski'],NA,week_13,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_13,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_13,Chicago Bears,2016
+['Eddie Royal'],Injured Reserve: Toe,week_13,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_13,Chicago Bears,2016
+['Josh Sitton'],Questionable: ankle,week_13,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_13,Chicago Bears,2016
+['Deonte Thompson'],NA,week_13,Chicago Bears,2016
+['Danny Trevathan'],Injured Reserve: Knee,week_13,Chicago Bears,2016
+['Mitch Unrein'],NA,week_13,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_13,Chicago Bears,2016
+['Marquess Wilson'],NA,week_13,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_13,Chicago Bears,2016
+['Sam Acho'],NA,week_14,Chicago Bears,2016
+['Mike Adams'],Injured Reserve: Back,week_14,Chicago Bears,2016
+['Adrian Amos'],NA,week_14,Chicago Bears,2016
+['Jonathan Anderson'],Questionable: hamstring,week_14,Chicago Bears,2016
+['Johnthan Banks'],Questionable: ankle,week_14,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_14,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_14,Chicago Bears,2016
+['Josh Bellamy'],Questionable: shoulder,week_14,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_14,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_14,Chicago Bears,2016
+['Deon Bush'],NA,week_14,Chicago Bears,2016
+['Bryce Callahan'],NA,week_14,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_14,Chicago Bears,2016
+['Jay Cutler'],Injured Reserve: Shoulder,week_14,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_14,Chicago Bears,2016
+['Leonard Floyd'],NA,week_14,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_14,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_14,Chicago Bears,2016
+['Eddie Goldman'],: high ankle sprain,week_14,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_14,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_14,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_14,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_14,Chicago Bears,2016
+['Christian Jones'],NA,week_14,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_14,Chicago Bears,2016
+['Eric Kush'],NA,week_14,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_14,Chicago Bears,2016
+['Jeremy Langford'],NA,week_14,Chicago Bears,2016
+['Paul Lasike'],NA,week_14,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_14,Chicago Bears,2016
+['Charles Leno'],NA,week_14,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_14,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_14,Chicago Bears,2016
+['Bobby Massie'],NA,week_14,Chicago Bears,2016
+['Sherrick McManis'],NA,week_14,Chicago Bears,2016
+['Pernell McPhee'],NA,week_14,Chicago Bears,2016
+['Cameron Meredith'],NA,week_14,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_14,Chicago Bears,2016
+['Tracy Porter'],NA,week_14,Chicago Bears,2016
+['Chris Prosinski'],NA,week_14,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_14,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_14,Chicago Bears,2016
+['Eddie Royal'],Injured Reserve: Toe,week_14,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_14,Chicago Bears,2016
+['Josh Sitton'],NA,week_14,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_14,Chicago Bears,2016
+['Deonte Thompson'],NA,week_14,Chicago Bears,2016
+['Danny Trevathan'],Injured Reserve: Knee,week_14,Chicago Bears,2016
+['Mitch Unrein'],NA,week_14,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_14,Chicago Bears,2016
+['Marquess Wilson'],Questionable: groin,week_14,Chicago Bears,2016
+['Willie Young'],NA,week_14,Chicago Bears,2016
+['Sam Acho'],NA,week_15,Chicago Bears,2016
+['Mike Adams'],Injured Reserve: Back,week_15,Chicago Bears,2016
+['Adrian Amos'],NA,week_15,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_15,Chicago Bears,2016
+['Johnthan Banks'],Questionable: ankle,week_15,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_15,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_15,Chicago Bears,2016
+['Josh Bellamy'],NA,week_15,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_15,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_15,Chicago Bears,2016
+['Deon Bush'],NA,week_15,Chicago Bears,2016
+['Bryce Callahan'],Questionable: knee,week_15,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_15,Chicago Bears,2016
+['Jay Cutler'],Injured Reserve: Shoulder,week_15,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_15,Chicago Bears,2016
+['Leonard Floyd'],NA,week_15,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_15,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_15,Chicago Bears,2016
+['Eddie Goldman'],Injured Reserve: Ankle,week_15,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_15,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_15,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_15,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_15,Chicago Bears,2016
+['Christian Jones'],NA,week_15,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_15,Chicago Bears,2016
+['Eric Kush'],NA,week_15,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_15,Chicago Bears,2016
+['Jeremy Langford'],NA,week_15,Chicago Bears,2016
+['Paul Lasike'],NA,week_15,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",NA,week_15,Chicago Bears,2016
+['Charles Leno'],NA,week_15,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_15,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_15,Chicago Bears,2016
+['Bobby Massie'],NA,week_15,Chicago Bears,2016
+['Sherrick McManis'],NA,week_15,Chicago Bears,2016
+['Pernell McPhee'],NA,week_15,Chicago Bears,2016
+['Cameron Meredith'],NA,week_15,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_15,Chicago Bears,2016
+['Tracy Porter'],NA,week_15,Chicago Bears,2016
+['Chris Prosinski'],NA,week_15,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_15,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_15,Chicago Bears,2016
+['Eddie Royal'],Injured Reserve: Toe,week_15,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_15,Chicago Bears,2016
+['Josh Sitton'],NA,week_15,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_15,Chicago Bears,2016
+['Deonte Thompson'],NA,week_15,Chicago Bears,2016
+['Danny Trevathan'],Injured Reserve: Knee,week_15,Chicago Bears,2016
+['Mitch Unrein'],NA,week_15,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_15,Chicago Bears,2016
+['Marquess Wilson'],"Out: groin, foot",week_15,Chicago Bears,2016
+['Willie Young'],NA,week_15,Chicago Bears,2016
+['Sam Acho'],NA,week_16,Chicago Bears,2016
+['Mike Adams'],Injured Reserve: Back,week_16,Chicago Bears,2016
+['Adrian Amos'],NA,week_16,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_16,Chicago Bears,2016
+['Johnthan Banks'],NA,week_16,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_16,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_16,Chicago Bears,2016
+['Josh Bellamy'],NA,week_16,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_16,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_16,Chicago Bears,2016
+['Deon Bush'],NA,week_16,Chicago Bears,2016
+['Bryce Callahan'],Questionable: knee,week_16,Chicago Bears,2016
+"[""Ka'Deem Carey""]",Questionable: shoulder,week_16,Chicago Bears,2016
+['Jay Cutler'],Injured Reserve: Shoulder,week_16,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_16,Chicago Bears,2016
+['Leonard Floyd'],NA,week_16,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_16,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_16,Chicago Bears,2016
+['Eddie Goldman'],Injured Reserve: Ankle,week_16,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_16,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_16,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_16,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_16,Chicago Bears,2016
+['Christian Jones'],NA,week_16,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_16,Chicago Bears,2016
+['Eric Kush'],Out: concussion,week_16,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_16,Chicago Bears,2016
+['Jeremy Langford'],NA,week_16,Chicago Bears,2016
+['Paul Lasike'],NA,week_16,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",Questionable: knee,week_16,Chicago Bears,2016
+['Charles Leno'],NA,week_16,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_16,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_16,Chicago Bears,2016
+['Bobby Massie'],NA,week_16,Chicago Bears,2016
+['Sherrick McManis'],NA,week_16,Chicago Bears,2016
+['Pernell McPhee'],NA,week_16,Chicago Bears,2016
+['Cameron Meredith'],NA,week_16,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_16,Chicago Bears,2016
+['Tracy Porter'],NA,week_16,Chicago Bears,2016
+['Chris Prosinski'],NA,week_16,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_16,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_16,Chicago Bears,2016
+['Eddie Royal'],Injured Reserve: Toe,week_16,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_16,Chicago Bears,2016
+['Josh Sitton'],NA,week_16,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_16,Chicago Bears,2016
+['Deonte Thompson'],NA,week_16,Chicago Bears,2016
+['Danny Trevathan'],Injured Reserve: Knee,week_16,Chicago Bears,2016
+['Mitch Unrein'],NA,week_16,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_16,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_16,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_16,Chicago Bears,2016
+['Sam Acho'],NA,week_17,Chicago Bears,2016
+['Mike Adams'],Injured Reserve: Back,week_17,Chicago Bears,2016
+['Adrian Amos'],NA,week_17,Chicago Bears,2016
+['Jonathan Anderson'],NA,week_17,Chicago Bears,2016
+['Johnthan Banks'],NA,week_17,Chicago Bears,2016
+['Lamin Barrow'],Injured Reserve: Foot,week_17,Chicago Bears,2016
+['Nick Becton'],Injured Reserve: Shoulder,week_17,Chicago Bears,2016
+['Josh Bellamy'],NA,week_17,Chicago Bears,2016
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_17,Chicago Bears,2016
+['Jonathan Bullard'],NA,week_17,Chicago Bears,2016
+['Deon Bush'],Questionable: ankle,week_17,Chicago Bears,2016
+['Bryce Callahan'],"Questionable: hamstring, knee",week_17,Chicago Bears,2016
+"[""Ka'Deem Carey""]",NA,week_17,Chicago Bears,2016
+['Jay Cutler'],Injured Reserve: Shoulder,week_17,Chicago Bears,2016
+['Ego Ferguson'],Injured Reserve: Shoulder,week_17,Chicago Bears,2016
+['Leonard Floyd'],Doubtful: concussion,week_17,Chicago Bears,2016
+['Jerrell Freeman'],NA,week_17,Chicago Bears,2016
+['Kyle Fuller'],Injured Reserve: Knee,week_17,Chicago Bears,2016
+['Eddie Goldman'],Injured Reserve: Ankle,week_17,Chicago Bears,2016
+['Hroniss Grasu'],Injured Reserve: Knee,week_17,Chicago Bears,2016
+"[""Deiondre' Hall""]",NA,week_17,Chicago Bears,2016
+['Lamarr Houston'],Injured Reserve: Knee,week_17,Chicago Bears,2016
+['Brian Hoyer'],Injured Reserve: Arm,week_17,Chicago Bears,2016
+['Christian Jones'],NA,week_17,Chicago Bears,2016
+['Harold Jones-Quartey'],NA,week_17,Chicago Bears,2016
+['Eric Kush'],NA,week_17,Chicago Bears,2016
+['Nick Kwiatkoski'],NA,week_17,Chicago Bears,2016
+['Jeremy Langford'],NA,week_17,Chicago Bears,2016
+['Paul Lasike'],NA,week_17,Chicago Bears,2016
+"[""Cre'von LeBlanc""]",Questionable: knee,week_17,Chicago Bears,2016
+['Charles Leno'],NA,week_17,Chicago Bears,2016
+['Kyle Long'],Injured Reserve: Ankle,week_17,Chicago Bears,2016
+['Danny Mason'],Injured Reserve: Undisclosed,week_17,Chicago Bears,2016
+['Bobby Massie'],Questionable: toe,week_17,Chicago Bears,2016
+['Sherrick McManis'],NA,week_17,Chicago Bears,2016
+['Pernell McPhee'],Questionable: shoulder,week_17,Chicago Bears,2016
+['Cameron Meredith'],NA,week_17,Chicago Bears,2016
+['Zach Miller'],Injured Reserve: Foot,week_17,Chicago Bears,2016
+['Tracy Porter'],"Questionable: knee, shoulder",week_17,Chicago Bears,2016
+['Chris Prosinski'],NA,week_17,Chicago Bears,2016
+['MyCole Pruitt'],NA,week_17,Chicago Bears,2016
+['Roy Robertson-Harris'],Injured Reserve: Illness,week_17,Chicago Bears,2016
+['Eddie Royal'],Injured Reserve: Toe,week_17,Chicago Bears,2016
+['Connor Shaw'],Injured Reserve: Leg,week_17,Chicago Bears,2016
+['Josh Sitton'],NA,week_17,Chicago Bears,2016
+['Will Sutton'],Injured Reserve: Ankle,week_17,Chicago Bears,2016
+['Deonte Thompson'],NA,week_17,Chicago Bears,2016
+['Danny Trevathan'],Injured Reserve: Knee,week_17,Chicago Bears,2016
+['Mitch Unrein'],NA,week_17,Chicago Bears,2016
+['Kevin White'],Injured Reserve: Leg,week_17,Chicago Bears,2016
+['Marquess Wilson'],Injured Reserve: Foot,week_17,Chicago Bears,2016
+['Willie Young'],Questionable: knee,week_17,Chicago Bears,2016

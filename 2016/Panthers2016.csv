@@ -1,0 +1,609 @@
+﻿name,injury,week,team,year
+['Mario Addison'],NA,week_1,Carolina Panthers,2016
+['Derek Anderson'],NA,week_1,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_1,Carolina Panthers,2016
+['Tre Boston'],NA,week_1,Carolina Panthers,2016
+['James Bradberry'],NA,week_1,Carolina Panthers,2016
+['Vernon Butler'],Questionable: hand,week_1,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_1,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_1,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_1,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_1,Carolina Panthers,2016
+['Thomas Davis'],NA,week_1,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_1,Carolina Panthers,2016
+['Devin Funchess'],NA,week_1,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_1,Carolina Panthers,2016
+['Charles Johnson'],NA,week_1,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_1,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_1,Carolina Panthers,2016
+['Colin Jones'],NA,week_1,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_1,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_1,Carolina Panthers,2016
+['Andy Lee'],NA,week_1,Carolina Panthers,2016
+['Kyle Love'],NA,week_1,Carolina Panthers,2016
+['Dean Marlowe'],Doubtful: hamstring,week_1,Carolina Panthers,2016
+['David Mayo'],NA,week_1,Carolina Panthers,2016
+['Cam Newton'],NA,week_1,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_1,Carolina Panthers,2016
+['Michael Oher'],NA,week_1,Carolina Panthers,2016
+['Greg Olsen'],NA,week_1,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_1,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_1,Carolina Panthers,2016
+['Kawann Short'],NA,week_1,Carolina Panthers,2016
+['Paul Soliai'],NA,week_1,Carolina Panthers,2016
+['Jonathan Stewart'],NA,week_1,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_1,Carolina Panthers,2016
+['Trai Turner'],NA,week_1,Carolina Panthers,2016
+['Daryl Williams'],NA,week_1,Carolina Panthers,2016
+['Teddy Williams'],NA,week_1,Carolina Panthers,2016
+['Daryl Worley'],NA,week_1,Carolina Panthers,2016
+['Mario Addison'],NA,week_2,Carolina Panthers,2016
+['Derek Anderson'],NA,week_2,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_2,Carolina Panthers,2016
+['Tre Boston'],NA,week_2,Carolina Panthers,2016
+['James Bradberry'],NA,week_2,Carolina Panthers,2016
+['Vernon Butler'],NA,week_2,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_2,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_2,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_2,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_2,Carolina Panthers,2016
+['Thomas Davis'],NA,week_2,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_2,Carolina Panthers,2016
+['Devin Funchess'],NA,week_2,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_2,Carolina Panthers,2016
+['Charles Johnson'],NA,week_2,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_2,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_2,Carolina Panthers,2016
+['Colin Jones'],NA,week_2,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_2,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_2,Carolina Panthers,2016
+['Andy Lee'],NA,week_2,Carolina Panthers,2016
+['Kyle Love'],NA,week_2,Carolina Panthers,2016
+['Dean Marlowe'],Questionable: hamstring,week_2,Carolina Panthers,2016
+['David Mayo'],NA,week_2,Carolina Panthers,2016
+['Cam Newton'],NA,week_2,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_2,Carolina Panthers,2016
+['Michael Oher'],NA,week_2,Carolina Panthers,2016
+['Greg Olsen'],NA,week_2,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_2,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_2,Carolina Panthers,2016
+['Kawann Short'],NA,week_2,Carolina Panthers,2016
+['Paul Soliai'],NA,week_2,Carolina Panthers,2016
+['Jonathan Stewart'],Questionable: ankle,week_2,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_2,Carolina Panthers,2016
+['Trai Turner'],NA,week_2,Carolina Panthers,2016
+['Daryl Williams'],NA,week_2,Carolina Panthers,2016
+['Teddy Williams'],NA,week_2,Carolina Panthers,2016
+['Daryl Worley'],NA,week_2,Carolina Panthers,2016
+['Mario Addison'],NA,week_3,Carolina Panthers,2016
+['Derek Anderson'],NA,week_3,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_3,Carolina Panthers,2016
+['Tre Boston'],NA,week_3,Carolina Panthers,2016
+['James Bradberry'],NA,week_3,Carolina Panthers,2016
+['Vernon Butler'],NA,week_3,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_3,Carolina Panthers,2016
+['Jeremy Cash'],Doubtful: hamstring,week_3,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_3,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_3,Carolina Panthers,2016
+['Thomas Davis'],NA,week_3,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_3,Carolina Panthers,2016
+['Devin Funchess'],NA,week_3,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_3,Carolina Panthers,2016
+['Charles Johnson'],NA,week_3,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_3,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_3,Carolina Panthers,2016
+['Colin Jones'],NA,week_3,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_3,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_3,Carolina Panthers,2016
+['Andy Lee'],NA,week_3,Carolina Panthers,2016
+['Kyle Love'],NA,week_3,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_3,Carolina Panthers,2016
+['David Mayo'],NA,week_3,Carolina Panthers,2016
+['Cam Newton'],NA,week_3,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_3,Carolina Panthers,2016
+['Michael Oher'],NA,week_3,Carolina Panthers,2016
+['Greg Olsen'],NA,week_3,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_3,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_3,Carolina Panthers,2016
+['Kawann Short'],Questionable: shoulder,week_3,Carolina Panthers,2016
+['Paul Soliai'],NA,week_3,Carolina Panthers,2016
+['Jonathan Stewart'],Out: hamstring,week_3,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_3,Carolina Panthers,2016
+['Trai Turner'],Questionable: ankle,week_3,Carolina Panthers,2016
+['Daryl Williams'],NA,week_3,Carolina Panthers,2016
+['Teddy Williams'],NA,week_3,Carolina Panthers,2016
+['Daryl Worley'],NA,week_3,Carolina Panthers,2016
+['Mario Addison'],NA,week_4,Carolina Panthers,2016
+['Derek Anderson'],NA,week_4,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_4,Carolina Panthers,2016
+['Tre Boston'],NA,week_4,Carolina Panthers,2016
+['James Bradberry'],NA,week_4,Carolina Panthers,2016
+['Vernon Butler'],Out: ankle,week_4,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_4,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_4,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_4,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_4,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_4,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_4,Carolina Panthers,2016
+['Devin Funchess'],NA,week_4,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_4,Carolina Panthers,2016
+['Charles Johnson'],NA,week_4,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_4,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_4,Carolina Panthers,2016
+['Colin Jones'],NA,week_4,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_4,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_4,Carolina Panthers,2016
+['Andy Lee'],NA,week_4,Carolina Panthers,2016
+['Kyle Love'],NA,week_4,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_4,Carolina Panthers,2016
+['David Mayo'],NA,week_4,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_4,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_4,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_4,Carolina Panthers,2016
+['Greg Olsen'],NA,week_4,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_4,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_4,Carolina Panthers,2016
+['Kawann Short'],NA,week_4,Carolina Panthers,2016
+['Paul Soliai'],NA,week_4,Carolina Panthers,2016
+['Jonathan Stewart'],Out: hamstring,week_4,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_4,Carolina Panthers,2016
+['Trai Turner'],NA,week_4,Carolina Panthers,2016
+['Daryl Williams'],NA,week_4,Carolina Panthers,2016
+['Teddy Williams'],NA,week_4,Carolina Panthers,2016
+['Daryl Worley'],NA,week_4,Carolina Panthers,2016
+['Mario Addison'],NA,week_5,Carolina Panthers,2016
+['Derek Anderson'],NA,week_5,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_5,Carolina Panthers,2016
+['Tre Boston'],NA,week_5,Carolina Panthers,2016
+['James Bradberry'],Out: foot,week_5,Carolina Panthers,2016
+['Vernon Butler'],Out: ankle,week_5,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_5,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_5,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_5,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_5,Carolina Panthers,2016
+['Thomas Davis'],Questionable: hamstring,week_5,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_5,Carolina Panthers,2016
+['Devin Funchess'],NA,week_5,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_5,Carolina Panthers,2016
+['Charles Johnson'],Questionable: quad,week_5,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_5,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_5,Carolina Panthers,2016
+['Colin Jones'],NA,week_5,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_5,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_5,Carolina Panthers,2016
+['Andy Lee'],NA,week_5,Carolina Panthers,2016
+['Kyle Love'],NA,week_5,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_5,Carolina Panthers,2016
+['David Mayo'],NA,week_5,Carolina Panthers,2016
+['Cam Newton'],Out: concussion,week_5,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_5,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_5,Carolina Panthers,2016
+['Greg Olsen'],NA,week_5,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_5,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_5,Carolina Panthers,2016
+['Kawann Short'],NA,week_5,Carolina Panthers,2016
+['Paul Soliai'],NA,week_5,Carolina Panthers,2016
+['Jonathan Stewart'],Out: hamstring,week_5,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_5,Carolina Panthers,2016
+['Trai Turner'],NA,week_5,Carolina Panthers,2016
+['Daryl Williams'],NA,week_5,Carolina Panthers,2016
+['Teddy Williams'],NA,week_5,Carolina Panthers,2016
+['Daryl Worley'],NA,week_5,Carolina Panthers,2016
+['Mario Addison'],NA,week_6,Carolina Panthers,2016
+['Derek Anderson'],NA,week_6,Carolina Panthers,2016
+['Kelvin Benjamin'],Questionable: knee,week_6,Carolina Panthers,2016
+['Tre Boston'],NA,week_6,Carolina Panthers,2016
+['James Bradberry'],Out: foot,week_6,Carolina Panthers,2016
+['Vernon Butler'],Out: ankle,week_6,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_6,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_6,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_6,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_6,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_6,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_6,Carolina Panthers,2016
+['Devin Funchess'],NA,week_6,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_6,Carolina Panthers,2016
+['Charles Johnson'],Questionable: quadriceps,week_6,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_6,Carolina Panthers,2016
+['Leonard Johnson'],Injured Reserve: Achilles,week_6,Carolina Panthers,2016
+['Colin Jones'],NA,week_6,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_6,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_6,Carolina Panthers,2016
+['Andy Lee'],NA,week_6,Carolina Panthers,2016
+['Kyle Love'],NA,week_6,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_6,Carolina Panthers,2016
+['David Mayo'],NA,week_6,Carolina Panthers,2016
+['Cam Newton'],Questionable: concussion,week_6,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_6,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_6,Carolina Panthers,2016
+['Greg Olsen'],NA,week_6,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_6,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_6,Carolina Panthers,2016
+['Kawann Short'],NA,week_6,Carolina Panthers,2016
+['Paul Soliai'],Out: foot,week_6,Carolina Panthers,2016
+['Jonathan Stewart'],Questionable: hamstring,week_6,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_6,Carolina Panthers,2016
+['Trai Turner'],NA,week_6,Carolina Panthers,2016
+['Daryl Williams'],NA,week_6,Carolina Panthers,2016
+['Teddy Williams'],NA,week_6,Carolina Panthers,2016
+['Daryl Worley'],NA,week_6,Carolina Panthers,2016
+['Mario Addison'],NA,week_8,Carolina Panthers,2016
+['Derek Anderson'],NA,week_8,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_8,Carolina Panthers,2016
+['Tre Boston'],NA,week_8,Carolina Panthers,2016
+['James Bradberry'],Questionable: foot,week_8,Carolina Panthers,2016
+['Vernon Butler'],Out: ankle,week_8,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_8,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_8,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_8,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_8,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_8,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_8,Carolina Panthers,2016
+['Devin Funchess'],NA,week_8,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_8,Carolina Panthers,2016
+['Charles Johnson'],NA,week_8,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_8,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_8,Carolina Panthers,2016
+['Colin Jones'],NA,week_8,Carolina Panthers,2016
+['Ryan Kalil'],NA,week_8,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_8,Carolina Panthers,2016
+['Andy Lee'],NA,week_8,Carolina Panthers,2016
+['Kyle Love'],NA,week_8,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_8,Carolina Panthers,2016
+['David Mayo'],NA,week_8,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_8,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_8,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_8,Carolina Panthers,2016
+['Greg Olsen'],NA,week_8,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_8,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_8,Carolina Panthers,2016
+['Kawann Short'],NA,week_8,Carolina Panthers,2016
+['Paul Soliai'],Questionable: foot,week_8,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_8,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_8,Carolina Panthers,2016
+['Trai Turner'],NA,week_8,Carolina Panthers,2016
+['Daryl Williams'],NA,week_8,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_8,Carolina Panthers,2016
+['Daryl Worley'],Questionable: concussion,week_8,Carolina Panthers,2016
+['Mario Addison'],Questionable: groin,week_9,Carolina Panthers,2016
+['Derek Anderson'],NA,week_9,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_9,Carolina Panthers,2016
+['Tre Boston'],NA,week_9,Carolina Panthers,2016
+['James Bradberry'],NA,week_9,Carolina Panthers,2016
+['Vernon Butler'],Out: ankle,week_9,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_9,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_9,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_9,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_9,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_9,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_9,Carolina Panthers,2016
+['Devin Funchess'],NA,week_9,Carolina Panthers,2016
+['Gino Gradkowski'],NA,week_9,Carolina Panthers,2016
+['Charles Johnson'],NA,week_9,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_9,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_9,Carolina Panthers,2016
+['Colin Jones'],NA,week_9,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_9,Carolina Panthers,2016
+['Luke Kuechly'],Questionable: groin,week_9,Carolina Panthers,2016
+['Andy Lee'],NA,week_9,Carolina Panthers,2016
+['Kyle Love'],NA,week_9,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_9,Carolina Panthers,2016
+['David Mayo'],NA,week_9,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_9,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_9,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_9,Carolina Panthers,2016
+['Greg Olsen'],NA,week_9,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_9,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_9,Carolina Panthers,2016
+['Kawann Short'],NA,week_9,Carolina Panthers,2016
+['Paul Soliai'],NA,week_9,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_9,Carolina Panthers,2016
+['Shaq Thompson'],Out: knee,week_9,Carolina Panthers,2016
+['Trai Turner'],NA,week_9,Carolina Panthers,2016
+['Daryl Williams'],NA,week_9,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_9,Carolina Panthers,2016
+['Daryl Worley'],Questionable: elbow,week_9,Carolina Panthers,2016
+['Mario Addison'],NA,week_10,Carolina Panthers,2016
+['Derek Anderson'],NA,week_10,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_10,Carolina Panthers,2016
+['Tre Boston'],NA,week_10,Carolina Panthers,2016
+['James Bradberry'],NA,week_10,Carolina Panthers,2016
+['Vernon Butler'],Questionable: ankle,week_10,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_10,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_10,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_10,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_10,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_10,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_10,Carolina Panthers,2016
+['Devin Funchess'],NA,week_10,Carolina Panthers,2016
+['Gino Gradkowski'],Questionable: knee,week_10,Carolina Panthers,2016
+['Charles Johnson'],NA,week_10,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_10,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_10,Carolina Panthers,2016
+['Colin Jones'],Out: concussion,week_10,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_10,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_10,Carolina Panthers,2016
+['Andy Lee'],NA,week_10,Carolina Panthers,2016
+['Kyle Love'],Questionable: knee,week_10,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_10,Carolina Panthers,2016
+['David Mayo'],NA,week_10,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_10,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_10,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_10,Carolina Panthers,2016
+['Greg Olsen'],NA,week_10,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_10,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_10,Carolina Panthers,2016
+['Kawann Short'],NA,week_10,Carolina Panthers,2016
+['Paul Soliai'],NA,week_10,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_10,Carolina Panthers,2016
+['Shaq Thompson'],Questionable: knee,week_10,Carolina Panthers,2016
+['Trai Turner'],NA,week_10,Carolina Panthers,2016
+['Daryl Williams'],NA,week_10,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_10,Carolina Panthers,2016
+['Daryl Worley'],NA,week_10,Carolina Panthers,2016
+['Mario Addison'],NA,week_11,Carolina Panthers,2016
+['Derek Anderson'],NA,week_11,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_11,Carolina Panthers,2016
+['Tre Boston'],NA,week_11,Carolina Panthers,2016
+['James Bradberry'],NA,week_11,Carolina Panthers,2016
+['Vernon Butler'],NA,week_11,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_11,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_11,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_11,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_11,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_11,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_11,Carolina Panthers,2016
+['Devin Funchess'],NA,week_11,Carolina Panthers,2016
+['Gino Gradkowski'],Questionable: knee,week_11,Carolina Panthers,2016
+['Charles Johnson'],NA,week_11,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_11,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_11,Carolina Panthers,2016
+['Colin Jones'],Out: concussion,week_11,Carolina Panthers,2016
+['Ryan Kalil'],Questionable: shoulder,week_11,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_11,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_11,Carolina Panthers,2016
+['Kyle Love'],NA,week_11,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_11,Carolina Panthers,2016
+['David Mayo'],NA,week_11,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_11,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_11,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_11,Carolina Panthers,2016
+['Greg Olsen'],NA,week_11,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_11,Carolina Panthers,2016
+['Zack Sanchez'],NA,week_11,Carolina Panthers,2016
+['Kawann Short'],NA,week_11,Carolina Panthers,2016
+['Paul Soliai'],NA,week_11,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_11,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_11,Carolina Panthers,2016
+['Trai Turner'],NA,week_11,Carolina Panthers,2016
+['Daryl Williams'],NA,week_11,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_11,Carolina Panthers,2016
+['Daryl Worley'],NA,week_11,Carolina Panthers,2016
+['Mario Addison'],Out: foot,week_12,Carolina Panthers,2016
+['Derek Anderson'],NA,week_12,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_12,Carolina Panthers,2016
+['Tre Boston'],Questionable: ankle,week_12,Carolina Panthers,2016
+['James Bradberry'],NA,week_12,Carolina Panthers,2016
+['Vernon Butler'],NA,week_12,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_12,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_12,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_12,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_12,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_12,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_12,Carolina Panthers,2016
+['Devin Funchess'],NA,week_12,Carolina Panthers,2016
+['Gino Gradkowski'],Questionable: knee,week_12,Carolina Panthers,2016
+['Charles Johnson'],NA,week_12,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_12,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_12,Carolina Panthers,2016
+['Colin Jones'],Questionable: concussion,week_12,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_12,Carolina Panthers,2016
+['Luke Kuechly'],Out: concussion,week_12,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_12,Carolina Panthers,2016
+['Kyle Love'],NA,week_12,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_12,Carolina Panthers,2016
+['David Mayo'],NA,week_12,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_12,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_12,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_12,Carolina Panthers,2016
+['Greg Olsen'],NA,week_12,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_12,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_12,Carolina Panthers,2016
+['Kawann Short'],NA,week_12,Carolina Panthers,2016
+['Paul Soliai'],NA,week_12,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_12,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_12,Carolina Panthers,2016
+['Trai Turner'],NA,week_12,Carolina Panthers,2016
+['Daryl Williams'],NA,week_12,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_12,Carolina Panthers,2016
+['Daryl Worley'],NA,week_12,Carolina Panthers,2016
+['Mario Addison'],Out: foot,week_13,Carolina Panthers,2016
+['Derek Anderson'],NA,week_13,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_13,Carolina Panthers,2016
+['Tre Boston'],NA,week_13,Carolina Panthers,2016
+['James Bradberry'],NA,week_13,Carolina Panthers,2016
+['Vernon Butler'],NA,week_13,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_13,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_13,Carolina Panthers,2016
+['Kurt Coleman'],Out: concussion,week_13,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_13,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_13,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_13,Carolina Panthers,2016
+['Devin Funchess'],NA,week_13,Carolina Panthers,2016
+['Gino Gradkowski'],Injured Reserve: Knee,week_13,Carolina Panthers,2016
+['Charles Johnson'],NA,week_13,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_13,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_13,Carolina Panthers,2016
+['Colin Jones'],NA,week_13,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_13,Carolina Panthers,2016
+['Luke Kuechly'],Out: concussion,week_13,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_13,Carolina Panthers,2016
+['Kyle Love'],NA,week_13,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_13,Carolina Panthers,2016
+['David Mayo'],NA,week_13,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_13,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_13,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_13,Carolina Panthers,2016
+['Greg Olsen'],NA,week_13,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_13,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_13,Carolina Panthers,2016
+['Kawann Short'],NA,week_13,Carolina Panthers,2016
+['Paul Soliai'],NA,week_13,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_13,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_13,Carolina Panthers,2016
+['Trai Turner'],NA,week_13,Carolina Panthers,2016
+['Daryl Williams'],Out: ankle,week_13,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_13,Carolina Panthers,2016
+['Daryl Worley'],NA,week_13,Carolina Panthers,2016
+['Mario Addison'],Questionable: foot,week_14,Carolina Panthers,2016
+['Derek Anderson'],NA,week_14,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_14,Carolina Panthers,2016
+['Tre Boston'],NA,week_14,Carolina Panthers,2016
+['James Bradberry'],NA,week_14,Carolina Panthers,2016
+['Vernon Butler'],NA,week_14,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_14,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_14,Carolina Panthers,2016
+['Kurt Coleman'],Questionable: concussion,week_14,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_14,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_14,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_14,Carolina Panthers,2016
+['Devin Funchess'],NA,week_14,Carolina Panthers,2016
+['Gino Gradkowski'],Injured Reserve: Knee,week_14,Carolina Panthers,2016
+['Charles Johnson'],Out: hamstring,week_14,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_14,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_14,Carolina Panthers,2016
+['Colin Jones'],NA,week_14,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_14,Carolina Panthers,2016
+['Luke Kuechly'],Questionable: concussion,week_14,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_14,Carolina Panthers,2016
+['Kyle Love'],NA,week_14,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_14,Carolina Panthers,2016
+['David Mayo'],Out: concussion,week_14,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_14,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_14,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_14,Carolina Panthers,2016
+['Greg Olsen'],NA,week_14,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_14,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_14,Carolina Panthers,2016
+['Kawann Short'],NA,week_14,Carolina Panthers,2016
+['Paul Soliai'],NA,week_14,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_14,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_14,Carolina Panthers,2016
+['Trai Turner'],NA,week_14,Carolina Panthers,2016
+['Daryl Williams'],Out: ankle,week_14,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_14,Carolina Panthers,2016
+['Daryl Worley'],Questionable: concussion,week_14,Carolina Panthers,2016
+['Mario Addison'],NA,week_15,Carolina Panthers,2016
+['Derek Anderson'],NA,week_15,Carolina Panthers,2016
+['Kelvin Benjamin'],Questionable: back,week_15,Carolina Panthers,2016
+['Tre Boston'],NA,week_15,Carolina Panthers,2016
+['James Bradberry'],NA,week_15,Carolina Panthers,2016
+['Vernon Butler'],NA,week_15,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_15,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_15,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_15,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_15,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_15,Carolina Panthers,2016
+['Ryan Delaire'],NA,week_15,Carolina Panthers,2016
+['Devin Funchess'],NA,week_15,Carolina Panthers,2016
+['Gino Gradkowski'],Injured Reserve: Knee,week_15,Carolina Panthers,2016
+['Charles Johnson'],Out: hamstring,week_15,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_15,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_15,Carolina Panthers,2016
+['Colin Jones'],NA,week_15,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_15,Carolina Panthers,2016
+['Luke Kuechly'],Questionable: concussion,week_15,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_15,Carolina Panthers,2016
+['Kyle Love'],NA,week_15,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_15,Carolina Panthers,2016
+['David Mayo'],Questionable: concussion,week_15,Carolina Panthers,2016
+['Cam Newton'],Questionable: right shoulder,week_15,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_15,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_15,Carolina Panthers,2016
+['Greg Olsen'],NA,week_15,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_15,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_15,Carolina Panthers,2016
+['Kawann Short'],NA,week_15,Carolina Panthers,2016
+['Paul Soliai'],NA,week_15,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_15,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_15,Carolina Panthers,2016
+['Trai Turner'],NA,week_15,Carolina Panthers,2016
+['Daryl Williams'],Out: ankle,week_15,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_15,Carolina Panthers,2016
+['Daryl Worley'],NA,week_15,Carolina Panthers,2016
+['Mario Addison'],NA,week_16,Carolina Panthers,2016
+['Derek Anderson'],NA,week_16,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_16,Carolina Panthers,2016
+['Tre Boston'],NA,week_16,Carolina Panthers,2016
+['James Bradberry'],NA,week_16,Carolina Panthers,2016
+['Vernon Butler'],NA,week_16,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_16,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_16,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_16,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_16,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_16,Carolina Panthers,2016
+['Ryan Delaire'],Out: knee,week_16,Carolina Panthers,2016
+['Devin Funchess'],NA,week_16,Carolina Panthers,2016
+['Gino Gradkowski'],Injured Reserve: Knee,week_16,Carolina Panthers,2016
+['Charles Johnson'],NA,week_16,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_16,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_16,Carolina Panthers,2016
+['Colin Jones'],NA,week_16,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_16,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_16,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_16,Carolina Panthers,2016
+['Kyle Love'],NA,week_16,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_16,Carolina Panthers,2016
+['David Mayo'],NA,week_16,Carolina Panthers,2016
+['Cam Newton'],: concussion,week_16,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_16,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_16,Carolina Panthers,2016
+['Greg Olsen'],NA,week_16,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_16,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_16,Carolina Panthers,2016
+['Kawann Short'],NA,week_16,Carolina Panthers,2016
+['Paul Soliai'],NA,week_16,Carolina Panthers,2016
+['Jonathan Stewart'],: hamstring,week_16,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_16,Carolina Panthers,2016
+['Trai Turner'],NA,week_16,Carolina Panthers,2016
+['Daryl Williams'],NA,week_16,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_16,Carolina Panthers,2016
+['Daryl Worley'],NA,week_16,Carolina Panthers,2016
+['Mario Addison'],NA,week_17,Carolina Panthers,2016
+['Derek Anderson'],Out: illness,week_17,Carolina Panthers,2016
+['Kelvin Benjamin'],NA,week_17,Carolina Panthers,2016
+['Tre Boston'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['James Bradberry'],NA,week_17,Carolina Panthers,2016
+['Vernon Butler'],NA,week_17,Carolina Panthers,2016
+['LaRon Byrd'],Injured Reserve: Concussion,week_17,Carolina Panthers,2016
+['Jeremy Cash'],NA,week_17,Carolina Panthers,2016
+['Kurt Coleman'],NA,week_17,Carolina Panthers,2016
+['Rakim Cox'],Injured Reserve: Back,week_17,Carolina Panthers,2016
+['Thomas Davis'],: hamstring,week_17,Carolina Panthers,2016
+['Ryan Delaire'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['Devin Funchess'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['Gino Gradkowski'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['Charles Johnson'],Questionable: knee,week_17,Carolina Panthers,2016
+['Devon Johnson'],Injured Reserve: Back,week_17,Carolina Panthers,2016
+['Leonard Johnson'],NA,week_17,Carolina Panthers,2016
+['Colin Jones'],NA,week_17,Carolina Panthers,2016
+['Ryan Kalil'],Injured Reserve: Shoulder,week_17,Carolina Panthers,2016
+['Luke Kuechly'],NA,week_17,Carolina Panthers,2016
+['Andy Lee'],Injured Reserve: Hamstring,week_17,Carolina Panthers,2016
+['Kyle Love'],NA,week_17,Carolina Panthers,2016
+['Dean Marlowe'],Injured Reserve: Hamstring,week_17,Carolina Panthers,2016
+['David Mayo'],NA,week_17,Carolina Panthers,2016
+['Cam Newton'],Questionable: right shoulder,week_17,Carolina Panthers,2016
+['Kevin Norwood'],Injured Reserve: Hip,week_17,Carolina Panthers,2016
+['Michael Oher'],Injured Reserve: Concussion,week_17,Carolina Panthers,2016
+['Greg Olsen'],Questionable: elbow,week_17,Carolina Panthers,2016
+['Jordan Rigsbee'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['Zack Sanchez'],Injured Reserve: Groin,week_17,Carolina Panthers,2016
+['Kawann Short'],NA,week_17,Carolina Panthers,2016
+['Paul Soliai'],NA,week_17,Carolina Panthers,2016
+['Jonathan Stewart'],Questionable: foot,week_17,Carolina Panthers,2016
+['Shaq Thompson'],NA,week_17,Carolina Panthers,2016
+['Trai Turner'],NA,week_17,Carolina Panthers,2016
+['Daryl Williams'],NA,week_17,Carolina Panthers,2016
+['Teddy Williams'],Injured Reserve: Knee,week_17,Carolina Panthers,2016
+['Daryl Worley'],NA,week_17,Carolina Panthers,2016

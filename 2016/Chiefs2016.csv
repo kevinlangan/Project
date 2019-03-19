@@ -1,0 +1,443 @@
+﻿name,injury,week,team,year
+['Allen Bailey'],NA,week_1,Kansas City Chiefs,2016
+['Jamaal Charles'],Doubtful: knee,week_1,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_1,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_1,Kansas City Chiefs,2016
+['Parker Ehinger'],NA,week_1,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_1,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_1,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_1,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_1,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_1,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_1,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_1,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_1,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_1,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_1,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_1,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_1,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_1,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_1,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_1,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_1,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_1,Kansas City Chiefs,2016
+['D.J. White'],NA,week_1,Kansas City Chiefs,2016
+['James Winchester'],NA,week_1,Kansas City Chiefs,2016
+['Allen Bailey'],NA,week_2,Kansas City Chiefs,2016
+['Jamaal Charles'],Doubtful: knee,week_2,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_2,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],Out: ankle,week_2,Kansas City Chiefs,2016
+['Parker Ehinger'],Out: concussion,week_2,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_2,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_2,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_2,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_2,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_2,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_2,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_2,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_2,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_2,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_2,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_2,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_2,Kansas City Chiefs,2016
+['Kendall Reyes'],Out: groin,week_2,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_2,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_2,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_2,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_2,Kansas City Chiefs,2016
+['D.J. White'],NA,week_2,Kansas City Chiefs,2016
+['James Winchester'],NA,week_2,Kansas City Chiefs,2016
+['Allen Bailey'],NA,week_3,Kansas City Chiefs,2016
+['Jamaal Charles'],Doubtful: knee,week_3,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_3,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],Questionable: ankle,week_3,Kansas City Chiefs,2016
+['Parker Ehinger'],"Out: concussion, foot",week_3,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_3,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: knee,week_3,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_3,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_3,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_3,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_3,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_3,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_3,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_3,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_3,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_3,Kansas City Chiefs,2016
+['Jah Reid'],"Out: knee, ankle",week_3,Kansas City Chiefs,2016
+['Kendall Reyes'],Out: groin,week_3,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_3,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_3,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_3,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_3,Kansas City Chiefs,2016
+['D.J. White'],NA,week_3,Kansas City Chiefs,2016
+['James Winchester'],NA,week_3,Kansas City Chiefs,2016
+['Allen Bailey'],NA,week_4,Kansas City Chiefs,2016
+['Jamaal Charles'],Questionable: knee,week_4,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_4,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_4,Kansas City Chiefs,2016
+['Parker Ehinger'],NA,week_4,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_4,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: knee,week_4,Kansas City Chiefs,2016
+['Tamba Hali'],"Questionable: knee, hand",week_4,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_4,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_4,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_4,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_4,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_4,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_4,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_4,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_4,Kansas City Chiefs,2016
+['Jah Reid'],"Out: knee, ankle",week_4,Kansas City Chiefs,2016
+['Kendall Reyes'],Questionable: groin,week_4,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_4,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_4,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_4,Kansas City Chiefs,2016
+['Charcandrick West'],Out: ankle,week_4,Kansas City Chiefs,2016
+['D.J. White'],NA,week_4,Kansas City Chiefs,2016
+['James Winchester'],NA,week_4,Kansas City Chiefs,2016
+['Allen Bailey'],NA,week_6,Kansas City Chiefs,2016
+['Jamaal Charles'],NA,week_6,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_6,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_6,Kansas City Chiefs,2016
+['Parker Ehinger'],NA,week_6,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_6,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_6,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_6,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_6,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_6,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_6,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_6,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_6,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_6,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_6,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_6,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_6,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_6,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_6,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_6,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_6,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_6,Kansas City Chiefs,2016
+['D.J. White'],NA,week_6,Kansas City Chiefs,2016
+['James Winchester'],NA,week_6,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_7,Kansas City Chiefs,2016
+['Jamaal Charles'],Questionable: knee,week_7,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_7,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_7,Kansas City Chiefs,2016
+['Parker Ehinger'],NA,week_7,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_7,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: knee,week_7,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_7,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_7,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_7,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_7,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_7,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_7,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_7,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_7,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_7,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_7,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_7,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_7,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_7,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_7,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_7,Kansas City Chiefs,2016
+['D.J. White'],NA,week_7,Kansas City Chiefs,2016
+['James Winchester'],NA,week_7,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_8,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2016
+['Jordan Devey'],Out: ankle,week_8,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_8,Kansas City Chiefs,2016
+['Parker Ehinger'],NA,week_8,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_8,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_8,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_8,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2016
+['Jaye Howard'],NA,week_8,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_8,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_8,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_8,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_8,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_8,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_8,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_8,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_8,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_8,Kansas City Chiefs,2016
+['Mitchell Schwartz'],Questionable: ankle,week_8,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_8,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_8,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_8,Kansas City Chiefs,2016
+['D.J. White'],Out: hand,week_8,Kansas City Chiefs,2016
+['James Winchester'],NA,week_8,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_9,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_9,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_9,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_9,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_9,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_9,Kansas City Chiefs,2016
+['Justin Houston'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2016
+['Jaye Howard'],Questionable: hip,week_9,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_9,Kansas City Chiefs,2016
+['Jeremy Maclin'],Questionable: groin,week_9,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_9,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_9,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_9,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_9,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_9,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_9,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_9,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_9,Kansas City Chiefs,2016
+['Alex Smith'],"Out: head, ear",week_9,Kansas City Chiefs,2016
+['Spencer Ware'],Out: concussion,week_9,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_9,Kansas City Chiefs,2016
+['D.J. White'],Out: hand,week_9,Kansas City Chiefs,2016
+['James Winchester'],NA,week_9,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_10,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_10,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_10,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_10,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_10,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_10,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_10,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_10,Kansas City Chiefs,2016
+['Justin Houston'],Out: knee,week_10,Kansas City Chiefs,2016
+['Jaye Howard'],Out: hip,week_10,Kansas City Chiefs,2016
+['Derrick Johnson'],Questionable: hamstring,week_10,Kansas City Chiefs,2016
+['Jeremy Maclin'],Out: groin,week_10,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_10,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_10,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_10,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_10,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_10,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_10,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_10,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_10,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_10,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_10,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_10,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_10,Kansas City Chiefs,2016
+['D.J. White'],Doubtful: hand,week_10,Kansas City Chiefs,2016
+['James Winchester'],NA,week_10,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_11,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_11,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_11,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_11,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: neck,week_11,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_11,Kansas City Chiefs,2016
+['Justin Houston'],Questionable: knee,week_11,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_11,Kansas City Chiefs,2016
+['Derrick Johnson'],Questionable: hamstring,week_11,Kansas City Chiefs,2016
+['Jeremy Maclin'],Out: groin,week_11,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_11,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_11,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_11,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_11,Kansas City Chiefs,2016
+['Marcus Peters'],Questionable: hip,week_11,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_11,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_11,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_11,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_11,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_11,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_11,Kansas City Chiefs,2016
+['D.J. White'],NA,week_11,Kansas City Chiefs,2016
+['James Winchester'],Questionable: not injury related,week_11,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_12,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_12,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_12,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2016
+['Dee Ford'],Out: hamstring,week_12,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_12,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_12,Kansas City Chiefs,2016
+['Justin Houston'],NA,week_12,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_12,Kansas City Chiefs,2016
+['Derrick Johnson'],Questionable: Achilles,week_12,Kansas City Chiefs,2016
+['Jeremy Maclin'],Out: groin,week_12,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_12,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_12,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2016
+['Steven Nelson'],Questionable: neck,week_12,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_12,Kansas City Chiefs,2016
+['Marcus Peters'],Questionable: hip,week_12,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_12,Kansas City Chiefs,2016
+['Kendall Reyes'],Questionable: knee,week_12,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_12,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_12,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_12,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_12,Kansas City Chiefs,2016
+['D.J. White'],NA,week_12,Kansas City Chiefs,2016
+['James Winchester'],NA,week_12,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_13,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_13,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_13,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2016
+['Dee Ford'],Questionable: hamstring,week_13,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: knee,week_13,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_13,Kansas City Chiefs,2016
+['Justin Houston'],Questionable: shoulder,week_13,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_13,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_13,Kansas City Chiefs,2016
+['Jeremy Maclin'],Questionable: groin,week_13,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_13,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_13,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_13,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_13,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_13,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_13,Kansas City Chiefs,2016
+['Kendall Reyes'],Questionable: knee,week_13,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_13,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_13,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_13,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_13,Kansas City Chiefs,2016
+['D.J. White'],NA,week_13,Kansas City Chiefs,2016
+['James Winchester'],NA,week_13,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_14,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_14,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_14,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_14,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_14,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_14,Kansas City Chiefs,2016
+['Justin Houston'],NA,week_14,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_14,Kansas City Chiefs,2016
+['Derrick Johnson'],NA,week_14,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_14,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_14,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_14,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_14,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_14,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_14,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_14,Kansas City Chiefs,2016
+['Kendall Reyes'],Questionable: knee,week_14,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_14,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_14,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_14,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_14,Kansas City Chiefs,2016
+['D.J. White'],NA,week_14,Kansas City Chiefs,2016
+['James Winchester'],NA,week_14,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_15,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_15,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_15,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_15,Kansas City Chiefs,2016
+['Phillip Gaines'],Out: knee,week_15,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_15,Kansas City Chiefs,2016
+['Justin Houston'],Questionable: knee,week_15,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_15,Kansas City Chiefs,2016
+['Derrick Johnson'],Out: Achilles,week_15,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_15,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_15,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_15,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_15,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_15,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_15,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_15,Kansas City Chiefs,2016
+['Kendall Reyes'],Questionable: wrist,week_15,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_15,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_15,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_15,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_15,Kansas City Chiefs,2016
+['D.J. White'],NA,week_15,Kansas City Chiefs,2016
+['James Winchester'],NA,week_15,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_16,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_16,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_16,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_16,Kansas City Chiefs,2016
+['Phillip Gaines'],Out: knee,week_16,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_16,Kansas City Chiefs,2016
+['Justin Houston'],Questionable: knee,week_16,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_16,Kansas City Chiefs,2016
+['Derrick Johnson'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_16,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_16,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_16,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_16,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_16,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_16,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_16,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_16,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_16,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_16,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_16,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_16,Kansas City Chiefs,2016
+['D.J. White'],NA,week_16,Kansas City Chiefs,2016
+['James Winchester'],NA,week_16,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_17,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_17,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_17,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_17,Kansas City Chiefs,2016
+['Phillip Gaines'],Questionable: knee,week_17,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_17,Kansas City Chiefs,2016
+['Justin Houston'],Out: knee,week_17,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_17,Kansas City Chiefs,2016
+['Derrick Johnson'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_17,Kansas City Chiefs,2016
+['Justin March-Lillard'],Injured Reserve: Undisclosed,week_17,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_17,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_17,Kansas City Chiefs,2016
+['Dadi Nicolas'],NA,week_17,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_17,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_17,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_17,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_17,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_17,Kansas City Chiefs,2016
+['Spencer Ware'],Questionable: ribs,week_17,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_17,Kansas City Chiefs,2016
+['D.J. White'],NA,week_17,Kansas City Chiefs,2016
+['James Winchester'],NA,week_17,Kansas City Chiefs,2016
+['Allen Bailey'],Injured Reserve: Shoulder,week_19,Kansas City Chiefs,2016
+['Jamaal Charles'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2016
+['Jordan Devey'],NA,week_19,Kansas City Chiefs,2016
+['Laurent Duvernay-Tardif'],NA,week_19,Kansas City Chiefs,2016
+['Parker Ehinger'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2016
+['Dee Ford'],NA,week_19,Kansas City Chiefs,2016
+['Phillip Gaines'],NA,week_19,Kansas City Chiefs,2016
+['Tamba Hali'],NA,week_19,Kansas City Chiefs,2016
+['Justin Houston'],NA,week_19,Kansas City Chiefs,2016
+['Jaye Howard'],Injured Reserve: Hip,week_19,Kansas City Chiefs,2016
+['Derrick Johnson'],Injured Reserve: Achilles,week_19,Kansas City Chiefs,2016
+['Jeremy Maclin'],NA,week_19,Kansas City Chiefs,2016
+['Justin March-Lillard'],NA,week_19,Kansas City Chiefs,2016
+['Josh Mauga'],Injured Reserve: Shoulder,week_19,Kansas City Chiefs,2016
+['Trey Millard'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2016
+['Steven Nelson'],NA,week_19,Kansas City Chiefs,2016
+['Dadi Nicolas'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2016
+['Marcus Peters'],NA,week_19,Kansas City Chiefs,2016
+['Jah Reid'],NA,week_19,Kansas City Chiefs,2016
+['Kendall Reyes'],NA,week_19,Kansas City Chiefs,2016
+['Mitchell Schwartz'],NA,week_19,Kansas City Chiefs,2016
+['Alex Smith'],NA,week_19,Kansas City Chiefs,2016
+['Spencer Ware'],NA,week_19,Kansas City Chiefs,2016
+['Charcandrick West'],NA,week_19,Kansas City Chiefs,2016
+['D.J. White'],NA,week_19,Kansas City Chiefs,2016
+['James Winchester'],NA,week_19,Kansas City Chiefs,2016

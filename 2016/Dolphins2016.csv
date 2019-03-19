@@ -1,0 +1,664 @@
+﻿name,injury,week,team,year
+['Isa Abdul-Quddus'],NA,week_1,Miami Dolphins,2016
+['Jay Ajayi'],Out: not injury related,week_1,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_1,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_1,Miami Dolphins,2016
+['Jordan Cameron'],NA,week_1,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_1,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_1,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_1,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_1,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_1,Miami Dolphins,2016
+['Terrence Fede'],Questionable: knee,week_1,Miami Dolphins,2016
+['Arian Foster'],NA,week_1,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_1,Miami Dolphins,2016
+['Xavien Howard'],NA,week_1,Miami Dolphins,2016
+['Mike Hull'],NA,week_1,Miami Dolphins,2016
+['Jason Jones'],NA,week_1,Miami Dolphins,2016
+['Reshad Jones'],NA,week_1,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_1,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_1,Miami Dolphins,2016
+['Tony Lippett'],NA,week_1,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_1,Miami Dolphins,2016
+['Bobby McCain'],NA,week_1,Miami Dolphins,2016
+['Koa Misi'],NA,week_1,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_1,Miami Dolphins,2016
+['Matt Moore'],NA,week_1,Miami Dolphins,2016
+['DeVante Parker'],Questionable: hamstring,week_1,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_1,Miami Dolphins,2016
+['Isaiah Pead'],Questionable: hamstring,week_1,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_1,Miami Dolphins,2016
+['Mike Pouncey'],Out: hip,week_1,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_1,Miami Dolphins,2016
+['Anthony Steen'],NA,week_1,Miami Dolphins,2016
+['Kenny Stills'],NA,week_1,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_1,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_1,Miami Dolphins,2016
+['Laremy Tunsil'],Questionable: knee,week_1,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_1,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_1,Miami Dolphins,2016
+['Mario Williams'],NA,week_1,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_2,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_2,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_2,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_2,Miami Dolphins,2016
+['Jordan Cameron'],Questionable: thigh,week_2,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_2,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_2,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_2,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_2,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_2,Miami Dolphins,2016
+['Terrence Fede'],NA,week_2,Miami Dolphins,2016
+['Arian Foster'],Questionable: hamstring,week_2,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_2,Miami Dolphins,2016
+['Xavien Howard'],Questionable: knee,week_2,Miami Dolphins,2016
+['Mike Hull'],NA,week_2,Miami Dolphins,2016
+['Jason Jones'],NA,week_2,Miami Dolphins,2016
+['Reshad Jones'],NA,week_2,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_2,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_2,Miami Dolphins,2016
+['Tony Lippett'],NA,week_2,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_2,Miami Dolphins,2016
+['Bobby McCain'],NA,week_2,Miami Dolphins,2016
+['Koa Misi'],NA,week_2,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_2,Miami Dolphins,2016
+['Matt Moore'],NA,week_2,Miami Dolphins,2016
+['DeVante Parker'],Questionable: hamstring,week_2,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: biceps,week_2,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_2,Miami Dolphins,2016
+['Jordan Phillips'],Questionable: ankle,week_2,Miami Dolphins,2016
+['Mike Pouncey'],Out: hip,week_2,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_2,Miami Dolphins,2016
+['Anthony Steen'],NA,week_2,Miami Dolphins,2016
+['Kenny Stills'],NA,week_2,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_2,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_2,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_2,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_2,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_2,Miami Dolphins,2016
+['Mario Williams'],Questionable: concussion,week_2,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_3,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_3,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_3,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_3,Miami Dolphins,2016
+['Jordan Cameron'],NA,week_3,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_3,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_3,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_3,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_3,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_3,Miami Dolphins,2016
+['Terrence Fede'],NA,week_3,Miami Dolphins,2016
+['Arian Foster'],Out: groin,week_3,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_3,Miami Dolphins,2016
+['Xavien Howard'],Questionable: knee,week_3,Miami Dolphins,2016
+['Mike Hull'],NA,week_3,Miami Dolphins,2016
+['Jason Jones'],Questionable: ankle,week_3,Miami Dolphins,2016
+['Reshad Jones'],NA,week_3,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_3,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_3,Miami Dolphins,2016
+['Tony Lippett'],NA,week_3,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_3,Miami Dolphins,2016
+['Bobby McCain'],NA,week_3,Miami Dolphins,2016
+['Koa Misi'],Questionable: shoulder,week_3,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_3,Miami Dolphins,2016
+['Matt Moore'],NA,week_3,Miami Dolphins,2016
+['DeVante Parker'],Questionable: hamstring,week_3,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: neck,week_3,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_3,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_3,Miami Dolphins,2016
+['Mike Pouncey'],Out: hip,week_3,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_3,Miami Dolphins,2016
+['Anthony Steen'],NA,week_3,Miami Dolphins,2016
+['Kenny Stills'],NA,week_3,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_3,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_3,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_3,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_3,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_3,Miami Dolphins,2016
+['Mario Williams'],NA,week_3,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_4,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_4,Miami Dolphins,2016
+['Kiko Alonso'],Questionable: hamstring,week_4,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: wrist,week_4,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_4,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_4,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_4,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_4,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_4,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_4,Miami Dolphins,2016
+['Terrence Fede'],NA,week_4,Miami Dolphins,2016
+['Arian Foster'],Out: hamstring,week_4,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_4,Miami Dolphins,2016
+['Xavien Howard'],Questionable: quadricep,week_4,Miami Dolphins,2016
+['Mike Hull'],NA,week_4,Miami Dolphins,2016
+['Jason Jones'],Questionable: ankle,week_4,Miami Dolphins,2016
+['Reshad Jones'],Questionable: knee,week_4,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_4,Miami Dolphins,2016
+['Jarvis Landry'],Questionable: shoulder,week_4,Miami Dolphins,2016
+['Tony Lippett'],NA,week_4,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_4,Miami Dolphins,2016
+['Bobby McCain'],NA,week_4,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_4,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_4,Miami Dolphins,2016
+['Matt Moore'],NA,week_4,Miami Dolphins,2016
+['DeVante Parker'],Questionable: hamstring,week_4,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: neck,week_4,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_4,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_4,Miami Dolphins,2016
+['Mike Pouncey'],Out: hip,week_4,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_4,Miami Dolphins,2016
+['Anthony Steen'],Doubtful: ankle,week_4,Miami Dolphins,2016
+['Kenny Stills'],NA,week_4,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_4,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_4,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_4,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_4,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_4,Miami Dolphins,2016
+['Mario Williams'],NA,week_4,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_5,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_5,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_5,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_5,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_5,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_5,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_5,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_5,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_5,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_5,Miami Dolphins,2016
+['Terrence Fede'],NA,week_5,Miami Dolphins,2016
+['Arian Foster'],Doubtful: hamstring,week_5,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_5,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_5,Miami Dolphins,2016
+['Mike Hull'],NA,week_5,Miami Dolphins,2016
+['Jason Jones'],NA,week_5,Miami Dolphins,2016
+['Reshad Jones'],NA,week_5,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_5,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_5,Miami Dolphins,2016
+['Tony Lippett'],NA,week_5,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_5,Miami Dolphins,2016
+['Bobby McCain'],NA,week_5,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_5,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_5,Miami Dolphins,2016
+['Matt Moore'],NA,week_5,Miami Dolphins,2016
+['DeVante Parker'],NA,week_5,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_5,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_5,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_5,Miami Dolphins,2016
+['Mike Pouncey'],Questionable: hip,week_5,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_5,Miami Dolphins,2016
+['Anthony Steen'],Questionable: ankle,week_5,Miami Dolphins,2016
+['Kenny Stills'],NA,week_5,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_5,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_5,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_5,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_5,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_5,Miami Dolphins,2016
+['Mario Williams'],NA,week_5,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: knee,week_6,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_6,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_6,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_6,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_6,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_6,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_6,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_6,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_6,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_6,Miami Dolphins,2016
+['Terrence Fede'],NA,week_6,Miami Dolphins,2016
+['Arian Foster'],Questionable: hamstring,week_6,Miami Dolphins,2016
+['MarQueis Gray'],Questionable: calf,week_6,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_6,Miami Dolphins,2016
+['Mike Hull'],NA,week_6,Miami Dolphins,2016
+['Jason Jones'],NA,week_6,Miami Dolphins,2016
+['Reshad Jones'],Questionable: groin,week_6,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_6,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_6,Miami Dolphins,2016
+['Tony Lippett'],NA,week_6,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_6,Miami Dolphins,2016
+['Bobby McCain'],NA,week_6,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_6,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_6,Miami Dolphins,2016
+['Matt Moore'],NA,week_6,Miami Dolphins,2016
+['DeVante Parker'],NA,week_6,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_6,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_6,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_6,Miami Dolphins,2016
+['Mike Pouncey'],NA,week_6,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_6,Miami Dolphins,2016
+['Anthony Steen'],Questionable: ankle,week_6,Miami Dolphins,2016
+['Kenny Stills'],NA,week_6,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_6,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_6,Miami Dolphins,2016
+['Laremy Tunsil'],Questionable: ankle,week_6,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_6,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_6,Miami Dolphins,2016
+['Mario Williams'],NA,week_6,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_7,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_7,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_7,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_7,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_7,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_7,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_7,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_7,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_7,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_7,Miami Dolphins,2016
+['Terrence Fede'],NA,week_7,Miami Dolphins,2016
+['Arian Foster'],Questionable: hamstring,week_7,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_7,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_7,Miami Dolphins,2016
+['Mike Hull'],NA,week_7,Miami Dolphins,2016
+['Jason Jones'],NA,week_7,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_7,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_7,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_7,Miami Dolphins,2016
+['Tony Lippett'],Questionable: hamstring,week_7,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_7,Miami Dolphins,2016
+['Bobby McCain'],NA,week_7,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_7,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_7,Miami Dolphins,2016
+['Matt Moore'],NA,week_7,Miami Dolphins,2016
+['DeVante Parker'],NA,week_7,Miami Dolphins,2016
+['Spencer Paysinger'],"Questionable: hamstring, calf",week_7,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_7,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_7,Miami Dolphins,2016
+['Mike Pouncey'],NA,week_7,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_7,Miami Dolphins,2016
+['Anthony Steen'],NA,week_7,Miami Dolphins,2016
+['Kenny Stills'],NA,week_7,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_7,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_7,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_7,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_7,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_7,Miami Dolphins,2016
+['Mario Williams'],NA,week_7,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: ankle,week_9,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_9,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_9,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: shoulder,week_9,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_9,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_9,Miami Dolphins,2016
+['Chimdi Chekwa'],NA,week_9,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_9,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_9,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_9,Miami Dolphins,2016
+['Terrence Fede'],NA,week_9,Miami Dolphins,2016
+['Arian Foster'],: groin,week_9,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_9,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_9,Miami Dolphins,2016
+['Mike Hull'],NA,week_9,Miami Dolphins,2016
+['Jason Jones'],NA,week_9,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_9,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_9,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_9,Miami Dolphins,2016
+['Tony Lippett'],NA,week_9,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_9,Miami Dolphins,2016
+['Bobby McCain'],NA,week_9,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_9,Miami Dolphins,2016
+['Earl Mitchell'],Injured Reserve: Calf,week_9,Miami Dolphins,2016
+['Matt Moore'],NA,week_9,Miami Dolphins,2016
+['DeVante Parker'],Questionable: hamstring,week_9,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_9,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_9,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_9,Miami Dolphins,2016
+['Mike Pouncey'],NA,week_9,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_9,Miami Dolphins,2016
+['Anthony Steen'],NA,week_9,Miami Dolphins,2016
+['Kenny Stills'],NA,week_9,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_9,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_9,Miami Dolphins,2016
+['Laremy Tunsil'],Questionable: abdomen,week_9,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_9,Miami Dolphins,2016
+['Zach Vigil'],NA,week_9,Miami Dolphins,2016
+['Mario Williams'],NA,week_9,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: ankle,week_10,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_10,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_10,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: shoulder,week_10,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_10,Miami Dolphins,2016
+['Leonte Carroo'],Questionable: knee,week_10,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_10,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_10,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_10,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_10,Miami Dolphins,2016
+['Terrence Fede'],NA,week_10,Miami Dolphins,2016
+['Arian Foster'],: groin,week_10,Miami Dolphins,2016
+['MarQueis Gray'],Questionable: ankle,week_10,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_10,Miami Dolphins,2016
+['Mike Hull'],NA,week_10,Miami Dolphins,2016
+['Jason Jones'],NA,week_10,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_10,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_10,Miami Dolphins,2016
+['Jarvis Landry'],Questionable: shoulder,week_10,Miami Dolphins,2016
+['Tony Lippett'],NA,week_10,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_10,Miami Dolphins,2016
+['Bobby McCain'],NA,week_10,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_10,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_10,Miami Dolphins,2016
+['Matt Moore'],NA,week_10,Miami Dolphins,2016
+['DeVante Parker'],NA,week_10,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_10,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_10,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_10,Miami Dolphins,2016
+['Mike Pouncey'],NA,week_10,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_10,Miami Dolphins,2016
+['Anthony Steen'],Questionable: neck,week_10,Miami Dolphins,2016
+['Kenny Stills'],Questionable: calf,week_10,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_10,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_10,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_10,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_10,Miami Dolphins,2016
+['Zach Vigil'],NA,week_10,Miami Dolphins,2016
+['Mario Williams'],NA,week_10,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: ankle,week_11,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_11,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_11,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: shoulder,week_11,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_11,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_11,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_11,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_11,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_11,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_11,Miami Dolphins,2016
+['Terrence Fede'],NA,week_11,Miami Dolphins,2016
+['Arian Foster'],: groin,week_11,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_11,Miami Dolphins,2016
+['Xavien Howard'],Out: knee,week_11,Miami Dolphins,2016
+['Mike Hull'],Questionable: knee,week_11,Miami Dolphins,2016
+['Jason Jones'],Questionable: knee,week_11,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_11,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_11,Miami Dolphins,2016
+['Jarvis Landry'],Questionable: shoulder,week_11,Miami Dolphins,2016
+['Tony Lippett'],NA,week_11,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_11,Miami Dolphins,2016
+['Bobby McCain'],NA,week_11,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_11,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_11,Miami Dolphins,2016
+['Matt Moore'],NA,week_11,Miami Dolphins,2016
+['DeVante Parker'],NA,week_11,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_11,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_11,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_11,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_11,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_11,Miami Dolphins,2016
+['Anthony Steen'],Questionable: neck,week_11,Miami Dolphins,2016
+['Kenny Stills'],Questionable: calf,week_11,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_11,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_11,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_11,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_11,Miami Dolphins,2016
+['Zach Vigil'],NA,week_11,Miami Dolphins,2016
+['Mario Williams'],Questionable: ankle,week_11,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_12,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_12,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_12,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_12,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_12,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_12,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_12,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_12,Miami Dolphins,2016
+['Kenyan Drake'],Questionable: knee,week_12,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_12,Miami Dolphins,2016
+['Terrence Fede'],NA,week_12,Miami Dolphins,2016
+['Arian Foster'],: groin,week_12,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_12,Miami Dolphins,2016
+['Xavien Howard'],Doubtful: knee,week_12,Miami Dolphins,2016
+['Mike Hull'],NA,week_12,Miami Dolphins,2016
+['Jason Jones'],NA,week_12,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_12,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_12,Miami Dolphins,2016
+['Jarvis Landry'],Questionable: shoulder,week_12,Miami Dolphins,2016
+['Tony Lippett'],NA,week_12,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_12,Miami Dolphins,2016
+['Bobby McCain'],NA,week_12,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_12,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_12,Miami Dolphins,2016
+['Matt Moore'],NA,week_12,Miami Dolphins,2016
+['DeVante Parker'],NA,week_12,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: neck,week_12,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_12,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_12,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_12,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_12,Miami Dolphins,2016
+['Anthony Steen'],NA,week_12,Miami Dolphins,2016
+['Kenny Stills'],Questionable: calf,week_12,Miami Dolphins,2016
+['Ndamukong Suh'],Questionable: knee,week_12,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_12,Miami Dolphins,2016
+['Laremy Tunsil'],Questionable: shoulder,week_12,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_12,Miami Dolphins,2016
+['Zach Vigil'],NA,week_12,Miami Dolphins,2016
+['Mario Williams'],Questionable: ankle,week_12,Miami Dolphins,2016
+['Isa Abdul-Quddus'],NA,week_13,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_13,Miami Dolphins,2016
+['Kiko Alonso'],Questionable: hamstring,week_13,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: calf,week_13,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_13,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_13,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_13,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_13,Miami Dolphins,2016
+['Kenyan Drake'],Questionable: knee,week_13,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_13,Miami Dolphins,2016
+['Terrence Fede'],NA,week_13,Miami Dolphins,2016
+['Arian Foster'],: groin,week_13,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_13,Miami Dolphins,2016
+['Xavien Howard'],Doubtful: knee,week_13,Miami Dolphins,2016
+['Mike Hull'],NA,week_13,Miami Dolphins,2016
+['Jason Jones'],NA,week_13,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_13,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_13,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_13,Miami Dolphins,2016
+['Tony Lippett'],NA,week_13,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_13,Miami Dolphins,2016
+['Bobby McCain'],NA,week_13,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_13,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_13,Miami Dolphins,2016
+['Matt Moore'],NA,week_13,Miami Dolphins,2016
+['DeVante Parker'],Questionable: back,week_13,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_13,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_13,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_13,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_13,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_13,Miami Dolphins,2016
+['Anthony Steen'],NA,week_13,Miami Dolphins,2016
+['Kenny Stills'],NA,week_13,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_13,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_13,Miami Dolphins,2016
+['Laremy Tunsil'],Questionable: shoulder,week_13,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_13,Miami Dolphins,2016
+['Zach Vigil'],NA,week_13,Miami Dolphins,2016
+['Mario Williams'],NA,week_13,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: neck,week_14,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_14,Miami Dolphins,2016
+['Kiko Alonso'],"Doubtful: hand, hamstring",week_14,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_14,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_14,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_14,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_14,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_14,Miami Dolphins,2016
+['Kenyan Drake'],Questionable: knee,week_14,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_14,Miami Dolphins,2016
+['Terrence Fede'],NA,week_14,Miami Dolphins,2016
+['Arian Foster'],: groin,week_14,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_14,Miami Dolphins,2016
+['Xavien Howard'],Questionable: knee,week_14,Miami Dolphins,2016
+['Mike Hull'],NA,week_14,Miami Dolphins,2016
+['Jason Jones'],NA,week_14,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_14,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_14,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_14,Miami Dolphins,2016
+['Tony Lippett'],NA,week_14,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_14,Miami Dolphins,2016
+['Bobby McCain'],NA,week_14,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_14,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_14,Miami Dolphins,2016
+['Matt Moore'],Questionable: right shoulder,week_14,Miami Dolphins,2016
+['DeVante Parker'],Questionable: back,week_14,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: ankle,week_14,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_14,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_14,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_14,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_14,Miami Dolphins,2016
+['Anthony Steen'],"Questionable: shoulder, foot",week_14,Miami Dolphins,2016
+['Kenny Stills'],NA,week_14,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_14,Miami Dolphins,2016
+['Ryan Tannehill'],NA,week_14,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_14,Miami Dolphins,2016
+['Kraig Urbik'],Questionable: knee,week_14,Miami Dolphins,2016
+['Zach Vigil'],NA,week_14,Miami Dolphins,2016
+['Mario Williams'],Doubtful: ankle,week_14,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: neck,week_15,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_15,Miami Dolphins,2016
+['Kiko Alonso'],"Questionable: hamstring, hand",week_15,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: shoulder,week_15,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_15,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_15,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_15,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_15,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_15,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_15,Miami Dolphins,2016
+['Terrence Fede'],NA,week_15,Miami Dolphins,2016
+['Arian Foster'],: groin,week_15,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_15,Miami Dolphins,2016
+['Xavien Howard'],NA,week_15,Miami Dolphins,2016
+['Mike Hull'],NA,week_15,Miami Dolphins,2016
+['Jason Jones'],NA,week_15,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_15,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_15,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_15,Miami Dolphins,2016
+['Tony Lippett'],NA,week_15,Miami Dolphins,2016
+['Byron Maxwell'],NA,week_15,Miami Dolphins,2016
+['Bobby McCain'],Questionable: hand,week_15,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_15,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_15,Miami Dolphins,2016
+['Matt Moore'],NA,week_15,Miami Dolphins,2016
+['DeVante Parker'],NA,week_15,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: thigh,week_15,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_15,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_15,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_15,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_15,Miami Dolphins,2016
+['Anthony Steen'],Questionable: foot,week_15,Miami Dolphins,2016
+['Kenny Stills'],NA,week_15,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_15,Miami Dolphins,2016
+['Ryan Tannehill'],Out: knee,week_15,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_15,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_15,Miami Dolphins,2016
+['Zach Vigil'],NA,week_15,Miami Dolphins,2016
+['Mario Williams'],Questionable: ankle,week_15,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Questionable: ankle,week_16,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_16,Miami Dolphins,2016
+['Kiko Alonso'],"Questionable: hamstring, hand",week_16,Miami Dolphins,2016
+['Jermon Bushrod'],Questionable: shoulder,week_16,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_16,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_16,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_16,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_16,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_16,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_16,Miami Dolphins,2016
+['Terrence Fede'],NA,week_16,Miami Dolphins,2016
+['Arian Foster'],: groin,week_16,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_16,Miami Dolphins,2016
+['Xavien Howard'],NA,week_16,Miami Dolphins,2016
+['Mike Hull'],NA,week_16,Miami Dolphins,2016
+['Jason Jones'],NA,week_16,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_16,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_16,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_16,Miami Dolphins,2016
+['Tony Lippett'],NA,week_16,Miami Dolphins,2016
+['Byron Maxwell'],Doubtful: ankle,week_16,Miami Dolphins,2016
+['Bobby McCain'],"Questionable: knee, hand",week_16,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_16,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_16,Miami Dolphins,2016
+['Matt Moore'],NA,week_16,Miami Dolphins,2016
+['DeVante Parker'],NA,week_16,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_16,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_16,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_16,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_16,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_16,Miami Dolphins,2016
+['Anthony Steen'],NA,week_16,Miami Dolphins,2016
+['Kenny Stills'],NA,week_16,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_16,Miami Dolphins,2016
+['Ryan Tannehill'],Out: knee,week_16,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_16,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_16,Miami Dolphins,2016
+['Zach Vigil'],NA,week_16,Miami Dolphins,2016
+['Mario Williams'],Questionable: ankle,week_16,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Injured Reserve: Neck,week_17,Miami Dolphins,2016
+['Jay Ajayi'],Questionable: shoulder,week_17,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_17,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_17,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_17,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_17,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_17,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_17,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_17,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_17,Miami Dolphins,2016
+['Terrence Fede'],NA,week_17,Miami Dolphins,2016
+['Arian Foster'],: groin,week_17,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_17,Miami Dolphins,2016
+['Xavien Howard'],NA,week_17,Miami Dolphins,2016
+['Mike Hull'],NA,week_17,Miami Dolphins,2016
+['Jason Jones'],NA,week_17,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_17,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_17,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_17,Miami Dolphins,2016
+['Tony Lippett'],NA,week_17,Miami Dolphins,2016
+['Byron Maxwell'],Doubtful: ankle,week_17,Miami Dolphins,2016
+['Bobby McCain'],NA,week_17,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_17,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_17,Miami Dolphins,2016
+['Matt Moore'],NA,week_17,Miami Dolphins,2016
+['DeVante Parker'],NA,week_17,Miami Dolphins,2016
+['Spencer Paysinger'],Questionable: knee,week_17,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_17,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_17,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_17,Miami Dolphins,2016
+['Bacarri Rambo'],NA,week_17,Miami Dolphins,2016
+['Anthony Steen'],NA,week_17,Miami Dolphins,2016
+['Kenny Stills'],NA,week_17,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_17,Miami Dolphins,2016
+['Ryan Tannehill'],Out: knee,week_17,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_17,Miami Dolphins,2016
+['Kraig Urbik'],NA,week_17,Miami Dolphins,2016
+['Zach Vigil'],NA,week_17,Miami Dolphins,2016
+['Mario Williams'],Questionable: ankle,week_17,Miami Dolphins,2016
+['Isa Abdul-Quddus'],Injured Reserve: Neck,week_18,Miami Dolphins,2016
+['Jay Ajayi'],NA,week_18,Miami Dolphins,2016
+['Kiko Alonso'],NA,week_18,Miami Dolphins,2016
+['Jermon Bushrod'],NA,week_18,Miami Dolphins,2016
+['Jordan Cameron'],Injured Reserve: Concussion,week_18,Miami Dolphins,2016
+['Leonte Carroo'],NA,week_18,Miami Dolphins,2016
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_18,Miami Dolphins,2016
+['Chris Culliver'],Injured Reserve: Knee,week_18,Miami Dolphins,2016
+['Kenyan Drake'],NA,week_18,Miami Dolphins,2016
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_18,Miami Dolphins,2016
+['Terrence Fede'],NA,week_18,Miami Dolphins,2016
+['Arian Foster'],: groin,week_18,Miami Dolphins,2016
+['MarQueis Gray'],NA,week_18,Miami Dolphins,2016
+['Xavien Howard'],NA,week_18,Miami Dolphins,2016
+['Mike Hull'],NA,week_18,Miami Dolphins,2016
+['Jason Jones'],NA,week_18,Miami Dolphins,2016
+['Reshad Jones'],Injured Reserve: Shoulder,week_18,Miami Dolphins,2016
+['Dion Jordan'],Injured Reserve: Knee,week_18,Miami Dolphins,2016
+['Jarvis Landry'],NA,week_18,Miami Dolphins,2016
+['Tony Lippett'],Questionable: thigh,week_18,Miami Dolphins,2016
+['Byron Maxwell'],Doubtful: ankle,week_18,Miami Dolphins,2016
+['Bobby McCain'],NA,week_18,Miami Dolphins,2016
+['Koa Misi'],Injured Reserve: Neck,week_18,Miami Dolphins,2016
+['Earl Mitchell'],NA,week_18,Miami Dolphins,2016
+['Matt Moore'],NA,week_18,Miami Dolphins,2016
+['DeVante Parker'],NA,week_18,Miami Dolphins,2016
+['Spencer Paysinger'],NA,week_18,Miami Dolphins,2016
+['Isaiah Pead'],NA,week_18,Miami Dolphins,2016
+['Jordan Phillips'],NA,week_18,Miami Dolphins,2016
+['Mike Pouncey'],Injured Reserve: Hip,week_18,Miami Dolphins,2016
+['Bacarri Rambo'],Questionable: chest,week_18,Miami Dolphins,2016
+['Anthony Steen'],NA,week_18,Miami Dolphins,2016
+['Kenny Stills'],NA,week_18,Miami Dolphins,2016
+['Ndamukong Suh'],NA,week_18,Miami Dolphins,2016
+['Ryan Tannehill'],Out: knee,week_18,Miami Dolphins,2016
+['Laremy Tunsil'],NA,week_18,Miami Dolphins,2016
+['Kraig Urbik'],Questionable: knee,week_18,Miami Dolphins,2016
+['Zach Vigil'],Injured Reserve: Back,week_18,Miami Dolphins,2016
+['Mario Williams'],NA,week_18,Miami Dolphins,2016
