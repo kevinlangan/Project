@@ -1,0 +1,793 @@
+﻿name,injury,week,team,year
+['Cliff Avril'],NA,week_1,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_1,Seattle Seahawks,2015
+['Michael Bennett'],NA,week_1,Seattle Seahawks,2015
+['Justin Britt'],NA,week_1,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_1,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_1,Seattle Seahawks,2015
+['Frank Clark'],NA,week_1,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_1,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_1,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_1,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_1,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_1,Seattle Seahawks,2015
+['Cooper Helfet'],Probable: Knee,week_1,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_1,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_1,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_1,Seattle Seahawks,2015
+['Tarvaris Jackson'],Probable: Ankle,week_1,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_1,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_1,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_1,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_1,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_1,Seattle Seahawks,2015
+['Marshawn Lynch'],Probable: NotInjuryRelated,week_1,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_1,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_1,Seattle Seahawks,2015
+['Nick Moody'],NA,week_1,Seattle Seahawks,2015
+['Mike Morgan'],Out: Hamstring,week_1,Seattle Seahawks,2015
+['Russell Okung'],NA,week_1,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_1,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_1,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_1,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_1,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_1,Seattle Seahawks,2015
+['Tharold Simon'],Questionable: Toe,week_1,Seattle Seahawks,2015
+['Tye Smith'],NA,week_1,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_1,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_1,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_1,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_1,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_1,Seattle Seahawks,2015
+['Cary Williams'],NA,week_1,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_1,Seattle Seahawks,2015
+['Luke Willson'],NA,week_1,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_1,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_2,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_2,Seattle Seahawks,2015
+['Michael Bennett'],Probable: Ankle,week_2,Seattle Seahawks,2015
+['Justin Britt'],NA,week_2,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_2,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_2,Seattle Seahawks,2015
+['Frank Clark'],NA,week_2,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_2,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_2,Seattle Seahawks,2015
+['Demarcus Dobbs'],Probable: Back,week_2,Seattle Seahawks,2015
+['Garry Gilliam'],Questionable: Rib,week_2,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_2,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_2,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_2,Seattle Seahawks,2015
+['Bruce Irvin'],Questionable: Rib,week_2,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_2,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_2,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_2,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_2,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_2,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_2,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_2,Seattle Seahawks,2015
+['Marshawn Lynch'],Probable: NotInjuryRelated,week_2,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_2,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_2,Seattle Seahawks,2015
+['Nick Moody'],NA,week_2,Seattle Seahawks,2015
+['Mike Morgan'],Out: Hamstring,week_2,Seattle Seahawks,2015
+['Russell Okung'],NA,week_2,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_2,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_2,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_2,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_2,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_2,Seattle Seahawks,2015
+['Tharold Simon'],Questionable: Toe,week_2,Seattle Seahawks,2015
+['Tye Smith'],NA,week_2,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_2,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_2,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_2,Seattle Seahawks,2015
+['Will Tukuafu'],Questionable: Foot,week_2,Seattle Seahawks,2015
+['Bobby Wagner'],Probable: Ankle,week_2,Seattle Seahawks,2015
+['Cary Williams'],NA,week_2,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_2,Seattle Seahawks,2015
+['Luke Willson'],NA,week_2,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_2,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_3,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_3,Seattle Seahawks,2015
+['Michael Bennett'],Probable: Toe,week_3,Seattle Seahawks,2015
+['Justin Britt'],NA,week_3,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_3,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_3,Seattle Seahawks,2015
+['Frank Clark'],NA,week_3,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_3,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_3,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_3,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_3,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_3,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_3,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_3,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_3,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_3,Seattle Seahawks,2015
+['Tarvaris Jackson'],Probable: Ankle,week_3,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_3,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_3,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_3,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_3,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_3,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: Calf,week_3,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_3,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_3,Seattle Seahawks,2015
+['Nick Moody'],NA,week_3,Seattle Seahawks,2015
+['Mike Morgan'],Probable: Hamstring,week_3,Seattle Seahawks,2015
+['Russell Okung'],NA,week_3,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_3,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_3,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_3,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_3,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_3,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_3,Seattle Seahawks,2015
+['Tye Smith'],NA,week_3,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_3,Seattle Seahawks,2015
+['Steven Terrell'],Out: Hip,week_3,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_3,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_3,Seattle Seahawks,2015
+['Bobby Wagner'],Probable: Ankle,week_3,Seattle Seahawks,2015
+['Cary Williams'],Probable: Thigh,week_3,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_3,Seattle Seahawks,2015
+['Luke Willson'],Questionable: Back,week_3,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_3,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_4,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_4,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_4,Seattle Seahawks,2015
+['Justin Britt'],NA,week_4,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_4,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_4,Seattle Seahawks,2015
+['Frank Clark'],NA,week_4,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_4,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_4,Seattle Seahawks,2015
+['Demarcus Dobbs'],Questionable: Shoulder,week_4,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_4,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_4,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_4,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_4,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_4,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_4,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_4,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_4,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_4,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_4,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_4,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_4,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: Hamstring,week_4,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_4,Seattle Seahawks,2015
+['Brandon Mebane'],Questionable: Groin,week_4,Seattle Seahawks,2015
+['Nick Moody'],NA,week_4,Seattle Seahawks,2015
+['Mike Morgan'],Probable: Hamstring,week_4,Seattle Seahawks,2015
+['Russell Okung'],NA,week_4,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],Questionable: Hamstring,week_4,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_4,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_4,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_4,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_4,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_4,Seattle Seahawks,2015
+['Tye Smith'],NA,week_4,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_4,Seattle Seahawks,2015
+['Steven Terrell'],Out: Hip,week_4,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_4,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_4,Seattle Seahawks,2015
+['Bobby Wagner'],Probable: Ankle,week_4,Seattle Seahawks,2015
+['Cary Williams'],NA,week_4,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_4,Seattle Seahawks,2015
+['Luke Willson'],Probable: Back,week_4,Seattle Seahawks,2015
+['K.J. Wright'],Probable: Hip,week_4,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_5,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_5,Seattle Seahawks,2015
+['Michael Bennett'],NA,week_5,Seattle Seahawks,2015
+['Justin Britt'],NA,week_5,Seattle Seahawks,2015
+['Marcus Burley'],Out: Hand,week_5,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_5,Seattle Seahawks,2015
+['Frank Clark'],NA,week_5,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_5,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_5,Seattle Seahawks,2015
+['Demarcus Dobbs'],Doubtful: Shoulder,week_5,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_5,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_5,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_5,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_5,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_5,Seattle Seahawks,2015
+['Fred Jackson'],Questionable: Ankle,week_5,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_5,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_5,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_5,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_5,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_5,Seattle Seahawks,2015
+['Ricardo Lockette'],Probable: ShortnessofBreath,week_5,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Hamstring,week_5,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_5,Seattle Seahawks,2015
+['Brandon Mebane'],Probable: Groin,week_5,Seattle Seahawks,2015
+['Nick Moody'],NA,week_5,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_5,Seattle Seahawks,2015
+['Russell Okung'],NA,week_5,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],Doubtful: Hamstring,week_5,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_5,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_5,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_5,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_5,Seattle Seahawks,2015
+['Tharold Simon'],Out: Toe,week_5,Seattle Seahawks,2015
+['Tye Smith'],Doubtful: Hip,week_5,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_5,Seattle Seahawks,2015
+['Steven Terrell'],Probable: Hip,week_5,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_5,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_5,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_5,Seattle Seahawks,2015
+['Cary Williams'],NA,week_5,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_5,Seattle Seahawks,2015
+['Luke Willson'],NA,week_5,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_5,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_6,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_6,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_6,Seattle Seahawks,2015
+['Justin Britt'],NA,week_6,Seattle Seahawks,2015
+['Marcus Burley'],Out: Hand,week_6,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_6,Seattle Seahawks,2015
+['Frank Clark'],Doubtful: Hamstring,week_6,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_6,Seattle Seahawks,2015
+['Brock Coyle'],Questionable: Knee,week_6,Seattle Seahawks,2015
+['Demarcus Dobbs'],Questionable: Shoulder,week_6,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_6,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_6,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_6,Seattle Seahawks,2015
+['Jordan Hill'],Doubtful: Quadricep,week_6,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_6,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_6,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_6,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_6,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_6,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_6,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_6,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_6,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: Hamstring,week_6,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_6,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_6,Seattle Seahawks,2015
+['Nick Moody'],Doubtful: Ankle,week_6,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_6,Seattle Seahawks,2015
+['Russell Okung'],NA,week_6,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],Probable: Hamstring,week_6,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_6,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_6,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_6,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_6,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_6,Seattle Seahawks,2015
+['Tye Smith'],Doubtful: Hip,week_6,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_6,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_6,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_6,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_6,Seattle Seahawks,2015
+['Bobby Wagner'],Questionable: Pectoral,week_6,Seattle Seahawks,2015
+['Cary Williams'],NA,week_6,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_6,Seattle Seahawks,2015
+['Luke Willson'],NA,week_6,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_6,Seattle Seahawks,2015
+['Cliff Avril'],Probable: Ankle,week_7,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_7,Seattle Seahawks,2015
+['Michael Bennett'],NA,week_7,Seattle Seahawks,2015
+['Justin Britt'],Probable: Hip,week_7,Seattle Seahawks,2015
+['Marcus Burley'],Out: Hand,week_7,Seattle Seahawks,2015
+['Kam Chancellor'],Probable: Shoulder,week_7,Seattle Seahawks,2015
+['Frank Clark'],Probable: Hamstring,week_7,Seattle Seahawks,2015
+['Derrick Coleman'],Out: Concussion,week_7,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_7,Seattle Seahawks,2015
+['Demarcus Dobbs'],Questionable: Shoulder,week_7,Seattle Seahawks,2015
+['Garry Gilliam'],Probable: Ankle,week_7,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_7,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_7,Seattle Seahawks,2015
+['Jordan Hill'],Out: Quadricep,week_7,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_7,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_7,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_7,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_7,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_7,Seattle Seahawks,2015
+['Patrick Lewis'],Out: Ankle,week_7,Seattle Seahawks,2015
+['Tyler Lockett'],Probable: Hip,week_7,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_7,Seattle Seahawks,2015
+['Marshawn Lynch'],Probable: Hamstring,week_7,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_7,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_7,Seattle Seahawks,2015
+['Nick Moody'],Out: Ankle,week_7,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_7,Seattle Seahawks,2015
+['Russell Okung'],NA,week_7,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_7,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_7,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_7,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_7,Seattle Seahawks,2015
+['Richard Sherman'],Probable: Ankle,week_7,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_7,Seattle Seahawks,2015
+['Tye Smith'],Probable: Hip,week_7,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_7,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_7,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_7,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_7,Seattle Seahawks,2015
+['Bobby Wagner'],Probable: Pectoral,week_7,Seattle Seahawks,2015
+['Cary Williams'],NA,week_7,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_7,Seattle Seahawks,2015
+['Luke Willson'],NA,week_7,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_7,Seattle Seahawks,2015
+['Cliff Avril'],Probable: Ankle,week_8,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_8,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_8,Seattle Seahawks,2015
+['Justin Britt'],NA,week_8,Seattle Seahawks,2015
+['Marcus Burley'],Probable: Hand,week_8,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_8,Seattle Seahawks,2015
+['Frank Clark'],NA,week_8,Seattle Seahawks,2015
+['Derrick Coleman'],Probable: Concussion,week_8,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_8,Seattle Seahawks,2015
+['Demarcus Dobbs'],Probable: Shoulder,week_8,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_8,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_8,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_8,Seattle Seahawks,2015
+['Jordan Hill'],Probable: Quadricep,week_8,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_8,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_8,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_8,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_8,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_8,Seattle Seahawks,2015
+['Patrick Lewis'],Probable: Ankle,week_8,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_8,Seattle Seahawks,2015
+['Ricardo Lockette'],NA,week_8,Seattle Seahawks,2015
+['Marshawn Lynch'],Probable: Hamstring,week_8,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_8,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_8,Seattle Seahawks,2015
+['Nick Moody'],Probable: Ankle,week_8,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_8,Seattle Seahawks,2015
+['Russell Okung'],Questionable: Toe,week_8,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_8,Seattle Seahawks,2015
+['Thomas Rawls'],Probable: Calf,week_8,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_8,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_8,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_8,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_8,Seattle Seahawks,2015
+['Tye Smith'],NA,week_8,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_8,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_8,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_8,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_8,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_8,Seattle Seahawks,2015
+['Cary Williams'],NA,week_8,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_8,Seattle Seahawks,2015
+['Luke Willson'],NA,week_8,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_8,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_10,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_10,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_10,Seattle Seahawks,2015
+['Justin Britt'],NA,week_10,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_10,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_10,Seattle Seahawks,2015
+['Frank Clark'],NA,week_10,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_10,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_10,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_10,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_10,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_10,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_10,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_10,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_10,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_10,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_10,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_10,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_10,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_10,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_10,Seattle Seahawks,2015
+['Ricardo Lockette'],Out: Neck,week_10,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: Abdomen,week_10,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_10,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_10,Seattle Seahawks,2015
+['Nick Moody'],NA,week_10,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_10,Seattle Seahawks,2015
+['Russell Okung'],Probable: Toe,week_10,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_10,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_10,Seattle Seahawks,2015
+['Paul Richardson'],NA,week_10,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_10,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_10,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_10,Seattle Seahawks,2015
+['Tye Smith'],NA,week_10,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_10,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_10,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_10,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_10,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_10,Seattle Seahawks,2015
+['Cary Williams'],NA,week_10,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_10,Seattle Seahawks,2015
+['Luke Willson'],Probable: Toe,week_10,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_10,Seattle Seahawks,2015
+['Cliff Avril'],Probable: Ankle,week_11,Seattle Seahawks,2015
+['Doug Baldwin'],Probable: Toe,week_11,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_11,Seattle Seahawks,2015
+['Justin Britt'],NA,week_11,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_11,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_11,Seattle Seahawks,2015
+['Frank Clark'],NA,week_11,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_11,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_11,Seattle Seahawks,2015
+['Demarcus Dobbs'],Probable: Shoulder,week_11,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_11,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_11,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_11,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_11,Seattle Seahawks,2015
+['Bruce Irvin'],Out: Knee,week_11,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_11,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_11,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_11,Seattle Seahawks,2015
+['Jeremy Lane'],Injured Reserve: Knee,week_11,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_11,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_11,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_11,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: Abdomen,week_11,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_11,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_11,Seattle Seahawks,2015
+['Nick Moody'],NA,week_11,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_11,Seattle Seahawks,2015
+['Russell Okung'],Probable: Toe,week_11,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_11,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_11,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_11,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_11,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_11,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_11,Seattle Seahawks,2015
+['Tye Smith'],NA,week_11,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_11,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_11,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_11,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_11,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_11,Seattle Seahawks,2015
+['Cary Williams'],Probable: Hip,week_11,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_11,Seattle Seahawks,2015
+['Luke Willson'],Probable: Toe,week_11,Seattle Seahawks,2015
+['K.J. Wright'],Probable: Knee,week_11,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_12,Seattle Seahawks,2015
+['Doug Baldwin'],Probable: Ankle,week_12,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_12,Seattle Seahawks,2015
+['Justin Britt'],NA,week_12,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_12,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_12,Seattle Seahawks,2015
+['Frank Clark'],NA,week_12,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_12,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_12,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_12,Seattle Seahawks,2015
+['Garry Gilliam'],Probable: Ankle,week_12,Seattle Seahawks,2015
+['Jimmy Graham'],NA,week_12,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_12,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_12,Seattle Seahawks,2015
+['Bruce Irvin'],Doubtful: Knee,week_12,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_12,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_12,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_12,Seattle Seahawks,2015
+['Jeremy Lane'],NA,week_12,Seattle Seahawks,2015
+['Patrick Lewis'],Questionable: Ankle,week_12,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_12,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_12,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_12,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_12,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_12,Seattle Seahawks,2015
+['Nick Moody'],NA,week_12,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_12,Seattle Seahawks,2015
+['Russell Okung'],NA,week_12,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_12,Seattle Seahawks,2015
+['Thomas Rawls'],Probable: Knee,week_12,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_12,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_12,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_12,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_12,Seattle Seahawks,2015
+['Tye Smith'],NA,week_12,Seattle Seahawks,2015
+['J.R. Sweezy'],Probable: Shoulder,week_12,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_12,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_12,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_12,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_12,Seattle Seahawks,2015
+['Cary Williams'],NA,week_12,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_12,Seattle Seahawks,2015
+['Luke Willson'],NA,week_12,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_12,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_13,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_13,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_13,Seattle Seahawks,2015
+['Justin Britt'],NA,week_13,Seattle Seahawks,2015
+['Marcus Burley'],Questionable: Ankle,week_13,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_13,Seattle Seahawks,2015
+['Frank Clark'],NA,week_13,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_13,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_13,Seattle Seahawks,2015
+['Demarcus Dobbs'],Out: Concussion,week_13,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_13,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_13,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_13,Seattle Seahawks,2015
+['Jordan Hill'],Out: Toe,week_13,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_13,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_13,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_13,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_13,Seattle Seahawks,2015
+['Jeremy Lane'],Probable: Knee,week_13,Seattle Seahawks,2015
+['Patrick Lewis'],Probable: Knee,week_13,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_13,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_13,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_13,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_13,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_13,Seattle Seahawks,2015
+['Nick Moody'],NA,week_13,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_13,Seattle Seahawks,2015
+['Russell Okung'],NA,week_13,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_13,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_13,Seattle Seahawks,2015
+['Paul Richardson'],Out: Hamstring,week_13,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_13,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_13,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_13,Seattle Seahawks,2015
+['Tye Smith'],NA,week_13,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_13,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_13,Seattle Seahawks,2015
+['Earl Thomas'],Probable: Hip,week_13,Seattle Seahawks,2015
+['Will Tukuafu'],Questionable: Concussion,week_13,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_13,Seattle Seahawks,2015
+['Cary Williams'],NA,week_13,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_13,Seattle Seahawks,2015
+['Luke Willson'],NA,week_13,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_13,Seattle Seahawks,2015
+['Cliff Avril'],Probable: NotInjuryRelated,week_14,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_14,Seattle Seahawks,2015
+['Michael Bennett'],Probable: NotInjuryRelated,week_14,Seattle Seahawks,2015
+['Justin Britt'],NA,week_14,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_14,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_14,Seattle Seahawks,2015
+['Frank Clark'],NA,week_14,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_14,Seattle Seahawks,2015
+['Brock Coyle'],Injured Reserve: Knee,week_14,Seattle Seahawks,2015
+['Demarcus Dobbs'],Out: Concussion,week_14,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_14,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_14,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_14,Seattle Seahawks,2015
+['Jordan Hill'],Out: Toe,week_14,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_14,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_14,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_14,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_14,Seattle Seahawks,2015
+['Jeremy Lane'],NA,week_14,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_14,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_14,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_14,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_14,Seattle Seahawks,2015
+['Anthony McCoy'],NA,week_14,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_14,Seattle Seahawks,2015
+['Nick Moody'],NA,week_14,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_14,Seattle Seahawks,2015
+['Russell Okung'],NA,week_14,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_14,Seattle Seahawks,2015
+['Thomas Rawls'],NA,week_14,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_14,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_14,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_14,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_14,Seattle Seahawks,2015
+['Tye Smith'],NA,week_14,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_14,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_14,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_14,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_14,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_14,Seattle Seahawks,2015
+['Cary Williams'],NA,week_14,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_14,Seattle Seahawks,2015
+['Luke Willson'],NA,week_14,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_14,Seattle Seahawks,2015
+['Cliff Avril'],Probable: NotInjuryRelated,week_15,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_15,Seattle Seahawks,2015
+['Michael Bennett'],Probable: Toe,week_15,Seattle Seahawks,2015
+['Justin Britt'],NA,week_15,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_15,Seattle Seahawks,2015
+['Kam Chancellor'],Questionable: Pelvis,week_15,Seattle Seahawks,2015
+['Frank Clark'],NA,week_15,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_15,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_15,Seattle Seahawks,2015
+['Demarcus Dobbs'],Probable: Concussion,week_15,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_15,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_15,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_15,Seattle Seahawks,2015
+['Jordan Hill'],Out: Toe,week_15,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_15,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_15,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_15,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_15,Seattle Seahawks,2015
+['Jeremy Lane'],NA,week_15,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_15,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_15,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_15,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_15,Seattle Seahawks,2015
+['Anthony McCoy'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_15,Seattle Seahawks,2015
+['Nick Moody'],NA,week_15,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_15,Seattle Seahawks,2015
+['Russell Okung'],NA,week_15,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_15,Seattle Seahawks,2015
+['Thomas Rawls'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_15,Seattle Seahawks,2015
+['DeShawn Shead'],Questionable: Ankle,week_15,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_15,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_15,Seattle Seahawks,2015
+['Tye Smith'],NA,week_15,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_15,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_15,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_15,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_15,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_15,Seattle Seahawks,2015
+['Cary Williams'],NA,week_15,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_15,Seattle Seahawks,2015
+['Luke Willson'],Probable: Rib,week_15,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_15,Seattle Seahawks,2015
+['Cliff Avril'],Probable: NotInjuryRelated,week_16,Seattle Seahawks,2015
+['Doug Baldwin'],Questionable: Hamstring,week_16,Seattle Seahawks,2015
+['Michael Bennett'],Questionable: Toe,week_16,Seattle Seahawks,2015
+['Justin Britt'],NA,week_16,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_16,Seattle Seahawks,2015
+['Kam Chancellor'],Questionable: Pelvis,week_16,Seattle Seahawks,2015
+['Frank Clark'],NA,week_16,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_16,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_16,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_16,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_16,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_16,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_16,Seattle Seahawks,2015
+['Jordan Hill'],Doubtful: Toe,week_16,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_16,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_16,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_16,Seattle Seahawks,2015
+['Jermaine Kearse'],Probable: Calf,week_16,Seattle Seahawks,2015
+['Jeremy Lane'],Probable: Knee,week_16,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_16,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_16,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_16,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_16,Seattle Seahawks,2015
+['Anthony McCoy'],Doubtful: Knee,week_16,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_16,Seattle Seahawks,2015
+['Nick Moody'],NA,week_16,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_16,Seattle Seahawks,2015
+['Russell Okung'],Questionable: Calf,week_16,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_16,Seattle Seahawks,2015
+['Thomas Rawls'],Injured Reserve: Ankle,week_16,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_16,Seattle Seahawks,2015
+['DeShawn Shead'],Probable: Ankle,week_16,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_16,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_16,Seattle Seahawks,2015
+['Tye Smith'],NA,week_16,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_16,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_16,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_16,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_16,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_16,Seattle Seahawks,2015
+['Cary Williams'],NA,week_16,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_16,Seattle Seahawks,2015
+['Luke Willson'],NA,week_16,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_16,Seattle Seahawks,2015
+['Cliff Avril'],Probable: Back,week_17,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_17,Seattle Seahawks,2015
+['Michael Bennett'],Probable: Toe,week_17,Seattle Seahawks,2015
+['Justin Britt'],NA,week_17,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_17,Seattle Seahawks,2015
+['Kam Chancellor'],Questionable: Pelvis,week_17,Seattle Seahawks,2015
+['Frank Clark'],NA,week_17,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_17,Seattle Seahawks,2015
+['Brock Coyle'],NA,week_17,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_17,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_17,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_17,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_17,Seattle Seahawks,2015
+['Jordan Hill'],Questionable: Toe,week_17,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_17,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_17,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_17,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_17,Seattle Seahawks,2015
+['Jeremy Lane'],NA,week_17,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_17,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_17,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_17,Seattle Seahawks,2015
+['Marshawn Lynch'],Out: Abdomen,week_17,Seattle Seahawks,2015
+['Anthony McCoy'],Injured Reserve: Ankle,week_17,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_17,Seattle Seahawks,2015
+['Nick Moody'],NA,week_17,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_17,Seattle Seahawks,2015
+['Russell Okung'],Doubtful: Calf,week_17,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_17,Seattle Seahawks,2015
+['Thomas Rawls'],Injured Reserve: Ankle,week_17,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_17,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_17,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_17,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_17,Seattle Seahawks,2015
+['Tye Smith'],NA,week_17,Seattle Seahawks,2015
+['J.R. Sweezy'],Out: Concussion,week_17,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_17,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_17,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_17,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_17,Seattle Seahawks,2015
+['Cary Williams'],NA,week_17,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_17,Seattle Seahawks,2015
+['Luke Willson'],Out: Concussion,week_17,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_17,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_18,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_18,Seattle Seahawks,2015
+['Michael Bennett'],Probable: toe,week_18,Seattle Seahawks,2015
+['Justin Britt'],NA,week_18,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_18,Seattle Seahawks,2015
+['Kam Chancellor'],Probable: pelvis,week_18,Seattle Seahawks,2015
+['Frank Clark'],NA,week_18,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_18,Seattle Seahawks,2015
+['Brock Coyle'],: knee,week_18,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_18,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_18,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_18,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_18,Seattle Seahawks,2015
+['Jordan Hill'],Probable: toe,week_18,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_18,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_18,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_18,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_18,Seattle Seahawks,2015
+['Jeremy Lane'],Probable: oblique,week_18,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_18,Seattle Seahawks,2015
+['Tyler Lockett'],Probable: hip,week_18,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_18,Seattle Seahawks,2015
+['Marshawn Lynch'],Questionable: abdomen,week_18,Seattle Seahawks,2015
+['Anthony McCoy'],Injured Reserve: Ankle,week_18,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_18,Seattle Seahawks,2015
+['Nick Moody'],NA,week_18,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_18,Seattle Seahawks,2015
+['Russell Okung'],Probable: calf,week_18,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_18,Seattle Seahawks,2015
+['Thomas Rawls'],Injured Reserve: Ankle,week_18,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_18,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_18,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_18,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_18,Seattle Seahawks,2015
+['Tye Smith'],NA,week_18,Seattle Seahawks,2015
+['J.R. Sweezy'],Probable: concussion,week_18,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_18,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_18,Seattle Seahawks,2015
+['Will Tukuafu'],NA,week_18,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_18,Seattle Seahawks,2015
+['Cary Williams'],NA,week_18,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_18,Seattle Seahawks,2015
+['Luke Willson'],Out: concussion,week_18,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_18,Seattle Seahawks,2015
+['Cliff Avril'],NA,week_19,Seattle Seahawks,2015
+['Doug Baldwin'],NA,week_19,Seattle Seahawks,2015
+['Michael Bennett'],Probable: toe,week_19,Seattle Seahawks,2015
+['Justin Britt'],NA,week_19,Seattle Seahawks,2015
+['Marcus Burley'],NA,week_19,Seattle Seahawks,2015
+['Kam Chancellor'],NA,week_19,Seattle Seahawks,2015
+['Frank Clark'],NA,week_19,Seattle Seahawks,2015
+['Derrick Coleman'],NA,week_19,Seattle Seahawks,2015
+['Brock Coyle'],: knee,week_19,Seattle Seahawks,2015
+['Demarcus Dobbs'],NA,week_19,Seattle Seahawks,2015
+['Garry Gilliam'],NA,week_19,Seattle Seahawks,2015
+['Jimmy Graham'],Injured Reserve: Knee,week_19,Seattle Seahawks,2015
+['Cooper Helfet'],NA,week_19,Seattle Seahawks,2015
+['Jordan Hill'],NA,week_19,Seattle Seahawks,2015
+['Bruce Irvin'],NA,week_19,Seattle Seahawks,2015
+['Fred Jackson'],NA,week_19,Seattle Seahawks,2015
+['Tarvaris Jackson'],NA,week_19,Seattle Seahawks,2015
+['Jermaine Kearse'],NA,week_19,Seattle Seahawks,2015
+['Jeremy Lane'],NA,week_19,Seattle Seahawks,2015
+['Patrick Lewis'],NA,week_19,Seattle Seahawks,2015
+['Tyler Lockett'],NA,week_19,Seattle Seahawks,2015
+['Ricardo Lockette'],Injured Reserve: Neck,week_19,Seattle Seahawks,2015
+['Marshawn Lynch'],Probable: abdomen,week_19,Seattle Seahawks,2015
+['Anthony McCoy'],Injured Reserve: Ankle,week_19,Seattle Seahawks,2015
+['Brandon Mebane'],NA,week_19,Seattle Seahawks,2015
+['Nick Moody'],NA,week_19,Seattle Seahawks,2015
+['Mike Morgan'],NA,week_19,Seattle Seahawks,2015
+['Russell Okung'],NA,week_19,Seattle Seahawks,2015
+['Kevin Pierre-Louis'],NA,week_19,Seattle Seahawks,2015
+['Thomas Rawls'],Injured Reserve: Ankle,week_19,Seattle Seahawks,2015
+['Paul Richardson'],Injured Reserve: Hamstring,week_19,Seattle Seahawks,2015
+['DeShawn Shead'],NA,week_19,Seattle Seahawks,2015
+['Richard Sherman'],NA,week_19,Seattle Seahawks,2015
+['Tharold Simon'],Injured Reserve: Toe,week_19,Seattle Seahawks,2015
+['Tye Smith'],NA,week_19,Seattle Seahawks,2015
+['J.R. Sweezy'],NA,week_19,Seattle Seahawks,2015
+['Steven Terrell'],NA,week_19,Seattle Seahawks,2015
+['Earl Thomas'],NA,week_19,Seattle Seahawks,2015
+['Will Tukuafu'],Doubtful: hamstring,week_19,Seattle Seahawks,2015
+['Bobby Wagner'],NA,week_19,Seattle Seahawks,2015
+['Cary Williams'],NA,week_19,Seattle Seahawks,2015
+['Jesse Williams'],Injured Reserve: Illness,week_19,Seattle Seahawks,2015
+['Luke Willson'],Probable: concussion,week_19,Seattle Seahawks,2015
+['K.J. Wright'],NA,week_19,Seattle Seahawks,2015

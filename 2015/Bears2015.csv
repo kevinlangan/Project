@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Sam Acho'],Out: Illness,week_1,Chicago Bears,2015
+['Adrian Amos'],NA,week_1,Chicago Bears,2015
+['Alan Ball'],NA,week_1,Chicago Bears,2015
+['Josh Bellamy'],NA,week_1,Chicago Bears,2015
+['Martellus Bennett'],NA,week_1,Chicago Bears,2015
+['Jonathan Bostic'],Questionable: Ankle,week_1,Chicago Bears,2015
+['Jermon Bushrod'],Probable: Back,week_1,Chicago Bears,2015
+['Bryce Callahan'],NA,week_1,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_1,Chicago Bears,2015
+['Jimmy Clausen'],Probable: Concussion,week_1,Chicago Bears,2015
+['Jay Cutler'],NA,week_1,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_1,Chicago Bears,2015
+['Ego Ferguson'],NA,week_1,Chicago Bears,2015
+['Matt Forte'],NA,week_1,Chicago Bears,2015
+['Bruce Gaston'],NA,week_1,Chicago Bears,2015
+['Eddie Goldman'],Probable: Concussion,week_1,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_1,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Calf,week_1,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_1,Chicago Bears,2015
+['Kyle Long'],NA,week_1,Chicago Bears,2015
+['Sherrod Martin'],NA,week_1,Chicago Bears,2015
+['Shea McClellin'],NA,week_1,Chicago Bears,2015
+['Sherrick McManis'],NA,week_1,Chicago Bears,2015
+['Pernell McPhee'],NA,week_1,Chicago Bears,2015
+['Cameron Meredith'],NA,week_1,Chicago Bears,2015
+['Zach Miller'],NA,week_1,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_1,Chicago Bears,2015
+['Will Montgomery'],NA,week_1,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_1,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_1,Chicago Bears,2015
+['Patrick Omameh'],NA,week_1,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_1,Chicago Bears,2015
+['Tracy Porter'],Out: Hamstring,week_1,Chicago Bears,2015
+['Jay Ratliff'],NA,week_1,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_1,Chicago Bears,2015
+['Jacquizz Rodgers'],NA,week_1,Chicago Bears,2015
+['Antrel Rolle'],NA,week_1,Chicago Bears,2015
+['Eddie Royal'],Questionable: Hip,week_1,Chicago Bears,2015
+['Matt Slauson'],NA,week_1,Chicago Bears,2015
+['Will Sutton'],NA,week_1,Chicago Bears,2015
+['Mitch Unrein'],NA,week_1,Chicago Bears,2015
+['Cornelius Washington'],NA,week_1,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_1,Chicago Bears,2015
+['Marquess Wilson'],Questionable: Hamstring,week_1,Chicago Bears,2015
+['Willie Young'],NA,week_1,Chicago Bears,2015
+['Sam Acho'],Probable: Illness,week_2,Chicago Bears,2015
+['Adrian Amos'],NA,week_2,Chicago Bears,2015
+['Alan Ball'],NA,week_2,Chicago Bears,2015
+['Josh Bellamy'],NA,week_2,Chicago Bears,2015
+['Martellus Bennett'],NA,week_2,Chicago Bears,2015
+['Jonathan Bostic'],Out: Ankle,week_2,Chicago Bears,2015
+['Jermon Bushrod'],Probable: Back,week_2,Chicago Bears,2015
+['Bryce Callahan'],NA,week_2,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_2,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_2,Chicago Bears,2015
+['Jay Cutler'],NA,week_2,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_2,Chicago Bears,2015
+['Ego Ferguson'],Questionable: Knee,week_2,Chicago Bears,2015
+['Matt Forte'],NA,week_2,Chicago Bears,2015
+['Bruce Gaston'],NA,week_2,Chicago Bears,2015
+['Eddie Goldman'],NA,week_2,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_2,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Hamstring,week_2,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_2,Chicago Bears,2015
+['Kyle Long'],NA,week_2,Chicago Bears,2015
+['Sherrod Martin'],NA,week_2,Chicago Bears,2015
+['Shea McClellin'],NA,week_2,Chicago Bears,2015
+['Sherrick McManis'],Probable: Thigh,week_2,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Wrist,week_2,Chicago Bears,2015
+['Cameron Meredith'],NA,week_2,Chicago Bears,2015
+['Zach Miller'],NA,week_2,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_2,Chicago Bears,2015
+['Will Montgomery'],NA,week_2,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_2,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_2,Chicago Bears,2015
+['Patrick Omameh'],NA,week_2,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_2,Chicago Bears,2015
+['Tracy Porter'],Out: Hamstring,week_2,Chicago Bears,2015
+['Jay Ratliff'],NA,week_2,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_2,Chicago Bears,2015
+['Jacquizz Rodgers'],NA,week_2,Chicago Bears,2015
+['Antrel Rolle'],NA,week_2,Chicago Bears,2015
+['Eddie Royal'],NA,week_2,Chicago Bears,2015
+['Matt Slauson'],NA,week_2,Chicago Bears,2015
+['Will Sutton'],NA,week_2,Chicago Bears,2015
+['Mitch Unrein'],NA,week_2,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_2,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_2,Chicago Bears,2015
+['Marquess Wilson'],NA,week_2,Chicago Bears,2015
+['Willie Young'],NA,week_2,Chicago Bears,2015
+['Sam Acho'],NA,week_3,Chicago Bears,2015
+['Adrian Amos'],NA,week_3,Chicago Bears,2015
+['Alan Ball'],NA,week_3,Chicago Bears,2015
+['Josh Bellamy'],NA,week_3,Chicago Bears,2015
+['Martellus Bennett'],NA,week_3,Chicago Bears,2015
+['Jonathan Bostic'],Doubtful: Ankle,week_3,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_3,Chicago Bears,2015
+['Bryce Callahan'],NA,week_3,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_3,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_3,Chicago Bears,2015
+['Jay Cutler'],Out: Hamstring,week_3,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_3,Chicago Bears,2015
+['Ego Ferguson'],Questionable: Knee,week_3,Chicago Bears,2015
+['Matt Forte'],Probable: Knee,week_3,Chicago Bears,2015
+['Bruce Gaston'],NA,week_3,Chicago Bears,2015
+['Eddie Goldman'],NA,week_3,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_3,Chicago Bears,2015
+['Alshon Jeffery'],Out: Hamstring,week_3,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_3,Chicago Bears,2015
+['Kyle Long'],NA,week_3,Chicago Bears,2015
+['Sherrod Martin'],NA,week_3,Chicago Bears,2015
+['Shea McClellin'],NA,week_3,Chicago Bears,2015
+['Sherrick McManis'],NA,week_3,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_3,Chicago Bears,2015
+['Cameron Meredith'],NA,week_3,Chicago Bears,2015
+['Zach Miller'],NA,week_3,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_3,Chicago Bears,2015
+['Will Montgomery'],NA,week_3,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_3,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_3,Chicago Bears,2015
+['Patrick Omameh'],NA,week_3,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_3,Chicago Bears,2015
+['Tracy Porter'],Questionable: Hamstring,week_3,Chicago Bears,2015
+['Jay Ratliff'],NA,week_3,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_3,Chicago Bears,2015
+['Jacquizz Rodgers'],NA,week_3,Chicago Bears,2015
+['Antrel Rolle'],NA,week_3,Chicago Bears,2015
+['Eddie Royal'],Questionable: Back,week_3,Chicago Bears,2015
+['Matt Slauson'],Probable: Thigh,week_3,Chicago Bears,2015
+['Will Sutton'],NA,week_3,Chicago Bears,2015
+['Mitch Unrein'],NA,week_3,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_3,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_3,Chicago Bears,2015
+['Marquess Wilson'],Probable: Shoulder,week_3,Chicago Bears,2015
+['Willie Young'],NA,week_3,Chicago Bears,2015
+['Sam Acho'],NA,week_4,Chicago Bears,2015
+['Adrian Amos'],NA,week_4,Chicago Bears,2015
+['Alan Ball'],Questionable: Groin,week_4,Chicago Bears,2015
+['Josh Bellamy'],NA,week_4,Chicago Bears,2015
+['Martellus Bennett'],NA,week_4,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_4,Chicago Bears,2015
+['Jermon Bushrod'],Out: Concussion,week_4,Chicago Bears,2015
+['Bryce Callahan'],NA,week_4,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_4,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_4,Chicago Bears,2015
+['Jay Cutler'],Questionable: Hamstring,week_4,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_4,Chicago Bears,2015
+['Ego Ferguson'],Questionable: Knee,week_4,Chicago Bears,2015
+['Matt Forte'],NA,week_4,Chicago Bears,2015
+['Bruce Gaston'],NA,week_4,Chicago Bears,2015
+['Eddie Goldman'],NA,week_4,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_4,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Hamstring,week_4,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_4,Chicago Bears,2015
+['Kyle Long'],NA,week_4,Chicago Bears,2015
+['Sherrod Martin'],NA,week_4,Chicago Bears,2015
+['Shea McClellin'],NA,week_4,Chicago Bears,2015
+['Sherrick McManis'],NA,week_4,Chicago Bears,2015
+['Pernell McPhee'],NA,week_4,Chicago Bears,2015
+['Cameron Meredith'],NA,week_4,Chicago Bears,2015
+['Zach Miller'],NA,week_4,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_4,Chicago Bears,2015
+['Will Montgomery'],NA,week_4,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_4,Chicago Bears,2015
+"[""Pat O'Donnell""]",Questionable: rightKnee,week_4,Chicago Bears,2015
+['Patrick Omameh'],NA,week_4,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_4,Chicago Bears,2015
+['Tracy Porter'],NA,week_4,Chicago Bears,2015
+['Jay Ratliff'],Questionable: Ankle,week_4,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_4,Chicago Bears,2015
+['Jacquizz Rodgers'],NA,week_4,Chicago Bears,2015
+['Antrel Rolle'],NA,week_4,Chicago Bears,2015
+['Eddie Royal'],NA,week_4,Chicago Bears,2015
+['Matt Slauson'],NA,week_4,Chicago Bears,2015
+['Will Sutton'],Questionable: Elbow,week_4,Chicago Bears,2015
+['Mitch Unrein'],NA,week_4,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_4,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_4,Chicago Bears,2015
+['Marquess Wilson'],NA,week_4,Chicago Bears,2015
+['Willie Young'],NA,week_4,Chicago Bears,2015
+['Sam Acho'],NA,week_5,Chicago Bears,2015
+['Adrian Amos'],NA,week_5,Chicago Bears,2015
+['Alan Ball'],Questionable: Groin,week_5,Chicago Bears,2015
+['Josh Bellamy'],NA,week_5,Chicago Bears,2015
+['Martellus Bennett'],NA,week_5,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_5,Chicago Bears,2015
+['Jermon Bushrod'],Out: Concussion,week_5,Chicago Bears,2015
+['Bryce Callahan'],NA,week_5,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_5,Chicago Bears,2015
+['Jimmy Clausen'],Questionable: Back,week_5,Chicago Bears,2015
+['Jay Cutler'],Questionable: Hamstring,week_5,Chicago Bears,2015
+['Tayo Fabuluje'],Questionable: Ankle,week_5,Chicago Bears,2015
+['Ego Ferguson'],NA,week_5,Chicago Bears,2015
+['Matt Forte'],NA,week_5,Chicago Bears,2015
+['Bruce Gaston'],NA,week_5,Chicago Bears,2015
+['Eddie Goldman'],NA,week_5,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_5,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Hamstring,week_5,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_5,Chicago Bears,2015
+['Kyle Long'],Questionable: Back,week_5,Chicago Bears,2015
+['Sherrod Martin'],NA,week_5,Chicago Bears,2015
+['Shea McClellin'],Questionable: Elbow,week_5,Chicago Bears,2015
+['Sherrick McManis'],Questionable: Hamstring,week_5,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Shoulder,week_5,Chicago Bears,2015
+['Cameron Meredith'],NA,week_5,Chicago Bears,2015
+['Zach Miller'],NA,week_5,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_5,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_5,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_5,Chicago Bears,2015
+"[""Pat O'Donnell""]",Probable: rightKnee,week_5,Chicago Bears,2015
+['Patrick Omameh'],Questionable: Ankle,week_5,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_5,Chicago Bears,2015
+['Tracy Porter'],NA,week_5,Chicago Bears,2015
+['Jay Ratliff'],Questionable: Ankle,week_5,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_5,Chicago Bears,2015
+['Jacquizz Rodgers'],NA,week_5,Chicago Bears,2015
+['Antrel Rolle'],Doubtful: Ankle,week_5,Chicago Bears,2015
+['Eddie Royal'],Questionable: Ankle,week_5,Chicago Bears,2015
+['Matt Slauson'],NA,week_5,Chicago Bears,2015
+['Will Sutton'],Questionable: Elbow,week_5,Chicago Bears,2015
+['Mitch Unrein'],NA,week_5,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_5,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_5,Chicago Bears,2015
+['Marquess Wilson'],NA,week_5,Chicago Bears,2015
+['Willie Young'],NA,week_5,Chicago Bears,2015
+['Sam Acho'],NA,week_6,Chicago Bears,2015
+['Adrian Amos'],NA,week_6,Chicago Bears,2015
+['Alan Ball'],NA,week_6,Chicago Bears,2015
+['Josh Bellamy'],Questionable: Groin,week_6,Chicago Bears,2015
+['Martellus Bennett'],Questionable: Quadricep,week_6,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_6,Chicago Bears,2015
+['Jermon Bushrod'],Questionable: Shoulder,week_6,Chicago Bears,2015
+['Bryce Callahan'],NA,week_6,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_6,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_6,Chicago Bears,2015
+['Jay Cutler'],NA,week_6,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_6,Chicago Bears,2015
+['Ego Ferguson'],Doubtful: Knee,week_6,Chicago Bears,2015
+['Matt Forte'],NA,week_6,Chicago Bears,2015
+['Bruce Gaston'],NA,week_6,Chicago Bears,2015
+['Eddie Goldman'],NA,week_6,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_6,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Hamstring,week_6,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_6,Chicago Bears,2015
+['Kyle Long'],NA,week_6,Chicago Bears,2015
+['Sherrod Martin'],NA,week_6,Chicago Bears,2015
+['Shea McClellin'],Doubtful: Knee,week_6,Chicago Bears,2015
+['Sherrick McManis'],NA,week_6,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Shoulder,week_6,Chicago Bears,2015
+['Cameron Meredith'],NA,week_6,Chicago Bears,2015
+['Zach Miller'],NA,week_6,Chicago Bears,2015
+['Terrance Mitchell'],Doubtful: Hamstring,week_6,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_6,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_6,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_6,Chicago Bears,2015
+['Patrick Omameh'],Questionable: Ankle,week_6,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_6,Chicago Bears,2015
+['Tracy Porter'],NA,week_6,Chicago Bears,2015
+['Jay Ratliff'],Questionable: Ankle,week_6,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_6,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_6,Chicago Bears,2015
+['Antrel Rolle'],Doubtful: Ankle,week_6,Chicago Bears,2015
+['Eddie Royal'],Questionable: Ankle,week_6,Chicago Bears,2015
+['Matt Slauson'],NA,week_6,Chicago Bears,2015
+['Will Sutton'],Questionable: Elbow,week_6,Chicago Bears,2015
+['Mitch Unrein'],NA,week_6,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_6,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_6,Chicago Bears,2015
+['Marquess Wilson'],NA,week_6,Chicago Bears,2015
+['Willie Young'],NA,week_6,Chicago Bears,2015
+['Sam Acho'],NA,week_8,Chicago Bears,2015
+['Adrian Amos'],NA,week_8,Chicago Bears,2015
+['Alan Ball'],NA,week_8,Chicago Bears,2015
+['Josh Bellamy'],NA,week_8,Chicago Bears,2015
+['Martellus Bennett'],NA,week_8,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_8,Chicago Bears,2015
+['Jermon Bushrod'],Questionable: Shoulder,week_8,Chicago Bears,2015
+['Bryce Callahan'],NA,week_8,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_8,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_8,Chicago Bears,2015
+['Jay Cutler'],NA,week_8,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_8,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_8,Chicago Bears,2015
+['Matt Forte'],NA,week_8,Chicago Bears,2015
+['Bruce Gaston'],Questionable: Illness,week_8,Chicago Bears,2015
+['Eddie Goldman'],NA,week_8,Chicago Bears,2015
+['Hroniss Grasu'],Questionable: Neck,week_8,Chicago Bears,2015
+['Alshon Jeffery'],NA,week_8,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_8,Chicago Bears,2015
+['Kyle Long'],NA,week_8,Chicago Bears,2015
+['Sherrod Martin'],NA,week_8,Chicago Bears,2015
+['Shea McClellin'],Doubtful: Knee,week_8,Chicago Bears,2015
+['Sherrick McManis'],NA,week_8,Chicago Bears,2015
+['Pernell McPhee'],Probable: NotInjuryRelated,week_8,Chicago Bears,2015
+['Cameron Meredith'],NA,week_8,Chicago Bears,2015
+['Zach Miller'],NA,week_8,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_8,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_8,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_8,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_8,Chicago Bears,2015
+['Patrick Omameh'],Probable: Ankle,week_8,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_8,Chicago Bears,2015
+['Tracy Porter'],NA,week_8,Chicago Bears,2015
+['Jay Ratliff'],NA,week_8,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_8,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_8,Chicago Bears,2015
+['Antrel Rolle'],Questionable: Ankle,week_8,Chicago Bears,2015
+['Eddie Royal'],NA,week_8,Chicago Bears,2015
+['Matt Slauson'],Probable: Knee,week_8,Chicago Bears,2015
+['Will Sutton'],NA,week_8,Chicago Bears,2015
+['Mitch Unrein'],NA,week_8,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_8,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_8,Chicago Bears,2015
+['Marquess Wilson'],NA,week_8,Chicago Bears,2015
+['Willie Young'],NA,week_8,Chicago Bears,2015
+['Sam Acho'],NA,week_9,Chicago Bears,2015
+['Adrian Amos'],NA,week_9,Chicago Bears,2015
+['Alan Ball'],NA,week_9,Chicago Bears,2015
+['Josh Bellamy'],NA,week_9,Chicago Bears,2015
+['Martellus Bennett'],NA,week_9,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_9,Chicago Bears,2015
+['Jermon Bushrod'],Questionable: Shoulder,week_9,Chicago Bears,2015
+['Bryce Callahan'],Questionable: Concussion,week_9,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_9,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_9,Chicago Bears,2015
+['Jay Cutler'],NA,week_9,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_9,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_9,Chicago Bears,2015
+['Matt Forte'],Out: Knee,week_9,Chicago Bears,2015
+['Bruce Gaston'],NA,week_9,Chicago Bears,2015
+['Eddie Goldman'],NA,week_9,Chicago Bears,2015
+['Hroniss Grasu'],Doubtful: Neck,week_9,Chicago Bears,2015
+['Alshon Jeffery'],NA,week_9,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_9,Chicago Bears,2015
+['Kyle Long'],NA,week_9,Chicago Bears,2015
+['Sherrod Martin'],NA,week_9,Chicago Bears,2015
+['Shea McClellin'],Questionable: Knee,week_9,Chicago Bears,2015
+['Sherrick McManis'],NA,week_9,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_9,Chicago Bears,2015
+['Cameron Meredith'],Probable: Ankle,week_9,Chicago Bears,2015
+['Zach Miller'],Questionable: Shoulder,week_9,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_9,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_9,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_9,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_9,Chicago Bears,2015
+['Patrick Omameh'],NA,week_9,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_9,Chicago Bears,2015
+['Tracy Porter'],NA,week_9,Chicago Bears,2015
+['Jay Ratliff'],NA,week_9,Chicago Bears,2015
+['LaRoy Reynolds'],Probable: Knee,week_9,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_9,Chicago Bears,2015
+['Antrel Rolle'],NA,week_9,Chicago Bears,2015
+['Eddie Royal'],Out: Knee,week_9,Chicago Bears,2015
+['Matt Slauson'],NA,week_9,Chicago Bears,2015
+['Will Sutton'],NA,week_9,Chicago Bears,2015
+['Mitch Unrein'],NA,week_9,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_9,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_9,Chicago Bears,2015
+['Marquess Wilson'],NA,week_9,Chicago Bears,2015
+['Willie Young'],NA,week_9,Chicago Bears,2015
+['Sam Acho'],NA,week_10,Chicago Bears,2015
+['Adrian Amos'],NA,week_10,Chicago Bears,2015
+['Alan Ball'],NA,week_10,Chicago Bears,2015
+['Josh Bellamy'],NA,week_10,Chicago Bears,2015
+['Martellus Bennett'],NA,week_10,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_10,Chicago Bears,2015
+['Jermon Bushrod'],Questionable: Shoulder,week_10,Chicago Bears,2015
+['Bryce Callahan'],NA,week_10,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_10,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_10,Chicago Bears,2015
+['Jay Cutler'],NA,week_10,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_10,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_10,Chicago Bears,2015
+['Matt Forte'],Questionable: Knee,week_10,Chicago Bears,2015
+['Bruce Gaston'],NA,week_10,Chicago Bears,2015
+['Eddie Goldman'],NA,week_10,Chicago Bears,2015
+['Hroniss Grasu'],Questionable: Neck,week_10,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Groin,week_10,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_10,Chicago Bears,2015
+['Kyle Long'],NA,week_10,Chicago Bears,2015
+['Sherrod Martin'],NA,week_10,Chicago Bears,2015
+['Shea McClellin'],Questionable: Knee,week_10,Chicago Bears,2015
+['Sherrick McManis'],NA,week_10,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_10,Chicago Bears,2015
+['Cameron Meredith'],NA,week_10,Chicago Bears,2015
+['Zach Miller'],NA,week_10,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_10,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_10,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_10,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_10,Chicago Bears,2015
+['Patrick Omameh'],NA,week_10,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_10,Chicago Bears,2015
+['Tracy Porter'],Questionable: Hip,week_10,Chicago Bears,2015
+['Jay Ratliff'],NA,week_10,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_10,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_10,Chicago Bears,2015
+['Antrel Rolle'],Questionable: Ankle,week_10,Chicago Bears,2015
+['Eddie Royal'],Out: Knee,week_10,Chicago Bears,2015
+['Matt Slauson'],NA,week_10,Chicago Bears,2015
+['Will Sutton'],NA,week_10,Chicago Bears,2015
+['Mitch Unrein'],Probable: Illness,week_10,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_10,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_10,Chicago Bears,2015
+['Marquess Wilson'],NA,week_10,Chicago Bears,2015
+['Willie Young'],NA,week_10,Chicago Bears,2015
+['Sam Acho'],NA,week_11,Chicago Bears,2015
+['Adrian Amos'],NA,week_11,Chicago Bears,2015
+['Alan Ball'],NA,week_11,Chicago Bears,2015
+['Josh Bellamy'],NA,week_11,Chicago Bears,2015
+['Martellus Bennett'],NA,week_11,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_11,Chicago Bears,2015
+['Jermon Bushrod'],Probable: Shoulder,week_11,Chicago Bears,2015
+['Bryce Callahan'],NA,week_11,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_11,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_11,Chicago Bears,2015
+['Jay Cutler'],NA,week_11,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_11,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_11,Chicago Bears,2015
+['Matt Forte'],Questionable: Knee,week_11,Chicago Bears,2015
+['Bruce Gaston'],NA,week_11,Chicago Bears,2015
+['Eddie Goldman'],NA,week_11,Chicago Bears,2015
+['Hroniss Grasu'],Probable: Neck,week_11,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Groin,week_11,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_11,Chicago Bears,2015
+['Kyle Long'],NA,week_11,Chicago Bears,2015
+['Sherrod Martin'],NA,week_11,Chicago Bears,2015
+['Shea McClellin'],Questionable: Knee,week_11,Chicago Bears,2015
+['Sherrick McManis'],NA,week_11,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_11,Chicago Bears,2015
+['Cameron Meredith'],NA,week_11,Chicago Bears,2015
+['Zach Miller'],NA,week_11,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_11,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_11,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_11,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_11,Chicago Bears,2015
+['Patrick Omameh'],NA,week_11,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_11,Chicago Bears,2015
+['Tracy Porter'],NA,week_11,Chicago Bears,2015
+['Jay Ratliff'],NA,week_11,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_11,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_11,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_11,Chicago Bears,2015
+['Eddie Royal'],Out: Knee,week_11,Chicago Bears,2015
+['Matt Slauson'],NA,week_11,Chicago Bears,2015
+['Will Sutton'],NA,week_11,Chicago Bears,2015
+['Mitch Unrein'],NA,week_11,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_11,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_11,Chicago Bears,2015
+['Marquess Wilson'],NA,week_11,Chicago Bears,2015
+['Willie Young'],NA,week_11,Chicago Bears,2015
+['Sam Acho'],NA,week_12,Chicago Bears,2015
+['Adrian Amos'],NA,week_12,Chicago Bears,2015
+['Alan Ball'],NA,week_12,Chicago Bears,2015
+['Josh Bellamy'],NA,week_12,Chicago Bears,2015
+['Martellus Bennett'],Out: Ribs,week_12,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_12,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_12,Chicago Bears,2015
+['Bryce Callahan'],NA,week_12,Chicago Bears,2015
+"[""Ka'Deem Carey""]",Out: Concussion,week_12,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_12,Chicago Bears,2015
+['Jay Cutler'],NA,week_12,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_12,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_12,Chicago Bears,2015
+['Matt Forte'],Questionable: Knee,week_12,Chicago Bears,2015
+['Bruce Gaston'],NA,week_12,Chicago Bears,2015
+['Eddie Goldman'],NA,week_12,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_12,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Groin,week_12,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_12,Chicago Bears,2015
+['Kyle Long'],NA,week_12,Chicago Bears,2015
+['Sherrod Martin'],Questionable: Neck,week_12,Chicago Bears,2015
+['Shea McClellin'],NA,week_12,Chicago Bears,2015
+['Sherrick McManis'],NA,week_12,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_12,Chicago Bears,2015
+['Cameron Meredith'],NA,week_12,Chicago Bears,2015
+['Zach Miller'],NA,week_12,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_12,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_12,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_12,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_12,Chicago Bears,2015
+['Patrick Omameh'],NA,week_12,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_12,Chicago Bears,2015
+['Tracy Porter'],NA,week_12,Chicago Bears,2015
+['Jay Ratliff'],NA,week_12,Chicago Bears,2015
+['LaRoy Reynolds'],Questionable: Knee,week_12,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_12,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_12,Chicago Bears,2015
+['Eddie Royal'],Out: Knee,week_12,Chicago Bears,2015
+['Matt Slauson'],NA,week_12,Chicago Bears,2015
+['Will Sutton'],NA,week_12,Chicago Bears,2015
+['Mitch Unrein'],NA,week_12,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_12,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_12,Chicago Bears,2015
+['Marquess Wilson'],NA,week_12,Chicago Bears,2015
+['Willie Young'],NA,week_12,Chicago Bears,2015
+['Sam Acho'],NA,week_13,Chicago Bears,2015
+['Adrian Amos'],NA,week_13,Chicago Bears,2015
+['Alan Ball'],NA,week_13,Chicago Bears,2015
+['Josh Bellamy'],NA,week_13,Chicago Bears,2015
+['Martellus Bennett'],Probable: Ribs,week_13,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_13,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_13,Chicago Bears,2015
+['Bryce Callahan'],NA,week_13,Chicago Bears,2015
+"[""Ka'Deem Carey""]",Probable: Concussion,week_13,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_13,Chicago Bears,2015
+['Jay Cutler'],Probable: Illness,week_13,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_13,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_13,Chicago Bears,2015
+['Matt Forte'],NA,week_13,Chicago Bears,2015
+['Bruce Gaston'],Questionable: Illness,week_13,Chicago Bears,2015
+['Eddie Goldman'],NA,week_13,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_13,Chicago Bears,2015
+['Alshon Jeffery'],NA,week_13,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_13,Chicago Bears,2015
+['Kyle Long'],Probable: Neck,week_13,Chicago Bears,2015
+['Sherrod Martin'],NA,week_13,Chicago Bears,2015
+['Shea McClellin'],NA,week_13,Chicago Bears,2015
+['Sherrick McManis'],NA,week_13,Chicago Bears,2015
+['Pernell McPhee'],Probable: Knee,week_13,Chicago Bears,2015
+['Cameron Meredith'],NA,week_13,Chicago Bears,2015
+['Zach Miller'],Questionable: Ribs,week_13,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_13,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_13,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_13,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_13,Chicago Bears,2015
+['Patrick Omameh'],NA,week_13,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_13,Chicago Bears,2015
+['Tracy Porter'],NA,week_13,Chicago Bears,2015
+['Jay Ratliff'],NA,week_13,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_13,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_13,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_13,Chicago Bears,2015
+['Eddie Royal'],Questionable: Knee,week_13,Chicago Bears,2015
+['Matt Slauson'],NA,week_13,Chicago Bears,2015
+['Will Sutton'],NA,week_13,Chicago Bears,2015
+['Mitch Unrein'],NA,week_13,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_13,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_13,Chicago Bears,2015
+['Marquess Wilson'],Injured Reserve: Foot,week_13,Chicago Bears,2015
+['Willie Young'],NA,week_13,Chicago Bears,2015
+['Sam Acho'],Questionable: Shoulder,week_14,Chicago Bears,2015
+['Adrian Amos'],NA,week_14,Chicago Bears,2015
+['Alan Ball'],NA,week_14,Chicago Bears,2015
+['Josh Bellamy'],NA,week_14,Chicago Bears,2015
+['Martellus Bennett'],Injured Reserve: Ribs,week_14,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_14,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_14,Chicago Bears,2015
+['Bryce Callahan'],Questionable: Quadricep,week_14,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_14,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_14,Chicago Bears,2015
+['Jay Cutler'],NA,week_14,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_14,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_14,Chicago Bears,2015
+['Matt Forte'],NA,week_14,Chicago Bears,2015
+['Bruce Gaston'],NA,week_14,Chicago Bears,2015
+['Eddie Goldman'],NA,week_14,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_14,Chicago Bears,2015
+['Alshon Jeffery'],NA,week_14,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_14,Chicago Bears,2015
+['Kyle Long'],NA,week_14,Chicago Bears,2015
+['Sherrod Martin'],NA,week_14,Chicago Bears,2015
+['Shea McClellin'],Probable: Ankle,week_14,Chicago Bears,2015
+['Sherrick McManis'],NA,week_14,Chicago Bears,2015
+['Pernell McPhee'],Doubtful: Knee,week_14,Chicago Bears,2015
+['Cameron Meredith'],NA,week_14,Chicago Bears,2015
+['Zach Miller'],Questionable: Ribs,week_14,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_14,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_14,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_14,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_14,Chicago Bears,2015
+['Patrick Omameh'],NA,week_14,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_14,Chicago Bears,2015
+['Tracy Porter'],Questionable: Ankle,week_14,Chicago Bears,2015
+['Jay Ratliff'],NA,week_14,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_14,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_14,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_14,Chicago Bears,2015
+['Eddie Royal'],Questionable: Knee,week_14,Chicago Bears,2015
+['Matt Slauson'],NA,week_14,Chicago Bears,2015
+['Will Sutton'],NA,week_14,Chicago Bears,2015
+['Mitch Unrein'],NA,week_14,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_14,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_14,Chicago Bears,2015
+['Marquess Wilson'],Out: Foot,week_14,Chicago Bears,2015
+['Willie Young'],NA,week_14,Chicago Bears,2015
+['Sam Acho'],NA,week_15,Chicago Bears,2015
+['Adrian Amos'],NA,week_15,Chicago Bears,2015
+['Alan Ball'],NA,week_15,Chicago Bears,2015
+['Josh Bellamy'],NA,week_15,Chicago Bears,2015
+['Martellus Bennett'],Injured Reserve: Ribs,week_15,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_15,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_15,Chicago Bears,2015
+['Bryce Callahan'],Doubtful: Quadricep,week_15,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_15,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_15,Chicago Bears,2015
+['Jay Cutler'],NA,week_15,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_15,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_15,Chicago Bears,2015
+['Matt Forte'],NA,week_15,Chicago Bears,2015
+['Bruce Gaston'],NA,week_15,Chicago Bears,2015
+['Eddie Goldman'],NA,week_15,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_15,Chicago Bears,2015
+['Alshon Jeffery'],Questionable: Calf,week_15,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_15,Chicago Bears,2015
+['Kyle Long'],NA,week_15,Chicago Bears,2015
+['Sherrod Martin'],NA,week_15,Chicago Bears,2015
+['Shea McClellin'],NA,week_15,Chicago Bears,2015
+['Sherrick McManis'],Questionable: Concussion,week_15,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_15,Chicago Bears,2015
+['Cameron Meredith'],NA,week_15,Chicago Bears,2015
+['Zach Miller'],Questionable: Ribs,week_15,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_15,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_15,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_15,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_15,Chicago Bears,2015
+['Patrick Omameh'],NA,week_15,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_15,Chicago Bears,2015
+['Tracy Porter'],Questionable: Ankle,week_15,Chicago Bears,2015
+['Jay Ratliff'],NA,week_15,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_15,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_15,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_15,Chicago Bears,2015
+['Eddie Royal'],NA,week_15,Chicago Bears,2015
+['Matt Slauson'],NA,week_15,Chicago Bears,2015
+['Will Sutton'],Questionable: Knee,week_15,Chicago Bears,2015
+['Mitch Unrein'],NA,week_15,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_15,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_15,Chicago Bears,2015
+['Marquess Wilson'],Injured Reserve: Foot,week_15,Chicago Bears,2015
+['Willie Young'],NA,week_15,Chicago Bears,2015
+['Sam Acho'],NA,week_16,Chicago Bears,2015
+['Adrian Amos'],Questionable: Shoulder,week_16,Chicago Bears,2015
+['Alan Ball'],NA,week_16,Chicago Bears,2015
+['Josh Bellamy'],NA,week_16,Chicago Bears,2015
+['Martellus Bennett'],Injured Reserve: Ribs,week_16,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_16,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_16,Chicago Bears,2015
+['Bryce Callahan'],Questionable: Quadricep,week_16,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_16,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_16,Chicago Bears,2015
+['Jay Cutler'],NA,week_16,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_16,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_16,Chicago Bears,2015
+['Matt Forte'],NA,week_16,Chicago Bears,2015
+['Bruce Gaston'],NA,week_16,Chicago Bears,2015
+['Eddie Goldman'],NA,week_16,Chicago Bears,2015
+['Hroniss Grasu'],NA,week_16,Chicago Bears,2015
+['Alshon Jeffery'],Injured Reserve: Hamstring,week_16,Chicago Bears,2015
+['Jarvis Jenkins'],NA,week_16,Chicago Bears,2015
+['Kyle Long'],NA,week_16,Chicago Bears,2015
+['Sherrod Martin'],NA,week_16,Chicago Bears,2015
+['Shea McClellin'],Doubtful: Concussion,week_16,Chicago Bears,2015
+['Sherrick McManis'],NA,week_16,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_16,Chicago Bears,2015
+['Cameron Meredith'],NA,week_16,Chicago Bears,2015
+['Zach Miller'],NA,week_16,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_16,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_16,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_16,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_16,Chicago Bears,2015
+['Patrick Omameh'],NA,week_16,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_16,Chicago Bears,2015
+['Tracy Porter'],Questionable: Ankle,week_16,Chicago Bears,2015
+['Jay Ratliff'],NA,week_16,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_16,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_16,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_16,Chicago Bears,2015
+['Eddie Royal'],Questionable: Knee,week_16,Chicago Bears,2015
+['Matt Slauson'],NA,week_16,Chicago Bears,2015
+['Will Sutton'],NA,week_16,Chicago Bears,2015
+['Mitch Unrein'],NA,week_16,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_16,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_16,Chicago Bears,2015
+['Marquess Wilson'],Injured Reserve: Foot,week_16,Chicago Bears,2015
+['Willie Young'],NA,week_16,Chicago Bears,2015
+['Sam Acho'],NA,week_17,Chicago Bears,2015
+['Adrian Amos'],Questionable: Shoulder,week_17,Chicago Bears,2015
+['Alan Ball'],NA,week_17,Chicago Bears,2015
+['Josh Bellamy'],NA,week_17,Chicago Bears,2015
+['Martellus Bennett'],Injured Reserve: Ribs,week_17,Chicago Bears,2015
+['Jonathan Bostic'],NA,week_17,Chicago Bears,2015
+['Jermon Bushrod'],NA,week_17,Chicago Bears,2015
+['Bryce Callahan'],Questionable: Quadricep,week_17,Chicago Bears,2015
+"[""Ka'Deem Carey""]",NA,week_17,Chicago Bears,2015
+['Jimmy Clausen'],NA,week_17,Chicago Bears,2015
+['Jay Cutler'],NA,week_17,Chicago Bears,2015
+['Tayo Fabuluje'],NA,week_17,Chicago Bears,2015
+['Ego Ferguson'],Injured Reserve: Knee,week_17,Chicago Bears,2015
+['Matt Forte'],Questionable: Back,week_17,Chicago Bears,2015
+['Bruce Gaston'],NA,week_17,Chicago Bears,2015
+['Eddie Goldman'],Injured Reserve: Ankle,week_17,Chicago Bears,2015
+['Hroniss Grasu'],Doubtful: Knee,week_17,Chicago Bears,2015
+['Alshon Jeffery'],Injured Reserve: Hamstring,week_17,Chicago Bears,2015
+['Jarvis Jenkins'],Questionable: Ankle,week_17,Chicago Bears,2015
+['Kyle Long'],NA,week_17,Chicago Bears,2015
+['Sherrod Martin'],NA,week_17,Chicago Bears,2015
+['Shea McClellin'],Questionable: Concussion,week_17,Chicago Bears,2015
+['Sherrick McManis'],NA,week_17,Chicago Bears,2015
+['Pernell McPhee'],Questionable: Knee,week_17,Chicago Bears,2015
+['Cameron Meredith'],NA,week_17,Chicago Bears,2015
+['Zach Miller'],Questionable: Toe,week_17,Chicago Bears,2015
+['Terrance Mitchell'],NA,week_17,Chicago Bears,2015
+['Will Montgomery'],Injured Reserve: Leg,week_17,Chicago Bears,2015
+['Ryan Mundy'],Injured Reserve: Hip,week_17,Chicago Bears,2015
+"[""Pat O'Donnell""]",NA,week_17,Chicago Bears,2015
+['Patrick Omameh'],NA,week_17,Chicago Bears,2015
+['Senorise Perry'],Injured Reserve: Foot,week_17,Chicago Bears,2015
+['Tracy Porter'],Questionable: Ankle,week_17,Chicago Bears,2015
+['Jay Ratliff'],NA,week_17,Chicago Bears,2015
+['LaRoy Reynolds'],NA,week_17,Chicago Bears,2015
+['Jacquizz Rodgers'],Injured Reserve: Arm,week_17,Chicago Bears,2015
+['Antrel Rolle'],Injured Reserve: Groin,week_17,Chicago Bears,2015
+['Eddie Royal'],Doubtful: Illness,week_17,Chicago Bears,2015
+['Matt Slauson'],NA,week_17,Chicago Bears,2015
+['Will Sutton'],NA,week_17,Chicago Bears,2015
+['Mitch Unrein'],Questionable: Knee,week_17,Chicago Bears,2015
+['Cornelius Washington'],Injured Reserve: Undisclosed,week_17,Chicago Bears,2015
+['Kevin White'],Injured Reserve: Shin,week_17,Chicago Bears,2015
+['Marquess Wilson'],Injured Reserve: Foot,week_17,Chicago Bears,2015
+['Willie Young'],Questionable: Rib,week_17,Chicago Bears,2015

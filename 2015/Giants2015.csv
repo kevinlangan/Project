@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Danny Aiken'],NA,week_1,New York Giants,2015
+['Prince Amukamara'],NA,week_1,New York Giants,2015
+['Robert Ayers'],NA,week_1,New York Giants,2015
+['Jon Beason'],Out: Knee,week_1,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_1,New York Giants,2015
+['Odell Beckham'],NA,week_1,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_1,New York Giants,2015
+['Jay Bromley'],NA,week_1,New York Giants,2015
+['Jonathan Casillas'],Probable: Neck,week_1,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_1,New York Giants,2015
+['Jerome Cunningham'],NA,week_1,New York Giants,2015
+['Craig Dahl'],NA,week_1,New York Giants,2015
+['Orleans Darkwa'],NA,week_1,New York Giants,2015
+['Zak DeOssie'],NA,week_1,New York Giants,2015
+['Larry Donnell'],NA,week_1,New York Giants,2015
+['Daniel Fells'],NA,week_1,New York Giants,2015
+['Ereck Flowers'],NA,week_1,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_1,New York Giants,2015
+['Johnathan Hankins'],NA,week_1,New York Giants,2015
+['Dwayne Harris'],NA,week_1,New York Giants,2015
+['Mark Herzlich'],NA,week_1,New York Giants,2015
+['Jayron Hosley'],NA,week_1,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_1,New York Giants,2015
+['Cullen Jenkins'],Probable: Hamstring,week_1,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_1,New York Giants,2015
+['Devon Kennard'],NA,week_1,New York Giants,2015
+['Markus Kuhn'],NA,week_1,New York Giants,2015
+['Trumaine McBride'],NA,week_1,New York Giants,2015
+['Leon McFadden'],NA,week_1,New York Giants,2015
+['Brandon McGee'],NA,week_1,New York Giants,2015
+['Brandon Meriweather'],NA,week_1,New York Giants,2015
+['Damontre Moore'],NA,week_1,New York Giants,2015
+['James Morris'],NA,week_1,New York Giants,2015
+['Marshall Newhouse'],NA,week_1,New York Giants,2015
+['Owamagbe Odighizuwa'],Probable: Foot,week_1,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_1,New York Giants,2015
+['Justin Pugh'],NA,week_1,New York Giants,2015
+['Rueben Randle'],NA,week_1,New York Giants,2015
+['Weston Richburg'],NA,week_1,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_1,New York Giants,2015
+['Geoff Schwartz'],NA,week_1,New York Giants,2015
+['George Selvie'],NA,week_1,New York Giants,2015
+['Cooper Taylor'],NA,week_1,New York Giants,2015
+['J.T. Thomas'],NA,week_1,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_1,New York Giants,2015
+['Trevin Wade'],NA,week_1,New York Giants,2015
+['Nikita Whitlock'],NA,week_1,New York Giants,2015
+['Danny Aiken'],NA,week_2,New York Giants,2015
+['Prince Amukamara'],NA,week_2,New York Giants,2015
+['Robert Ayers'],NA,week_2,New York Giants,2015
+['Jon Beason'],Doubtful: Knee,week_2,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_2,New York Giants,2015
+['Odell Beckham'],NA,week_2,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_2,New York Giants,2015
+['Jay Bromley'],NA,week_2,New York Giants,2015
+['Jonathan Casillas'],NA,week_2,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_2,New York Giants,2015
+['Jerome Cunningham'],NA,week_2,New York Giants,2015
+['Craig Dahl'],NA,week_2,New York Giants,2015
+['Orleans Darkwa'],NA,week_2,New York Giants,2015
+['Zak DeOssie'],NA,week_2,New York Giants,2015
+['Larry Donnell'],NA,week_2,New York Giants,2015
+['Daniel Fells'],Out: Foot,week_2,New York Giants,2015
+['Ereck Flowers'],Probable: Ankle,week_2,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_2,New York Giants,2015
+['Johnathan Hankins'],NA,week_2,New York Giants,2015
+['Dwayne Harris'],NA,week_2,New York Giants,2015
+['Mark Herzlich'],NA,week_2,New York Giants,2015
+['Jayron Hosley'],NA,week_2,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_2,New York Giants,2015
+['Cullen Jenkins'],NA,week_2,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_2,New York Giants,2015
+['Devon Kennard'],NA,week_2,New York Giants,2015
+['Markus Kuhn'],Out: Knee,week_2,New York Giants,2015
+['Trumaine McBride'],NA,week_2,New York Giants,2015
+['Leon McFadden'],NA,week_2,New York Giants,2015
+['Brandon McGee'],NA,week_2,New York Giants,2015
+['Brandon Meriweather'],NA,week_2,New York Giants,2015
+['Damontre Moore'],NA,week_2,New York Giants,2015
+['James Morris'],NA,week_2,New York Giants,2015
+['Marshall Newhouse'],NA,week_2,New York Giants,2015
+['Owamagbe Odighizuwa'],Out: Foot,week_2,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_2,New York Giants,2015
+['Justin Pugh'],NA,week_2,New York Giants,2015
+['Rueben Randle'],NA,week_2,New York Giants,2015
+['Weston Richburg'],NA,week_2,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_2,New York Giants,2015
+['Geoff Schwartz'],NA,week_2,New York Giants,2015
+['George Selvie'],NA,week_2,New York Giants,2015
+['Cooper Taylor'],NA,week_2,New York Giants,2015
+['J.T. Thomas'],NA,week_2,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_2,New York Giants,2015
+['Trevin Wade'],NA,week_2,New York Giants,2015
+['Nikita Whitlock'],NA,week_2,New York Giants,2015
+['Danny Aiken'],NA,week_3,New York Giants,2015
+['Prince Amukamara'],NA,week_3,New York Giants,2015
+['Robert Ayers'],Questionable: Hamstring,week_3,New York Giants,2015
+['Jon Beason'],Probable: Knee,week_3,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_3,New York Giants,2015
+['Odell Beckham'],NA,week_3,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_3,New York Giants,2015
+['Jay Bromley'],Probable: Knee,week_3,New York Giants,2015
+['Jonathan Casillas'],NA,week_3,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_3,New York Giants,2015
+['Jerome Cunningham'],Out: Knee,week_3,New York Giants,2015
+['Craig Dahl'],NA,week_3,New York Giants,2015
+['Orleans Darkwa'],NA,week_3,New York Giants,2015
+['Zak DeOssie'],NA,week_3,New York Giants,2015
+['Larry Donnell'],NA,week_3,New York Giants,2015
+['Daniel Fells'],Probable: Foot,week_3,New York Giants,2015
+['Ereck Flowers'],Doubtful: Ankle,week_3,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_3,New York Giants,2015
+['Johnathan Hankins'],NA,week_3,New York Giants,2015
+['Dwayne Harris'],NA,week_3,New York Giants,2015
+['Mark Herzlich'],NA,week_3,New York Giants,2015
+['Jayron Hosley'],NA,week_3,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_3,New York Giants,2015
+['Cullen Jenkins'],Probable: Hamstring,week_3,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_3,New York Giants,2015
+['Devon Kennard'],NA,week_3,New York Giants,2015
+['Markus Kuhn'],Out: Knee,week_3,New York Giants,2015
+['Trumaine McBride'],NA,week_3,New York Giants,2015
+['Leon McFadden'],NA,week_3,New York Giants,2015
+['Brandon McGee'],NA,week_3,New York Giants,2015
+['Brandon Meriweather'],NA,week_3,New York Giants,2015
+['Damontre Moore'],NA,week_3,New York Giants,2015
+['James Morris'],NA,week_3,New York Giants,2015
+['Marshall Newhouse'],NA,week_3,New York Giants,2015
+['Owamagbe Odighizuwa'],Out: Foot,week_3,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_3,New York Giants,2015
+['Justin Pugh'],NA,week_3,New York Giants,2015
+['Rueben Randle'],NA,week_3,New York Giants,2015
+['Weston Richburg'],NA,week_3,New York Giants,2015
+['Dominique Rodgers-Cromartie'],Out: Concussion,week_3,New York Giants,2015
+['Geoff Schwartz'],Probable: Illness,week_3,New York Giants,2015
+['George Selvie'],NA,week_3,New York Giants,2015
+['Cooper Taylor'],NA,week_3,New York Giants,2015
+['J.T. Thomas'],NA,week_3,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_3,New York Giants,2015
+['Trevin Wade'],NA,week_3,New York Giants,2015
+['Nikita Whitlock'],NA,week_3,New York Giants,2015
+['Danny Aiken'],NA,week_4,New York Giants,2015
+['Prince Amukamara'],NA,week_4,New York Giants,2015
+['Robert Ayers'],Out: Hamstring,week_4,New York Giants,2015
+['Jon Beason'],NA,week_4,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_4,New York Giants,2015
+['Odell Beckham'],NA,week_4,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_4,New York Giants,2015
+['Jay Bromley'],NA,week_4,New York Giants,2015
+['Jonathan Casillas'],NA,week_4,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_4,New York Giants,2015
+['Jerome Cunningham'],Out: Knee,week_4,New York Giants,2015
+['Craig Dahl'],NA,week_4,New York Giants,2015
+['Orleans Darkwa'],Probable: Knee,week_4,New York Giants,2015
+['Zak DeOssie'],NA,week_4,New York Giants,2015
+['Larry Donnell'],NA,week_4,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_4,New York Giants,2015
+['Ereck Flowers'],Questionable: Ankle,week_4,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_4,New York Giants,2015
+['Johnathan Hankins'],NA,week_4,New York Giants,2015
+['Dwayne Harris'],NA,week_4,New York Giants,2015
+['Mark Herzlich'],NA,week_4,New York Giants,2015
+['Jayron Hosley'],NA,week_4,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_4,New York Giants,2015
+['Cullen Jenkins'],NA,week_4,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_4,New York Giants,2015
+['Devon Kennard'],NA,week_4,New York Giants,2015
+['Markus Kuhn'],Out: Knee,week_4,New York Giants,2015
+['Trumaine McBride'],NA,week_4,New York Giants,2015
+['Leon McFadden'],NA,week_4,New York Giants,2015
+['Brandon McGee'],NA,week_4,New York Giants,2015
+['Brandon Meriweather'],NA,week_4,New York Giants,2015
+['Damontre Moore'],NA,week_4,New York Giants,2015
+['James Morris'],NA,week_4,New York Giants,2015
+['Marshall Newhouse'],NA,week_4,New York Giants,2015
+['Owamagbe Odighizuwa'],Probable: Foot,week_4,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_4,New York Giants,2015
+['Justin Pugh'],NA,week_4,New York Giants,2015
+['Rueben Randle'],NA,week_4,New York Giants,2015
+['Weston Richburg'],NA,week_4,New York Giants,2015
+['Dominique Rodgers-Cromartie'],Probable: Concussion,week_4,New York Giants,2015
+['Geoff Schwartz'],NA,week_4,New York Giants,2015
+['George Selvie'],NA,week_4,New York Giants,2015
+['Cooper Taylor'],NA,week_4,New York Giants,2015
+['J.T. Thomas'],NA,week_4,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_4,New York Giants,2015
+['Trevin Wade'],NA,week_4,New York Giants,2015
+['Nikita Whitlock'],NA,week_4,New York Giants,2015
+['Danny Aiken'],NA,week_5,New York Giants,2015
+['Prince Amukamara'],NA,week_5,New York Giants,2015
+['Robert Ayers'],Out: Hamstring,week_5,New York Giants,2015
+['Jon Beason'],NA,week_5,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_5,New York Giants,2015
+['Odell Beckham'],NA,week_5,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_5,New York Giants,2015
+['Jay Bromley'],NA,week_5,New York Giants,2015
+['Jonathan Casillas'],Questionable: Calf,week_5,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_5,New York Giants,2015
+['Jerome Cunningham'],Probable: Knee,week_5,New York Giants,2015
+['Craig Dahl'],NA,week_5,New York Giants,2015
+['Orleans Darkwa'],NA,week_5,New York Giants,2015
+['Zak DeOssie'],NA,week_5,New York Giants,2015
+['Larry Donnell'],NA,week_5,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_5,New York Giants,2015
+['Ereck Flowers'],Probable: Ankle,week_5,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_5,New York Giants,2015
+['Johnathan Hankins'],NA,week_5,New York Giants,2015
+['Dwayne Harris'],NA,week_5,New York Giants,2015
+['Mark Herzlich'],NA,week_5,New York Giants,2015
+['Jayron Hosley'],Questionable: Concussion,week_5,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_5,New York Giants,2015
+['Cullen Jenkins'],NA,week_5,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_5,New York Giants,2015
+['Devon Kennard'],Out: Hamstring,week_5,New York Giants,2015
+['Markus Kuhn'],Probable: Knee,week_5,New York Giants,2015
+['Trumaine McBride'],Questionable: Groin,week_5,New York Giants,2015
+['Leon McFadden'],NA,week_5,New York Giants,2015
+['Brandon McGee'],NA,week_5,New York Giants,2015
+['Brandon Meriweather'],NA,week_5,New York Giants,2015
+['Damontre Moore'],NA,week_5,New York Giants,2015
+['James Morris'],NA,week_5,New York Giants,2015
+['Marshall Newhouse'],NA,week_5,New York Giants,2015
+['Owamagbe Odighizuwa'],NA,week_5,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_5,New York Giants,2015
+['Justin Pugh'],NA,week_5,New York Giants,2015
+['Rueben Randle'],NA,week_5,New York Giants,2015
+['Weston Richburg'],NA,week_5,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_5,New York Giants,2015
+['Geoff Schwartz'],NA,week_5,New York Giants,2015
+['George Selvie'],Out: Calf,week_5,New York Giants,2015
+['Cooper Taylor'],NA,week_5,New York Giants,2015
+['J.T. Thomas'],NA,week_5,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_5,New York Giants,2015
+['Trevin Wade'],NA,week_5,New York Giants,2015
+['Nikita Whitlock'],NA,week_5,New York Giants,2015
+['Danny Aiken'],NA,week_6,New York Giants,2015
+['Prince Amukamara'],Out: Pectoral,week_6,New York Giants,2015
+['Robert Ayers'],Questionable: Hamstring,week_6,New York Giants,2015
+['Jon Beason'],Questionable: Concussion,week_6,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_6,New York Giants,2015
+['Odell Beckham'],Questionable: Hamstring,week_6,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_6,New York Giants,2015
+['Jay Bromley'],NA,week_6,New York Giants,2015
+['Jonathan Casillas'],Questionable: Calf,week_6,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_6,New York Giants,2015
+['Jerome Cunningham'],NA,week_6,New York Giants,2015
+['Craig Dahl'],NA,week_6,New York Giants,2015
+['Orleans Darkwa'],NA,week_6,New York Giants,2015
+['Zak DeOssie'],NA,week_6,New York Giants,2015
+['Larry Donnell'],NA,week_6,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_6,New York Giants,2015
+['Ereck Flowers'],NA,week_6,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_6,New York Giants,2015
+['Johnathan Hankins'],NA,week_6,New York Giants,2015
+['Dwayne Harris'],NA,week_6,New York Giants,2015
+['Mark Herzlich'],NA,week_6,New York Giants,2015
+['Jayron Hosley'],NA,week_6,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_6,New York Giants,2015
+['Cullen Jenkins'],NA,week_6,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_6,New York Giants,2015
+['Devon Kennard'],Out: Hamstring,week_6,New York Giants,2015
+['Markus Kuhn'],NA,week_6,New York Giants,2015
+['Trumaine McBride'],Questionable: Groin,week_6,New York Giants,2015
+['Leon McFadden'],NA,week_6,New York Giants,2015
+['Brandon McGee'],NA,week_6,New York Giants,2015
+['Brandon Meriweather'],NA,week_6,New York Giants,2015
+['Damontre Moore'],NA,week_6,New York Giants,2015
+['James Morris'],NA,week_6,New York Giants,2015
+['Marshall Newhouse'],NA,week_6,New York Giants,2015
+['Owamagbe Odighizuwa'],NA,week_6,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_6,New York Giants,2015
+['Justin Pugh'],Probable: Ankle,week_6,New York Giants,2015
+['Rueben Randle'],Probable: Hamstring,week_6,New York Giants,2015
+['Weston Richburg'],NA,week_6,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_6,New York Giants,2015
+['Geoff Schwartz'],NA,week_6,New York Giants,2015
+['George Selvie'],Probable: Calf,week_6,New York Giants,2015
+['Cooper Taylor'],NA,week_6,New York Giants,2015
+['J.T. Thomas'],NA,week_6,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_6,New York Giants,2015
+['Trevin Wade'],NA,week_6,New York Giants,2015
+['Nikita Whitlock'],NA,week_6,New York Giants,2015
+['Danny Aiken'],NA,week_7,New York Giants,2015
+['Prince Amukamara'],Out: Pectoral,week_7,New York Giants,2015
+['Robert Ayers'],Probable: Hamstring,week_7,New York Giants,2015
+['Jon Beason'],Probable: Knee,week_7,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_7,New York Giants,2015
+['Odell Beckham'],Questionable: Hamstring,week_7,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_7,New York Giants,2015
+['Jay Bromley'],NA,week_7,New York Giants,2015
+['Jonathan Casillas'],Questionable: Neck,week_7,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_7,New York Giants,2015
+['Jerome Cunningham'],NA,week_7,New York Giants,2015
+['Craig Dahl'],NA,week_7,New York Giants,2015
+['Orleans Darkwa'],NA,week_7,New York Giants,2015
+['Zak DeOssie'],NA,week_7,New York Giants,2015
+['Larry Donnell'],NA,week_7,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_7,New York Giants,2015
+['Ereck Flowers'],NA,week_7,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_7,New York Giants,2015
+['Johnathan Hankins'],Probable: Calf,week_7,New York Giants,2015
+['Dwayne Harris'],NA,week_7,New York Giants,2015
+['Mark Herzlich'],NA,week_7,New York Giants,2015
+['Jayron Hosley'],NA,week_7,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_7,New York Giants,2015
+['Cullen Jenkins'],NA,week_7,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_7,New York Giants,2015
+['Devon Kennard'],Probable: Hamstring,week_7,New York Giants,2015
+['Markus Kuhn'],NA,week_7,New York Giants,2015
+['Trumaine McBride'],Questionable: Groin,week_7,New York Giants,2015
+['Leon McFadden'],NA,week_7,New York Giants,2015
+['Brandon McGee'],Questionable: Back,week_7,New York Giants,2015
+['Brandon Meriweather'],NA,week_7,New York Giants,2015
+['Damontre Moore'],NA,week_7,New York Giants,2015
+['James Morris'],NA,week_7,New York Giants,2015
+['Marshall Newhouse'],NA,week_7,New York Giants,2015
+['Owamagbe Odighizuwa'],NA,week_7,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_7,New York Giants,2015
+['Justin Pugh'],NA,week_7,New York Giants,2015
+['Rueben Randle'],Probable: Hamstring,week_7,New York Giants,2015
+['Weston Richburg'],NA,week_7,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_7,New York Giants,2015
+['Geoff Schwartz'],NA,week_7,New York Giants,2015
+['George Selvie'],NA,week_7,New York Giants,2015
+['Cooper Taylor'],NA,week_7,New York Giants,2015
+['J.T. Thomas'],NA,week_7,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_7,New York Giants,2015
+['Trevin Wade'],Probable: Concussion,week_7,New York Giants,2015
+['Nikita Whitlock'],NA,week_7,New York Giants,2015
+['Danny Aiken'],NA,week_8,New York Giants,2015
+['Prince Amukamara'],Out: Pectoral,week_8,New York Giants,2015
+['Robert Ayers'],NA,week_8,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_8,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_8,New York Giants,2015
+['Odell Beckham'],Probable: Hamstring,week_8,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_8,New York Giants,2015
+['Jay Bromley'],NA,week_8,New York Giants,2015
+['Jonathan Casillas'],NA,week_8,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_8,New York Giants,2015
+['Jerome Cunningham'],NA,week_8,New York Giants,2015
+['Craig Dahl'],NA,week_8,New York Giants,2015
+['Orleans Darkwa'],NA,week_8,New York Giants,2015
+['Zak DeOssie'],NA,week_8,New York Giants,2015
+['Larry Donnell'],NA,week_8,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_8,New York Giants,2015
+['Ereck Flowers'],NA,week_8,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_8,New York Giants,2015
+['Johnathan Hankins'],NA,week_8,New York Giants,2015
+['Dwayne Harris'],NA,week_8,New York Giants,2015
+['Mark Herzlich'],NA,week_8,New York Giants,2015
+['Jayron Hosley'],NA,week_8,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_8,New York Giants,2015
+['Cullen Jenkins'],NA,week_8,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_8,New York Giants,2015
+['Devon Kennard'],NA,week_8,New York Giants,2015
+['Markus Kuhn'],NA,week_8,New York Giants,2015
+['Trumaine McBride'],NA,week_8,New York Giants,2015
+['Leon McFadden'],NA,week_8,New York Giants,2015
+['Brandon McGee'],NA,week_8,New York Giants,2015
+['Brandon Meriweather'],NA,week_8,New York Giants,2015
+['Damontre Moore'],NA,week_8,New York Giants,2015
+['James Morris'],NA,week_8,New York Giants,2015
+['Marshall Newhouse'],NA,week_8,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_8,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_8,New York Giants,2015
+['Justin Pugh'],NA,week_8,New York Giants,2015
+['Rueben Randle'],NA,week_8,New York Giants,2015
+['Weston Richburg'],NA,week_8,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_8,New York Giants,2015
+['Geoff Schwartz'],Probable: Ankle,week_8,New York Giants,2015
+['George Selvie'],NA,week_8,New York Giants,2015
+['Cooper Taylor'],NA,week_8,New York Giants,2015
+['J.T. Thomas'],Out: Ankle,week_8,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_8,New York Giants,2015
+['Trevin Wade'],NA,week_8,New York Giants,2015
+['Nikita Whitlock'],NA,week_8,New York Giants,2015
+['Danny Aiken'],NA,week_9,New York Giants,2015
+['Prince Amukamara'],Out: Pectoral,week_9,New York Giants,2015
+['Robert Ayers'],NA,week_9,New York Giants,2015
+['Jon Beason'],Out: Ankle,week_9,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_9,New York Giants,2015
+['Odell Beckham'],NA,week_9,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_9,New York Giants,2015
+['Jay Bromley'],NA,week_9,New York Giants,2015
+['Jonathan Casillas'],NA,week_9,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_9,New York Giants,2015
+['Jerome Cunningham'],NA,week_9,New York Giants,2015
+['Craig Dahl'],Probable: Neck,week_9,New York Giants,2015
+['Orleans Darkwa'],Probable: Back,week_9,New York Giants,2015
+['Zak DeOssie'],NA,week_9,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_9,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_9,New York Giants,2015
+['Ereck Flowers'],NA,week_9,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_9,New York Giants,2015
+['Johnathan Hankins'],NA,week_9,New York Giants,2015
+['Dwayne Harris'],NA,week_9,New York Giants,2015
+['Mark Herzlich'],NA,week_9,New York Giants,2015
+['Jayron Hosley'],NA,week_9,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_9,New York Giants,2015
+['Cullen Jenkins'],NA,week_9,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_9,New York Giants,2015
+['Devon Kennard'],NA,week_9,New York Giants,2015
+['Markus Kuhn'],NA,week_9,New York Giants,2015
+['Trumaine McBride'],NA,week_9,New York Giants,2015
+['Leon McFadden'],Questionable: Groin,week_9,New York Giants,2015
+['Brandon McGee'],NA,week_9,New York Giants,2015
+['Brandon Meriweather'],NA,week_9,New York Giants,2015
+['Damontre Moore'],NA,week_9,New York Giants,2015
+['James Morris'],NA,week_9,New York Giants,2015
+['Marshall Newhouse'],NA,week_9,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_9,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_9,New York Giants,2015
+['Justin Pugh'],NA,week_9,New York Giants,2015
+['Rueben Randle'],Questionable: Hamstring,week_9,New York Giants,2015
+['Weston Richburg'],NA,week_9,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_9,New York Giants,2015
+['Geoff Schwartz'],Probable: Ankle,week_9,New York Giants,2015
+['George Selvie'],NA,week_9,New York Giants,2015
+['Cooper Taylor'],NA,week_9,New York Giants,2015
+['J.T. Thomas'],Out: Ankle,week_9,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_9,New York Giants,2015
+['Trevin Wade'],NA,week_9,New York Giants,2015
+['Nikita Whitlock'],NA,week_9,New York Giants,2015
+['Danny Aiken'],NA,week_10,New York Giants,2015
+['Prince Amukamara'],Out: Pectoral,week_10,New York Giants,2015
+['Robert Ayers'],NA,week_10,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_10,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_10,New York Giants,2015
+['Odell Beckham'],NA,week_10,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_10,New York Giants,2015
+['Jay Bromley'],NA,week_10,New York Giants,2015
+['Jonathan Casillas'],NA,week_10,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_10,New York Giants,2015
+['Jerome Cunningham'],NA,week_10,New York Giants,2015
+['Craig Dahl'],NA,week_10,New York Giants,2015
+['Orleans Darkwa'],NA,week_10,New York Giants,2015
+['Zak DeOssie'],NA,week_10,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_10,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_10,New York Giants,2015
+['Ereck Flowers'],NA,week_10,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_10,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_10,New York Giants,2015
+['Dwayne Harris'],NA,week_10,New York Giants,2015
+['Mark Herzlich'],NA,week_10,New York Giants,2015
+['Jayron Hosley'],NA,week_10,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_10,New York Giants,2015
+['Cullen Jenkins'],NA,week_10,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_10,New York Giants,2015
+['Devon Kennard'],NA,week_10,New York Giants,2015
+['Markus Kuhn'],NA,week_10,New York Giants,2015
+['Trumaine McBride'],NA,week_10,New York Giants,2015
+['Leon McFadden'],Questionable: Groin,week_10,New York Giants,2015
+['Brandon McGee'],NA,week_10,New York Giants,2015
+['Brandon Meriweather'],NA,week_10,New York Giants,2015
+['Damontre Moore'],NA,week_10,New York Giants,2015
+['James Morris'],NA,week_10,New York Giants,2015
+['Marshall Newhouse'],NA,week_10,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_10,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_10,New York Giants,2015
+['Justin Pugh'],Probable: Illness,week_10,New York Giants,2015
+['Rueben Randle'],NA,week_10,New York Giants,2015
+['Weston Richburg'],NA,week_10,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_10,New York Giants,2015
+['Geoff Schwartz'],Probable: Ankle,week_10,New York Giants,2015
+['George Selvie'],NA,week_10,New York Giants,2015
+['Cooper Taylor'],NA,week_10,New York Giants,2015
+['J.T. Thomas'],Out: Ankle,week_10,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_10,New York Giants,2015
+['Trevin Wade'],NA,week_10,New York Giants,2015
+['Nikita Whitlock'],NA,week_10,New York Giants,2015
+['Danny Aiken'],NA,week_12,New York Giants,2015
+['Prince Amukamara'],Probable: Pectoral,week_12,New York Giants,2015
+['Robert Ayers'],NA,week_12,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_12,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_12,New York Giants,2015
+['Odell Beckham'],NA,week_12,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_12,New York Giants,2015
+['Jay Bromley'],NA,week_12,New York Giants,2015
+['Jonathan Casillas'],NA,week_12,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_12,New York Giants,2015
+['Jerome Cunningham'],NA,week_12,New York Giants,2015
+['Craig Dahl'],NA,week_12,New York Giants,2015
+['Orleans Darkwa'],NA,week_12,New York Giants,2015
+['Zak DeOssie'],NA,week_12,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_12,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_12,New York Giants,2015
+['Ereck Flowers'],NA,week_12,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_12,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_12,New York Giants,2015
+['Dwayne Harris'],NA,week_12,New York Giants,2015
+['Mark Herzlich'],NA,week_12,New York Giants,2015
+['Jayron Hosley'],NA,week_12,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_12,New York Giants,2015
+['Cullen Jenkins'],NA,week_12,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_12,New York Giants,2015
+['Devon Kennard'],NA,week_12,New York Giants,2015
+['Markus Kuhn'],NA,week_12,New York Giants,2015
+['Trumaine McBride'],NA,week_12,New York Giants,2015
+['Leon McFadden'],Probable: Groin,week_12,New York Giants,2015
+['Brandon McGee'],NA,week_12,New York Giants,2015
+['Brandon Meriweather'],NA,week_12,New York Giants,2015
+['Damontre Moore'],Probable: Hamstring,week_12,New York Giants,2015
+['James Morris'],NA,week_12,New York Giants,2015
+['Marshall Newhouse'],NA,week_12,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_12,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_12,New York Giants,2015
+['Justin Pugh'],Out: Concussion,week_12,New York Giants,2015
+['Rueben Randle'],NA,week_12,New York Giants,2015
+['Weston Richburg'],Doubtful: Ankle,week_12,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_12,New York Giants,2015
+['Geoff Schwartz'],Probable: Ankle,week_12,New York Giants,2015
+['George Selvie'],NA,week_12,New York Giants,2015
+['Cooper Taylor'],NA,week_12,New York Giants,2015
+['J.T. Thomas'],Questionable: Ankle,week_12,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_12,New York Giants,2015
+['Trevin Wade'],NA,week_12,New York Giants,2015
+['Nikita Whitlock'],NA,week_12,New York Giants,2015
+['Danny Aiken'],NA,week_13,New York Giants,2015
+['Prince Amukamara'],NA,week_13,New York Giants,2015
+['Robert Ayers'],Probable: Toe,week_13,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_13,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_13,New York Giants,2015
+['Odell Beckham'],NA,week_13,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_13,New York Giants,2015
+['Jay Bromley'],NA,week_13,New York Giants,2015
+['Jonathan Casillas'],NA,week_13,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_13,New York Giants,2015
+['Jerome Cunningham'],NA,week_13,New York Giants,2015
+['Craig Dahl'],NA,week_13,New York Giants,2015
+['Orleans Darkwa'],NA,week_13,New York Giants,2015
+['Zak DeOssie'],NA,week_13,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_13,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_13,New York Giants,2015
+['Ereck Flowers'],NA,week_13,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_13,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_13,New York Giants,2015
+['Dwayne Harris'],NA,week_13,New York Giants,2015
+['Mark Herzlich'],NA,week_13,New York Giants,2015
+['Jayron Hosley'],NA,week_13,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_13,New York Giants,2015
+['Cullen Jenkins'],NA,week_13,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_13,New York Giants,2015
+['Devon Kennard'],Out: Hamstring,week_13,New York Giants,2015
+['Markus Kuhn'],NA,week_13,New York Giants,2015
+['Trumaine McBride'],NA,week_13,New York Giants,2015
+['Leon McFadden'],NA,week_13,New York Giants,2015
+['Brandon McGee'],NA,week_13,New York Giants,2015
+['Brandon Meriweather'],Out: Knee,week_13,New York Giants,2015
+['Damontre Moore'],NA,week_13,New York Giants,2015
+['James Morris'],NA,week_13,New York Giants,2015
+['Marshall Newhouse'],Questionable: Back,week_13,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_13,New York Giants,2015
+['Jason Pierre-Paul'],Probable: Hand,week_13,New York Giants,2015
+['Justin Pugh'],Probable: Concussion,week_13,New York Giants,2015
+['Rueben Randle'],NA,week_13,New York Giants,2015
+['Weston Richburg'],Questionable: Ankle,week_13,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_13,New York Giants,2015
+['Geoff Schwartz'],Injured Reserve: Leg,week_13,New York Giants,2015
+['George Selvie'],NA,week_13,New York Giants,2015
+['Cooper Taylor'],NA,week_13,New York Giants,2015
+['J.T. Thomas'],NA,week_13,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_13,New York Giants,2015
+['Trevin Wade'],NA,week_13,New York Giants,2015
+['Nikita Whitlock'],Probable: NotInjuryRelated,week_13,New York Giants,2015
+['Danny Aiken'],NA,week_14,New York Giants,2015
+['Prince Amukamara'],NA,week_14,New York Giants,2015
+['Robert Ayers'],Questionable: Neck,week_14,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_14,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_14,New York Giants,2015
+['Odell Beckham'],NA,week_14,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_14,New York Giants,2015
+['Jay Bromley'],NA,week_14,New York Giants,2015
+['Jonathan Casillas'],NA,week_14,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_14,New York Giants,2015
+['Jerome Cunningham'],NA,week_14,New York Giants,2015
+['Craig Dahl'],NA,week_14,New York Giants,2015
+['Orleans Darkwa'],NA,week_14,New York Giants,2015
+['Zak DeOssie'],Injured Reserve: Wrist,week_14,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_14,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_14,New York Giants,2015
+['Ereck Flowers'],Questionable: Ankle,week_14,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_14,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_14,New York Giants,2015
+['Dwayne Harris'],NA,week_14,New York Giants,2015
+['Mark Herzlich'],NA,week_14,New York Giants,2015
+['Jayron Hosley'],NA,week_14,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_14,New York Giants,2015
+['Cullen Jenkins'],NA,week_14,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_14,New York Giants,2015
+['Devon Kennard'],Out: Foot,week_14,New York Giants,2015
+['Markus Kuhn'],NA,week_14,New York Giants,2015
+['Trumaine McBride'],NA,week_14,New York Giants,2015
+['Leon McFadden'],NA,week_14,New York Giants,2015
+['Brandon McGee'],NA,week_14,New York Giants,2015
+['Brandon Meriweather'],Questionable: Knee,week_14,New York Giants,2015
+['Damontre Moore'],NA,week_14,New York Giants,2015
+['James Morris'],NA,week_14,New York Giants,2015
+['Marshall Newhouse'],Probable: Back,week_14,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_14,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_14,New York Giants,2015
+['Justin Pugh'],NA,week_14,New York Giants,2015
+['Rueben Randle'],NA,week_14,New York Giants,2015
+['Weston Richburg'],NA,week_14,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_14,New York Giants,2015
+['Geoff Schwartz'],Injured Reserve: Leg,week_14,New York Giants,2015
+['George Selvie'],NA,week_14,New York Giants,2015
+['Cooper Taylor'],NA,week_14,New York Giants,2015
+['J.T. Thomas'],NA,week_14,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_14,New York Giants,2015
+['Trevin Wade'],NA,week_14,New York Giants,2015
+['Nikita Whitlock'],NA,week_14,New York Giants,2015
+['Danny Aiken'],NA,week_15,New York Giants,2015
+['Prince Amukamara'],NA,week_15,New York Giants,2015
+['Robert Ayers'],NA,week_15,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_15,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_15,New York Giants,2015
+['Odell Beckham'],NA,week_15,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_15,New York Giants,2015
+['Jay Bromley'],NA,week_15,New York Giants,2015
+['Jonathan Casillas'],NA,week_15,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_15,New York Giants,2015
+['Jerome Cunningham'],NA,week_15,New York Giants,2015
+['Craig Dahl'],NA,week_15,New York Giants,2015
+['Orleans Darkwa'],NA,week_15,New York Giants,2015
+['Zak DeOssie'],Injured Reserve: Wrist,week_15,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_15,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_15,New York Giants,2015
+['Ereck Flowers'],Questionable: Ankle,week_15,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_15,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_15,New York Giants,2015
+['Dwayne Harris'],Questionable: Shoulder,week_15,New York Giants,2015
+['Mark Herzlich'],NA,week_15,New York Giants,2015
+['Jayron Hosley'],NA,week_15,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_15,New York Giants,2015
+['Cullen Jenkins'],NA,week_15,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_15,New York Giants,2015
+['Devon Kennard'],Out: Foot,week_15,New York Giants,2015
+['Markus Kuhn'],Injured Reserve: Knee,week_15,New York Giants,2015
+['Trumaine McBride'],NA,week_15,New York Giants,2015
+['Leon McFadden'],NA,week_15,New York Giants,2015
+['Brandon McGee'],NA,week_15,New York Giants,2015
+['Brandon Meriweather'],NA,week_15,New York Giants,2015
+['Damontre Moore'],NA,week_15,New York Giants,2015
+['James Morris'],NA,week_15,New York Giants,2015
+['Marshall Newhouse'],NA,week_15,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_15,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_15,New York Giants,2015
+['Justin Pugh'],NA,week_15,New York Giants,2015
+['Rueben Randle'],NA,week_15,New York Giants,2015
+['Weston Richburg'],NA,week_15,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_15,New York Giants,2015
+['Geoff Schwartz'],Injured Reserve: Leg,week_15,New York Giants,2015
+['George Selvie'],Out: Concussion,week_15,New York Giants,2015
+['Cooper Taylor'],NA,week_15,New York Giants,2015
+['J.T. Thomas'],Questionable: Ankle,week_15,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_15,New York Giants,2015
+['Trevin Wade'],NA,week_15,New York Giants,2015
+['Nikita Whitlock'],NA,week_15,New York Giants,2015
+['Danny Aiken'],NA,week_16,New York Giants,2015
+['Prince Amukamara'],NA,week_16,New York Giants,2015
+['Robert Ayers'],NA,week_16,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_16,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_16,New York Giants,2015
+['Odell Beckham'],NA,week_16,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_16,New York Giants,2015
+['Jay Bromley'],NA,week_16,New York Giants,2015
+['Jonathan Casillas'],NA,week_16,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_16,New York Giants,2015
+['Jerome Cunningham'],NA,week_16,New York Giants,2015
+['Craig Dahl'],NA,week_16,New York Giants,2015
+['Orleans Darkwa'],Probable: Illness,week_16,New York Giants,2015
+['Zak DeOssie'],Injured Reserve: Wrist,week_16,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_16,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_16,New York Giants,2015
+['Ereck Flowers'],Probable: Illness,week_16,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_16,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_16,New York Giants,2015
+['Dwayne Harris'],Questionable: Shoulder,week_16,New York Giants,2015
+['Mark Herzlich'],NA,week_16,New York Giants,2015
+['Jayron Hosley'],NA,week_16,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_16,New York Giants,2015
+['Cullen Jenkins'],NA,week_16,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_16,New York Giants,2015
+['Devon Kennard'],Out: Foot,week_16,New York Giants,2015
+['Markus Kuhn'],Out: Knee,week_16,New York Giants,2015
+['Trumaine McBride'],NA,week_16,New York Giants,2015
+['Leon McFadden'],NA,week_16,New York Giants,2015
+['Brandon McGee'],NA,week_16,New York Giants,2015
+['Brandon Meriweather'],NA,week_16,New York Giants,2015
+['Damontre Moore'],NA,week_16,New York Giants,2015
+['James Morris'],Out: Quadricep,week_16,New York Giants,2015
+['Marshall Newhouse'],NA,week_16,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_16,New York Giants,2015
+['Jason Pierre-Paul'],NA,week_16,New York Giants,2015
+['Justin Pugh'],NA,week_16,New York Giants,2015
+['Rueben Randle'],NA,week_16,New York Giants,2015
+['Weston Richburg'],NA,week_16,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_16,New York Giants,2015
+['Geoff Schwartz'],Injured Reserve: Leg,week_16,New York Giants,2015
+['George Selvie'],Probable: Concussion,week_16,New York Giants,2015
+['Cooper Taylor'],Out: Concussion,week_16,New York Giants,2015
+['J.T. Thomas'],NA,week_16,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_16,New York Giants,2015
+['Trevin Wade'],NA,week_16,New York Giants,2015
+['Nikita Whitlock'],Injured Reserve: Knee,week_16,New York Giants,2015
+['Danny Aiken'],Injured Reserve: Wrist,week_17,New York Giants,2015
+['Prince Amukamara'],NA,week_17,New York Giants,2015
+['Robert Ayers'],NA,week_17,New York Giants,2015
+['Jon Beason'],Injured Reserve: Ankle,week_17,New York Giants,2015
+['Will Beatty'],Injured Reserve: Pectoral,week_17,New York Giants,2015
+['Odell Beckham'],NA,week_17,New York Giants,2015
+['Nat Berhe'],Injured Reserve: Calf,week_17,New York Giants,2015
+['Jay Bromley'],NA,week_17,New York Giants,2015
+['Jonathan Casillas'],NA,week_17,New York Giants,2015
+['Victor Cruz'],Injured Reserve: Calf,week_17,New York Giants,2015
+['Jerome Cunningham'],NA,week_17,New York Giants,2015
+['Craig Dahl'],Out: Concussion,week_17,New York Giants,2015
+['Orleans Darkwa'],NA,week_17,New York Giants,2015
+['Zak DeOssie'],Injured Reserve: Wrist,week_17,New York Giants,2015
+['Larry Donnell'],Injured Reserve: Neck,week_17,New York Giants,2015
+['Daniel Fells'],Injured Reserve: Ankle,week_17,New York Giants,2015
+['Ereck Flowers'],NA,week_17,New York Giants,2015
+['Josh Gordy'],Injured Reserve: Undisclosed,week_17,New York Giants,2015
+['Johnathan Hankins'],Injured Reserve: Pectoral,week_17,New York Giants,2015
+['Dwayne Harris'],Questionable: Back,week_17,New York Giants,2015
+['Mark Herzlich'],NA,week_17,New York Giants,2015
+['Jayron Hosley'],NA,week_17,New York Giants,2015
+['Bennett Jackson'],Injured Reserve: Knee,week_17,New York Giants,2015
+['Cullen Jenkins'],NA,week_17,New York Giants,2015
+['Brett Jones'],Injured Reserve: Knee,week_17,New York Giants,2015
+['Devon Kennard'],NA,week_17,New York Giants,2015
+['Markus Kuhn'],Injured Reserve: Knee,week_17,New York Giants,2015
+['Trumaine McBride'],NA,week_17,New York Giants,2015
+['Leon McFadden'],NA,week_17,New York Giants,2015
+['Brandon McGee'],NA,week_17,New York Giants,2015
+['Brandon Meriweather'],NA,week_17,New York Giants,2015
+['Damontre Moore'],NA,week_17,New York Giants,2015
+['James Morris'],Injured Reserve: Quadricep,week_17,New York Giants,2015
+['Marshall Newhouse'],Out: Concussion,week_17,New York Giants,2015
+['Owamagbe Odighizuwa'],Injured Reserve: Hamstring,week_17,New York Giants,2015
+['Jason Pierre-Paul'],Questionable: Ankle,week_17,New York Giants,2015
+['Justin Pugh'],NA,week_17,New York Giants,2015
+['Rueben Randle'],NA,week_17,New York Giants,2015
+['Weston Richburg'],NA,week_17,New York Giants,2015
+['Dominique Rodgers-Cromartie'],NA,week_17,New York Giants,2015
+['Geoff Schwartz'],Injured Reserve: Leg,week_17,New York Giants,2015
+['George Selvie'],NA,week_17,New York Giants,2015
+['Cooper Taylor'],Out: Concussion,week_17,New York Giants,2015
+['J.T. Thomas'],Injured Reserve: Ankle,week_17,New York Giants,2015
+['Mykkele Thompson'],Injured Reserve: Achilles,week_17,New York Giants,2015
+['Trevin Wade'],NA,week_17,New York Giants,2015
+['Nikita Whitlock'],Injured Reserve: Knee,week_17,New York Giants,2015

@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Kyle Arrington'],NA,week_1,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_1,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_1,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_1,Baltimore Ravens,2015
+['Michael Campanaro'],NA,week_1,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_1,Baltimore Ravens,2015
+['Will Davis'],NA,week_1,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_1,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_1,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_1,Baltimore Ravens,2015
+['Chase Ford'],NA,week_1,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_1,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_1,Baltimore Ravens,2015
+['Chris Givens'],NA,week_1,Baltimore Ravens,2015
+['Will Hill'],NA,week_1,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_1,Baltimore Ravens,2015
+['Timmy Jernigan'],Doubtful: Knee,week_1,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_1,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_1,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_1,Baltimore Ravens,2015
+['Rashaan Melvin'],Doubtful: Thigh,week_1,Baltimore Ravens,2015
+['Eugene Monroe'],NA,week_1,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_1,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_1,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_1,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_1,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_1,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_1,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_1,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_1,Baltimore Ravens,2015
+['Steve Smith'],NA,week_1,Baltimore Ravens,2015
+['Terrell Suggs'],NA,week_1,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Out: Knee,week_1,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_1,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_1,Baltimore Ravens,2015
+['Tray Walker'],NA,week_1,Baltimore Ravens,2015
+['Darren Waller'],NA,week_1,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_1,Baltimore Ravens,2015
+['Terrance West'],NA,week_1,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_1,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_1,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_1,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_1,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_1,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_1,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_2,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_2,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_2,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_2,Baltimore Ravens,2015
+['Michael Campanaro'],NA,week_2,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_2,Baltimore Ravens,2015
+['Will Davis'],NA,week_2,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_2,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_2,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_2,Baltimore Ravens,2015
+['Chase Ford'],NA,week_2,Baltimore Ravens,2015
+['Justin Forsett'],Probable: Shoulder,week_2,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_2,Baltimore Ravens,2015
+['Chris Givens'],NA,week_2,Baltimore Ravens,2015
+['Will Hill'],NA,week_2,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_2,Baltimore Ravens,2015
+['Timmy Jernigan'],Probable: Knee,week_2,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_2,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_2,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_2,Baltimore Ravens,2015
+['Rashaan Melvin'],Questionable: Thigh,week_2,Baltimore Ravens,2015
+['Eugene Monroe'],Out: Concussion,week_2,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_2,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_2,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_2,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_2,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_2,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_2,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_2,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_2,Baltimore Ravens,2015
+['Steve Smith'],NA,week_2,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_2,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Probable: Knee,week_2,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_2,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_2,Baltimore Ravens,2015
+['Tray Walker'],NA,week_2,Baltimore Ravens,2015
+['Darren Waller'],Questionable: Ankle,week_2,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_2,Baltimore Ravens,2015
+['Terrance West'],NA,week_2,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_2,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_2,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_2,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_2,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_2,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_2,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_3,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_3,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_3,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_3,Baltimore Ravens,2015
+['Michael Campanaro'],NA,week_3,Baltimore Ravens,2015
+['Chris Canty'],Out: Calf,week_3,Baltimore Ravens,2015
+['Will Davis'],NA,week_3,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_3,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_3,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_3,Baltimore Ravens,2015
+['Chase Ford'],NA,week_3,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_3,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_3,Baltimore Ravens,2015
+['Chris Givens'],NA,week_3,Baltimore Ravens,2015
+['Will Hill'],Probable: Knee,week_3,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_3,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_3,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_3,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_3,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_3,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_3,Baltimore Ravens,2015
+['Eugene Monroe'],NA,week_3,Baltimore Ravens,2015
+['C.J. Mosley'],Probable: NotInjuryRelated,week_3,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_3,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_3,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_3,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_3,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_3,Baltimore Ravens,2015
+['Daryl Smith'],NA,week_3,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_3,Baltimore Ravens,2015
+['Steve Smith'],NA,week_3,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_3,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Questionable: Foot,week_3,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_3,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_3,Baltimore Ravens,2015
+['Tray Walker'],Questionable: Thigh,week_3,Baltimore Ravens,2015
+['Darren Waller'],NA,week_3,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_3,Baltimore Ravens,2015
+['Terrance West'],NA,week_3,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_3,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_3,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_3,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_3,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_3,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_3,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_4,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_4,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_4,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_4,Baltimore Ravens,2015
+['Michael Campanaro'],NA,week_4,Baltimore Ravens,2015
+['Chris Canty'],Out: Calf,week_4,Baltimore Ravens,2015
+['Will Davis'],NA,week_4,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_4,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_4,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_4,Baltimore Ravens,2015
+['Chase Ford'],NA,week_4,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_4,Baltimore Ravens,2015
+['Crockett Gillmore'],Out: Calf,week_4,Baltimore Ravens,2015
+['Chris Givens'],NA,week_4,Baltimore Ravens,2015
+['Will Hill'],NA,week_4,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_4,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_4,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_4,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_4,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_4,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_4,Baltimore Ravens,2015
+['Eugene Monroe'],Out: Concussion,week_4,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_4,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_4,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_4,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_4,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_4,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_4,Baltimore Ravens,2015
+['Daryl Smith'],NA,week_4,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_4,Baltimore Ravens,2015
+['Steve Smith'],NA,week_4,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_4,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],NA,week_4,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_4,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_4,Baltimore Ravens,2015
+['Tray Walker'],NA,week_4,Baltimore Ravens,2015
+['Darren Waller'],NA,week_4,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_4,Baltimore Ravens,2015
+['Terrance West'],NA,week_4,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_4,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_4,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_4,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_4,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_4,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_4,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_5,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_5,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_5,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_5,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_5,Baltimore Ravens,2015
+['Chris Canty'],Out: Calf,week_5,Baltimore Ravens,2015
+['Will Davis'],NA,week_5,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_5,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_5,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_5,Baltimore Ravens,2015
+['Chase Ford'],NA,week_5,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_5,Baltimore Ravens,2015
+['Crockett Gillmore'],Out: Calf,week_5,Baltimore Ravens,2015
+['Chris Givens'],NA,week_5,Baltimore Ravens,2015
+['Will Hill'],NA,week_5,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_5,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_5,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_5,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_5,Baltimore Ravens,2015
+['Albert McClellan'],Probable: Abdomen,week_5,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_5,Baltimore Ravens,2015
+['Eugene Monroe'],Probable: Concussion,week_5,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_5,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_5,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_5,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_5,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_5,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_5,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_5,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_5,Baltimore Ravens,2015
+['Steve Smith'],Doubtful: Back,week_5,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_5,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_5,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_5,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_5,Baltimore Ravens,2015
+['Tray Walker'],NA,week_5,Baltimore Ravens,2015
+['Darren Waller'],NA,week_5,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_5,Baltimore Ravens,2015
+['Terrance West'],NA,week_5,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_5,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_5,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_5,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_5,Baltimore Ravens,2015
+['Marshal Yanda'],Probable: Ankle,week_5,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_5,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_6,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_6,Baltimore Ravens,2015
+['Terrence Brooks'],Out: Thumb,week_6,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_6,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_6,Baltimore Ravens,2015
+['Chris Canty'],Out: Calf,week_6,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_6,Baltimore Ravens,2015
+['Elvis Dumervil'],Questionable: Thigh,week_6,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_6,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_6,Baltimore Ravens,2015
+['Chase Ford'],NA,week_6,Baltimore Ravens,2015
+['Justin Forsett'],Questionable: Ankle,week_6,Baltimore Ravens,2015
+['Crockett Gillmore'],Questionable: Calf,week_6,Baltimore Ravens,2015
+['Chris Givens'],Questionable: Ankle,week_6,Baltimore Ravens,2015
+['Will Hill'],NA,week_6,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_6,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_6,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_6,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_6,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_6,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_6,Baltimore Ravens,2015
+['Eugene Monroe'],NA,week_6,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_6,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_6,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_6,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_6,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_6,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_6,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_6,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_6,Baltimore Ravens,2015
+['Steve Smith'],Questionable: Back,week_6,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_6,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_6,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_6,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_6,Baltimore Ravens,2015
+['Tray Walker'],NA,week_6,Baltimore Ravens,2015
+['Darren Waller'],Out: Concussion,week_6,Baltimore Ravens,2015
+['Lardarius Webb'],Doubtful: Thigh,week_6,Baltimore Ravens,2015
+['Terrance West'],NA,week_6,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_6,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_6,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_6,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_6,Baltimore Ravens,2015
+['Marshal Yanda'],Questionable: Ankle,week_6,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_6,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_7,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_7,Baltimore Ravens,2015
+['Terrence Brooks'],Out: Thumb,week_7,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_7,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_7,Baltimore Ravens,2015
+['Chris Canty'],Probable: Calf,week_7,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_7,Baltimore Ravens,2015
+['Elvis Dumervil'],Probable: NotInjuryRelated,week_7,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_7,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_7,Baltimore Ravens,2015
+['Chase Ford'],NA,week_7,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_7,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_7,Baltimore Ravens,2015
+['Chris Givens'],NA,week_7,Baltimore Ravens,2015
+['Will Hill'],NA,week_7,Baltimore Ravens,2015
+['Asa Jackson'],Questionable: Thigh,week_7,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_7,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_7,Baltimore Ravens,2015
+['Kendrick Lewis'],Questionable: Knee,week_7,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_7,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_7,Baltimore Ravens,2015
+['Eugene Monroe'],NA,week_7,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_7,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_7,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_7,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_7,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_7,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_7,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_7,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_7,Baltimore Ravens,2015
+['Steve Smith'],NA,week_7,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_7,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_7,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_7,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_7,Baltimore Ravens,2015
+['Tray Walker'],NA,week_7,Baltimore Ravens,2015
+['Darren Waller'],Probable: Concussion,week_7,Baltimore Ravens,2015
+['Lardarius Webb'],Questionable: Thigh,week_7,Baltimore Ravens,2015
+['Terrance West'],NA,week_7,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_7,Baltimore Ravens,2015
+['Maxx Williams'],Out: Knee,week_7,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_7,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_7,Baltimore Ravens,2015
+['Marshal Yanda'],Probable: Ankle,week_7,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_7,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_8,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_8,Baltimore Ravens,2015
+['Terrence Brooks'],Probable: Thumb,week_8,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_8,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_8,Baltimore Ravens,2015
+['Chris Canty'],NA,week_8,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_8,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_8,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_8,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_8,Baltimore Ravens,2015
+['Chase Ford'],NA,week_8,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_8,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_8,Baltimore Ravens,2015
+['Chris Givens'],NA,week_8,Baltimore Ravens,2015
+['Will Hill'],NA,week_8,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_8,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_8,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_8,Baltimore Ravens,2015
+['Kendrick Lewis'],Questionable: Knee,week_8,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_8,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_8,Baltimore Ravens,2015
+['Eugene Monroe'],Doubtful: Shoulder,week_8,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_8,Baltimore Ravens,2015
+['Kelechi Osemele'],Questionable: Knee,week_8,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_8,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_8,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_8,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_8,Baltimore Ravens,2015
+['Daryl Smith'],NA,week_8,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_8,Baltimore Ravens,2015
+['Steve Smith'],Probable: Knee,week_8,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_8,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_8,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_8,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_8,Baltimore Ravens,2015
+['Tray Walker'],Out: Concussion,week_8,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_8,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_8,Baltimore Ravens,2015
+['Terrance West'],NA,week_8,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_8,Baltimore Ravens,2015
+['Maxx Williams'],Questionable: Knee,week_8,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_8,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_8,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_8,Baltimore Ravens,2015
+['Jeremy Zuttah'],NA,week_8,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_10,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_10,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_10,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_10,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_10,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_10,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_10,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_10,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_10,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_10,Baltimore Ravens,2015
+['Chase Ford'],NA,week_10,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_10,Baltimore Ravens,2015
+['Crockett Gillmore'],Probable: Shoulder,week_10,Baltimore Ravens,2015
+['Chris Givens'],NA,week_10,Baltimore Ravens,2015
+['Will Hill'],NA,week_10,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_10,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_10,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_10,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_10,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_10,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_10,Baltimore Ravens,2015
+['Eugene Monroe'],Probable: Shoulder,week_10,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_10,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_10,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_10,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_10,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_10,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_10,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_10,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_10,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_10,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_10,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_10,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_10,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_10,Baltimore Ravens,2015
+['Tray Walker'],Probable: Concussion,week_10,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_10,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_10,Baltimore Ravens,2015
+['Terrance West'],NA,week_10,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_10,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_10,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_10,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_10,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_10,Baltimore Ravens,2015
+['Jeremy Zuttah'],Questionable: Shoulder,week_10,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_11,Baltimore Ravens,2015
+['Nick Boyle'],Doubtful: Foot,week_11,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_11,Baltimore Ravens,2015
+['Marlon Brown'],NA,week_11,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_11,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_11,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_11,Baltimore Ravens,2015
+['Elvis Dumervil'],Probable: Knee,week_11,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_11,Baltimore Ravens,2015
+['Joe Flacco'],NA,week_11,Baltimore Ravens,2015
+['Chase Ford'],NA,week_11,Baltimore Ravens,2015
+['Justin Forsett'],NA,week_11,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_11,Baltimore Ravens,2015
+['Chris Givens'],NA,week_11,Baltimore Ravens,2015
+['Will Hill'],NA,week_11,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_11,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_11,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_11,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_11,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_11,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_11,Baltimore Ravens,2015
+['Eugene Monroe'],NA,week_11,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_11,Baltimore Ravens,2015
+['Kelechi Osemele'],Questionable: Knee,week_11,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_11,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_11,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_11,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_11,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_11,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_11,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_11,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_11,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_11,Baltimore Ravens,2015
+['Brent Urban'],Injured Reserve: Bicep,week_11,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_11,Baltimore Ravens,2015
+['Tray Walker'],NA,week_11,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_11,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_11,Baltimore Ravens,2015
+['Terrance West'],NA,week_11,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_11,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_11,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_11,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_11,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_11,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_11,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_12,Baltimore Ravens,2015
+['Nick Boyle'],Probable: Foot,week_12,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_12,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_12,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_12,Baltimore Ravens,2015
+['Chris Canty'],NA,week_12,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_12,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_12,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_12,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_12,Baltimore Ravens,2015
+['Chase Ford'],Doubtful: Shoulder,week_12,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_12,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_12,Baltimore Ravens,2015
+['Chris Givens'],NA,week_12,Baltimore Ravens,2015
+['Will Hill'],NA,week_12,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_12,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_12,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_12,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_12,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_12,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_12,Baltimore Ravens,2015
+['Eugene Monroe'],Injured Reserve: Shoulder,week_12,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_12,Baltimore Ravens,2015
+['Kelechi Osemele'],Doubtful: Knee,week_12,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_12,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_12,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_12,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_12,Baltimore Ravens,2015
+['Daryl Smith'],NA,week_12,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_12,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_12,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_12,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_12,Baltimore Ravens,2015
+['Brent Urban'],NA,week_12,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_12,Baltimore Ravens,2015
+['Tray Walker'],NA,week_12,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_12,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_12,Baltimore Ravens,2015
+['Terrance West'],NA,week_12,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_12,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_12,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_12,Baltimore Ravens,2015
+['Shareece Wright'],Questionable: Back,week_12,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_12,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_12,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_13,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_13,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_13,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_13,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_13,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_13,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_13,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_13,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_13,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_13,Baltimore Ravens,2015
+['Chase Ford'],Injured Reserve: Shoulder,week_13,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_13,Baltimore Ravens,2015
+['Crockett Gillmore'],NA,week_13,Baltimore Ravens,2015
+['Chris Givens'],NA,week_13,Baltimore Ravens,2015
+['Will Hill'],NA,week_13,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_13,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_13,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_13,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_13,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_13,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_13,Baltimore Ravens,2015
+['Eugene Monroe'],Injured Reserve: Shoulder,week_13,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_13,Baltimore Ravens,2015
+['Kelechi Osemele'],Probable: Knee,week_13,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_13,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_13,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_13,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_13,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_13,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_13,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_13,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_13,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_13,Baltimore Ravens,2015
+['Brent Urban'],NA,week_13,Baltimore Ravens,2015
+['Ricky Wagner'],Probable: NotInjuryRelated,week_13,Baltimore Ravens,2015
+['Tray Walker'],NA,week_13,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_13,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_13,Baltimore Ravens,2015
+['Terrance West'],NA,week_13,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_13,Baltimore Ravens,2015
+['Maxx Williams'],Out: Concussion,week_13,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_13,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_13,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_13,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_13,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_14,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_14,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_14,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_14,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_14,Baltimore Ravens,2015
+['Chris Canty'],Probable: NotInjuryRelated,week_14,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_14,Baltimore Ravens,2015
+['Elvis Dumervil'],Probable: NotInjuryRelated,week_14,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_14,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_14,Baltimore Ravens,2015
+['Chase Ford'],Injured Reserve: Shoulder,week_14,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_14,Baltimore Ravens,2015
+['Crockett Gillmore'],Injured Reserve: Back,week_14,Baltimore Ravens,2015
+['Chris Givens'],NA,week_14,Baltimore Ravens,2015
+['Will Hill'],NA,week_14,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_14,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_14,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_14,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_14,Baltimore Ravens,2015
+['Albert McClellan'],NA,week_14,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_14,Baltimore Ravens,2015
+['Eugene Monroe'],Out: Shoulder,week_14,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_14,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_14,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_14,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_14,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_14,Baltimore Ravens,2015
+['Matt Schaub'],Questionable: Chest,week_14,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_14,Baltimore Ravens,2015
+['Jimmy Smith'],Probable: Knee,week_14,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_14,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_14,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_14,Baltimore Ravens,2015
+['Brent Urban'],NA,week_14,Baltimore Ravens,2015
+['Ricky Wagner'],Probable: Ankle,week_14,Baltimore Ravens,2015
+['Tray Walker'],NA,week_14,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_14,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_14,Baltimore Ravens,2015
+['Terrance West'],NA,week_14,Baltimore Ravens,2015
+['Brandon Williams'],Probable: Shoulder,week_14,Baltimore Ravens,2015
+['Maxx Williams'],Probable: Concussion,week_14,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_14,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_14,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_14,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_14,Baltimore Ravens,2015
+['Kyle Arrington'],Doubtful: Back,week_15,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_15,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_15,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_15,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_15,Baltimore Ravens,2015
+['Chris Canty'],Injured Reserve: Pectoral,week_15,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_15,Baltimore Ravens,2015
+['Elvis Dumervil'],Probable: NotInjuryRelated,week_15,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_15,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_15,Baltimore Ravens,2015
+['Chase Ford'],Injured Reserve: Shoulder,week_15,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_15,Baltimore Ravens,2015
+['Crockett Gillmore'],Injured Reserve: Back,week_15,Baltimore Ravens,2015
+['Chris Givens'],NA,week_15,Baltimore Ravens,2015
+['Will Hill'],NA,week_15,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_15,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_15,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_15,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_15,Baltimore Ravens,2015
+['Albert McClellan'],Doubtful: Ankle,week_15,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_15,Baltimore Ravens,2015
+['Eugene Monroe'],Injured Reserve: Shoulder,week_15,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_15,Baltimore Ravens,2015
+['Kelechi Osemele'],Probable: Knee,week_15,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_15,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_15,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_15,Baltimore Ravens,2015
+['Matt Schaub'],Probable: Chest,week_15,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_15,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_15,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_15,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_15,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_15,Baltimore Ravens,2015
+['Brent Urban'],NA,week_15,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_15,Baltimore Ravens,2015
+['Tray Walker'],NA,week_15,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_15,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_15,Baltimore Ravens,2015
+['Terrance West'],Questionable: Calf,week_15,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_15,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_15,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_15,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_15,Baltimore Ravens,2015
+['Marshal Yanda'],Probable: Ankle,week_15,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_15,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_16,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_16,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_16,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_16,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_16,Baltimore Ravens,2015
+['Chris Canty'],Injured Reserve: Pectoral,week_16,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_16,Baltimore Ravens,2015
+['Elvis Dumervil'],NA,week_16,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_16,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_16,Baltimore Ravens,2015
+['Chase Ford'],Injured Reserve: Shoulder,week_16,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_16,Baltimore Ravens,2015
+['Crockett Gillmore'],Injured Reserve: Back,week_16,Baltimore Ravens,2015
+['Chris Givens'],NA,week_16,Baltimore Ravens,2015
+['Will Hill'],NA,week_16,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_16,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_16,Baltimore Ravens,2015
+['Kyle Juszczyk'],NA,week_16,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_16,Baltimore Ravens,2015
+['Albert McClellan'],Doubtful: Ankle,week_16,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_16,Baltimore Ravens,2015
+['Eugene Monroe'],Injured Reserve: Shoulder,week_16,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_16,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_16,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_16,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_16,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_16,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_16,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_16,Baltimore Ravens,2015
+['Jimmy Smith'],Probable: Thigh,week_16,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_16,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_16,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_16,Baltimore Ravens,2015
+['Brent Urban'],NA,week_16,Baltimore Ravens,2015
+['Ricky Wagner'],Probable: Knee,week_16,Baltimore Ravens,2015
+['Tray Walker'],NA,week_16,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_16,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_16,Baltimore Ravens,2015
+['Terrance West'],NA,week_16,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_16,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_16,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_16,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_16,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_16,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_16,Baltimore Ravens,2015
+['Kyle Arrington'],NA,week_17,Baltimore Ravens,2015
+['Nick Boyle'],NA,week_17,Baltimore Ravens,2015
+['Terrence Brooks'],NA,week_17,Baltimore Ravens,2015
+['Marlon Brown'],Injured Reserve: Back,week_17,Baltimore Ravens,2015
+['Michael Campanaro'],Injured Reserve: Back,week_17,Baltimore Ravens,2015
+['Chris Canty'],Injured Reserve: Pectoral,week_17,Baltimore Ravens,2015
+['Will Davis'],Injured Reserve: Knee,week_17,Baltimore Ravens,2015
+['Elvis Dumervil'],Probable: NotInjuryRelated,week_17,Baltimore Ravens,2015
+['Matt Elam'],Injured Reserve: Bicep,week_17,Baltimore Ravens,2015
+['Joe Flacco'],Injured Reserve: Knee,week_17,Baltimore Ravens,2015
+['Chase Ford'],Injured Reserve: Shoulder,week_17,Baltimore Ravens,2015
+['Justin Forsett'],Injured Reserve: Arm,week_17,Baltimore Ravens,2015
+['Crockett Gillmore'],Injured Reserve: Back,week_17,Baltimore Ravens,2015
+['Chris Givens'],NA,week_17,Baltimore Ravens,2015
+['Will Hill'],NA,week_17,Baltimore Ravens,2015
+['Asa Jackson'],NA,week_17,Baltimore Ravens,2015
+['Timmy Jernigan'],NA,week_17,Baltimore Ravens,2015
+['Kyle Juszczyk'],Probable: Illness,week_17,Baltimore Ravens,2015
+['Kendrick Lewis'],NA,week_17,Baltimore Ravens,2015
+['Albert McClellan'],Questionable: Ankle,week_17,Baltimore Ravens,2015
+['Rashaan Melvin'],NA,week_17,Baltimore Ravens,2015
+['Eugene Monroe'],Injured Reserve: Shoulder,week_17,Baltimore Ravens,2015
+['C.J. Mosley'],NA,week_17,Baltimore Ravens,2015
+['Kelechi Osemele'],NA,week_17,Baltimore Ravens,2015
+['Breshad Perriman'],Injured Reserve: Knee,week_17,Baltimore Ravens,2015
+['Dennis Pitta'],Injured Reserve: Hip,week_17,Baltimore Ravens,2015
+['Allen Reisner'],Injured Reserve: Ankle,week_17,Baltimore Ravens,2015
+['Matt Schaub'],NA,week_17,Baltimore Ravens,2015
+['Daryl Smith'],Probable: NotInjuryRelated,week_17,Baltimore Ravens,2015
+['Jimmy Smith'],NA,week_17,Baltimore Ravens,2015
+['Steve Smith'],Injured Reserve: Achilles,week_17,Baltimore Ravens,2015
+['Terrell Suggs'],Injured Reserve: Achilles,week_17,Baltimore Ravens,2015
+['Lorenzo Taliaferro'],Injured Reserve: Foot,week_17,Baltimore Ravens,2015
+['Brent Urban'],NA,week_17,Baltimore Ravens,2015
+['Ricky Wagner'],NA,week_17,Baltimore Ravens,2015
+['Tray Walker'],NA,week_17,Baltimore Ravens,2015
+['Darren Waller'],Injured Reserve: Hamstring,week_17,Baltimore Ravens,2015
+['Lardarius Webb'],NA,week_17,Baltimore Ravens,2015
+['Terrance West'],NA,week_17,Baltimore Ravens,2015
+['Brandon Williams'],NA,week_17,Baltimore Ravens,2015
+['Maxx Williams'],NA,week_17,Baltimore Ravens,2015
+['Julian Wilson'],Injured Reserve: Leg,week_17,Baltimore Ravens,2015
+['Shareece Wright'],NA,week_17,Baltimore Ravens,2015
+['Marshal Yanda'],NA,week_17,Baltimore Ravens,2015
+['Jeremy Zuttah'],Injured Reserve: Pectoral,week_17,Baltimore Ravens,2015

@@ -1,0 +1,613 @@
+﻿name,injury,week,team,year
+['Mario Alford'],NA,week_1,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_1,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_1,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_1,Cincinnati Bengals,2015
+['Darqueze Dennard'],Probable: Groin,week_1,Cincinnati Bengals,2015
+['Carlos Dunlap'],Probable: Illness,week_1,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_1,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_1,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_1,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_1,Cincinnati Bengals,2015
+['Leon Hall'],Probable: Back,week_1,Cincinnati Bengals,2015
+['Marcus Hardison'],Out: Knee,week_1,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_1,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_1,Cincinnati Bengals,2015
+['George Iloka'],NA,week_1,Cincinnati Bengals,2015
+['Michael Johnson'],Probable: Knee,week_1,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_1,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_1,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_1,Cincinnati Bengals,2015
+['Emmanuel Lamur'],Probable: Hamstring,week_1,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_1,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_1,Cincinnati Bengals,2015
+['Reggie Nelson'],Probable: Groin,week_1,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_1,Cincinnati Bengals,2015
+['Josh Shaw'],Questionable: Groin,week_1,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_1,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_1,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_1,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_1,Cincinnati Bengals,2015
+['Andrew Whitworth'],Probable: Back,week_1,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_1,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_1,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_2,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_2,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_2,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_2,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_2,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_2,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_2,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_2,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_2,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_2,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_2,Cincinnati Bengals,2015
+['Marcus Hardison'],Out: Knee,week_2,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_2,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_2,Cincinnati Bengals,2015
+['George Iloka'],Questionable: Ankle,week_2,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_2,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_2,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_2,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Calf,week_2,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_2,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_2,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_2,Cincinnati Bengals,2015
+['Reggie Nelson'],Probable: Groin,week_2,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_2,Cincinnati Bengals,2015
+['Josh Shaw'],Questionable: Groin,week_2,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_2,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_2,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_2,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_2,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_2,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_2,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_2,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_3,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_3,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_3,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_3,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_3,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_3,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_3,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_3,Cincinnati Bengals,2015
+['Wallace Gilberry'],Probable: Thigh,week_3,Cincinnati Bengals,2015
+['A.J. Green'],Probable: Knee,week_3,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_3,Cincinnati Bengals,2015
+['Marcus Hardison'],Doubtful: Knee,week_3,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_3,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_3,Cincinnati Bengals,2015
+['George Iloka'],NA,week_3,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_3,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_3,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_3,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_3,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_3,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_3,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_3,Cincinnati Bengals,2015
+['Reggie Nelson'],Probable: Groin,week_3,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_3,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_3,Cincinnati Bengals,2015
+['Pat Sims'],Out: Hip,week_3,Cincinnati Bengals,2015
+['Andre Smith'],Probable: Buttocks,week_3,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_3,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_3,Cincinnati Bengals,2015
+['Andrew Whitworth'],Probable: Back,week_3,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_3,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_3,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_4,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_4,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_4,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_4,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_4,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_4,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_4,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_4,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_4,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_4,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_4,Cincinnati Bengals,2015
+['Marcus Hardison'],Questionable: Knee,week_4,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_4,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_4,Cincinnati Bengals,2015
+['George Iloka'],Doubtful: Ankle,week_4,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_4,Cincinnati Bengals,2015
+['Adam Jones'],Questionable: Elbow,week_4,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_4,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Shoulder,week_4,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_4,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_4,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_4,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_4,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_4,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_4,Cincinnati Bengals,2015
+['Pat Sims'],Probable: Hip,week_4,Cincinnati Bengals,2015
+['Andre Smith'],Probable: Hip,week_4,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_4,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_4,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_4,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_4,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_4,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_5,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_5,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_5,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_5,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_5,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_5,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_5,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_5,Cincinnati Bengals,2015
+['Wallace Gilberry'],Questionable: Calf,week_5,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_5,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_5,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_5,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_5,Cincinnati Bengals,2015
+['Jeremy Hill'],Probable: Knee,week_5,Cincinnati Bengals,2015
+['George Iloka'],Questionable: Ankle,week_5,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_5,Cincinnati Bengals,2015
+['Adam Jones'],Probable: Groin,week_5,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_5,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_5,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_5,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_5,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_5,Cincinnati Bengals,2015
+['Reggie Nelson'],Probable: Hamstring,week_5,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_5,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_5,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_5,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_5,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_5,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_5,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_5,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_5,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_5,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_6,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_6,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_6,Cincinnati Bengals,2015
+['Vontaze Burfict'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_6,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_6,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_6,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_6,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_6,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_6,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_6,Cincinnati Bengals,2015
+['Leon Hall'],Questionable: Back,week_6,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_6,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_6,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_6,Cincinnati Bengals,2015
+['George Iloka'],NA,week_6,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_6,Cincinnati Bengals,2015
+['Adam Jones'],Probable: Groin,week_6,Cincinnati Bengals,2015
+['Marvin Jones'],Probable: Foot,week_6,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Hip,week_6,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_6,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_6,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_6,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_6,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_6,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_6,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_6,Cincinnati Bengals,2015
+['Andre Smith'],Probable: Elbow,week_6,Cincinnati Bengals,2015
+['Brandon Tate'],Probable: Illness,week_6,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_6,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_6,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_6,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_6,Cincinnati Bengals,2015
+['Kevin Zeitler'],Probable: Elbow,week_6,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_8,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_8,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_8,Cincinnati Bengals,2015
+['Vontaze Burfict'],NA,week_8,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_8,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_8,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_8,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_8,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_8,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_8,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_8,Cincinnati Bengals,2015
+['Leon Hall'],Questionable: Back,week_8,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_8,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_8,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_8,Cincinnati Bengals,2015
+['George Iloka'],NA,week_8,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_8,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_8,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_8,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_8,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_8,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_8,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_8,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_8,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_8,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_8,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_8,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_8,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_8,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_8,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_8,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_8,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_8,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_9,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_9,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_9,Cincinnati Bengals,2015
+['Vontaze Burfict'],NA,week_9,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_9,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_9,Cincinnati Bengals,2015
+['Carlos Dunlap'],Questionable: Shoulder,week_9,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_9,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_9,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_9,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_9,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_9,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_9,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_9,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_9,Cincinnati Bengals,2015
+['George Iloka'],NA,week_9,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_9,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_9,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_9,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_9,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_9,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_9,Cincinnati Bengals,2015
+['Rey Maualuga'],Questionable: Calf,week_9,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_9,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_9,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_9,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_9,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_9,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_9,Cincinnati Bengals,2015
+['Andre Smith'],Out: Concussion,week_9,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_9,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_9,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_9,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_9,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_9,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_9,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_10,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_10,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_10,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_10,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_10,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_10,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_10,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_10,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_10,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_10,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_10,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_10,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_10,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_10,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_10,Cincinnati Bengals,2015
+['George Iloka'],NA,week_10,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_10,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_10,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_10,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_10,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_10,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_10,Cincinnati Bengals,2015
+['Rey Maualuga'],Probable: Calf,week_10,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_10,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_10,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_10,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_10,Cincinnati Bengals,2015
+['Andre Smith'],Out: Concussion,week_10,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_10,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_10,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_10,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_10,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2015
+['Kevin Zeitler'],Probable: Ankle,week_10,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_11,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_11,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_11,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_11,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_11,Cincinnati Bengals,2015
+['Darqueze Dennard'],NA,week_11,Cincinnati Bengals,2015
+['Carlos Dunlap'],Probable: Shoulder,week_11,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_11,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_11,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_11,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_11,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_11,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_11,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_11,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_11,Cincinnati Bengals,2015
+['George Iloka'],NA,week_11,Cincinnati Bengals,2015
+['Michael Johnson'],Doubtful: Back,week_11,Cincinnati Bengals,2015
+['Adam Jones'],Doubtful: Foot,week_11,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_11,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_11,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_11,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_11,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_11,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_11,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_11,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_11,Cincinnati Bengals,2015
+['Pat Sims'],Doubtful: Knee,week_11,Cincinnati Bengals,2015
+['Andre Smith'],Probable: Concussion,week_11,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_11,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_11,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_11,Cincinnati Bengals,2015
+['Shawn Williams'],Probable: Ankle,week_11,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_11,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_12,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_12,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_12,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_12,Cincinnati Bengals,2015
+['Andy Dalton'],Probable: Groin,week_12,Cincinnati Bengals,2015
+['Darqueze Dennard'],Out: Shoulder,week_12,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_12,Cincinnati Bengals,2015
+['Tyler Eifert'],Probable: Knee,week_12,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_12,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_12,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_12,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_12,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_12,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_12,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_12,Cincinnati Bengals,2015
+['George Iloka'],NA,week_12,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_12,Cincinnati Bengals,2015
+['Adam Jones'],Questionable: Foot,week_12,Cincinnati Bengals,2015
+['Marvin Jones'],Probable: Hamstring,week_12,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Knee,week_12,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_12,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_12,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_12,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_12,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_12,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_12,Cincinnati Bengals,2015
+['Pat Sims'],Questionable: Knee,week_12,Cincinnati Bengals,2015
+['Andre Smith'],Probable: Thigh,week_12,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_12,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_12,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_12,Cincinnati Bengals,2015
+['Shawn Williams'],Probable: Ankle,week_12,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_12,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_13,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_13,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_13,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_13,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_13,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_13,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_13,Cincinnati Bengals,2015
+['Tyler Eifert'],Doubtful: Neck,week_13,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_13,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_13,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_13,Cincinnati Bengals,2015
+['Leon Hall'],Questionable: Back,week_13,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_13,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_13,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_13,Cincinnati Bengals,2015
+['George Iloka'],Questionable: Groin,week_13,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_13,Cincinnati Bengals,2015
+['Adam Jones'],Questionable: Foot,week_13,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_13,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Ankle,week_13,Cincinnati Bengals,2015
+['Emmanuel Lamur'],Probable: Ankle,week_13,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],Doubtful: Ribs,week_13,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_13,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_13,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_13,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_13,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_13,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_13,Cincinnati Bengals,2015
+['Andre Smith'],Probable: NotInjuryRelated,week_13,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_13,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_13,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_13,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_13,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_13,Cincinnati Bengals,2015
+['Mario Alford'],Questionable: NotInjuryRelated,week_14,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_14,Cincinnati Bengals,2015
+['Clint Boling'],Probable: Neck,week_14,Cincinnati Bengals,2015
+['Vontaze Burfict'],NA,week_14,Cincinnati Bengals,2015
+['Andy Dalton'],NA,week_14,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_14,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_14,Cincinnati Bengals,2015
+['Tyler Eifert'],Probable: Neck,week_14,Cincinnati Bengals,2015
+['Jake Fisher'],Doubtful: Concussion,week_14,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_14,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_14,Cincinnati Bengals,2015
+['Leon Hall'],Questionable: Back,week_14,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_14,Cincinnati Bengals,2015
+['Ryan Hewitt'],Probable: Knee,week_14,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_14,Cincinnati Bengals,2015
+['George Iloka'],Questionable: Groin,week_14,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_14,Cincinnati Bengals,2015
+['Adam Jones'],Doubtful: Foot,week_14,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_14,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Knee,week_14,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_14,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_14,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_14,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_14,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_14,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_14,Cincinnati Bengals,2015
+['Josh Shaw'],Probable: Back,week_14,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_14,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_14,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_14,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_14,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_14,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_14,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_14,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_15,Cincinnati Bengals,2015
+['Russell Bodine'],Probable: Finger,week_15,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_15,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_15,Cincinnati Bengals,2015
+['Andy Dalton'],Out: rightThumb,week_15,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_15,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_15,Cincinnati Bengals,2015
+['Tyler Eifert'],Out: Concussion,week_15,Cincinnati Bengals,2015
+['Jake Fisher'],Out: Concussion,week_15,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_15,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_15,Cincinnati Bengals,2015
+['Leon Hall'],Probable: Back,week_15,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_15,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_15,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_15,Cincinnati Bengals,2015
+['George Iloka'],Out: Groin,week_15,Cincinnati Bengals,2015
+['Michael Johnson'],Probable: Back,week_15,Cincinnati Bengals,2015
+['Adam Jones'],Probable: Foot,week_15,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_15,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],Probable: Knee,week_15,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_15,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_15,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_15,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_15,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_15,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_15,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_15,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_15,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_15,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_15,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_15,Cincinnati Bengals,2015
+['Andrew Whitworth'],Probable: Knee,week_15,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_15,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_15,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_16,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_16,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_16,Cincinnati Bengals,2015
+['Vontaze Burfict'],Probable: Knee,week_16,Cincinnati Bengals,2015
+['Andy Dalton'],Out: rightThumb,week_16,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_16,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_16,Cincinnati Bengals,2015
+['Tyler Eifert'],Out: Concussion,week_16,Cincinnati Bengals,2015
+['Jake Fisher'],Probable: Concussion,week_16,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_16,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_16,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_16,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_16,Cincinnati Bengals,2015
+['Ryan Hewitt'],NA,week_16,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_16,Cincinnati Bengals,2015
+['George Iloka'],Doubtful: Groin,week_16,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_16,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_16,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_16,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_16,Cincinnati Bengals,2015
+['Emmanuel Lamur'],Probable: Hamstring,week_16,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_16,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_16,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_16,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_16,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2015
+['Vincent Rey'],Probable: Hamstring,week_16,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_16,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_16,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_16,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_16,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_16,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_16,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_16,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_16,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_17,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_17,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_17,Cincinnati Bengals,2015
+['Vontaze Burfict'],NA,week_17,Cincinnati Bengals,2015
+['Andy Dalton'],Out: rightThumb,week_17,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_17,Cincinnati Bengals,2015
+['Carlos Dunlap'],Probable: Hamstring,week_17,Cincinnati Bengals,2015
+['Tyler Eifert'],Probable: Concussion,week_17,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_17,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_17,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_17,Cincinnati Bengals,2015
+['Leon Hall'],NA,week_17,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_17,Cincinnati Bengals,2015
+['Ryan Hewitt'],Out: Knee,week_17,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_17,Cincinnati Bengals,2015
+['George Iloka'],Probable: Groin,week_17,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_17,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_17,Cincinnati Bengals,2015
+['Marvin Jones'],Probable: Hamstring,week_17,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_17,Cincinnati Bengals,2015
+['Emmanuel Lamur'],NA,week_17,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_17,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_17,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_17,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_17,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_17,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_17,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_17,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_17,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_17,Cincinnati Bengals,2015
+['Brandon Thompson'],NA,week_17,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_17,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_17,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_17,Cincinnati Bengals,2015
+['Mario Alford'],NA,week_18,Cincinnati Bengals,2015
+['Russell Bodine'],NA,week_18,Cincinnati Bengals,2015
+['Clint Boling'],NA,week_18,Cincinnati Bengals,2015
+['Vontaze Burfict'],NA,week_18,Cincinnati Bengals,2015
+['Andy Dalton'],Out: right thumb,week_18,Cincinnati Bengals,2015
+['Darqueze Dennard'],Injured Reserve: Shoulder,week_18,Cincinnati Bengals,2015
+['Carlos Dunlap'],NA,week_18,Cincinnati Bengals,2015
+['Tyler Eifert'],NA,week_18,Cincinnati Bengals,2015
+['Jake Fisher'],NA,week_18,Cincinnati Bengals,2015
+['Wallace Gilberry'],NA,week_18,Cincinnati Bengals,2015
+['A.J. Green'],NA,week_18,Cincinnati Bengals,2015
+['Leon Hall'],"Probable: concussion, back",week_18,Cincinnati Bengals,2015
+['Marcus Hardison'],NA,week_18,Cincinnati Bengals,2015
+['Ryan Hewitt'],Out: knee,week_18,Cincinnati Bengals,2015
+['Jeremy Hill'],NA,week_18,Cincinnati Bengals,2015
+['George Iloka'],NA,week_18,Cincinnati Bengals,2015
+['Michael Johnson'],NA,week_18,Cincinnati Bengals,2015
+['Adam Jones'],NA,week_18,Cincinnati Bengals,2015
+['Marvin Jones'],NA,week_18,Cincinnati Bengals,2015
+['Dre Kirkpatrick'],NA,week_18,Cincinnati Bengals,2015
+['Emmanuel Lamur'],Injured Reserve: Knee,week_18,Cincinnati Bengals,2015
+['Chris Lewis-Harris'],NA,week_18,Cincinnati Bengals,2015
+['Rey Maualuga'],NA,week_18,Cincinnati Bengals,2015
+['Reggie Nelson'],NA,week_18,Cincinnati Bengals,2015
+['Cedric Ogbuehi'],NA,week_18,Cincinnati Bengals,2015
+['Sean Porter'],Injured Reserve: Knee,week_18,Cincinnati Bengals,2015
+['Vincent Rey'],NA,week_18,Cincinnati Bengals,2015
+['Josh Shaw'],NA,week_18,Cincinnati Bengals,2015
+['Pat Sims'],NA,week_18,Cincinnati Bengals,2015
+['Andre Smith'],NA,week_18,Cincinnati Bengals,2015
+['Brandon Tate'],NA,week_18,Cincinnati Bengals,2015
+['Brandon Thompson'],Injured Reserve: Knee,week_18,Cincinnati Bengals,2015
+['Andrew Whitworth'],NA,week_18,Cincinnati Bengals,2015
+['Shawn Williams'],NA,week_18,Cincinnati Bengals,2015
+['James Wright'],Injured Reserve: Knee,week_18,Cincinnati Bengals,2015
+['Kevin Zeitler'],NA,week_18,Cincinnati Bengals,2015

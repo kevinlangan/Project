@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Nigel Bradham'],NA,week_1,Buffalo Bills,2015
+['Ron Brooks'],NA,week_1,Buffalo Bills,2015
+['Preston Brown'],NA,week_1,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_1,Buffalo Bills,2015
+['Alex Carrington'],NA,week_1,Buffalo Bills,2015
+['Stefan Charles'],NA,week_1,Buffalo Bills,2015
+['Charles Clay'],Probable: Knee,week_1,Buffalo Bills,2015
+['Ronald Darby'],NA,week_1,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_1,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_1,Buffalo Bills,2015
+['Marcus Easley'],NA,week_1,Buffalo Bills,2015
+['Jerome Felton'],NA,week_1,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_1,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_1,Buffalo Bills,2015
+['Marquise Goodwin'],Out: Ribs,week_1,Buffalo Bills,2015
+['Corey Graham'],NA,week_1,Buffalo Bills,2015
+['MarQueis Gray'],NA,week_1,Buffalo Bills,2015
+['Percy Harvin'],Probable: Hip,week_1,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_1,Buffalo Bills,2015
+['Chris Hogan'],Probable: Knee,week_1,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_1,Buffalo Bills,2015
+['Richie Incognito'],NA,week_1,Buffalo Bills,2015
+['Randell Johnson'],NA,week_1,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_1,Buffalo Bills,2015
+['LeSean McCoy'],Probable: Hamstring,week_1,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_1,Buffalo Bills,2015
+['John Miller'],NA,week_1,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_1,Buffalo Bills,2015
+['Walt Powell'],NA,week_1,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_1,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_1,Buffalo Bills,2015
+['Tony Steward'],Out: Knee,week_1,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_1,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_1,Buffalo Bills,2015
+['Sammy Watkins'],Probable: Hamstring,week_1,Buffalo Bills,2015
+['Aaron Williams'],NA,week_1,Buffalo Bills,2015
+['Karlos Williams'],NA,week_1,Buffalo Bills,2015
+['Kyle Williams'],NA,week_1,Buffalo Bills,2015
+['Mario Williams'],Probable: Calf,week_1,Buffalo Bills,2015
+['Cierre Wood'],NA,week_1,Buffalo Bills,2015
+['Eric Wood'],NA,week_1,Buffalo Bills,2015
+['Robert Woods'],Probable: Hip,week_1,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_1,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_2,Buffalo Bills,2015
+['Ron Brooks'],NA,week_2,Buffalo Bills,2015
+['Preston Brown'],NA,week_2,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_2,Buffalo Bills,2015
+['Alex Carrington'],NA,week_2,Buffalo Bills,2015
+['Stefan Charles'],NA,week_2,Buffalo Bills,2015
+['Charles Clay'],NA,week_2,Buffalo Bills,2015
+['Ronald Darby'],NA,week_2,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_2,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_2,Buffalo Bills,2015
+['Marcus Easley'],NA,week_2,Buffalo Bills,2015
+['Jerome Felton'],NA,week_2,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_2,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_2,Buffalo Bills,2015
+['Marquise Goodwin'],Out: Ribs,week_2,Buffalo Bills,2015
+['Corey Graham'],Probable: Concussion,week_2,Buffalo Bills,2015
+['MarQueis Gray'],NA,week_2,Buffalo Bills,2015
+['Percy Harvin'],Probable: Hip,week_2,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_2,Buffalo Bills,2015
+['Chris Hogan'],NA,week_2,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_2,Buffalo Bills,2015
+['Richie Incognito'],NA,week_2,Buffalo Bills,2015
+['Randell Johnson'],NA,week_2,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_2,Buffalo Bills,2015
+['LeSean McCoy'],Questionable: Hamstring,week_2,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_2,Buffalo Bills,2015
+['John Miller'],NA,week_2,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_2,Buffalo Bills,2015
+['Walt Powell'],NA,week_2,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_2,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_2,Buffalo Bills,2015
+['Tony Steward'],Out: Knee,week_2,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_2,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_2,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_2,Buffalo Bills,2015
+['Aaron Williams'],NA,week_2,Buffalo Bills,2015
+['Karlos Williams'],NA,week_2,Buffalo Bills,2015
+['Kyle Williams'],NA,week_2,Buffalo Bills,2015
+['Mario Williams'],NA,week_2,Buffalo Bills,2015
+['Cierre Wood'],NA,week_2,Buffalo Bills,2015
+['Eric Wood'],NA,week_2,Buffalo Bills,2015
+['Robert Woods'],NA,week_2,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_2,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_3,Buffalo Bills,2015
+['Ron Brooks'],NA,week_3,Buffalo Bills,2015
+['Preston Brown'],NA,week_3,Buffalo Bills,2015
+['Dan Carpenter'],Probable: Abdomen,week_3,Buffalo Bills,2015
+['Alex Carrington'],NA,week_3,Buffalo Bills,2015
+['Stefan Charles'],NA,week_3,Buffalo Bills,2015
+['Charles Clay'],NA,week_3,Buffalo Bills,2015
+['Ronald Darby'],NA,week_3,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_3,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_3,Buffalo Bills,2015
+['Marcus Easley'],Questionable: Back,week_3,Buffalo Bills,2015
+['Jerome Felton'],NA,week_3,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_3,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_3,Buffalo Bills,2015
+['Marquise Goodwin'],Out: Ribs,week_3,Buffalo Bills,2015
+['Corey Graham'],NA,week_3,Buffalo Bills,2015
+['MarQueis Gray'],NA,week_3,Buffalo Bills,2015
+['Percy Harvin'],Probable: Hip,week_3,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_3,Buffalo Bills,2015
+['Chris Hogan'],NA,week_3,Buffalo Bills,2015
+['Jerry Hughes'],Probable: Wrist,week_3,Buffalo Bills,2015
+['Richie Incognito'],NA,week_3,Buffalo Bills,2015
+['Randell Johnson'],NA,week_3,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_3,Buffalo Bills,2015
+['LeSean McCoy'],Probable: Hamstring,week_3,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_3,Buffalo Bills,2015
+['John Miller'],NA,week_3,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_3,Buffalo Bills,2015
+['Walt Powell'],NA,week_3,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_3,Buffalo Bills,2015
+['Colton Schmidt'],Probable: rightHip,week_3,Buffalo Bills,2015
+['Tony Steward'],Questionable: Knee,week_3,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_3,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: Chest,week_3,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_3,Buffalo Bills,2015
+['Aaron Williams'],Out: Neck,week_3,Buffalo Bills,2015
+['Karlos Williams'],NA,week_3,Buffalo Bills,2015
+['Kyle Williams'],NA,week_3,Buffalo Bills,2015
+['Mario Williams'],NA,week_3,Buffalo Bills,2015
+['Cierre Wood'],NA,week_3,Buffalo Bills,2015
+['Eric Wood'],NA,week_3,Buffalo Bills,2015
+['Robert Woods'],NA,week_3,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_3,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_4,Buffalo Bills,2015
+['Ron Brooks'],NA,week_4,Buffalo Bills,2015
+['Preston Brown'],Probable: Hamstring,week_4,Buffalo Bills,2015
+['Dan Carpenter'],Probable: leftKnee,week_4,Buffalo Bills,2015
+['Alex Carrington'],NA,week_4,Buffalo Bills,2015
+['Stefan Charles'],NA,week_4,Buffalo Bills,2015
+['Charles Clay'],NA,week_4,Buffalo Bills,2015
+['Ronald Darby'],NA,week_4,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_4,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_4,Buffalo Bills,2015
+['Marcus Easley'],NA,week_4,Buffalo Bills,2015
+['Jerome Felton'],NA,week_4,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_4,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_4,Buffalo Bills,2015
+['Marquise Goodwin'],Out: Ribs,week_4,Buffalo Bills,2015
+['Corey Graham'],NA,week_4,Buffalo Bills,2015
+['MarQueis Gray'],NA,week_4,Buffalo Bills,2015
+['Percy Harvin'],Probable: Hip,week_4,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_4,Buffalo Bills,2015
+['Chris Hogan'],NA,week_4,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_4,Buffalo Bills,2015
+['Richie Incognito'],NA,week_4,Buffalo Bills,2015
+['Randell Johnson'],NA,week_4,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_4,Buffalo Bills,2015
+['LeSean McCoy'],Out: Hamstring,week_4,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_4,Buffalo Bills,2015
+['John Miller'],Out: Groin,week_4,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_4,Buffalo Bills,2015
+['Walt Powell'],NA,week_4,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_4,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_4,Buffalo Bills,2015
+['Tony Steward'],NA,week_4,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_4,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: Ankle,week_4,Buffalo Bills,2015
+['Sammy Watkins'],Out: Calf,week_4,Buffalo Bills,2015
+['Aaron Williams'],Out: Neck,week_4,Buffalo Bills,2015
+['Karlos Williams'],NA,week_4,Buffalo Bills,2015
+['Kyle Williams'],NA,week_4,Buffalo Bills,2015
+['Mario Williams'],NA,week_4,Buffalo Bills,2015
+['Cierre Wood'],NA,week_4,Buffalo Bills,2015
+['Eric Wood'],NA,week_4,Buffalo Bills,2015
+['Robert Woods'],NA,week_4,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_4,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_5,Buffalo Bills,2015
+['Ron Brooks'],NA,week_5,Buffalo Bills,2015
+['Preston Brown'],NA,week_5,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_5,Buffalo Bills,2015
+['Alex Carrington'],NA,week_5,Buffalo Bills,2015
+['Stefan Charles'],NA,week_5,Buffalo Bills,2015
+['Charles Clay'],Probable: Calf,week_5,Buffalo Bills,2015
+['Ronald Darby'],NA,week_5,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_5,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_5,Buffalo Bills,2015
+['Marcus Easley'],NA,week_5,Buffalo Bills,2015
+['Jerome Felton'],NA,week_5,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_5,Buffalo Bills,2015
+['Cordy Glenn'],Probable: Ankle,week_5,Buffalo Bills,2015
+['Marquise Goodwin'],Probable: Ribs,week_5,Buffalo Bills,2015
+['Corey Graham'],Probable: Shoulder,week_5,Buffalo Bills,2015
+['MarQueis Gray'],Out: Forearm,week_5,Buffalo Bills,2015
+['Percy Harvin'],Probable: Hip,week_5,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_5,Buffalo Bills,2015
+['Chris Hogan'],Probable: Hamstring,week_5,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_5,Buffalo Bills,2015
+['Richie Incognito'],NA,week_5,Buffalo Bills,2015
+['Randell Johnson'],NA,week_5,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_5,Buffalo Bills,2015
+['LeSean McCoy'],Out: Hamstring,week_5,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_5,Buffalo Bills,2015
+['John Miller'],Probable: Groin,week_5,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_5,Buffalo Bills,2015
+['Walt Powell'],NA,week_5,Buffalo Bills,2015
+['Bacarri Rambo'],Out: Quadricep,week_5,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_5,Buffalo Bills,2015
+['Tony Steward'],NA,week_5,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_5,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_5,Buffalo Bills,2015
+['Sammy Watkins'],Questionable: Calf,week_5,Buffalo Bills,2015
+['Aaron Williams'],Probable: Neck,week_5,Buffalo Bills,2015
+['Karlos Williams'],Out: Concussion,week_5,Buffalo Bills,2015
+['Kyle Williams'],Probable: Calf,week_5,Buffalo Bills,2015
+['Mario Williams'],NA,week_5,Buffalo Bills,2015
+['Cierre Wood'],NA,week_5,Buffalo Bills,2015
+['Eric Wood'],NA,week_5,Buffalo Bills,2015
+['Robert Woods'],NA,week_5,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_5,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_6,Buffalo Bills,2015
+['Ron Brooks'],Probable: Thumb,week_6,Buffalo Bills,2015
+['Preston Brown'],NA,week_6,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_6,Buffalo Bills,2015
+['Alex Carrington'],NA,week_6,Buffalo Bills,2015
+['Stefan Charles'],NA,week_6,Buffalo Bills,2015
+['Charles Clay'],Probable: Calf,week_6,Buffalo Bills,2015
+['Ronald Darby'],NA,week_6,Buffalo Bills,2015
+['Marcell Dareus'],Probable: Hip,week_6,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_6,Buffalo Bills,2015
+['Marcus Easley'],Out: Shoulder,week_6,Buffalo Bills,2015
+['Jerome Felton'],NA,week_6,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_6,Buffalo Bills,2015
+['Cordy Glenn'],Probable: Ankle,week_6,Buffalo Bills,2015
+['Marquise Goodwin'],NA,week_6,Buffalo Bills,2015
+['Corey Graham'],NA,week_6,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_6,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_6,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_6,Buffalo Bills,2015
+['Chris Hogan'],Probable: Hamstring,week_6,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_6,Buffalo Bills,2015
+['Richie Incognito'],NA,week_6,Buffalo Bills,2015
+['Randell Johnson'],Probable: Hand,week_6,Buffalo Bills,2015
+['Cyrus Kouandjio'],Probable: Knee,week_6,Buffalo Bills,2015
+['LeSean McCoy'],Probable: Hamstring,week_6,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_6,Buffalo Bills,2015
+['John Miller'],Probable: Groin,week_6,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_6,Buffalo Bills,2015
+['Walt Powell'],NA,week_6,Buffalo Bills,2015
+['Bacarri Rambo'],Probable: Quadricep,week_6,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_6,Buffalo Bills,2015
+['Tony Steward'],NA,week_6,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_6,Buffalo Bills,2015
+['Tyrod Taylor'],Questionable: Knee,week_6,Buffalo Bills,2015
+['Sammy Watkins'],Questionable: Calf,week_6,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_6,Buffalo Bills,2015
+['Karlos Williams'],Out: Concussion,week_6,Buffalo Bills,2015
+['Kyle Williams'],NA,week_6,Buffalo Bills,2015
+['Mario Williams'],NA,week_6,Buffalo Bills,2015
+['Cierre Wood'],Out: Knee,week_6,Buffalo Bills,2015
+['Eric Wood'],NA,week_6,Buffalo Bills,2015
+['Robert Woods'],NA,week_6,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_6,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_7,Buffalo Bills,2015
+['Ron Brooks'],NA,week_7,Buffalo Bills,2015
+['Preston Brown'],NA,week_7,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_7,Buffalo Bills,2015
+['Alex Carrington'],NA,week_7,Buffalo Bills,2015
+['Stefan Charles'],NA,week_7,Buffalo Bills,2015
+['Charles Clay'],NA,week_7,Buffalo Bills,2015
+['Ronald Darby'],NA,week_7,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_7,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_7,Buffalo Bills,2015
+['Marcus Easley'],Questionable: Shoulder,week_7,Buffalo Bills,2015
+['Jerome Felton'],NA,week_7,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_7,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_7,Buffalo Bills,2015
+['Marquise Goodwin'],Out: Ribs,week_7,Buffalo Bills,2015
+['Corey Graham'],Probable: Groin,week_7,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_7,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_7,Buffalo Bills,2015
+['Seantrel Henderson'],Out: Concussion,week_7,Buffalo Bills,2015
+['Chris Hogan'],NA,week_7,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_7,Buffalo Bills,2015
+['Richie Incognito'],NA,week_7,Buffalo Bills,2015
+['Randell Johnson'],NA,week_7,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_7,Buffalo Bills,2015
+['LeSean McCoy'],Probable: Hamstring,week_7,Buffalo Bills,2015
+['Leodis McKelvin'],Injured Reserve: Knee,week_7,Buffalo Bills,2015
+['John Miller'],Out: NotInjuryRelated,week_7,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_7,Buffalo Bills,2015
+['Walt Powell'],NA,week_7,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_7,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_7,Buffalo Bills,2015
+['Tony Steward'],NA,week_7,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_7,Buffalo Bills,2015
+['Tyrod Taylor'],Out: Knee,week_7,Buffalo Bills,2015
+['Sammy Watkins'],Out: Ankle,week_7,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_7,Buffalo Bills,2015
+['Karlos Williams'],Out: Concussion,week_7,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_7,Buffalo Bills,2015
+['Mario Williams'],NA,week_7,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_7,Buffalo Bills,2015
+['Eric Wood'],NA,week_7,Buffalo Bills,2015
+['Robert Woods'],NA,week_7,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_7,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_9,Buffalo Bills,2015
+['Ron Brooks'],NA,week_9,Buffalo Bills,2015
+['Preston Brown'],NA,week_9,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_9,Buffalo Bills,2015
+['Alex Carrington'],NA,week_9,Buffalo Bills,2015
+['Stefan Charles'],NA,week_9,Buffalo Bills,2015
+['Charles Clay'],NA,week_9,Buffalo Bills,2015
+['Ronald Darby'],NA,week_9,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_9,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_9,Buffalo Bills,2015
+['Marcus Easley'],NA,week_9,Buffalo Bills,2015
+['Jerome Felton'],NA,week_9,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_9,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_9,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_9,Buffalo Bills,2015
+['Corey Graham'],Probable: Groin,week_9,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_9,Buffalo Bills,2015
+['Percy Harvin'],Out: Knee,week_9,Buffalo Bills,2015
+['Seantrel Henderson'],Probable: Concussion,week_9,Buffalo Bills,2015
+['Chris Hogan'],NA,week_9,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_9,Buffalo Bills,2015
+['Richie Incognito'],NA,week_9,Buffalo Bills,2015
+['Randell Johnson'],NA,week_9,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_9,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_9,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_9,Buffalo Bills,2015
+['John Miller'],NA,week_9,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_9,Buffalo Bills,2015
+['Walt Powell'],NA,week_9,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_9,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_9,Buffalo Bills,2015
+['Tony Steward'],NA,week_9,Buffalo Bills,2015
+['A.J. Tarpley'],Probable: Concussion,week_9,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: Knee,week_9,Buffalo Bills,2015
+['Sammy Watkins'],Questionable: Ankle,week_9,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_9,Buffalo Bills,2015
+['Karlos Williams'],Probable: Concussion,week_9,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_9,Buffalo Bills,2015
+['Mario Williams'],Probable: Knee,week_9,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_9,Buffalo Bills,2015
+['Eric Wood'],NA,week_9,Buffalo Bills,2015
+['Robert Woods'],NA,week_9,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_9,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_10,Buffalo Bills,2015
+['Ron Brooks'],NA,week_10,Buffalo Bills,2015
+['Preston Brown'],NA,week_10,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_10,Buffalo Bills,2015
+['Alex Carrington'],NA,week_10,Buffalo Bills,2015
+['Stefan Charles'],NA,week_10,Buffalo Bills,2015
+['Charles Clay'],NA,week_10,Buffalo Bills,2015
+['Ronald Darby'],NA,week_10,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_10,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_10,Buffalo Bills,2015
+['Marcus Easley'],NA,week_10,Buffalo Bills,2015
+['Jerome Felton'],NA,week_10,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_10,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_10,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_10,Buffalo Bills,2015
+['Corey Graham'],NA,week_10,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_10,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_10,Buffalo Bills,2015
+['Seantrel Henderson'],Questionable: Illness,week_10,Buffalo Bills,2015
+['Chris Hogan'],NA,week_10,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_10,Buffalo Bills,2015
+['Richie Incognito'],NA,week_10,Buffalo Bills,2015
+['Randell Johnson'],NA,week_10,Buffalo Bills,2015
+['Cyrus Kouandjio'],Questionable: Knee,week_10,Buffalo Bills,2015
+['LeSean McCoy'],Probable: Shoulder,week_10,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_10,Buffalo Bills,2015
+['John Miller'],NA,week_10,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_10,Buffalo Bills,2015
+['Walt Powell'],NA,week_10,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_10,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_10,Buffalo Bills,2015
+['Tony Steward'],NA,week_10,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_10,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_10,Buffalo Bills,2015
+['Sammy Watkins'],Probable: Ankle,week_10,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_10,Buffalo Bills,2015
+['Karlos Williams'],NA,week_10,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_10,Buffalo Bills,2015
+['Mario Williams'],Probable: Calf,week_10,Buffalo Bills,2015
+['Cierre Wood'],NA,week_10,Buffalo Bills,2015
+['Eric Wood'],NA,week_10,Buffalo Bills,2015
+['Robert Woods'],NA,week_10,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_10,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_11,Buffalo Bills,2015
+['Ron Brooks'],NA,week_11,Buffalo Bills,2015
+['Preston Brown'],NA,week_11,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_11,Buffalo Bills,2015
+['Alex Carrington'],NA,week_11,Buffalo Bills,2015
+['Stefan Charles'],NA,week_11,Buffalo Bills,2015
+['Charles Clay'],NA,week_11,Buffalo Bills,2015
+['Ronald Darby'],NA,week_11,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_11,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_11,Buffalo Bills,2015
+['Marcus Easley'],NA,week_11,Buffalo Bills,2015
+['Jerome Felton'],NA,week_11,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_11,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_11,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_11,Buffalo Bills,2015
+['Corey Graham'],NA,week_11,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_11,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_11,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_11,Buffalo Bills,2015
+['Chris Hogan'],NA,week_11,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_11,Buffalo Bills,2015
+['Richie Incognito'],Questionable: Shoulder,week_11,Buffalo Bills,2015
+['Randell Johnson'],NA,week_11,Buffalo Bills,2015
+['Cyrus Kouandjio'],Probable: Knee,week_11,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_11,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_11,Buffalo Bills,2015
+['John Miller'],NA,week_11,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_11,Buffalo Bills,2015
+['Walt Powell'],NA,week_11,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_11,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_11,Buffalo Bills,2015
+['Tony Steward'],NA,week_11,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_11,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_11,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_11,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_11,Buffalo Bills,2015
+['Karlos Williams'],NA,week_11,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_11,Buffalo Bills,2015
+['Mario Williams'],NA,week_11,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_11,Buffalo Bills,2015
+['Eric Wood'],NA,week_11,Buffalo Bills,2015
+['Robert Woods'],NA,week_11,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_11,Buffalo Bills,2015
+['Nigel Bradham'],NA,week_12,Buffalo Bills,2015
+['Ron Brooks'],NA,week_12,Buffalo Bills,2015
+['Preston Brown'],NA,week_12,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_12,Buffalo Bills,2015
+['Alex Carrington'],NA,week_12,Buffalo Bills,2015
+['Stefan Charles'],NA,week_12,Buffalo Bills,2015
+['Charles Clay'],NA,week_12,Buffalo Bills,2015
+['Ronald Darby'],NA,week_12,Buffalo Bills,2015
+['Marcell Dareus'],Probable: Knee,week_12,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_12,Buffalo Bills,2015
+['Marcus Easley'],Out: Concussion,week_12,Buffalo Bills,2015
+['Jerome Felton'],NA,week_12,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_12,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_12,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_12,Buffalo Bills,2015
+['Corey Graham'],NA,week_12,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_12,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_12,Buffalo Bills,2015
+['Seantrel Henderson'],NA,week_12,Buffalo Bills,2015
+['Chris Hogan'],NA,week_12,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_12,Buffalo Bills,2015
+['Richie Incognito'],NA,week_12,Buffalo Bills,2015
+['Randell Johnson'],NA,week_12,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_12,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_12,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_12,Buffalo Bills,2015
+['John Miller'],Out: Ankle,week_12,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_12,Buffalo Bills,2015
+['Walt Powell'],NA,week_12,Buffalo Bills,2015
+['Bacarri Rambo'],Probable: Shoulder,week_12,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_12,Buffalo Bills,2015
+['Tony Steward'],NA,week_12,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_12,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: rightShoulder,week_12,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_12,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_12,Buffalo Bills,2015
+['Karlos Williams'],NA,week_12,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_12,Buffalo Bills,2015
+['Mario Williams'],Out: Foot,week_12,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_12,Buffalo Bills,2015
+['Eric Wood'],NA,week_12,Buffalo Bills,2015
+['Robert Woods'],NA,week_12,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_12,Buffalo Bills,2015
+['Nigel Bradham'],Out: Ankle,week_13,Buffalo Bills,2015
+['Ron Brooks'],NA,week_13,Buffalo Bills,2015
+['Preston Brown'],NA,week_13,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_13,Buffalo Bills,2015
+['Alex Carrington'],Injured Reserve: Quadricep,week_13,Buffalo Bills,2015
+['Stefan Charles'],NA,week_13,Buffalo Bills,2015
+['Charles Clay'],NA,week_13,Buffalo Bills,2015
+['Ronald Darby'],NA,week_13,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_13,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_13,Buffalo Bills,2015
+['Marcus Easley'],Probable: Concussion,week_13,Buffalo Bills,2015
+['Jerome Felton'],NA,week_13,Buffalo Bills,2015
+['Stephon Gilmore'],NA,week_13,Buffalo Bills,2015
+['Cordy Glenn'],Probable: Back,week_13,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_13,Buffalo Bills,2015
+['Corey Graham'],NA,week_13,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_13,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_13,Buffalo Bills,2015
+['Seantrel Henderson'],Injured Reserve: Illness,week_13,Buffalo Bills,2015
+['Chris Hogan'],NA,week_13,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_13,Buffalo Bills,2015
+['Richie Incognito'],NA,week_13,Buffalo Bills,2015
+['Randell Johnson'],NA,week_13,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_13,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_13,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_13,Buffalo Bills,2015
+['John Miller'],Out: Ankle,week_13,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_13,Buffalo Bills,2015
+['Walt Powell'],NA,week_13,Buffalo Bills,2015
+['Bacarri Rambo'],Probable: Knee,week_13,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_13,Buffalo Bills,2015
+['Tony Steward'],NA,week_13,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_13,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: rightShoulder,week_13,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_13,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_13,Buffalo Bills,2015
+['Karlos Williams'],Out: Shoulder,week_13,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_13,Buffalo Bills,2015
+['Mario Williams'],Probable: Foot,week_13,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_13,Buffalo Bills,2015
+['Eric Wood'],NA,week_13,Buffalo Bills,2015
+['Robert Woods'],NA,week_13,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_13,Buffalo Bills,2015
+['Nigel Bradham'],Out: Ankle,week_14,Buffalo Bills,2015
+['Ron Brooks'],Out: Concussion,week_14,Buffalo Bills,2015
+['Preston Brown'],NA,week_14,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_14,Buffalo Bills,2015
+['Alex Carrington'],Injured Reserve: Quadricep,week_14,Buffalo Bills,2015
+['Stefan Charles'],NA,week_14,Buffalo Bills,2015
+['Charles Clay'],Probable: Knee,week_14,Buffalo Bills,2015
+['Ronald Darby'],NA,week_14,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_14,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_14,Buffalo Bills,2015
+['Marcus Easley'],NA,week_14,Buffalo Bills,2015
+['Jerome Felton'],NA,week_14,Buffalo Bills,2015
+['Stephon Gilmore'],Injured Reserve: Shoulder,week_14,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_14,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_14,Buffalo Bills,2015
+['Corey Graham'],NA,week_14,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_14,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_14,Buffalo Bills,2015
+['Seantrel Henderson'],Injured Reserve: Illness,week_14,Buffalo Bills,2015
+['Chris Hogan'],Probable: Knee,week_14,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_14,Buffalo Bills,2015
+['Richie Incognito'],NA,week_14,Buffalo Bills,2015
+['Randell Johnson'],NA,week_14,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_14,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_14,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_14,Buffalo Bills,2015
+['John Miller'],Questionable: Ankle,week_14,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_14,Buffalo Bills,2015
+['Walt Powell'],NA,week_14,Buffalo Bills,2015
+['Bacarri Rambo'],NA,week_14,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_14,Buffalo Bills,2015
+['Tony Steward'],Injured Reserve: Back,week_14,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_14,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_14,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_14,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_14,Buffalo Bills,2015
+['Karlos Williams'],Out: Shoulder,week_14,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_14,Buffalo Bills,2015
+['Mario Williams'],Probable: Hand,week_14,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_14,Buffalo Bills,2015
+['Eric Wood'],NA,week_14,Buffalo Bills,2015
+['Robert Woods'],NA,week_14,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_14,Buffalo Bills,2015
+['Nigel Bradham'],Out: Ankle,week_15,Buffalo Bills,2015
+['Ron Brooks'],Out: Concussion,week_15,Buffalo Bills,2015
+['Preston Brown'],Probable: Hamstring,week_15,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_15,Buffalo Bills,2015
+['Alex Carrington'],Injured Reserve: Quadricep,week_15,Buffalo Bills,2015
+['Stefan Charles'],NA,week_15,Buffalo Bills,2015
+['Charles Clay'],Injured Reserve: Back,week_15,Buffalo Bills,2015
+['Ronald Darby'],NA,week_15,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_15,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_15,Buffalo Bills,2015
+['Marcus Easley'],NA,week_15,Buffalo Bills,2015
+['Jerome Felton'],Probable: Back,week_15,Buffalo Bills,2015
+['Stephon Gilmore'],Injured Reserve: Shoulder,week_15,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_15,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_15,Buffalo Bills,2015
+['Corey Graham'],NA,week_15,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_15,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_15,Buffalo Bills,2015
+['Seantrel Henderson'],Injured Reserve: Illness,week_15,Buffalo Bills,2015
+['Chris Hogan'],NA,week_15,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_15,Buffalo Bills,2015
+['Richie Incognito'],NA,week_15,Buffalo Bills,2015
+['Randell Johnson'],NA,week_15,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_15,Buffalo Bills,2015
+['LeSean McCoy'],NA,week_15,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_15,Buffalo Bills,2015
+['John Miller'],Probable: Ankle,week_15,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_15,Buffalo Bills,2015
+['Walt Powell'],NA,week_15,Buffalo Bills,2015
+['Bacarri Rambo'],Questionable: Knee,week_15,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_15,Buffalo Bills,2015
+['Tony Steward'],Injured Reserve: Back,week_15,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_15,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_15,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_15,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_15,Buffalo Bills,2015
+['Karlos Williams'],Questionable: Shoulder,week_15,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_15,Buffalo Bills,2015
+['Mario Williams'],Questionable: Illness,week_15,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_15,Buffalo Bills,2015
+['Eric Wood'],NA,week_15,Buffalo Bills,2015
+['Robert Woods'],Probable: Hip,week_15,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_15,Buffalo Bills,2015
+['Nigel Bradham'],Out: Ankle,week_16,Buffalo Bills,2015
+['Ron Brooks'],Probable: Neck,week_16,Buffalo Bills,2015
+['Preston Brown'],NA,week_16,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_16,Buffalo Bills,2015
+['Alex Carrington'],Injured Reserve: Quadricep,week_16,Buffalo Bills,2015
+['Stefan Charles'],Probable: Shoulder,week_16,Buffalo Bills,2015
+['Charles Clay'],Injured Reserve: Back,week_16,Buffalo Bills,2015
+['Ronald Darby'],Questionable: Groin,week_16,Buffalo Bills,2015
+['Marcell Dareus'],NA,week_16,Buffalo Bills,2015
+['Anthony Dixon'],Probable: Knee,week_16,Buffalo Bills,2015
+['Marcus Easley'],NA,week_16,Buffalo Bills,2015
+['Jerome Felton'],NA,week_16,Buffalo Bills,2015
+['Stephon Gilmore'],Injured Reserve: Shoulder,week_16,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_16,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_16,Buffalo Bills,2015
+['Corey Graham'],NA,week_16,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_16,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_16,Buffalo Bills,2015
+['Seantrel Henderson'],Injured Reserve: Illness,week_16,Buffalo Bills,2015
+['Chris Hogan'],NA,week_16,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_16,Buffalo Bills,2015
+['Richie Incognito'],NA,week_16,Buffalo Bills,2015
+['Randell Johnson'],Injured Reserve: Ankle,week_16,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_16,Buffalo Bills,2015
+['LeSean McCoy'],Out: Knee,week_16,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_16,Buffalo Bills,2015
+['John Miller'],Probable: Ankle,week_16,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_16,Buffalo Bills,2015
+['Walt Powell'],Probable: Hip,week_16,Buffalo Bills,2015
+['Bacarri Rambo'],Probable: Knee,week_16,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_16,Buffalo Bills,2015
+['Tony Steward'],Injured Reserve: Back,week_16,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_16,Buffalo Bills,2015
+['Tyrod Taylor'],NA,week_16,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_16,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_16,Buffalo Bills,2015
+['Karlos Williams'],Probable: Shoulder,week_16,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_16,Buffalo Bills,2015
+['Mario Williams'],Probable: Hand,week_16,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_16,Buffalo Bills,2015
+['Eric Wood'],Probable: Shoulder,week_16,Buffalo Bills,2015
+['Robert Woods'],Injured Reserve: Groin,week_16,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_16,Buffalo Bills,2015
+['Nigel Bradham'],Out: Ankle,week_17,Buffalo Bills,2015
+['Ron Brooks'],Injured Reserve: Groin,week_17,Buffalo Bills,2015
+['Preston Brown'],NA,week_17,Buffalo Bills,2015
+['Dan Carpenter'],NA,week_17,Buffalo Bills,2015
+['Alex Carrington'],Injured Reserve: Quadricep,week_17,Buffalo Bills,2015
+['Stefan Charles'],NA,week_17,Buffalo Bills,2015
+['Charles Clay'],Injured Reserve: Back,week_17,Buffalo Bills,2015
+['Ronald Darby'],Probable: Groin,week_17,Buffalo Bills,2015
+['Marcell Dareus'],Probable: Neck,week_17,Buffalo Bills,2015
+['Anthony Dixon'],NA,week_17,Buffalo Bills,2015
+['Marcus Easley'],NA,week_17,Buffalo Bills,2015
+['Jerome Felton'],NA,week_17,Buffalo Bills,2015
+['Stephon Gilmore'],Injured Reserve: Shoulder,week_17,Buffalo Bills,2015
+['Cordy Glenn'],NA,week_17,Buffalo Bills,2015
+['Marquise Goodwin'],Injured Reserve: Ribs,week_17,Buffalo Bills,2015
+['Corey Graham'],NA,week_17,Buffalo Bills,2015
+['MarQueis Gray'],Injured Reserve: Arm,week_17,Buffalo Bills,2015
+['Percy Harvin'],Injured Reserve: Hip,week_17,Buffalo Bills,2015
+['Seantrel Henderson'],Injured Reserve: Illness,week_17,Buffalo Bills,2015
+['Chris Hogan'],Probable: Wrist,week_17,Buffalo Bills,2015
+['Jerry Hughes'],NA,week_17,Buffalo Bills,2015
+['Richie Incognito'],NA,week_17,Buffalo Bills,2015
+['Randell Johnson'],Injured Reserve: Ankle,week_17,Buffalo Bills,2015
+['Cyrus Kouandjio'],NA,week_17,Buffalo Bills,2015
+['LeSean McCoy'],Out: Knee,week_17,Buffalo Bills,2015
+['Leodis McKelvin'],NA,week_17,Buffalo Bills,2015
+['John Miller'],Probable: Ankle,week_17,Buffalo Bills,2015
+['Ty Powell'],Injured Reserve: Knee,week_17,Buffalo Bills,2015
+['Walt Powell'],NA,week_17,Buffalo Bills,2015
+['Bacarri Rambo'],Probable: Knee,week_17,Buffalo Bills,2015
+['Colton Schmidt'],NA,week_17,Buffalo Bills,2015
+['Tony Steward'],Injured Reserve: Back,week_17,Buffalo Bills,2015
+['A.J. Tarpley'],NA,week_17,Buffalo Bills,2015
+['Tyrod Taylor'],Probable: rightShoulder,week_17,Buffalo Bills,2015
+['Sammy Watkins'],NA,week_17,Buffalo Bills,2015
+['Aaron Williams'],Injured Reserve: Neck,week_17,Buffalo Bills,2015
+['Karlos Williams'],NA,week_17,Buffalo Bills,2015
+['Kyle Williams'],Injured Reserve: Leg,week_17,Buffalo Bills,2015
+['Mario Williams'],Probable: Hand,week_17,Buffalo Bills,2015
+['Cierre Wood'],Injured Reserve: Knee,week_17,Buffalo Bills,2015
+['Eric Wood'],NA,week_17,Buffalo Bills,2015
+['Robert Woods'],Injured Reserve: Groin,week_17,Buffalo Bills,2015
+['Jarius Wynn'],Injured Reserve: Knee,week_17,Buffalo Bills,2015

@@ -1,0 +1,817 @@
+﻿name,injury,week,team,year
+['Johnson Bademosi'],NA,week_1,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_1,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_1,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_1,Cleveland Browns,2015
+['Dwayne Bowe'],Questionable: Hamstring,week_1,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_1,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_1,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_1,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_1,Cleveland Browns,2015
+['Tank Carder'],NA,week_1,Cleveland Browns,2015
+['Travis Coons'],NA,week_1,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_1,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_1,Cleveland Browns,2015
+['Pierre Desir'],Probable: Concussion,week_1,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_1,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_1,Cleveland Browns,2015
+['Cameron Erving'],NA,week_1,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_1,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_1,Cleveland Browns,2015
+['Justin Gilbert'],Questionable: Hip,week_1,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_1,Cleveland Browns,2015
+['John Greco'],NA,week_1,Cleveland Browns,2015
+['Joe Haden'],Probable: Hip,week_1,Cleveland Browns,2015
+['Brian Hartline'],NA,week_1,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_1,Cleveland Browns,2015
+['Rob Housler'],NA,week_1,Cleveland Browns,2015
+['John Hughes'],NA,week_1,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_1,Cleveland Browns,2015
+['Christian Kirksey'],Probable: Groin,week_1,Cleveland Browns,2015
+['Paul Kruger'],NA,week_1,Cleveland Browns,2015
+['Alex Mack'],NA,week_1,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_1,Cleveland Browns,2015
+['Josh McCown'],NA,week_1,Cleveland Browns,2015
+['Barkevious Mingo'],Questionable: Knee,week_1,Cleveland Browns,2015
+['Marlon Moore'],Probable: Rib,week_1,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_1,Cleveland Browns,2015
+['Nate Orchard'],Questionable: Back,week_1,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_1,Cleveland Browns,2015
+['Craig Robertson'],NA,week_1,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_1,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_1,Cleveland Browns,2015
+['Danny Shelton'],NA,week_1,Cleveland Browns,2015
+['Scott Solomon'],NA,week_1,Cleveland Browns,2015
+['Randy Starks'],NA,week_1,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_1,Cleveland Browns,2015
+['Joe Thomas'],NA,week_1,Cleveland Browns,2015
+['Robert Turbin'],Out: Ankle,week_1,Cleveland Browns,2015
+['Donte Whitner'],NA,week_1,Cleveland Browns,2015
+"[""K'Waun Williams""]",Questionable: Abdomen,week_1,Cleveland Browns,2015
+['Tramon Williams'],NA,week_1,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_1,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_2,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_2,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_2,Cleveland Browns,2015
+['Joel Bitonio'],Probable: Knee,week_2,Cleveland Browns,2015
+['Dwayne Bowe'],Questionable: Hamstring,week_2,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_2,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_2,Cleveland Browns,2015
+['Desmond Bryant'],Questionable: Shoulder,week_2,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_2,Cleveland Browns,2015
+['Tank Carder'],NA,week_2,Cleveland Browns,2015
+['Travis Coons'],NA,week_2,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_2,Cleveland Browns,2015
+['Karlos Dansby'],Questionable: Foot,week_2,Cleveland Browns,2015
+['Pierre Desir'],NA,week_2,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_2,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_2,Cleveland Browns,2015
+['Cameron Erving'],NA,week_2,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_2,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_2,Cleveland Browns,2015
+['Justin Gilbert'],Questionable: Hip,week_2,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_2,Cleveland Browns,2015
+['John Greco'],NA,week_2,Cleveland Browns,2015
+['Joe Haden'],NA,week_2,Cleveland Browns,2015
+['Brian Hartline'],NA,week_2,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_2,Cleveland Browns,2015
+['Rob Housler'],NA,week_2,Cleveland Browns,2015
+['John Hughes'],NA,week_2,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_2,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_2,Cleveland Browns,2015
+['Paul Kruger'],NA,week_2,Cleveland Browns,2015
+['Alex Mack'],NA,week_2,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_2,Cleveland Browns,2015
+['Josh McCown'],Out: Concussion,week_2,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_2,Cleveland Browns,2015
+['Marlon Moore'],NA,week_2,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_2,Cleveland Browns,2015
+['Nate Orchard'],Probable: Back,week_2,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_2,Cleveland Browns,2015
+['Craig Robertson'],NA,week_2,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_2,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_2,Cleveland Browns,2015
+['Danny Shelton'],NA,week_2,Cleveland Browns,2015
+['Scott Solomon'],Out: Ankle,week_2,Cleveland Browns,2015
+['Randy Starks'],NA,week_2,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_2,Cleveland Browns,2015
+['Joe Thomas'],NA,week_2,Cleveland Browns,2015
+['Robert Turbin'],Out: Ankle,week_2,Cleveland Browns,2015
+['Donte Whitner'],NA,week_2,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_2,Cleveland Browns,2015
+['Tramon Williams'],NA,week_2,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_2,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_3,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_3,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_3,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_3,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_3,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_3,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_3,Cleveland Browns,2015
+['Desmond Bryant'],Questionable: Shoulder,week_3,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_3,Cleveland Browns,2015
+['Tank Carder'],NA,week_3,Cleveland Browns,2015
+['Travis Coons'],NA,week_3,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_3,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_3,Cleveland Browns,2015
+['Pierre Desir'],NA,week_3,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_3,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_3,Cleveland Browns,2015
+['Cameron Erving'],NA,week_3,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_3,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_3,Cleveland Browns,2015
+['Justin Gilbert'],Questionable: Hamstring,week_3,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_3,Cleveland Browns,2015
+['John Greco'],NA,week_3,Cleveland Browns,2015
+['Joe Haden'],NA,week_3,Cleveland Browns,2015
+['Brian Hartline'],NA,week_3,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_3,Cleveland Browns,2015
+['Rob Housler'],NA,week_3,Cleveland Browns,2015
+['John Hughes'],NA,week_3,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_3,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_3,Cleveland Browns,2015
+['Paul Kruger'],NA,week_3,Cleveland Browns,2015
+['Alex Mack'],NA,week_3,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_3,Cleveland Browns,2015
+['Josh McCown'],Probable: Concussion,week_3,Cleveland Browns,2015
+['Barkevious Mingo'],Probable: Knee,week_3,Cleveland Browns,2015
+['Marlon Moore'],NA,week_3,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_3,Cleveland Browns,2015
+['Nate Orchard'],NA,week_3,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_3,Cleveland Browns,2015
+['Craig Robertson'],NA,week_3,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_3,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_3,Cleveland Browns,2015
+['Danny Shelton'],NA,week_3,Cleveland Browns,2015
+['Scott Solomon'],Out: Ankle,week_3,Cleveland Browns,2015
+['Randy Starks'],NA,week_3,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_3,Cleveland Browns,2015
+['Joe Thomas'],NA,week_3,Cleveland Browns,2015
+['Robert Turbin'],Out: Ankle,week_3,Cleveland Browns,2015
+['Donte Whitner'],NA,week_3,Cleveland Browns,2015
+"[""K'Waun Williams""]",Out: Concussion,week_3,Cleveland Browns,2015
+['Tramon Williams'],NA,week_3,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_3,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_4,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_4,Cleveland Browns,2015
+['Travis Benjamin'],Probable: Ribs,week_4,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_4,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_4,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_4,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_4,Cleveland Browns,2015
+['Desmond Bryant'],Out: Shoulder,week_4,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_4,Cleveland Browns,2015
+['Tank Carder'],NA,week_4,Cleveland Browns,2015
+['Travis Coons'],NA,week_4,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_4,Cleveland Browns,2015
+['Karlos Dansby'],Probable: Ankle,week_4,Cleveland Browns,2015
+['Pierre Desir'],NA,week_4,Cleveland Browns,2015
+['Shaun Draughn'],Questionable: Back,week_4,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_4,Cleveland Browns,2015
+['Cameron Erving'],NA,week_4,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_4,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_4,Cleveland Browns,2015
+['Justin Gilbert'],Probable: Hamstring,week_4,Cleveland Browns,2015
+['Tashaun Gipson'],Questionable: Groin,week_4,Cleveland Browns,2015
+['John Greco'],NA,week_4,Cleveland Browns,2015
+['Joe Haden'],Probable: Ribs,week_4,Cleveland Browns,2015
+['Brian Hartline'],NA,week_4,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_4,Cleveland Browns,2015
+['Rob Housler'],NA,week_4,Cleveland Browns,2015
+['John Hughes'],NA,week_4,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_4,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_4,Cleveland Browns,2015
+['Paul Kruger'],NA,week_4,Cleveland Browns,2015
+['Alex Mack'],NA,week_4,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_4,Cleveland Browns,2015
+['Josh McCown'],Probable: rightHand,week_4,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_4,Cleveland Browns,2015
+['Marlon Moore'],NA,week_4,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_4,Cleveland Browns,2015
+['Nate Orchard'],NA,week_4,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_4,Cleveland Browns,2015
+['Craig Robertson'],Out: Ankle,week_4,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_4,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_4,Cleveland Browns,2015
+['Danny Shelton'],NA,week_4,Cleveland Browns,2015
+['Scott Solomon'],Out: Ankle,week_4,Cleveland Browns,2015
+['Randy Starks'],NA,week_4,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_4,Cleveland Browns,2015
+['Joe Thomas'],NA,week_4,Cleveland Browns,2015
+['Robert Turbin'],Out: Ankle,week_4,Cleveland Browns,2015
+['Donte Whitner'],NA,week_4,Cleveland Browns,2015
+"[""K'Waun Williams""]",Out: Concussion,week_4,Cleveland Browns,2015
+['Tramon Williams'],NA,week_4,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_4,Cleveland Browns,2015
+['Johnson Bademosi'],Probable: Elbow,week_5,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_5,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_5,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_5,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_5,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_5,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_5,Cleveland Browns,2015
+['Desmond Bryant'],Questionable: Shoulder,week_5,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_5,Cleveland Browns,2015
+['Tank Carder'],NA,week_5,Cleveland Browns,2015
+['Travis Coons'],NA,week_5,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_5,Cleveland Browns,2015
+['Karlos Dansby'],Questionable: Ankle,week_5,Cleveland Browns,2015
+['Pierre Desir'],NA,week_5,Cleveland Browns,2015
+['Shaun Draughn'],Doubtful: Back,week_5,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_5,Cleveland Browns,2015
+['Cameron Erving'],NA,week_5,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_5,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_5,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_5,Cleveland Browns,2015
+['Tashaun Gipson'],Out: Ankle,week_5,Cleveland Browns,2015
+['John Greco'],NA,week_5,Cleveland Browns,2015
+['Joe Haden'],Questionable: Finger,week_5,Cleveland Browns,2015
+['Brian Hartline'],Questionable: Thigh,week_5,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_5,Cleveland Browns,2015
+['Rob Housler'],NA,week_5,Cleveland Browns,2015
+['John Hughes'],NA,week_5,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_5,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_5,Cleveland Browns,2015
+['Paul Kruger'],NA,week_5,Cleveland Browns,2015
+['Alex Mack'],NA,week_5,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_5,Cleveland Browns,2015
+['Josh McCown'],NA,week_5,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_5,Cleveland Browns,2015
+['Marlon Moore'],NA,week_5,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_5,Cleveland Browns,2015
+['Nate Orchard'],NA,week_5,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_5,Cleveland Browns,2015
+['Craig Robertson'],Out: Ankle,week_5,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_5,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_5,Cleveland Browns,2015
+['Danny Shelton'],NA,week_5,Cleveland Browns,2015
+['Scott Solomon'],Questionable: Ankle,week_5,Cleveland Browns,2015
+['Randy Starks'],NA,week_5,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_5,Cleveland Browns,2015
+['Joe Thomas'],NA,week_5,Cleveland Browns,2015
+['Robert Turbin'],Questionable: Ankle,week_5,Cleveland Browns,2015
+['Donte Whitner'],Probable: Illness,week_5,Cleveland Browns,2015
+"[""K'Waun Williams""]",Probable: Concussion,week_5,Cleveland Browns,2015
+['Tramon Williams'],NA,week_5,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_5,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_6,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_6,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_6,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_6,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_6,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_6,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_6,Cleveland Browns,2015
+['Desmond Bryant'],Questionable: Shoulder,week_6,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_6,Cleveland Browns,2015
+['Tank Carder'],NA,week_6,Cleveland Browns,2015
+['Travis Coons'],NA,week_6,Cleveland Browns,2015
+['Isaiah Crowell'],Questionable: Toe,week_6,Cleveland Browns,2015
+['Karlos Dansby'],Questionable: Ankle,week_6,Cleveland Browns,2015
+['Pierre Desir'],NA,week_6,Cleveland Browns,2015
+['Shaun Draughn'],Questionable: Back,week_6,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_6,Cleveland Browns,2015
+['Cameron Erving'],NA,week_6,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_6,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_6,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_6,Cleveland Browns,2015
+['Tashaun Gipson'],Out: Ankle,week_6,Cleveland Browns,2015
+['John Greco'],NA,week_6,Cleveland Browns,2015
+['Joe Haden'],Out: Concussion,week_6,Cleveland Browns,2015
+['Brian Hartline'],Probable: Thigh,week_6,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_6,Cleveland Browns,2015
+['Rob Housler'],NA,week_6,Cleveland Browns,2015
+['John Hughes'],NA,week_6,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_6,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_6,Cleveland Browns,2015
+['Paul Kruger'],NA,week_6,Cleveland Browns,2015
+['Alex Mack'],NA,week_6,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_6,Cleveland Browns,2015
+['Josh McCown'],Probable: Ankle,week_6,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_6,Cleveland Browns,2015
+['Marlon Moore'],Questionable: Hamstring,week_6,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_6,Cleveland Browns,2015
+['Nate Orchard'],NA,week_6,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_6,Cleveland Browns,2015
+['Craig Robertson'],Out: Ankle,week_6,Cleveland Browns,2015
+['Mitchell Schwartz'],Probable: Thumb,week_6,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_6,Cleveland Browns,2015
+['Danny Shelton'],NA,week_6,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_6,Cleveland Browns,2015
+['Randy Starks'],NA,week_6,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_6,Cleveland Browns,2015
+['Joe Thomas'],NA,week_6,Cleveland Browns,2015
+['Robert Turbin'],Questionable: Ankle,week_6,Cleveland Browns,2015
+['Donte Whitner'],NA,week_6,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_6,Cleveland Browns,2015
+['Tramon Williams'],NA,week_6,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_6,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_7,Cleveland Browns,2015
+['Gary Barnidge'],Probable: Ankle,week_7,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_7,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_7,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_7,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_7,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_7,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_7,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_7,Cleveland Browns,2015
+['Tank Carder'],Questionable: Shoulder,week_7,Cleveland Browns,2015
+['Travis Coons'],NA,week_7,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_7,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_7,Cleveland Browns,2015
+['Pierre Desir'],NA,week_7,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_7,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_7,Cleveland Browns,2015
+['Cameron Erving'],NA,week_7,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_7,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_7,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_7,Cleveland Browns,2015
+['Tashaun Gipson'],Doubtful: Ankle,week_7,Cleveland Browns,2015
+['John Greco'],NA,week_7,Cleveland Browns,2015
+['Joe Haden'],Out: Concussion,week_7,Cleveland Browns,2015
+['Brian Hartline'],NA,week_7,Cleveland Browns,2015
+['Andrew Hawkins'],NA,week_7,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_7,Cleveland Browns,2015
+['John Hughes'],Questionable: Knee,week_7,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_7,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_7,Cleveland Browns,2015
+['Paul Kruger'],NA,week_7,Cleveland Browns,2015
+['Alex Mack'],NA,week_7,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_7,Cleveland Browns,2015
+['Josh McCown'],NA,week_7,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_7,Cleveland Browns,2015
+['Marlon Moore'],Questionable: Hamstring,week_7,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_7,Cleveland Browns,2015
+['Nate Orchard'],Probable: Groin,week_7,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_7,Cleveland Browns,2015
+['Craig Robertson'],Questionable: Ankle,week_7,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_7,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_7,Cleveland Browns,2015
+['Danny Shelton'],Questionable: Knee,week_7,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_7,Cleveland Browns,2015
+['Randy Starks'],NA,week_7,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_7,Cleveland Browns,2015
+['Joe Thomas'],NA,week_7,Cleveland Browns,2015
+['Robert Turbin'],NA,week_7,Cleveland Browns,2015
+['Donte Whitner'],NA,week_7,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_7,Cleveland Browns,2015
+['Tramon Williams'],NA,week_7,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_7,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_8,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_8,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_8,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_8,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_8,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_8,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_8,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_8,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_8,Cleveland Browns,2015
+['Tank Carder'],NA,week_8,Cleveland Browns,2015
+['Travis Coons'],NA,week_8,Cleveland Browns,2015
+['Isaiah Crowell'],Probable: Ribs,week_8,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_8,Cleveland Browns,2015
+['Pierre Desir'],NA,week_8,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_8,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_8,Cleveland Browns,2015
+['Cameron Erving'],NA,week_8,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_8,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_8,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_8,Cleveland Browns,2015
+['Tashaun Gipson'],Questionable: Ankle,week_8,Cleveland Browns,2015
+['John Greco'],NA,week_8,Cleveland Browns,2015
+['Joe Haden'],Probable: Concussion,week_8,Cleveland Browns,2015
+['Brian Hartline'],NA,week_8,Cleveland Browns,2015
+['Andrew Hawkins'],Out: Concussion,week_8,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_8,Cleveland Browns,2015
+['John Hughes'],Probable: Knee,week_8,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_8,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_8,Cleveland Browns,2015
+['Paul Kruger'],Probable: Illness,week_8,Cleveland Browns,2015
+['Alex Mack'],NA,week_8,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_8,Cleveland Browns,2015
+['Josh McCown'],Questionable: rightShoulder,week_8,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_8,Cleveland Browns,2015
+['Marlon Moore'],Probable: Hamstring,week_8,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_8,Cleveland Browns,2015
+['Nate Orchard'],NA,week_8,Cleveland Browns,2015
+['Jordan Poyer'],Out: Shoulder,week_8,Cleveland Browns,2015
+['Craig Robertson'],Questionable: Ankle,week_8,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_8,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_8,Cleveland Browns,2015
+['Danny Shelton'],NA,week_8,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_8,Cleveland Browns,2015
+['Randy Starks'],NA,week_8,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_8,Cleveland Browns,2015
+['Joe Thomas'],NA,week_8,Cleveland Browns,2015
+['Robert Turbin'],NA,week_8,Cleveland Browns,2015
+['Donte Whitner'],NA,week_8,Cleveland Browns,2015
+"[""K'Waun Williams""]",Probable: Hamstring,week_8,Cleveland Browns,2015
+['Tramon Williams'],NA,week_8,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_8,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_9,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_9,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_9,Cleveland Browns,2015
+['Joel Bitonio'],NA,week_9,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_9,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_9,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_9,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_9,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_9,Cleveland Browns,2015
+['Tank Carder'],NA,week_9,Cleveland Browns,2015
+['Travis Coons'],NA,week_9,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_9,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_9,Cleveland Browns,2015
+['Pierre Desir'],NA,week_9,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_9,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_9,Cleveland Browns,2015
+['Cameron Erving'],NA,week_9,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_9,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_9,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_9,Cleveland Browns,2015
+['Tashaun Gipson'],Questionable: Ankle,week_9,Cleveland Browns,2015
+['John Greco'],NA,week_9,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_9,Cleveland Browns,2015
+['Brian Hartline'],Out: Concussion,week_9,Cleveland Browns,2015
+['Andrew Hawkins'],Out: Concussion,week_9,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_9,Cleveland Browns,2015
+['John Hughes'],NA,week_9,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_9,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_9,Cleveland Browns,2015
+['Paul Kruger'],NA,week_9,Cleveland Browns,2015
+['Alex Mack'],NA,week_9,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_9,Cleveland Browns,2015
+['Josh McCown'],Out: rightShoulder,week_9,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_9,Cleveland Browns,2015
+['Marlon Moore'],NA,week_9,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_9,Cleveland Browns,2015
+['Nate Orchard'],Questionable: Shoulder,week_9,Cleveland Browns,2015
+['Jordan Poyer'],Out: Shoulder,week_9,Cleveland Browns,2015
+['Craig Robertson'],Questionable: Ankle,week_9,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_9,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_9,Cleveland Browns,2015
+['Danny Shelton'],NA,week_9,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_9,Cleveland Browns,2015
+['Randy Starks'],NA,week_9,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_9,Cleveland Browns,2015
+['Joe Thomas'],NA,week_9,Cleveland Browns,2015
+['Robert Turbin'],NA,week_9,Cleveland Browns,2015
+['Donte Whitner'],Out: Concussion,week_9,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_9,Cleveland Browns,2015
+['Tramon Williams'],NA,week_9,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_9,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_10,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_10,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_10,Cleveland Browns,2015
+['Joel Bitonio'],Out: Ankle,week_10,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_10,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_10,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_10,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_10,Cleveland Browns,2015
+['Ibraheim Campbell'],Questionable: Hamstring,week_10,Cleveland Browns,2015
+['Tank Carder'],NA,week_10,Cleveland Browns,2015
+['Travis Coons'],NA,week_10,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_10,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_10,Cleveland Browns,2015
+['Pierre Desir'],NA,week_10,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_10,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_10,Cleveland Browns,2015
+['Cameron Erving'],NA,week_10,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_10,Cleveland Browns,2015
+['Charles Gaines'],NA,week_10,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_10,Cleveland Browns,2015
+['Tashaun Gipson'],Questionable: Illness,week_10,Cleveland Browns,2015
+['John Greco'],NA,week_10,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_10,Cleveland Browns,2015
+['Brian Hartline'],Probable: Concussion,week_10,Cleveland Browns,2015
+['Andrew Hawkins'],Probable: Concussion,week_10,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_10,Cleveland Browns,2015
+['John Hughes'],NA,week_10,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_10,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_10,Cleveland Browns,2015
+['Paul Kruger'],NA,week_10,Cleveland Browns,2015
+['Alex Mack'],NA,week_10,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_10,Cleveland Browns,2015
+['Josh McCown'],Questionable: Ribs,week_10,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_10,Cleveland Browns,2015
+['Marlon Moore'],NA,week_10,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_10,Cleveland Browns,2015
+['Nate Orchard'],NA,week_10,Cleveland Browns,2015
+['Jordan Poyer'],Questionable: Shoulder,week_10,Cleveland Browns,2015
+['Craig Robertson'],NA,week_10,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_10,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_10,Cleveland Browns,2015
+['Danny Shelton'],NA,week_10,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_10,Cleveland Browns,2015
+['Randy Starks'],NA,week_10,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_10,Cleveland Browns,2015
+['Joe Thomas'],NA,week_10,Cleveland Browns,2015
+['Robert Turbin'],NA,week_10,Cleveland Browns,2015
+['Donte Whitner'],Out: Concussion,week_10,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_10,Cleveland Browns,2015
+['Tramon Williams'],NA,week_10,Cleveland Browns,2015
+['Glenn Winston'],NA,week_10,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_12,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_12,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_12,Cleveland Browns,2015
+['Joel Bitonio'],Questionable: Ankle,week_12,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_12,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_12,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_12,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_12,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_12,Cleveland Browns,2015
+['Tank Carder'],NA,week_12,Cleveland Browns,2015
+['Travis Coons'],NA,week_12,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_12,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_12,Cleveland Browns,2015
+['Pierre Desir'],NA,week_12,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_12,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_12,Cleveland Browns,2015
+['Cameron Erving'],NA,week_12,Cleveland Browns,2015
+['Taylor Gabriel'],Out: Concussion,week_12,Cleveland Browns,2015
+['Charles Gaines'],NA,week_12,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_12,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_12,Cleveland Browns,2015
+['John Greco'],NA,week_12,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_12,Cleveland Browns,2015
+['Brian Hartline'],NA,week_12,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_12,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_12,Cleveland Browns,2015
+['John Hughes'],NA,week_12,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_12,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_12,Cleveland Browns,2015
+['Paul Kruger'],NA,week_12,Cleveland Browns,2015
+['Alex Mack'],NA,week_12,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_12,Cleveland Browns,2015
+['Josh McCown'],Probable: Ribs,week_12,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_12,Cleveland Browns,2015
+['Marlon Moore'],NA,week_12,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_12,Cleveland Browns,2015
+['Nate Orchard'],Questionable: Groin,week_12,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_12,Cleveland Browns,2015
+['Craig Robertson'],NA,week_12,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_12,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_12,Cleveland Browns,2015
+['Danny Shelton'],NA,week_12,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_12,Cleveland Browns,2015
+['Randy Starks'],Out: Knee,week_12,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_12,Cleveland Browns,2015
+['Joe Thomas'],NA,week_12,Cleveland Browns,2015
+['Robert Turbin'],NA,week_12,Cleveland Browns,2015
+['Donte Whitner'],Probable: Concussion,week_12,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_12,Cleveland Browns,2015
+['Tramon Williams'],NA,week_12,Cleveland Browns,2015
+['Glenn Winston'],NA,week_12,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_13,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_13,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_13,Cleveland Browns,2015
+['Joel Bitonio'],Questionable: Ankle,week_13,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_13,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_13,Cleveland Browns,2015
+['Armonty Bryant'],Probable: Elbow,week_13,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_13,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_13,Cleveland Browns,2015
+['Tank Carder'],NA,week_13,Cleveland Browns,2015
+['Travis Coons'],NA,week_13,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_13,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_13,Cleveland Browns,2015
+['Pierre Desir'],NA,week_13,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_13,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_13,Cleveland Browns,2015
+['Cameron Erving'],NA,week_13,Cleveland Browns,2015
+['Taylor Gabriel'],Out: Concussion,week_13,Cleveland Browns,2015
+['Charles Gaines'],NA,week_13,Cleveland Browns,2015
+['Justin Gilbert'],Out: Concussion,week_13,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_13,Cleveland Browns,2015
+['John Greco'],NA,week_13,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_13,Cleveland Browns,2015
+['Brian Hartline'],NA,week_13,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_13,Cleveland Browns,2015
+['Rob Housler'],Injured Reserve: Hamstring,week_13,Cleveland Browns,2015
+['John Hughes'],NA,week_13,Cleveland Browns,2015
+['Malcolm Johnson'],NA,week_13,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_13,Cleveland Browns,2015
+['Paul Kruger'],NA,week_13,Cleveland Browns,2015
+['Alex Mack'],NA,week_13,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_13,Cleveland Browns,2015
+['Josh McCown'],Injured Reserve: Collarbone,week_13,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_13,Cleveland Browns,2015
+['Marlon Moore'],NA,week_13,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_13,Cleveland Browns,2015
+['Nate Orchard'],Questionable: Groin,week_13,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_13,Cleveland Browns,2015
+['Craig Robertson'],NA,week_13,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_13,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_13,Cleveland Browns,2015
+['Danny Shelton'],NA,week_13,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_13,Cleveland Browns,2015
+['Randy Starks'],Questionable: Knee,week_13,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_13,Cleveland Browns,2015
+['Joe Thomas'],NA,week_13,Cleveland Browns,2015
+['Robert Turbin'],NA,week_13,Cleveland Browns,2015
+['Donte Whitner'],NA,week_13,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_13,Cleveland Browns,2015
+['Tramon Williams'],NA,week_13,Cleveland Browns,2015
+['Glenn Winston'],Injured Reserve: Knee,week_13,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_14,Cleveland Browns,2015
+['Gary Barnidge'],Questionable: Ankle,week_14,Cleveland Browns,2015
+['Travis Benjamin'],Questionable: Shoulder,week_14,Cleveland Browns,2015
+['Joel Bitonio'],Injured Reserve: Ankle,week_14,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_14,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_14,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_14,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_14,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_14,Cleveland Browns,2015
+['Tank Carder'],NA,week_14,Cleveland Browns,2015
+['Travis Coons'],NA,week_14,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_14,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_14,Cleveland Browns,2015
+['Pierre Desir'],NA,week_14,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_14,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_14,Cleveland Browns,2015
+['Cameron Erving'],Probable: Ankle,week_14,Cleveland Browns,2015
+['Taylor Gabriel'],Questionable: Concussion,week_14,Cleveland Browns,2015
+['Charles Gaines'],NA,week_14,Cleveland Browns,2015
+['Justin Gilbert'],Out: Concussion,week_14,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_14,Cleveland Browns,2015
+['John Greco'],NA,week_14,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_14,Cleveland Browns,2015
+['Brian Hartline'],Questionable: Hip,week_14,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_14,Cleveland Browns,2015
+['Rob Housler'],NA,week_14,Cleveland Browns,2015
+['John Hughes'],NA,week_14,Cleveland Browns,2015
+['Malcolm Johnson'],Injured Reserve: Groin,week_14,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_14,Cleveland Browns,2015
+['Paul Kruger'],NA,week_14,Cleveland Browns,2015
+['Alex Mack'],NA,week_14,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_14,Cleveland Browns,2015
+['Josh McCown'],Injured Reserve: Collarbone,week_14,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_14,Cleveland Browns,2015
+['Marlon Moore'],Questionable: Ribs,week_14,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_14,Cleveland Browns,2015
+['Nate Orchard'],NA,week_14,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_14,Cleveland Browns,2015
+['Craig Robertson'],NA,week_14,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_14,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_14,Cleveland Browns,2015
+['Danny Shelton'],NA,week_14,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_14,Cleveland Browns,2015
+['Randy Starks'],NA,week_14,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_14,Cleveland Browns,2015
+['Joe Thomas'],NA,week_14,Cleveland Browns,2015
+['Robert Turbin'],NA,week_14,Cleveland Browns,2015
+['Donte Whitner'],NA,week_14,Cleveland Browns,2015
+"[""K'Waun Williams""]",NA,week_14,Cleveland Browns,2015
+['Tramon Williams'],NA,week_14,Cleveland Browns,2015
+['Glenn Winston'],NA,week_14,Cleveland Browns,2015
+['Johnson Bademosi'],Probable: Elbow,week_15,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_15,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_15,Cleveland Browns,2015
+['Joel Bitonio'],Injured Reserve: Ankle,week_15,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_15,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_15,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_15,Cleveland Browns,2015
+['Desmond Bryant'],NA,week_15,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_15,Cleveland Browns,2015
+['Tank Carder'],NA,week_15,Cleveland Browns,2015
+['Travis Coons'],Questionable: rightGroin,week_15,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_15,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_15,Cleveland Browns,2015
+['Pierre Desir'],NA,week_15,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_15,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_15,Cleveland Browns,2015
+['Cameron Erving'],NA,week_15,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_15,Cleveland Browns,2015
+['Charles Gaines'],NA,week_15,Cleveland Browns,2015
+['Justin Gilbert'],Questionable: Concussion,week_15,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_15,Cleveland Browns,2015
+['John Greco'],NA,week_15,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_15,Cleveland Browns,2015
+['Brian Hartline'],Injured Reserve: Collarbone,week_15,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_15,Cleveland Browns,2015
+['Rob Housler'],NA,week_15,Cleveland Browns,2015
+['John Hughes'],NA,week_15,Cleveland Browns,2015
+['Malcolm Johnson'],Injured Reserve: Groin,week_15,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_15,Cleveland Browns,2015
+['Paul Kruger'],NA,week_15,Cleveland Browns,2015
+['Alex Mack'],NA,week_15,Cleveland Browns,2015
+['Johnny Manziel'],Probable: rightElbow,week_15,Cleveland Browns,2015
+['Josh McCown'],Injured Reserve: Collarbone,week_15,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_15,Cleveland Browns,2015
+['Marlon Moore'],Questionable: Ribs,week_15,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_15,Cleveland Browns,2015
+['Nate Orchard'],NA,week_15,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_15,Cleveland Browns,2015
+['Craig Robertson'],NA,week_15,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_15,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_15,Cleveland Browns,2015
+['Danny Shelton'],NA,week_15,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_15,Cleveland Browns,2015
+['Randy Starks'],NA,week_15,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_15,Cleveland Browns,2015
+['Joe Thomas'],Probable: Knee,week_15,Cleveland Browns,2015
+['Robert Turbin'],NA,week_15,Cleveland Browns,2015
+['Donte Whitner'],NA,week_15,Cleveland Browns,2015
+"[""K'Waun Williams""]",Questionable: Shoulder,week_15,Cleveland Browns,2015
+['Tramon Williams'],NA,week_15,Cleveland Browns,2015
+['Glenn Winston'],Out: Concussion,week_15,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_16,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_16,Cleveland Browns,2015
+['Travis Benjamin'],NA,week_16,Cleveland Browns,2015
+['Joel Bitonio'],Injured Reserve: Ankle,week_16,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_16,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_16,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_16,Cleveland Browns,2015
+['Desmond Bryant'],Probable: Thumb,week_16,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_16,Cleveland Browns,2015
+['Tank Carder'],NA,week_16,Cleveland Browns,2015
+['Travis Coons'],Probable: rightGroin,week_16,Cleveland Browns,2015
+['Isaiah Crowell'],Probable: NotInjuryRelated,week_16,Cleveland Browns,2015
+['Karlos Dansby'],NA,week_16,Cleveland Browns,2015
+['Pierre Desir'],NA,week_16,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_16,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_16,Cleveland Browns,2015
+['Cameron Erving'],Questionable: Ankle,week_16,Cleveland Browns,2015
+['Taylor Gabriel'],Probable: NotInjuryRelated,week_16,Cleveland Browns,2015
+['Charles Gaines'],NA,week_16,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_16,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_16,Cleveland Browns,2015
+['John Greco'],Injured Reserve: Knee,week_16,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_16,Cleveland Browns,2015
+['Brian Hartline'],Injured Reserve: Collarbone,week_16,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_16,Cleveland Browns,2015
+['Rob Housler'],NA,week_16,Cleveland Browns,2015
+['John Hughes'],NA,week_16,Cleveland Browns,2015
+['Malcolm Johnson'],Injured Reserve: Groin,week_16,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_16,Cleveland Browns,2015
+['Paul Kruger'],NA,week_16,Cleveland Browns,2015
+['Alex Mack'],Questionable: Calf,week_16,Cleveland Browns,2015
+['Johnny Manziel'],NA,week_16,Cleveland Browns,2015
+['Josh McCown'],Injured Reserve: Collarbone,week_16,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_16,Cleveland Browns,2015
+['Marlon Moore'],Questionable: Ribs,week_16,Cleveland Browns,2015
+['Raheem Mostert'],NA,week_16,Cleveland Browns,2015
+['Nate Orchard'],NA,week_16,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_16,Cleveland Browns,2015
+['Craig Robertson'],NA,week_16,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_16,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_16,Cleveland Browns,2015
+['Danny Shelton'],NA,week_16,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_16,Cleveland Browns,2015
+['Randy Starks'],NA,week_16,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_16,Cleveland Browns,2015
+['Joe Thomas'],Questionable: Knee,week_16,Cleveland Browns,2015
+['Robert Turbin'],NA,week_16,Cleveland Browns,2015
+['Donte Whitner'],NA,week_16,Cleveland Browns,2015
+"[""K'Waun Williams""]",Questionable: Shoulder,week_16,Cleveland Browns,2015
+['Tramon Williams'],NA,week_16,Cleveland Browns,2015
+['Glenn Winston'],Out: Concussion,week_16,Cleveland Browns,2015
+['Johnson Bademosi'],NA,week_17,Cleveland Browns,2015
+['Gary Barnidge'],NA,week_17,Cleveland Browns,2015
+['Travis Benjamin'],Questionable: Ankle,week_17,Cleveland Browns,2015
+['Joel Bitonio'],Injured Reserve: Ankle,week_17,Cleveland Browns,2015
+['Dwayne Bowe'],NA,week_17,Cleveland Browns,2015
+['Michael Bowie'],Injured Reserve: Shoulder,week_17,Cleveland Browns,2015
+['Armonty Bryant'],NA,week_17,Cleveland Browns,2015
+['Desmond Bryant'],Probable: Thumb,week_17,Cleveland Browns,2015
+['Ibraheim Campbell'],NA,week_17,Cleveland Browns,2015
+['Tank Carder'],NA,week_17,Cleveland Browns,2015
+['Travis Coons'],NA,week_17,Cleveland Browns,2015
+['Isaiah Crowell'],NA,week_17,Cleveland Browns,2015
+['Karlos Dansby'],Questionable: Toe,week_17,Cleveland Browns,2015
+['Pierre Desir'],NA,week_17,Cleveland Browns,2015
+['Shaun Draughn'],NA,week_17,Cleveland Browns,2015
+['Ifo Ekpre-Olomu'],Injured Reserve: Knee,week_17,Cleveland Browns,2015
+['Cameron Erving'],NA,week_17,Cleveland Browns,2015
+['Taylor Gabriel'],NA,week_17,Cleveland Browns,2015
+['Charles Gaines'],Injured Reserve: Hamstring,week_17,Cleveland Browns,2015
+['Justin Gilbert'],NA,week_17,Cleveland Browns,2015
+['Tashaun Gipson'],NA,week_17,Cleveland Browns,2015
+['John Greco'],Injured Reserve: Knee,week_17,Cleveland Browns,2015
+['Joe Haden'],Injured Reserve: Concussion,week_17,Cleveland Browns,2015
+['Brian Hartline'],Injured Reserve: Collarbone,week_17,Cleveland Browns,2015
+['Andrew Hawkins'],Injured Reserve: Concussion,week_17,Cleveland Browns,2015
+['Rob Housler'],NA,week_17,Cleveland Browns,2015
+['John Hughes'],NA,week_17,Cleveland Browns,2015
+['Malcolm Johnson'],Injured Reserve: Groin,week_17,Cleveland Browns,2015
+['Christian Kirksey'],NA,week_17,Cleveland Browns,2015
+['Paul Kruger'],NA,week_17,Cleveland Browns,2015
+['Alex Mack'],NA,week_17,Cleveland Browns,2015
+['Johnny Manziel'],Out: Concussion,week_17,Cleveland Browns,2015
+['Josh McCown'],Injured Reserve: Collarbone,week_17,Cleveland Browns,2015
+['Barkevious Mingo'],NA,week_17,Cleveland Browns,2015
+['Marlon Moore'],Out: Concussion,week_17,Cleveland Browns,2015
+['Raheem Mostert'],Questionable: Ankle,week_17,Cleveland Browns,2015
+['Nate Orchard'],NA,week_17,Cleveland Browns,2015
+['Jordan Poyer'],NA,week_17,Cleveland Browns,2015
+['Craig Robertson'],NA,week_17,Cleveland Browns,2015
+['Mitchell Schwartz'],NA,week_17,Cleveland Browns,2015
+['Connor Shaw'],Injured Reserve: Thumb,week_17,Cleveland Browns,2015
+['Danny Shelton'],NA,week_17,Cleveland Browns,2015
+['Scott Solomon'],Injured Reserve: Knee,week_17,Cleveland Browns,2015
+['Randy Starks'],NA,week_17,Cleveland Browns,2015
+['Randall Telfer'],Injured Reserve: Foot,week_17,Cleveland Browns,2015
+['Joe Thomas'],Questionable: Knee,week_17,Cleveland Browns,2015
+['Robert Turbin'],NA,week_17,Cleveland Browns,2015
+['Donte Whitner'],NA,week_17,Cleveland Browns,2015
+"[""K'Waun Williams""]",Questionable: Shoulder,week_17,Cleveland Browns,2015
+['Tramon Williams'],Out: Concussion,week_17,Cleveland Browns,2015
+['Glenn Winston'],Out: Concussion,week_17,Cleveland Browns,2015

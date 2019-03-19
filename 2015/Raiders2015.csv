@@ -1,0 +1,577 @@
+﻿name,injury,week,team,year
+['Nate Allen'],NA,week_1,Oakland Raiders,2015
+['Larry Asante'],NA,week_1,Oakland Raiders,2015
+['Denico Autry'],NA,week_1,Oakland Raiders,2015
+['Neiron Ball'],NA,week_1,Oakland Raiders,2015
+['Derek Carr'],NA,week_1,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_1,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_1,Oakland Raiders,2015
+['Jon Condo'],NA,week_1,Oakland Raiders,2015
+['Amari Cooper'],NA,week_1,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_1,Oakland Raiders,2015
+['Andre Debose'],NA,week_1,Oakland Raiders,2015
+['Mario Edwards'],NA,week_1,Oakland Raiders,2015
+['Justin Ellis'],NA,week_1,Oakland Raiders,2015
+['Jimmy Hall'],NA,week_1,Oakland Raiders,2015
+['Shelby Harris'],NA,week_1,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_1,Oakland Raiders,2015
+['Ben Heeney'],NA,week_1,Oakland Raiders,2015
+['Andre Holmes'],Probable: Hand,week_1,Oakland Raiders,2015
+['Austin Howard'],NA,week_1,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_1,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_1,Oakland Raiders,2015
+['Khalil Mack'],NA,week_1,Oakland Raiders,2015
+['Benson Mayowa'],Out: Knee,week_1,Oakland Raiders,2015
+['Taylor Mays'],NA,week_1,Oakland Raiders,2015
+['Keith McGill'],NA,week_1,Oakland Raiders,2015
+['Latavius Murray'],NA,week_1,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_1,Oakland Raiders,2015
+['Seth Roberts'],NA,week_1,Oakland Raiders,2015
+['Lee Smith'],NA,week_1,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_1,Oakland Raiders,2015
+['Korey Toomer'],NA,week_1,Oakland Raiders,2015
+['Justin Tuck'],Probable: Calf,week_1,Oakland Raiders,2015
+['Clive Walford'],Probable: Knee,week_1,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_1,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_1,Oakland Raiders,2015
+['Charles Woodson'],NA,week_1,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_2,Oakland Raiders,2015
+['Larry Asante'],NA,week_2,Oakland Raiders,2015
+['Denico Autry'],NA,week_2,Oakland Raiders,2015
+['Neiron Ball'],NA,week_2,Oakland Raiders,2015
+['Derek Carr'],Probable: rightHand,week_2,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_2,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_2,Oakland Raiders,2015
+['Jon Condo'],NA,week_2,Oakland Raiders,2015
+['Amari Cooper'],NA,week_2,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_2,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_2,Oakland Raiders,2015
+['Mario Edwards'],NA,week_2,Oakland Raiders,2015
+['Justin Ellis'],Out: Ankle,week_2,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_2,Oakland Raiders,2015
+['Shelby Harris'],NA,week_2,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_2,Oakland Raiders,2015
+['Ben Heeney'],NA,week_2,Oakland Raiders,2015
+['Andre Holmes'],NA,week_2,Oakland Raiders,2015
+['Austin Howard'],NA,week_2,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_2,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_2,Oakland Raiders,2015
+['Khalil Mack'],NA,week_2,Oakland Raiders,2015
+['Benson Mayowa'],Out: Knee,week_2,Oakland Raiders,2015
+['Taylor Mays'],NA,week_2,Oakland Raiders,2015
+['Keith McGill'],NA,week_2,Oakland Raiders,2015
+['Latavius Murray'],NA,week_2,Oakland Raiders,2015
+['Jamize Olawale'],Out: Ankle,week_2,Oakland Raiders,2015
+['Seth Roberts'],NA,week_2,Oakland Raiders,2015
+['Lee Smith'],NA,week_2,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_2,Oakland Raiders,2015
+['Korey Toomer'],NA,week_2,Oakland Raiders,2015
+['Justin Tuck'],NA,week_2,Oakland Raiders,2015
+['Clive Walford'],NA,week_2,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_2,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_2,Oakland Raiders,2015
+['Charles Woodson'],Questionable: Shoulder,week_2,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_3,Oakland Raiders,2015
+['Larry Asante'],NA,week_3,Oakland Raiders,2015
+['Denico Autry'],NA,week_3,Oakland Raiders,2015
+['Neiron Ball'],NA,week_3,Oakland Raiders,2015
+['Derek Carr'],NA,week_3,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_3,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_3,Oakland Raiders,2015
+['Jon Condo'],NA,week_3,Oakland Raiders,2015
+['Amari Cooper'],NA,week_3,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_3,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_3,Oakland Raiders,2015
+['Mario Edwards'],NA,week_3,Oakland Raiders,2015
+['Justin Ellis'],Out: Ankle,week_3,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_3,Oakland Raiders,2015
+['Shelby Harris'],NA,week_3,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_3,Oakland Raiders,2015
+['Ben Heeney'],NA,week_3,Oakland Raiders,2015
+['Andre Holmes'],NA,week_3,Oakland Raiders,2015
+['Austin Howard'],NA,week_3,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_3,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_3,Oakland Raiders,2015
+['Khalil Mack'],NA,week_3,Oakland Raiders,2015
+['Benson Mayowa'],Out: Knee,week_3,Oakland Raiders,2015
+['Taylor Mays'],NA,week_3,Oakland Raiders,2015
+['Keith McGill'],NA,week_3,Oakland Raiders,2015
+['Latavius Murray'],NA,week_3,Oakland Raiders,2015
+['Jamize Olawale'],Questionable: Ankle,week_3,Oakland Raiders,2015
+['Seth Roberts'],NA,week_3,Oakland Raiders,2015
+['Lee Smith'],NA,week_3,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_3,Oakland Raiders,2015
+['Korey Toomer'],NA,week_3,Oakland Raiders,2015
+['Justin Tuck'],Probable: Knee,week_3,Oakland Raiders,2015
+['Clive Walford'],NA,week_3,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_3,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_3,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_3,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_4,Oakland Raiders,2015
+['Larry Asante'],NA,week_4,Oakland Raiders,2015
+['Denico Autry'],NA,week_4,Oakland Raiders,2015
+['Neiron Ball'],NA,week_4,Oakland Raiders,2015
+['Derek Carr'],NA,week_4,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_4,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_4,Oakland Raiders,2015
+['Jon Condo'],NA,week_4,Oakland Raiders,2015
+['Amari Cooper'],NA,week_4,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_4,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_4,Oakland Raiders,2015
+['Mario Edwards'],NA,week_4,Oakland Raiders,2015
+['Justin Ellis'],Probable: Ankle,week_4,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_4,Oakland Raiders,2015
+['Shelby Harris'],NA,week_4,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_4,Oakland Raiders,2015
+['Ben Heeney'],Questionable: Hamstring,week_4,Oakland Raiders,2015
+['Andre Holmes'],NA,week_4,Oakland Raiders,2015
+['Austin Howard'],NA,week_4,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_4,Oakland Raiders,2015
+['Taiwan Jones'],Questionable: Foot,week_4,Oakland Raiders,2015
+['Khalil Mack'],Probable: Hip,week_4,Oakland Raiders,2015
+['Benson Mayowa'],Out: Knee,week_4,Oakland Raiders,2015
+['Taylor Mays'],NA,week_4,Oakland Raiders,2015
+['Keith McGill'],Out: Foot,week_4,Oakland Raiders,2015
+['Latavius Murray'],NA,week_4,Oakland Raiders,2015
+['Jamize Olawale'],Probable: Ankle,week_4,Oakland Raiders,2015
+['Seth Roberts'],NA,week_4,Oakland Raiders,2015
+['Lee Smith'],NA,week_4,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_4,Oakland Raiders,2015
+['Korey Toomer'],NA,week_4,Oakland Raiders,2015
+['Justin Tuck'],Probable: Knee,week_4,Oakland Raiders,2015
+['Clive Walford'],NA,week_4,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_4,Oakland Raiders,2015
+['C.J. Wilson'],Out: Calf,week_4,Oakland Raiders,2015
+['Charles Woodson'],Questionable: Shoulder,week_4,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_5,Oakland Raiders,2015
+['Larry Asante'],NA,week_5,Oakland Raiders,2015
+['Denico Autry'],Out: Concussion,week_5,Oakland Raiders,2015
+['Neiron Ball'],NA,week_5,Oakland Raiders,2015
+['Derek Carr'],NA,week_5,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_5,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_5,Oakland Raiders,2015
+['Jon Condo'],NA,week_5,Oakland Raiders,2015
+['Amari Cooper'],NA,week_5,Oakland Raiders,2015
+['Michael Crabtree'],Probable: Ankle,week_5,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_5,Oakland Raiders,2015
+['Mario Edwards'],NA,week_5,Oakland Raiders,2015
+['Justin Ellis'],Out: Ankle,week_5,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_5,Oakland Raiders,2015
+['Shelby Harris'],NA,week_5,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_5,Oakland Raiders,2015
+['Ben Heeney'],Probable: Hamstring,week_5,Oakland Raiders,2015
+['Andre Holmes'],NA,week_5,Oakland Raiders,2015
+['Austin Howard'],NA,week_5,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_5,Oakland Raiders,2015
+['Taiwan Jones'],Out: Foot,week_5,Oakland Raiders,2015
+['Khalil Mack'],NA,week_5,Oakland Raiders,2015
+['Benson Mayowa'],Probable: Knee,week_5,Oakland Raiders,2015
+['Taylor Mays'],Questionable: Ankle,week_5,Oakland Raiders,2015
+['Keith McGill'],Probable: Foot,week_5,Oakland Raiders,2015
+['Latavius Murray'],Probable: Shoulder,week_5,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_5,Oakland Raiders,2015
+['Seth Roberts'],NA,week_5,Oakland Raiders,2015
+['Lee Smith'],NA,week_5,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_5,Oakland Raiders,2015
+['Korey Toomer'],NA,week_5,Oakland Raiders,2015
+['Justin Tuck'],Probable: Knee,week_5,Oakland Raiders,2015
+['Clive Walford'],NA,week_5,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_5,Oakland Raiders,2015
+['C.J. Wilson'],Probable: Calf,week_5,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_5,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_7,Oakland Raiders,2015
+['Larry Asante'],NA,week_7,Oakland Raiders,2015
+['Denico Autry'],Out: Concussion,week_7,Oakland Raiders,2015
+['Neiron Ball'],NA,week_7,Oakland Raiders,2015
+['Derek Carr'],NA,week_7,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_7,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_7,Oakland Raiders,2015
+['Jon Condo'],NA,week_7,Oakland Raiders,2015
+['Amari Cooper'],NA,week_7,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_7,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_7,Oakland Raiders,2015
+['Mario Edwards'],NA,week_7,Oakland Raiders,2015
+['Justin Ellis'],Doubtful: Ankle,week_7,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_7,Oakland Raiders,2015
+['Shelby Harris'],NA,week_7,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_7,Oakland Raiders,2015
+['Ben Heeney'],NA,week_7,Oakland Raiders,2015
+['Andre Holmes'],NA,week_7,Oakland Raiders,2015
+['Austin Howard'],NA,week_7,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_7,Oakland Raiders,2015
+['Taiwan Jones'],Probable: Foot,week_7,Oakland Raiders,2015
+['Khalil Mack'],NA,week_7,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_7,Oakland Raiders,2015
+['Taylor Mays'],NA,week_7,Oakland Raiders,2015
+['Keith McGill'],NA,week_7,Oakland Raiders,2015
+['Latavius Murray'],Probable: Shoulder,week_7,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_7,Oakland Raiders,2015
+['Seth Roberts'],NA,week_7,Oakland Raiders,2015
+['Lee Smith'],NA,week_7,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_7,Oakland Raiders,2015
+['Korey Toomer'],NA,week_7,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_7,Oakland Raiders,2015
+['Clive Walford'],NA,week_7,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_7,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_7,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_7,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_8,Oakland Raiders,2015
+['Larry Asante'],NA,week_8,Oakland Raiders,2015
+['Denico Autry'],Probable: Concussion,week_8,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_8,Oakland Raiders,2015
+['Derek Carr'],NA,week_8,Oakland Raiders,2015
+['T.J. Carrie'],Probable: Shoulder,week_8,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_8,Oakland Raiders,2015
+['Jon Condo'],NA,week_8,Oakland Raiders,2015
+['Amari Cooper'],NA,week_8,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_8,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_8,Oakland Raiders,2015
+['Mario Edwards'],NA,week_8,Oakland Raiders,2015
+['Justin Ellis'],Probable: Ankle,week_8,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_8,Oakland Raiders,2015
+['Shelby Harris'],NA,week_8,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_8,Oakland Raiders,2015
+['Ben Heeney'],NA,week_8,Oakland Raiders,2015
+['Andre Holmes'],NA,week_8,Oakland Raiders,2015
+['Austin Howard'],NA,week_8,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_8,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_8,Oakland Raiders,2015
+['Khalil Mack'],NA,week_8,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_8,Oakland Raiders,2015
+['Taylor Mays'],NA,week_8,Oakland Raiders,2015
+['Keith McGill'],Probable: Foot,week_8,Oakland Raiders,2015
+['Latavius Murray'],NA,week_8,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_8,Oakland Raiders,2015
+['Seth Roberts'],NA,week_8,Oakland Raiders,2015
+['Lee Smith'],NA,week_8,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_8,Oakland Raiders,2015
+['Korey Toomer'],NA,week_8,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_8,Oakland Raiders,2015
+['Clive Walford'],NA,week_8,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_8,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_8,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_8,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_9,Oakland Raiders,2015
+['Larry Asante'],Probable: Knee,week_9,Oakland Raiders,2015
+['Denico Autry'],NA,week_9,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_9,Oakland Raiders,2015
+['Derek Carr'],NA,week_9,Oakland Raiders,2015
+['T.J. Carrie'],Questionable: Shoulder,week_9,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_9,Oakland Raiders,2015
+['Jon Condo'],NA,week_9,Oakland Raiders,2015
+['Amari Cooper'],NA,week_9,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_9,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_9,Oakland Raiders,2015
+['Mario Edwards'],NA,week_9,Oakland Raiders,2015
+['Justin Ellis'],NA,week_9,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_9,Oakland Raiders,2015
+['Shelby Harris'],NA,week_9,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_9,Oakland Raiders,2015
+['Ben Heeney'],NA,week_9,Oakland Raiders,2015
+['Andre Holmes'],NA,week_9,Oakland Raiders,2015
+['Austin Howard'],NA,week_9,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_9,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_9,Oakland Raiders,2015
+['Khalil Mack'],Probable: Hamstring,week_9,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_9,Oakland Raiders,2015
+['Taylor Mays'],Probable: Ankle,week_9,Oakland Raiders,2015
+['Keith McGill'],NA,week_9,Oakland Raiders,2015
+['Latavius Murray'],NA,week_9,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_9,Oakland Raiders,2015
+['Seth Roberts'],NA,week_9,Oakland Raiders,2015
+['Lee Smith'],NA,week_9,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_9,Oakland Raiders,2015
+['Korey Toomer'],NA,week_9,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_9,Oakland Raiders,2015
+['Clive Walford'],NA,week_9,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_9,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_9,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_9,Oakland Raiders,2015
+['Nate Allen'],NA,week_10,Oakland Raiders,2015
+['Larry Asante'],NA,week_10,Oakland Raiders,2015
+['Denico Autry'],NA,week_10,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_10,Oakland Raiders,2015
+['Derek Carr'],NA,week_10,Oakland Raiders,2015
+['T.J. Carrie'],Probable: Hip,week_10,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_10,Oakland Raiders,2015
+['Jon Condo'],NA,week_10,Oakland Raiders,2015
+['Amari Cooper'],Probable: Quadricep,week_10,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_10,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_10,Oakland Raiders,2015
+['Mario Edwards'],NA,week_10,Oakland Raiders,2015
+['Justin Ellis'],NA,week_10,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_10,Oakland Raiders,2015
+['Shelby Harris'],NA,week_10,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_10,Oakland Raiders,2015
+['Ben Heeney'],NA,week_10,Oakland Raiders,2015
+['Andre Holmes'],NA,week_10,Oakland Raiders,2015
+['Austin Howard'],NA,week_10,Oakland Raiders,2015
+['Rodney Hudson'],Doubtful: Ankle,week_10,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_10,Oakland Raiders,2015
+['Khalil Mack'],NA,week_10,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_10,Oakland Raiders,2015
+['Taylor Mays'],NA,week_10,Oakland Raiders,2015
+['Keith McGill'],NA,week_10,Oakland Raiders,2015
+['Latavius Murray'],Probable: Concussion,week_10,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_10,Oakland Raiders,2015
+['Seth Roberts'],NA,week_10,Oakland Raiders,2015
+['Lee Smith'],NA,week_10,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_10,Oakland Raiders,2015
+['Korey Toomer'],NA,week_10,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_10,Oakland Raiders,2015
+['Clive Walford'],Probable: Quadricep,week_10,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_10,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_10,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_10,Oakland Raiders,2015
+['Nate Allen'],NA,week_11,Oakland Raiders,2015
+['Larry Asante'],NA,week_11,Oakland Raiders,2015
+['Denico Autry'],NA,week_11,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_11,Oakland Raiders,2015
+['Derek Carr'],NA,week_11,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_11,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_11,Oakland Raiders,2015
+['Jon Condo'],NA,week_11,Oakland Raiders,2015
+['Amari Cooper'],NA,week_11,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_11,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_11,Oakland Raiders,2015
+['Mario Edwards'],NA,week_11,Oakland Raiders,2015
+['Justin Ellis'],NA,week_11,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_11,Oakland Raiders,2015
+['Shelby Harris'],NA,week_11,Oakland Raiders,2015
+['D.J. Hayden'],Probable: Ankle,week_11,Oakland Raiders,2015
+['Ben Heeney'],NA,week_11,Oakland Raiders,2015
+['Andre Holmes'],NA,week_11,Oakland Raiders,2015
+['Austin Howard'],NA,week_11,Oakland Raiders,2015
+['Rodney Hudson'],Questionable: Ankle,week_11,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_11,Oakland Raiders,2015
+['Khalil Mack'],NA,week_11,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_11,Oakland Raiders,2015
+['Taylor Mays'],Probable: Ankle,week_11,Oakland Raiders,2015
+['Keith McGill'],NA,week_11,Oakland Raiders,2015
+['Latavius Murray'],NA,week_11,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_11,Oakland Raiders,2015
+['Seth Roberts'],NA,week_11,Oakland Raiders,2015
+['Lee Smith'],Doubtful: Wrist,week_11,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_11,Oakland Raiders,2015
+['Korey Toomer'],NA,week_11,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_11,Oakland Raiders,2015
+['Clive Walford'],NA,week_11,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_11,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_11,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_11,Oakland Raiders,2015
+['Nate Allen'],NA,week_12,Oakland Raiders,2015
+['Larry Asante'],NA,week_12,Oakland Raiders,2015
+['Denico Autry'],NA,week_12,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_12,Oakland Raiders,2015
+['Derek Carr'],NA,week_12,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_12,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_12,Oakland Raiders,2015
+['Jon Condo'],NA,week_12,Oakland Raiders,2015
+['Amari Cooper'],NA,week_12,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_12,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_12,Oakland Raiders,2015
+['Mario Edwards'],NA,week_12,Oakland Raiders,2015
+['Justin Ellis'],NA,week_12,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_12,Oakland Raiders,2015
+['Shelby Harris'],NA,week_12,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_12,Oakland Raiders,2015
+['Ben Heeney'],NA,week_12,Oakland Raiders,2015
+['Andre Holmes'],NA,week_12,Oakland Raiders,2015
+['Austin Howard'],NA,week_12,Oakland Raiders,2015
+['Rodney Hudson'],Doubtful: Ankle,week_12,Oakland Raiders,2015
+['Taiwan Jones'],Questionable: Knee,week_12,Oakland Raiders,2015
+['Khalil Mack'],NA,week_12,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_12,Oakland Raiders,2015
+['Taylor Mays'],NA,week_12,Oakland Raiders,2015
+['Keith McGill'],Out: Ankle,week_12,Oakland Raiders,2015
+['Latavius Murray'],NA,week_12,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_12,Oakland Raiders,2015
+['Seth Roberts'],NA,week_12,Oakland Raiders,2015
+['Lee Smith'],Probable: Wrist,week_12,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_12,Oakland Raiders,2015
+['Korey Toomer'],NA,week_12,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_12,Oakland Raiders,2015
+['Clive Walford'],NA,week_12,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_12,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_12,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_12,Oakland Raiders,2015
+['Nate Allen'],NA,week_13,Oakland Raiders,2015
+['Larry Asante'],NA,week_13,Oakland Raiders,2015
+['Denico Autry'],NA,week_13,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_13,Oakland Raiders,2015
+['Derek Carr'],NA,week_13,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_13,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_13,Oakland Raiders,2015
+['Jon Condo'],NA,week_13,Oakland Raiders,2015
+['Amari Cooper'],NA,week_13,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_13,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_13,Oakland Raiders,2015
+['Mario Edwards'],NA,week_13,Oakland Raiders,2015
+['Justin Ellis'],NA,week_13,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_13,Oakland Raiders,2015
+['Shelby Harris'],NA,week_13,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_13,Oakland Raiders,2015
+['Ben Heeney'],NA,week_13,Oakland Raiders,2015
+['Andre Holmes'],NA,week_13,Oakland Raiders,2015
+['Austin Howard'],NA,week_13,Oakland Raiders,2015
+['Rodney Hudson'],Doubtful: Ankle,week_13,Oakland Raiders,2015
+['Taiwan Jones'],Doubtful: Knee,week_13,Oakland Raiders,2015
+['Khalil Mack'],NA,week_13,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_13,Oakland Raiders,2015
+['Taylor Mays'],NA,week_13,Oakland Raiders,2015
+['Keith McGill'],Out: Ankle,week_13,Oakland Raiders,2015
+['Latavius Murray'],NA,week_13,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_13,Oakland Raiders,2015
+['Seth Roberts'],NA,week_13,Oakland Raiders,2015
+['Lee Smith'],NA,week_13,Oakland Raiders,2015
+['Neiko Thorpe'],Questionable: Knee,week_13,Oakland Raiders,2015
+['Korey Toomer'],NA,week_13,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_13,Oakland Raiders,2015
+['Clive Walford'],NA,week_13,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_13,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_13,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_13,Oakland Raiders,2015
+['Nate Allen'],Out: Knee,week_14,Oakland Raiders,2015
+['Larry Asante'],NA,week_14,Oakland Raiders,2015
+['Denico Autry'],NA,week_14,Oakland Raiders,2015
+['Neiron Ball'],Out: Knee,week_14,Oakland Raiders,2015
+['Derek Carr'],NA,week_14,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_14,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_14,Oakland Raiders,2015
+['Jon Condo'],NA,week_14,Oakland Raiders,2015
+['Amari Cooper'],Probable: Foot,week_14,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_14,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_14,Oakland Raiders,2015
+['Mario Edwards'],NA,week_14,Oakland Raiders,2015
+['Justin Ellis'],NA,week_14,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_14,Oakland Raiders,2015
+['Shelby Harris'],Questionable: Ankle,week_14,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_14,Oakland Raiders,2015
+['Ben Heeney'],NA,week_14,Oakland Raiders,2015
+['Andre Holmes'],NA,week_14,Oakland Raiders,2015
+['Austin Howard'],NA,week_14,Oakland Raiders,2015
+['Rodney Hudson'],Probable: Ankle,week_14,Oakland Raiders,2015
+['Taiwan Jones'],Questionable: Knee,week_14,Oakland Raiders,2015
+['Khalil Mack'],Probable: Knee,week_14,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_14,Oakland Raiders,2015
+['Taylor Mays'],NA,week_14,Oakland Raiders,2015
+['Keith McGill'],Probable: Ankle,week_14,Oakland Raiders,2015
+['Latavius Murray'],NA,week_14,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_14,Oakland Raiders,2015
+['Seth Roberts'],NA,week_14,Oakland Raiders,2015
+['Lee Smith'],NA,week_14,Oakland Raiders,2015
+['Neiko Thorpe'],NA,week_14,Oakland Raiders,2015
+['Korey Toomer'],Probable: Ankle,week_14,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_14,Oakland Raiders,2015
+['Clive Walford'],NA,week_14,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_14,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_14,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_14,Oakland Raiders,2015
+['Nate Allen'],Out: Knee,week_15,Oakland Raiders,2015
+['Larry Asante'],NA,week_15,Oakland Raiders,2015
+['Denico Autry'],NA,week_15,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_15,Oakland Raiders,2015
+['Derek Carr'],NA,week_15,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_15,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_15,Oakland Raiders,2015
+['Jon Condo'],Injured Reserve: Shoulder,week_15,Oakland Raiders,2015
+['Amari Cooper'],Probable: Foot,week_15,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_15,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_15,Oakland Raiders,2015
+['Mario Edwards'],NA,week_15,Oakland Raiders,2015
+['Justin Ellis'],NA,week_15,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_15,Oakland Raiders,2015
+['Shelby Harris'],Probable: Ankle,week_15,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_15,Oakland Raiders,2015
+['Ben Heeney'],NA,week_15,Oakland Raiders,2015
+['Andre Holmes'],NA,week_15,Oakland Raiders,2015
+['Austin Howard'],Out: Knee,week_15,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_15,Oakland Raiders,2015
+['Taiwan Jones'],Probable: Knee,week_15,Oakland Raiders,2015
+['Khalil Mack'],Probable: Knee,week_15,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_15,Oakland Raiders,2015
+['Taylor Mays'],NA,week_15,Oakland Raiders,2015
+['Keith McGill'],NA,week_15,Oakland Raiders,2015
+['Latavius Murray'],NA,week_15,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_15,Oakland Raiders,2015
+['Seth Roberts'],NA,week_15,Oakland Raiders,2015
+['Lee Smith'],NA,week_15,Oakland Raiders,2015
+['Neiko Thorpe'],Questionable: Neck,week_15,Oakland Raiders,2015
+['Korey Toomer'],NA,week_15,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_15,Oakland Raiders,2015
+['Clive Walford'],NA,week_15,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_15,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_15,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_15,Oakland Raiders,2015
+['Nate Allen'],Out: Knee,week_16,Oakland Raiders,2015
+['Larry Asante'],NA,week_16,Oakland Raiders,2015
+['Denico Autry'],NA,week_16,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_16,Oakland Raiders,2015
+['Derek Carr'],NA,week_16,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_16,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_16,Oakland Raiders,2015
+['Jon Condo'],Injured Reserve: Shoulder,week_16,Oakland Raiders,2015
+['Amari Cooper'],Probable: Foot,week_16,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_16,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_16,Oakland Raiders,2015
+['Mario Edwards'],Out: Neck,week_16,Oakland Raiders,2015
+['Justin Ellis'],NA,week_16,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_16,Oakland Raiders,2015
+['Shelby Harris'],NA,week_16,Oakland Raiders,2015
+['D.J. Hayden'],NA,week_16,Oakland Raiders,2015
+['Ben Heeney'],NA,week_16,Oakland Raiders,2015
+['Andre Holmes'],NA,week_16,Oakland Raiders,2015
+['Austin Howard'],NA,week_16,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_16,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_16,Oakland Raiders,2015
+['Khalil Mack'],Probable: Knee,week_16,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_16,Oakland Raiders,2015
+['Taylor Mays'],NA,week_16,Oakland Raiders,2015
+['Keith McGill'],NA,week_16,Oakland Raiders,2015
+['Latavius Murray'],NA,week_16,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_16,Oakland Raiders,2015
+['Seth Roberts'],Probable: Abdomen,week_16,Oakland Raiders,2015
+['Lee Smith'],NA,week_16,Oakland Raiders,2015
+['Neiko Thorpe'],Questionable: Neck,week_16,Oakland Raiders,2015
+['Korey Toomer'],NA,week_16,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_16,Oakland Raiders,2015
+['Clive Walford'],NA,week_16,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_16,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_16,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_16,Oakland Raiders,2015
+['Nate Allen'],Injured Reserve: Knee,week_17,Oakland Raiders,2015
+['Larry Asante'],NA,week_17,Oakland Raiders,2015
+['Denico Autry'],NA,week_17,Oakland Raiders,2015
+['Neiron Ball'],Injured Reserve: Knee,week_17,Oakland Raiders,2015
+['Derek Carr'],NA,week_17,Oakland Raiders,2015
+['T.J. Carrie'],NA,week_17,Oakland Raiders,2015
+['Chimdi Chekwa'],Injured Reserve: Hamstring,week_17,Oakland Raiders,2015
+['Jon Condo'],Injured Reserve: Shoulder,week_17,Oakland Raiders,2015
+['Amari Cooper'],Probable: Foot,week_17,Oakland Raiders,2015
+['Michael Crabtree'],NA,week_17,Oakland Raiders,2015
+['Andre Debose'],Injured Reserve: Coach's Decision,week_17,Oakland Raiders,2015
+['Mario Edwards'],Injured Reserve: Neck,week_17,Oakland Raiders,2015
+['Justin Ellis'],NA,week_17,Oakland Raiders,2015
+['Jimmy Hall'],Injured Reserve: Coach's Decision,week_17,Oakland Raiders,2015
+['Shelby Harris'],NA,week_17,Oakland Raiders,2015
+['D.J. Hayden'],Questionable: Ankle,week_17,Oakland Raiders,2015
+['Ben Heeney'],NA,week_17,Oakland Raiders,2015
+['Andre Holmes'],NA,week_17,Oakland Raiders,2015
+['Austin Howard'],NA,week_17,Oakland Raiders,2015
+['Rodney Hudson'],NA,week_17,Oakland Raiders,2015
+['Taiwan Jones'],NA,week_17,Oakland Raiders,2015
+['Khalil Mack'],Probable: Knee,week_17,Oakland Raiders,2015
+['Benson Mayowa'],NA,week_17,Oakland Raiders,2015
+['Taylor Mays'],NA,week_17,Oakland Raiders,2015
+['Keith McGill'],NA,week_17,Oakland Raiders,2015
+['Latavius Murray'],NA,week_17,Oakland Raiders,2015
+['Jamize Olawale'],NA,week_17,Oakland Raiders,2015
+['Seth Roberts'],NA,week_17,Oakland Raiders,2015
+['Lee Smith'],NA,week_17,Oakland Raiders,2015
+['Neiko Thorpe'],Questionable: Neck,week_17,Oakland Raiders,2015
+['Korey Toomer'],NA,week_17,Oakland Raiders,2015
+['Justin Tuck'],Injured Reserve: Pectoral,week_17,Oakland Raiders,2015
+['Clive Walford'],NA,week_17,Oakland Raiders,2015
+['Menelik Watson'],Injured Reserve: Achilles,week_17,Oakland Raiders,2015
+['C.J. Wilson'],NA,week_17,Oakland Raiders,2015
+['Charles Woodson'],Probable: Shoulder,week_17,Oakland Raiders,2015

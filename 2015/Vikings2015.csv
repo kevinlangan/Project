@@ -1,0 +1,783 @@
+﻿name,injury,week,team,year
+['Matt Asiata'],NA,week_1,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_1,Minnesota Vikings,2015
+['Joe Berger'],NA,week_1,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_1,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_1,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_1,Minnesota Vikings,2015
+['Audie Cole'],NA,week_1,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_1,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_1,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_1,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_1,Minnesota Vikings,2015
+['Antone Exum'],NA,week_1,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_1,Minnesota Vikings,2015
+['Chase Ford'],Probable: Shoulder,week_1,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_1,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_1,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_1,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_1,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_1,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_1,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_1,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_1,Minnesota Vikings,2015
+['Zach Line'],Probable: Knee,week_1,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_1,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_1,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_1,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_1,Minnesota Vikings,2015
+['Terence Newman'],NA,week_1,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_1,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_1,Minnesota Vikings,2015
+['Jabari Price'],NA,week_1,Minnesota Vikings,2015
+['MyCole Pruitt'],Probable: Ankle,week_1,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_1,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_1,Minnesota Vikings,2015
+['Brian Robison'],NA,week_1,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_1,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_1,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_1,Minnesota Vikings,2015
+['Shamar Stephen'],Probable: Knee,week_1,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_1,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_1,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_1,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_1,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_1,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_1,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_1,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_2,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_2,Minnesota Vikings,2015
+['Joe Berger'],NA,week_2,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_2,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_2,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_2,Minnesota Vikings,2015
+['Audie Cole'],NA,week_2,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_2,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_2,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_2,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_2,Minnesota Vikings,2015
+['Antone Exum'],NA,week_2,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_2,Minnesota Vikings,2015
+['Chase Ford'],NA,week_2,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_2,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_2,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_2,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_2,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_2,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_2,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_2,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_2,Minnesota Vikings,2015
+['Zach Line'],NA,week_2,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_2,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_2,Minnesota Vikings,2015
+['Jerick McKinnon'],Probable: Ankle,week_2,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_2,Minnesota Vikings,2015
+['Terence Newman'],NA,week_2,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_2,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_2,Minnesota Vikings,2015
+['Jabari Price'],NA,week_2,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_2,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_2,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_2,Minnesota Vikings,2015
+['Brian Robison'],NA,week_2,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_2,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_2,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_2,Minnesota Vikings,2015
+['Shamar Stephen'],Probable: Knee,week_2,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_2,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_2,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_2,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_2,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_2,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_2,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_2,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_3,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_3,Minnesota Vikings,2015
+['Joe Berger'],NA,week_3,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_3,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_3,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_3,Minnesota Vikings,2015
+['Audie Cole'],NA,week_3,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_3,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_3,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_3,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_3,Minnesota Vikings,2015
+['Antone Exum'],NA,week_3,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_3,Minnesota Vikings,2015
+['Chase Ford'],NA,week_3,Minnesota Vikings,2015
+['Brandon Fusco'],Questionable: Concussion,week_3,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_3,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_3,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_3,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_3,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_3,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_3,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_3,Minnesota Vikings,2015
+['Zach Line'],NA,week_3,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_3,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_3,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_3,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_3,Minnesota Vikings,2015
+['Terence Newman'],NA,week_3,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_3,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_3,Minnesota Vikings,2015
+['Jabari Price'],NA,week_3,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_3,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_3,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_3,Minnesota Vikings,2015
+['Brian Robison'],NA,week_3,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_3,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_3,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_3,Minnesota Vikings,2015
+['Shamar Stephen'],Probable: Knee,week_3,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_3,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_3,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_3,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_3,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_3,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_3,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_3,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_4,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_4,Minnesota Vikings,2015
+['Joe Berger'],NA,week_4,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_4,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_4,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_4,Minnesota Vikings,2015
+['Audie Cole'],Questionable: Ankle,week_4,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_4,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_4,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_4,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_4,Minnesota Vikings,2015
+['Antone Exum'],NA,week_4,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_4,Minnesota Vikings,2015
+['Chase Ford'],NA,week_4,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_4,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_4,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_4,Minnesota Vikings,2015
+['Charles Johnson'],Out: Rib,week_4,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_4,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_4,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_4,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_4,Minnesota Vikings,2015
+['Zach Line'],NA,week_4,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_4,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_4,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_4,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_4,Minnesota Vikings,2015
+['Terence Newman'],NA,week_4,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_4,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_4,Minnesota Vikings,2015
+['Jabari Price'],Out: Shoulder,week_4,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_4,Minnesota Vikings,2015
+['Xavier Rhodes'],Probable: Concussion,week_4,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_4,Minnesota Vikings,2015
+['Brian Robison'],NA,week_4,Minnesota Vikings,2015
+['Andrew Sendejo'],Out: Knee,week_4,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_4,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_4,Minnesota Vikings,2015
+['Shamar Stephen'],NA,week_4,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_4,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_4,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_4,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_4,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_4,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_4,Minnesota Vikings,2015
+['Jarius Wright'],Questionable: Hand,week_4,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_6,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_6,Minnesota Vikings,2015
+['Joe Berger'],NA,week_6,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_6,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_6,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_6,Minnesota Vikings,2015
+['Audie Cole'],NA,week_6,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_6,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_6,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_6,Minnesota Vikings,2015
+['Rhett Ellison'],Probable: Knee,week_6,Minnesota Vikings,2015
+['Antone Exum'],NA,week_6,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_6,Minnesota Vikings,2015
+['Chase Ford'],NA,week_6,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_6,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_6,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_6,Minnesota Vikings,2015
+['Charles Johnson'],Questionable: Rib,week_6,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_6,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_6,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_6,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_6,Minnesota Vikings,2015
+['Zach Line'],NA,week_6,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_6,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_6,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_6,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_6,Minnesota Vikings,2015
+['Terence Newman'],NA,week_6,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_6,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_6,Minnesota Vikings,2015
+['Jabari Price'],Probable: Shoulder,week_6,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_6,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_6,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_6,Minnesota Vikings,2015
+['Brian Robison'],NA,week_6,Minnesota Vikings,2015
+['Andrew Sendejo'],Questionable: Knee,week_6,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_6,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_6,Minnesota Vikings,2015
+['Shamar Stephen'],NA,week_6,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_6,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_6,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_6,Minnesota Vikings,2015
+['Mike Wallace'],Probable: Knee,week_6,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_6,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_6,Minnesota Vikings,2015
+['Jarius Wright'],Probable: Shoulder,week_6,Minnesota Vikings,2015
+['Matt Asiata'],Probable: Rib,week_7,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_7,Minnesota Vikings,2015
+['Joe Berger'],NA,week_7,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_7,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_7,Minnesota Vikings,2015
+['T.J. Clemmings'],Probable: Knee,week_7,Minnesota Vikings,2015
+['Audie Cole'],NA,week_7,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_7,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_7,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_7,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_7,Minnesota Vikings,2015
+['Antone Exum'],NA,week_7,Minnesota Vikings,2015
+['Sharrif Floyd'],Out: Knee,week_7,Minnesota Vikings,2015
+['Chase Ford'],NA,week_7,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_7,Minnesota Vikings,2015
+['Everson Griffen'],Probable: Illness,week_7,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_7,Minnesota Vikings,2015
+['Charles Johnson'],Probable: Rib,week_7,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_7,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_7,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_7,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_7,Minnesota Vikings,2015
+['Zach Line'],NA,week_7,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_7,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_7,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_7,Minnesota Vikings,2015
+['Captain Munnerlyn'],Probable: Thumb,week_7,Minnesota Vikings,2015
+['Terence Newman'],Probable: Ankle,week_7,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_7,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: Finger,week_7,Minnesota Vikings,2015
+['Jabari Price'],NA,week_7,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_7,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_7,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_7,Minnesota Vikings,2015
+['Brian Robison'],NA,week_7,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_7,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_7,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_7,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_7,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_7,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_7,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_7,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_7,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_7,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_7,Minnesota Vikings,2015
+['Jarius Wright'],Probable: Hand,week_7,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_8,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_8,Minnesota Vikings,2015
+['Joe Berger'],NA,week_8,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_8,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_8,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_8,Minnesota Vikings,2015
+['Audie Cole'],Out: Finger,week_8,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_8,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_8,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_8,Minnesota Vikings,2015
+['Rhett Ellison'],Out: Concussion,week_8,Minnesota Vikings,2015
+['Antone Exum'],NA,week_8,Minnesota Vikings,2015
+['Sharrif Floyd'],Out: Knee,week_8,Minnesota Vikings,2015
+['Chase Ford'],NA,week_8,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_8,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_8,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_8,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_8,Minnesota Vikings,2015
+['Tom Johnson'],Probable: Knee,week_8,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_8,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_8,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_8,Minnesota Vikings,2015
+['Zach Line'],Probable: Neck,week_8,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_8,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_8,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_8,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_8,Minnesota Vikings,2015
+['Terence Newman'],NA,week_8,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_8,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: Hip,week_8,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_8,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_8,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_8,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_8,Minnesota Vikings,2015
+['Brian Robison'],NA,week_8,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_8,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_8,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_8,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_8,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_8,Minnesota Vikings,2015
+['Adam Thielen'],Probable: Ankle,week_8,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_8,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_8,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_8,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_8,Minnesota Vikings,2015
+['Jarius Wright'],Probable: Concussion,week_8,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_9,Minnesota Vikings,2015
+['Anthony Barr'],Questionable: Back,week_9,Minnesota Vikings,2015
+['Joe Berger'],Probable: Chest,week_9,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_9,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_9,Minnesota Vikings,2015
+['T.J. Clemmings'],Probable: Neck,week_9,Minnesota Vikings,2015
+['Audie Cole'],Probable: Finger,week_9,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_9,Minnesota Vikings,2015
+['Stefon Diggs'],Probable: Hamstring,week_9,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_9,Minnesota Vikings,2015
+['Rhett Ellison'],Probable: Concussion,week_9,Minnesota Vikings,2015
+['Antone Exum'],NA,week_9,Minnesota Vikings,2015
+['Sharrif Floyd'],Out: Knee,week_9,Minnesota Vikings,2015
+['Chase Ford'],NA,week_9,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_9,Minnesota Vikings,2015
+['Everson Griffen'],Probable: Neck,week_9,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_9,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_9,Minnesota Vikings,2015
+['Tom Johnson'],Probable: Knee,week_9,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_9,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_9,Minnesota Vikings,2015
+['Eric Kendricks'],Out: Ribs,week_9,Minnesota Vikings,2015
+['Zach Line'],NA,week_9,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_9,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_9,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_9,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_9,Minnesota Vikings,2015
+['Terence Newman'],NA,week_9,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_9,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_9,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_9,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_9,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_9,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_9,Minnesota Vikings,2015
+['Brian Robison'],NA,week_9,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_9,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_9,Minnesota Vikings,2015
+['Harrison Smith'],Probable: Neck,week_9,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_9,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_9,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_9,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_9,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_9,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_9,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_9,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_9,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_10,Minnesota Vikings,2015
+['Anthony Barr'],Questionable: Hand,week_10,Minnesota Vikings,2015
+['Joe Berger'],NA,week_10,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_10,Minnesota Vikings,2015
+['Teddy Bridgewater'],Questionable: Concussion,week_10,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_10,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_10,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_10,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_10,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_10,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_10,Minnesota Vikings,2015
+['Antone Exum'],NA,week_10,Minnesota Vikings,2015
+['Sharrif Floyd'],Probable: Knee,week_10,Minnesota Vikings,2015
+['Chase Ford'],NA,week_10,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_10,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_10,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_10,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_10,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_10,Minnesota Vikings,2015
+['Linval Joseph'],Probable: Foot,week_10,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_10,Minnesota Vikings,2015
+['Eric Kendricks'],Doubtful: Ribs,week_10,Minnesota Vikings,2015
+['Zach Line'],NA,week_10,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_10,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_10,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_10,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_10,Minnesota Vikings,2015
+['Terence Newman'],Probable: Concussion,week_10,Minnesota Vikings,2015
+['Cordarrelle Patterson'],Probable: Shoulder,week_10,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_10,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_10,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_10,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_10,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_10,Minnesota Vikings,2015
+['Brian Robison'],Probable: Ankle,week_10,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_10,Minnesota Vikings,2015
+['Marcus Sherels'],Questionable: Shoulder,week_10,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_10,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_10,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_10,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_10,Minnesota Vikings,2015
+['Justin Trattou'],Out: Foot,week_10,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_10,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_10,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_10,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_10,Minnesota Vikings,2015
+['Matt Asiata'],Probable: Quadricep,week_11,Minnesota Vikings,2015
+['Anthony Barr'],Probable: Hand,week_11,Minnesota Vikings,2015
+['Joe Berger'],NA,week_11,Minnesota Vikings,2015
+['Robert Blanton'],Questionable: Back,week_11,Minnesota Vikings,2015
+['Teddy Bridgewater'],Probable: leftShoulder,week_11,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_11,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_11,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_11,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_11,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_11,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_11,Minnesota Vikings,2015
+['Antone Exum'],NA,week_11,Minnesota Vikings,2015
+['Sharrif Floyd'],Probable: Knee,week_11,Minnesota Vikings,2015
+['Chase Ford'],NA,week_11,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_11,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_11,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_11,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_11,Minnesota Vikings,2015
+['Tom Johnson'],Probable: Concussion,week_11,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_11,Minnesota Vikings,2015
+['Matt Kalil'],Questionable: Toe,week_11,Minnesota Vikings,2015
+['Eric Kendricks'],Probable: Rib,week_11,Minnesota Vikings,2015
+['Zach Line'],NA,week_11,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_11,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_11,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_11,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_11,Minnesota Vikings,2015
+['Terence Newman'],NA,week_11,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_11,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: Hamstring,week_11,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_11,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_11,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_11,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_11,Minnesota Vikings,2015
+['Brian Robison'],NA,week_11,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_11,Minnesota Vikings,2015
+['Marcus Sherels'],Probable: Shoulder,week_11,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_11,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_11,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_11,Minnesota Vikings,2015
+['Adam Thielen'],Probable: Shoulder,week_11,Minnesota Vikings,2015
+['Justin Trattou'],Probable: Foot,week_11,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_11,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_11,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_11,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_11,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_12,Minnesota Vikings,2015
+['Anthony Barr'],Probable: Hand,week_12,Minnesota Vikings,2015
+['Joe Berger'],NA,week_12,Minnesota Vikings,2015
+['Robert Blanton'],Probable: Ankle,week_12,Minnesota Vikings,2015
+['Teddy Bridgewater'],Probable: leftShoulder,week_12,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_12,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_12,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_12,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_12,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_12,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_12,Minnesota Vikings,2015
+['Antone Exum'],NA,week_12,Minnesota Vikings,2015
+['Sharrif Floyd'],Probable: Ankle,week_12,Minnesota Vikings,2015
+['Chase Ford'],NA,week_12,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_12,Minnesota Vikings,2015
+['Everson Griffen'],Questionable: Hip,week_12,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_12,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_12,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_12,Minnesota Vikings,2015
+['Linval Joseph'],NA,week_12,Minnesota Vikings,2015
+['Matt Kalil'],Probable: Toe,week_12,Minnesota Vikings,2015
+['Eric Kendricks'],Probable: Ribs,week_12,Minnesota Vikings,2015
+['Zach Line'],NA,week_12,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_12,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_12,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_12,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_12,Minnesota Vikings,2015
+['Terence Newman'],NA,week_12,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_12,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_12,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_12,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_12,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_12,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_12,Minnesota Vikings,2015
+['Brian Robison'],NA,week_12,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_12,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_12,Minnesota Vikings,2015
+['Harrison Smith'],Questionable: Knee,week_12,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_12,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_12,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_12,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_12,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_12,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_12,Minnesota Vikings,2015
+['Trae Waynes'],Questionable: Ankle,week_12,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_12,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_13,Minnesota Vikings,2015
+['Anthony Barr'],Questionable: Hand,week_13,Minnesota Vikings,2015
+['Joe Berger'],NA,week_13,Minnesota Vikings,2015
+['Robert Blanton'],Probable: Ankle,week_13,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_13,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_13,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_13,Minnesota Vikings,2015
+['Scott Crichton'],NA,week_13,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_13,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_13,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_13,Minnesota Vikings,2015
+['Antone Exum'],NA,week_13,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_13,Minnesota Vikings,2015
+['Chase Ford'],NA,week_13,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_13,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_13,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_13,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_13,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_13,Minnesota Vikings,2015
+['Linval Joseph'],Out: Foot,week_13,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_13,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_13,Minnesota Vikings,2015
+['Zach Line'],NA,week_13,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_13,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_13,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_13,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_13,Minnesota Vikings,2015
+['Terence Newman'],NA,week_13,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_13,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_13,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_13,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_13,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_13,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_13,Minnesota Vikings,2015
+['Brian Robison'],NA,week_13,Minnesota Vikings,2015
+['Andrew Sendejo'],Out: Knee,week_13,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_13,Minnesota Vikings,2015
+['Harrison Smith'],Questionable: Knee,week_13,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_13,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_13,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_13,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_13,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_13,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_13,Minnesota Vikings,2015
+['Trae Waynes'],Probable: Ankle,week_13,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_13,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_14,Minnesota Vikings,2015
+['Anthony Barr'],Out: Groin,week_14,Minnesota Vikings,2015
+['Joe Berger'],NA,week_14,Minnesota Vikings,2015
+['Robert Blanton'],Questionable: Knee,week_14,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_14,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_14,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_14,Minnesota Vikings,2015
+['Scott Crichton'],Probable: Ankle,week_14,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_14,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_14,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_14,Minnesota Vikings,2015
+['Antone Exum'],Injured Reserve: Ribs,week_14,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_14,Minnesota Vikings,2015
+['Chase Ford'],NA,week_14,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_14,Minnesota Vikings,2015
+['Everson Griffen'],NA,week_14,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_14,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_14,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_14,Minnesota Vikings,2015
+['Linval Joseph'],Out: Foot,week_14,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_14,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_14,Minnesota Vikings,2015
+['Zach Line'],NA,week_14,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_14,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_14,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_14,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_14,Minnesota Vikings,2015
+['Terence Newman'],NA,week_14,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_14,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_14,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_14,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_14,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_14,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_14,Minnesota Vikings,2015
+['Brian Robison'],NA,week_14,Minnesota Vikings,2015
+['Andrew Sendejo'],Out: Knee,week_14,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_14,Minnesota Vikings,2015
+['Harrison Smith'],Out: Knee,week_14,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_14,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_14,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_14,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_14,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_14,Minnesota Vikings,2015
+['Brandon Watts'],Out: Rib,week_14,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_14,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_14,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_15,Minnesota Vikings,2015
+['Anthony Barr'],Out: Groin,week_15,Minnesota Vikings,2015
+['Joe Berger'],NA,week_15,Minnesota Vikings,2015
+['Robert Blanton'],Probable: Knee,week_15,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_15,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_15,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_15,Minnesota Vikings,2015
+['Scott Crichton'],Injured Reserve: Concussion,week_15,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_15,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_15,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_15,Minnesota Vikings,2015
+['Antone Exum'],Injured Reserve: Ribs,week_15,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_15,Minnesota Vikings,2015
+['Chase Ford'],NA,week_15,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_15,Minnesota Vikings,2015
+['Everson Griffen'],Questionable: Shoulder,week_15,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_15,Minnesota Vikings,2015
+['Charles Johnson'],Out: Ankle,week_15,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_15,Minnesota Vikings,2015
+['Linval Joseph'],Questionable: Foot,week_15,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_15,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_15,Minnesota Vikings,2015
+['Zach Line'],NA,week_15,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_15,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_15,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_15,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_15,Minnesota Vikings,2015
+['Terence Newman'],NA,week_15,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_15,Minnesota Vikings,2015
+['Adrian Peterson'],NA,week_15,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_15,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_15,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_15,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_15,Minnesota Vikings,2015
+['Brian Robison'],NA,week_15,Minnesota Vikings,2015
+['Andrew Sendejo'],Probable: Knee,week_15,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_15,Minnesota Vikings,2015
+['Harrison Smith'],Out: Knee,week_15,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_15,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_15,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_15,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_15,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_15,Minnesota Vikings,2015
+['Brandon Watts'],Probable: Rib,week_15,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_15,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_15,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_16,Minnesota Vikings,2015
+['Anthony Barr'],Probable: Knee,week_16,Minnesota Vikings,2015
+['Joe Berger'],NA,week_16,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_16,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_16,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_16,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_16,Minnesota Vikings,2015
+['Scott Crichton'],Injured Reserve: Concussion,week_16,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_16,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_16,Minnesota Vikings,2015
+['Rhett Ellison'],Probable: Ankle,week_16,Minnesota Vikings,2015
+['Antone Exum'],Injured Reserve: Ribs,week_16,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_16,Minnesota Vikings,2015
+['Chase Ford'],NA,week_16,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_16,Minnesota Vikings,2015
+['Everson Griffen'],Probable: Shoulder,week_16,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_16,Minnesota Vikings,2015
+['Charles Johnson'],Probable: Ankle,week_16,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_16,Minnesota Vikings,2015
+['Linval Joseph'],Probable: Foot,week_16,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_16,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_16,Minnesota Vikings,2015
+['Zach Line'],NA,week_16,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_16,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_16,Minnesota Vikings,2015
+['Jerick McKinnon'],Probable: Hamstring,week_16,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_16,Minnesota Vikings,2015
+['Terence Newman'],NA,week_16,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_16,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: Ankle,week_16,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_16,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_16,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_16,Minnesota Vikings,2015
+['Josh Robinson'],Probable: Concussion,week_16,Minnesota Vikings,2015
+['Brian Robison'],NA,week_16,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_16,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_16,Minnesota Vikings,2015
+['Harrison Smith'],Probable: Knee,week_16,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_16,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_16,Minnesota Vikings,2015
+['Adam Thielen'],NA,week_16,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_16,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_16,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_16,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_16,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_16,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_17,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_17,Minnesota Vikings,2015
+['Joe Berger'],NA,week_17,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_17,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_17,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_17,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_17,Minnesota Vikings,2015
+['Scott Crichton'],Injured Reserve: Concussion,week_17,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_17,Minnesota Vikings,2015
+['Kenrick Ellis'],NA,week_17,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_17,Minnesota Vikings,2015
+['Antone Exum'],Injured Reserve: Ribs,week_17,Minnesota Vikings,2015
+['Sharrif Floyd'],Probable: Knee,week_17,Minnesota Vikings,2015
+['Chase Ford'],NA,week_17,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_17,Minnesota Vikings,2015
+['Everson Griffen'],Probable: Shoulder,week_17,Minnesota Vikings,2015
+['Anthony Harris'],Probable: Hip,week_17,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_17,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_17,Minnesota Vikings,2015
+['Linval Joseph'],Doubtful: Foot,week_17,Minnesota Vikings,2015
+['Matt Kalil'],Probable: Shin,week_17,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_17,Minnesota Vikings,2015
+['Zach Line'],NA,week_17,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_17,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_17,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_17,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_17,Minnesota Vikings,2015
+['Terence Newman'],NA,week_17,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_17,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: Ankle,week_17,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_17,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_17,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_17,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_17,Minnesota Vikings,2015
+['Brian Robison'],NA,week_17,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_17,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_17,Minnesota Vikings,2015
+['Harrison Smith'],Probable: Hamstring,week_17,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_17,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_17,Minnesota Vikings,2015
+['Adam Thielen'],Probable: Back,week_17,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_17,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_17,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_17,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_17,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_17,Minnesota Vikings,2015
+['Matt Asiata'],NA,week_18,Minnesota Vikings,2015
+['Anthony Barr'],NA,week_18,Minnesota Vikings,2015
+['Joe Berger'],NA,week_18,Minnesota Vikings,2015
+['Robert Blanton'],NA,week_18,Minnesota Vikings,2015
+['Teddy Bridgewater'],NA,week_18,Minnesota Vikings,2015
+['T.J. Clemmings'],NA,week_18,Minnesota Vikings,2015
+['Audie Cole'],Injured Reserve: Ankle,week_18,Minnesota Vikings,2015
+['Scott Crichton'],Injured Reserve: Concussion,week_18,Minnesota Vikings,2015
+['Stefon Diggs'],NA,week_18,Minnesota Vikings,2015
+['Kenrick Ellis'],Out: ankle,week_18,Minnesota Vikings,2015
+['Rhett Ellison'],NA,week_18,Minnesota Vikings,2015
+['Antone Exum'],Injured Reserve: Ribs,week_18,Minnesota Vikings,2015
+['Sharrif Floyd'],NA,week_18,Minnesota Vikings,2015
+['Chase Ford'],NA,week_18,Minnesota Vikings,2015
+['Brandon Fusco'],NA,week_18,Minnesota Vikings,2015
+['Everson Griffen'],Probable: shoulder,week_18,Minnesota Vikings,2015
+['Anthony Harris'],NA,week_18,Minnesota Vikings,2015
+['Charles Johnson'],NA,week_18,Minnesota Vikings,2015
+['Tom Johnson'],NA,week_18,Minnesota Vikings,2015
+['Linval Joseph'],Probable: foot,week_18,Minnesota Vikings,2015
+['Matt Kalil'],NA,week_18,Minnesota Vikings,2015
+['Eric Kendricks'],NA,week_18,Minnesota Vikings,2015
+['Zach Line'],NA,week_18,Minnesota Vikings,2015
+['Phil Loadholt'],Injured Reserve: Achilles,week_18,Minnesota Vikings,2015
+['Casey Matthews'],Injured Reserve: Hip,week_18,Minnesota Vikings,2015
+['Jerick McKinnon'],NA,week_18,Minnesota Vikings,2015
+['Captain Munnerlyn'],NA,week_18,Minnesota Vikings,2015
+['Terence Newman'],NA,week_18,Minnesota Vikings,2015
+['Cordarrelle Patterson'],NA,week_18,Minnesota Vikings,2015
+['Adrian Peterson'],Probable: back,week_18,Minnesota Vikings,2015
+['Jabari Price'],Injured Reserve: Shoulder,week_18,Minnesota Vikings,2015
+['MyCole Pruitt'],NA,week_18,Minnesota Vikings,2015
+['Xavier Rhodes'],NA,week_18,Minnesota Vikings,2015
+['Josh Robinson'],NA,week_18,Minnesota Vikings,2015
+['Brian Robison'],NA,week_18,Minnesota Vikings,2015
+['Andrew Sendejo'],NA,week_18,Minnesota Vikings,2015
+['Marcus Sherels'],NA,week_18,Minnesota Vikings,2015
+['Harrison Smith'],NA,week_18,Minnesota Vikings,2015
+['Shamar Stephen'],Injured Reserve: Toe,week_18,Minnesota Vikings,2015
+['John Sullivan'],Injured Reserve: Back,week_18,Minnesota Vikings,2015
+['Adam Thielen'],"Probable: shoulder, back",week_18,Minnesota Vikings,2015
+['Justin Trattou'],NA,week_18,Minnesota Vikings,2015
+['Mike Wallace'],NA,week_18,Minnesota Vikings,2015
+['Brandon Watts'],NA,week_18,Minnesota Vikings,2015
+['Trae Waynes'],NA,week_18,Minnesota Vikings,2015
+['Jarius Wright'],NA,week_18,Minnesota Vikings,2015

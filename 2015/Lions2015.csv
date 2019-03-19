@@ -1,0 +1,705 @@
+﻿name,injury,week,team,year
+['Isa Abdul-Quddus'],NA,week_1,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_1,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_1,Detroit Lions,2015
+['Joique Bell'],NA,week_1,Detroit Lions,2015
+['Bill Bentley'],NA,week_1,Detroit Lions,2015
+['Crezdon Butler'],NA,week_1,Detroit Lions,2015
+['Josh Bynes'],NA,week_1,Detroit Lions,2015
+['Don Carey'],NA,week_1,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_1,Detroit Lions,2015
+['Eric Ebron'],Probable: Ankle,week_1,Detroit Lions,2015
+['Andre Fluellen'],NA,week_1,Detroit Lions,2015
+['James Ihedigbo'],NA,week_1,Detroit Lions,2015
+['Calvin Johnson'],NA,week_1,Detroit Lions,2015
+['Jason Jones'],NA,week_1,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_1,Detroit Lions,2015
+['Nevin Lawson'],NA,week_1,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_1,Detroit Lions,2015
+['Travis Lewis'],NA,week_1,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_1,Detroit Lions,2015
+['Sam Martin'],NA,week_1,Detroit Lions,2015
+['Rashean Mathis'],NA,week_1,Detroit Lions,2015
+['Lance Moore'],NA,week_1,Detroit Lions,2015
+['Haloti Ngata'],NA,week_1,Detroit Lions,2015
+['Michael Ola'],NA,week_1,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_1,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_1,Detroit Lions,2015
+['Matt Prater'],NA,week_1,Detroit Lions,2015
+['Glover Quin'],NA,week_1,Detroit Lions,2015
+['Caraun Reid'],Out: Ankle,week_1,Detroit Lions,2015
+['Theo Riddick'],NA,week_1,Detroit Lions,2015
+['Corey Robinson'],NA,week_1,Detroit Lions,2015
+['Darius Slay'],NA,week_1,Detroit Lions,2015
+['Matthew Stafford'],NA,week_1,Detroit Lions,2015
+['Travis Swanson'],NA,week_1,Detroit Lions,2015
+['Darryl Tapp'],NA,week_1,Detroit Lions,2015
+['Golden Tate'],NA,week_1,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_1,Detroit Lions,2015
+['LaAdrian Waddle'],Questionable: Elbow,week_1,Detroit Lions,2015
+['Tyrunn Walker'],NA,week_1,Detroit Lions,2015
+['Larry Warford'],Out: Ankle,week_1,Detroit Lions,2015
+['Tahir Whitehead'],Probable: Elbow,week_1,Detroit Lions,2015
+['Josh Wilson'],NA,week_1,Detroit Lions,2015
+['Gabe Wright'],NA,week_1,Detroit Lions,2015
+['Zach Zenner'],NA,week_1,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_2,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_2,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_2,Detroit Lions,2015
+['Joique Bell'],NA,week_2,Detroit Lions,2015
+['Bill Bentley'],NA,week_2,Detroit Lions,2015
+['Crezdon Butler'],NA,week_2,Detroit Lions,2015
+['Josh Bynes'],NA,week_2,Detroit Lions,2015
+['Don Carey'],NA,week_2,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_2,Detroit Lions,2015
+['Eric Ebron'],NA,week_2,Detroit Lions,2015
+['Andre Fluellen'],NA,week_2,Detroit Lions,2015
+['James Ihedigbo'],NA,week_2,Detroit Lions,2015
+['Calvin Johnson'],NA,week_2,Detroit Lions,2015
+['Jason Jones'],NA,week_2,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_2,Detroit Lions,2015
+['Nevin Lawson'],NA,week_2,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_2,Detroit Lions,2015
+['Travis Lewis'],NA,week_2,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_2,Detroit Lions,2015
+['Sam Martin'],NA,week_2,Detroit Lions,2015
+['Rashean Mathis'],NA,week_2,Detroit Lions,2015
+['Lance Moore'],NA,week_2,Detroit Lions,2015
+['Haloti Ngata'],Questionable: Shoulder,week_2,Detroit Lions,2015
+['Michael Ola'],NA,week_2,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_2,Detroit Lions,2015
+['Brandon Pettigrew'],Out: Hamstring,week_2,Detroit Lions,2015
+['Matt Prater'],NA,week_2,Detroit Lions,2015
+['Glover Quin'],NA,week_2,Detroit Lions,2015
+['Caraun Reid'],Questionable: Ankle,week_2,Detroit Lions,2015
+['Theo Riddick'],NA,week_2,Detroit Lions,2015
+['Corey Robinson'],NA,week_2,Detroit Lions,2015
+['Darius Slay'],Probable: Ankle,week_2,Detroit Lions,2015
+['Matthew Stafford'],Probable: RightUpperArm,week_2,Detroit Lions,2015
+['Travis Swanson'],NA,week_2,Detroit Lions,2015
+['Darryl Tapp'],NA,week_2,Detroit Lions,2015
+['Golden Tate'],Probable: Quadricep,week_2,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_2,Detroit Lions,2015
+['LaAdrian Waddle'],Probable: Elbow,week_2,Detroit Lions,2015
+['Tyrunn Walker'],NA,week_2,Detroit Lions,2015
+['Larry Warford'],Probable: Ankle,week_2,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_2,Detroit Lions,2015
+['Josh Wilson'],NA,week_2,Detroit Lions,2015
+['Gabe Wright'],NA,week_2,Detroit Lions,2015
+['Zach Zenner'],NA,week_2,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_3,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_3,Detroit Lions,2015
+['Ezekiel Ansah'],Probable: Back,week_3,Detroit Lions,2015
+['Joique Bell'],NA,week_3,Detroit Lions,2015
+['Bill Bentley'],NA,week_3,Detroit Lions,2015
+['Crezdon Butler'],NA,week_3,Detroit Lions,2015
+['Josh Bynes'],NA,week_3,Detroit Lions,2015
+['Don Carey'],Probable: Foot,week_3,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_3,Detroit Lions,2015
+['Eric Ebron'],NA,week_3,Detroit Lions,2015
+['Andre Fluellen'],NA,week_3,Detroit Lions,2015
+['James Ihedigbo'],Probable: Knee,week_3,Detroit Lions,2015
+['Calvin Johnson'],NA,week_3,Detroit Lions,2015
+['Jason Jones'],NA,week_3,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_3,Detroit Lions,2015
+['Nevin Lawson'],NA,week_3,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_3,Detroit Lions,2015
+['Travis Lewis'],NA,week_3,Detroit Lions,2015
+['Cornelius Lucas'],Probable: Ankle,week_3,Detroit Lions,2015
+['Sam Martin'],NA,week_3,Detroit Lions,2015
+['Rashean Mathis'],NA,week_3,Detroit Lions,2015
+['Lance Moore'],NA,week_3,Detroit Lions,2015
+['Haloti Ngata'],NA,week_3,Detroit Lions,2015
+['Michael Ola'],NA,week_3,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_3,Detroit Lions,2015
+['Brandon Pettigrew'],Out: Hamstring,week_3,Detroit Lions,2015
+['Matt Prater'],NA,week_3,Detroit Lions,2015
+['Glover Quin'],Probable: Lowerleg,week_3,Detroit Lions,2015
+['Caraun Reid'],NA,week_3,Detroit Lions,2015
+['Theo Riddick'],NA,week_3,Detroit Lions,2015
+['Corey Robinson'],NA,week_3,Detroit Lions,2015
+['Darius Slay'],NA,week_3,Detroit Lions,2015
+['Matthew Stafford'],Probable: Ribs,week_3,Detroit Lions,2015
+['Travis Swanson'],NA,week_3,Detroit Lions,2015
+['Darryl Tapp'],NA,week_3,Detroit Lions,2015
+['Golden Tate'],NA,week_3,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_3,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_3,Detroit Lions,2015
+['Tyrunn Walker'],NA,week_3,Detroit Lions,2015
+['Larry Warford'],Probable: Ankle,week_3,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_3,Detroit Lions,2015
+['Josh Wilson'],NA,week_3,Detroit Lions,2015
+['Gabe Wright'],NA,week_3,Detroit Lions,2015
+['Zach Zenner'],NA,week_3,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_4,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_4,Detroit Lions,2015
+['Ezekiel Ansah'],Questionable: Groin,week_4,Detroit Lions,2015
+['Joique Bell'],Out: Ankle,week_4,Detroit Lions,2015
+['Bill Bentley'],NA,week_4,Detroit Lions,2015
+['Crezdon Butler'],NA,week_4,Detroit Lions,2015
+['Josh Bynes'],NA,week_4,Detroit Lions,2015
+['Don Carey'],NA,week_4,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_4,Detroit Lions,2015
+['Eric Ebron'],NA,week_4,Detroit Lions,2015
+['Andre Fluellen'],NA,week_4,Detroit Lions,2015
+['James Ihedigbo'],NA,week_4,Detroit Lions,2015
+['Calvin Johnson'],NA,week_4,Detroit Lions,2015
+['Jason Jones'],Probable: Knee,week_4,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_4,Detroit Lions,2015
+['Nevin Lawson'],NA,week_4,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_4,Detroit Lions,2015
+['Travis Lewis'],NA,week_4,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_4,Detroit Lions,2015
+['Sam Martin'],NA,week_4,Detroit Lions,2015
+['Rashean Mathis'],NA,week_4,Detroit Lions,2015
+['Lance Moore'],NA,week_4,Detroit Lions,2015
+['Haloti Ngata'],NA,week_4,Detroit Lions,2015
+['Michael Ola'],NA,week_4,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_4,Detroit Lions,2015
+['Brandon Pettigrew'],Out: Hamstring,week_4,Detroit Lions,2015
+['Matt Prater'],NA,week_4,Detroit Lions,2015
+['Glover Quin'],NA,week_4,Detroit Lions,2015
+['Caraun Reid'],NA,week_4,Detroit Lions,2015
+['Theo Riddick'],NA,week_4,Detroit Lions,2015
+['Corey Robinson'],Doubtful: Ankle,week_4,Detroit Lions,2015
+['Darius Slay'],NA,week_4,Detroit Lions,2015
+['Matthew Stafford'],NA,week_4,Detroit Lions,2015
+['Travis Swanson'],NA,week_4,Detroit Lions,2015
+['Darryl Tapp'],NA,week_4,Detroit Lions,2015
+['Golden Tate'],NA,week_4,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_4,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_4,Detroit Lions,2015
+['Tyrunn Walker'],NA,week_4,Detroit Lions,2015
+['Larry Warford'],Questionable: Ankle,week_4,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_4,Detroit Lions,2015
+['Josh Wilson'],Questionable: lowerleg,week_4,Detroit Lions,2015
+['Gabe Wright'],NA,week_4,Detroit Lions,2015
+['Zach Zenner'],NA,week_4,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_5,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_5,Detroit Lions,2015
+['Ezekiel Ansah'],Probable: Shoulder,week_5,Detroit Lions,2015
+['Joique Bell'],Out: Ankle,week_5,Detroit Lions,2015
+['Bill Bentley'],NA,week_5,Detroit Lions,2015
+['Crezdon Butler'],NA,week_5,Detroit Lions,2015
+['Josh Bynes'],NA,week_5,Detroit Lions,2015
+['Don Carey'],NA,week_5,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_5,Detroit Lions,2015
+['Eric Ebron'],Out: Knee,week_5,Detroit Lions,2015
+['Andre Fluellen'],NA,week_5,Detroit Lions,2015
+['James Ihedigbo'],Questionable: Quadricep,week_5,Detroit Lions,2015
+['Calvin Johnson'],NA,week_5,Detroit Lions,2015
+['Jason Jones'],NA,week_5,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_5,Detroit Lions,2015
+['Nevin Lawson'],NA,week_5,Detroit Lions,2015
+['DeAndre Levy'],Probable: Hip,week_5,Detroit Lions,2015
+['Travis Lewis'],Probable: Ankle,week_5,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_5,Detroit Lions,2015
+['Sam Martin'],Probable: leftKnee,week_5,Detroit Lions,2015
+['Rashean Mathis'],Probable: Calf,week_5,Detroit Lions,2015
+['Lance Moore'],Probable: Ankle,week_5,Detroit Lions,2015
+['Haloti Ngata'],Out: Calf,week_5,Detroit Lions,2015
+['Michael Ola'],NA,week_5,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_5,Detroit Lions,2015
+['Brandon Pettigrew'],Probable: Hamstring,week_5,Detroit Lions,2015
+['Matt Prater'],NA,week_5,Detroit Lions,2015
+['Glover Quin'],NA,week_5,Detroit Lions,2015
+['Caraun Reid'],NA,week_5,Detroit Lions,2015
+['Theo Riddick'],NA,week_5,Detroit Lions,2015
+['Corey Robinson'],Probable: Ankle,week_5,Detroit Lions,2015
+['Darius Slay'],Probable: Quadricep,week_5,Detroit Lions,2015
+['Matthew Stafford'],NA,week_5,Detroit Lions,2015
+['Travis Swanson'],NA,week_5,Detroit Lions,2015
+['Darryl Tapp'],NA,week_5,Detroit Lions,2015
+['Golden Tate'],NA,week_5,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_5,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_5,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_5,Detroit Lions,2015
+['Larry Warford'],Questionable: Ankle,week_5,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_5,Detroit Lions,2015
+['Josh Wilson'],NA,week_5,Detroit Lions,2015
+['Gabe Wright'],NA,week_5,Detroit Lions,2015
+['Zach Zenner'],NA,week_5,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_6,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_6,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_6,Detroit Lions,2015
+['Joique Bell'],Questionable: Ankle,week_6,Detroit Lions,2015
+['Bill Bentley'],NA,week_6,Detroit Lions,2015
+['Crezdon Butler'],NA,week_6,Detroit Lions,2015
+['Josh Bynes'],NA,week_6,Detroit Lions,2015
+['Don Carey'],NA,week_6,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_6,Detroit Lions,2015
+['Eric Ebron'],Out: Knee,week_6,Detroit Lions,2015
+['Andre Fluellen'],NA,week_6,Detroit Lions,2015
+['James Ihedigbo'],Questionable: Quadricep,week_6,Detroit Lions,2015
+['Calvin Johnson'],NA,week_6,Detroit Lions,2015
+['Jason Jones'],Probable: Knee,week_6,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_6,Detroit Lions,2015
+['Nevin Lawson'],NA,week_6,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_6,Detroit Lions,2015
+['Travis Lewis'],NA,week_6,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_6,Detroit Lions,2015
+['Sam Martin'],NA,week_6,Detroit Lions,2015
+['Rashean Mathis'],NA,week_6,Detroit Lions,2015
+['Lance Moore'],NA,week_6,Detroit Lions,2015
+['Haloti Ngata'],Out: Calf,week_6,Detroit Lions,2015
+['Michael Ola'],NA,week_6,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_6,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_6,Detroit Lions,2015
+['Matt Prater'],NA,week_6,Detroit Lions,2015
+['Glover Quin'],NA,week_6,Detroit Lions,2015
+['Caraun Reid'],NA,week_6,Detroit Lions,2015
+['Theo Riddick'],Questionable: Groin,week_6,Detroit Lions,2015
+['Corey Robinson'],NA,week_6,Detroit Lions,2015
+['Darius Slay'],Probable: Hip,week_6,Detroit Lions,2015
+['Matthew Stafford'],NA,week_6,Detroit Lions,2015
+['Travis Swanson'],NA,week_6,Detroit Lions,2015
+['Darryl Tapp'],Probable: Ankle,week_6,Detroit Lions,2015
+['Golden Tate'],Probable: Hip,week_6,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_6,Detroit Lions,2015
+['LaAdrian Waddle'],Probable: Knee,week_6,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_6,Detroit Lions,2015
+['Larry Warford'],Probable: Ankle,week_6,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_6,Detroit Lions,2015
+['Josh Wilson'],NA,week_6,Detroit Lions,2015
+['Gabe Wright'],NA,week_6,Detroit Lions,2015
+['Zach Zenner'],NA,week_6,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_7,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_7,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_7,Detroit Lions,2015
+['Joique Bell'],Probable: Ankle,week_7,Detroit Lions,2015
+['Bill Bentley'],NA,week_7,Detroit Lions,2015
+['Crezdon Butler'],NA,week_7,Detroit Lions,2015
+['Josh Bynes'],Probable: Hip,week_7,Detroit Lions,2015
+['Don Carey'],NA,week_7,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_7,Detroit Lions,2015
+['Eric Ebron'],Probable: Knee,week_7,Detroit Lions,2015
+['Andre Fluellen'],NA,week_7,Detroit Lions,2015
+['James Ihedigbo'],Probable: Quadricep,week_7,Detroit Lions,2015
+['Calvin Johnson'],Probable: Ankle,week_7,Detroit Lions,2015
+['Jason Jones'],Probable: Neck,week_7,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_7,Detroit Lions,2015
+['Nevin Lawson'],NA,week_7,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_7,Detroit Lions,2015
+['Travis Lewis'],NA,week_7,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_7,Detroit Lions,2015
+['Sam Martin'],Probable: leftKnee,week_7,Detroit Lions,2015
+['Rashean Mathis'],NA,week_7,Detroit Lions,2015
+['Lance Moore'],NA,week_7,Detroit Lions,2015
+['Haloti Ngata'],Probable: Calf,week_7,Detroit Lions,2015
+['Michael Ola'],NA,week_7,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_7,Detroit Lions,2015
+['Brandon Pettigrew'],Out: Knee,week_7,Detroit Lions,2015
+['Matt Prater'],NA,week_7,Detroit Lions,2015
+['Glover Quin'],NA,week_7,Detroit Lions,2015
+['Caraun Reid'],NA,week_7,Detroit Lions,2015
+['Theo Riddick'],Probable: Groin,week_7,Detroit Lions,2015
+['Corey Robinson'],NA,week_7,Detroit Lions,2015
+['Darius Slay'],NA,week_7,Detroit Lions,2015
+['Matthew Stafford'],NA,week_7,Detroit Lions,2015
+['Travis Swanson'],NA,week_7,Detroit Lions,2015
+['Darryl Tapp'],NA,week_7,Detroit Lions,2015
+['Golden Tate'],Probable: Ankle,week_7,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_7,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_7,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_7,Detroit Lions,2015
+['Larry Warford'],NA,week_7,Detroit Lions,2015
+['Tahir Whitehead'],Probable: Shoulder,week_7,Detroit Lions,2015
+['Josh Wilson'],Questionable: Concussion,week_7,Detroit Lions,2015
+['Gabe Wright'],NA,week_7,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_7,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_8,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_8,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_8,Detroit Lions,2015
+['Joique Bell'],Probable: Ankle,week_8,Detroit Lions,2015
+['Bill Bentley'],NA,week_8,Detroit Lions,2015
+['Crezdon Butler'],NA,week_8,Detroit Lions,2015
+['Josh Bynes'],NA,week_8,Detroit Lions,2015
+['Don Carey'],NA,week_8,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_8,Detroit Lions,2015
+['Eric Ebron'],NA,week_8,Detroit Lions,2015
+['Andre Fluellen'],NA,week_8,Detroit Lions,2015
+['James Ihedigbo'],NA,week_8,Detroit Lions,2015
+['Calvin Johnson'],Probable: NotInjuryRelated,week_8,Detroit Lions,2015
+['Jason Jones'],NA,week_8,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_8,Detroit Lions,2015
+['Nevin Lawson'],NA,week_8,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_8,Detroit Lions,2015
+['Travis Lewis'],NA,week_8,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_8,Detroit Lions,2015
+['Sam Martin'],Probable: leftKnee,week_8,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_8,Detroit Lions,2015
+['Lance Moore'],NA,week_8,Detroit Lions,2015
+['Haloti Ngata'],NA,week_8,Detroit Lions,2015
+['Michael Ola'],NA,week_8,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_8,Detroit Lions,2015
+['Brandon Pettigrew'],Probable: Elbow,week_8,Detroit Lions,2015
+['Matt Prater'],NA,week_8,Detroit Lions,2015
+['Glover Quin'],NA,week_8,Detroit Lions,2015
+['Caraun Reid'],NA,week_8,Detroit Lions,2015
+['Theo Riddick'],NA,week_8,Detroit Lions,2015
+['Corey Robinson'],NA,week_8,Detroit Lions,2015
+['Darius Slay'],NA,week_8,Detroit Lions,2015
+['Matthew Stafford'],Probable: Quadricep,week_8,Detroit Lions,2015
+['Travis Swanson'],NA,week_8,Detroit Lions,2015
+['Darryl Tapp'],NA,week_8,Detroit Lions,2015
+['Golden Tate'],NA,week_8,Detroit Lions,2015
+['Stephen Tulloch'],Probable: Illness,week_8,Detroit Lions,2015
+['LaAdrian Waddle'],Questionable: Knee,week_8,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_8,Detroit Lions,2015
+['Larry Warford'],NA,week_8,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_8,Detroit Lions,2015
+['Josh Wilson'],NA,week_8,Detroit Lions,2015
+['Gabe Wright'],NA,week_8,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_8,Detroit Lions,2015
+['Isa Abdul-Quddus'],Questionable: Foot,week_10,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_10,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_10,Detroit Lions,2015
+['Joique Bell'],NA,week_10,Detroit Lions,2015
+['Bill Bentley'],NA,week_10,Detroit Lions,2015
+['Crezdon Butler'],NA,week_10,Detroit Lions,2015
+['Josh Bynes'],NA,week_10,Detroit Lions,2015
+['Don Carey'],NA,week_10,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_10,Detroit Lions,2015
+['Eric Ebron'],NA,week_10,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_10,Detroit Lions,2015
+['James Ihedigbo'],Probable: Shoulder,week_10,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_10,Detroit Lions,2015
+['Jason Jones'],NA,week_10,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_10,Detroit Lions,2015
+['Nevin Lawson'],NA,week_10,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_10,Detroit Lions,2015
+['Travis Lewis'],Probable: Groin,week_10,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_10,Detroit Lions,2015
+['Sam Martin'],NA,week_10,Detroit Lions,2015
+['Rashean Mathis'],Out: Concussion,week_10,Detroit Lions,2015
+['Lance Moore'],NA,week_10,Detroit Lions,2015
+['Haloti Ngata'],NA,week_10,Detroit Lions,2015
+['Michael Ola'],NA,week_10,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_10,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_10,Detroit Lions,2015
+['Matt Prater'],NA,week_10,Detroit Lions,2015
+['Glover Quin'],NA,week_10,Detroit Lions,2015
+['Caraun Reid'],NA,week_10,Detroit Lions,2015
+['Theo Riddick'],NA,week_10,Detroit Lions,2015
+['Corey Robinson'],NA,week_10,Detroit Lions,2015
+['Darius Slay'],Probable: Head,week_10,Detroit Lions,2015
+['Matthew Stafford'],NA,week_10,Detroit Lions,2015
+['Travis Swanson'],NA,week_10,Detroit Lions,2015
+['Darryl Tapp'],NA,week_10,Detroit Lions,2015
+['Golden Tate'],NA,week_10,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_10,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_10,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_10,Detroit Lions,2015
+['Larry Warford'],NA,week_10,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_10,Detroit Lions,2015
+['Josh Wilson'],Probable: Neck,week_10,Detroit Lions,2015
+['Gabe Wright'],NA,week_10,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_10,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_11,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_11,Detroit Lions,2015
+['Ezekiel Ansah'],Probable: Toe,week_11,Detroit Lions,2015
+['Joique Bell'],Probable: Shoulder,week_11,Detroit Lions,2015
+['Bill Bentley'],NA,week_11,Detroit Lions,2015
+['Crezdon Butler'],NA,week_11,Detroit Lions,2015
+['Josh Bynes'],NA,week_11,Detroit Lions,2015
+['Don Carey'],Questionable: Back,week_11,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_11,Detroit Lions,2015
+['Eric Ebron'],NA,week_11,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_11,Detroit Lions,2015
+['James Ihedigbo'],NA,week_11,Detroit Lions,2015
+['Calvin Johnson'],Probable: Ankle,week_11,Detroit Lions,2015
+['Jason Jones'],Probable: NotInjuryRelated,week_11,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_11,Detroit Lions,2015
+['Nevin Lawson'],Questionable: Concussion,week_11,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_11,Detroit Lions,2015
+['Travis Lewis'],NA,week_11,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_11,Detroit Lions,2015
+['Sam Martin'],Probable: Back,week_11,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_11,Detroit Lions,2015
+['Lance Moore'],NA,week_11,Detroit Lions,2015
+['Haloti Ngata'],NA,week_11,Detroit Lions,2015
+['Michael Ola'],NA,week_11,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_11,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_11,Detroit Lions,2015
+['Matt Prater'],NA,week_11,Detroit Lions,2015
+['Glover Quin'],Probable: Ankle,week_11,Detroit Lions,2015
+['Caraun Reid'],NA,week_11,Detroit Lions,2015
+['Theo Riddick'],NA,week_11,Detroit Lions,2015
+['Corey Robinson'],NA,week_11,Detroit Lions,2015
+['Darius Slay'],NA,week_11,Detroit Lions,2015
+['Matthew Stafford'],NA,week_11,Detroit Lions,2015
+['Travis Swanson'],NA,week_11,Detroit Lions,2015
+['Darryl Tapp'],NA,week_11,Detroit Lions,2015
+['Golden Tate'],NA,week_11,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_11,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_11,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_11,Detroit Lions,2015
+['Larry Warford'],NA,week_11,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_11,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_11,Detroit Lions,2015
+['Gabe Wright'],Out: Ankle,week_11,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_11,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_12,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_12,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_12,Detroit Lions,2015
+['Joique Bell'],NA,week_12,Detroit Lions,2015
+['Bill Bentley'],NA,week_12,Detroit Lions,2015
+['Crezdon Butler'],Probable: Teeth,week_12,Detroit Lions,2015
+['Josh Bynes'],NA,week_12,Detroit Lions,2015
+['Don Carey'],Questionable: Back,week_12,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_12,Detroit Lions,2015
+['Eric Ebron'],Probable: Quadricep,week_12,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_12,Detroit Lions,2015
+['James Ihedigbo'],NA,week_12,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_12,Detroit Lions,2015
+['Jason Jones'],NA,week_12,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_12,Detroit Lions,2015
+['Nevin Lawson'],NA,week_12,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_12,Detroit Lions,2015
+['Travis Lewis'],NA,week_12,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_12,Detroit Lions,2015
+['Sam Martin'],NA,week_12,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_12,Detroit Lions,2015
+['Lance Moore'],NA,week_12,Detroit Lions,2015
+['Haloti Ngata'],NA,week_12,Detroit Lions,2015
+['Michael Ola'],NA,week_12,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_12,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_12,Detroit Lions,2015
+['Matt Prater'],NA,week_12,Detroit Lions,2015
+['Glover Quin'],NA,week_12,Detroit Lions,2015
+['Caraun Reid'],Questionable: Ankle,week_12,Detroit Lions,2015
+['Theo Riddick'],NA,week_12,Detroit Lions,2015
+['Corey Robinson'],NA,week_12,Detroit Lions,2015
+['Darius Slay'],Questionable: Neck,week_12,Detroit Lions,2015
+['Matthew Stafford'],NA,week_12,Detroit Lions,2015
+['Travis Swanson'],NA,week_12,Detroit Lions,2015
+['Darryl Tapp'],NA,week_12,Detroit Lions,2015
+['Golden Tate'],NA,week_12,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_12,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_12,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_12,Detroit Lions,2015
+['Larry Warford'],NA,week_12,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_12,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_12,Detroit Lions,2015
+['Gabe Wright'],Questionable: Ankle,week_12,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_12,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_13,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_13,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_13,Detroit Lions,2015
+['Joique Bell'],NA,week_13,Detroit Lions,2015
+['Bill Bentley'],NA,week_13,Detroit Lions,2015
+['Crezdon Butler'],NA,week_13,Detroit Lions,2015
+['Josh Bynes'],NA,week_13,Detroit Lions,2015
+['Don Carey'],NA,week_13,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_13,Detroit Lions,2015
+['Eric Ebron'],NA,week_13,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_13,Detroit Lions,2015
+['James Ihedigbo'],Probable: Hamstring,week_13,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_13,Detroit Lions,2015
+['Jason Jones'],NA,week_13,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_13,Detroit Lions,2015
+['Nevin Lawson'],NA,week_13,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_13,Detroit Lions,2015
+['Travis Lewis'],NA,week_13,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_13,Detroit Lions,2015
+['Sam Martin'],NA,week_13,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_13,Detroit Lions,2015
+['Lance Moore'],Out: Ankle,week_13,Detroit Lions,2015
+['Haloti Ngata'],NA,week_13,Detroit Lions,2015
+['Michael Ola'],NA,week_13,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_13,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_13,Detroit Lions,2015
+['Matt Prater'],Questionable: Illness,week_13,Detroit Lions,2015
+['Glover Quin'],Questionable: Ankle,week_13,Detroit Lions,2015
+['Caraun Reid'],Questionable: Ankle,week_13,Detroit Lions,2015
+['Theo Riddick'],NA,week_13,Detroit Lions,2015
+['Corey Robinson'],NA,week_13,Detroit Lions,2015
+['Darius Slay'],NA,week_13,Detroit Lions,2015
+['Matthew Stafford'],NA,week_13,Detroit Lions,2015
+['Travis Swanson'],Questionable: Ankle,week_13,Detroit Lions,2015
+['Darryl Tapp'],NA,week_13,Detroit Lions,2015
+['Golden Tate'],Probable: Calf,week_13,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_13,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_13,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_13,Detroit Lions,2015
+['Larry Warford'],Questionable: Concussion,week_13,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_13,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_13,Detroit Lions,2015
+['Gabe Wright'],Probable: Ankle,week_13,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_13,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_14,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_14,Detroit Lions,2015
+['Ezekiel Ansah'],Questionable: Hamstring,week_14,Detroit Lions,2015
+['Joique Bell'],NA,week_14,Detroit Lions,2015
+['Bill Bentley'],NA,week_14,Detroit Lions,2015
+['Crezdon Butler'],NA,week_14,Detroit Lions,2015
+['Josh Bynes'],NA,week_14,Detroit Lions,2015
+['Don Carey'],NA,week_14,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_14,Detroit Lions,2015
+['Eric Ebron'],NA,week_14,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_14,Detroit Lions,2015
+['James Ihedigbo'],NA,week_14,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Jason Jones'],NA,week_14,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_14,Detroit Lions,2015
+['Nevin Lawson'],NA,week_14,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_14,Detroit Lions,2015
+['Travis Lewis'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_14,Detroit Lions,2015
+['Sam Martin'],NA,week_14,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_14,Detroit Lions,2015
+['Lance Moore'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Haloti Ngata'],NA,week_14,Detroit Lions,2015
+['Michael Ola'],Questionable: Knee,week_14,Detroit Lions,2015
+['Chris Owens'],Injured Reserve: Undisclosed,week_14,Detroit Lions,2015
+['Brandon Pettigrew'],NA,week_14,Detroit Lions,2015
+['Matt Prater'],NA,week_14,Detroit Lions,2015
+['Glover Quin'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Caraun Reid'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Theo Riddick'],NA,week_14,Detroit Lions,2015
+['Corey Robinson'],NA,week_14,Detroit Lions,2015
+['Darius Slay'],NA,week_14,Detroit Lions,2015
+['Matthew Stafford'],NA,week_14,Detroit Lions,2015
+['Travis Swanson'],Questionable: Ankle,week_14,Detroit Lions,2015
+['Darryl Tapp'],NA,week_14,Detroit Lions,2015
+['Golden Tate'],NA,week_14,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_14,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_14,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_14,Detroit Lions,2015
+['Larry Warford'],NA,week_14,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_14,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_14,Detroit Lions,2015
+['Gabe Wright'],NA,week_14,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_14,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_15,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_15,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_15,Detroit Lions,2015
+['Joique Bell'],NA,week_15,Detroit Lions,2015
+['Bill Bentley'],NA,week_15,Detroit Lions,2015
+['Crezdon Butler'],NA,week_15,Detroit Lions,2015
+['Josh Bynes'],NA,week_15,Detroit Lions,2015
+['Don Carey'],NA,week_15,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_15,Detroit Lions,2015
+['Eric Ebron'],Questionable: Illness,week_15,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_15,Detroit Lions,2015
+['James Ihedigbo'],NA,week_15,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_15,Detroit Lions,2015
+['Jason Jones'],NA,week_15,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_15,Detroit Lions,2015
+['Nevin Lawson'],NA,week_15,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_15,Detroit Lions,2015
+['Travis Lewis'],NA,week_15,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_15,Detroit Lions,2015
+['Sam Martin'],NA,week_15,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_15,Detroit Lions,2015
+['Lance Moore'],Probable: Ankle,week_15,Detroit Lions,2015
+['Haloti Ngata'],Questionable: Neck,week_15,Detroit Lions,2015
+['Michael Ola'],Questionable: Knee,week_15,Detroit Lions,2015
+['Chris Owens'],NA,week_15,Detroit Lions,2015
+['Brandon Pettigrew'],Injured Reserve: Knee,week_15,Detroit Lions,2015
+['Matt Prater'],NA,week_15,Detroit Lions,2015
+['Glover Quin'],Questionable: Ankle,week_15,Detroit Lions,2015
+['Caraun Reid'],NA,week_15,Detroit Lions,2015
+['Theo Riddick'],NA,week_15,Detroit Lions,2015
+['Corey Robinson'],NA,week_15,Detroit Lions,2015
+['Darius Slay'],NA,week_15,Detroit Lions,2015
+['Matthew Stafford'],NA,week_15,Detroit Lions,2015
+['Travis Swanson'],NA,week_15,Detroit Lions,2015
+['Darryl Tapp'],NA,week_15,Detroit Lions,2015
+['Golden Tate'],NA,week_15,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_15,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_15,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_15,Detroit Lions,2015
+['Larry Warford'],NA,week_15,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_15,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_15,Detroit Lions,2015
+['Gabe Wright'],NA,week_15,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_15,Detroit Lions,2015
+['Isa Abdul-Quddus'],NA,week_16,Detroit Lions,2015
+['Ameer Abdullah'],NA,week_16,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_16,Detroit Lions,2015
+['Joique Bell'],NA,week_16,Detroit Lions,2015
+['Bill Bentley'],Questionable: Illness,week_16,Detroit Lions,2015
+['Crezdon Butler'],NA,week_16,Detroit Lions,2015
+['Josh Bynes'],Questionable: Foot,week_16,Detroit Lions,2015
+['Don Carey'],NA,week_16,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_16,Detroit Lions,2015
+['Eric Ebron'],NA,week_16,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_16,Detroit Lions,2015
+['James Ihedigbo'],NA,week_16,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_16,Detroit Lions,2015
+['Jason Jones'],NA,week_16,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_16,Detroit Lions,2015
+['Nevin Lawson'],NA,week_16,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_16,Detroit Lions,2015
+['Travis Lewis'],NA,week_16,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_16,Detroit Lions,2015
+['Sam Martin'],NA,week_16,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_16,Detroit Lions,2015
+['Lance Moore'],NA,week_16,Detroit Lions,2015
+['Haloti Ngata'],Questionable: Neck,week_16,Detroit Lions,2015
+['Michael Ola'],Questionable: Knee,week_16,Detroit Lions,2015
+['Chris Owens'],NA,week_16,Detroit Lions,2015
+['Brandon Pettigrew'],Injured Reserve: Knee,week_16,Detroit Lions,2015
+['Matt Prater'],NA,week_16,Detroit Lions,2015
+['Glover Quin'],Questionable: Concussion,week_16,Detroit Lions,2015
+['Caraun Reid'],Questionable: Ankle,week_16,Detroit Lions,2015
+['Theo Riddick'],NA,week_16,Detroit Lions,2015
+['Corey Robinson'],NA,week_16,Detroit Lions,2015
+['Darius Slay'],NA,week_16,Detroit Lions,2015
+['Matthew Stafford'],NA,week_16,Detroit Lions,2015
+['Travis Swanson'],NA,week_16,Detroit Lions,2015
+['Darryl Tapp'],NA,week_16,Detroit Lions,2015
+['Golden Tate'],NA,week_16,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_16,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_16,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_16,Detroit Lions,2015
+['Larry Warford'],Questionable: Quadricep,week_16,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_16,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_16,Detroit Lions,2015
+['Gabe Wright'],NA,week_16,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_16,Detroit Lions,2015
+['Isa Abdul-Quddus'],Questionable: Shoulder,week_17,Detroit Lions,2015
+['Ameer Abdullah'],Questionable: Shoulder,week_17,Detroit Lions,2015
+['Ezekiel Ansah'],NA,week_17,Detroit Lions,2015
+['Joique Bell'],NA,week_17,Detroit Lions,2015
+['Bill Bentley'],NA,week_17,Detroit Lions,2015
+['Crezdon Butler'],NA,week_17,Detroit Lions,2015
+['Josh Bynes'],Probable: Thumb,week_17,Detroit Lions,2015
+['Don Carey'],NA,week_17,Detroit Lions,2015
+['Alex Carter'],Injured Reserve: Ankle,week_17,Detroit Lions,2015
+['Eric Ebron'],NA,week_17,Detroit Lions,2015
+['Andre Fluellen'],Injured Reserve: Undisclosed,week_17,Detroit Lions,2015
+['James Ihedigbo'],NA,week_17,Detroit Lions,2015
+['Calvin Johnson'],Questionable: Ankle,week_17,Detroit Lions,2015
+['Jason Jones'],Doubtful: Neck,week_17,Detroit Lions,2015
+['Darren Keyton'],Injured Reserve: Knee,week_17,Detroit Lions,2015
+['Nevin Lawson'],Questionable: Shoulder,week_17,Detroit Lions,2015
+['DeAndre Levy'],Injured Reserve: Hip,week_17,Detroit Lions,2015
+['Travis Lewis'],NA,week_17,Detroit Lions,2015
+['Cornelius Lucas'],NA,week_17,Detroit Lions,2015
+['Sam Martin'],NA,week_17,Detroit Lions,2015
+['Rashean Mathis'],Injured Reserve: Concussion,week_17,Detroit Lions,2015
+['Lance Moore'],NA,week_17,Detroit Lions,2015
+['Haloti Ngata'],Questionable: Foot,week_17,Detroit Lions,2015
+['Michael Ola'],Questionable: Knee,week_17,Detroit Lions,2015
+['Chris Owens'],NA,week_17,Detroit Lions,2015
+['Brandon Pettigrew'],Injured Reserve: Knee,week_17,Detroit Lions,2015
+['Matt Prater'],NA,week_17,Detroit Lions,2015
+['Glover Quin'],NA,week_17,Detroit Lions,2015
+['Caraun Reid'],NA,week_17,Detroit Lions,2015
+['Theo Riddick'],NA,week_17,Detroit Lions,2015
+['Corey Robinson'],NA,week_17,Detroit Lions,2015
+['Darius Slay'],NA,week_17,Detroit Lions,2015
+['Matthew Stafford'],NA,week_17,Detroit Lions,2015
+['Travis Swanson'],Out: Shoulder,week_17,Detroit Lions,2015
+['Darryl Tapp'],NA,week_17,Detroit Lions,2015
+['Golden Tate'],NA,week_17,Detroit Lions,2015
+['Stephen Tulloch'],NA,week_17,Detroit Lions,2015
+['LaAdrian Waddle'],NA,week_17,Detroit Lions,2015
+['Tyrunn Walker'],Injured Reserve: Ankle,week_17,Detroit Lions,2015
+['Larry Warford'],NA,week_17,Detroit Lions,2015
+['Tahir Whitehead'],NA,week_17,Detroit Lions,2015
+['Josh Wilson'],Injured Reserve: Knee,week_17,Detroit Lions,2015
+['Gabe Wright'],NA,week_17,Detroit Lions,2015
+['Zach Zenner'],Injured Reserve: Chest,week_17,Detroit Lions,2015

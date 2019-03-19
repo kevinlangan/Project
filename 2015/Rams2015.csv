@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Maurice Alexander'],NA,week_1,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_1,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_1,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_1,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_1,Los Angeles Rams,2015
+['Mark Barron'],NA,week_1,Los Angeles Rams,2015
+['Daren Bates'],Questionable: Knee,week_1,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_1,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_1,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_1,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_1,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_1,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_1,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_1,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_1,Los Angeles Rams,2015
+['Todd Gurley'],Out: Knee,week_1,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_1,Los Angeles Rams,2015
+['William Hayes'],NA,week_1,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_1,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_1,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_1,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_1,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_1,Los Angeles Rams,2015
+['Case Keenum'],NA,week_1,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_1,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_1,Los Angeles Rams,2015
+['Chris Long'],NA,week_1,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_1,Los Angeles Rams,2015
+['Tre Mason'],Questionable: Thigh,week_1,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_1,Los Angeles Rams,2015
+['Alec Ogletree'],NA,week_1,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_1,Los Angeles Rams,2015
+['Robert Quinn'],NA,week_1,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_1,Los Angeles Rams,2015
+['Rodger Saffold'],NA,week_1,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_1,Los Angeles Rams,2015
+['Wes Welker'],NA,week_1,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_1,Los Angeles Rams,2015
+['Damian Williams'],NA,week_1,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_1,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_1,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_2,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_2,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_2,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_2,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_2,Los Angeles Rams,2015
+['Mark Barron'],NA,week_2,Los Angeles Rams,2015
+['Daren Bates'],Probable: Knee,week_2,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_2,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_2,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_2,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_2,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_2,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_2,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_2,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_2,Los Angeles Rams,2015
+['Todd Gurley'],Questionable: Knee,week_2,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_2,Los Angeles Rams,2015
+['William Hayes'],NA,week_2,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_2,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_2,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_2,Los Angeles Rams,2015
+['Trumaine Johnson'],Probable: Concussion,week_2,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_2,Los Angeles Rams,2015
+['Case Keenum'],NA,week_2,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_2,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_2,Los Angeles Rams,2015
+['Chris Long'],NA,week_2,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_2,Los Angeles Rams,2015
+['Tre Mason'],Questionable: Thigh,week_2,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_2,Los Angeles Rams,2015
+['Alec Ogletree'],NA,week_2,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_2,Los Angeles Rams,2015
+['Robert Quinn'],NA,week_2,Los Angeles Rams,2015
+['Chase Reynolds'],Out: Knee,week_2,Los Angeles Rams,2015
+['Rodger Saffold'],NA,week_2,Los Angeles Rams,2015
+['Eugene Sims'],Out: Knee,week_2,Los Angeles Rams,2015
+['Wes Welker'],NA,week_2,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_2,Los Angeles Rams,2015
+['Damian Williams'],NA,week_2,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_2,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_2,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_3,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_3,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_3,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_3,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_3,Los Angeles Rams,2015
+['Mark Barron'],NA,week_3,Los Angeles Rams,2015
+['Daren Bates'],NA,week_3,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_3,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_3,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_3,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_3,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_3,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_3,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_3,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_3,Los Angeles Rams,2015
+['Todd Gurley'],Questionable: Knee,week_3,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_3,Los Angeles Rams,2015
+['William Hayes'],NA,week_3,Los Angeles Rams,2015
+['Johnny Hekker'],Probable: Illness,week_3,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_3,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_3,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_3,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_3,Los Angeles Rams,2015
+['Case Keenum'],NA,week_3,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_3,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_3,Los Angeles Rams,2015
+['Chris Long'],NA,week_3,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_3,Los Angeles Rams,2015
+['Tre Mason'],NA,week_3,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_3,Los Angeles Rams,2015
+['Alec Ogletree'],NA,week_3,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_3,Los Angeles Rams,2015
+['Robert Quinn'],NA,week_3,Los Angeles Rams,2015
+['Chase Reynolds'],Probable: Knee,week_3,Los Angeles Rams,2015
+['Rodger Saffold'],NA,week_3,Los Angeles Rams,2015
+['Eugene Sims'],Probable: Knee,week_3,Los Angeles Rams,2015
+['Wes Welker'],NA,week_3,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_3,Los Angeles Rams,2015
+['Damian Williams'],NA,week_3,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_3,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_3,Los Angeles Rams,2015
+['Maurice Alexander'],Out: Groin,week_4,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_4,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_4,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_4,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_4,Los Angeles Rams,2015
+['Mark Barron'],NA,week_4,Los Angeles Rams,2015
+['Daren Bates'],NA,week_4,Los Angeles Rams,2015
+['Kenny Britt'],Probable: Shoulder,week_4,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_4,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_4,Los Angeles Rams,2015
+['Benny Cunningham'],Probable: Knee,week_4,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_4,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_4,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_4,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_4,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_4,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_4,Los Angeles Rams,2015
+['William Hayes'],NA,week_4,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_4,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_4,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_4,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_4,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_4,Los Angeles Rams,2015
+['Case Keenum'],NA,week_4,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_4,Los Angeles Rams,2015
+['James Laurinaitis'],Probable: NotInjuryRelated,week_4,Los Angeles Rams,2015
+['Chris Long'],NA,week_4,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_4,Los Angeles Rams,2015
+['Tre Mason'],NA,week_4,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_4,Los Angeles Rams,2015
+['Alec Ogletree'],NA,week_4,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_4,Los Angeles Rams,2015
+['Robert Quinn'],NA,week_4,Los Angeles Rams,2015
+['Chase Reynolds'],Doubtful: Knee,week_4,Los Angeles Rams,2015
+['Rodger Saffold'],NA,week_4,Los Angeles Rams,2015
+['Eugene Sims'],Out: Knee,week_4,Los Angeles Rams,2015
+['Wes Welker'],NA,week_4,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_4,Los Angeles Rams,2015
+['Damian Williams'],NA,week_4,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_4,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_4,Los Angeles Rams,2015
+['Maurice Alexander'],Doubtful: Groin,week_5,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_5,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_5,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_5,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_5,Los Angeles Rams,2015
+['Mark Barron'],NA,week_5,Los Angeles Rams,2015
+['Daren Bates'],NA,week_5,Los Angeles Rams,2015
+['Kenny Britt'],Probable: Knee,week_5,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_5,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_5,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_5,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_5,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_5,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_5,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_5,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_5,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_5,Los Angeles Rams,2015
+['William Hayes'],NA,week_5,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_5,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_5,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_5,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_5,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_5,Los Angeles Rams,2015
+['Case Keenum'],NA,week_5,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_5,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_5,Los Angeles Rams,2015
+['Chris Long'],NA,week_5,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_5,Los Angeles Rams,2015
+['Tre Mason'],NA,week_5,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_5,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_5,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_5,Los Angeles Rams,2015
+['Robert Quinn'],Probable: NotInjuryRelated,week_5,Los Angeles Rams,2015
+['Chase Reynolds'],Probable: Knee,week_5,Los Angeles Rams,2015
+['Rodger Saffold'],NA,week_5,Los Angeles Rams,2015
+['Eugene Sims'],Questionable: Knee,week_5,Los Angeles Rams,2015
+['Wes Welker'],NA,week_5,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_5,Los Angeles Rams,2015
+['Damian Williams'],NA,week_5,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_5,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_5,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_7,Los Angeles Rams,2015
+['Tavon Austin'],Questionable: Thigh,week_7,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_7,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_7,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_7,Los Angeles Rams,2015
+['Mark Barron'],NA,week_7,Los Angeles Rams,2015
+['Daren Bates'],NA,week_7,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_7,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_7,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_7,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_7,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_7,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_7,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_7,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_7,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_7,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_7,Los Angeles Rams,2015
+['William Hayes'],NA,week_7,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_7,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_7,Los Angeles Rams,2015
+['Janoris Jenkins'],Probable: Concussion,week_7,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_7,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_7,Los Angeles Rams,2015
+['Case Keenum'],NA,week_7,Los Angeles Rams,2015
+['Lance Kendricks'],Questionable: Hand,week_7,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_7,Los Angeles Rams,2015
+['Chris Long'],Out: Knee,week_7,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_7,Los Angeles Rams,2015
+['Tre Mason'],Questionable: Ankle,week_7,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_7,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_7,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_7,Los Angeles Rams,2015
+['Robert Quinn'],Probable: Knee,week_7,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_7,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_7,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_7,Los Angeles Rams,2015
+['Wes Welker'],NA,week_7,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_7,Los Angeles Rams,2015
+['Damian Williams'],NA,week_7,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_7,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_7,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_8,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_8,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_8,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_8,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_8,Los Angeles Rams,2015
+['Mark Barron'],NA,week_8,Los Angeles Rams,2015
+['Daren Bates'],NA,week_8,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_8,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_8,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_8,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_8,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_8,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_8,Los Angeles Rams,2015
+['Nick Fairley'],Probable: Illness,week_8,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_8,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_8,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_8,Los Angeles Rams,2015
+['William Hayes'],Questionable: Thigh,week_8,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_8,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_8,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_8,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_8,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_8,Los Angeles Rams,2015
+['Case Keenum'],NA,week_8,Los Angeles Rams,2015
+['Lance Kendricks'],Probable: Thumb,week_8,Los Angeles Rams,2015
+['James Laurinaitis'],Probable: Elbow,week_8,Los Angeles Rams,2015
+['Chris Long'],Out: Knee,week_8,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_8,Los Angeles Rams,2015
+['Tre Mason'],Questionable: Ankle,week_8,Los Angeles Rams,2015
+['T.J. McDonald'],Questionable: Shoulder,week_8,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_8,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_8,Los Angeles Rams,2015
+['Robert Quinn'],Questionable: Knee,week_8,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_8,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_8,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_8,Los Angeles Rams,2015
+['Wes Welker'],NA,week_8,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_8,Los Angeles Rams,2015
+['Damian Williams'],NA,week_8,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_8,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_8,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_9,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_9,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_9,Los Angeles Rams,2015
+['Stedman Bailey'],NA,week_9,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_9,Los Angeles Rams,2015
+['Mark Barron'],NA,week_9,Los Angeles Rams,2015
+['Daren Bates'],NA,week_9,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_9,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_9,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_9,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_9,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_9,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_9,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_9,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_9,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_9,Los Angeles Rams,2015
+['Rob Havenstein'],Questionable: Ankle,week_9,Los Angeles Rams,2015
+['William Hayes'],Questionable: Thigh,week_9,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_9,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_9,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_9,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_9,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_9,Los Angeles Rams,2015
+['Case Keenum'],NA,week_9,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_9,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_9,Los Angeles Rams,2015
+['Chris Long'],Out: Knee,week_9,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_9,Los Angeles Rams,2015
+['Tre Mason'],Questionable: Ankle,week_9,Los Angeles Rams,2015
+['T.J. McDonald'],Questionable: Foot,week_9,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_9,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_9,Los Angeles Rams,2015
+['Robert Quinn'],Questionable: Knee,week_9,Los Angeles Rams,2015
+['Chase Reynolds'],Questionable: Thigh,week_9,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_9,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_9,Los Angeles Rams,2015
+['Wes Welker'],NA,week_9,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_9,Los Angeles Rams,2015
+['Damian Williams'],NA,week_9,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_9,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_9,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_10,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_10,Los Angeles Rams,2015
+['Akeem Ayers'],Probable: Illness,week_10,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_10,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_10,Los Angeles Rams,2015
+['Mark Barron'],NA,week_10,Los Angeles Rams,2015
+['Daren Bates'],NA,week_10,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_10,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_10,Los Angeles Rams,2015
+['Jamon Brown'],NA,week_10,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_10,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_10,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_10,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_10,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_10,Los Angeles Rams,2015
+['Todd Gurley'],Probable: NotInjuryRelated,week_10,Los Angeles Rams,2015
+['Rob Havenstein'],Questionable: Ankle,week_10,Los Angeles Rams,2015
+['William Hayes'],NA,week_10,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_10,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_10,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_10,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_10,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_10,Los Angeles Rams,2015
+['Case Keenum'],NA,week_10,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_10,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_10,Los Angeles Rams,2015
+['Chris Long'],Doubtful: Knee,week_10,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_10,Los Angeles Rams,2015
+['Tre Mason'],NA,week_10,Los Angeles Rams,2015
+['T.J. McDonald'],Questionable: Foot,week_10,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_10,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_10,Los Angeles Rams,2015
+['Robert Quinn'],Questionable: Knee,week_10,Los Angeles Rams,2015
+['Chase Reynolds'],Probable: Thigh,week_10,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_10,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_10,Los Angeles Rams,2015
+['Wes Welker'],NA,week_10,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_10,Los Angeles Rams,2015
+['Damian Williams'],NA,week_10,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_10,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_10,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_11,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_11,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_11,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_11,Los Angeles Rams,2015
+['Tim Barnes'],Probable: Concussion,week_11,Los Angeles Rams,2015
+['Mark Barron'],NA,week_11,Los Angeles Rams,2015
+['Daren Bates'],NA,week_11,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_11,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_11,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_11,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_11,Los Angeles Rams,2015
+['Justice Cunningham'],Questionable: Finger,week_11,Los Angeles Rams,2015
+['Andrew Donnal'],NA,week_11,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_11,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_11,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_11,Los Angeles Rams,2015
+['Rob Havenstein'],Doubtful: Calf,week_11,Los Angeles Rams,2015
+['William Hayes'],NA,week_11,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_11,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_11,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_11,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_11,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_11,Los Angeles Rams,2015
+['Case Keenum'],NA,week_11,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_11,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_11,Los Angeles Rams,2015
+['Chris Long'],Questionable: Knee,week_11,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_11,Los Angeles Rams,2015
+['Tre Mason'],NA,week_11,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_11,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_11,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_11,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_11,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_11,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_11,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_11,Los Angeles Rams,2015
+['Wes Welker'],NA,week_11,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_11,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_11,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_11,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_11,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_12,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_12,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_12,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_12,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_12,Los Angeles Rams,2015
+['Mark Barron'],NA,week_12,Los Angeles Rams,2015
+['Daren Bates'],NA,week_12,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_12,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_12,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_12,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_12,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_12,Los Angeles Rams,2015
+['Andrew Donnal'],Out: Knee,week_12,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_12,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_12,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_12,Los Angeles Rams,2015
+['Rob Havenstein'],Questionable: Calf,week_12,Los Angeles Rams,2015
+['William Hayes'],NA,week_12,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_12,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_12,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_12,Los Angeles Rams,2015
+['Trumaine Johnson'],Questionable: Thigh,week_12,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_12,Los Angeles Rams,2015
+['Case Keenum'],Questionable: Concussion,week_12,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_12,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_12,Los Angeles Rams,2015
+['Chris Long'],NA,week_12,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_12,Los Angeles Rams,2015
+['Tre Mason'],NA,week_12,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_12,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_12,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_12,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_12,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_12,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_12,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_12,Los Angeles Rams,2015
+['Wes Welker'],NA,week_12,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_12,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_12,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_12,Los Angeles Rams,2015
+['Greg Zuerlein'],Questionable: rightGroin,week_12,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_13,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_13,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_13,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_13,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_13,Los Angeles Rams,2015
+['Mark Barron'],NA,week_13,Los Angeles Rams,2015
+['Daren Bates'],NA,week_13,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_13,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_13,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_13,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_13,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_13,Los Angeles Rams,2015
+['Andrew Donnal'],Out: Knee,week_13,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_13,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_13,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_13,Los Angeles Rams,2015
+['Rob Havenstein'],Probable: Calf,week_13,Los Angeles Rams,2015
+['William Hayes'],NA,week_13,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_13,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_13,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_13,Los Angeles Rams,2015
+['Trumaine Johnson'],Doubtful: Thigh,week_13,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_13,Los Angeles Rams,2015
+['Case Keenum'],Questionable: Concussion,week_13,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_13,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_13,Los Angeles Rams,2015
+['Chris Long'],NA,week_13,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_13,Los Angeles Rams,2015
+['Tre Mason'],NA,week_13,Los Angeles Rams,2015
+['T.J. McDonald'],NA,week_13,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_13,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_13,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_13,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_13,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_13,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_13,Los Angeles Rams,2015
+['Wes Welker'],NA,week_13,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_13,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_13,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_13,Los Angeles Rams,2015
+['Greg Zuerlein'],Doubtful: rightHip,week_13,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_14,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_14,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_14,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_14,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_14,Los Angeles Rams,2015
+['Mark Barron'],NA,week_14,Los Angeles Rams,2015
+['Daren Bates'],NA,week_14,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_14,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_14,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_14,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_14,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_14,Los Angeles Rams,2015
+['Andrew Donnal'],Out: Knee,week_14,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_14,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_14,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_14,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_14,Los Angeles Rams,2015
+['William Hayes'],Probable: Thigh,week_14,Los Angeles Rams,2015
+['Johnny Hekker'],Probable: NotInjuryRelated,week_14,Los Angeles Rams,2015
+['Zach Hocker'],Probable: rightThigh,week_14,Los Angeles Rams,2015
+['Janoris Jenkins'],Doubtful: Concussion,week_14,Los Angeles Rams,2015
+['Trumaine Johnson'],Probable: Thigh,week_14,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_14,Los Angeles Rams,2015
+['Case Keenum'],Probable: Concussion,week_14,Los Angeles Rams,2015
+['Lance Kendricks'],Probable: Concussion,week_14,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_14,Los Angeles Rams,2015
+['Chris Long'],NA,week_14,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_14,Los Angeles Rams,2015
+['Tre Mason'],NA,week_14,Los Angeles Rams,2015
+['T.J. McDonald'],Out: Shoulder,week_14,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_14,Los Angeles Rams,2015
+['Eric Patterson'],NA,week_14,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_14,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_14,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_14,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_14,Los Angeles Rams,2015
+['Wes Welker'],Probable: Calf,week_14,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_14,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_14,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_14,Los Angeles Rams,2015
+['Greg Zuerlein'],Probable: rightHip,week_14,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_15,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_15,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_15,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_15,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_15,Los Angeles Rams,2015
+['Mark Barron'],NA,week_15,Los Angeles Rams,2015
+['Daren Bates'],NA,week_15,Los Angeles Rams,2015
+['Kenny Britt'],Probable: Shoulder,week_15,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_15,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_15,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_15,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_15,Los Angeles Rams,2015
+['Andrew Donnal'],Out: Knee,week_15,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_15,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_15,Los Angeles Rams,2015
+['Todd Gurley'],Probable: NotInjuryRelated,week_15,Los Angeles Rams,2015
+['Rob Havenstein'],Probable: Calf,week_15,Los Angeles Rams,2015
+['William Hayes'],NA,week_15,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_15,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_15,Los Angeles Rams,2015
+['Janoris Jenkins'],Probable: Concussion,week_15,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_15,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_15,Los Angeles Rams,2015
+['Case Keenum'],NA,week_15,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_15,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_15,Los Angeles Rams,2015
+['Chris Long'],NA,week_15,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_15,Los Angeles Rams,2015
+['Tre Mason'],NA,week_15,Los Angeles Rams,2015
+['T.J. McDonald'],Injured Reserve: Shoulder,week_15,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_15,Los Angeles Rams,2015
+['Eric Patterson'],Injured Reserve: Ankle,week_15,Los Angeles Rams,2015
+['Robert Quinn'],Out: Back,week_15,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_15,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_15,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_15,Los Angeles Rams,2015
+['Wes Welker'],NA,week_15,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_15,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_15,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_15,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_15,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_16,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_16,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_16,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_16,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_16,Los Angeles Rams,2015
+['Mark Barron'],NA,week_16,Los Angeles Rams,2015
+['Daren Bates'],NA,week_16,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_16,Los Angeles Rams,2015
+['Michael Brockers'],NA,week_16,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_16,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_16,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_16,Los Angeles Rams,2015
+['Andrew Donnal'],Out: Knee,week_16,Los Angeles Rams,2015
+['Nick Fairley'],NA,week_16,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_16,Los Angeles Rams,2015
+['Todd Gurley'],NA,week_16,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_16,Los Angeles Rams,2015
+['William Hayes'],NA,week_16,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_16,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_16,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_16,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_16,Los Angeles Rams,2015
+['Lamarcus Joyner'],Questionable: Back,week_16,Los Angeles Rams,2015
+['Case Keenum'],NA,week_16,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_16,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_16,Los Angeles Rams,2015
+['Chris Long'],NA,week_16,Los Angeles Rams,2015
+['Bradley Marquez'],Questionable: Knee,week_16,Los Angeles Rams,2015
+['Tre Mason'],NA,week_16,Los Angeles Rams,2015
+['T.J. McDonald'],Injured Reserve: Shoulder,week_16,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_16,Los Angeles Rams,2015
+['Eric Patterson'],Injured Reserve: Ankle,week_16,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_16,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_16,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_16,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_16,Los Angeles Rams,2015
+['Wes Welker'],NA,week_16,Los Angeles Rams,2015
+['Ethan Westbrooks'],NA,week_16,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_16,Los Angeles Rams,2015
+['Doug Worthington'],NA,week_16,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_16,Los Angeles Rams,2015
+['Maurice Alexander'],NA,week_17,Los Angeles Rams,2015
+['Tavon Austin'],NA,week_17,Los Angeles Rams,2015
+['Akeem Ayers'],NA,week_17,Los Angeles Rams,2015
+['Stedman Bailey'],Injured Reserve: Head,week_17,Los Angeles Rams,2015
+['Tim Barnes'],NA,week_17,Los Angeles Rams,2015
+['Mark Barron'],Probable: Concussion,week_17,Los Angeles Rams,2015
+['Daren Bates'],NA,week_17,Los Angeles Rams,2015
+['Kenny Britt'],NA,week_17,Los Angeles Rams,2015
+['Michael Brockers'],Probable: Thigh,week_17,Los Angeles Rams,2015
+['Jamon Brown'],Injured Reserve: Leg,week_17,Los Angeles Rams,2015
+['Benny Cunningham'],NA,week_17,Los Angeles Rams,2015
+['Justice Cunningham'],NA,week_17,Los Angeles Rams,2015
+['Andrew Donnal'],Questionable: Knee,week_17,Los Angeles Rams,2015
+['Nick Fairley'],Injured Reserve: Concussion,week_17,Los Angeles Rams,2015
+['E.J. Gaines'],Injured Reserve: Foot,week_17,Los Angeles Rams,2015
+['Todd Gurley'],Doubtful: Foot,week_17,Los Angeles Rams,2015
+['Rob Havenstein'],NA,week_17,Los Angeles Rams,2015
+['William Hayes'],NA,week_17,Los Angeles Rams,2015
+['Johnny Hekker'],NA,week_17,Los Angeles Rams,2015
+['Zach Hocker'],NA,week_17,Los Angeles Rams,2015
+['Janoris Jenkins'],NA,week_17,Los Angeles Rams,2015
+['Trumaine Johnson'],NA,week_17,Los Angeles Rams,2015
+['Lamarcus Joyner'],NA,week_17,Los Angeles Rams,2015
+['Case Keenum'],NA,week_17,Los Angeles Rams,2015
+['Lance Kendricks'],NA,week_17,Los Angeles Rams,2015
+['James Laurinaitis'],NA,week_17,Los Angeles Rams,2015
+['Chris Long'],NA,week_17,Los Angeles Rams,2015
+['Bradley Marquez'],NA,week_17,Los Angeles Rams,2015
+['Tre Mason'],NA,week_17,Los Angeles Rams,2015
+['T.J. McDonald'],Injured Reserve: Shoulder,week_17,Los Angeles Rams,2015
+['Alec Ogletree'],Injured Reserve: Leg,week_17,Los Angeles Rams,2015
+['Eric Patterson'],Injured Reserve: Ankle,week_17,Los Angeles Rams,2015
+['Robert Quinn'],Injured Reserve: Back,week_17,Los Angeles Rams,2015
+['Chase Reynolds'],NA,week_17,Los Angeles Rams,2015
+['Rodger Saffold'],Injured Reserve: Shoulder,week_17,Los Angeles Rams,2015
+['Eugene Sims'],NA,week_17,Los Angeles Rams,2015
+['Wes Welker'],NA,week_17,Los Angeles Rams,2015
+['Ethan Westbrooks'],Probable: Concussion,week_17,Los Angeles Rams,2015
+['Damian Williams'],Injured Reserve: Wrist,week_17,Los Angeles Rams,2015
+['Doug Worthington'],Injured Reserve: Undisclosed,week_17,Los Angeles Rams,2015
+['Greg Zuerlein'],NA,week_17,Los Angeles Rams,2015

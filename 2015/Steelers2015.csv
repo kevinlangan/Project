@@ -1,0 +1,829 @@
+﻿name,injury,week,team,year
+['Mike Adams'],Injured Reserve: Back,week_1,Pittsburgh Steelers,2015
+['Cortez Allen'],NA,week_1,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_1,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_1,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_1,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_1,Pittsburgh Steelers,2015
+['Rob Blanchflower'],NA,week_1,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_1,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_1,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_1,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_1,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_1,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_1,Pittsburgh Steelers,2015
+['William Gay'],NA,week_1,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_1,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_1,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_1,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_1,Pittsburgh Steelers,2015
+['James Harrison'],NA,week_1,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_1,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_1,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_1,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_1,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_1,Pittsburgh Steelers,2015
+['Landry Jones'],Out: Concussion,week_1,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_1,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_1,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_1,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_1,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_1,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_1,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_1,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_1,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_1,Pittsburgh Steelers,2015
+['Matt Spaeth'],NA,week_1,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_1,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_1,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_1,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_1,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_1,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_1,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_1,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_1,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_1,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_1,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_1,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_2,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_2,Pittsburgh Steelers,2015
+['Will Allen'],Probable: Concussion,week_2,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_2,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_2,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_2,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_2,Pittsburgh Steelers,2015
+['Brandon Boykin'],Probable: Groin,week_2,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_2,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_2,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_2,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_2,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_2,Pittsburgh Steelers,2015
+['William Gay'],NA,week_2,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_2,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_2,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_2,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_2,Pittsburgh Steelers,2015
+['James Harrison'],NA,week_2,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_2,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_2,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_2,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_2,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_2,Pittsburgh Steelers,2015
+['Landry Jones'],Probable: Concussion,week_2,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_2,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_2,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_2,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_2,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Hip,week_2,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_2,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_2,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_2,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: Knee,week_2,Pittsburgh Steelers,2015
+['Matt Spaeth'],NA,week_2,Pittsburgh Steelers,2015
+['Sean Spence'],Probable: Hamstring,week_2,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_2,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_2,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_2,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_2,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_2,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_2,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_2,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_2,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_2,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_2,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_3,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_3,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_3,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_3,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_3,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_3,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_3,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_3,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_3,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_3,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_3,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_3,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_3,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_3,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_3,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_3,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_3,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_3,Pittsburgh Steelers,2015
+['James Harrison'],NA,week_3,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_3,Pittsburgh Steelers,2015
+['Cameron Heyward'],Probable: Elbow,week_3,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_3,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_3,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_3,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_3,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_3,Pittsburgh Steelers,2015
+['Daniel McCullers'],Out: Knee,week_3,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_3,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_3,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_3,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_3,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_3,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_3,Pittsburgh Steelers,2015
+['Ryan Shazier'],Out: Shoulder,week_3,Pittsburgh Steelers,2015
+['Matt Spaeth'],NA,week_3,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_3,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_3,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_3,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_3,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_3,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_3,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_3,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_3,Pittsburgh Steelers,2015
+['Markus Wheaton'],Probable: Chest,week_3,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_3,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_3,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_4,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_4,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_4,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_4,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_4,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_4,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_4,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_4,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_4,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_4,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_4,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_4,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_4,Pittsburgh Steelers,2015
+['William Gay'],NA,week_4,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_4,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_4,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_4,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_4,Pittsburgh Steelers,2015
+['James Harrison'],Probable: Thumb,week_4,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_4,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_4,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_4,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_4,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_4,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_4,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_4,Pittsburgh Steelers,2015
+['Daniel McCullers'],Out: Knee,week_4,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_4,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_4,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_4,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_4,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_4,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Out: Knee,week_4,Pittsburgh Steelers,2015
+['Ryan Shazier'],Out: Shoulder,week_4,Pittsburgh Steelers,2015
+['Matt Spaeth'],Out: Hand,week_4,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_4,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_4,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_4,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_4,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_4,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_4,Pittsburgh Steelers,2015
+['Cody Wallace'],Probable: Illness,week_4,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_4,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_4,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_4,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_4,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_5,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_5,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_5,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_5,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_5,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_5,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_5,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_5,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_5,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_5,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_5,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_5,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_5,Pittsburgh Steelers,2015
+['William Gay'],NA,week_5,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_5,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_5,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_5,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_5,Pittsburgh Steelers,2015
+['James Harrison'],NA,week_5,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_5,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_5,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_5,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_5,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_5,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_5,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_5,Pittsburgh Steelers,2015
+['Daniel McCullers'],Probable: Knee,week_5,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_5,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_5,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_5,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_5,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_5,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Out: Knee,week_5,Pittsburgh Steelers,2015
+['Ryan Shazier'],Out: Shoulder,week_5,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: Hand,week_5,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_5,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_5,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_5,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_5,Pittsburgh Steelers,2015
+['Ross Ventrone'],Probable: Hamstring,week_5,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_5,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_5,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_5,Pittsburgh Steelers,2015
+['Markus Wheaton'],Probable: Ankle,week_5,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_5,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_5,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_6,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_6,Pittsburgh Steelers,2015
+['Will Allen'],Out: Ankle,week_6,Pittsburgh Steelers,2015
+['Kelvin Beachum'],NA,week_6,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_6,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_6,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_6,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_6,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_6,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_6,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_6,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_6,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_6,Pittsburgh Steelers,2015
+['William Gay'],NA,week_6,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_6,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_6,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_6,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_6,Pittsburgh Steelers,2015
+['James Harrison'],Probable: Illness,week_6,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_6,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_6,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_6,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_6,Pittsburgh Steelers,2015
+['Jarvis Jones'],Questionable: Hip,week_6,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_6,Pittsburgh Steelers,2015
+['Doug Legursky'],Probable: Back,week_6,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_6,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_6,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_6,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_6,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_6,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_6,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Out: Knee,week_6,Pittsburgh Steelers,2015
+['Ryan Shazier'],Out: Shoulder,week_6,Pittsburgh Steelers,2015
+['Matt Spaeth'],NA,week_6,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_6,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_6,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_6,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_6,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_6,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_6,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_6,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_6,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_6,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_6,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_6,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_7,Pittsburgh Steelers,2015
+['Cortez Allen'],Questionable: Knee,week_7,Pittsburgh Steelers,2015
+['Will Allen'],Out: Ankle,week_7,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_7,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_7,Pittsburgh Steelers,2015
+['Antwon Blake'],Probable: Thumb,week_7,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_7,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_7,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_7,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_7,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_7,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_7,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_7,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_7,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_7,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_7,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_7,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_7,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_7,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_7,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_7,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_7,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_7,Pittsburgh Steelers,2015
+['Jarvis Jones'],Probable: Hip,week_7,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_7,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_7,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_7,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_7,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_7,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_7,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_7,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_7,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Questionable: Knee,week_7,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: Shoulder,week_7,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: NotInjuryRelated,week_7,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_7,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_7,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_7,Pittsburgh Steelers,2015
+['Stephon Tuitt'],Out: Knee,week_7,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_7,Pittsburgh Steelers,2015
+['Michael Vick'],Out: Hamstring,week_7,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_7,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_7,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_7,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_7,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_7,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_8,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_8,Pittsburgh Steelers,2015
+['Will Allen'],Out: Ankle,week_8,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_8,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",NA,week_8,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_8,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_8,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_8,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_8,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_8,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_8,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_8,Pittsburgh Steelers,2015
+['Terence Garvin'],Out: Knee,week_8,Pittsburgh Steelers,2015
+['William Gay'],Probable: Shoulder,week_8,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_8,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_8,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_8,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_8,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_8,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_8,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_8,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_8,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_8,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_8,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_8,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_8,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_8,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_8,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: NotInjuryRelated,week_8,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_8,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_8,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_8,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Probable: Knee,week_8,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_8,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: NotInjuryRelated,week_8,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_8,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_8,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_8,Pittsburgh Steelers,2015
+['Stephon Tuitt'],Out: Knee,week_8,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_8,Pittsburgh Steelers,2015
+['Michael Vick'],Out: Hamstring,week_8,Pittsburgh Steelers,2015
+['Cody Wallace'],Probable: Illness,week_8,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_8,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_8,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_8,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_8,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_9,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_9,Pittsburgh Steelers,2015
+['Will Allen'],Probable: Ankle,week_9,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_9,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_9,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_9,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_9,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_9,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_9,Pittsburgh Steelers,2015
+['Martavis Bryant'],Probable: Illness,week_9,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_9,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_9,Pittsburgh Steelers,2015
+['Terence Garvin'],Out: Knee,week_9,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_9,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_9,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_9,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_9,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_9,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_9,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_9,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_9,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_9,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_9,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_9,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_9,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_9,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_9,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_9,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: NotInjuryRelated,week_9,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Concussion,week_9,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_9,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_9,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_9,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_9,Pittsburgh Steelers,2015
+['Matt Spaeth'],Out: Knee,week_9,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_9,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_9,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_9,Pittsburgh Steelers,2015
+['Stephon Tuitt'],Probable: Knee,week_9,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_9,Pittsburgh Steelers,2015
+['Michael Vick'],Probable: Hamstring,week_9,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_9,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_9,Pittsburgh Steelers,2015
+['Markus Wheaton'],Probable: Ankle,week_9,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_9,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_9,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_10,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_10,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_10,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_10,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_10,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_10,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_10,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_10,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_10,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_10,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_10,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_10,Pittsburgh Steelers,2015
+['Terence Garvin'],Out: Knee,week_10,Pittsburgh Steelers,2015
+['William Gay'],NA,week_10,Pittsburgh Steelers,2015
+['Marcus Gilbert'],Probable: Toe,week_10,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_10,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_10,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_10,Pittsburgh Steelers,2015
+['James Harrison'],Out: Knee,week_10,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_10,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_10,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],Probable: Hamstring,week_10,Pittsburgh Steelers,2015
+['Will Johnson'],Probable: Back,week_10,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_10,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_10,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_10,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_10,Pittsburgh Steelers,2015
+['Steve McLendon'],Probable: Elbow,week_10,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: NotInjuryRelated,week_10,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_10,Pittsburgh Steelers,2015
+['Isaiah Pead'],Probable: Knee,week_10,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_10,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Questionable: Foot,week_10,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: Knee,week_10,Pittsburgh Steelers,2015
+['Matt Spaeth'],Out: Knee,week_10,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_10,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_10,Pittsburgh Steelers,2015
+['Shamarko Thomas'],Out: Knee,week_10,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_10,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_10,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_10,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_10,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_10,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_10,Pittsburgh Steelers,2015
+['DeAngelo Williams'],Probable: Foot,week_10,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_10,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_12,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_12,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_12,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_12,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_12,Pittsburgh Steelers,2015
+['Brandon Boykin'],Probable: Ankle,week_12,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_12,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_12,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_12,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_12,Pittsburgh Steelers,2015
+['Terence Garvin'],Probable: Knee,week_12,Pittsburgh Steelers,2015
+['William Gay'],NA,week_12,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_12,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_12,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_12,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_12,Pittsburgh Steelers,2015
+['James Harrison'],Probable: Knee,week_12,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_12,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_12,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_12,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_12,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_12,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_12,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_12,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_12,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_12,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_12,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_12,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_12,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_12,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_12,Pittsburgh Steelers,2015
+['Ryan Shazier'],Questionable: Knee,week_12,Pittsburgh Steelers,2015
+['Matt Spaeth'],Questionable: Knee,week_12,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_12,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2015
+['Shamarko Thomas'],Probable: Knee,week_12,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_12,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_12,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_12,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_12,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_12,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_12,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_12,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_12,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_13,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2015
+['Will Allen'],Probable: Ankle,week_13,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_13,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_13,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_13,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_13,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_13,Pittsburgh Steelers,2015
+['Martavis Bryant'],Probable: Hip,week_13,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_13,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_13,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_13,Pittsburgh Steelers,2015
+['William Gay'],NA,week_13,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_13,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_13,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_13,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_13,Pittsburgh Steelers,2015
+['James Harrison'],Probable: Knee,week_13,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_13,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_13,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_13,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_13,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_13,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_13,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_13,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_13,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_13,Pittsburgh Steelers,2015
+['Heath Miller'],Questionable: Rib,week_13,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Knee,week_13,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_13,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_13,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Probable: Concussion,week_13,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: Concussion,week_13,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: Knee,week_13,Pittsburgh Steelers,2015
+['Sean Spence'],Out: Hamstring,week_13,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_13,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_13,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_13,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_13,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_13,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_13,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_13,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_13,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_13,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_14,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_14,Pittsburgh Steelers,2015
+['Will Allen'],NA,week_14,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_14,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_14,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_14,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_14,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_14,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_14,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_14,Pittsburgh Steelers,2015
+['Sammie Coates'],Probable: Illness,week_14,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_14,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_14,Pittsburgh Steelers,2015
+['William Gay'],Probable: Concussion,week_14,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_14,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_14,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_14,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_14,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_14,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_14,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_14,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_14,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_14,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_14,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_14,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_14,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_14,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_14,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: Rib,week_14,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_14,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_14,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_14,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_14,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_14,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: Knee,week_14,Pittsburgh Steelers,2015
+['Sean Spence'],Probable: Hamstring,week_14,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_14,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_14,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_14,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_14,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_14,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_14,Pittsburgh Steelers,2015
+['Greg Warren'],Probable: NotInjuryRelated,week_14,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_14,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_14,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_14,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_15,Pittsburgh Steelers,2015
+['Cortez Allen'],NA,week_15,Pittsburgh Steelers,2015
+['Will Allen'],Probable: NotInjuryRelated,week_15,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_15,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_15,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_15,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_15,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_15,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_15,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_15,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_15,Pittsburgh Steelers,2015
+['Bud Dupree'],Probable: Back,week_15,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_15,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_15,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_15,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_15,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_15,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_15,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_15,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_15,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_15,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_15,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_15,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_15,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_15,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_15,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_15,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_15,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: Rib,week_15,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Shoulder,week_15,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_15,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_15,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_15,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: Knee,week_15,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: Knee,week_15,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_15,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_15,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_15,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_15,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_15,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_15,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_15,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_15,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_15,Pittsburgh Steelers,2015
+['DeAngelo Williams'],Probable: Illness,week_15,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_15,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_16,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2015
+['Will Allen'],Probable: NotInjuryRelated,week_16,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_16,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_16,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_16,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_16,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_16,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_16,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_16,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_16,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_16,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_16,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_16,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_16,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_16,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_16,Pittsburgh Steelers,2015
+['James Harrison'],Probable: NotInjuryRelated,week_16,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_16,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_16,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_16,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_16,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_16,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_16,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_16,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_16,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_16,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_16,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Shoulder,week_16,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_16,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_16,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_16,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_16,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: Knee,week_16,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_16,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_16,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_16,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_16,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_16,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_16,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_16,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_16,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_16,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_16,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_17,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2015
+['Will Allen'],Probable: NotInjuryRelated,week_17,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_17,Pittsburgh Steelers,2015
+['Antwon Blake'],Probable: Back,week_17,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_17,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_17,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_17,Pittsburgh Steelers,2015
+['Martavis Bryant'],Questionable: Illness,week_17,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_17,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_17,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_17,Pittsburgh Steelers,2015
+['William Gay'],Probable: NotInjuryRelated,week_17,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_17,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_17,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_17,Pittsburgh Steelers,2015
+['Doran Grant'],Questionable: Groin,week_17,Pittsburgh Steelers,2015
+['James Harrison'],Probable: Illness,week_17,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_17,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_17,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_17,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_17,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_17,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_17,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_17,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_17,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_17,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: NotInjuryRelated,week_17,Pittsburgh Steelers,2015
+['Mike Mitchell'],Probable: Shoulder,week_17,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_17,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_17,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Probable: Illness,week_17,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: NotInjuryRelated,week_17,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: NotInjuryRelated,week_17,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_17,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_17,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_17,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_17,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_17,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_17,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_17,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_17,Pittsburgh Steelers,2015
+['DeAngelo Williams'],NA,week_17,Pittsburgh Steelers,2015
+['Vince Williams'],NA,week_17,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_18,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_18,Pittsburgh Steelers,2015
+['Will Allen'],Probable: not injury related,week_18,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_18,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_18,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_18,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_18,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_18,Pittsburgh Steelers,2015
+['Antonio Brown'],NA,week_18,Pittsburgh Steelers,2015
+['Martavis Bryant'],Probable: neck,week_18,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_18,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_18,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_18,Pittsburgh Steelers,2015
+['William Gay'],Probable: not injury related,week_18,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_18,Pittsburgh Steelers,2015
+['Robert Golden'],NA,week_18,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_18,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_18,Pittsburgh Steelers,2015
+['James Harrison'],Probable: not injury related,week_18,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_18,Pittsburgh Steelers,2015
+['Cameron Heyward'],NA,week_18,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_18,Pittsburgh Steelers,2015
+['Will Johnson'],NA,week_18,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_18,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_18,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_18,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_18,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_18,Pittsburgh Steelers,2015
+['Heath Miller'],Probable: not injury related,week_18,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_18,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_18,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_18,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],NA,week_18,Pittsburgh Steelers,2015
+['Ryan Shazier'],NA,week_18,Pittsburgh Steelers,2015
+['Matt Spaeth'],NA,week_18,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_18,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_18,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_18,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_18,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_18,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_18,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_18,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_18,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_18,Pittsburgh Steelers,2015
+['DeAngelo Williams'],Out: foot,week_18,Pittsburgh Steelers,2015
+['Vince Williams'],Probable: illness,week_18,Pittsburgh Steelers,2015
+['Mike Adams'],Injured Reserve: Back,week_19,Pittsburgh Steelers,2015
+['Cortez Allen'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2015
+['Will Allen'],Probable: not injury related,week_19,Pittsburgh Steelers,2015
+['Kelvin Beachum'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2015
+"[""Le'Veon Bell""]",Injured Reserve: Knee,week_19,Pittsburgh Steelers,2015
+['Antwon Blake'],NA,week_19,Pittsburgh Steelers,2015
+['Rob Blanchflower'],Injured Reserve: Ankle,week_19,Pittsburgh Steelers,2015
+['Brandon Boykin'],NA,week_19,Pittsburgh Steelers,2015
+['Antonio Brown'],Out: concussion,week_19,Pittsburgh Steelers,2015
+['Martavis Bryant'],NA,week_19,Pittsburgh Steelers,2015
+['Sammie Coates'],NA,week_19,Pittsburgh Steelers,2015
+['Bud Dupree'],NA,week_19,Pittsburgh Steelers,2015
+['Terence Garvin'],NA,week_19,Pittsburgh Steelers,2015
+['William Gay'],NA,week_19,Pittsburgh Steelers,2015
+['Marcus Gilbert'],NA,week_19,Pittsburgh Steelers,2015
+['Robert Golden'],Probable: shoulder,week_19,Pittsburgh Steelers,2015
+['Bruce Gradkowski'],Injured Reserve: Hand,week_19,Pittsburgh Steelers,2015
+['Doran Grant'],NA,week_19,Pittsburgh Steelers,2015
+['James Harrison'],Probable: not injury related,week_19,Pittsburgh Steelers,2015
+['Garrett Hartley'],Injured Reserve: Hamstring,week_19,Pittsburgh Steelers,2015
+['Cameron Heyward'],Probable: back,week_19,Pittsburgh Steelers,2015
+['Darrius Heyward-Bey'],NA,week_19,Pittsburgh Steelers,2015
+['Will Johnson'],Questionable: hamstring,week_19,Pittsburgh Steelers,2015
+['Jarvis Jones'],NA,week_19,Pittsburgh Steelers,2015
+['Landry Jones'],NA,week_19,Pittsburgh Steelers,2015
+['Doug Legursky'],NA,week_19,Pittsburgh Steelers,2015
+['Daniel McCullers'],NA,week_19,Pittsburgh Steelers,2015
+['Steve McLendon'],NA,week_19,Pittsburgh Steelers,2015
+['Heath Miller'],NA,week_19,Pittsburgh Steelers,2015
+['Mike Mitchell'],NA,week_19,Pittsburgh Steelers,2015
+['Isaiah Pead'],NA,week_19,Pittsburgh Steelers,2015
+['Maurkice Pouncey'],Injured Reserve: Ankle,week_19,Pittsburgh Steelers,2015
+['Ben Roethlisberger'],Questionable: right shoulder,week_19,Pittsburgh Steelers,2015
+['Ryan Shazier'],Probable: knee,week_19,Pittsburgh Steelers,2015
+['Matt Spaeth'],Probable: not injury related,week_19,Pittsburgh Steelers,2015
+['Sean Spence'],NA,week_19,Pittsburgh Steelers,2015
+['Shaun Suisham'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2015
+['Shamarko Thomas'],NA,week_19,Pittsburgh Steelers,2015
+['Stephon Tuitt'],NA,week_19,Pittsburgh Steelers,2015
+['Ross Ventrone'],NA,week_19,Pittsburgh Steelers,2015
+['Michael Vick'],NA,week_19,Pittsburgh Steelers,2015
+['Cody Wallace'],NA,week_19,Pittsburgh Steelers,2015
+['Greg Warren'],NA,week_19,Pittsburgh Steelers,2015
+['Markus Wheaton'],NA,week_19,Pittsburgh Steelers,2015
+['DeAngelo Williams'],Out: foot,week_19,Pittsburgh Steelers,2015
+['Vince Williams'],Probable: hamstring,week_19,Pittsburgh Steelers,2015

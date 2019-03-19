@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Nelson Agholor'],NA,week_1,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_1,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_1,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_1,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_1,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_1,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_1,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_1,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_1,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_1,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_1,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_1,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_1,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_1,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_1,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_1,Philadelphia Eagles,2015
+['Zach Ertz'],Questionable: Groin,week_1,Philadelphia Eagles,2015
+['Andrew Gardner'],NA,week_1,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_1,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_1,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_1,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_1,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_1,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_1,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_1,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_1,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_1,Philadelphia Eagles,2015
+['Travis Long'],NA,week_1,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_1,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_1,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_1,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_1,Philadelphia Eagles,2015
+['David Molk'],NA,week_1,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_1,Philadelphia Eagles,2015
+['Cody Parkey'],NA,week_1,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_1,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_1,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_1,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_1,Philadelphia Eagles,2015
+['Marcus Smith'],Questionable: Hamstring,week_1,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_1,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_1,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_1,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_1,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_1,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_2,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],Out: Concussion,week_2,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_2,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_2,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_2,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_2,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_2,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_2,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_2,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_2,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_2,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_2,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_2,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_2,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_2,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_2,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_2,Philadelphia Eagles,2015
+['Andrew Gardner'],NA,week_2,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_2,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_2,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_2,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_2,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_2,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_2,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_2,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_2,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_2,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_2,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_2,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_2,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_2,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_2,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_2,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_2,Philadelphia Eagles,2015
+['Cody Parkey'],NA,week_2,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_2,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_2,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_2,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_2,Philadelphia Eagles,2015
+['Marcus Smith'],Probable: Hamstring,week_2,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_2,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_2,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_2,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_2,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_2,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_3,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],Probable: Elbow,week_3,Philadelphia Eagles,2015
+['Kiko Alonso'],Out: Knee,week_3,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_3,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_3,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_3,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_3,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_3,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_3,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_3,Philadelphia Eagles,2015
+['Trey Burton'],Probable: Shoulder,week_3,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_3,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_3,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_3,Philadelphia Eagles,2015
+['Fletcher Cox'],Probable: Groin,week_3,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_3,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_3,Philadelphia Eagles,2015
+['Andrew Gardner'],NA,week_3,Philadelphia Eagles,2015
+['Taylor Hart'],Out: Shoulder,week_3,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_3,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_3,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_3,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_3,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_3,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_3,Philadelphia Eagles,2015
+['Mychal Kendricks'],Out: Hamstring,week_3,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_3,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_3,Philadelphia Eagles,2015
+['Chris Maragos'],Probable: Hip,week_3,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_3,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_3,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_3,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_3,Philadelphia Eagles,2015
+['DeMarco Murray'],Questionable: Hamstring,week_3,Philadelphia Eagles,2015
+['Cody Parkey'],NA,week_3,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_3,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_3,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_3,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_3,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_3,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_3,Philadelphia Eagles,2015
+['Cedric Thornton'],Out: Hand,week_3,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_3,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_3,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_3,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_4,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_4,Philadelphia Eagles,2015
+['Kiko Alonso'],Out: Knee,week_4,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_4,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_4,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_4,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_4,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_4,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_4,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_4,Philadelphia Eagles,2015
+['Trey Burton'],Probable: Shoulder,week_4,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_4,Philadelphia Eagles,2015
+['Riley Cooper'],Probable: Knee,week_4,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_4,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_4,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_4,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_4,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_4,Philadelphia Eagles,2015
+['Taylor Hart'],Out: Shoulder,week_4,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_4,Philadelphia Eagles,2015
+['Josh Huff'],Probable: Hamstring,week_4,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_4,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_4,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_4,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_4,Philadelphia Eagles,2015
+['Mychal Kendricks'],Questionable: Hamstring,week_4,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_4,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_4,Philadelphia Eagles,2015
+['Chris Maragos'],Questionable: Quadricep,week_4,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_4,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_4,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_4,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_4,Philadelphia Eagles,2015
+['DeMarco Murray'],Questionable: Hamstring,week_4,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_4,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Quadricep,week_4,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_4,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_4,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_4,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_4,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_4,Philadelphia Eagles,2015
+['Cedric Thornton'],Out: Hand,week_4,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_4,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_4,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_4,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_5,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_5,Philadelphia Eagles,2015
+['Kiko Alonso'],Out: Knee,week_5,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_5,Philadelphia Eagles,2015
+['Brandon Bair'],Out: Groin,week_5,Philadelphia Eagles,2015
+['Allen Barbre'],Probable: Groin,week_5,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_5,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_5,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_5,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_5,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_5,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_5,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_5,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_5,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_5,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_5,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_5,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_5,Philadelphia Eagles,2015
+['Taylor Hart'],Probable: Shoulder,week_5,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_5,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_5,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_5,Philadelphia Eagles,2015
+['Lane Johnson'],Probable: Knee,week_5,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_5,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_5,Philadelphia Eagles,2015
+['Mychal Kendricks'],Out: Hamstring,week_5,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_5,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_5,Philadelphia Eagles,2015
+['Chris Maragos'],Probable: Quadricep,week_5,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_5,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_5,Philadelphia Eagles,2015
+['Byron Maxwell'],Probable: Quadricep,week_5,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_5,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_5,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_5,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Quadricep,week_5,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_5,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_5,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_5,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_5,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_5,Philadelphia Eagles,2015
+['Cedric Thornton'],Probable: Hand,week_5,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_5,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_5,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_5,Philadelphia Eagles,2015
+['Nelson Agholor'],Out: Ankle,week_6,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_6,Philadelphia Eagles,2015
+['Kiko Alonso'],Out: Knee,week_6,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_6,Philadelphia Eagles,2015
+['Brandon Bair'],Out: Groin,week_6,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_6,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_6,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_6,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_6,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_6,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_6,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_6,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_6,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_6,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_6,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_6,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_6,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_6,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_6,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_6,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_6,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_6,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_6,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_6,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_6,Philadelphia Eagles,2015
+['Mychal Kendricks'],Out: Hamstring,week_6,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_6,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_6,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_6,Philadelphia Eagles,2015
+['Ryan Mathews'],Questionable: Groin,week_6,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_6,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_6,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_6,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_6,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_6,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_6,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_6,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_6,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_6,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_6,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_6,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_6,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_6,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_6,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_6,Philadelphia Eagles,2015
+['Nelson Agholor'],Out: Ankle,week_7,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_7,Philadelphia Eagles,2015
+['Kiko Alonso'],Out: Knee,week_7,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_7,Philadelphia Eagles,2015
+['Brandon Bair'],Questionable: Groin,week_7,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_7,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_7,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_7,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_7,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_7,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_7,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_7,Philadelphia Eagles,2015
+['Riley Cooper'],Questionable: Knee,week_7,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_7,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_7,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_7,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_7,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_7,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_7,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_7,Philadelphia Eagles,2015
+['Josh Huff'],Probable: Knee,week_7,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_7,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_7,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_7,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_7,Philadelphia Eagles,2015
+['Mychal Kendricks'],Questionable: Hamstring,week_7,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_7,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_7,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_7,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_7,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_7,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_7,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_7,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_7,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_7,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_7,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_7,Philadelphia Eagles,2015
+['DeMeco Ryans'],Questionable: Hamstring,week_7,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_7,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_7,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_7,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_7,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_7,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_7,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_7,Philadelphia Eagles,2015
+['Nelson Agholor'],Questionable: Ankle,week_9,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_9,Philadelphia Eagles,2015
+['Kiko Alonso'],Probable: Knee,week_9,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_9,Philadelphia Eagles,2015
+['Brandon Bair'],Probable: Groin,week_9,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_9,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_9,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_9,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_9,Philadelphia Eagles,2015
+['Bryan Braman'],Probable: Shoulder,week_9,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_9,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_9,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_9,Philadelphia Eagles,2015
+['Jerome Couplin'],NA,week_9,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_9,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_9,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_9,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_9,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_9,Philadelphia Eagles,2015
+['Jordan Hicks'],NA,week_9,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_9,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_9,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_9,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_9,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_9,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_9,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_9,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_9,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_9,Philadelphia Eagles,2015
+['Ryan Mathews'],Questionable: Groin,week_9,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_9,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_9,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_9,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_9,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_9,Philadelphia Eagles,2015
+['Jason Peters'],Out: Back,week_9,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_9,Philadelphia Eagles,2015
+['DeMeco Ryans'],Questionable: Hamstring,week_9,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_9,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_9,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_9,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_9,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_9,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_9,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_9,Philadelphia Eagles,2015
+['Nelson Agholor'],Probable: Ankle,week_10,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_10,Philadelphia Eagles,2015
+['Kiko Alonso'],Probable: Knee,week_10,Philadelphia Eagles,2015
+['Josh Andrews'],Out: Concussion,week_10,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_10,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_10,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_10,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_10,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_10,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_10,Philadelphia Eagles,2015
+['Trey Burton'],Probable: Hamstring,week_10,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_10,Philadelphia Eagles,2015
+['Riley Cooper'],Probable: Toe,week_10,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_10,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_10,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_10,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_10,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_10,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_10,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_10,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_10,Philadelphia Eagles,2015
+['Malcolm Jenkins'],Probable: Concussion,week_10,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_10,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_10,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_10,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_10,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_10,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_10,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_10,Philadelphia Eagles,2015
+['Ryan Mathews'],Probable: Groin,week_10,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_10,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_10,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_10,Philadelphia Eagles,2015
+['DeMarco Murray'],Probable: Groin,week_10,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_10,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Back,week_10,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_10,Philadelphia Eagles,2015
+['DeMeco Ryans'],Probable: Hamstring,week_10,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_10,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_10,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_10,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_10,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_10,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_10,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_10,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_11,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_11,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_11,Philadelphia Eagles,2015
+['Josh Andrews'],Probable: Concussion,week_11,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_11,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_11,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_11,Philadelphia Eagles,2015
+['Connor Barwin'],Probable: Quadricep,week_11,Philadelphia Eagles,2015
+['Sam Bradford'],Out: Concussion,week_11,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_11,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_11,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_11,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_11,Philadelphia Eagles,2015
+['Jerome Couplin'],Out: Shoulder,week_11,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_11,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_11,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_11,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_11,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_11,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_11,Philadelphia Eagles,2015
+['Josh Huff'],Probable: Back,week_11,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_11,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_11,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_11,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_11,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_11,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_11,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_11,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_11,Philadelphia Eagles,2015
+['Ryan Mathews'],Out: Concussion,week_11,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_11,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_11,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_11,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_11,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_11,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Back,week_11,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_11,Philadelphia Eagles,2015
+['DeMeco Ryans'],Probable: Hamstring,week_11,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_11,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_11,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_11,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_11,Philadelphia Eagles,2015
+['Walter Thurmond'],Probable: Hamstring,week_11,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_11,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_11,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_12,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_12,Philadelphia Eagles,2015
+['Kiko Alonso'],Probable: Ankle,week_12,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_12,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_12,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_12,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_12,Philadelphia Eagles,2015
+['Connor Barwin'],Probable: Quadricep,week_12,Philadelphia Eagles,2015
+['Sam Bradford'],Questionable: Concussion,week_12,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_12,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_12,Philadelphia Eagles,2015
+['Nolan Carroll'],NA,week_12,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_12,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_12,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_12,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_12,Philadelphia Eagles,2015
+['Zach Ertz'],Out: Concussion,week_12,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_12,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_12,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_12,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_12,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_12,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_12,Philadelphia Eagles,2015
+['Jason Kelce'],Questionable: Knee,week_12,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_12,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_12,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_12,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_12,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_12,Philadelphia Eagles,2015
+['Ryan Mathews'],Out: Concussion,week_12,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_12,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_12,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_12,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_12,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_12,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Back,week_12,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_12,Philadelphia Eagles,2015
+['DeMeco Ryans'],Probable: Hamstring,week_12,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_12,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_12,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_12,Philadelphia Eagles,2015
+['Cedric Thornton'],Probable: Ankle,week_12,Philadelphia Eagles,2015
+['Walter Thurmond'],Probable: Hamstring,week_12,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_12,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_12,Philadelphia Eagles,2015
+['Nelson Agholor'],Probable: Hip,week_13,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],Probable: Calf,week_13,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_13,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_13,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_13,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_13,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_13,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_13,Philadelphia Eagles,2015
+['Sam Bradford'],Probable: leftShoulder,week_13,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_13,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_13,Philadelphia Eagles,2015
+['Nolan Carroll'],Injured Reserve: Ankle,week_13,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_13,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_13,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_13,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_13,Philadelphia Eagles,2015
+['Zach Ertz'],Probable: Concussion,week_13,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_13,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_13,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_13,Philadelphia Eagles,2015
+['Josh Huff'],Probable: Concussion,week_13,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_13,Philadelphia Eagles,2015
+['Lane Johnson'],Probable: Shoulder,week_13,Philadelphia Eagles,2015
+['Jason Kelce'],Probable: Knee,week_13,Philadelphia Eagles,2015
+['Dennis Kelly'],Probable: Ankle,week_13,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_13,Philadelphia Eagles,2015
+['Bennie Logan'],NA,week_13,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_13,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_13,Philadelphia Eagles,2015
+['Ryan Mathews'],Out: Concussion,week_13,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_13,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_13,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_13,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_13,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_13,Philadelphia Eagles,2015
+['Jason Peters'],Questionable: Back,week_13,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_13,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_13,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_13,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_13,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_13,Philadelphia Eagles,2015
+['Cedric Thornton'],Questionable: Ankle,week_13,Philadelphia Eagles,2015
+['Walter Thurmond'],Probable: Hamstring,week_13,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_13,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_13,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_14,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_14,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_14,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_14,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_14,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_14,Philadelphia Eagles,2015
+['Kenjon Barner'],Probable: Ankle,week_14,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_14,Philadelphia Eagles,2015
+['Sam Bradford'],Probable: leftShoulder,week_14,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_14,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_14,Philadelphia Eagles,2015
+['Nolan Carroll'],Injured Reserve: Ankle,week_14,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_14,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_14,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_14,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_14,Philadelphia Eagles,2015
+['Zach Ertz'],Probable: Hip,week_14,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_14,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_14,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_14,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_14,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_14,Philadelphia Eagles,2015
+['Lane Johnson'],Probable: Shoulder,week_14,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_14,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_14,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_14,Philadelphia Eagles,2015
+['Bennie Logan'],Probable: Knee,week_14,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_14,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_14,Philadelphia Eagles,2015
+['Ryan Mathews'],Probable: Concussion,week_14,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_14,Philadelphia Eagles,2015
+['Byron Maxwell'],NA,week_14,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_14,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_14,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_14,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_14,Philadelphia Eagles,2015
+['Eric Rowe'],Probable: Ankle,week_14,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_14,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_14,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_14,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_14,Philadelphia Eagles,2015
+['Cedric Thornton'],Probable: Ankle,week_14,Philadelphia Eagles,2015
+['Walter Thurmond'],Probable: Elbow,week_14,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_14,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_14,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_15,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],NA,week_15,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_15,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_15,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_15,Philadelphia Eagles,2015
+['Allen Barbre'],Probable: Calf,week_15,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_15,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_15,Philadelphia Eagles,2015
+['Sam Bradford'],Probable: leftShoulder,week_15,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_15,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_15,Philadelphia Eagles,2015
+['Nolan Carroll'],Injured Reserve: Ankle,week_15,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_15,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_15,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_15,Philadelphia Eagles,2015
+['Vinny Curry'],Probable: Illness,week_15,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_15,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_15,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_15,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_15,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_15,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_15,Philadelphia Eagles,2015
+['Lane Johnson'],Probable: Shoulder,week_15,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_15,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_15,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_15,Philadelphia Eagles,2015
+['Bennie Logan'],Probable: Knee,week_15,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_15,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_15,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_15,Philadelphia Eagles,2015
+['Jordan Matthews'],Probable: Back,week_15,Philadelphia Eagles,2015
+['Byron Maxwell'],Probable: Ankle,week_15,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_15,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_15,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_15,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_15,Philadelphia Eagles,2015
+['Eric Rowe'],Probable: Ankle,week_15,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_15,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_15,Philadelphia Eagles,2015
+['Marcus Smith'],Probable: Hamstring,week_15,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_15,Philadelphia Eagles,2015
+['Cedric Thornton'],Probable: Ankle,week_15,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_15,Philadelphia Eagles,2015
+['Matt Tobin'],Probable: Knee,week_15,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_15,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_16,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],Questionable: Ankle,week_16,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_16,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_16,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_16,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_16,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_16,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_16,Philadelphia Eagles,2015
+['Sam Bradford'],Probable: leftShoulder,week_16,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_16,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_16,Philadelphia Eagles,2015
+['Nolan Carroll'],Injured Reserve: Ankle,week_16,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_16,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_16,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_16,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_16,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_16,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_16,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_16,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_16,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_16,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_16,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_16,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_16,Philadelphia Eagles,2015
+['Dennis Kelly'],NA,week_16,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_16,Philadelphia Eagles,2015
+['Bennie Logan'],Injured Reserve: Calf,week_16,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_16,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_16,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_16,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_16,Philadelphia Eagles,2015
+['Byron Maxwell'],Questionable: Shoulder,week_16,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_16,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_16,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_16,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_16,Philadelphia Eagles,2015
+['Eric Rowe'],Probable: Concussion,week_16,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_16,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_16,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_16,Philadelphia Eagles,2015
+['Caleb Sturgis'],NA,week_16,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_16,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_16,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_16,Philadelphia Eagles,2015
+['Jaylen Watkins'],NA,week_16,Philadelphia Eagles,2015
+['Nelson Agholor'],NA,week_17,Philadelphia Eagles,2015
+['Seyi Ajirotutu'],Out: Ankle,week_17,Philadelphia Eagles,2015
+['Kiko Alonso'],NA,week_17,Philadelphia Eagles,2015
+['Josh Andrews'],NA,week_17,Philadelphia Eagles,2015
+['Brandon Bair'],NA,week_17,Philadelphia Eagles,2015
+['Allen Barbre'],NA,week_17,Philadelphia Eagles,2015
+['Kenjon Barner'],NA,week_17,Philadelphia Eagles,2015
+['Connor Barwin'],NA,week_17,Philadelphia Eagles,2015
+['Sam Bradford'],NA,week_17,Philadelphia Eagles,2015
+['Bryan Braman'],NA,week_17,Philadelphia Eagles,2015
+['Trey Burton'],NA,week_17,Philadelphia Eagles,2015
+['Nolan Carroll'],Injured Reserve: Ankle,week_17,Philadelphia Eagles,2015
+['Riley Cooper'],NA,week_17,Philadelphia Eagles,2015
+['Jerome Couplin'],Injured Reserve: Shoulder,week_17,Philadelphia Eagles,2015
+['Fletcher Cox'],NA,week_17,Philadelphia Eagles,2015
+['Vinny Curry'],NA,week_17,Philadelphia Eagles,2015
+['Zach Ertz'],NA,week_17,Philadelphia Eagles,2015
+['Andrew Gardner'],Injured Reserve: Foot,week_17,Philadelphia Eagles,2015
+['Taylor Hart'],NA,week_17,Philadelphia Eagles,2015
+['Jordan Hicks'],Injured Reserve: Pectoral,week_17,Philadelphia Eagles,2015
+['Josh Huff'],NA,week_17,Philadelphia Eagles,2015
+['Malcolm Jenkins'],NA,week_17,Philadelphia Eagles,2015
+['Lane Johnson'],NA,week_17,Philadelphia Eagles,2015
+['Jason Kelce'],NA,week_17,Philadelphia Eagles,2015
+['Dennis Kelly'],Probable: Ankle,week_17,Philadelphia Eagles,2015
+['Mychal Kendricks'],NA,week_17,Philadelphia Eagles,2015
+['Bennie Logan'],Out: Calf,week_17,Philadelphia Eagles,2015
+['Travis Long'],Injured Reserve: Knee,week_17,Philadelphia Eagles,2015
+['Chris Maragos'],NA,week_17,Philadelphia Eagles,2015
+['Ryan Mathews'],NA,week_17,Philadelphia Eagles,2015
+['Jordan Matthews'],NA,week_17,Philadelphia Eagles,2015
+['Byron Maxwell'],Out: Shoulder,week_17,Philadelphia Eagles,2015
+['David Molk'],Injured Reserve: Bicep,week_17,Philadelphia Eagles,2015
+['DeMarco Murray'],NA,week_17,Philadelphia Eagles,2015
+['Cody Parkey'],Injured Reserve: Groin,week_17,Philadelphia Eagles,2015
+['Jason Peters'],NA,week_17,Philadelphia Eagles,2015
+['Eric Rowe'],NA,week_17,Philadelphia Eagles,2015
+['DeMeco Ryans'],NA,week_17,Philadelphia Eagles,2015
+['JaCorey Shepherd'],Injured Reserve: Knee,week_17,Philadelphia Eagles,2015
+['Marcus Smith'],NA,week_17,Philadelphia Eagles,2015
+['Caleb Sturgis'],Probable: rightHamstring,week_17,Philadelphia Eagles,2015
+['Cedric Thornton'],NA,week_17,Philadelphia Eagles,2015
+['Walter Thurmond'],NA,week_17,Philadelphia Eagles,2015
+['Matt Tobin'],NA,week_17,Philadelphia Eagles,2015
+['Jaylen Watkins'],Questionable: Shin,week_17,Philadelphia Eagles,2015
