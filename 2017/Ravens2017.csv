@@ -1,0 +1,865 @@
+﻿name,injury,week,team,year
+['Kenny Bell'],Injured Reserve: Hamstring,week_1,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_1,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_1,Baltimore Ravens,2017
+['Bam Bradley'],NA,week_1,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_1,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_1,Baltimore Ravens,2017
+['Alex Collins'],NA,week_1,Baltimore Ravens,2017
+['Carl Davis'],NA,week_1,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Injured Reserve: Undisclosed,week_1,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_1,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_1,Baltimore Ravens,2017
+['Austin Howard'],NA,week_1,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_1,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_1,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_1,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_1,Baltimore Ravens,2017
+['Jeremy Langford'],NA,week_1,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_1,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_1,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_1,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_1,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_1,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_1,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Chris Moore'],NA,week_1,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_1,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_1,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_1,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_1,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_1,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_1,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_1,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Matt Skura'],NA,week_1,Baltimore Ravens,2017
+['Jimmy Smith'],NA,week_1,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_1,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_1,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_1,Baltimore Ravens,2017
+['Brent Urban'],NA,week_1,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_1,Baltimore Ravens,2017
+['Ben Watson'],NA,week_1,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_1,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_1,Baltimore Ravens,2017
+['Terrance West'],NA,week_1,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_1,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_1,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_1,Baltimore Ravens,2017
+['Tim Williams'],NA,week_1,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_1,Baltimore Ravens,2017
+['Marshal Yanda'],NA,week_1,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_1,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_2,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_2,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_2,Baltimore Ravens,2017
+['Bam Bradley'],NA,week_2,Baltimore Ravens,2017
+['Michael Campanaro'],Questionable: Ankle,week_2,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_2,Baltimore Ravens,2017
+['Alex Collins'],NA,week_2,Baltimore Ravens,2017
+['Carl Davis'],NA,week_2,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Injured Reserve: Undisclosed,week_2,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_2,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Jaylen Hill'],Out: Thigh,week_2,Baltimore Ravens,2017
+['Austin Howard'],NA,week_2,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_2,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_2,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_2,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_2,Baltimore Ravens,2017
+['Jeremy Langford'],NA,week_2,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_2,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_2,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_2,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_2,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_2,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_2,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Chris Moore'],NA,week_2,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_2,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_2,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_2,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_2,Baltimore Ravens,2017
+['Sheldon Price'],Out: Concussion,week_2,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_2,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_2,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Matt Skura'],NA,week_2,Baltimore Ravens,2017
+['Jimmy Smith'],NA,week_2,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",Out: Knee,week_2,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_2,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_2,Baltimore Ravens,2017
+['Brent Urban'],NA,week_2,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_2,Baltimore Ravens,2017
+['Ben Watson'],NA,week_2,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_2,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_2,Baltimore Ravens,2017
+['Terrance West'],NA,week_2,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_2,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_2,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_2,Baltimore Ravens,2017
+['Tim Williams'],Questionable: Illness,week_2,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_2,Baltimore Ravens,2017
+['Marshal Yanda'],NA,week_2,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_2,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_3,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_3,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_3,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Michael Campanaro'],Questionable: Ankle,week_3,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_3,Baltimore Ravens,2017
+['Alex Collins'],NA,week_3,Baltimore Ravens,2017
+['Carl Davis'],NA,week_3,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_3,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_3,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Jaylen Hill'],Out: Thigh,week_3,Baltimore Ravens,2017
+['Austin Howard'],NA,week_3,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_3,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_3,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_3,Baltimore Ravens,2017
+['Dieugot Joseph'],Out: NotInjuryRelated,week_3,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_3,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Chest,week_3,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_3,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_3,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_3,Baltimore Ravens,2017
+['Chris Matthews'],Questionable: Ankle,week_3,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_3,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Chris Moore'],NA,week_3,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_3,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_3,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_3,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_3,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_3,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_3,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_3,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Matt Skura'],NA,week_3,Baltimore Ravens,2017
+['Jimmy Smith'],NA,week_3,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",Questionable: Knee,week_3,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_3,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_3,Baltimore Ravens,2017
+['Brent Urban'],NA,week_3,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_3,Baltimore Ravens,2017
+['Ben Watson'],NA,week_3,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_3,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_3,Baltimore Ravens,2017
+['Terrance West'],Questionable: Calf,week_3,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_3,Baltimore Ravens,2017
+['Brandon Williams'],Out: Foot,week_3,Baltimore Ravens,2017
+['Maxx Williams'],Out: Ankle,week_3,Baltimore Ravens,2017
+['Tim Williams'],NA,week_3,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_3,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_3,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_3,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_4,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_4,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_4,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_4,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_4,Baltimore Ravens,2017
+['Alex Collins'],NA,week_4,Baltimore Ravens,2017
+['Carl Davis'],NA,week_4,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_4,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_4,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Jaylen Hill'],Out: Thigh,week_4,Baltimore Ravens,2017
+['Austin Howard'],NA,week_4,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_4,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_4,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_4,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_4,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_4,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_4,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_4,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_4,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_4,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_4,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_4,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Chris Moore'],NA,week_4,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_4,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_4,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_4,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_4,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_4,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_4,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_4,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Matt Skura'],NA,week_4,Baltimore Ravens,2017
+['Jimmy Smith'],NA,week_4,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_4,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_4,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_4,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_4,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_4,Baltimore Ravens,2017
+['Ben Watson'],Questionable: Calf,week_4,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_4,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_4,Baltimore Ravens,2017
+['Terrance West'],NA,week_4,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_4,Baltimore Ravens,2017
+['Brandon Williams'],Out: Foot,week_4,Baltimore Ravens,2017
+['Maxx Williams'],Out: Ankle,week_4,Baltimore Ravens,2017
+['Tim Williams'],NA,week_4,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_4,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_4,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_4,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_5,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_5,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_5,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_5,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_5,Baltimore Ravens,2017
+['Alex Collins'],NA,week_5,Baltimore Ravens,2017
+['Carl Davis'],NA,week_5,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_5,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_5,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Jaylen Hill'],Doubtful: Thigh,week_5,Baltimore Ravens,2017
+['Austin Howard'],NA,week_5,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_5,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_5,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_5,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_5,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_5,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Thigh,week_5,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_5,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Hand,week_5,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_5,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_5,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_5,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Chris Moore'],NA,week_5,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_5,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_5,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_5,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_5,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_5,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_5,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_5,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Matt Skura'],NA,week_5,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_5,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_5,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_5,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_5,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_5,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_5,Baltimore Ravens,2017
+['Ben Watson'],Questionable: Calf,week_5,Baltimore Ravens,2017
+['Lardarius Webb'],Questionable: Thigh,week_5,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_5,Baltimore Ravens,2017
+['Terrance West'],NA,week_5,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_5,Baltimore Ravens,2017
+['Brandon Williams'],Out: Foot,week_5,Baltimore Ravens,2017
+['Maxx Williams'],Out: Ankle,week_5,Baltimore Ravens,2017
+['Tim Williams'],NA,week_5,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_5,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_5,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_5,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_6,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_6,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_6,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_6,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_6,Baltimore Ravens,2017
+['Alex Collins'],NA,week_6,Baltimore Ravens,2017
+['Carl Davis'],Questionable: Thigh,week_6,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_6,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_6,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Jaylen Hill'],Questionable: Thigh,week_6,Baltimore Ravens,2017
+['Austin Howard'],NA,week_6,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_6,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_6,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_6,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_6,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_6,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Thigh,week_6,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_6,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Shoulder,week_6,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_6,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_6,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_6,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Chris Moore'],NA,week_6,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_6,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_6,Baltimore Ravens,2017
+['Breshad Perriman'],Questionable: Knee,week_6,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_6,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_6,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_6,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_6,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Matt Skura'],Out: Knee,week_6,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_6,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_6,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_6,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_6,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_6,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_6,Baltimore Ravens,2017
+['Ben Watson'],NA,week_6,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_6,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_6,Baltimore Ravens,2017
+['Terrance West'],Out: Calf,week_6,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_6,Baltimore Ravens,2017
+['Brandon Williams'],Doubtful: Foot,week_6,Baltimore Ravens,2017
+['Maxx Williams'],Questionable: Ankle,week_6,Baltimore Ravens,2017
+['Tim Williams'],Doubtful: Thigh,week_6,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_6,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_6,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_6,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_7,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_7,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_7,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_7,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_7,Baltimore Ravens,2017
+['Alex Collins'],NA,week_7,Baltimore Ravens,2017
+['Carl Davis'],Questionable: Thigh,week_7,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_7,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_7,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Jaylen Hill'],Questionable: Thigh,week_7,Baltimore Ravens,2017
+['Austin Howard'],NA,week_7,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_7,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_7,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_7,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_7,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_7,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Thigh,week_7,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_7,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Shoulder,week_7,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_7,Baltimore Ravens,2017
+['Chris Matthews'],Doubtful: Thigh,week_7,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_7,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Chris Moore'],NA,week_7,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_7,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_7,Baltimore Ravens,2017
+['Breshad Perriman'],Out: Concussion,week_7,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_7,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_7,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_7,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_7,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Matt Skura'],Out: Knee,week_7,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_7,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_7,Baltimore Ravens,2017
+['Ronnie Stanley'],Questionable: Mouth,week_7,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_7,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_7,Baltimore Ravens,2017
+['Mike Wallace'],Questionable: Back,week_7,Baltimore Ravens,2017
+['Ben Watson'],Questionable: Knee,week_7,Baltimore Ravens,2017
+['Lardarius Webb'],Questionable: Knee,week_7,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_7,Baltimore Ravens,2017
+['Terrance West'],Out: Calf,week_7,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_7,Baltimore Ravens,2017
+['Brandon Williams'],Questionable: Foot,week_7,Baltimore Ravens,2017
+['Maxx Williams'],Out: Ankle,week_7,Baltimore Ravens,2017
+['Tim Williams'],Out: Thigh,week_7,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_7,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_7,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_7,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_8,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_8,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_8,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Michael Campanaro'],Doubtful: Shoulder,week_8,Baltimore Ravens,2017
+['Maurice Canady'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_8,Baltimore Ravens,2017
+['Alex Collins'],NA,week_8,Baltimore Ravens,2017
+['Carl Davis'],NA,week_8,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_8,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_8,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_8,Baltimore Ravens,2017
+['Austin Howard'],NA,week_8,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_8,Baltimore Ravens,2017
+['Tony Jefferson'],Questionable: Ankle,week_8,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_8,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_8,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_8,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Back,week_8,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_8,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Shoulder,week_8,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_8,Baltimore Ravens,2017
+['Chris Matthews'],Doubtful: Thigh,week_8,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_8,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Chris Moore'],NA,week_8,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_8,Baltimore Ravens,2017
+['Patrick Onwuasor'],Questionable: Knee,week_8,Baltimore Ravens,2017
+['Breshad Perriman'],Questionable: Concussion,week_8,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_8,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_8,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_8,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_8,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Matt Skura'],Questionable: Knee,week_8,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_8,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_8,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_8,Baltimore Ravens,2017
+['Terrell Suggs'],Questionable: Knee,week_8,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_8,Baltimore Ravens,2017
+['Mike Wallace'],Questionable: Concussion,week_8,Baltimore Ravens,2017
+['Ben Watson'],Questionable: Knee,week_8,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_8,Baltimore Ravens,2017
+['Eric Weddle'],Questionable: Ankle,week_8,Baltimore Ravens,2017
+['Terrance West'],Out: Calf,week_8,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_8,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_8,Baltimore Ravens,2017
+['Maxx Williams'],Out: Ankle,week_8,Baltimore Ravens,2017
+['Tim Williams'],Doubtful: Thigh,week_8,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_8,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_8,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_8,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_9,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_9,Baltimore Ravens,2017
+['Nick Boyle'],Questionable: Toe,week_9,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Michael Campanaro'],Out: Shoulder,week_9,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_9,Baltimore Ravens,2017
+['Chuck Clark'],Out: Thigh,week_9,Baltimore Ravens,2017
+['Alex Collins'],NA,week_9,Baltimore Ravens,2017
+['Carl Davis'],NA,week_9,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_9,Baltimore Ravens,2017
+['Joe Flacco'],Questionable: Concussion,week_9,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_9,Baltimore Ravens,2017
+['Austin Howard'],NA,week_9,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_9,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_9,Baltimore Ravens,2017
+['Ryan Jensen'],Questionable: Shoulder,week_9,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_9,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_9,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_9,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_9,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Shoulder,week_9,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_9,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_9,Baltimore Ravens,2017
+['Vince Mayle'],Questionable: Concussion,week_9,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Chris Moore'],NA,week_9,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_9,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_9,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_9,Baltimore Ravens,2017
+['Michael Pierce'],Questionable: Illness,week_9,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_9,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_9,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_9,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Matt Skura'],NA,week_9,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_9,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_9,Baltimore Ravens,2017
+['Ronnie Stanley'],Questionable: Shoulder,week_9,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_9,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_9,Baltimore Ravens,2017
+['Mike Wallace'],Questionable: Back,week_9,Baltimore Ravens,2017
+['Ben Watson'],NA,week_9,Baltimore Ravens,2017
+['Lardarius Webb'],Questionable: Concussion,week_9,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_9,Baltimore Ravens,2017
+['Terrance West'],Out: Calf,week_9,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_9,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_9,Baltimore Ravens,2017
+['Maxx Williams'],Questionable: Ankle,week_9,Baltimore Ravens,2017
+['Tim Williams'],Questionable: Thigh,week_9,Baltimore Ravens,2017
+['Danny Woodhead'],Injured Reserve: Hamstring,week_9,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_9,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_9,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_11,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_11,Baltimore Ravens,2017
+['Nick Boyle'],Questionable: Toe,week_11,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Michael Campanaro'],Questionable: Shoulder,week_11,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_11,Baltimore Ravens,2017
+['Chuck Clark'],Questionable: Thigh,week_11,Baltimore Ravens,2017
+['Alex Collins'],NA,week_11,Baltimore Ravens,2017
+['Carl Davis'],NA,week_11,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Jermaine Eluemunor'],NA,week_11,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_11,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_11,Baltimore Ravens,2017
+['Austin Howard'],NA,week_11,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_11,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_11,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_11,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_11,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_11,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_11,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_11,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_11,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_11,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_11,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_11,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Chris Moore'],NA,week_11,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_11,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_11,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_11,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_11,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_11,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_11,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_11,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Matt Skura'],NA,week_11,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_11,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_11,Baltimore Ravens,2017
+['Ronnie Stanley'],Doubtful: Concussion,week_11,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_11,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_11,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_11,Baltimore Ravens,2017
+['Ben Watson'],NA,week_11,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_11,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_11,Baltimore Ravens,2017
+['Terrance West'],Questionable: Calf,week_11,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_11,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_11,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_11,Baltimore Ravens,2017
+['Tim Williams'],Questionable: Thigh,week_11,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_11,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_11,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_11,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_12,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_12,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_12,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Michael Campanaro'],Injured Reserve: Toe,week_12,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_12,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_12,Baltimore Ravens,2017
+['Alex Collins'],NA,week_12,Baltimore Ravens,2017
+['Carl Davis'],NA,week_12,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Out: Shoulder,week_12,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_12,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_12,Baltimore Ravens,2017
+['Austin Howard'],Questionable: Knee,week_12,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_12,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_12,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_12,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_12,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_12,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_12,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_12,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_12,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_12,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_12,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_12,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Chris Moore'],NA,week_12,Baltimore Ravens,2017
+['C.J. Mosley'],Questionable: Ankle,week_12,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_12,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_12,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_12,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_12,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_12,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_12,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Matt Skura'],NA,week_12,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_12,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_12,Baltimore Ravens,2017
+['Ronnie Stanley'],Questionable: Concussion,week_12,Baltimore Ravens,2017
+['Terrell Suggs'],Questionable: Ankle,week_12,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_12,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_12,Baltimore Ravens,2017
+['Ben Watson'],NA,week_12,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_12,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_12,Baltimore Ravens,2017
+['Terrance West'],Questionable: Calf,week_12,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_12,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_12,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_12,Baltimore Ravens,2017
+['Tim Williams'],NA,week_12,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_12,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_12,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_12,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_13,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_13,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_13,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_13,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_13,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_13,Baltimore Ravens,2017
+['Alex Collins'],Questionable: Calf,week_13,Baltimore Ravens,2017
+['Carl Davis'],NA,week_13,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Out: Shoulder,week_13,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_13,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_13,Baltimore Ravens,2017
+['Austin Howard'],NA,week_13,Baltimore Ravens,2017
+['Marlon Humphrey'],Questionable: Thigh,week_13,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_13,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_13,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_13,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_13,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_13,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_13,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_13,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_13,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_13,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_13,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Chris Moore'],NA,week_13,Baltimore Ravens,2017
+['C.J. Mosley'],Questionable: Ankle,week_13,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_13,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_13,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_13,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_13,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_13,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_13,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Matt Skura'],NA,week_13,Baltimore Ravens,2017
+['Jimmy Smith'],Questionable: Achilles,week_13,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_13,Baltimore Ravens,2017
+['Ronnie Stanley'],Questionable: Knee,week_13,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_13,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_13,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_13,Baltimore Ravens,2017
+['Ben Watson'],NA,week_13,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_13,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_13,Baltimore Ravens,2017
+['Terrance West'],NA,week_13,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_13,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_13,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_13,Baltimore Ravens,2017
+['Tim Williams'],NA,week_13,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_13,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_13,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_13,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_14,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_14,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_14,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_14,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_14,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_14,Baltimore Ravens,2017
+['Alex Collins'],NA,week_14,Baltimore Ravens,2017
+['Carl Davis'],NA,week_14,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Questionable: Shoulder,week_14,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_14,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_14,Baltimore Ravens,2017
+['Austin Howard'],NA,week_14,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_14,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_14,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_14,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_14,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_14,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_14,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_14,Baltimore Ravens,2017
+['Jeremy Maclin'],Questionable: Back,week_14,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_14,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_14,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_14,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Chris Moore'],NA,week_14,Baltimore Ravens,2017
+['C.J. Mosley'],Questionable: Neck,week_14,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_14,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_14,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_14,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_14,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_14,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_14,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Matt Skura'],NA,week_14,Baltimore Ravens,2017
+['Jimmy Smith'],Injured Reserve: Achilles,week_14,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",Doubtful: Shoulder,week_14,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_14,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_14,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_14,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_14,Baltimore Ravens,2017
+['Ben Watson'],NA,week_14,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_14,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_14,Baltimore Ravens,2017
+['Terrance West'],NA,week_14,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_14,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_14,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_14,Baltimore Ravens,2017
+['Tim Williams'],NA,week_14,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_14,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_14,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_14,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_15,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_15,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_15,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_15,Baltimore Ravens,2017
+['Maurice Canady'],Questionable: Knee,week_15,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_15,Baltimore Ravens,2017
+['Alex Collins'],NA,week_15,Baltimore Ravens,2017
+['Carl Davis'],NA,week_15,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Questionable: Shoulder,week_15,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_15,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_15,Baltimore Ravens,2017
+['Austin Howard'],NA,week_15,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_15,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_15,Baltimore Ravens,2017
+['Ryan Jensen'],Questionable: Ankle,week_15,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_15,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_15,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_15,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_15,Baltimore Ravens,2017
+['Jeremy Maclin'],NA,week_15,Baltimore Ravens,2017
+['Ryan Mallett'],Questionable: Hips,week_15,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_15,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_15,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Chris Moore'],Questionable: Hip,week_15,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_15,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_15,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_15,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_15,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_15,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_15,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_15,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Matt Skura'],NA,week_15,Baltimore Ravens,2017
+['Jimmy Smith'],Injured Reserve: Achilles,week_15,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",Questionable: Shoulder,week_15,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_15,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_15,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_15,Baltimore Ravens,2017
+['Mike Wallace'],Questionable: Ankle,week_15,Baltimore Ravens,2017
+['Ben Watson'],NA,week_15,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_15,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_15,Baltimore Ravens,2017
+['Terrance West'],NA,week_15,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_15,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_15,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_15,Baltimore Ravens,2017
+['Tim Williams'],NA,week_15,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_15,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_15,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_15,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_16,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_16,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_16,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_16,Baltimore Ravens,2017
+['Maurice Canady'],Questionable: Knee,week_16,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_16,Baltimore Ravens,2017
+['Alex Collins'],NA,week_16,Baltimore Ravens,2017
+['Carl Davis'],Questionable: Shoulder,week_16,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Injured Reserve: Undisclosed,week_16,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_16,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Jaylen Hill'],NA,week_16,Baltimore Ravens,2017
+['Austin Howard'],NA,week_16,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_16,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_16,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_16,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_16,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_16,Baltimore Ravens,2017
+['Anthony Levine'],Questionable: Thigh,week_16,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_16,Baltimore Ravens,2017
+['Jeremy Maclin'],Doubtful: Knee,week_16,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_16,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_16,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_16,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Chris Moore'],NA,week_16,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_16,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_16,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_16,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_16,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_16,Baltimore Ravens,2017
+['Patrick Ricard'],NA,week_16,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_16,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Matt Skura'],NA,week_16,Baltimore Ravens,2017
+['Jimmy Smith'],Injured Reserve: Achilles,week_16,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_16,Baltimore Ravens,2017
+['Ronnie Stanley'],Questionable: Illness,week_16,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_16,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_16,Baltimore Ravens,2017
+['Mike Wallace'],NA,week_16,Baltimore Ravens,2017
+['Ben Watson'],NA,week_16,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_16,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_16,Baltimore Ravens,2017
+['Terrance West'],NA,week_16,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_16,Baltimore Ravens,2017
+['Brandon Williams'],NA,week_16,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_16,Baltimore Ravens,2017
+['Tim Williams'],NA,week_16,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_16,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_16,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_16,Baltimore Ravens,2017
+['Kenny Bell'],Injured Reserve: Hamstring,week_17,Baltimore Ravens,2017
+['Brandon Boykin'],Injured Reserve: Undisclosed,week_17,Baltimore Ravens,2017
+['Nick Boyle'],NA,week_17,Baltimore Ravens,2017
+['Bam Bradley'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Michael Campanaro'],NA,week_17,Baltimore Ravens,2017
+['Maurice Canady'],NA,week_17,Baltimore Ravens,2017
+['Chuck Clark'],NA,week_17,Baltimore Ravens,2017
+['Alex Collins'],NA,week_17,Baltimore Ravens,2017
+['Carl Davis'],NA,week_17,Baltimore Ravens,2017
+['Kenneth Dixon'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Jermaine Eluemunor'],Questionable: Shoulder,week_17,Baltimore Ravens,2017
+['Joe Flacco'],NA,week_17,Baltimore Ravens,2017
+['Crockett Gillmore'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Jaylen Hill'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Austin Howard'],Questionable: Knee,week_17,Baltimore Ravens,2017
+['Marlon Humphrey'],NA,week_17,Baltimore Ravens,2017
+['Tony Jefferson'],NA,week_17,Baltimore Ravens,2017
+['Ryan Jensen'],NA,week_17,Baltimore Ravens,2017
+['Dieugot Joseph'],NA,week_17,Baltimore Ravens,2017
+['Jeremy Langford'],Injured Reserve: Undisclosed,week_17,Baltimore Ravens,2017
+['Anthony Levine'],NA,week_17,Baltimore Ravens,2017
+['Alex Lewis'],Injured Reserve: Shoulder,week_17,Baltimore Ravens,2017
+['Jeremy Maclin'],Doubtful: Knee,week_17,Baltimore Ravens,2017
+['Ryan Mallett'],NA,week_17,Baltimore Ravens,2017
+['Chris Matthews'],NA,week_17,Baltimore Ravens,2017
+['Vince Mayle'],NA,week_17,Baltimore Ravens,2017
+['Albert McClellan'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Chris Moore'],NA,week_17,Baltimore Ravens,2017
+['C.J. Mosley'],NA,week_17,Baltimore Ravens,2017
+['Patrick Onwuasor'],NA,week_17,Baltimore Ravens,2017
+['Breshad Perriman'],NA,week_17,Baltimore Ravens,2017
+['Michael Pierce'],NA,week_17,Baltimore Ravens,2017
+['Sheldon Price'],Injured Reserve: Concussion,week_17,Baltimore Ravens,2017
+['Patrick Ricard'],Questionable: Neck,week_17,Baltimore Ravens,2017
+['Al-Hajj Shabazz'],Injured Reserve: Undisclosed,week_17,Baltimore Ravens,2017
+['Nico Siragusa'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017
+['Matt Skura'],NA,week_17,Baltimore Ravens,2017
+['Jimmy Smith'],Injured Reserve: Achilles,week_17,Baltimore Ravens,2017
+"[""Za'Darius Smith""]",NA,week_17,Baltimore Ravens,2017
+['Ronnie Stanley'],NA,week_17,Baltimore Ravens,2017
+['Terrell Suggs'],NA,week_17,Baltimore Ravens,2017
+['Brent Urban'],Injured Reserve: Foot,week_17,Baltimore Ravens,2017
+['Mike Wallace'],Questionable: Knee,week_17,Baltimore Ravens,2017
+['Ben Watson'],NA,week_17,Baltimore Ravens,2017
+['Lardarius Webb'],NA,week_17,Baltimore Ravens,2017
+['Eric Weddle'],NA,week_17,Baltimore Ravens,2017
+['Terrance West'],NA,week_17,Baltimore Ravens,2017
+['Tim White'],Injured Reserve: Thumb,week_17,Baltimore Ravens,2017
+['Brandon Williams'],Questionable: Back,week_17,Baltimore Ravens,2017
+['Maxx Williams'],NA,week_17,Baltimore Ravens,2017
+['Tim Williams'],NA,week_17,Baltimore Ravens,2017
+['Danny Woodhead'],NA,week_17,Baltimore Ravens,2017
+['Marshal Yanda'],Injured Reserve: Ankle,week_17,Baltimore Ravens,2017
+['Tavon Young'],Injured Reserve: Knee,week_17,Baltimore Ravens,2017

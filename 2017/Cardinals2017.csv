@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Antoine Bethea'],NA,week_1,Arizona Cardinals,2017
+['Alex Boone'],NA,week_1,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_1,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_1,Arizona Cardinals,2017
+['John Brown'],NA,week_1,Arizona Cardinals,2017
+['Deone Bucannon'],Out: Ankle,week_1,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_1,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_1,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_1,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_1,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_1,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_1,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_1,Arizona Cardinals,2017
+['Markus Golden'],NA,week_1,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_1,Arizona Cardinals,2017
+['D.J. Humphries'],NA,week_1,Arizona Cardinals,2017
+['Mike Iupati'],Questionable: Tricep,week_1,Arizona Cardinals,2017
+['David Johnson'],NA,week_1,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_1,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_1,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_1,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_1,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_1,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_1,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_1,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_1,Arizona Cardinals,2017
+['Robert Nkemdiche'],Questionable: Calf,week_1,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_1,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_1,Arizona Cardinals,2017
+['Corey Peters'],NA,week_1,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_1,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_1,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_1,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_1,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_1,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_1,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_1,Arizona Cardinals,2017
+['Earl Watford'],NA,week_1,Arizona Cardinals,2017
+['John Wetzel'],NA,week_1,Arizona Cardinals,2017
+['Chad Williams'],NA,week_1,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_1,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_1,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_1,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_2,Arizona Cardinals,2017
+['Alex Boone'],NA,week_2,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_2,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_2,Arizona Cardinals,2017
+['John Brown'],Out: Quadricep,week_2,Arizona Cardinals,2017
+['Deone Bucannon'],Doubtful: Ankle,week_2,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_2,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_2,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_2,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_2,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_2,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_2,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_2,Arizona Cardinals,2017
+['Markus Golden'],NA,week_2,Arizona Cardinals,2017
+['Jermaine Gresham'],Questionable: Ribs,week_2,Arizona Cardinals,2017
+['D.J. Humphries'],Out: Knee,week_2,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_2,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_2,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_2,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_2,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_2,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_2,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_2,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_2,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_2,Arizona Cardinals,2017
+['Troy Niklas'],Questionable: Hip,week_2,Arizona Cardinals,2017
+['Robert Nkemdiche'],Questionable: Calf,week_2,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_2,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_2,Arizona Cardinals,2017
+['Corey Peters'],NA,week_2,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_2,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_2,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_2,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_2,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_2,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_2,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_2,Arizona Cardinals,2017
+['Earl Watford'],NA,week_2,Arizona Cardinals,2017
+['John Wetzel'],NA,week_2,Arizona Cardinals,2017
+['Chad Williams'],NA,week_2,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_2,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_2,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_2,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_3,Arizona Cardinals,2017
+['Alex Boone'],NA,week_3,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_3,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_3,Arizona Cardinals,2017
+['John Brown'],Out: Quadricep,week_3,Arizona Cardinals,2017
+['Deone Bucannon'],Questionable: Ankle,week_3,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_3,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_3,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_3,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_3,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_3,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_3,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_3,Arizona Cardinals,2017
+['Markus Golden'],NA,week_3,Arizona Cardinals,2017
+['Jermaine Gresham'],Questionable: Ribs,week_3,Arizona Cardinals,2017
+['D.J. Humphries'],Out: Knee,week_3,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_3,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_3,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_3,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_3,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_3,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_3,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_3,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_3,Arizona Cardinals,2017
+['JJ Nelson'],Questionable: Hamstring,week_3,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_3,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_3,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_3,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_3,Arizona Cardinals,2017
+['Corey Peters'],NA,week_3,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_3,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_3,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_3,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_3,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_3,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_3,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_3,Arizona Cardinals,2017
+['Earl Watford'],NA,week_3,Arizona Cardinals,2017
+['John Wetzel'],NA,week_3,Arizona Cardinals,2017
+['Chad Williams'],NA,week_3,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_3,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_3,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_3,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_4,Arizona Cardinals,2017
+['Alex Boone'],Out: Chest,week_4,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_4,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_4,Arizona Cardinals,2017
+['John Brown'],Questionable: Quadricep,week_4,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_4,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_4,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_4,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_4,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_4,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_4,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_4,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_4,Arizona Cardinals,2017
+['Markus Golden'],NA,week_4,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_4,Arizona Cardinals,2017
+['D.J. Humphries'],Questionable: Knee,week_4,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_4,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_4,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_4,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_4,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_4,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_4,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_4,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_4,Arizona Cardinals,2017
+['JJ Nelson'],Questionable: Hamstring,week_4,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_4,Arizona Cardinals,2017
+['Robert Nkemdiche'],Out: Calf,week_4,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_4,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_4,Arizona Cardinals,2017
+['Corey Peters'],NA,week_4,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_4,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_4,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_4,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_4,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_4,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_4,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_4,Arizona Cardinals,2017
+['Earl Watford'],NA,week_4,Arizona Cardinals,2017
+['John Wetzel'],NA,week_4,Arizona Cardinals,2017
+['Chad Williams'],NA,week_4,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_4,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_4,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_4,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_5,Arizona Cardinals,2017
+['Alex Boone'],Questionable: Chest,week_5,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_5,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_5,Arizona Cardinals,2017
+['John Brown'],Questionable: Quadricep,week_5,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_5,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_5,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_5,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_5,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_5,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_5,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_5,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_5,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_5,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_5,Arizona Cardinals,2017
+['D.J. Humphries'],Out: Knee,week_5,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_5,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_5,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_5,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_5,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_5,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_5,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_5,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_5,Arizona Cardinals,2017
+['JJ Nelson'],Questionable: Hamstring,week_5,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_5,Arizona Cardinals,2017
+['Robert Nkemdiche'],Out: Calf,week_5,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_5,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_5,Arizona Cardinals,2017
+['Corey Peters'],NA,week_5,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_5,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_5,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_5,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_5,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_5,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_5,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_5,Arizona Cardinals,2017
+['Earl Watford'],NA,week_5,Arizona Cardinals,2017
+['John Wetzel'],NA,week_5,Arizona Cardinals,2017
+['Chad Williams'],NA,week_5,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_5,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_5,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_5,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_6,Arizona Cardinals,2017
+['Alex Boone'],NA,week_6,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_6,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_6,Arizona Cardinals,2017
+['John Brown'],NA,week_6,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_6,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_6,Arizona Cardinals,2017
+['Karlos Dansby'],Questionable: Hamstring,week_6,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_6,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_6,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_6,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_6,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_6,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_6,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_6,Arizona Cardinals,2017
+['D.J. Humphries'],NA,week_6,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_6,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_6,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_6,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_6,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_6,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_6,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_6,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_6,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_6,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_6,Arizona Cardinals,2017
+['Robert Nkemdiche'],Questionable: Calf,week_6,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_6,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_6,Arizona Cardinals,2017
+['Corey Peters'],Questionable: Knee,week_6,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_6,Arizona Cardinals,2017
+['Patrick Peterson'],Questionable: Quadricep,week_6,Arizona Cardinals,2017
+['Olsen Pierre'],Out: Ankle,week_6,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_6,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_6,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_6,Arizona Cardinals,2017
+['Jared Veldheer'],Questionable: Knee,week_6,Arizona Cardinals,2017
+['Earl Watford'],NA,week_6,Arizona Cardinals,2017
+['John Wetzel'],NA,week_6,Arizona Cardinals,2017
+['Chad Williams'],NA,week_6,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_6,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_6,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_6,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_7,Arizona Cardinals,2017
+['Alex Boone'],NA,week_7,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_7,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_7,Arizona Cardinals,2017
+['John Brown'],NA,week_7,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_7,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_7,Arizona Cardinals,2017
+['Karlos Dansby'],Questionable: Hamstring,week_7,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_7,Arizona Cardinals,2017
+['Andre Ellington'],Questionable: Quadricep,week_7,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_7,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_7,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_7,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_7,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_7,Arizona Cardinals,2017
+['D.J. Humphries'],NA,week_7,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_7,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_7,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_7,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_7,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_7,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_7,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_7,Arizona Cardinals,2017
+['Daniel Munyer'],NA,week_7,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_7,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_7,Arizona Cardinals,2017
+['Robert Nkemdiche'],Questionable: Calf,week_7,Arizona Cardinals,2017
+['Carson Palmer'],NA,week_7,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_7,Arizona Cardinals,2017
+['Corey Peters'],NA,week_7,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_7,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_7,Arizona Cardinals,2017
+['Olsen Pierre'],Questionable: Ankle,week_7,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_7,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_7,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_7,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_7,Arizona Cardinals,2017
+['Earl Watford'],NA,week_7,Arizona Cardinals,2017
+['John Wetzel'],NA,week_7,Arizona Cardinals,2017
+['Chad Williams'],NA,week_7,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_7,Arizona Cardinals,2017
+['Xavier Williams'],Questionable: Knee,week_7,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_7,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_9,Arizona Cardinals,2017
+['Alex Boone'],NA,week_9,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_9,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_9,Arizona Cardinals,2017
+['John Brown'],NA,week_9,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_9,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_9,Arizona Cardinals,2017
+['Karlos Dansby'],Questionable: Finger,week_9,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_9,Arizona Cardinals,2017
+['Andre Ellington'],Questionable: Quadricep,week_9,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_9,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_9,Arizona Cardinals,2017
+['Brittan Golden'],Questionable: Groin,week_9,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_9,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_9,Arizona Cardinals,2017
+['D.J. Humphries'],NA,week_9,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_9,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_9,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_9,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_9,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_9,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_9,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_9,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_9,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_9,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_9,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_9,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_9,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_9,Arizona Cardinals,2017
+['Corey Peters'],NA,week_9,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_9,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_9,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_9,Arizona Cardinals,2017
+['Frostee Rucker'],Questionable: Knee,week_9,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_9,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_9,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_9,Arizona Cardinals,2017
+['Earl Watford'],NA,week_9,Arizona Cardinals,2017
+['John Wetzel'],NA,week_9,Arizona Cardinals,2017
+['Chad Williams'],Questionable: Back,week_9,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_9,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_9,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_9,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_10,Arizona Cardinals,2017
+['Alex Boone'],NA,week_10,Arizona Cardinals,2017
+['Tyvon Branch'],NA,week_10,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_10,Arizona Cardinals,2017
+['John Brown'],NA,week_10,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_10,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_10,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_10,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_10,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_10,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_10,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_10,Arizona Cardinals,2017
+['Brittan Golden'],Questionable: Groin,week_10,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_10,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_10,Arizona Cardinals,2017
+['D.J. Humphries'],NA,week_10,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_10,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_10,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_10,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_10,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_10,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_10,Arizona Cardinals,2017
+['Ifeanyi Momah'],NA,week_10,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_10,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_10,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_10,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_10,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_10,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_10,Arizona Cardinals,2017
+['Corey Peters'],NA,week_10,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_10,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_10,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_10,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_10,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_10,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_10,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_10,Arizona Cardinals,2017
+['Earl Watford'],NA,week_10,Arizona Cardinals,2017
+['John Wetzel'],NA,week_10,Arizona Cardinals,2017
+['Chad Williams'],Questionable: Back,week_10,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_10,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_10,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_10,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_11,Arizona Cardinals,2017
+['Alex Boone'],NA,week_11,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_11,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_11,Arizona Cardinals,2017
+['John Brown'],Questionable: Back,week_11,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_11,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_11,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_11,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_11,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_11,Arizona Cardinals,2017
+['Rudy Ford'],NA,week_11,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_11,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_11,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_11,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_11,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_11,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_11,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_11,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_11,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_11,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_11,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_11,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_11,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_11,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_11,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_11,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_11,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_11,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_11,Arizona Cardinals,2017
+['Corey Peters'],Out: Ankle,week_11,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_11,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_11,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_11,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_11,Arizona Cardinals,2017
+['A.Q. Shipley'],Questionable: Shoulder,week_11,Arizona Cardinals,2017
+['Drew Stanton'],Questionable: Knee,week_11,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_11,Arizona Cardinals,2017
+['Earl Watford'],NA,week_11,Arizona Cardinals,2017
+['John Wetzel'],Questionable: Back,week_11,Arizona Cardinals,2017
+['Chad Williams'],NA,week_11,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_11,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_11,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_11,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_12,Arizona Cardinals,2017
+['Alex Boone'],NA,week_12,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_12,Arizona Cardinals,2017
+['John Brown'],Out: Toe,week_12,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_12,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_12,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_12,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_12,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_12,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Brittan Golden'],Questionable: Groin,week_12,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_12,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_12,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_12,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_12,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_12,Arizona Cardinals,2017
+['Gabe Martin'],Injured Reserve: Achilles,week_12,Arizona Cardinals,2017
+['Josh Mauro'],Questionable: Ankle,week_12,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_12,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_12,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_12,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_12,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_12,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_12,Arizona Cardinals,2017
+['Elijhaa Penny'],Questionable: Knee,week_12,Arizona Cardinals,2017
+['Corey Peters'],Out: Ankle,week_12,Arizona Cardinals,2017
+['Adrian Peterson'],NA,week_12,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_12,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_12,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_12,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_12,Arizona Cardinals,2017
+['Drew Stanton'],Questionable: Knee,week_12,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_12,Arizona Cardinals,2017
+['Earl Watford'],NA,week_12,Arizona Cardinals,2017
+['John Wetzel'],NA,week_12,Arizona Cardinals,2017
+['Chad Williams'],NA,week_12,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_12,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_12,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_12,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_13,Arizona Cardinals,2017
+['Alex Boone'],NA,week_13,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_13,Arizona Cardinals,2017
+['John Brown'],Out: Toe,week_13,Arizona Cardinals,2017
+['Deone Bucannon'],Out: Ankle,week_13,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_13,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_13,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_13,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_13,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_13,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_13,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_13,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_13,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_13,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_13,Arizona Cardinals,2017
+['Gabe Martin'],NA,week_13,Arizona Cardinals,2017
+['Josh Mauro'],Questionable: Ankle,week_13,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_13,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_13,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_13,Arizona Cardinals,2017
+['Troy Niklas'],Questionable: Back,week_13,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_13,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_13,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_13,Arizona Cardinals,2017
+['Corey Peters'],Out: Ankle,week_13,Arizona Cardinals,2017
+['Adrian Peterson'],Injured Reserve: Neck,week_13,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_13,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_13,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_13,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_13,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_13,Arizona Cardinals,2017
+['Jared Veldheer'],NA,week_13,Arizona Cardinals,2017
+['Earl Watford'],NA,week_13,Arizona Cardinals,2017
+['John Wetzel'],NA,week_13,Arizona Cardinals,2017
+['Chad Williams'],NA,week_13,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_13,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_13,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_13,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_14,Arizona Cardinals,2017
+['Alex Boone'],NA,week_14,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Aaron Brewer'],Injured Reserve: Hand,week_14,Arizona Cardinals,2017
+['John Brown'],Out: Toe,week_14,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_14,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_14,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_14,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_14,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_14,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_14,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_14,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_14,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_14,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_14,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_14,Arizona Cardinals,2017
+['Gabe Martin'],NA,week_14,Arizona Cardinals,2017
+['Josh Mauro'],Questionable: Ankle,week_14,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_14,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_14,Arizona Cardinals,2017
+['JJ Nelson'],Questionable: Knee,week_14,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_14,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_14,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_14,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_14,Arizona Cardinals,2017
+['Corey Peters'],Questionable: Ankle,week_14,Arizona Cardinals,2017
+['Adrian Peterson'],Injured Reserve: Neck,week_14,Arizona Cardinals,2017
+['Patrick Peterson'],Questionable: Hamstring,week_14,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_14,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_14,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_14,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_14,Arizona Cardinals,2017
+['Jared Veldheer'],Questionable: Elbow,week_14,Arizona Cardinals,2017
+['Earl Watford'],NA,week_14,Arizona Cardinals,2017
+['John Wetzel'],NA,week_14,Arizona Cardinals,2017
+['Chad Williams'],NA,week_14,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_14,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_14,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_14,Arizona Cardinals,2017
+['Antoine Bethea'],NA,week_15,Arizona Cardinals,2017
+['Alex Boone'],NA,week_15,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_15,Arizona Cardinals,2017
+['John Brown'],Out: Toe,week_15,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_15,Arizona Cardinals,2017
+['Josh Bynes'],NA,week_15,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_15,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_15,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_15,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Brittan Golden'],NA,week_15,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Jermaine Gresham'],Questionable: Illness,week_15,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_15,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_15,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_15,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_15,Arizona Cardinals,2017
+['Gabe Martin'],Out: Hamstring,week_15,Arizona Cardinals,2017
+['Josh Mauro'],Questionable: Ankle,week_15,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_15,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_15,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_15,Arizona Cardinals,2017
+['Troy Niklas'],NA,week_15,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_15,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_15,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_15,Arizona Cardinals,2017
+['Corey Peters'],Questionable: Ankle,week_15,Arizona Cardinals,2017
+['Adrian Peterson'],Out: Neck,week_15,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_15,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_15,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_15,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_15,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_15,Arizona Cardinals,2017
+['Jared Veldheer'],Injured Reserve: Ankle,week_15,Arizona Cardinals,2017
+['Earl Watford'],Out: Ankle,week_15,Arizona Cardinals,2017
+['John Wetzel'],NA,week_15,Arizona Cardinals,2017
+['Chad Williams'],NA,week_15,Arizona Cardinals,2017
+['Kerwynn Williams'],NA,week_15,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_15,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_15,Arizona Cardinals,2017
+['Antoine Bethea'],Questionable: Knee,week_16,Arizona Cardinals,2017
+['Alex Boone'],NA,week_16,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_16,Arizona Cardinals,2017
+['John Brown'],Questionable: Toe,week_16,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_16,Arizona Cardinals,2017
+['Josh Bynes'],Out: Ankle,week_16,Arizona Cardinals,2017
+['Karlos Dansby'],Questionable: Knee,week_16,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_16,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_16,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Brittan Golden'],Injured Reserve: Arm,week_16,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_16,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_16,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_16,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_16,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_16,Arizona Cardinals,2017
+['Gabe Martin'],Questionable: Hamstring,week_16,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_16,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_16,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_16,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_16,Arizona Cardinals,2017
+['Troy Niklas'],Out: Ankle,week_16,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_16,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_16,Arizona Cardinals,2017
+['Elijhaa Penny'],NA,week_16,Arizona Cardinals,2017
+['Corey Peters'],NA,week_16,Arizona Cardinals,2017
+['Adrian Peterson'],Injured Reserve: Neck,week_16,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_16,Arizona Cardinals,2017
+['Olsen Pierre'],Questionable: Illness,week_16,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_16,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_16,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_16,Arizona Cardinals,2017
+['Jared Veldheer'],Injured Reserve: Ankle,week_16,Arizona Cardinals,2017
+['Earl Watford'],Out: Ankle,week_16,Arizona Cardinals,2017
+['John Wetzel'],NA,week_16,Arizona Cardinals,2017
+['Chad Williams'],Questionable: Illness,week_16,Arizona Cardinals,2017
+['Kerwynn Williams'],Questionable: Quadricep,week_16,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_16,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_16,Arizona Cardinals,2017
+['Antoine Bethea'],Injured Reserve: Pectoral,week_17,Arizona Cardinals,2017
+['Alex Boone'],NA,week_17,Arizona Cardinals,2017
+['Tyvon Branch'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017
+['Aaron Brewer'],NA,week_17,Arizona Cardinals,2017
+['John Brown'],NA,week_17,Arizona Cardinals,2017
+['Deone Bucannon'],NA,week_17,Arizona Cardinals,2017
+['Josh Bynes'],Questionable: Ankle,week_17,Arizona Cardinals,2017
+['Karlos Dansby'],NA,week_17,Arizona Cardinals,2017
+['Aaron Dobson'],Injured Reserve: Hamstring,week_17,Arizona Cardinals,2017
+['Andre Ellington'],NA,week_17,Arizona Cardinals,2017
+['Rudy Ford'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017
+['Alani Fua'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017
+['Brittan Golden'],Injured Reserve: Arm,week_17,Arizona Cardinals,2017
+['Markus Golden'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017
+['Jermaine Gresham'],NA,week_17,Arizona Cardinals,2017
+['D.J. Humphries'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017
+['Mike Iupati'],Injured Reserve: Tricep,week_17,Arizona Cardinals,2017
+['David Johnson'],Injured Reserve: Wrist,week_17,Arizona Cardinals,2017
+['Jarvis Jones'],Injured Reserve: Quadricep,week_17,Arizona Cardinals,2017
+['T.J. Logan'],Injured Reserve: Wrist,week_17,Arizona Cardinals,2017
+['Gabe Martin'],NA,week_17,Arizona Cardinals,2017
+['Josh Mauro'],NA,week_17,Arizona Cardinals,2017
+['Ifeanyi Momah'],Injured Reserve: Ankle,week_17,Arizona Cardinals,2017
+['Daniel Munyer'],Injured Reserve: Toe,week_17,Arizona Cardinals,2017
+['JJ Nelson'],NA,week_17,Arizona Cardinals,2017
+['Troy Niklas'],Questionable: Ankle,week_17,Arizona Cardinals,2017
+['Robert Nkemdiche'],NA,week_17,Arizona Cardinals,2017
+['Carson Palmer'],Injured Reserve: Arm,week_17,Arizona Cardinals,2017
+['Elijhaa Penny'],Questionable: Hand,week_17,Arizona Cardinals,2017
+['Corey Peters'],NA,week_17,Arizona Cardinals,2017
+['Adrian Peterson'],Injured Reserve: Neck,week_17,Arizona Cardinals,2017
+['Patrick Peterson'],NA,week_17,Arizona Cardinals,2017
+['Olsen Pierre'],NA,week_17,Arizona Cardinals,2017
+['Frostee Rucker'],NA,week_17,Arizona Cardinals,2017
+['A.Q. Shipley'],NA,week_17,Arizona Cardinals,2017
+['Drew Stanton'],NA,week_17,Arizona Cardinals,2017
+['Jared Veldheer'],Injured Reserve: Ankle,week_17,Arizona Cardinals,2017
+['Earl Watford'],Questionable: Ankle,week_17,Arizona Cardinals,2017
+['John Wetzel'],NA,week_17,Arizona Cardinals,2017
+['Chad Williams'],NA,week_17,Arizona Cardinals,2017
+['Kerwynn Williams'],Questionable: Quadricep,week_17,Arizona Cardinals,2017
+['Xavier Williams'],NA,week_17,Arizona Cardinals,2017
+['Ronald Zamort'],Injured Reserve: Knee,week_17,Arizona Cardinals,2017

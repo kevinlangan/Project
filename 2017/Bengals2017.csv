@@ -1,0 +1,593 @@
+﻿name,injury,week,team,year
+['Geno Atkins'],NA,week_1,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_1,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_1,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_1,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_1,Cincinnati Bengals,2017
+['Cody Core'],NA,week_1,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_1,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_1,Cincinnati Bengals,2017
+['Tyler Eifert'],NA,week_1,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_1,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_1,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_1,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_1,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_1,Cincinnati Bengals,2017
+['George Iloka'],NA,week_1,Cincinnati Bengals,2017
+['William Jackson'],NA,week_1,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_1,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_1,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_1,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_1,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_1,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_1,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_1,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_1,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_1,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_1,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_1,Cincinnati Bengals,2017
+['John Ross'],NA,week_1,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_1,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_1,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_1,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_1,Cincinnati Bengals,2017
+['C.J. Uzomah'],Out: Ankle,week_1,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_1,Cincinnati Bengals,2017
+['Shawn Williams'],Out: Elbow,week_1,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_1,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_2,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_2,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_2,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_2,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_2,Cincinnati Bengals,2017
+['Cody Core'],NA,week_2,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_2,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_2,Cincinnati Bengals,2017
+['Tyler Eifert'],NA,week_2,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_2,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_2,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_2,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_2,Cincinnati Bengals,2017
+['Trey Hopkins'],Out: Knee,week_2,Cincinnati Bengals,2017
+['George Iloka'],NA,week_2,Cincinnati Bengals,2017
+['William Jackson'],NA,week_2,Cincinnati Bengals,2017
+['Michael Johnson'],Out: Concussion,week_2,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_2,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_2,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_2,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_2,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_2,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_2,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_2,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_2,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_2,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_2,Cincinnati Bengals,2017
+['John Ross'],Questionable: Knee,week_2,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_2,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_2,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_2,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_2,Cincinnati Bengals,2017
+['C.J. Uzomah'],Questionable: Ankle,week_2,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_2,Cincinnati Bengals,2017
+['Shawn Williams'],Questionable: Elbow,week_2,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_2,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_3,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_3,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_3,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_3,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_3,Cincinnati Bengals,2017
+['Cody Core'],NA,week_3,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_3,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_3,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_3,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_3,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_3,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_3,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_3,Cincinnati Bengals,2017
+['Trey Hopkins'],Out: Knee,week_3,Cincinnati Bengals,2017
+['George Iloka'],NA,week_3,Cincinnati Bengals,2017
+['William Jackson'],NA,week_3,Cincinnati Bengals,2017
+['Michael Johnson'],Questionable: Concussion,week_3,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_3,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_3,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_3,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_3,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_3,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_3,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_3,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_3,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_3,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_3,Cincinnati Bengals,2017
+['John Ross'],Out: Knee,week_3,Cincinnati Bengals,2017
+['KeiVarae Russell'],Questionable: Hamstring,week_3,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_3,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_3,Cincinnati Bengals,2017
+['Derron Smith'],Questionable: Ankle,week_3,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_3,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_3,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_3,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_3,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_4,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_4,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_4,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_4,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_4,Cincinnati Bengals,2017
+['Cody Core'],NA,week_4,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_4,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_4,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_4,Cincinnati Bengals,2017
+['Jordan Evans'],Out: Hamstring,week_4,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_4,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_4,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_4,Cincinnati Bengals,2017
+['Trey Hopkins'],Questionable: Knee,week_4,Cincinnati Bengals,2017
+['George Iloka'],NA,week_4,Cincinnati Bengals,2017
+['William Jackson'],NA,week_4,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_4,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_4,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_4,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_4,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_4,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_4,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_4,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_4,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_4,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_4,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_4,Cincinnati Bengals,2017
+['John Ross'],Out: Knee,week_4,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_4,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_4,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_4,Cincinnati Bengals,2017
+['Derron Smith'],Doubtful: Ankle,week_4,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_4,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_4,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_4,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_4,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_5,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_5,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_5,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_5,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_5,Cincinnati Bengals,2017
+['Cody Core'],NA,week_5,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_5,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_5,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_5,Cincinnati Bengals,2017
+['Jordan Evans'],Questionable: Hamstring,week_5,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_5,Cincinnati Bengals,2017
+['Ryan Hewitt'],Out: Knee,week_5,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_5,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_5,Cincinnati Bengals,2017
+['George Iloka'],NA,week_5,Cincinnati Bengals,2017
+['William Jackson'],NA,week_5,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_5,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_5,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_5,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_5,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_5,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_5,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_5,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_5,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_5,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_5,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_5,Cincinnati Bengals,2017
+['John Ross'],Out: Knee,week_5,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_5,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_5,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_5,Cincinnati Bengals,2017
+['Derron Smith'],Out: Ankle,week_5,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_5,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_5,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_5,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_5,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_7,Cincinnati Bengals,2017
+['Tyler Boyd'],Out: Knee,week_7,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_7,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_7,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_7,Cincinnati Bengals,2017
+['Cody Core'],NA,week_7,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_7,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_7,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_7,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_7,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_7,Cincinnati Bengals,2017
+['Ryan Hewitt'],Out: Knee,week_7,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_7,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_7,Cincinnati Bengals,2017
+['George Iloka'],NA,week_7,Cincinnati Bengals,2017
+['William Jackson'],NA,week_7,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_7,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_7,Cincinnati Bengals,2017
+['Adam Jones'],Doubtful: Back,week_7,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_7,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_7,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_7,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_7,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_7,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_7,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_7,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_7,Cincinnati Bengals,2017
+['John Ross'],Questionable: Knee,week_7,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_7,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_7,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_7,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_7,Cincinnati Bengals,2017
+['Derron Smith'],Questionable: Ankle,week_7,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_7,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_7,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_7,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_7,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_8,Cincinnati Bengals,2017
+['Tyler Boyd'],Out: Knee,week_8,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_8,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_8,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_8,Cincinnati Bengals,2017
+['Cody Core'],Out: Concussion,week_8,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_8,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_8,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_8,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_8,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_8,Cincinnati Bengals,2017
+['Ryan Hewitt'],Out: Knee,week_8,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_8,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_8,Cincinnati Bengals,2017
+['George Iloka'],NA,week_8,Cincinnati Bengals,2017
+['William Jackson'],NA,week_8,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_8,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_8,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_8,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_8,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_8,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_8,Cincinnati Bengals,2017
+['Kevin Minter'],Out: Elbow,week_8,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_8,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_8,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_8,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_8,Cincinnati Bengals,2017
+['John Ross'],NA,week_8,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_8,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_8,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_8,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_8,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_8,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_8,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_8,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_8,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_9,Cincinnati Bengals,2017
+['Tyler Boyd'],Out: Knee,week_9,Cincinnati Bengals,2017
+['Randy Bullock'],Questionable: Back,week_9,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_9,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_9,Cincinnati Bengals,2017
+['Cody Core'],NA,week_9,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_9,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_9,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_9,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_9,Cincinnati Bengals,2017
+['Jake Fisher'],NA,week_9,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_9,Cincinnati Bengals,2017
+['Jeremy Hill'],NA,week_9,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_9,Cincinnati Bengals,2017
+['George Iloka'],NA,week_9,Cincinnati Bengals,2017
+['William Jackson'],NA,week_9,Cincinnati Bengals,2017
+['Michael Johnson'],Questionable: Back,week_9,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_9,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_9,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_9,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_9,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_9,Cincinnati Bengals,2017
+['Kevin Minter'],Out: Elbow,week_9,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_9,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_9,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_9,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_9,Cincinnati Bengals,2017
+['John Ross'],NA,week_9,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_9,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_9,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_9,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_9,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_9,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_9,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_9,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_9,Cincinnati Bengals,2017
+['Brandon Wilson'],Injured Reserve: Knee,week_9,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_10,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_10,Cincinnati Bengals,2017
+['Randy Bullock'],Questionable: Back,week_10,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_10,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_10,Cincinnati Bengals,2017
+['Cody Core'],NA,week_10,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_10,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_10,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_10,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_10,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_10,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_10,Cincinnati Bengals,2017
+['Jeremy Hill'],Out: Ankle,week_10,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_10,Cincinnati Bengals,2017
+['George Iloka'],NA,week_10,Cincinnati Bengals,2017
+['William Jackson'],NA,week_10,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_10,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_10,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_10,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_10,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_10,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_10,Cincinnati Bengals,2017
+['Kevin Minter'],Out: Elbow,week_10,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_10,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_10,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_10,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_10,Cincinnati Bengals,2017
+['John Ross'],NA,week_10,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_10,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_10,Cincinnati Bengals,2017
+['Pat Sims'],Out: Calf,week_10,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_10,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_10,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_10,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_10,Cincinnati Bengals,2017
+['Shawn Williams'],Doubtful: Hamstring,week_10,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_10,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_11,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_11,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_11,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_11,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_11,Cincinnati Bengals,2017
+['Cody Core'],NA,week_11,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_11,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_11,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_11,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_11,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_11,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_11,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_11,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_11,Cincinnati Bengals,2017
+['George Iloka'],NA,week_11,Cincinnati Bengals,2017
+['William Jackson'],Questionable: Toe,week_11,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_11,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_11,Cincinnati Bengals,2017
+['Adam Jones'],Out: Concussion,week_11,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_11,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_11,Cincinnati Bengals,2017
+['Brandon LaFell'],Questionable: Knee,week_11,Cincinnati Bengals,2017
+['Kevin Minter'],Out: Elbow,week_11,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_11,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_11,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_11,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_11,Cincinnati Bengals,2017
+['John Ross'],NA,week_11,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_11,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_11,Cincinnati Bengals,2017
+['Pat Sims'],Out: Calf,week_11,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_11,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_11,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_11,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_11,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_11,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_11,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_12,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_12,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_12,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_12,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_12,Cincinnati Bengals,2017
+['Cody Core'],NA,week_12,Cincinnati Bengals,2017
+['Darqueze Dennard'],Questionable: Knee,week_12,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_12,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_12,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_12,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_12,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_12,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_12,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_12,Cincinnati Bengals,2017
+['George Iloka'],NA,week_12,Cincinnati Bengals,2017
+['William Jackson'],NA,week_12,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_12,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_12,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_12,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_12,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_12,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_12,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_12,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_12,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_12,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_12,Cincinnati Bengals,2017
+['Vincent Rey'],Out: Hamstring,week_12,Cincinnati Bengals,2017
+['John Ross'],NA,week_12,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_12,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_12,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_12,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_12,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_12,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_12,Cincinnati Bengals,2017
+['Nick Vigil'],NA,week_12,Cincinnati Bengals,2017
+['Shawn Williams'],Out: Hamstring,week_12,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_12,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_13,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_13,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_13,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_13,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_13,Cincinnati Bengals,2017
+['Cody Core'],NA,week_13,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_13,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_13,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_13,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_13,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_13,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_13,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_13,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_13,Cincinnati Bengals,2017
+['George Iloka'],NA,week_13,Cincinnati Bengals,2017
+['William Jackson'],NA,week_13,Cincinnati Bengals,2017
+['Michael Johnson'],Questionable: Back,week_13,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_13,Cincinnati Bengals,2017
+['Adam Jones'],NA,week_13,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_13,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_13,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_13,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_13,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_13,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_13,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_13,Cincinnati Bengals,2017
+['Vincent Rey'],Out: Hamstring,week_13,Cincinnati Bengals,2017
+['John Ross'],NA,week_13,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_13,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_13,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_13,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_13,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_13,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_13,Cincinnati Bengals,2017
+['Nick Vigil'],Injured Reserve: Ankle,week_13,Cincinnati Bengals,2017
+['Shawn Williams'],Out: Hamstring,week_13,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_13,Cincinnati Bengals,2017
+['Geno Atkins'],Questionable: Toe,week_14,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_14,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_14,Cincinnati Bengals,2017
+['Vontaze Burfict'],Out: Concussion,week_14,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_14,Cincinnati Bengals,2017
+['Cody Core'],NA,week_14,Cincinnati Bengals,2017
+['Darqueze Dennard'],Questionable: Knee,week_14,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_14,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_14,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_14,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_14,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_14,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_14,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_14,Cincinnati Bengals,2017
+['George Iloka'],NA,week_14,Cincinnati Bengals,2017
+['William Jackson'],NA,week_14,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_14,Cincinnati Bengals,2017
+['T.J. Johnson'],NA,week_14,Cincinnati Bengals,2017
+['Adam Jones'],Out: Groin,week_14,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],Out: Concussion,week_14,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_14,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_14,Cincinnati Bengals,2017
+['Kevin Minter'],NA,week_14,Cincinnati Bengals,2017
+['Joe Mixon'],Out: Concussion,week_14,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_14,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_14,Cincinnati Bengals,2017
+['Vincent Rey'],Questionable: Hamstring,week_14,Cincinnati Bengals,2017
+['John Ross'],Injured Reserve: Shoulder,week_14,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_14,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_14,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_14,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_14,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_14,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_14,Cincinnati Bengals,2017
+['Nick Vigil'],Out: Ankle,week_14,Cincinnati Bengals,2017
+['Shawn Williams'],Out: Hamstring,week_14,Cincinnati Bengals,2017
+['Brandon Wilson'],Questionable: Ankle,week_14,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_15,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_15,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_15,Cincinnati Bengals,2017
+['Vontaze Burfict'],Out: Concussion,week_15,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_15,Cincinnati Bengals,2017
+['Cody Core'],NA,week_15,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_15,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_15,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_15,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_15,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_15,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_15,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_15,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_15,Cincinnati Bengals,2017
+['George Iloka'],NA,week_15,Cincinnati Bengals,2017
+['William Jackson'],NA,week_15,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_15,Cincinnati Bengals,2017
+['T.J. Johnson'],Doubtful: Pectoral,week_15,Cincinnati Bengals,2017
+['Adam Jones'],Injured Reserve: Groin,week_15,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],Out: Concussion,week_15,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_15,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_15,Cincinnati Bengals,2017
+['Kevin Minter'],Out: Hamstring,week_15,Cincinnati Bengals,2017
+['Joe Mixon'],Questionable: Concussion,week_15,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],NA,week_15,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_15,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_15,Cincinnati Bengals,2017
+['John Ross'],Injured Reserve: Shoulder,week_15,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_15,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_15,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_15,Cincinnati Bengals,2017
+['Andre Smith'],NA,week_15,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_15,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_15,Cincinnati Bengals,2017
+['Nick Vigil'],Out: Ankle,week_15,Cincinnati Bengals,2017
+['Shawn Williams'],Questionable: Hamstring,week_15,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_15,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_16,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_16,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_16,Cincinnati Bengals,2017
+['Vontaze Burfict'],NA,week_16,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_16,Cincinnati Bengals,2017
+['Cody Core'],NA,week_16,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_16,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_16,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_16,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_16,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_16,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_16,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_16,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_16,Cincinnati Bengals,2017
+['George Iloka'],Questionable: Shoulder,week_16,Cincinnati Bengals,2017
+['William Jackson'],NA,week_16,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_16,Cincinnati Bengals,2017
+['T.J. Johnson'],Injured Reserve: Pectoral,week_16,Cincinnati Bengals,2017
+['Adam Jones'],Injured Reserve: Groin,week_16,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_16,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_16,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_16,Cincinnati Bengals,2017
+['Kevin Minter'],Injured Reserve: Hamstring,week_16,Cincinnati Bengals,2017
+['Joe Mixon'],NA,week_16,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],Out: Shoulder,week_16,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_16,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_16,Cincinnati Bengals,2017
+['John Ross'],Injured Reserve: Shoulder,week_16,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_16,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_16,Cincinnati Bengals,2017
+['Andre Smith'],Injured Reserve: Knee,week_16,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_16,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_16,Cincinnati Bengals,2017
+['Nick Vigil'],Out: Ankle,week_16,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_16,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_16,Cincinnati Bengals,2017
+['Geno Atkins'],NA,week_17,Cincinnati Bengals,2017
+['Tyler Boyd'],NA,week_17,Cincinnati Bengals,2017
+['Randy Bullock'],NA,week_17,Cincinnati Bengals,2017
+['Vontaze Burfict'],Doubtful: Shoulder,week_17,Cincinnati Bengals,2017
+['Tra Carson'],Injured Reserve: Ankle,week_17,Cincinnati Bengals,2017
+['Cody Core'],NA,week_17,Cincinnati Bengals,2017
+['Darqueze Dennard'],NA,week_17,Cincinnati Bengals,2017
+['Jeff Driskel'],Injured Reserve: Thumb,week_17,Cincinnati Bengals,2017
+['Tyler Eifert'],Injured Reserve: Back,week_17,Cincinnati Bengals,2017
+['Jordan Evans'],NA,week_17,Cincinnati Bengals,2017
+['Jake Fisher'],Injured Reserve: Heart,week_17,Cincinnati Bengals,2017
+['Ryan Hewitt'],NA,week_17,Cincinnati Bengals,2017
+['Jeremy Hill'],Injured Reserve: Ankle,week_17,Cincinnati Bengals,2017
+['Trey Hopkins'],NA,week_17,Cincinnati Bengals,2017
+['George Iloka'],NA,week_17,Cincinnati Bengals,2017
+['William Jackson'],Questionable: Knee,week_17,Cincinnati Bengals,2017
+['Michael Johnson'],NA,week_17,Cincinnati Bengals,2017
+['T.J. Johnson'],Injured Reserve: Pectoral,week_17,Cincinnati Bengals,2017
+['Adam Jones'],Injured Reserve: Groin,week_17,Cincinnati Bengals,2017
+['Dre Kirkpatrick'],NA,week_17,Cincinnati Bengals,2017
+['Jake Kumerow'],Injured Reserve: Leg,week_17,Cincinnati Bengals,2017
+['Brandon LaFell'],NA,week_17,Cincinnati Bengals,2017
+['Kevin Minter'],Injured Reserve: Hamstring,week_17,Cincinnati Bengals,2017
+['Joe Mixon'],Questionable: Ankle,week_17,Cincinnati Bengals,2017
+['Cedric Ogbuehi'],Out: Shoulder,week_17,Cincinnati Bengals,2017
+['Cedric Peerman'],Injured Reserve: Hamstring,week_17,Cincinnati Bengals,2017
+['Vincent Rey'],NA,week_17,Cincinnati Bengals,2017
+['John Ross'],Injured Reserve: Shoulder,week_17,Cincinnati Bengals,2017
+['KeiVarae Russell'],NA,week_17,Cincinnati Bengals,2017
+['Mason Schreck'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2017
+['Pat Sims'],NA,week_17,Cincinnati Bengals,2017
+['Andre Smith'],Injured Reserve: Knee,week_17,Cincinnati Bengals,2017
+['Derron Smith'],NA,week_17,Cincinnati Bengals,2017
+['C.J. Uzomah'],NA,week_17,Cincinnati Bengals,2017
+['Nick Vigil'],Injured Reserve: Ankle,week_17,Cincinnati Bengals,2017
+['Shawn Williams'],NA,week_17,Cincinnati Bengals,2017
+['Brandon Wilson'],NA,week_17,Cincinnati Bengals,2017

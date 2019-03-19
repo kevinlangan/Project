@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Terrence Brooks'],NA,week_1,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_1,New York Jets,2017
+['Juston Burris'],NA,week_1,New York Jets,2017
+['Bruce Carter'],NA,week_1,New York Jets,2017
+['Morris Claiborne'],NA,week_1,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_1,New York Jets,2017
+['Xavier Coleman'],NA,week_1,New York Jets,2017
+['Xavier Cooper'],NA,week_1,New York Jets,2017
+['Dylan Donahue'],NA,week_1,New York Jets,2017
+['Kony Ealy'],NA,week_1,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_1,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_1,New York Jets,2017
+['Matt Forte'],NA,week_1,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_1,New York Jets,2017
+['Jonotthan Harrison'],NA,week_1,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_1,New York Jets,2017
+['Wesley Johnson'],NA,week_1,New York Jets,2017
+['Akeem Judd'],NA,week_1,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_1,New York Jets,2017
+['Jordan Leggett'],NA,week_1,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_1,New York Jets,2017
+['Josh Martin'],NA,week_1,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_1,New York Jets,2017
+['Josh McCown'],NA,week_1,New York Jets,2017
+['Elijah McGuire'],NA,week_1,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_1,New York Jets,2017
+['Rontez Miles'],Out: Eye,week_1,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_1,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_1,New York Jets,2017
+['Charone Peake'],NA,week_1,New York Jets,2017
+['Bilal Powell'],NA,week_1,New York Jets,2017
+['Darryl Roberts'],NA,week_1,New York Jets,2017
+['Edmond Robinson'],NA,week_1,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_1,New York Jets,2017
+['Brandon Shell'],NA,week_1,New York Jets,2017
+['Buster Skrine'],NA,week_1,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_1,New York Jets,2017
+['ArDarius Stewart'],NA,week_1,New York Jets,2017
+['Ed Stinson'],NA,week_1,New York Jets,2017
+['Lawrence Thomas'],NA,week_1,New York Jets,2017
+['Eric Tomlinson'],NA,week_1,New York Jets,2017
+['Will Tye'],NA,week_1,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_1,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_1,New York Jets,2017
+['Brian Winters'],NA,week_1,New York Jets,2017
+['Terrence Brooks'],NA,week_2,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_2,New York Jets,2017
+['Juston Burris'],NA,week_2,New York Jets,2017
+['Bruce Carter'],Out: Ankle,week_2,New York Jets,2017
+['Morris Claiborne'],NA,week_2,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_2,New York Jets,2017
+['Xavier Coleman'],NA,week_2,New York Jets,2017
+['Xavier Cooper'],NA,week_2,New York Jets,2017
+['Dylan Donahue'],NA,week_2,New York Jets,2017
+['Kony Ealy'],NA,week_2,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_2,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_2,New York Jets,2017
+['Matt Forte'],NA,week_2,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_2,New York Jets,2017
+['Jonotthan Harrison'],Out: Concussion,week_2,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_2,New York Jets,2017
+['Wesley Johnson'],NA,week_2,New York Jets,2017
+['Akeem Judd'],NA,week_2,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_2,New York Jets,2017
+['Jordan Leggett'],Out: Knee,week_2,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_2,New York Jets,2017
+['Josh Martin'],NA,week_2,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_2,New York Jets,2017
+['Josh McCown'],NA,week_2,New York Jets,2017
+['Elijah McGuire'],NA,week_2,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_2,New York Jets,2017
+['Rontez Miles'],Out: Eye,week_2,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_2,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_2,New York Jets,2017
+['Charone Peake'],NA,week_2,New York Jets,2017
+['Bilal Powell'],NA,week_2,New York Jets,2017
+['Darryl Roberts'],NA,week_2,New York Jets,2017
+['Edmond Robinson'],Out: Groin,week_2,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_2,New York Jets,2017
+['Brandon Shell'],NA,week_2,New York Jets,2017
+['Buster Skrine'],NA,week_2,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_2,New York Jets,2017
+['ArDarius Stewart'],NA,week_2,New York Jets,2017
+['Ed Stinson'],NA,week_2,New York Jets,2017
+['Lawrence Thomas'],NA,week_2,New York Jets,2017
+['Eric Tomlinson'],Out: Elbow,week_2,New York Jets,2017
+['Will Tye'],NA,week_2,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_2,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_2,New York Jets,2017
+['Brian Winters'],NA,week_2,New York Jets,2017
+['Terrence Brooks'],NA,week_3,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_3,New York Jets,2017
+['Juston Burris'],NA,week_3,New York Jets,2017
+['Bruce Carter'],NA,week_3,New York Jets,2017
+['Morris Claiborne'],NA,week_3,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_3,New York Jets,2017
+['Xavier Coleman'],NA,week_3,New York Jets,2017
+['Xavier Cooper'],NA,week_3,New York Jets,2017
+['Dylan Donahue'],NA,week_3,New York Jets,2017
+['Kony Ealy'],NA,week_3,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_3,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_3,New York Jets,2017
+['Matt Forte'],NA,week_3,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_3,New York Jets,2017
+['Jonotthan Harrison'],NA,week_3,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_3,New York Jets,2017
+['Wesley Johnson'],NA,week_3,New York Jets,2017
+['Akeem Judd'],NA,week_3,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_3,New York Jets,2017
+['Jordan Leggett'],Doubtful: Knee,week_3,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_3,New York Jets,2017
+['Josh Martin'],NA,week_3,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_3,New York Jets,2017
+['Josh McCown'],NA,week_3,New York Jets,2017
+['Elijah McGuire'],NA,week_3,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_3,New York Jets,2017
+['Rontez Miles'],Doubtful: Eye,week_3,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_3,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_3,New York Jets,2017
+['Charone Peake'],NA,week_3,New York Jets,2017
+['Bilal Powell'],NA,week_3,New York Jets,2017
+['Darryl Roberts'],NA,week_3,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_3,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_3,New York Jets,2017
+['Brandon Shell'],NA,week_3,New York Jets,2017
+['Buster Skrine'],NA,week_3,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_3,New York Jets,2017
+['ArDarius Stewart'],NA,week_3,New York Jets,2017
+['Ed Stinson'],NA,week_3,New York Jets,2017
+['Lawrence Thomas'],NA,week_3,New York Jets,2017
+['Eric Tomlinson'],Out: Elbow,week_3,New York Jets,2017
+['Will Tye'],Questionable: Illness,week_3,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_3,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_3,New York Jets,2017
+['Brian Winters'],Out: Abdomen,week_3,New York Jets,2017
+['Terrence Brooks'],NA,week_4,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_4,New York Jets,2017
+['Juston Burris'],NA,week_4,New York Jets,2017
+['Bruce Carter'],NA,week_4,New York Jets,2017
+['Morris Claiborne'],NA,week_4,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_4,New York Jets,2017
+['Xavier Coleman'],NA,week_4,New York Jets,2017
+['Xavier Cooper'],NA,week_4,New York Jets,2017
+['Dylan Donahue'],NA,week_4,New York Jets,2017
+['Kony Ealy'],NA,week_4,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_4,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_4,New York Jets,2017
+['Matt Forte'],Out: Knee,week_4,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_4,New York Jets,2017
+['Jonotthan Harrison'],NA,week_4,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_4,New York Jets,2017
+['Wesley Johnson'],NA,week_4,New York Jets,2017
+['Akeem Judd'],NA,week_4,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_4,New York Jets,2017
+['Jordan Leggett'],Out: Knee,week_4,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_4,New York Jets,2017
+['Josh Martin'],Doubtful: Ankle,week_4,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_4,New York Jets,2017
+['Josh McCown'],NA,week_4,New York Jets,2017
+['Elijah McGuire'],NA,week_4,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_4,New York Jets,2017
+['Rontez Miles'],NA,week_4,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_4,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_4,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_4,New York Jets,2017
+['Bilal Powell'],NA,week_4,New York Jets,2017
+['Darryl Roberts'],NA,week_4,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_4,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_4,New York Jets,2017
+['Brandon Shell'],Doubtful: Shoulder,week_4,New York Jets,2017
+['Buster Skrine'],NA,week_4,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_4,New York Jets,2017
+['ArDarius Stewart'],NA,week_4,New York Jets,2017
+['Ed Stinson'],NA,week_4,New York Jets,2017
+['Lawrence Thomas'],NA,week_4,New York Jets,2017
+['Eric Tomlinson'],NA,week_4,New York Jets,2017
+['Will Tye'],NA,week_4,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_4,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_4,New York Jets,2017
+['Brian Winters'],NA,week_4,New York Jets,2017
+['Terrence Brooks'],NA,week_5,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_5,New York Jets,2017
+['Juston Burris'],Questionable: Foot,week_5,New York Jets,2017
+['Bruce Carter'],NA,week_5,New York Jets,2017
+['Morris Claiborne'],NA,week_5,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_5,New York Jets,2017
+['Xavier Coleman'],NA,week_5,New York Jets,2017
+['Xavier Cooper'],NA,week_5,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_5,New York Jets,2017
+['Kony Ealy'],Out: Shoulder,week_5,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_5,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_5,New York Jets,2017
+['Matt Forte'],Out: Knee,week_5,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_5,New York Jets,2017
+['Jonotthan Harrison'],NA,week_5,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_5,New York Jets,2017
+['Wesley Johnson'],NA,week_5,New York Jets,2017
+['Akeem Judd'],NA,week_5,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_5,New York Jets,2017
+['Jordan Leggett'],NA,week_5,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_5,New York Jets,2017
+['Josh Martin'],Out: Ankle,week_5,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_5,New York Jets,2017
+['Josh McCown'],NA,week_5,New York Jets,2017
+['Elijah McGuire'],NA,week_5,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_5,New York Jets,2017
+['Rontez Miles'],NA,week_5,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_5,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_5,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_5,New York Jets,2017
+['Bilal Powell'],NA,week_5,New York Jets,2017
+['Darryl Roberts'],Out: Hamstring,week_5,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_5,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_5,New York Jets,2017
+['Brandon Shell'],NA,week_5,New York Jets,2017
+['Buster Skrine'],NA,week_5,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_5,New York Jets,2017
+['ArDarius Stewart'],NA,week_5,New York Jets,2017
+['Ed Stinson'],NA,week_5,New York Jets,2017
+['Lawrence Thomas'],NA,week_5,New York Jets,2017
+['Eric Tomlinson'],NA,week_5,New York Jets,2017
+['Will Tye'],NA,week_5,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_5,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_5,New York Jets,2017
+['Brian Winters'],NA,week_5,New York Jets,2017
+['Terrence Brooks'],NA,week_6,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_6,New York Jets,2017
+['Juston Burris'],NA,week_6,New York Jets,2017
+['Bruce Carter'],NA,week_6,New York Jets,2017
+['Morris Claiborne'],NA,week_6,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_6,New York Jets,2017
+['Xavier Coleman'],NA,week_6,New York Jets,2017
+['Xavier Cooper'],NA,week_6,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_6,New York Jets,2017
+['Kony Ealy'],NA,week_6,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_6,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_6,New York Jets,2017
+['Matt Forte'],NA,week_6,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_6,New York Jets,2017
+['Jonotthan Harrison'],NA,week_6,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_6,New York Jets,2017
+['Wesley Johnson'],NA,week_6,New York Jets,2017
+['Akeem Judd'],NA,week_6,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_6,New York Jets,2017
+['Jordan Leggett'],NA,week_6,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_6,New York Jets,2017
+['Josh Martin'],NA,week_6,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_6,New York Jets,2017
+['Josh McCown'],NA,week_6,New York Jets,2017
+['Elijah McGuire'],NA,week_6,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_6,New York Jets,2017
+['Rontez Miles'],NA,week_6,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_6,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_6,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_6,New York Jets,2017
+['Bilal Powell'],Questionable: Calf,week_6,New York Jets,2017
+['Darryl Roberts'],NA,week_6,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_6,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_6,New York Jets,2017
+['Brandon Shell'],NA,week_6,New York Jets,2017
+['Buster Skrine'],NA,week_6,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_6,New York Jets,2017
+['ArDarius Stewart'],NA,week_6,New York Jets,2017
+['Ed Stinson'],NA,week_6,New York Jets,2017
+['Lawrence Thomas'],NA,week_6,New York Jets,2017
+['Eric Tomlinson'],NA,week_6,New York Jets,2017
+['Will Tye'],NA,week_6,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_6,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_6,New York Jets,2017
+['Brian Winters'],NA,week_6,New York Jets,2017
+['Terrence Brooks'],NA,week_7,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_7,New York Jets,2017
+['Juston Burris'],NA,week_7,New York Jets,2017
+['Bruce Carter'],NA,week_7,New York Jets,2017
+['Morris Claiborne'],NA,week_7,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_7,New York Jets,2017
+['Xavier Coleman'],NA,week_7,New York Jets,2017
+['Xavier Cooper'],NA,week_7,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_7,New York Jets,2017
+['Kony Ealy'],NA,week_7,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_7,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_7,New York Jets,2017
+['Matt Forte'],NA,week_7,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_7,New York Jets,2017
+['Jonotthan Harrison'],NA,week_7,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_7,New York Jets,2017
+['Wesley Johnson'],NA,week_7,New York Jets,2017
+['Akeem Judd'],NA,week_7,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_7,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_7,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_7,New York Jets,2017
+['Josh Martin'],NA,week_7,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_7,New York Jets,2017
+['Josh McCown'],NA,week_7,New York Jets,2017
+['Elijah McGuire'],NA,week_7,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_7,New York Jets,2017
+['Rontez Miles'],NA,week_7,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_7,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_7,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_7,New York Jets,2017
+['Bilal Powell'],NA,week_7,New York Jets,2017
+['Darryl Roberts'],NA,week_7,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_7,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_7,New York Jets,2017
+['Brandon Shell'],NA,week_7,New York Jets,2017
+['Buster Skrine'],NA,week_7,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_7,New York Jets,2017
+['ArDarius Stewart'],NA,week_7,New York Jets,2017
+['Ed Stinson'],NA,week_7,New York Jets,2017
+['Lawrence Thomas'],NA,week_7,New York Jets,2017
+['Eric Tomlinson'],NA,week_7,New York Jets,2017
+['Will Tye'],NA,week_7,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_7,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_7,New York Jets,2017
+['Brian Winters'],NA,week_7,New York Jets,2017
+['Terrence Brooks'],NA,week_8,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_8,New York Jets,2017
+['Juston Burris'],NA,week_8,New York Jets,2017
+['Bruce Carter'],NA,week_8,New York Jets,2017
+['Morris Claiborne'],NA,week_8,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_8,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_8,New York Jets,2017
+['Xavier Cooper'],NA,week_8,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_8,New York Jets,2017
+['Kony Ealy'],NA,week_8,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_8,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_8,New York Jets,2017
+['Matt Forte'],NA,week_8,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_8,New York Jets,2017
+['Jonotthan Harrison'],NA,week_8,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_8,New York Jets,2017
+['Wesley Johnson'],NA,week_8,New York Jets,2017
+['Akeem Judd'],NA,week_8,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_8,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_8,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_8,New York Jets,2017
+['Josh Martin'],NA,week_8,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_8,New York Jets,2017
+['Josh McCown'],NA,week_8,New York Jets,2017
+['Elijah McGuire'],NA,week_8,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_8,New York Jets,2017
+['Rontez Miles'],NA,week_8,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_8,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_8,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_8,New York Jets,2017
+['Bilal Powell'],NA,week_8,New York Jets,2017
+['Darryl Roberts'],NA,week_8,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_8,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_8,New York Jets,2017
+['Brandon Shell'],Out: Neck,week_8,New York Jets,2017
+['Buster Skrine'],Out: Concussion,week_8,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_8,New York Jets,2017
+['ArDarius Stewart'],NA,week_8,New York Jets,2017
+['Ed Stinson'],NA,week_8,New York Jets,2017
+['Lawrence Thomas'],NA,week_8,New York Jets,2017
+['Eric Tomlinson'],NA,week_8,New York Jets,2017
+['Will Tye'],NA,week_8,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_8,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_8,New York Jets,2017
+['Brian Winters'],NA,week_8,New York Jets,2017
+['Terrence Brooks'],Doubtful: Hamstring,week_9,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_9,New York Jets,2017
+['Juston Burris'],NA,week_9,New York Jets,2017
+['Bruce Carter'],NA,week_9,New York Jets,2017
+['Morris Claiborne'],Questionable: Foot,week_9,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_9,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_9,New York Jets,2017
+['Xavier Cooper'],NA,week_9,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_9,New York Jets,2017
+['Kony Ealy'],NA,week_9,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_9,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_9,New York Jets,2017
+['Matt Forte'],NA,week_9,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_9,New York Jets,2017
+['Jonotthan Harrison'],NA,week_9,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_9,New York Jets,2017
+['Wesley Johnson'],NA,week_9,New York Jets,2017
+['Akeem Judd'],NA,week_9,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_9,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_9,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_9,New York Jets,2017
+['Josh Martin'],NA,week_9,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_9,New York Jets,2017
+['Josh McCown'],NA,week_9,New York Jets,2017
+['Elijah McGuire'],NA,week_9,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_9,New York Jets,2017
+['Rontez Miles'],NA,week_9,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_9,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_9,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_9,New York Jets,2017
+['Bilal Powell'],NA,week_9,New York Jets,2017
+['Darryl Roberts'],NA,week_9,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_9,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_9,New York Jets,2017
+['Brandon Shell'],Doubtful: Neck,week_9,New York Jets,2017
+['Buster Skrine'],NA,week_9,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_9,New York Jets,2017
+['ArDarius Stewart'],NA,week_9,New York Jets,2017
+['Ed Stinson'],NA,week_9,New York Jets,2017
+['Lawrence Thomas'],Out: Concussion,week_9,New York Jets,2017
+['Eric Tomlinson'],NA,week_9,New York Jets,2017
+['Will Tye'],NA,week_9,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_9,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_9,New York Jets,2017
+['Brian Winters'],NA,week_9,New York Jets,2017
+['Terrence Brooks'],NA,week_10,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_10,New York Jets,2017
+['Juston Burris'],NA,week_10,New York Jets,2017
+['Bruce Carter'],NA,week_10,New York Jets,2017
+['Morris Claiborne'],Questionable: Foot,week_10,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_10,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_10,New York Jets,2017
+['Xavier Cooper'],NA,week_10,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_10,New York Jets,2017
+['Kony Ealy'],NA,week_10,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_10,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_10,New York Jets,2017
+['Matt Forte'],Out: Knee,week_10,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_10,New York Jets,2017
+['Jonotthan Harrison'],Questionable: Hand,week_10,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_10,New York Jets,2017
+['Wesley Johnson'],NA,week_10,New York Jets,2017
+['Akeem Judd'],NA,week_10,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_10,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_10,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_10,New York Jets,2017
+['Josh Martin'],NA,week_10,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_10,New York Jets,2017
+['Josh McCown'],NA,week_10,New York Jets,2017
+['Elijah McGuire'],NA,week_10,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_10,New York Jets,2017
+['Rontez Miles'],NA,week_10,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_10,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_10,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_10,New York Jets,2017
+['Bilal Powell'],NA,week_10,New York Jets,2017
+['Darryl Roberts'],NA,week_10,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_10,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_10,New York Jets,2017
+['Brandon Shell'],NA,week_10,New York Jets,2017
+['Buster Skrine'],NA,week_10,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_10,New York Jets,2017
+['ArDarius Stewart'],Questionable: Groin,week_10,New York Jets,2017
+['Ed Stinson'],Out: Neck,week_10,New York Jets,2017
+['Lawrence Thomas'],NA,week_10,New York Jets,2017
+['Eric Tomlinson'],NA,week_10,New York Jets,2017
+['Will Tye'],NA,week_10,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_10,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Shoulder,week_10,New York Jets,2017
+['Brian Winters'],Questionable: Abdomen,week_10,New York Jets,2017
+['Terrence Brooks'],NA,week_12,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_12,New York Jets,2017
+['Juston Burris'],NA,week_12,New York Jets,2017
+['Bruce Carter'],NA,week_12,New York Jets,2017
+['Morris Claiborne'],NA,week_12,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_12,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_12,New York Jets,2017
+['Xavier Cooper'],NA,week_12,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_12,New York Jets,2017
+['Kony Ealy'],NA,week_12,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_12,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_12,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_12,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_12,New York Jets,2017
+['Jonotthan Harrison'],NA,week_12,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_12,New York Jets,2017
+['Wesley Johnson'],NA,week_12,New York Jets,2017
+['Akeem Judd'],NA,week_12,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_12,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_12,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_12,New York Jets,2017
+['Josh Martin'],NA,week_12,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_12,New York Jets,2017
+['Josh McCown'],NA,week_12,New York Jets,2017
+['Elijah McGuire'],NA,week_12,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_12,New York Jets,2017
+['Rontez Miles'],NA,week_12,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_12,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_12,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_12,New York Jets,2017
+['Bilal Powell'],NA,week_12,New York Jets,2017
+['Darryl Roberts'],NA,week_12,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_12,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_12,New York Jets,2017
+['Brandon Shell'],NA,week_12,New York Jets,2017
+['Buster Skrine'],NA,week_12,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_12,New York Jets,2017
+['ArDarius Stewart'],NA,week_12,New York Jets,2017
+['Ed Stinson'],NA,week_12,New York Jets,2017
+['Lawrence Thomas'],NA,week_12,New York Jets,2017
+['Eric Tomlinson'],NA,week_12,New York Jets,2017
+['Will Tye'],NA,week_12,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_12,New York Jets,2017
+['Muhammad Wilkerson'],Questionable: Foot,week_12,New York Jets,2017
+['Brian Winters'],Questionable: Abdomen,week_12,New York Jets,2017
+['Terrence Brooks'],NA,week_13,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_13,New York Jets,2017
+['Juston Burris'],Out: Concussion,week_13,New York Jets,2017
+['Bruce Carter'],NA,week_13,New York Jets,2017
+['Morris Claiborne'],NA,week_13,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_13,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_13,New York Jets,2017
+['Xavier Cooper'],Questionable: Knee,week_13,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_13,New York Jets,2017
+['Kony Ealy'],NA,week_13,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_13,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_13,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_13,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_13,New York Jets,2017
+['Jonotthan Harrison'],NA,week_13,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_13,New York Jets,2017
+['Wesley Johnson'],NA,week_13,New York Jets,2017
+['Akeem Judd'],NA,week_13,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_13,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_13,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_13,New York Jets,2017
+['Josh Martin'],NA,week_13,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_13,New York Jets,2017
+['Josh McCown'],NA,week_13,New York Jets,2017
+['Elijah McGuire'],NA,week_13,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_13,New York Jets,2017
+['Rontez Miles'],NA,week_13,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_13,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_13,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_13,New York Jets,2017
+['Bilal Powell'],NA,week_13,New York Jets,2017
+['Darryl Roberts'],NA,week_13,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_13,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_13,New York Jets,2017
+['Brandon Shell'],NA,week_13,New York Jets,2017
+['Buster Skrine'],NA,week_13,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_13,New York Jets,2017
+['ArDarius Stewart'],NA,week_13,New York Jets,2017
+['Ed Stinson'],NA,week_13,New York Jets,2017
+['Lawrence Thomas'],NA,week_13,New York Jets,2017
+['Eric Tomlinson'],NA,week_13,New York Jets,2017
+['Will Tye'],NA,week_13,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_13,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_13,New York Jets,2017
+['Brian Winters'],Questionable: Abdomen,week_13,New York Jets,2017
+['Terrence Brooks'],NA,week_14,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_14,New York Jets,2017
+['Juston Burris'],NA,week_14,New York Jets,2017
+['Bruce Carter'],Out: Groin,week_14,New York Jets,2017
+['Morris Claiborne'],NA,week_14,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_14,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_14,New York Jets,2017
+['Xavier Cooper'],NA,week_14,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_14,New York Jets,2017
+['Kony Ealy'],NA,week_14,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_14,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_14,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_14,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_14,New York Jets,2017
+['Jonotthan Harrison'],NA,week_14,New York Jets,2017
+['Anthony Johnson'],NA,week_14,New York Jets,2017
+['Wesley Johnson'],NA,week_14,New York Jets,2017
+['Akeem Judd'],NA,week_14,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_14,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_14,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_14,New York Jets,2017
+['Josh Martin'],NA,week_14,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_14,New York Jets,2017
+['Josh McCown'],NA,week_14,New York Jets,2017
+['Elijah McGuire'],NA,week_14,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_14,New York Jets,2017
+['Rontez Miles'],NA,week_14,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_14,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_14,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_14,New York Jets,2017
+['Bilal Powell'],NA,week_14,New York Jets,2017
+['Darryl Roberts'],NA,week_14,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_14,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_14,New York Jets,2017
+['Brandon Shell'],NA,week_14,New York Jets,2017
+['Buster Skrine'],NA,week_14,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_14,New York Jets,2017
+['ArDarius Stewart'],NA,week_14,New York Jets,2017
+['Ed Stinson'],NA,week_14,New York Jets,2017
+['Lawrence Thomas'],NA,week_14,New York Jets,2017
+['Eric Tomlinson'],NA,week_14,New York Jets,2017
+['Will Tye'],NA,week_14,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_14,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_14,New York Jets,2017
+['Brian Winters'],Questionable: Abdomen,week_14,New York Jets,2017
+['Terrence Brooks'],NA,week_15,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_15,New York Jets,2017
+['Juston Burris'],NA,week_15,New York Jets,2017
+['Bruce Carter'],NA,week_15,New York Jets,2017
+['Morris Claiborne'],NA,week_15,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_15,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_15,New York Jets,2017
+['Xavier Cooper'],NA,week_15,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_15,New York Jets,2017
+['Kony Ealy'],NA,week_15,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_15,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_15,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_15,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_15,New York Jets,2017
+['Jonotthan Harrison'],NA,week_15,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_15,New York Jets,2017
+['Wesley Johnson'],NA,week_15,New York Jets,2017
+['Akeem Judd'],NA,week_15,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_15,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_15,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_15,New York Jets,2017
+['Josh Martin'],NA,week_15,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_15,New York Jets,2017
+['Josh McCown'],Injured Reserve: Hand,week_15,New York Jets,2017
+['Elijah McGuire'],NA,week_15,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_15,New York Jets,2017
+['Rontez Miles'],NA,week_15,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_15,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_15,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_15,New York Jets,2017
+['Bilal Powell'],NA,week_15,New York Jets,2017
+['Darryl Roberts'],NA,week_15,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_15,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_15,New York Jets,2017
+['Brandon Shell'],NA,week_15,New York Jets,2017
+['Buster Skrine'],NA,week_15,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_15,New York Jets,2017
+['ArDarius Stewart'],NA,week_15,New York Jets,2017
+['Ed Stinson'],NA,week_15,New York Jets,2017
+['Lawrence Thomas'],NA,week_15,New York Jets,2017
+['Eric Tomlinson'],NA,week_15,New York Jets,2017
+['Will Tye'],NA,week_15,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_15,New York Jets,2017
+['Muhammad Wilkerson'],Out: NotInjuryRelated,week_15,New York Jets,2017
+['Brian Winters'],Questionable: Abdomen,week_15,New York Jets,2017
+['Terrence Brooks'],NA,week_16,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_16,New York Jets,2017
+['Juston Burris'],NA,week_16,New York Jets,2017
+['Bruce Carter'],NA,week_16,New York Jets,2017
+['Morris Claiborne'],NA,week_16,New York Jets,2017
+['Jeremy Clark'],Injured Reserve: Knee,week_16,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_16,New York Jets,2017
+['Xavier Cooper'],NA,week_16,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_16,New York Jets,2017
+['Kony Ealy'],NA,week_16,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_16,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_16,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_16,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_16,New York Jets,2017
+['Jonotthan Harrison'],NA,week_16,New York Jets,2017
+['Anthony Johnson'],Injured Reserve: Stinger,week_16,New York Jets,2017
+['Wesley Johnson'],Questionable: Hip,week_16,New York Jets,2017
+['Akeem Judd'],NA,week_16,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_16,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_16,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_16,New York Jets,2017
+['Josh Martin'],NA,week_16,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_16,New York Jets,2017
+['Josh McCown'],Injured Reserve: Hand,week_16,New York Jets,2017
+['Elijah McGuire'],Questionable: Illness,week_16,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_16,New York Jets,2017
+['Rontez Miles'],NA,week_16,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_16,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_16,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_16,New York Jets,2017
+['Bilal Powell'],NA,week_16,New York Jets,2017
+['Darryl Roberts'],NA,week_16,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_16,New York Jets,2017
+['Austin Seferian-Jenkins'],NA,week_16,New York Jets,2017
+['Brandon Shell'],NA,week_16,New York Jets,2017
+['Buster Skrine'],NA,week_16,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_16,New York Jets,2017
+['ArDarius Stewart'],NA,week_16,New York Jets,2017
+['Ed Stinson'],NA,week_16,New York Jets,2017
+['Lawrence Thomas'],NA,week_16,New York Jets,2017
+['Eric Tomlinson'],NA,week_16,New York Jets,2017
+['Will Tye'],NA,week_16,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_16,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_16,New York Jets,2017
+['Brian Winters'],Injured Reserve: Abdominal,week_16,New York Jets,2017
+['Terrence Brooks'],NA,week_17,New York Jets,2017
+['Brandin Bryant'],Injured Reserve: Undisclosed,week_17,New York Jets,2017
+['Juston Burris'],NA,week_17,New York Jets,2017
+['Bruce Carter'],NA,week_17,New York Jets,2017
+['Morris Claiborne'],NA,week_17,New York Jets,2017
+['Jeremy Clark'],NA,week_17,New York Jets,2017
+['Xavier Coleman'],Injured Reserve: Shoulder,week_17,New York Jets,2017
+['Xavier Cooper'],NA,week_17,New York Jets,2017
+['Dylan Donahue'],Injured Reserve: Elbow,week_17,New York Jets,2017
+['Kony Ealy'],Questionable: Knee,week_17,New York Jets,2017
+['Quincy Enunwa'],Injured Reserve: Neck,week_17,New York Jets,2017
+['Brisly Estime'],Injured Reserve: Achilles,week_17,New York Jets,2017
+['Matt Forte'],Questionable: Knee,week_17,New York Jets,2017
+['Chris Gragg'],Injured Reserve: Knee,week_17,New York Jets,2017
+['Jonotthan Harrison'],NA,week_17,New York Jets,2017
+['Anthony Johnson'],NA,week_17,New York Jets,2017
+['Wesley Johnson'],NA,week_17,New York Jets,2017
+['Akeem Judd'],Questionable: Ankle,week_17,New York Jets,2017
+['Bryson Keeton'],Injured Reserve: Knee,week_17,New York Jets,2017
+['Jordan Leggett'],Injured Reserve: Knee,week_17,New York Jets,2017
+['Corey Lemonier'],Injured Reserve: Foot,week_17,New York Jets,2017
+['Josh Martin'],NA,week_17,New York Jets,2017
+['Lorenzo Mauldin'],Injured Reserve: Back,week_17,New York Jets,2017
+['Josh McCown'],Injured Reserve: Hand,week_17,New York Jets,2017
+['Elijah McGuire'],NA,week_17,New York Jets,2017
+['Doug Middleton'],Injured Reserve: Pectoral,week_17,New York Jets,2017
+['Rontez Miles'],NA,week_17,New York Jets,2017
+['Brian Parker'],Injured Reserve: Undisclosed,week_17,New York Jets,2017
+['Quinton Patton'],Injured Reserve: Foot,week_17,New York Jets,2017
+['Charone Peake'],Injured Reserve: Ankle,week_17,New York Jets,2017
+['Bilal Powell'],NA,week_17,New York Jets,2017
+['Darryl Roberts'],NA,week_17,New York Jets,2017
+['Edmond Robinson'],Injured Reserve: Groin,week_17,New York Jets,2017
+['Austin Seferian-Jenkins'],Doubtful: Ribs,week_17,New York Jets,2017
+['Brandon Shell'],Out: Concussion,week_17,New York Jets,2017
+['Buster Skrine'],NA,week_17,New York Jets,2017
+['Devin Smith'],Injured Reserve: Knee,week_17,New York Jets,2017
+['ArDarius Stewart'],NA,week_17,New York Jets,2017
+['Ed Stinson'],NA,week_17,New York Jets,2017
+['Lawrence Thomas'],NA,week_17,New York Jets,2017
+['Eric Tomlinson'],NA,week_17,New York Jets,2017
+['Will Tye'],NA,week_17,New York Jets,2017
+['Corey White'],Injured Reserve: Back,week_17,New York Jets,2017
+['Muhammad Wilkerson'],NA,week_17,New York Jets,2017
+['Brian Winters'],Injured Reserve: Abdominal,week_17,New York Jets,2017

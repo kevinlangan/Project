@@ -1,0 +1,932 @@
+﻿name,injury,week,team,year
+['Danny Amendola'],NA,week_1,New England Patriots,2017
+['David Andrews'],NA,week_1,New England Patriots,2017
+['Johnson Bademosi'],NA,week_1,New England Patriots,2017
+['Martellus Bennett'],NA,week_1,New England Patriots,2017
+['Brandon Bolden'],NA,week_1,New England Patriots,2017
+['Tom Brady'],NA,week_1,New England Patriots,2017
+['Alan Branch'],NA,week_1,New England Patriots,2017
+['Malcom Brown'],NA,week_1,New England Patriots,2017
+['Rex Burkhead'],NA,week_1,New England Patriots,2017
+['Marcus Cannon'],NA,week_1,New England Patriots,2017
+['Patrick Chung'],NA,week_1,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_1,New England Patriots,2017
+['Phillip Dorsett'],NA,week_1,New England Patriots,2017
+['Nate Ebner'],Questionable: Shoulder,week_1,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_1,New England Patriots,2017
+['Cameron Fleming'],Questionable: Ankle,week_1,New England Patriots,2017
+['Marquis Flowers'],NA,week_1,New England Patriots,2017
+['Trey Flowers'],NA,week_1,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_1,New England Patriots,2017
+['Mike Gillislee'],NA,week_1,New England Patriots,2017
+['Stephon Gilmore'],NA,week_1,New England Patriots,2017
+['Rob Gronkowski'],NA,week_1,New England Patriots,2017
+['Lawrence Guy'],NA,week_1,New England Patriots,2017
+['David Harris'],NA,week_1,New England Patriots,2017
+"[""Dont'a Hightower""]",NA,week_1,New England Patriots,2017
+['Chris Hogan'],NA,week_1,New England Patriots,2017
+['Jacob Hollister'],NA,week_1,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Jonathan Jones'],NA,week_1,New England Patriots,2017
+['Brandon King'],NA,week_1,New England Patriots,2017
+['Harvey Langi'],NA,week_1,New England Patriots,2017
+['Eric Lee'],NA,week_1,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_1,New England Patriots,2017
+['Dion Lewis'],NA,week_1,New England Patriots,2017
+['Cassius Marsh'],NA,week_1,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_1,New England Patriots,2017
+['Devin McCourty'],NA,week_1,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Trevor Reilly'],NA,week_1,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Elandon Roberts'],NA,week_1,New England Patriots,2017
+['Eric Rowe'],NA,week_1,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_1,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_1,New England Patriots,2017
+['Kyle Van Noy'],NA,week_1,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_1,New England Patriots,2017
+['James White'],NA,week_1,New England Patriots,2017
+['Danny Amendola'],Out: Concussion,week_2,New England Patriots,2017
+['David Andrews'],NA,week_2,New England Patriots,2017
+['Johnson Bademosi'],NA,week_2,New England Patriots,2017
+['Martellus Bennett'],NA,week_2,New England Patriots,2017
+['Brandon Bolden'],NA,week_2,New England Patriots,2017
+['Tom Brady'],NA,week_2,New England Patriots,2017
+['Alan Branch'],NA,week_2,New England Patriots,2017
+['Malcom Brown'],NA,week_2,New England Patriots,2017
+['Rex Burkhead'],NA,week_2,New England Patriots,2017
+['Marcus Cannon'],Questionable: Ankle,week_2,New England Patriots,2017
+['Patrick Chung'],NA,week_2,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_2,New England Patriots,2017
+['Phillip Dorsett'],NA,week_2,New England Patriots,2017
+['Nate Ebner'],Questionable: Shoulder,week_2,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_2,New England Patriots,2017
+['Cameron Fleming'],NA,week_2,New England Patriots,2017
+['Marquis Flowers'],NA,week_2,New England Patriots,2017
+['Trey Flowers'],NA,week_2,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_2,New England Patriots,2017
+['Mike Gillislee'],NA,week_2,New England Patriots,2017
+['Stephon Gilmore'],NA,week_2,New England Patriots,2017
+['Rob Gronkowski'],NA,week_2,New England Patriots,2017
+['Lawrence Guy'],NA,week_2,New England Patriots,2017
+['David Harris'],NA,week_2,New England Patriots,2017
+"[""Dont'a Hightower""]",Out: Knee,week_2,New England Patriots,2017
+['Chris Hogan'],NA,week_2,New England Patriots,2017
+['Jacob Hollister'],NA,week_2,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Jonathan Jones'],NA,week_2,New England Patriots,2017
+['Brandon King'],NA,week_2,New England Patriots,2017
+['Harvey Langi'],NA,week_2,New England Patriots,2017
+['Eric Lee'],NA,week_2,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_2,New England Patriots,2017
+['Dion Lewis'],NA,week_2,New England Patriots,2017
+['Cassius Marsh'],NA,week_2,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_2,New England Patriots,2017
+['Devin McCourty'],Questionable: Groin,week_2,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Trevor Reilly'],NA,week_2,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Elandon Roberts'],NA,week_2,New England Patriots,2017
+['Eric Rowe'],NA,week_2,New England Patriots,2017
+['Matthew Slater'],Out: Hamstring,week_2,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_2,New England Patriots,2017
+['Kyle Van Noy'],NA,week_2,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_2,New England Patriots,2017
+['James White'],NA,week_2,New England Patriots,2017
+['Danny Amendola'],Questionable: Concussion,week_3,New England Patriots,2017
+['David Andrews'],NA,week_3,New England Patriots,2017
+['Johnson Bademosi'],NA,week_3,New England Patriots,2017
+['Martellus Bennett'],NA,week_3,New England Patriots,2017
+['Brandon Bolden'],NA,week_3,New England Patriots,2017
+['Tom Brady'],NA,week_3,New England Patriots,2017
+['Alan Branch'],NA,week_3,New England Patriots,2017
+['Malcom Brown'],NA,week_3,New England Patriots,2017
+['Rex Burkhead'],Out: Ribs,week_3,New England Patriots,2017
+['Marcus Cannon'],Questionable: Ankle,week_3,New England Patriots,2017
+['Patrick Chung'],NA,week_3,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_3,New England Patriots,2017
+['Phillip Dorsett'],Questionable: Knee,week_3,New England Patriots,2017
+['Nate Ebner'],Questionable: Shoulder,week_3,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_3,New England Patriots,2017
+['Cameron Fleming'],NA,week_3,New England Patriots,2017
+['Marquis Flowers'],NA,week_3,New England Patriots,2017
+['Trey Flowers'],NA,week_3,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_3,New England Patriots,2017
+['Mike Gillislee'],NA,week_3,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Groin,week_3,New England Patriots,2017
+['Rob Gronkowski'],Questionable: Groin,week_3,New England Patriots,2017
+['Lawrence Guy'],NA,week_3,New England Patriots,2017
+['David Harris'],NA,week_3,New England Patriots,2017
+"[""Dont'a Hightower""]",Questionable: Knee,week_3,New England Patriots,2017
+['Chris Hogan'],Questionable: Knee,week_3,New England Patriots,2017
+['Jacob Hollister'],NA,week_3,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Jonathan Jones'],NA,week_3,New England Patriots,2017
+['Brandon King'],NA,week_3,New England Patriots,2017
+['Harvey Langi'],NA,week_3,New England Patriots,2017
+['Eric Lee'],NA,week_3,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_3,New England Patriots,2017
+['Dion Lewis'],NA,week_3,New England Patriots,2017
+['Cassius Marsh'],NA,week_3,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_3,New England Patriots,2017
+['Devin McCourty'],NA,week_3,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Trevor Reilly'],NA,week_3,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Elandon Roberts'],Questionable: Thumb,week_3,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_3,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_3,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_3,New England Patriots,2017
+['Kyle Van Noy'],NA,week_3,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_3,New England Patriots,2017
+['James White'],NA,week_3,New England Patriots,2017
+['Danny Amendola'],NA,week_4,New England Patriots,2017
+['David Andrews'],NA,week_4,New England Patriots,2017
+['Johnson Bademosi'],NA,week_4,New England Patriots,2017
+['Martellus Bennett'],NA,week_4,New England Patriots,2017
+['Brandon Bolden'],NA,week_4,New England Patriots,2017
+['Tom Brady'],NA,week_4,New England Patriots,2017
+['Alan Branch'],NA,week_4,New England Patriots,2017
+['Malcom Brown'],NA,week_4,New England Patriots,2017
+['Rex Burkhead'],Doubtful: Ribs,week_4,New England Patriots,2017
+['Marcus Cannon'],Questionable: Ankle,week_4,New England Patriots,2017
+['Patrick Chung'],NA,week_4,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_4,New England Patriots,2017
+['Phillip Dorsett'],NA,week_4,New England Patriots,2017
+['Nate Ebner'],NA,week_4,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_4,New England Patriots,2017
+['Cameron Fleming'],NA,week_4,New England Patriots,2017
+['Marquis Flowers'],NA,week_4,New England Patriots,2017
+['Trey Flowers'],NA,week_4,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_4,New England Patriots,2017
+['Mike Gillislee'],NA,week_4,New England Patriots,2017
+['Stephon Gilmore'],NA,week_4,New England Patriots,2017
+['Rob Gronkowski'],NA,week_4,New England Patriots,2017
+['Lawrence Guy'],NA,week_4,New England Patriots,2017
+['David Harris'],NA,week_4,New England Patriots,2017
+"[""Dont'a Hightower""]",Questionable: Knee,week_4,New England Patriots,2017
+['Chris Hogan'],NA,week_4,New England Patriots,2017
+['Jacob Hollister'],NA,week_4,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Jonathan Jones'],NA,week_4,New England Patriots,2017
+['Brandon King'],Questionable: Hamstring,week_4,New England Patriots,2017
+['Harvey Langi'],NA,week_4,New England Patriots,2017
+['Eric Lee'],NA,week_4,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_4,New England Patriots,2017
+['Dion Lewis'],NA,week_4,New England Patriots,2017
+['Cassius Marsh'],NA,week_4,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_4,New England Patriots,2017
+['Devin McCourty'],NA,week_4,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Trevor Reilly'],NA,week_4,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Elandon Roberts'],NA,week_4,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_4,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_4,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_4,New England Patriots,2017
+['Kyle Van Noy'],NA,week_4,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_4,New England Patriots,2017
+['James White'],NA,week_4,New England Patriots,2017
+['Danny Amendola'],NA,week_5,New England Patriots,2017
+['David Andrews'],NA,week_5,New England Patriots,2017
+['Johnson Bademosi'],NA,week_5,New England Patriots,2017
+['Martellus Bennett'],NA,week_5,New England Patriots,2017
+['Brandon Bolden'],NA,week_5,New England Patriots,2017
+['Tom Brady'],NA,week_5,New England Patriots,2017
+['Alan Branch'],Injured Reserve: Conditioning,week_5,New England Patriots,2017
+['Malcom Brown'],NA,week_5,New England Patriots,2017
+['Rex Burkhead'],Out: Ribs,week_5,New England Patriots,2017
+['Marcus Cannon'],Questionable: Ankle,week_5,New England Patriots,2017
+['Patrick Chung'],NA,week_5,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_5,New England Patriots,2017
+['Phillip Dorsett'],NA,week_5,New England Patriots,2017
+['Nate Ebner'],NA,week_5,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_5,New England Patriots,2017
+['Cameron Fleming'],NA,week_5,New England Patriots,2017
+['Marquis Flowers'],NA,week_5,New England Patriots,2017
+['Trey Flowers'],NA,week_5,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_5,New England Patriots,2017
+['Mike Gillislee'],NA,week_5,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Ankle,week_5,New England Patriots,2017
+['Rob Gronkowski'],Questionable: Thigh,week_5,New England Patriots,2017
+['Lawrence Guy'],NA,week_5,New England Patriots,2017
+['David Harris'],NA,week_5,New England Patriots,2017
+"[""Dont'a Hightower""]",Questionable: Knee,week_5,New England Patriots,2017
+['Chris Hogan'],NA,week_5,New England Patriots,2017
+['Jacob Hollister'],NA,week_5,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Jonathan Jones'],NA,week_5,New England Patriots,2017
+['Brandon King'],Questionable: Hamstring,week_5,New England Patriots,2017
+['Harvey Langi'],NA,week_5,New England Patriots,2017
+['Eric Lee'],NA,week_5,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_5,New England Patriots,2017
+['Dion Lewis'],NA,week_5,New England Patriots,2017
+['Cassius Marsh'],NA,week_5,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_5,New England Patriots,2017
+['Devin McCourty'],NA,week_5,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Trevor Reilly'],NA,week_5,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Elandon Roberts'],Questionable: Ankle,week_5,New England Patriots,2017
+['Eric Rowe'],Out: Groin,week_5,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_5,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_5,New England Patriots,2017
+['Kyle Van Noy'],NA,week_5,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_5,New England Patriots,2017
+['James White'],NA,week_5,New England Patriots,2017
+['Danny Amendola'],NA,week_6,New England Patriots,2017
+['David Andrews'],NA,week_6,New England Patriots,2017
+['Johnson Bademosi'],NA,week_6,New England Patriots,2017
+['Martellus Bennett'],NA,week_6,New England Patriots,2017
+['Brandon Bolden'],NA,week_6,New England Patriots,2017
+['Tom Brady'],NA,week_6,New England Patriots,2017
+['Alan Branch'],NA,week_6,New England Patriots,2017
+['Malcom Brown'],NA,week_6,New England Patriots,2017
+['Rex Burkhead'],Questionable: Ribs,week_6,New England Patriots,2017
+['Marcus Cannon'],NA,week_6,New England Patriots,2017
+['Patrick Chung'],NA,week_6,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_6,New England Patriots,2017
+['Phillip Dorsett'],NA,week_6,New England Patriots,2017
+['Nate Ebner'],NA,week_6,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_6,New England Patriots,2017
+['Cameron Fleming'],NA,week_6,New England Patriots,2017
+['Marquis Flowers'],NA,week_6,New England Patriots,2017
+['Trey Flowers'],NA,week_6,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_6,New England Patriots,2017
+['Mike Gillislee'],NA,week_6,New England Patriots,2017
+['Stephon Gilmore'],NA,week_6,New England Patriots,2017
+['Rob Gronkowski'],NA,week_6,New England Patriots,2017
+['Lawrence Guy'],NA,week_6,New England Patriots,2017
+['David Harris'],NA,week_6,New England Patriots,2017
+"[""Dont'a Hightower""]",NA,week_6,New England Patriots,2017
+['Chris Hogan'],NA,week_6,New England Patriots,2017
+['Jacob Hollister'],NA,week_6,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Jonathan Jones'],NA,week_6,New England Patriots,2017
+['Brandon King'],NA,week_6,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_6,New England Patriots,2017
+['Eric Lee'],NA,week_6,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_6,New England Patriots,2017
+['Dion Lewis'],NA,week_6,New England Patriots,2017
+['Cassius Marsh'],NA,week_6,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_6,New England Patriots,2017
+['Devin McCourty'],NA,week_6,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Trevor Reilly'],NA,week_6,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Elandon Roberts'],NA,week_6,New England Patriots,2017
+['Eric Rowe'],Out: Groin,week_6,New England Patriots,2017
+['Matthew Slater'],NA,week_6,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_6,New England Patriots,2017
+['Kyle Van Noy'],NA,week_6,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_6,New England Patriots,2017
+['James White'],NA,week_6,New England Patriots,2017
+['Danny Amendola'],NA,week_7,New England Patriots,2017
+['David Andrews'],NA,week_7,New England Patriots,2017
+['Johnson Bademosi'],Questionable: Abdomen,week_7,New England Patriots,2017
+['Martellus Bennett'],NA,week_7,New England Patriots,2017
+['Brandon Bolden'],NA,week_7,New England Patriots,2017
+['Tom Brady'],NA,week_7,New England Patriots,2017
+['Alan Branch'],NA,week_7,New England Patriots,2017
+['Malcom Brown'],NA,week_7,New England Patriots,2017
+['Rex Burkhead'],NA,week_7,New England Patriots,2017
+['Marcus Cannon'],NA,week_7,New England Patriots,2017
+['Patrick Chung'],NA,week_7,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_7,New England Patriots,2017
+['Phillip Dorsett'],NA,week_7,New England Patriots,2017
+['Nate Ebner'],NA,week_7,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_7,New England Patriots,2017
+['Cameron Fleming'],NA,week_7,New England Patriots,2017
+['Marquis Flowers'],NA,week_7,New England Patriots,2017
+['Trey Flowers'],NA,week_7,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_7,New England Patriots,2017
+['Mike Gillislee'],NA,week_7,New England Patriots,2017
+['Stephon Gilmore'],Out: Concussion,week_7,New England Patriots,2017
+['Rob Gronkowski'],NA,week_7,New England Patriots,2017
+['Lawrence Guy'],NA,week_7,New England Patriots,2017
+['David Harris'],NA,week_7,New England Patriots,2017
+"[""Dont'a Hightower""]",NA,week_7,New England Patriots,2017
+['Chris Hogan'],NA,week_7,New England Patriots,2017
+['Jacob Hollister'],Questionable: Chest,week_7,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Jonathan Jones'],NA,week_7,New England Patriots,2017
+['Brandon King'],NA,week_7,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_7,New England Patriots,2017
+['Eric Lee'],NA,week_7,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_7,New England Patriots,2017
+['Dion Lewis'],NA,week_7,New England Patriots,2017
+['Cassius Marsh'],NA,week_7,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_7,New England Patriots,2017
+['Devin McCourty'],NA,week_7,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Trevor Reilly'],NA,week_7,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Elandon Roberts'],Questionable: Ankle,week_7,New England Patriots,2017
+['Eric Rowe'],Out: Groin,week_7,New England Patriots,2017
+['Matthew Slater'],NA,week_7,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_7,New England Patriots,2017
+['Kyle Van Noy'],NA,week_7,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_7,New England Patriots,2017
+['James White'],NA,week_7,New England Patriots,2017
+['Danny Amendola'],Questionable: Knee,week_8,New England Patriots,2017
+['David Andrews'],NA,week_8,New England Patriots,2017
+['Johnson Bademosi'],NA,week_8,New England Patriots,2017
+['Martellus Bennett'],NA,week_8,New England Patriots,2017
+['Brandon Bolden'],NA,week_8,New England Patriots,2017
+['Tom Brady'],NA,week_8,New England Patriots,2017
+['Alan Branch'],NA,week_8,New England Patriots,2017
+['Malcom Brown'],Out: Ankle,week_8,New England Patriots,2017
+['Rex Burkhead'],NA,week_8,New England Patriots,2017
+['Marcus Cannon'],Questionable: Ankle,week_8,New England Patriots,2017
+['Patrick Chung'],NA,week_8,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_8,New England Patriots,2017
+['Phillip Dorsett'],NA,week_8,New England Patriots,2017
+['Nate Ebner'],NA,week_8,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_8,New England Patriots,2017
+['Cameron Fleming'],NA,week_8,New England Patriots,2017
+['Marquis Flowers'],NA,week_8,New England Patriots,2017
+['Trey Flowers'],NA,week_8,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_8,New England Patriots,2017
+['Mike Gillislee'],NA,week_8,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Concussion,week_8,New England Patriots,2017
+['Rob Gronkowski'],NA,week_8,New England Patriots,2017
+['Lawrence Guy'],Questionable: Chest,week_8,New England Patriots,2017
+['David Harris'],NA,week_8,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_8,New England Patriots,2017
+['Chris Hogan'],NA,week_8,New England Patriots,2017
+['Jacob Hollister'],NA,week_8,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Jonathan Jones'],NA,week_8,New England Patriots,2017
+['Brandon King'],NA,week_8,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_8,New England Patriots,2017
+['Eric Lee'],NA,week_8,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_8,New England Patriots,2017
+['Dion Lewis'],NA,week_8,New England Patriots,2017
+['Cassius Marsh'],Questionable: Shoulder,week_8,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_8,New England Patriots,2017
+['Devin McCourty'],NA,week_8,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Trevor Reilly'],NA,week_8,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Elandon Roberts'],Questionable: Ankle,week_8,New England Patriots,2017
+['Eric Rowe'],Out: Groin,week_8,New England Patriots,2017
+['Matthew Slater'],NA,week_8,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_8,New England Patriots,2017
+['Kyle Van Noy'],NA,week_8,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_8,New England Patriots,2017
+['James White'],NA,week_8,New England Patriots,2017
+['Danny Amendola'],Questionable: Knee,week_10,New England Patriots,2017
+['David Andrews'],NA,week_10,New England Patriots,2017
+['Johnson Bademosi'],NA,week_10,New England Patriots,2017
+['Martellus Bennett'],Questionable: Shoulder,week_10,New England Patriots,2017
+['Brandon Bolden'],NA,week_10,New England Patriots,2017
+['Tom Brady'],NA,week_10,New England Patriots,2017
+['Alan Branch'],NA,week_10,New England Patriots,2017
+['Malcom Brown'],Out: Ankle,week_10,New England Patriots,2017
+['Rex Burkhead'],NA,week_10,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_10,New England Patriots,2017
+['Patrick Chung'],NA,week_10,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_10,New England Patriots,2017
+['Phillip Dorsett'],NA,week_10,New England Patriots,2017
+['Nate Ebner'],NA,week_10,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_10,New England Patriots,2017
+['Cameron Fleming'],NA,week_10,New England Patriots,2017
+['Marquis Flowers'],NA,week_10,New England Patriots,2017
+['Trey Flowers'],NA,week_10,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_10,New England Patriots,2017
+['Mike Gillislee'],NA,week_10,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Concussion,week_10,New England Patriots,2017
+['Rob Gronkowski'],NA,week_10,New England Patriots,2017
+['Lawrence Guy'],NA,week_10,New England Patriots,2017
+['David Harris'],NA,week_10,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_10,New England Patriots,2017
+['Chris Hogan'],Out: Shoulder,week_10,New England Patriots,2017
+['Jacob Hollister'],NA,week_10,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Jonathan Jones'],NA,week_10,New England Patriots,2017
+['Brandon King'],NA,week_10,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_10,New England Patriots,2017
+['Eric Lee'],NA,week_10,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_10,New England Patriots,2017
+['Dion Lewis'],NA,week_10,New England Patriots,2017
+['Cassius Marsh'],Questionable: Shoulder,week_10,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_10,New England Patriots,2017
+['Devin McCourty'],NA,week_10,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Trevor Reilly'],NA,week_10,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Elandon Roberts'],NA,week_10,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_10,New England Patriots,2017
+['Matthew Slater'],NA,week_10,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_10,New England Patriots,2017
+['Kyle Van Noy'],NA,week_10,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_10,New England Patriots,2017
+['James White'],NA,week_10,New England Patriots,2017
+['Danny Amendola'],Questionable: Knee,week_11,New England Patriots,2017
+['David Andrews'],Out: Illness,week_11,New England Patriots,2017
+['Johnson Bademosi'],NA,week_11,New England Patriots,2017
+['Martellus Bennett'],Questionable: Shoulder,week_11,New England Patriots,2017
+['Brandon Bolden'],NA,week_11,New England Patriots,2017
+['Tom Brady'],NA,week_11,New England Patriots,2017
+['Alan Branch'],NA,week_11,New England Patriots,2017
+['Malcom Brown'],Questionable: Ankle,week_11,New England Patriots,2017
+['Rex Burkhead'],NA,week_11,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_11,New England Patriots,2017
+['Patrick Chung'],NA,week_11,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_11,New England Patriots,2017
+['Phillip Dorsett'],NA,week_11,New England Patriots,2017
+['Nate Ebner'],NA,week_11,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_11,New England Patriots,2017
+['Cameron Fleming'],NA,week_11,New England Patriots,2017
+['Marquis Flowers'],NA,week_11,New England Patriots,2017
+['Trey Flowers'],NA,week_11,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_11,New England Patriots,2017
+['Mike Gillislee'],NA,week_11,New England Patriots,2017
+['Stephon Gilmore'],NA,week_11,New England Patriots,2017
+['Rob Gronkowski'],NA,week_11,New England Patriots,2017
+['Lawrence Guy'],NA,week_11,New England Patriots,2017
+['David Harris'],NA,week_11,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_11,New England Patriots,2017
+['Chris Hogan'],Out: Shoulder,week_11,New England Patriots,2017
+['Jacob Hollister'],NA,week_11,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Jonathan Jones'],NA,week_11,New England Patriots,2017
+['Brandon King'],NA,week_11,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_11,New England Patriots,2017
+['Eric Lee'],NA,week_11,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_11,New England Patriots,2017
+['Dion Lewis'],NA,week_11,New England Patriots,2017
+['Cassius Marsh'],Questionable: Shoulder,week_11,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_11,New England Patriots,2017
+['Devin McCourty'],NA,week_11,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Trevor Reilly'],NA,week_11,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Elandon Roberts'],NA,week_11,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_11,New England Patriots,2017
+['Matthew Slater'],Out: Hamstring,week_11,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_11,New England Patriots,2017
+['Kyle Van Noy'],NA,week_11,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_11,New England Patriots,2017
+['James White'],NA,week_11,New England Patriots,2017
+['Danny Amendola'],Questionable: Knee,week_12,New England Patriots,2017
+['David Andrews'],Out: Illness,week_12,New England Patriots,2017
+['Johnson Bademosi'],NA,week_12,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_12,New England Patriots,2017
+['Brandon Bolden'],NA,week_12,New England Patriots,2017
+['Tom Brady'],NA,week_12,New England Patriots,2017
+['Alan Branch'],NA,week_12,New England Patriots,2017
+['Malcom Brown'],Questionable: Ankle,week_12,New England Patriots,2017
+['Rex Burkhead'],NA,week_12,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_12,New England Patriots,2017
+['Patrick Chung'],Questionable: Ankle,week_12,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_12,New England Patriots,2017
+['Phillip Dorsett'],NA,week_12,New England Patriots,2017
+['Nate Ebner'],NA,week_12,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_12,New England Patriots,2017
+['Cameron Fleming'],NA,week_12,New England Patriots,2017
+['Marquis Flowers'],NA,week_12,New England Patriots,2017
+['Trey Flowers'],NA,week_12,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_12,New England Patriots,2017
+['Mike Gillislee'],NA,week_12,New England Patriots,2017
+['Stephon Gilmore'],NA,week_12,New England Patriots,2017
+['Rob Gronkowski'],NA,week_12,New England Patriots,2017
+['Lawrence Guy'],NA,week_12,New England Patriots,2017
+['David Harris'],NA,week_12,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_12,New England Patriots,2017
+['Chris Hogan'],Out: Shoulder,week_12,New England Patriots,2017
+['Jacob Hollister'],NA,week_12,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Jonathan Jones'],NA,week_12,New England Patriots,2017
+['Brandon King'],NA,week_12,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_12,New England Patriots,2017
+['Eric Lee'],NA,week_12,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_12,New England Patriots,2017
+['Dion Lewis'],NA,week_12,New England Patriots,2017
+['Cassius Marsh'],NA,week_12,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_12,New England Patriots,2017
+['Devin McCourty'],NA,week_12,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Trevor Reilly'],NA,week_12,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Elandon Roberts'],NA,week_12,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_12,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_12,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_12,New England Patriots,2017
+['Kyle Van Noy'],NA,week_12,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_12,New England Patriots,2017
+['James White'],NA,week_12,New England Patriots,2017
+['Danny Amendola'],NA,week_13,New England Patriots,2017
+['David Andrews'],Questionable: Illness,week_13,New England Patriots,2017
+['Johnson Bademosi'],NA,week_13,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_13,New England Patriots,2017
+['Brandon Bolden'],NA,week_13,New England Patriots,2017
+['Tom Brady'],NA,week_13,New England Patriots,2017
+['Alan Branch'],NA,week_13,New England Patriots,2017
+['Malcom Brown'],NA,week_13,New England Patriots,2017
+['Rex Burkhead'],NA,week_13,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_13,New England Patriots,2017
+['Patrick Chung'],NA,week_13,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_13,New England Patriots,2017
+['Phillip Dorsett'],NA,week_13,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_13,New England Patriots,2017
+['Cameron Fleming'],NA,week_13,New England Patriots,2017
+['Marquis Flowers'],Questionable: Knee,week_13,New England Patriots,2017
+['Trey Flowers'],Questionable: Rib,week_13,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_13,New England Patriots,2017
+['Mike Gillislee'],NA,week_13,New England Patriots,2017
+['Stephon Gilmore'],NA,week_13,New England Patriots,2017
+['Rob Gronkowski'],NA,week_13,New England Patriots,2017
+['Lawrence Guy'],NA,week_13,New England Patriots,2017
+['David Harris'],NA,week_13,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_13,New England Patriots,2017
+['Chris Hogan'],Out: Shoulder,week_13,New England Patriots,2017
+['Jacob Hollister'],NA,week_13,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Jonathan Jones'],NA,week_13,New England Patriots,2017
+['Brandon King'],NA,week_13,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_13,New England Patriots,2017
+['Eric Lee'],NA,week_13,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_13,New England Patriots,2017
+['Dion Lewis'],NA,week_13,New England Patriots,2017
+['Cassius Marsh'],NA,week_13,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_13,New England Patriots,2017
+['Devin McCourty'],NA,week_13,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Trevor Reilly'],Questionable: Concussion,week_13,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Elandon Roberts'],NA,week_13,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_13,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_13,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_13,New England Patriots,2017
+['Kyle Van Noy'],Questionable: Calf,week_13,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Ankle,week_13,New England Patriots,2017
+['James White'],NA,week_13,New England Patriots,2017
+['Danny Amendola'],NA,week_14,New England Patriots,2017
+['David Andrews'],NA,week_14,New England Patriots,2017
+['Johnson Bademosi'],NA,week_14,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_14,New England Patriots,2017
+['Brandon Bolden'],NA,week_14,New England Patriots,2017
+['Tom Brady'],NA,week_14,New England Patriots,2017
+['Alan Branch'],NA,week_14,New England Patriots,2017
+['Malcom Brown'],NA,week_14,New England Patriots,2017
+['Rex Burkhead'],NA,week_14,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_14,New England Patriots,2017
+['Patrick Chung'],NA,week_14,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_14,New England Patriots,2017
+['Phillip Dorsett'],NA,week_14,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_14,New England Patriots,2017
+['Cameron Fleming'],NA,week_14,New England Patriots,2017
+['Marquis Flowers'],Questionable: Knee,week_14,New England Patriots,2017
+['Trey Flowers'],Questionable: Rib,week_14,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_14,New England Patriots,2017
+['Mike Gillislee'],Questionable: Illness,week_14,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Ankle,week_14,New England Patriots,2017
+['Rob Gronkowski'],NA,week_14,New England Patriots,2017
+['Lawrence Guy'],NA,week_14,New England Patriots,2017
+['David Harris'],NA,week_14,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_14,New England Patriots,2017
+['Chris Hogan'],Questionable: Shoulder,week_14,New England Patriots,2017
+['Jacob Hollister'],NA,week_14,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Jonathan Jones'],NA,week_14,New England Patriots,2017
+['Brandon King'],Questionable: Hamstring,week_14,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_14,New England Patriots,2017
+['Eric Lee'],NA,week_14,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_14,New England Patriots,2017
+['Dion Lewis'],Questionable: Illness,week_14,New England Patriots,2017
+['Cassius Marsh'],NA,week_14,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_14,New England Patriots,2017
+['Devin McCourty'],NA,week_14,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Trevor Reilly'],NA,week_14,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Elandon Roberts'],NA,week_14,New England Patriots,2017
+['Eric Rowe'],Questionable: Groin,week_14,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_14,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_14,New England Patriots,2017
+['Kyle Van Noy'],Out: Calf,week_14,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Ankle,week_14,New England Patriots,2017
+['James White'],NA,week_14,New England Patriots,2017
+['Danny Amendola'],NA,week_15,New England Patriots,2017
+['David Andrews'],NA,week_15,New England Patriots,2017
+['Johnson Bademosi'],NA,week_15,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_15,New England Patriots,2017
+['Brandon Bolden'],NA,week_15,New England Patriots,2017
+['Tom Brady'],NA,week_15,New England Patriots,2017
+['Alan Branch'],Out: Knee,week_15,New England Patriots,2017
+['Malcom Brown'],NA,week_15,New England Patriots,2017
+['Rex Burkhead'],NA,week_15,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_15,New England Patriots,2017
+['Patrick Chung'],NA,week_15,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_15,New England Patriots,2017
+['Phillip Dorsett'],NA,week_15,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_15,New England Patriots,2017
+['Cameron Fleming'],NA,week_15,New England Patriots,2017
+['Marquis Flowers'],NA,week_15,New England Patriots,2017
+['Trey Flowers'],Questionable: Rib,week_15,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_15,New England Patriots,2017
+['Mike Gillislee'],NA,week_15,New England Patriots,2017
+['Stephon Gilmore'],Questionable: Ankle,week_15,New England Patriots,2017
+['Rob Gronkowski'],NA,week_15,New England Patriots,2017
+['Lawrence Guy'],NA,week_15,New England Patriots,2017
+['David Harris'],Questionable: Ankle,week_15,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_15,New England Patriots,2017
+['Chris Hogan'],Questionable: Shoulder,week_15,New England Patriots,2017
+['Jacob Hollister'],NA,week_15,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Jonathan Jones'],NA,week_15,New England Patriots,2017
+['Brandon King'],Questionable: Hamstring,week_15,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_15,New England Patriots,2017
+['Eric Lee'],Questionable: Ankle,week_15,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_15,New England Patriots,2017
+['Dion Lewis'],NA,week_15,New England Patriots,2017
+['Cassius Marsh'],NA,week_15,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_15,New England Patriots,2017
+['Devin McCourty'],NA,week_15,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Trevor Reilly'],NA,week_15,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Elandon Roberts'],NA,week_15,New England Patriots,2017
+['Eric Rowe'],NA,week_15,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_15,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_15,New England Patriots,2017
+['Kyle Van Noy'],Questionable: Calf,week_15,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Ankle,week_15,New England Patriots,2017
+['James White'],NA,week_15,New England Patriots,2017
+['Danny Amendola'],NA,week_16,New England Patriots,2017
+['David Andrews'],NA,week_16,New England Patriots,2017
+['Johnson Bademosi'],NA,week_16,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_16,New England Patriots,2017
+['Brandon Bolden'],Questionable: Groin,week_16,New England Patriots,2017
+['Tom Brady'],NA,week_16,New England Patriots,2017
+['Alan Branch'],Out: Knee,week_16,New England Patriots,2017
+['Malcom Brown'],NA,week_16,New England Patriots,2017
+['Rex Burkhead'],Out: Knee,week_16,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_16,New England Patriots,2017
+['Patrick Chung'],NA,week_16,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_16,New England Patriots,2017
+['Phillip Dorsett'],NA,week_16,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_16,New England Patriots,2017
+['Cameron Fleming'],NA,week_16,New England Patriots,2017
+['Marquis Flowers'],NA,week_16,New England Patriots,2017
+['Trey Flowers'],NA,week_16,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_16,New England Patriots,2017
+['Mike Gillislee'],NA,week_16,New England Patriots,2017
+['Stephon Gilmore'],NA,week_16,New England Patriots,2017
+['Rob Gronkowski'],NA,week_16,New England Patriots,2017
+['Lawrence Guy'],NA,week_16,New England Patriots,2017
+['David Harris'],NA,week_16,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_16,New England Patriots,2017
+['Chris Hogan'],Questionable: Shoulder,week_16,New England Patriots,2017
+['Jacob Hollister'],NA,week_16,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Jonathan Jones'],NA,week_16,New England Patriots,2017
+['Brandon King'],Questionable: Hamstring,week_16,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_16,New England Patriots,2017
+['Eric Lee'],Questionable: Ankle,week_16,New England Patriots,2017
+['Matt Lengel'],NA,week_16,New England Patriots,2017
+['Dion Lewis'],NA,week_16,New England Patriots,2017
+['Cassius Marsh'],NA,week_16,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_16,New England Patriots,2017
+['Devin McCourty'],NA,week_16,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Trevor Reilly'],NA,week_16,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Elandon Roberts'],NA,week_16,New England Patriots,2017
+['Eric Rowe'],NA,week_16,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_16,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_16,New England Patriots,2017
+['Kyle Van Noy'],Questionable: Calf,week_16,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Ankle,week_16,New England Patriots,2017
+['James White'],Questionable: Ankle,week_16,New England Patriots,2017
+['Danny Amendola'],NA,week_17,New England Patriots,2017
+['David Andrews'],NA,week_17,New England Patriots,2017
+['Johnson Bademosi'],NA,week_17,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_17,New England Patriots,2017
+['Brandon Bolden'],NA,week_17,New England Patriots,2017
+['Tom Brady'],NA,week_17,New England Patriots,2017
+['Alan Branch'],Out: Knee,week_17,New England Patriots,2017
+['Malcom Brown'],NA,week_17,New England Patriots,2017
+['Rex Burkhead'],Out: Knee,week_17,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_17,New England Patriots,2017
+['Patrick Chung'],NA,week_17,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_17,New England Patriots,2017
+['Phillip Dorsett'],NA,week_17,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_17,New England Patriots,2017
+['Cameron Fleming'],NA,week_17,New England Patriots,2017
+['Marquis Flowers'],NA,week_17,New England Patriots,2017
+['Trey Flowers'],NA,week_17,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_17,New England Patriots,2017
+['Mike Gillislee'],Out: Knee,week_17,New England Patriots,2017
+['Stephon Gilmore'],NA,week_17,New England Patriots,2017
+['Rob Gronkowski'],NA,week_17,New England Patriots,2017
+['Lawrence Guy'],NA,week_17,New England Patriots,2017
+['David Harris'],NA,week_17,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_17,New England Patriots,2017
+['Chris Hogan'],Questionable: Shoulder,week_17,New England Patriots,2017
+['Jacob Hollister'],NA,week_17,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Jonathan Jones'],NA,week_17,New England Patriots,2017
+['Brandon King'],NA,week_17,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_17,New England Patriots,2017
+['Eric Lee'],Questionable: Ankle,week_17,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_17,New England Patriots,2017
+['Dion Lewis'],NA,week_17,New England Patriots,2017
+['Cassius Marsh'],NA,week_17,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_17,New England Patriots,2017
+['Devin McCourty'],Questionable: Shoulder,week_17,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Trevor Reilly'],NA,week_17,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Elandon Roberts'],NA,week_17,New England Patriots,2017
+['Eric Rowe'],NA,week_17,New England Patriots,2017
+['Matthew Slater'],Questionable: Hamstring,week_17,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_17,New England Patriots,2017
+['Kyle Van Noy'],Questionable: Calf,week_17,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Ankle,week_17,New England Patriots,2017
+['James White'],Questionable: Ankle,week_17,New England Patriots,2017
+['Danny Amendola'],NA,week_19,New England Patriots,2017
+['David Andrews'],NA,week_19,New England Patriots,2017
+['Johnson Bademosi'],NA,week_19,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_19,New England Patriots,2017
+['Brandon Bolden'],NA,week_19,New England Patriots,2017
+['Tom Brady'],NA,week_19,New England Patriots,2017
+['Alan Branch'],Questionable: Knee,week_19,New England Patriots,2017
+['Malcom Brown'],NA,week_19,New England Patriots,2017
+['Rex Burkhead'],Questionable: Knee,week_19,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_19,New England Patriots,2017
+['Patrick Chung'],NA,week_19,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_19,New England Patriots,2017
+['Phillip Dorsett'],NA,week_19,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_19,New England Patriots,2017
+['Cameron Fleming'],NA,week_19,New England Patriots,2017
+['Marquis Flowers'],Questionable: Illness,week_19,New England Patriots,2017
+['Trey Flowers'],NA,week_19,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_19,New England Patriots,2017
+['Mike Gillislee'],Questionable: Knee,week_19,New England Patriots,2017
+['Stephon Gilmore'],NA,week_19,New England Patriots,2017
+['Rob Gronkowski'],NA,week_19,New England Patriots,2017
+['Lawrence Guy'],NA,week_19,New England Patriots,2017
+['David Harris'],NA,week_19,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_19,New England Patriots,2017
+['Chris Hogan'],NA,week_19,New England Patriots,2017
+['Jacob Hollister'],NA,week_19,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Jonathan Jones'],NA,week_19,New England Patriots,2017
+['Brandon King'],NA,week_19,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_19,New England Patriots,2017
+['Eric Lee'],Questionable: Ankle,week_19,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_19,New England Patriots,2017
+['Dion Lewis'],NA,week_19,New England Patriots,2017
+['Cassius Marsh'],NA,week_19,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_19,New England Patriots,2017
+['Devin McCourty'],NA,week_19,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Trevor Reilly'],NA,week_19,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Elandon Roberts'],NA,week_19,New England Patriots,2017
+['Eric Rowe'],NA,week_19,New England Patriots,2017
+['Matthew Slater'],NA,week_19,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_19,New England Patriots,2017
+['Kyle Van Noy'],NA,week_19,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_19,New England Patriots,2017
+['James White'],Questionable: Ankle,week_19,New England Patriots,2017
+['Danny Amendola'],NA,week_20,New England Patriots,2017
+['David Andrews'],NA,week_20,New England Patriots,2017
+['Johnson Bademosi'],NA,week_20,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_20,New England Patriots,2017
+['Brandon Bolden'],NA,week_20,New England Patriots,2017
+['Tom Brady'],Questionable: rightHand,week_20,New England Patriots,2017
+['Alan Branch'],Questionable: Knee,week_20,New England Patriots,2017
+['Malcom Brown'],NA,week_20,New England Patriots,2017
+['Rex Burkhead'],Questionable: Knee,week_20,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_20,New England Patriots,2017
+['Patrick Chung'],NA,week_20,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_20,New England Patriots,2017
+['Phillip Dorsett'],NA,week_20,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_20,New England Patriots,2017
+['Cameron Fleming'],NA,week_20,New England Patriots,2017
+['Marquis Flowers'],NA,week_20,New England Patriots,2017
+['Trey Flowers'],NA,week_20,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_20,New England Patriots,2017
+['Mike Gillislee'],Questionable: Knee,week_20,New England Patriots,2017
+['Stephon Gilmore'],NA,week_20,New England Patriots,2017
+['Rob Gronkowski'],NA,week_20,New England Patriots,2017
+['Lawrence Guy'],NA,week_20,New England Patriots,2017
+['David Harris'],NA,week_20,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_20,New England Patriots,2017
+['Chris Hogan'],NA,week_20,New England Patriots,2017
+['Jacob Hollister'],NA,week_20,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Jonathan Jones'],Injured Reserve: Foot,week_20,New England Patriots,2017
+['Brandon King'],NA,week_20,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_20,New England Patriots,2017
+['Eric Lee'],NA,week_20,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_20,New England Patriots,2017
+['Dion Lewis'],NA,week_20,New England Patriots,2017
+['Cassius Marsh'],NA,week_20,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_20,New England Patriots,2017
+['Devin McCourty'],NA,week_20,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Trevor Reilly'],NA,week_20,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Elandon Roberts'],NA,week_20,New England Patriots,2017
+['Eric Rowe'],NA,week_20,New England Patriots,2017
+['Matthew Slater'],NA,week_20,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_20,New England Patriots,2017
+['Kyle Van Noy'],NA,week_20,New England Patriots,2017
+['LaAdrian Waddle'],Questionable: Knee,week_20,New England Patriots,2017
+['James White'],NA,week_20,New England Patriots,2017
+['Danny Amendola'],NA,week_21,New England Patriots,2017
+['David Andrews'],NA,week_21,New England Patriots,2017
+['Johnson Bademosi'],NA,week_21,New England Patriots,2017
+['Martellus Bennett'],Injured Reserve: Shoulder,week_21,New England Patriots,2017
+['Brandon Bolden'],NA,week_21,New England Patriots,2017
+['Tom Brady'],NA,week_21,New England Patriots,2017
+['Alan Branch'],Injured Reserve: Conditioning,week_21,New England Patriots,2017
+['Malcom Brown'],NA,week_21,New England Patriots,2017
+['Rex Burkhead'],NA,week_21,New England Patriots,2017
+['Marcus Cannon'],Injured Reserve: Ankle,week_21,New England Patriots,2017
+['Patrick Chung'],NA,week_21,New England Patriots,2017
+['Keionta Davis'],Injured Reserve: Neck,week_21,New England Patriots,2017
+['Phillip Dorsett'],NA,week_21,New England Patriots,2017
+['Nate Ebner'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Julian Edelman'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Chase Farris'],Injured Reserve: Achilles,week_21,New England Patriots,2017
+['Cameron Fleming'],NA,week_21,New England Patriots,2017
+['Marquis Flowers'],NA,week_21,New England Patriots,2017
+['Trey Flowers'],NA,week_21,New England Patriots,2017
+['Antonio Garcia'],Injured Reserve: Illness,week_21,New England Patriots,2017
+['Mike Gillislee'],NA,week_21,New England Patriots,2017
+['Stephon Gilmore'],NA,week_21,New England Patriots,2017
+['Rob Gronkowski'],NA,week_21,New England Patriots,2017
+['Lawrence Guy'],NA,week_21,New England Patriots,2017
+['David Harris'],NA,week_21,New England Patriots,2017
+"[""Dont'a Hightower""]",Injured Reserve: Pectoral,week_21,New England Patriots,2017
+['Chris Hogan'],NA,week_21,New England Patriots,2017
+['Jacob Hollister'],NA,week_21,New England Patriots,2017
+['Andrew Jelks'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Cyrus Jones'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Jonathan Jones'],Injured Reserve: Foot,week_21,New England Patriots,2017
+['Brandon King'],NA,week_21,New England Patriots,2017
+['Harvey Langi'],Injured Reserve: Back,week_21,New England Patriots,2017
+['Eric Lee'],NA,week_21,New England Patriots,2017
+['Matt Lengel'],Injured Reserve: Hip,week_21,New England Patriots,2017
+['Dion Lewis'],NA,week_21,New England Patriots,2017
+['Cassius Marsh'],NA,week_21,New England Patriots,2017
+['Shea McClellin'],Injured Reserve: Concussion,week_21,New England Patriots,2017
+['Devin McCourty'],NA,week_21,New England Patriots,2017
+['Malcolm Mitchell'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Trevor Reilly'],NA,week_21,New England Patriots,2017
+['Derek Rivers'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Elandon Roberts'],NA,week_21,New England Patriots,2017
+['Eric Rowe'],NA,week_21,New England Patriots,2017
+['Matthew Slater'],NA,week_21,New England Patriots,2017
+['Vincent Valentine'],Injured Reserve: Knee,week_21,New England Patriots,2017
+['Kyle Van Noy'],NA,week_21,New England Patriots,2017
+['LaAdrian Waddle'],NA,week_21,New England Patriots,2017
+['James White'],NA,week_21,New England Patriots,2017

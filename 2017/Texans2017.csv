@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Jeff Allen'],NA,week_1,Houston Texans,2017
+['Stephen Anderson'],NA,week_1,Houston Texans,2017
+['Alfred Blue'],Out: Ankle,week_1,Houston Texans,2017
+['Marcus Burley'],NA,week_1,Houston Texans,2017
+['Chris Clark'],NA,week_1,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_1,Houston Texans,2017
+['Dylan Cole'],NA,week_1,Houston Texans,2017
+['Christian Covington'],NA,week_1,Houston Texans,2017
+['Brian Cushing'],NA,week_1,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_1,Houston Texans,2017
+['Brandon Dunn'],NA,week_1,Houston Texans,2017
+['Bruce Ellington'],NA,week_1,Houston Texans,2017
+['Tyler Ervin'],NA,week_1,Houston Texans,2017
+['C.J. Fiedorowicz'],NA,week_1,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_1,Houston Texans,2017
+['Kyle Fuller'],NA,week_1,Houston Texans,2017
+['Will Fuller'],Out: Shoulder,week_1,Houston Texans,2017
+['Matthew Godin'],NA,week_1,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_1,Houston Texans,2017
+['Ryan Griffin'],NA,week_1,Houston Texans,2017
+['Joel Heath'],NA,week_1,Houston Texans,2017
+['Ben Heeney'],NA,week_1,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_1,Houston Texans,2017
+['Jelani Jenkins'],NA,week_1,Houston Texans,2017
+['Kevin Johnson'],NA,week_1,Houston Texans,2017
+['Johnathan Joseph'],NA,week_1,Houston Texans,2017
+['Kendall Lamm'],NA,week_1,Houston Texans,2017
+['Kendall Langford'],NA,week_1,Houston Texans,2017
+['LaTroy Lewis'],NA,week_1,Houston Texans,2017
+['Greg Mancz'],NA,week_1,Houston Texans,2017
+['Nick Martin'],NA,week_1,Houston Texans,2017
+['Benardrick McKinney'],NA,week_1,Houston Texans,2017
+['Whitney Mercilus'],NA,week_1,Houston Texans,2017
+['Braxton Miller'],NA,week_1,Houston Texans,2017
+['Corey Moore'],NA,week_1,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_1,Houston Texans,2017
+['MyCole Pruitt'],NA,week_1,Houston Texans,2017
+['D.J. Reader'],NA,week_1,Houston Texans,2017
+['Tom Savage'],NA,week_1,Houston Texans,2017
+['Brennan Scarlett'],NA,week_1,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_1,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_1,Houston Texans,2017
+['Chris Thompson'],NA,week_1,Houston Texans,2017
+['Jordan Todman'],NA,week_1,Houston Texans,2017
+['Deshaun Watson'],NA,week_1,Houston Texans,2017
+['J.J. Watt'],NA,week_1,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_1,Houston Texans,2017
+['Jeff Allen'],Out: Ankle,week_2,Houston Texans,2017
+['Stephen Anderson'],Out: Concussion,week_2,Houston Texans,2017
+['Alfred Blue'],Out: Ankle,week_2,Houston Texans,2017
+['Marcus Burley'],NA,week_2,Houston Texans,2017
+['Chris Clark'],NA,week_2,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_2,Houston Texans,2017
+['Dylan Cole'],NA,week_2,Houston Texans,2017
+['Christian Covington'],NA,week_2,Houston Texans,2017
+['Brian Cushing'],Out: Concussion,week_2,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_2,Houston Texans,2017
+['Brandon Dunn'],NA,week_2,Houston Texans,2017
+['Bruce Ellington'],Out: Concussion,week_2,Houston Texans,2017
+['Tyler Ervin'],NA,week_2,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_2,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_2,Houston Texans,2017
+['Kyle Fuller'],NA,week_2,Houston Texans,2017
+['Will Fuller'],Out: Shoulder,week_2,Houston Texans,2017
+['Matthew Godin'],NA,week_2,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_2,Houston Texans,2017
+['Ryan Griffin'],Out: Concussion,week_2,Houston Texans,2017
+['Joel Heath'],NA,week_2,Houston Texans,2017
+['Ben Heeney'],NA,week_2,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_2,Houston Texans,2017
+['Jelani Jenkins'],NA,week_2,Houston Texans,2017
+['Kevin Johnson'],NA,week_2,Houston Texans,2017
+['Johnathan Joseph'],NA,week_2,Houston Texans,2017
+['Kendall Lamm'],NA,week_2,Houston Texans,2017
+['Kendall Langford'],NA,week_2,Houston Texans,2017
+['LaTroy Lewis'],NA,week_2,Houston Texans,2017
+['Greg Mancz'],NA,week_2,Houston Texans,2017
+['Nick Martin'],NA,week_2,Houston Texans,2017
+['Benardrick McKinney'],NA,week_2,Houston Texans,2017
+['Whitney Mercilus'],NA,week_2,Houston Texans,2017
+['Braxton Miller'],NA,week_2,Houston Texans,2017
+['Corey Moore'],NA,week_2,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_2,Houston Texans,2017
+['MyCole Pruitt'],NA,week_2,Houston Texans,2017
+['D.J. Reader'],NA,week_2,Houston Texans,2017
+['Tom Savage'],NA,week_2,Houston Texans,2017
+['Brennan Scarlett'],NA,week_2,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_2,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_2,Houston Texans,2017
+['Chris Thompson'],NA,week_2,Houston Texans,2017
+['Jordan Todman'],NA,week_2,Houston Texans,2017
+['Deshaun Watson'],NA,week_2,Houston Texans,2017
+['J.J. Watt'],NA,week_2,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_2,Houston Texans,2017
+['Jeff Allen'],Out: Ankle,week_3,Houston Texans,2017
+['Stephen Anderson'],NA,week_3,Houston Texans,2017
+['Alfred Blue'],Questionable: Ankle,week_3,Houston Texans,2017
+['Marcus Burley'],NA,week_3,Houston Texans,2017
+['Chris Clark'],NA,week_3,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_3,Houston Texans,2017
+['Dylan Cole'],NA,week_3,Houston Texans,2017
+['Christian Covington'],NA,week_3,Houston Texans,2017
+['Brian Cushing'],NA,week_3,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_3,Houston Texans,2017
+['Brandon Dunn'],Questionable: Knee,week_3,Houston Texans,2017
+['Bruce Ellington'],NA,week_3,Houston Texans,2017
+['Tyler Ervin'],NA,week_3,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_3,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_3,Houston Texans,2017
+['Kyle Fuller'],NA,week_3,Houston Texans,2017
+['Will Fuller'],Out: Shoulder,week_3,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_3,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_3,Houston Texans,2017
+['Ryan Griffin'],NA,week_3,Houston Texans,2017
+['Joel Heath'],NA,week_3,Houston Texans,2017
+['Ben Heeney'],NA,week_3,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_3,Houston Texans,2017
+['Jelani Jenkins'],NA,week_3,Houston Texans,2017
+['Kevin Johnson'],Out: Knee,week_3,Houston Texans,2017
+['Johnathan Joseph'],NA,week_3,Houston Texans,2017
+['Kendall Lamm'],NA,week_3,Houston Texans,2017
+['Kendall Langford'],NA,week_3,Houston Texans,2017
+['LaTroy Lewis'],NA,week_3,Houston Texans,2017
+['Greg Mancz'],NA,week_3,Houston Texans,2017
+['Nick Martin'],NA,week_3,Houston Texans,2017
+['Benardrick McKinney'],NA,week_3,Houston Texans,2017
+['Whitney Mercilus'],NA,week_3,Houston Texans,2017
+['Braxton Miller'],NA,week_3,Houston Texans,2017
+['Corey Moore'],NA,week_3,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_3,Houston Texans,2017
+['MyCole Pruitt'],NA,week_3,Houston Texans,2017
+['D.J. Reader'],NA,week_3,Houston Texans,2017
+['Tom Savage'],NA,week_3,Houston Texans,2017
+['Brennan Scarlett'],NA,week_3,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_3,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_3,Houston Texans,2017
+['Chris Thompson'],NA,week_3,Houston Texans,2017
+['Jordan Todman'],NA,week_3,Houston Texans,2017
+['Deshaun Watson'],NA,week_3,Houston Texans,2017
+['J.J. Watt'],NA,week_3,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_3,Houston Texans,2017
+['Jeff Allen'],NA,week_4,Houston Texans,2017
+['Stephen Anderson'],NA,week_4,Houston Texans,2017
+['Alfred Blue'],NA,week_4,Houston Texans,2017
+['Marcus Burley'],Questionable: Knee,week_4,Houston Texans,2017
+['Chris Clark'],NA,week_4,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_4,Houston Texans,2017
+['Dylan Cole'],NA,week_4,Houston Texans,2017
+['Christian Covington'],NA,week_4,Houston Texans,2017
+['Brian Cushing'],NA,week_4,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_4,Houston Texans,2017
+['Brandon Dunn'],NA,week_4,Houston Texans,2017
+['Bruce Ellington'],NA,week_4,Houston Texans,2017
+['Tyler Ervin'],NA,week_4,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_4,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_4,Houston Texans,2017
+['Kyle Fuller'],NA,week_4,Houston Texans,2017
+['Will Fuller'],NA,week_4,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_4,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_4,Houston Texans,2017
+['Ryan Griffin'],NA,week_4,Houston Texans,2017
+['Joel Heath'],NA,week_4,Houston Texans,2017
+['Ben Heeney'],NA,week_4,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_4,Houston Texans,2017
+['Jelani Jenkins'],NA,week_4,Houston Texans,2017
+['Kevin Johnson'],Out: Knee,week_4,Houston Texans,2017
+['Johnathan Joseph'],NA,week_4,Houston Texans,2017
+['Kendall Lamm'],NA,week_4,Houston Texans,2017
+['Kendall Langford'],NA,week_4,Houston Texans,2017
+['LaTroy Lewis'],NA,week_4,Houston Texans,2017
+['Greg Mancz'],Out: Knee,week_4,Houston Texans,2017
+['Nick Martin'],NA,week_4,Houston Texans,2017
+['Benardrick McKinney'],NA,week_4,Houston Texans,2017
+['Whitney Mercilus'],NA,week_4,Houston Texans,2017
+['Braxton Miller'],NA,week_4,Houston Texans,2017
+['Corey Moore'],NA,week_4,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_4,Houston Texans,2017
+['MyCole Pruitt'],NA,week_4,Houston Texans,2017
+['D.J. Reader'],NA,week_4,Houston Texans,2017
+['Tom Savage'],NA,week_4,Houston Texans,2017
+['Brennan Scarlett'],NA,week_4,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_4,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_4,Houston Texans,2017
+['Chris Thompson'],NA,week_4,Houston Texans,2017
+['Jordan Todman'],NA,week_4,Houston Texans,2017
+['Deshaun Watson'],NA,week_4,Houston Texans,2017
+['J.J. Watt'],NA,week_4,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_4,Houston Texans,2017
+['Jeff Allen'],NA,week_5,Houston Texans,2017
+['Stephen Anderson'],NA,week_5,Houston Texans,2017
+['Alfred Blue'],NA,week_5,Houston Texans,2017
+['Marcus Burley'],NA,week_5,Houston Texans,2017
+['Chris Clark'],NA,week_5,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_5,Houston Texans,2017
+['Dylan Cole'],NA,week_5,Houston Texans,2017
+['Christian Covington'],NA,week_5,Houston Texans,2017
+['Brian Cushing'],NA,week_5,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_5,Houston Texans,2017
+['Brandon Dunn'],NA,week_5,Houston Texans,2017
+['Bruce Ellington'],NA,week_5,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_5,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_5,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_5,Houston Texans,2017
+['Kyle Fuller'],Out: Hamstring,week_5,Houston Texans,2017
+['Will Fuller'],NA,week_5,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_5,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_5,Houston Texans,2017
+['Ryan Griffin'],NA,week_5,Houston Texans,2017
+['Joel Heath'],NA,week_5,Houston Texans,2017
+['Ben Heeney'],Out: Knee,week_5,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_5,Houston Texans,2017
+['Jelani Jenkins'],NA,week_5,Houston Texans,2017
+['Kevin Johnson'],Out: Knee,week_5,Houston Texans,2017
+['Johnathan Joseph'],NA,week_5,Houston Texans,2017
+['Kendall Lamm'],NA,week_5,Houston Texans,2017
+['Kendall Langford'],NA,week_5,Houston Texans,2017
+['LaTroy Lewis'],NA,week_5,Houston Texans,2017
+['Greg Mancz'],Questionable: Knee,week_5,Houston Texans,2017
+['Nick Martin'],NA,week_5,Houston Texans,2017
+['Benardrick McKinney'],NA,week_5,Houston Texans,2017
+['Whitney Mercilus'],NA,week_5,Houston Texans,2017
+['Braxton Miller'],NA,week_5,Houston Texans,2017
+['Corey Moore'],NA,week_5,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_5,Houston Texans,2017
+['MyCole Pruitt'],NA,week_5,Houston Texans,2017
+['D.J. Reader'],NA,week_5,Houston Texans,2017
+['Tom Savage'],NA,week_5,Houston Texans,2017
+['Brennan Scarlett'],NA,week_5,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_5,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_5,Houston Texans,2017
+['Chris Thompson'],NA,week_5,Houston Texans,2017
+['Jordan Todman'],NA,week_5,Houston Texans,2017
+['Deshaun Watson'],NA,week_5,Houston Texans,2017
+['J.J. Watt'],NA,week_5,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_5,Houston Texans,2017
+['Jeff Allen'],NA,week_6,Houston Texans,2017
+['Stephen Anderson'],NA,week_6,Houston Texans,2017
+['Alfred Blue'],NA,week_6,Houston Texans,2017
+['Marcus Burley'],NA,week_6,Houston Texans,2017
+['Chris Clark'],NA,week_6,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_6,Houston Texans,2017
+['Dylan Cole'],NA,week_6,Houston Texans,2017
+['Christian Covington'],NA,week_6,Houston Texans,2017
+['Brian Cushing'],NA,week_6,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_6,Houston Texans,2017
+['Brandon Dunn'],NA,week_6,Houston Texans,2017
+['Bruce Ellington'],NA,week_6,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_6,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_6,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_6,Houston Texans,2017
+['Kyle Fuller'],NA,week_6,Houston Texans,2017
+['Will Fuller'],NA,week_6,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_6,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_6,Houston Texans,2017
+['Ryan Griffin'],NA,week_6,Houston Texans,2017
+['Joel Heath'],NA,week_6,Houston Texans,2017
+['Ben Heeney'],Out: Knee,week_6,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_6,Houston Texans,2017
+['Jelani Jenkins'],NA,week_6,Houston Texans,2017
+['Kevin Johnson'],Out: Knee,week_6,Houston Texans,2017
+['Johnathan Joseph'],NA,week_6,Houston Texans,2017
+['Kendall Lamm'],NA,week_6,Houston Texans,2017
+['Kendall Langford'],NA,week_6,Houston Texans,2017
+['LaTroy Lewis'],NA,week_6,Houston Texans,2017
+['Greg Mancz'],Questionable: Knee,week_6,Houston Texans,2017
+['Nick Martin'],NA,week_6,Houston Texans,2017
+['Benardrick McKinney'],Questionable: Hip,week_6,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_6,Houston Texans,2017
+['Braxton Miller'],NA,week_6,Houston Texans,2017
+['Corey Moore'],Out: Concussion,week_6,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_6,Houston Texans,2017
+['MyCole Pruitt'],NA,week_6,Houston Texans,2017
+['D.J. Reader'],NA,week_6,Houston Texans,2017
+['Tom Savage'],NA,week_6,Houston Texans,2017
+['Brennan Scarlett'],NA,week_6,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_6,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_6,Houston Texans,2017
+['Chris Thompson'],NA,week_6,Houston Texans,2017
+['Jordan Todman'],Out: Calf,week_6,Houston Texans,2017
+['Deshaun Watson'],NA,week_6,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_6,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_6,Houston Texans,2017
+['Jeff Allen'],NA,week_8,Houston Texans,2017
+['Stephen Anderson'],NA,week_8,Houston Texans,2017
+['Alfred Blue'],NA,week_8,Houston Texans,2017
+['Marcus Burley'],NA,week_8,Houston Texans,2017
+['Chris Clark'],Out: Calf,week_8,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_8,Houston Texans,2017
+['Dylan Cole'],Out: Hamstring,week_8,Houston Texans,2017
+['Christian Covington'],NA,week_8,Houston Texans,2017
+['Brian Cushing'],NA,week_8,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_8,Houston Texans,2017
+['Brandon Dunn'],NA,week_8,Houston Texans,2017
+['Bruce Ellington'],NA,week_8,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_8,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_8,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_8,Houston Texans,2017
+['Kyle Fuller'],NA,week_8,Houston Texans,2017
+['Will Fuller'],NA,week_8,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_8,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_8,Houston Texans,2017
+['Ryan Griffin'],NA,week_8,Houston Texans,2017
+['Joel Heath'],Out: Knee,week_8,Houston Texans,2017
+['Ben Heeney'],NA,week_8,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_8,Houston Texans,2017
+['Jelani Jenkins'],Questionable: Hand,week_8,Houston Texans,2017
+['Kevin Johnson'],NA,week_8,Houston Texans,2017
+['Johnathan Joseph'],NA,week_8,Houston Texans,2017
+['Kendall Lamm'],NA,week_8,Houston Texans,2017
+['Kendall Langford'],Questionable: Back,week_8,Houston Texans,2017
+['LaTroy Lewis'],NA,week_8,Houston Texans,2017
+['Greg Mancz'],NA,week_8,Houston Texans,2017
+['Nick Martin'],NA,week_8,Houston Texans,2017
+['Benardrick McKinney'],NA,week_8,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_8,Houston Texans,2017
+['Braxton Miller'],NA,week_8,Houston Texans,2017
+['Corey Moore'],NA,week_8,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_8,Houston Texans,2017
+['MyCole Pruitt'],NA,week_8,Houston Texans,2017
+['D.J. Reader'],NA,week_8,Houston Texans,2017
+['Tom Savage'],NA,week_8,Houston Texans,2017
+['Brennan Scarlett'],NA,week_8,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_8,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_8,Houston Texans,2017
+['Chris Thompson'],NA,week_8,Houston Texans,2017
+['Jordan Todman'],NA,week_8,Houston Texans,2017
+['Deshaun Watson'],NA,week_8,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_8,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_8,Houston Texans,2017
+['Jeff Allen'],NA,week_9,Houston Texans,2017
+['Stephen Anderson'],NA,week_9,Houston Texans,2017
+['Alfred Blue'],NA,week_9,Houston Texans,2017
+['Marcus Burley'],NA,week_9,Houston Texans,2017
+['Chris Clark'],NA,week_9,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_9,Houston Texans,2017
+['Dylan Cole'],Out: Hamstring,week_9,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_9,Houston Texans,2017
+['Brian Cushing'],NA,week_9,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_9,Houston Texans,2017
+['Brandon Dunn'],NA,week_9,Houston Texans,2017
+['Bruce Ellington'],NA,week_9,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_9,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_9,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_9,Houston Texans,2017
+['Kyle Fuller'],NA,week_9,Houston Texans,2017
+['Will Fuller'],NA,week_9,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_9,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_9,Houston Texans,2017
+['Ryan Griffin'],NA,week_9,Houston Texans,2017
+['Joel Heath'],Out: Knee,week_9,Houston Texans,2017
+['Ben Heeney'],NA,week_9,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_9,Houston Texans,2017
+['Jelani Jenkins'],NA,week_9,Houston Texans,2017
+['Kevin Johnson'],NA,week_9,Houston Texans,2017
+['Johnathan Joseph'],Questionable: Shin,week_9,Houston Texans,2017
+['Kendall Lamm'],NA,week_9,Houston Texans,2017
+['Kendall Langford'],NA,week_9,Houston Texans,2017
+['LaTroy Lewis'],NA,week_9,Houston Texans,2017
+['Greg Mancz'],NA,week_9,Houston Texans,2017
+['Nick Martin'],NA,week_9,Houston Texans,2017
+['Benardrick McKinney'],NA,week_9,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_9,Houston Texans,2017
+['Braxton Miller'],NA,week_9,Houston Texans,2017
+['Corey Moore'],NA,week_9,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_9,Houston Texans,2017
+['MyCole Pruitt'],NA,week_9,Houston Texans,2017
+['D.J. Reader'],NA,week_9,Houston Texans,2017
+['Tom Savage'],NA,week_9,Houston Texans,2017
+['Brennan Scarlett'],NA,week_9,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_9,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_9,Houston Texans,2017
+['Chris Thompson'],NA,week_9,Houston Texans,2017
+['Jordan Todman'],NA,week_9,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_9,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_9,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_9,Houston Texans,2017
+['Jeff Allen'],NA,week_10,Houston Texans,2017
+['Stephen Anderson'],NA,week_10,Houston Texans,2017
+['Alfred Blue'],NA,week_10,Houston Texans,2017
+['Marcus Burley'],NA,week_10,Houston Texans,2017
+['Chris Clark'],NA,week_10,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_10,Houston Texans,2017
+['Dylan Cole'],Out: Hamstring,week_10,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_10,Houston Texans,2017
+['Brian Cushing'],NA,week_10,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_10,Houston Texans,2017
+['Brandon Dunn'],NA,week_10,Houston Texans,2017
+['Bruce Ellington'],NA,week_10,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_10,Houston Texans,2017
+['C.J. Fiedorowicz'],NA,week_10,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_10,Houston Texans,2017
+['Kyle Fuller'],NA,week_10,Houston Texans,2017
+['Will Fuller'],NA,week_10,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_10,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_10,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_10,Houston Texans,2017
+['Joel Heath'],Out: Knee,week_10,Houston Texans,2017
+['Ben Heeney'],NA,week_10,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_10,Houston Texans,2017
+['Jelani Jenkins'],NA,week_10,Houston Texans,2017
+['Kevin Johnson'],NA,week_10,Houston Texans,2017
+['Johnathan Joseph'],NA,week_10,Houston Texans,2017
+['Kendall Lamm'],NA,week_10,Houston Texans,2017
+['Kendall Langford'],NA,week_10,Houston Texans,2017
+['LaTroy Lewis'],NA,week_10,Houston Texans,2017
+['Greg Mancz'],NA,week_10,Houston Texans,2017
+['Nick Martin'],NA,week_10,Houston Texans,2017
+['Benardrick McKinney'],NA,week_10,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_10,Houston Texans,2017
+['Braxton Miller'],NA,week_10,Houston Texans,2017
+['Corey Moore'],NA,week_10,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_10,Houston Texans,2017
+['MyCole Pruitt'],NA,week_10,Houston Texans,2017
+['D.J. Reader'],NA,week_10,Houston Texans,2017
+['Tom Savage'],NA,week_10,Houston Texans,2017
+['Brennan Scarlett'],NA,week_10,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_10,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_10,Houston Texans,2017
+['Chris Thompson'],NA,week_10,Houston Texans,2017
+['Jordan Todman'],NA,week_10,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_10,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_10,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_10,Houston Texans,2017
+['Jeff Allen'],NA,week_11,Houston Texans,2017
+['Stephen Anderson'],NA,week_11,Houston Texans,2017
+['Alfred Blue'],Questionable: Hamstring,week_11,Houston Texans,2017
+['Marcus Burley'],NA,week_11,Houston Texans,2017
+['Chris Clark'],NA,week_11,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_11,Houston Texans,2017
+['Dylan Cole'],Out: Hamstring,week_11,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_11,Houston Texans,2017
+['Brian Cushing'],NA,week_11,Houston Texans,2017
+"[""Julie'n Davenport""]",Out: Shoulder,week_11,Houston Texans,2017
+['Brandon Dunn'],NA,week_11,Houston Texans,2017
+['Bruce Ellington'],NA,week_11,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_11,Houston Texans,2017
+['C.J. Fiedorowicz'],NA,week_11,Houston Texans,2017
+"[""D'Onta Foreman""]",NA,week_11,Houston Texans,2017
+['Kyle Fuller'],NA,week_11,Houston Texans,2017
+['Will Fuller'],Out: Ribs,week_11,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_11,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_11,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_11,Houston Texans,2017
+['Joel Heath'],Questionable: Knee,week_11,Houston Texans,2017
+['Ben Heeney'],NA,week_11,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_11,Houston Texans,2017
+['Jelani Jenkins'],NA,week_11,Houston Texans,2017
+['Kevin Johnson'],NA,week_11,Houston Texans,2017
+['Johnathan Joseph'],NA,week_11,Houston Texans,2017
+['Kendall Lamm'],NA,week_11,Houston Texans,2017
+['Kendall Langford'],NA,week_11,Houston Texans,2017
+['LaTroy Lewis'],NA,week_11,Houston Texans,2017
+['Greg Mancz'],Questionable: Knee,week_11,Houston Texans,2017
+['Nick Martin'],NA,week_11,Houston Texans,2017
+['Benardrick McKinney'],NA,week_11,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_11,Houston Texans,2017
+['Braxton Miller'],NA,week_11,Houston Texans,2017
+['Corey Moore'],NA,week_11,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_11,Houston Texans,2017
+['MyCole Pruitt'],NA,week_11,Houston Texans,2017
+['D.J. Reader'],NA,week_11,Houston Texans,2017
+['Tom Savage'],NA,week_11,Houston Texans,2017
+['Brennan Scarlett'],NA,week_11,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_11,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_11,Houston Texans,2017
+['Chris Thompson'],Questionable: Knee,week_11,Houston Texans,2017
+['Jordan Todman'],NA,week_11,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_11,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_11,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_11,Houston Texans,2017
+['Jeff Allen'],NA,week_12,Houston Texans,2017
+['Stephen Anderson'],NA,week_12,Houston Texans,2017
+['Alfred Blue'],NA,week_12,Houston Texans,2017
+['Marcus Burley'],NA,week_12,Houston Texans,2017
+['Chris Clark'],NA,week_12,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_12,Houston Texans,2017
+['Dylan Cole'],NA,week_12,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_12,Houston Texans,2017
+['Brian Cushing'],NA,week_12,Houston Texans,2017
+"[""Julie'n Davenport""]",Out: Shoulder,week_12,Houston Texans,2017
+['Brandon Dunn'],NA,week_12,Houston Texans,2017
+['Bruce Ellington'],NA,week_12,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_12,Houston Texans,2017
+['C.J. Fiedorowicz'],NA,week_12,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_12,Houston Texans,2017
+['Kyle Fuller'],NA,week_12,Houston Texans,2017
+['Will Fuller'],Out: Ribs,week_12,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_12,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_12,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_12,Houston Texans,2017
+['Joel Heath'],NA,week_12,Houston Texans,2017
+['Ben Heeney'],NA,week_12,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_12,Houston Texans,2017
+['Jelani Jenkins'],NA,week_12,Houston Texans,2017
+['Kevin Johnson'],NA,week_12,Houston Texans,2017
+['Johnathan Joseph'],NA,week_12,Houston Texans,2017
+['Kendall Lamm'],NA,week_12,Houston Texans,2017
+['Kendall Langford'],NA,week_12,Houston Texans,2017
+['LaTroy Lewis'],NA,week_12,Houston Texans,2017
+['Greg Mancz'],Out: Shoulder,week_12,Houston Texans,2017
+['Nick Martin'],NA,week_12,Houston Texans,2017
+['Benardrick McKinney'],NA,week_12,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_12,Houston Texans,2017
+['Braxton Miller'],NA,week_12,Houston Texans,2017
+['Corey Moore'],NA,week_12,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_12,Houston Texans,2017
+['MyCole Pruitt'],NA,week_12,Houston Texans,2017
+['D.J. Reader'],NA,week_12,Houston Texans,2017
+['Tom Savage'],NA,week_12,Houston Texans,2017
+['Brennan Scarlett'],NA,week_12,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_12,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_12,Houston Texans,2017
+['Chris Thompson'],NA,week_12,Houston Texans,2017
+['Jordan Todman'],NA,week_12,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_12,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_12,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_12,Houston Texans,2017
+['Jeff Allen'],NA,week_13,Houston Texans,2017
+['Stephen Anderson'],NA,week_13,Houston Texans,2017
+['Alfred Blue'],NA,week_13,Houston Texans,2017
+['Marcus Burley'],NA,week_13,Houston Texans,2017
+['Chris Clark'],Injured Reserve: Ankle,week_13,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_13,Houston Texans,2017
+['Dylan Cole'],NA,week_13,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_13,Houston Texans,2017
+['Brian Cushing'],NA,week_13,Houston Texans,2017
+"[""Julie'n Davenport""]",Out: Shoulder,week_13,Houston Texans,2017
+['Brandon Dunn'],NA,week_13,Houston Texans,2017
+['Bruce Ellington'],NA,week_13,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_13,Houston Texans,2017
+['C.J. Fiedorowicz'],NA,week_13,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_13,Houston Texans,2017
+['Kyle Fuller'],NA,week_13,Houston Texans,2017
+['Will Fuller'],Out: Ribs,week_13,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_13,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_13,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_13,Houston Texans,2017
+['Joel Heath'],NA,week_13,Houston Texans,2017
+['Ben Heeney'],Injured Reserve: Hamstring,week_13,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_13,Houston Texans,2017
+['Jelani Jenkins'],NA,week_13,Houston Texans,2017
+['Kevin Johnson'],NA,week_13,Houston Texans,2017
+['Johnathan Joseph'],NA,week_13,Houston Texans,2017
+['Kendall Lamm'],NA,week_13,Houston Texans,2017
+['Kendall Langford'],NA,week_13,Houston Texans,2017
+['LaTroy Lewis'],NA,week_13,Houston Texans,2017
+['Greg Mancz'],NA,week_13,Houston Texans,2017
+['Nick Martin'],NA,week_13,Houston Texans,2017
+['Benardrick McKinney'],NA,week_13,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_13,Houston Texans,2017
+['Braxton Miller'],NA,week_13,Houston Texans,2017
+['Corey Moore'],NA,week_13,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_13,Houston Texans,2017
+['MyCole Pruitt'],NA,week_13,Houston Texans,2017
+['D.J. Reader'],NA,week_13,Houston Texans,2017
+['Tom Savage'],NA,week_13,Houston Texans,2017
+['Brennan Scarlett'],Injured Reserve: Foot,week_13,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_13,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_13,Houston Texans,2017
+['Chris Thompson'],NA,week_13,Houston Texans,2017
+['Jordan Todman'],NA,week_13,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_13,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_13,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_13,Houston Texans,2017
+['Jeff Allen'],NA,week_14,Houston Texans,2017
+['Stephen Anderson'],NA,week_14,Houston Texans,2017
+['Alfred Blue'],Out: Concussion,week_14,Houston Texans,2017
+['Marcus Burley'],NA,week_14,Houston Texans,2017
+['Chris Clark'],Injured Reserve: Ankle,week_14,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_14,Houston Texans,2017
+['Dylan Cole'],NA,week_14,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_14,Houston Texans,2017
+['Brian Cushing'],NA,week_14,Houston Texans,2017
+"[""Julie'n Davenport""]",Out: Shoulder,week_14,Houston Texans,2017
+['Brandon Dunn'],NA,week_14,Houston Texans,2017
+['Bruce Ellington'],Injured Reserve: Hamstring,week_14,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_14,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_14,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_14,Houston Texans,2017
+['Kyle Fuller'],NA,week_14,Houston Texans,2017
+['Will Fuller'],NA,week_14,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_14,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_14,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_14,Houston Texans,2017
+['Joel Heath'],NA,week_14,Houston Texans,2017
+['Ben Heeney'],Injured Reserve: Hamstring,week_14,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_14,Houston Texans,2017
+['Jelani Jenkins'],Out: Concussion,week_14,Houston Texans,2017
+['Kevin Johnson'],NA,week_14,Houston Texans,2017
+['Johnathan Joseph'],NA,week_14,Houston Texans,2017
+['Kendall Lamm'],NA,week_14,Houston Texans,2017
+['Kendall Langford'],NA,week_14,Houston Texans,2017
+['LaTroy Lewis'],NA,week_14,Houston Texans,2017
+['Greg Mancz'],NA,week_14,Houston Texans,2017
+['Nick Martin'],NA,week_14,Houston Texans,2017
+['Benardrick McKinney'],NA,week_14,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_14,Houston Texans,2017
+['Braxton Miller'],Out: Concussion,week_14,Houston Texans,2017
+['Corey Moore'],NA,week_14,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_14,Houston Texans,2017
+['MyCole Pruitt'],NA,week_14,Houston Texans,2017
+['D.J. Reader'],NA,week_14,Houston Texans,2017
+['Tom Savage'],NA,week_14,Houston Texans,2017
+['Brennan Scarlett'],Injured Reserve: Foot,week_14,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_14,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",Questionable: Groin,week_14,Houston Texans,2017
+['Chris Thompson'],NA,week_14,Houston Texans,2017
+['Jordan Todman'],NA,week_14,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_14,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_14,Houston Texans,2017
+['DeAndrew White'],NA,week_14,Houston Texans,2017
+['Jeff Allen'],NA,week_15,Houston Texans,2017
+['Stephen Anderson'],NA,week_15,Houston Texans,2017
+['Alfred Blue'],NA,week_15,Houston Texans,2017
+['Marcus Burley'],NA,week_15,Houston Texans,2017
+['Chris Clark'],Injured Reserve: Ankle,week_15,Houston Texans,2017
+['Jadeveon Clowney'],Questionable: Knee,week_15,Houston Texans,2017
+['Dylan Cole'],NA,week_15,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_15,Houston Texans,2017
+['Brian Cushing'],NA,week_15,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_15,Houston Texans,2017
+['Brandon Dunn'],NA,week_15,Houston Texans,2017
+['Bruce Ellington'],Injured Reserve: Hamstring,week_15,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_15,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_15,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_15,Houston Texans,2017
+['Kyle Fuller'],NA,week_15,Houston Texans,2017
+['Will Fuller'],NA,week_15,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_15,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_15,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_15,Houston Texans,2017
+['Joel Heath'],NA,week_15,Houston Texans,2017
+['Ben Heeney'],Injured Reserve: Hamstring,week_15,Houston Texans,2017
+['DeAndre Hopkins'],Questionable: Toe,week_15,Houston Texans,2017
+['Jelani Jenkins'],Out: Concussion,week_15,Houston Texans,2017
+['Kevin Johnson'],NA,week_15,Houston Texans,2017
+['Johnathan Joseph'],NA,week_15,Houston Texans,2017
+['Kendall Lamm'],Out: Concussion,week_15,Houston Texans,2017
+['Kendall Langford'],NA,week_15,Houston Texans,2017
+['LaTroy Lewis'],NA,week_15,Houston Texans,2017
+['Greg Mancz'],NA,week_15,Houston Texans,2017
+['Nick Martin'],NA,week_15,Houston Texans,2017
+['Benardrick McKinney'],NA,week_15,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_15,Houston Texans,2017
+['Braxton Miller'],Out: Concussion,week_15,Houston Texans,2017
+['Corey Moore'],NA,week_15,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_15,Houston Texans,2017
+['MyCole Pruitt'],Injured Reserve: Calf,week_15,Houston Texans,2017
+['D.J. Reader'],NA,week_15,Houston Texans,2017
+['Tom Savage'],Injured Reserve: Concussion,week_15,Houston Texans,2017
+['Brennan Scarlett'],Injured Reserve: Foot,week_15,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_15,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_15,Houston Texans,2017
+['Chris Thompson'],NA,week_15,Houston Texans,2017
+['Jordan Todman'],NA,week_15,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_15,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_15,Houston Texans,2017
+['DeAndrew White'],NA,week_15,Houston Texans,2017
+['Jeff Allen'],Out: Concussion,week_16,Houston Texans,2017
+['Stephen Anderson'],NA,week_16,Houston Texans,2017
+['Alfred Blue'],NA,week_16,Houston Texans,2017
+['Marcus Burley'],NA,week_16,Houston Texans,2017
+['Chris Clark'],Injured Reserve: Ankle,week_16,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_16,Houston Texans,2017
+['Dylan Cole'],NA,week_16,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_16,Houston Texans,2017
+['Brian Cushing'],NA,week_16,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_16,Houston Texans,2017
+['Brandon Dunn'],NA,week_16,Houston Texans,2017
+['Bruce Ellington'],Injured Reserve: Hamstring,week_16,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_16,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_16,Houston Texans,2017
+['Kyle Fuller'],NA,week_16,Houston Texans,2017
+['Will Fuller'],NA,week_16,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_16,Houston Texans,2017
+['Joel Heath'],NA,week_16,Houston Texans,2017
+['Ben Heeney'],Injured Reserve: Hamstring,week_16,Houston Texans,2017
+['DeAndre Hopkins'],NA,week_16,Houston Texans,2017
+['Jelani Jenkins'],NA,week_16,Houston Texans,2017
+['Kevin Johnson'],NA,week_16,Houston Texans,2017
+['Johnathan Joseph'],NA,week_16,Houston Texans,2017
+['Kendall Lamm'],Out: Concussion,week_16,Houston Texans,2017
+['Kendall Langford'],NA,week_16,Houston Texans,2017
+['LaTroy Lewis'],Out: Shoulder,week_16,Houston Texans,2017
+['Greg Mancz'],NA,week_16,Houston Texans,2017
+['Nick Martin'],Injured Reserve: Ankle,week_16,Houston Texans,2017
+['Benardrick McKinney'],NA,week_16,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_16,Houston Texans,2017
+['Braxton Miller'],NA,week_16,Houston Texans,2017
+['Corey Moore'],NA,week_16,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['MyCole Pruitt'],Injured Reserve: Calf,week_16,Houston Texans,2017
+['D.J. Reader'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['Tom Savage'],Injured Reserve: Concussion,week_16,Houston Texans,2017
+['Brennan Scarlett'],Injured Reserve: Foot,week_16,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_16,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_16,Houston Texans,2017
+['Chris Thompson'],NA,week_16,Houston Texans,2017
+['Jordan Todman'],NA,week_16,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_16,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_16,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_16,Houston Texans,2017
+['Jeff Allen'],Out: Concussion,week_17,Houston Texans,2017
+['Stephen Anderson'],NA,week_17,Houston Texans,2017
+['Alfred Blue'],NA,week_17,Houston Texans,2017
+['Marcus Burley'],NA,week_17,Houston Texans,2017
+['Chris Clark'],Injured Reserve: Ankle,week_17,Houston Texans,2017
+['Jadeveon Clowney'],NA,week_17,Houston Texans,2017
+['Dylan Cole'],NA,week_17,Houston Texans,2017
+['Christian Covington'],Injured Reserve: Bicep,week_17,Houston Texans,2017
+['Brian Cushing'],NA,week_17,Houston Texans,2017
+"[""Julie'n Davenport""]",NA,week_17,Houston Texans,2017
+['Brandon Dunn'],NA,week_17,Houston Texans,2017
+['Bruce Ellington'],Injured Reserve: Hamstring,week_17,Houston Texans,2017
+['Tyler Ervin'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['C.J. Fiedorowicz'],Injured Reserve: Concussion,week_17,Houston Texans,2017
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_17,Houston Texans,2017
+['Kyle Fuller'],NA,week_17,Houston Texans,2017
+['Will Fuller'],NA,week_17,Houston Texans,2017
+['Matthew Godin'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['Deante Gray'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['Ryan Griffin'],Injured Reserve: Concussion,week_17,Houston Texans,2017
+['Joel Heath'],NA,week_17,Houston Texans,2017
+['Ben Heeney'],Injured Reserve: Hamstring,week_17,Houston Texans,2017
+['DeAndre Hopkins'],Out: Calf,week_17,Houston Texans,2017
+['Jelani Jenkins'],NA,week_17,Houston Texans,2017
+['Kevin Johnson'],NA,week_17,Houston Texans,2017
+['Johnathan Joseph'],NA,week_17,Houston Texans,2017
+['Kendall Lamm'],Questionable: Concussion,week_17,Houston Texans,2017
+['Kendall Langford'],NA,week_17,Houston Texans,2017
+['LaTroy Lewis'],Questionable: Shoulder,week_17,Houston Texans,2017
+['Greg Mancz'],NA,week_17,Houston Texans,2017
+['Nick Martin'],Injured Reserve: Ankle,week_17,Houston Texans,2017
+['Benardrick McKinney'],NA,week_17,Houston Texans,2017
+['Whitney Mercilus'],Injured Reserve: Pectoral,week_17,Houston Texans,2017
+['Braxton Miller'],NA,week_17,Houston Texans,2017
+['Corey Moore'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['Derek Newton'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['MyCole Pruitt'],Injured Reserve: Calf,week_17,Houston Texans,2017
+['D.J. Reader'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['Tom Savage'],Injured Reserve: Concussion,week_17,Houston Texans,2017
+['Brennan Scarlett'],Injured Reserve: Foot,week_17,Houston Texans,2017
+['Devin Street'],Injured Reserve: Knee,week_17,Houston Texans,2017
+"[""Xavier Su'a-Filo""]",NA,week_17,Houston Texans,2017
+['Chris Thompson'],NA,week_17,Houston Texans,2017
+['Jordan Todman'],Out: Shoulder,week_17,Houston Texans,2017
+['Deshaun Watson'],Injured Reserve: Knee,week_17,Houston Texans,2017
+['J.J. Watt'],Injured Reserve: Leg,week_17,Houston Texans,2017
+['DeAndrew White'],Injured Reserve: Groin,week_17,Houston Texans,2017

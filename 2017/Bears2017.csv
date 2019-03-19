@@ -1,0 +1,737 @@
+﻿name,injury,week,team,year
+['Adrian Amos'],NA,week_1,Chicago Bears,2017
+['Prince Amukamara'],Doubtful: Ankle,week_1,Chicago Bears,2017
+['Josh Bellamy'],NA,week_1,Chicago Bears,2017
+['Deon Bush'],NA,week_1,Chicago Bears,2017
+['Bryce Callahan'],NA,week_1,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_1,Chicago Bears,2017
+['Tom Compton'],NA,week_1,Chicago Bears,2017
+['Marcus Cooper'],NA,week_1,Chicago Bears,2017
+['Benny Cunningham'],NA,week_1,Chicago Bears,2017
+['Quintin Demps'],NA,week_1,Chicago Bears,2017
+['Leonard Floyd'],NA,week_1,Chicago Bears,2017
+['Jerrell Freeman'],NA,week_1,Chicago Bears,2017
+['Eddie Goldman'],NA,week_1,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_1,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_1,Chicago Bears,2017
+['Akiem Hicks'],NA,week_1,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_1,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_1,Chicago Bears,2017
+['Jordan Howard'],NA,week_1,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_1,Chicago Bears,2017
+['Isaiah Irving'],NA,week_1,Chicago Bears,2017
+['Christian Jones'],NA,week_1,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_1,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_1,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_1,Chicago Bears,2017
+['Kyle Long'],Questionable: Ankle,week_1,Chicago Bears,2017
+['Bobby Massie'],NA,week_1,Chicago Bears,2017
+['Sherrick McManis'],NA,week_1,Chicago Bears,2017
+['Pernell McPhee'],Questionable: Knee,week_1,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_1,Chicago Bears,2017
+['Zach Miller'],NA,week_1,Chicago Bears,2017
+['Chris Prosinski'],NA,week_1,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_1,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_1,Chicago Bears,2017
+['Mark Sanchez'],NA,week_1,Chicago Bears,2017
+['Cairo Santos'],NA,week_1,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_1,Chicago Bears,2017
+['Adam Shaheen'],NA,week_1,Chicago Bears,2017
+['Dion Sims'],NA,week_1,Chicago Bears,2017
+['Josh Sitton'],NA,week_1,Chicago Bears,2017
+['John Timu'],NA,week_1,Chicago Bears,2017
+['Danny Trevathan'],NA,week_1,Chicago Bears,2017
+['Mitch Unrein'],NA,week_1,Chicago Bears,2017
+['Markus Wheaton'],Questionable: Finger,week_1,Chicago Bears,2017
+['Kevin White'],NA,week_1,Chicago Bears,2017
+['Willie Young'],NA,week_1,Chicago Bears,2017
+['Adrian Amos'],NA,week_2,Chicago Bears,2017
+['Prince Amukamara'],Questionable: Ankle,week_2,Chicago Bears,2017
+['Josh Bellamy'],Questionable: Ankle,week_2,Chicago Bears,2017
+['Deon Bush'],Questionable: Hamstring,week_2,Chicago Bears,2017
+['Bryce Callahan'],NA,week_2,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_2,Chicago Bears,2017
+['Tom Compton'],NA,week_2,Chicago Bears,2017
+['Marcus Cooper'],NA,week_2,Chicago Bears,2017
+['Benny Cunningham'],Doubtful: Ankle,week_2,Chicago Bears,2017
+['Quintin Demps'],NA,week_2,Chicago Bears,2017
+['Leonard Floyd'],Questionable: Back,week_2,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_2,Chicago Bears,2017
+['Eddie Goldman'],NA,week_2,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_2,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_2,Chicago Bears,2017
+['Akiem Hicks'],NA,week_2,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_2,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_2,Chicago Bears,2017
+['Jordan Howard'],Questionable: Shoulder,week_2,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_2,Chicago Bears,2017
+['Isaiah Irving'],NA,week_2,Chicago Bears,2017
+['Christian Jones'],Questionable: Back,week_2,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_2,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_2,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_2,Chicago Bears,2017
+['Kyle Long'],Questionable: Ankle,week_2,Chicago Bears,2017
+['Bobby Massie'],NA,week_2,Chicago Bears,2017
+['Sherrick McManis'],NA,week_2,Chicago Bears,2017
+['Pernell McPhee'],NA,week_2,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_2,Chicago Bears,2017
+['Zach Miller'],NA,week_2,Chicago Bears,2017
+['Chris Prosinski'],NA,week_2,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_2,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_2,Chicago Bears,2017
+['Mark Sanchez'],NA,week_2,Chicago Bears,2017
+['Cairo Santos'],NA,week_2,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_2,Chicago Bears,2017
+['Adam Shaheen'],NA,week_2,Chicago Bears,2017
+['Dion Sims'],NA,week_2,Chicago Bears,2017
+['Josh Sitton'],NA,week_2,Chicago Bears,2017
+['John Timu'],NA,week_2,Chicago Bears,2017
+['Danny Trevathan'],NA,week_2,Chicago Bears,2017
+['Mitch Unrein'],NA,week_2,Chicago Bears,2017
+['Markus Wheaton'],Questionable: Finger,week_2,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_2,Chicago Bears,2017
+['Willie Young'],NA,week_2,Chicago Bears,2017
+['Adrian Amos'],NA,week_3,Chicago Bears,2017
+['Prince Amukamara'],NA,week_3,Chicago Bears,2017
+['Josh Bellamy'],NA,week_3,Chicago Bears,2017
+['Deon Bush'],NA,week_3,Chicago Bears,2017
+['Bryce Callahan'],NA,week_3,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_3,Chicago Bears,2017
+['Tom Compton'],Questionable: Hip,week_3,Chicago Bears,2017
+['Marcus Cooper'],NA,week_3,Chicago Bears,2017
+['Benny Cunningham'],NA,week_3,Chicago Bears,2017
+['Quintin Demps'],NA,week_3,Chicago Bears,2017
+['Leonard Floyd'],NA,week_3,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_3,Chicago Bears,2017
+['Eddie Goldman'],NA,week_3,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_3,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_3,Chicago Bears,2017
+['Akiem Hicks'],NA,week_3,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_3,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_3,Chicago Bears,2017
+['Jordan Howard'],NA,week_3,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_3,Chicago Bears,2017
+['Isaiah Irving'],NA,week_3,Chicago Bears,2017
+['Christian Jones'],NA,week_3,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_3,Chicago Bears,2017
+['Nick Kwiatkoski'],Out: Chest,week_3,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_3,Chicago Bears,2017
+['Kyle Long'],NA,week_3,Chicago Bears,2017
+['Bobby Massie'],NA,week_3,Chicago Bears,2017
+['Sherrick McManis'],NA,week_3,Chicago Bears,2017
+['Pernell McPhee'],NA,week_3,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_3,Chicago Bears,2017
+['Zach Miller'],NA,week_3,Chicago Bears,2017
+['Chris Prosinski'],NA,week_3,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_3,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_3,Chicago Bears,2017
+['Mark Sanchez'],NA,week_3,Chicago Bears,2017
+['Cairo Santos'],NA,week_3,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_3,Chicago Bears,2017
+['Adam Shaheen'],NA,week_3,Chicago Bears,2017
+['Dion Sims'],NA,week_3,Chicago Bears,2017
+['Josh Sitton'],Doubtful: Ribs,week_3,Chicago Bears,2017
+['John Timu'],NA,week_3,Chicago Bears,2017
+['Danny Trevathan'],NA,week_3,Chicago Bears,2017
+['Mitch Unrein'],NA,week_3,Chicago Bears,2017
+['Markus Wheaton'],NA,week_3,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_3,Chicago Bears,2017
+['Willie Young'],NA,week_3,Chicago Bears,2017
+['Adrian Amos'],NA,week_4,Chicago Bears,2017
+['Prince Amukamara'],NA,week_4,Chicago Bears,2017
+['Josh Bellamy'],NA,week_4,Chicago Bears,2017
+['Deon Bush'],NA,week_4,Chicago Bears,2017
+['Bryce Callahan'],NA,week_4,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_4,Chicago Bears,2017
+['Tom Compton'],NA,week_4,Chicago Bears,2017
+['Marcus Cooper'],NA,week_4,Chicago Bears,2017
+['Benny Cunningham'],NA,week_4,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_4,Chicago Bears,2017
+['Leonard Floyd'],NA,week_4,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_4,Chicago Bears,2017
+['Eddie Goldman'],NA,week_4,Chicago Bears,2017
+['Hroniss Grasu'],Questionable: Hand,week_4,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_4,Chicago Bears,2017
+['Akiem Hicks'],NA,week_4,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_4,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_4,Chicago Bears,2017
+['Jordan Howard'],NA,week_4,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_4,Chicago Bears,2017
+['Isaiah Irving'],NA,week_4,Chicago Bears,2017
+['Christian Jones'],NA,week_4,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_4,Chicago Bears,2017
+['Nick Kwiatkoski'],Doubtful: Chest,week_4,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_4,Chicago Bears,2017
+['Kyle Long'],NA,week_4,Chicago Bears,2017
+['Bobby Massie'],NA,week_4,Chicago Bears,2017
+['Sherrick McManis'],NA,week_4,Chicago Bears,2017
+['Pernell McPhee'],NA,week_4,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_4,Chicago Bears,2017
+['Zach Miller'],NA,week_4,Chicago Bears,2017
+['Chris Prosinski'],NA,week_4,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_4,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_4,Chicago Bears,2017
+['Mark Sanchez'],NA,week_4,Chicago Bears,2017
+['Cairo Santos'],NA,week_4,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_4,Chicago Bears,2017
+['Adam Shaheen'],NA,week_4,Chicago Bears,2017
+['Dion Sims'],NA,week_4,Chicago Bears,2017
+['Josh Sitton'],Questionable: Ribs,week_4,Chicago Bears,2017
+['John Timu'],NA,week_4,Chicago Bears,2017
+['Danny Trevathan'],NA,week_4,Chicago Bears,2017
+['Mitch Unrein'],NA,week_4,Chicago Bears,2017
+['Markus Wheaton'],NA,week_4,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_4,Chicago Bears,2017
+['Willie Young'],NA,week_4,Chicago Bears,2017
+['Adrian Amos'],NA,week_5,Chicago Bears,2017
+['Prince Amukamara'],NA,week_5,Chicago Bears,2017
+['Josh Bellamy'],NA,week_5,Chicago Bears,2017
+['Deon Bush'],NA,week_5,Chicago Bears,2017
+['Bryce Callahan'],NA,week_5,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_5,Chicago Bears,2017
+['Tom Compton'],NA,week_5,Chicago Bears,2017
+['Marcus Cooper'],Questionable: Back,week_5,Chicago Bears,2017
+['Benny Cunningham'],NA,week_5,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_5,Chicago Bears,2017
+['Leonard Floyd'],NA,week_5,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_5,Chicago Bears,2017
+['Eddie Goldman'],NA,week_5,Chicago Bears,2017
+['Hroniss Grasu'],Questionable: Hand,week_5,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_5,Chicago Bears,2017
+['Akiem Hicks'],NA,week_5,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_5,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_5,Chicago Bears,2017
+['Jordan Howard'],NA,week_5,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_5,Chicago Bears,2017
+['Isaiah Irving'],NA,week_5,Chicago Bears,2017
+['Christian Jones'],NA,week_5,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_5,Chicago Bears,2017
+['Nick Kwiatkoski'],Doubtful: Chest,week_5,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_5,Chicago Bears,2017
+['Kyle Long'],NA,week_5,Chicago Bears,2017
+['Bobby Massie'],NA,week_5,Chicago Bears,2017
+['Sherrick McManis'],NA,week_5,Chicago Bears,2017
+['Pernell McPhee'],NA,week_5,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_5,Chicago Bears,2017
+['Zach Miller'],NA,week_5,Chicago Bears,2017
+['Chris Prosinski'],NA,week_5,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_5,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_5,Chicago Bears,2017
+['Mark Sanchez'],NA,week_5,Chicago Bears,2017
+['Cairo Santos'],NA,week_5,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_5,Chicago Bears,2017
+['Adam Shaheen'],NA,week_5,Chicago Bears,2017
+['Dion Sims'],NA,week_5,Chicago Bears,2017
+['Josh Sitton'],NA,week_5,Chicago Bears,2017
+['John Timu'],NA,week_5,Chicago Bears,2017
+['Danny Trevathan'],NA,week_5,Chicago Bears,2017
+['Mitch Unrein'],NA,week_5,Chicago Bears,2017
+['Markus Wheaton'],NA,week_5,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_5,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_5,Chicago Bears,2017
+['Adrian Amos'],NA,week_6,Chicago Bears,2017
+['Prince Amukamara'],NA,week_6,Chicago Bears,2017
+['Josh Bellamy'],NA,week_6,Chicago Bears,2017
+['Deon Bush'],NA,week_6,Chicago Bears,2017
+['Bryce Callahan'],NA,week_6,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_6,Chicago Bears,2017
+['Tom Compton'],NA,week_6,Chicago Bears,2017
+['Marcus Cooper'],NA,week_6,Chicago Bears,2017
+['Benny Cunningham'],NA,week_6,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_6,Chicago Bears,2017
+['Leonard Floyd'],NA,week_6,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_6,Chicago Bears,2017
+['Eddie Goldman'],NA,week_6,Chicago Bears,2017
+['Hroniss Grasu'],Questionable: Hand,week_6,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_6,Chicago Bears,2017
+['Akiem Hicks'],NA,week_6,Chicago Bears,2017
+['Lamarr Houston'],NA,week_6,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_6,Chicago Bears,2017
+['Jordan Howard'],NA,week_6,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_6,Chicago Bears,2017
+['Isaiah Irving'],NA,week_6,Chicago Bears,2017
+['Christian Jones'],NA,week_6,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_6,Chicago Bears,2017
+['Nick Kwiatkoski'],Questionable: Chest,week_6,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_6,Chicago Bears,2017
+['Kyle Long'],NA,week_6,Chicago Bears,2017
+['Bobby Massie'],NA,week_6,Chicago Bears,2017
+['Sherrick McManis'],NA,week_6,Chicago Bears,2017
+['Pernell McPhee'],NA,week_6,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_6,Chicago Bears,2017
+['Zach Miller'],NA,week_6,Chicago Bears,2017
+['Chris Prosinski'],NA,week_6,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_6,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_6,Chicago Bears,2017
+['Mark Sanchez'],NA,week_6,Chicago Bears,2017
+['Cairo Santos'],NA,week_6,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_6,Chicago Bears,2017
+['Adam Shaheen'],NA,week_6,Chicago Bears,2017
+['Dion Sims'],NA,week_6,Chicago Bears,2017
+['Josh Sitton'],NA,week_6,Chicago Bears,2017
+['John Timu'],Out: Knee,week_6,Chicago Bears,2017
+['Danny Trevathan'],NA,week_6,Chicago Bears,2017
+['Mitch Unrein'],NA,week_6,Chicago Bears,2017
+['Markus Wheaton'],Out: Groin,week_6,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_6,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_6,Chicago Bears,2017
+['Adrian Amos'],NA,week_7,Chicago Bears,2017
+['Prince Amukamara'],NA,week_7,Chicago Bears,2017
+['Josh Bellamy'],NA,week_7,Chicago Bears,2017
+['Deon Bush'],NA,week_7,Chicago Bears,2017
+['Bryce Callahan'],NA,week_7,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_7,Chicago Bears,2017
+['Tom Compton'],NA,week_7,Chicago Bears,2017
+['Marcus Cooper'],NA,week_7,Chicago Bears,2017
+['Benny Cunningham'],Questionable: Hamstring,week_7,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_7,Chicago Bears,2017
+['Leonard Floyd'],NA,week_7,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_7,Chicago Bears,2017
+['Eddie Goldman'],NA,week_7,Chicago Bears,2017
+['Hroniss Grasu'],Questionable: Hand,week_7,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_7,Chicago Bears,2017
+['Akiem Hicks'],NA,week_7,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_7,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_7,Chicago Bears,2017
+['Jordan Howard'],NA,week_7,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_7,Chicago Bears,2017
+['Isaiah Irving'],NA,week_7,Chicago Bears,2017
+['Christian Jones'],NA,week_7,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_7,Chicago Bears,2017
+['Nick Kwiatkoski'],Questionable: Chest,week_7,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_7,Chicago Bears,2017
+['Kyle Long'],NA,week_7,Chicago Bears,2017
+['Bobby Massie'],NA,week_7,Chicago Bears,2017
+['Sherrick McManis'],Doubtful: Hamstring,week_7,Chicago Bears,2017
+['Pernell McPhee'],NA,week_7,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_7,Chicago Bears,2017
+['Zach Miller'],NA,week_7,Chicago Bears,2017
+['Chris Prosinski'],NA,week_7,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_7,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_7,Chicago Bears,2017
+['Mark Sanchez'],NA,week_7,Chicago Bears,2017
+['Cairo Santos'],NA,week_7,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_7,Chicago Bears,2017
+['Adam Shaheen'],NA,week_7,Chicago Bears,2017
+['Dion Sims'],NA,week_7,Chicago Bears,2017
+['Josh Sitton'],NA,week_7,Chicago Bears,2017
+['John Timu'],Doubtful: Ankle,week_7,Chicago Bears,2017
+['Danny Trevathan'],NA,week_7,Chicago Bears,2017
+['Mitch Unrein'],NA,week_7,Chicago Bears,2017
+['Markus Wheaton'],Out: Groin,week_7,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_7,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_7,Chicago Bears,2017
+['Adrian Amos'],NA,week_8,Chicago Bears,2017
+['Prince Amukamara'],NA,week_8,Chicago Bears,2017
+['Josh Bellamy'],NA,week_8,Chicago Bears,2017
+['Deon Bush'],NA,week_8,Chicago Bears,2017
+['Bryce Callahan'],NA,week_8,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_8,Chicago Bears,2017
+['Tom Compton'],NA,week_8,Chicago Bears,2017
+['Marcus Cooper'],NA,week_8,Chicago Bears,2017
+['Benny Cunningham'],Questionable: Hamstring,week_8,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_8,Chicago Bears,2017
+['Leonard Floyd'],NA,week_8,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_8,Chicago Bears,2017
+['Eddie Goldman'],NA,week_8,Chicago Bears,2017
+['Hroniss Grasu'],Questionable: Hand,week_8,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_8,Chicago Bears,2017
+['Akiem Hicks'],NA,week_8,Chicago Bears,2017
+['Lamarr Houston'],NA,week_8,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_8,Chicago Bears,2017
+['Jordan Howard'],NA,week_8,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_8,Chicago Bears,2017
+['Isaiah Irving'],NA,week_8,Chicago Bears,2017
+['Christian Jones'],NA,week_8,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_8,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_8,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_8,Chicago Bears,2017
+['Kyle Long'],NA,week_8,Chicago Bears,2017
+['Bobby Massie'],NA,week_8,Chicago Bears,2017
+['Sherrick McManis'],Doubtful: Hamstring,week_8,Chicago Bears,2017
+['Pernell McPhee'],NA,week_8,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_8,Chicago Bears,2017
+['Zach Miller'],NA,week_8,Chicago Bears,2017
+['Chris Prosinski'],NA,week_8,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_8,Chicago Bears,2017
+['Roy Robertson-Harris'],Doubtful: Hamstring,week_8,Chicago Bears,2017
+['Mark Sanchez'],NA,week_8,Chicago Bears,2017
+['Cairo Santos'],NA,week_8,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_8,Chicago Bears,2017
+['Adam Shaheen'],NA,week_8,Chicago Bears,2017
+['Dion Sims'],NA,week_8,Chicago Bears,2017
+['Josh Sitton'],NA,week_8,Chicago Bears,2017
+['John Timu'],Doubtful: Ankle,week_8,Chicago Bears,2017
+['Danny Trevathan'],NA,week_8,Chicago Bears,2017
+['Mitch Unrein'],NA,week_8,Chicago Bears,2017
+['Markus Wheaton'],Doubtful: Groin,week_8,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_8,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_8,Chicago Bears,2017
+['Adrian Amos'],NA,week_10,Chicago Bears,2017
+['Prince Amukamara'],NA,week_10,Chicago Bears,2017
+['Josh Bellamy'],NA,week_10,Chicago Bears,2017
+['Deon Bush'],NA,week_10,Chicago Bears,2017
+['Bryce Callahan'],Questionable: Knee,week_10,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_10,Chicago Bears,2017
+['Tom Compton'],Questionable: Ankle,week_10,Chicago Bears,2017
+['Marcus Cooper'],NA,week_10,Chicago Bears,2017
+['Benny Cunningham'],NA,week_10,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_10,Chicago Bears,2017
+['Leonard Floyd'],NA,week_10,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_10,Chicago Bears,2017
+['Eddie Goldman'],NA,week_10,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_10,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_10,Chicago Bears,2017
+['Akiem Hicks'],NA,week_10,Chicago Bears,2017
+['Lamarr Houston'],NA,week_10,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_10,Chicago Bears,2017
+['Jordan Howard'],NA,week_10,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_10,Chicago Bears,2017
+['Isaiah Irving'],NA,week_10,Chicago Bears,2017
+['Christian Jones'],NA,week_10,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_10,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_10,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_10,Chicago Bears,2017
+['Kyle Long'],Questionable: Finger,week_10,Chicago Bears,2017
+['Bobby Massie'],NA,week_10,Chicago Bears,2017
+['Sherrick McManis'],Questionable: Hamstring,week_10,Chicago Bears,2017
+['Pernell McPhee'],NA,week_10,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_10,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_10,Chicago Bears,2017
+['Chris Prosinski'],NA,week_10,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_10,Chicago Bears,2017
+['Roy Robertson-Harris'],Questionable: Hamstring,week_10,Chicago Bears,2017
+['Mark Sanchez'],NA,week_10,Chicago Bears,2017
+['Cairo Santos'],NA,week_10,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_10,Chicago Bears,2017
+['Adam Shaheen'],NA,week_10,Chicago Bears,2017
+['Dion Sims'],Questionable: Illness,week_10,Chicago Bears,2017
+['Josh Sitton'],NA,week_10,Chicago Bears,2017
+['John Timu'],NA,week_10,Chicago Bears,2017
+['Danny Trevathan'],Questionable: Calf,week_10,Chicago Bears,2017
+['Mitch Unrein'],NA,week_10,Chicago Bears,2017
+['Markus Wheaton'],NA,week_10,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_10,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_10,Chicago Bears,2017
+['Adrian Amos'],NA,week_11,Chicago Bears,2017
+['Prince Amukamara'],NA,week_11,Chicago Bears,2017
+['Josh Bellamy'],NA,week_11,Chicago Bears,2017
+['Deon Bush'],NA,week_11,Chicago Bears,2017
+['Bryce Callahan'],Questionable: Knee,week_11,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_11,Chicago Bears,2017
+['Tom Compton'],Questionable: Ankle,week_11,Chicago Bears,2017
+['Marcus Cooper'],NA,week_11,Chicago Bears,2017
+['Benny Cunningham'],NA,week_11,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_11,Chicago Bears,2017
+['Leonard Floyd'],NA,week_11,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_11,Chicago Bears,2017
+['Eddie Goldman'],NA,week_11,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_11,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_11,Chicago Bears,2017
+['Akiem Hicks'],NA,week_11,Chicago Bears,2017
+['Lamarr Houston'],NA,week_11,Chicago Bears,2017
+['DeAndre Houston-Carson'],Questionable: Illness,week_11,Chicago Bears,2017
+['Jordan Howard'],NA,week_11,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_11,Chicago Bears,2017
+['Isaiah Irving'],NA,week_11,Chicago Bears,2017
+['Christian Jones'],NA,week_11,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_11,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_11,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_11,Chicago Bears,2017
+['Kyle Long'],NA,week_11,Chicago Bears,2017
+['Bobby Massie'],NA,week_11,Chicago Bears,2017
+['Sherrick McManis'],NA,week_11,Chicago Bears,2017
+['Pernell McPhee'],NA,week_11,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_11,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_11,Chicago Bears,2017
+['Chris Prosinski'],NA,week_11,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_11,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_11,Chicago Bears,2017
+['Mark Sanchez'],NA,week_11,Chicago Bears,2017
+['Cairo Santos'],NA,week_11,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_11,Chicago Bears,2017
+['Adam Shaheen'],NA,week_11,Chicago Bears,2017
+['Dion Sims'],Questionable: Illness,week_11,Chicago Bears,2017
+['Josh Sitton'],NA,week_11,Chicago Bears,2017
+['John Timu'],NA,week_11,Chicago Bears,2017
+['Danny Trevathan'],Questionable: Calf,week_11,Chicago Bears,2017
+['Mitch Unrein'],NA,week_11,Chicago Bears,2017
+['Markus Wheaton'],NA,week_11,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_11,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_11,Chicago Bears,2017
+['Adrian Amos'],NA,week_12,Chicago Bears,2017
+['Prince Amukamara'],NA,week_12,Chicago Bears,2017
+['Josh Bellamy'],Doubtful: Concussion,week_12,Chicago Bears,2017
+['Deon Bush'],NA,week_12,Chicago Bears,2017
+['Bryce Callahan'],Questionable: Knee,week_12,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_12,Chicago Bears,2017
+['Tom Compton'],Questionable: Ankle,week_12,Chicago Bears,2017
+['Marcus Cooper'],NA,week_12,Chicago Bears,2017
+['Benny Cunningham'],NA,week_12,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_12,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_12,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_12,Chicago Bears,2017
+['Eddie Goldman'],NA,week_12,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_12,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_12,Chicago Bears,2017
+['Akiem Hicks'],Questionable: Knee,week_12,Chicago Bears,2017
+['Lamarr Houston'],Injured Reserve: Knee,week_12,Chicago Bears,2017
+['DeAndre Houston-Carson'],Doubtful: Ankle,week_12,Chicago Bears,2017
+['Jordan Howard'],NA,week_12,Chicago Bears,2017
+['Dontrelle Inman'],Questionable: Groin,week_12,Chicago Bears,2017
+['Isaiah Irving'],NA,week_12,Chicago Bears,2017
+['Christian Jones'],NA,week_12,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_12,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_12,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_12,Chicago Bears,2017
+['Kyle Long'],Questionable: Ankle,week_12,Chicago Bears,2017
+['Bobby Massie'],NA,week_12,Chicago Bears,2017
+['Sherrick McManis'],NA,week_12,Chicago Bears,2017
+['Pernell McPhee'],Questionable: Knee,week_12,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_12,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_12,Chicago Bears,2017
+['Chris Prosinski'],NA,week_12,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_12,Chicago Bears,2017
+['Roy Robertson-Harris'],Doubtful: Hamstring,week_12,Chicago Bears,2017
+['Mark Sanchez'],Questionable: Illness,week_12,Chicago Bears,2017
+['Cairo Santos'],NA,week_12,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_12,Chicago Bears,2017
+['Adam Shaheen'],NA,week_12,Chicago Bears,2017
+['Dion Sims'],Questionable: Illness,week_12,Chicago Bears,2017
+['Josh Sitton'],NA,week_12,Chicago Bears,2017
+['John Timu'],NA,week_12,Chicago Bears,2017
+['Danny Trevathan'],Doubtful: Calf,week_12,Chicago Bears,2017
+['Mitch Unrein'],Questionable: Knee,week_12,Chicago Bears,2017
+['Markus Wheaton'],NA,week_12,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_12,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_12,Chicago Bears,2017
+['Adrian Amos'],Doubtful: Hamstring,week_13,Chicago Bears,2017
+['Prince Amukamara'],NA,week_13,Chicago Bears,2017
+['Josh Bellamy'],NA,week_13,Chicago Bears,2017
+['Deon Bush'],Questionable: Ankle,week_13,Chicago Bears,2017
+['Bryce Callahan'],Questionable: Knee,week_13,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_13,Chicago Bears,2017
+['Tom Compton'],NA,week_13,Chicago Bears,2017
+['Marcus Cooper'],NA,week_13,Chicago Bears,2017
+['Benny Cunningham'],NA,week_13,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_13,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_13,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_13,Chicago Bears,2017
+['Eddie Goldman'],NA,week_13,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_13,Chicago Bears,2017
+"[""Deiondre' Hall""]",NA,week_13,Chicago Bears,2017
+['Akiem Hicks'],NA,week_13,Chicago Bears,2017
+['Lamarr Houston'],NA,week_13,Chicago Bears,2017
+['DeAndre Houston-Carson'],Questionable: Ankle,week_13,Chicago Bears,2017
+['Jordan Howard'],NA,week_13,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_13,Chicago Bears,2017
+['Isaiah Irving'],Out: Knee,week_13,Chicago Bears,2017
+['Christian Jones'],NA,week_13,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_13,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_13,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",Questionable: Illness,week_13,Chicago Bears,2017
+['Kyle Long'],NA,week_13,Chicago Bears,2017
+['Bobby Massie'],NA,week_13,Chicago Bears,2017
+['Sherrick McManis'],NA,week_13,Chicago Bears,2017
+['Pernell McPhee'],NA,week_13,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_13,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_13,Chicago Bears,2017
+['Chris Prosinski'],NA,week_13,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_13,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_13,Chicago Bears,2017
+['Mark Sanchez'],NA,week_13,Chicago Bears,2017
+['Cairo Santos'],NA,week_13,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_13,Chicago Bears,2017
+['Adam Shaheen'],NA,week_13,Chicago Bears,2017
+['Dion Sims'],NA,week_13,Chicago Bears,2017
+['Josh Sitton'],Questionable: Concussion,week_13,Chicago Bears,2017
+['John Timu'],NA,week_13,Chicago Bears,2017
+['Danny Trevathan'],NA,week_13,Chicago Bears,2017
+['Mitch Unrein'],NA,week_13,Chicago Bears,2017
+['Markus Wheaton'],NA,week_13,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_13,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_13,Chicago Bears,2017
+['Adrian Amos'],Doubtful: Hamstring,week_14,Chicago Bears,2017
+['Prince Amukamara'],NA,week_14,Chicago Bears,2017
+['Josh Bellamy'],NA,week_14,Chicago Bears,2017
+['Deon Bush'],NA,week_14,Chicago Bears,2017
+['Bryce Callahan'],NA,week_14,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_14,Chicago Bears,2017
+['Tom Compton'],NA,week_14,Chicago Bears,2017
+['Marcus Cooper'],NA,week_14,Chicago Bears,2017
+['Benny Cunningham'],NA,week_14,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_14,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_14,Chicago Bears,2017
+['Eddie Goldman'],Doubtful: Hip,week_14,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_14,Chicago Bears,2017
+"[""Deiondre' Hall""]",NA,week_14,Chicago Bears,2017
+['Akiem Hicks'],NA,week_14,Chicago Bears,2017
+['Lamarr Houston'],NA,week_14,Chicago Bears,2017
+['DeAndre Houston-Carson'],Questionable: Ankle,week_14,Chicago Bears,2017
+['Jordan Howard'],NA,week_14,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_14,Chicago Bears,2017
+['Isaiah Irving'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Christian Jones'],NA,week_14,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_14,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_14,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_14,Chicago Bears,2017
+['Kyle Long'],Injured Reserve: Shoulder,week_14,Chicago Bears,2017
+['Bobby Massie'],NA,week_14,Chicago Bears,2017
+['Sherrick McManis'],NA,week_14,Chicago Bears,2017
+['Pernell McPhee'],Doubtful: Shoulder,week_14,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Chris Prosinski'],NA,week_14,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_14,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_14,Chicago Bears,2017
+['Mark Sanchez'],NA,week_14,Chicago Bears,2017
+['Cairo Santos'],Injured Reserve: Groin,week_14,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Adam Shaheen'],NA,week_14,Chicago Bears,2017
+['Dion Sims'],NA,week_14,Chicago Bears,2017
+['Josh Sitton'],NA,week_14,Chicago Bears,2017
+['John Timu'],NA,week_14,Chicago Bears,2017
+['Danny Trevathan'],NA,week_14,Chicago Bears,2017
+['Mitch Unrein'],Injured Reserve: Knee,week_14,Chicago Bears,2017
+['Markus Wheaton'],NA,week_14,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_14,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_14,Chicago Bears,2017
+['Adrian Amos'],Questionable: Hamstring,week_15,Chicago Bears,2017
+['Prince Amukamara'],NA,week_15,Chicago Bears,2017
+['Josh Bellamy'],NA,week_15,Chicago Bears,2017
+['Deon Bush'],NA,week_15,Chicago Bears,2017
+['Bryce Callahan'],NA,week_15,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_15,Chicago Bears,2017
+['Tom Compton'],NA,week_15,Chicago Bears,2017
+['Marcus Cooper'],NA,week_15,Chicago Bears,2017
+['Benny Cunningham'],NA,week_15,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_15,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_15,Chicago Bears,2017
+['Eddie Goldman'],Questionable: Hip,week_15,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_15,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_15,Chicago Bears,2017
+['Akiem Hicks'],NA,week_15,Chicago Bears,2017
+['Lamarr Houston'],NA,week_15,Chicago Bears,2017
+['DeAndre Houston-Carson'],Questionable: Ankle,week_15,Chicago Bears,2017
+['Jordan Howard'],NA,week_15,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_15,Chicago Bears,2017
+['Isaiah Irving'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Christian Jones'],NA,week_15,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_15,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_15,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_15,Chicago Bears,2017
+['Kyle Long'],Injured Reserve: Shoulder,week_15,Chicago Bears,2017
+['Bobby Massie'],NA,week_15,Chicago Bears,2017
+['Sherrick McManis'],NA,week_15,Chicago Bears,2017
+['Pernell McPhee'],NA,week_15,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Chris Prosinski'],NA,week_15,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_15,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_15,Chicago Bears,2017
+['Mark Sanchez'],NA,week_15,Chicago Bears,2017
+['Cairo Santos'],Injured Reserve: Groin,week_15,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Adam Shaheen'],Questionable: Chest,week_15,Chicago Bears,2017
+['Dion Sims'],NA,week_15,Chicago Bears,2017
+['Josh Sitton'],NA,week_15,Chicago Bears,2017
+['John Timu'],NA,week_15,Chicago Bears,2017
+['Danny Trevathan'],NA,week_15,Chicago Bears,2017
+['Mitch Unrein'],Injured Reserve: Knee,week_15,Chicago Bears,2017
+['Markus Wheaton'],NA,week_15,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_15,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_15,Chicago Bears,2017
+['Adrian Amos'],NA,week_16,Chicago Bears,2017
+['Prince Amukamara'],NA,week_16,Chicago Bears,2017
+['Josh Bellamy'],NA,week_16,Chicago Bears,2017
+['Deon Bush'],NA,week_16,Chicago Bears,2017
+['Bryce Callahan'],NA,week_16,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_16,Chicago Bears,2017
+['Tom Compton'],Questionable: Concussion,week_16,Chicago Bears,2017
+['Marcus Cooper'],NA,week_16,Chicago Bears,2017
+['Benny Cunningham'],NA,week_16,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_16,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_16,Chicago Bears,2017
+['Eddie Goldman'],NA,week_16,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_16,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_16,Chicago Bears,2017
+['Akiem Hicks'],NA,week_16,Chicago Bears,2017
+['Lamarr Houston'],NA,week_16,Chicago Bears,2017
+['DeAndre Houston-Carson'],NA,week_16,Chicago Bears,2017
+['Jordan Howard'],NA,week_16,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_16,Chicago Bears,2017
+['Isaiah Irving'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Christian Jones'],NA,week_16,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_16,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_16,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_16,Chicago Bears,2017
+['Kyle Long'],Injured Reserve: Shoulder,week_16,Chicago Bears,2017
+['Bobby Massie'],NA,week_16,Chicago Bears,2017
+['Sherrick McManis'],NA,week_16,Chicago Bears,2017
+['Pernell McPhee'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Chris Prosinski'],Questionable: Concussion,week_16,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_16,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_16,Chicago Bears,2017
+['Mark Sanchez'],NA,week_16,Chicago Bears,2017
+['Cairo Santos'],Injured Reserve: Groin,week_16,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Adam Shaheen'],Questionable: Chest,week_16,Chicago Bears,2017
+['Dion Sims'],NA,week_16,Chicago Bears,2017
+['Josh Sitton'],Doubtful: Ankle,week_16,Chicago Bears,2017
+['John Timu'],NA,week_16,Chicago Bears,2017
+['Danny Trevathan'],NA,week_16,Chicago Bears,2017
+['Mitch Unrein'],Injured Reserve: Knee,week_16,Chicago Bears,2017
+['Markus Wheaton'],NA,week_16,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_16,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_16,Chicago Bears,2017
+['Adrian Amos'],NA,week_17,Chicago Bears,2017
+['Prince Amukamara'],NA,week_17,Chicago Bears,2017
+['Josh Bellamy'],NA,week_17,Chicago Bears,2017
+['Deon Bush'],NA,week_17,Chicago Bears,2017
+['Bryce Callahan'],NA,week_17,Chicago Bears,2017
+"[""Ka'Deem Carey""]",Injured Reserve: Wrist,week_17,Chicago Bears,2017
+['Tom Compton'],NA,week_17,Chicago Bears,2017
+['Marcus Cooper'],NA,week_17,Chicago Bears,2017
+['Benny Cunningham'],NA,week_17,Chicago Bears,2017
+['Quintin Demps'],Injured Reserve: Arm,week_17,Chicago Bears,2017
+['Leonard Floyd'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Jerrell Freeman'],Injured Reserve: Concussion,week_17,Chicago Bears,2017
+['Eddie Goldman'],NA,week_17,Chicago Bears,2017
+['Hroniss Grasu'],NA,week_17,Chicago Bears,2017
+"[""Deiondre' Hall""]",Injured Reserve: Hamstring,week_17,Chicago Bears,2017
+['Akiem Hicks'],NA,week_17,Chicago Bears,2017
+['Lamarr Houston'],NA,week_17,Chicago Bears,2017
+['DeAndre Houston-Carson'],Questionable: Back,week_17,Chicago Bears,2017
+['Jordan Howard'],NA,week_17,Chicago Bears,2017
+['Dontrelle Inman'],NA,week_17,Chicago Bears,2017
+['Isaiah Irving'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Christian Jones'],NA,week_17,Chicago Bears,2017
+['Eric Kush'],Injured Reserve: Hamstring,week_17,Chicago Bears,2017
+['Nick Kwiatkoski'],NA,week_17,Chicago Bears,2017
+"[""Cre'von LeBlanc""]",NA,week_17,Chicago Bears,2017
+['Kyle Long'],Injured Reserve: Shoulder,week_17,Chicago Bears,2017
+['Bobby Massie'],Doubtful: Knee,week_17,Chicago Bears,2017
+['Sherrick McManis'],NA,week_17,Chicago Bears,2017
+['Pernell McPhee'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Cameron Meredith'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Zach Miller'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Chris Prosinski'],Injured Reserve: Concussion,week_17,Chicago Bears,2017
+['Rueben Randle'],Injured Reserve: Hamstring,week_17,Chicago Bears,2017
+['Roy Robertson-Harris'],NA,week_17,Chicago Bears,2017
+['Mark Sanchez'],NA,week_17,Chicago Bears,2017
+['Cairo Santos'],Injured Reserve: Groin,week_17,Chicago Bears,2017
+['Patrick Scales'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Adam Shaheen'],Questionable: Chest,week_17,Chicago Bears,2017
+['Dion Sims'],NA,week_17,Chicago Bears,2017
+['Josh Sitton'],Doubtful: Ankle,week_17,Chicago Bears,2017
+['John Timu'],NA,week_17,Chicago Bears,2017
+['Danny Trevathan'],NA,week_17,Chicago Bears,2017
+['Mitch Unrein'],Injured Reserve: Knee,week_17,Chicago Bears,2017
+['Markus Wheaton'],NA,week_17,Chicago Bears,2017
+['Kevin White'],Injured Reserve: Shoulder,week_17,Chicago Bears,2017
+['Willie Young'],Injured Reserve: Tricep,week_17,Chicago Bears,2017

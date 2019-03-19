@@ -1,0 +1,829 @@
+﻿name,injury,week,team,year
+['Stephone Anthony'],Questionable: Ankle,week_1,New Orleans Saints,2017
+['Alex Anzalone'],NA,week_1,New Orleans Saints,2017
+['Terron Armstead'],Out: Shoulder,week_1,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_1,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_1,New Orleans Saints,2017
+['Ken Crawley'],NA,week_1,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_1,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_1,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_1,New Orleans Saints,2017
+['Coby Fleener'],NA,week_1,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Ted Ginn'],NA,week_1,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_1,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Ben Heeney'],NA,week_1,New Orleans Saints,2017
+['Taysom Hill'],NA,week_1,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_1,New Orleans Saints,2017
+['John Hughes'],NA,week_1,New Orleans Saints,2017
+['Mark Ingram'],NA,week_1,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_1,New Orleans Saints,2017
+['A.J. Klein'],NA,week_1,New Orleans Saints,2017
+['John Kuhn'],NA,week_1,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_1,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_1,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_1,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_1,New Orleans Saints,2017
+['Mitchell Loewen'],NA,week_1,New Orleans Saints,2017
+['Michael Mauti'],NA,week_1,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_1,New Orleans Saints,2017
+['Sterling Moore'],NA,week_1,New Orleans Saints,2017
+['Alex Okafor'],NA,week_1,New Orleans Saints,2017
+['David Parry'],NA,week_1,New Orleans Saints,2017
+['Andrus Peat'],NA,week_1,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_1,New Orleans Saints,2017
+['Willie Snead'],NA,week_1,New Orleans Saints,2017
+['Zach Strief'],NA,week_1,New Orleans Saints,2017
+['Nathan Stupar'],NA,week_1,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_1,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_1,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Larry Warford'],NA,week_1,New Orleans Saints,2017
+['Marcus Williams'],NA,week_1,New Orleans Saints,2017
+['P.J. Williams'],NA,week_1,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_1,New Orleans Saints,2017
+['Stephone Anthony'],Questionable: Ankle,week_2,New Orleans Saints,2017
+['Alex Anzalone'],NA,week_2,New Orleans Saints,2017
+['Terron Armstead'],Out: Shoulder,week_2,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_2,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_2,New Orleans Saints,2017
+['Ken Crawley'],NA,week_2,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_2,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_2,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_2,New Orleans Saints,2017
+['Coby Fleener'],NA,week_2,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Ted Ginn'],NA,week_2,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_2,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Ben Heeney'],NA,week_2,New Orleans Saints,2017
+['Taysom Hill'],NA,week_2,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_2,New Orleans Saints,2017
+['John Hughes'],NA,week_2,New Orleans Saints,2017
+['Mark Ingram'],NA,week_2,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_2,New Orleans Saints,2017
+['A.J. Klein'],NA,week_2,New Orleans Saints,2017
+['John Kuhn'],NA,week_2,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_2,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_2,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_2,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_2,New Orleans Saints,2017
+['Mitchell Loewen'],NA,week_2,New Orleans Saints,2017
+['Michael Mauti'],NA,week_2,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_2,New Orleans Saints,2017
+['Sterling Moore'],NA,week_2,New Orleans Saints,2017
+['Alex Okafor'],NA,week_2,New Orleans Saints,2017
+['David Parry'],NA,week_2,New Orleans Saints,2017
+['Andrus Peat'],NA,week_2,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_2,New Orleans Saints,2017
+['Willie Snead'],NA,week_2,New Orleans Saints,2017
+['Zach Strief'],Out: Knee,week_2,New Orleans Saints,2017
+['Nathan Stupar'],NA,week_2,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_2,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_2,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Larry Warford'],NA,week_2,New Orleans Saints,2017
+['Marcus Williams'],NA,week_2,New Orleans Saints,2017
+['P.J. Williams'],NA,week_2,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_2,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_3,New Orleans Saints,2017
+['Alex Anzalone'],NA,week_3,New Orleans Saints,2017
+['Terron Armstead'],Out: Shoulder,week_3,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_3,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_3,New Orleans Saints,2017
+['Ken Crawley'],NA,week_3,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_3,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_3,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_3,New Orleans Saints,2017
+['Coby Fleener'],NA,week_3,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Ted Ginn'],NA,week_3,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_3,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Ben Heeney'],NA,week_3,New Orleans Saints,2017
+['Taysom Hill'],NA,week_3,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_3,New Orleans Saints,2017
+['John Hughes'],NA,week_3,New Orleans Saints,2017
+['Mark Ingram'],NA,week_3,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_3,New Orleans Saints,2017
+['A.J. Klein'],NA,week_3,New Orleans Saints,2017
+['John Kuhn'],NA,week_3,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_3,New Orleans Saints,2017
+['Marshon Lattimore'],Out: Concussion,week_3,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_3,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_3,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_3,New Orleans Saints,2017
+['Michael Mauti'],NA,week_3,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_3,New Orleans Saints,2017
+['Sterling Moore'],Out: Chest,week_3,New Orleans Saints,2017
+['Alex Okafor'],NA,week_3,New Orleans Saints,2017
+['David Parry'],NA,week_3,New Orleans Saints,2017
+['Andrus Peat'],NA,week_3,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_3,New Orleans Saints,2017
+['Willie Snead'],NA,week_3,New Orleans Saints,2017
+['Zach Strief'],Out: Knee,week_3,New Orleans Saints,2017
+['Nathan Stupar'],NA,week_3,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_3,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_3,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Larry Warford'],NA,week_3,New Orleans Saints,2017
+['Marcus Williams'],NA,week_3,New Orleans Saints,2017
+['P.J. Williams'],NA,week_3,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_3,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_4,New Orleans Saints,2017
+['Alex Anzalone'],NA,week_4,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Shoulder,week_4,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_4,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_4,New Orleans Saints,2017
+['Ken Crawley'],NA,week_4,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_4,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_4,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_4,New Orleans Saints,2017
+['Coby Fleener'],NA,week_4,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Ted Ginn'],NA,week_4,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_4,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Ben Heeney'],Out: Knee,week_4,New Orleans Saints,2017
+['Taysom Hill'],NA,week_4,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_4,New Orleans Saints,2017
+['John Hughes'],NA,week_4,New Orleans Saints,2017
+['Mark Ingram'],NA,week_4,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_4,New Orleans Saints,2017
+['A.J. Klein'],NA,week_4,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_4,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_4,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_4,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_4,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_4,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_4,New Orleans Saints,2017
+['Michael Mauti'],NA,week_4,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_4,New Orleans Saints,2017
+['Sterling Moore'],Questionable: Chest,week_4,New Orleans Saints,2017
+['Alex Okafor'],NA,week_4,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_4,New Orleans Saints,2017
+['Andrus Peat'],NA,week_4,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_4,New Orleans Saints,2017
+['Willie Snead'],Questionable: Hamstring,week_4,New Orleans Saints,2017
+['Zach Strief'],Questionable: Knee,week_4,New Orleans Saints,2017
+['Nathan Stupar'],NA,week_4,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_4,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_4,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Larry Warford'],NA,week_4,New Orleans Saints,2017
+['Marcus Williams'],NA,week_4,New Orleans Saints,2017
+['P.J. Williams'],NA,week_4,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_4,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_6,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_6,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Shoulder,week_6,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_6,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_6,New Orleans Saints,2017
+['Ken Crawley'],NA,week_6,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_6,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_6,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_6,New Orleans Saints,2017
+['Coby Fleener'],NA,week_6,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Ted Ginn'],NA,week_6,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_6,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Ben Heeney'],NA,week_6,New Orleans Saints,2017
+['Taysom Hill'],NA,week_6,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_6,New Orleans Saints,2017
+['John Hughes'],NA,week_6,New Orleans Saints,2017
+['Mark Ingram'],NA,week_6,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_6,New Orleans Saints,2017
+['A.J. Klein'],NA,week_6,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_6,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_6,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_6,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_6,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_6,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_6,New Orleans Saints,2017
+['Michael Mauti'],NA,week_6,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_6,New Orleans Saints,2017
+['Sterling Moore'],NA,week_6,New Orleans Saints,2017
+['Alex Okafor'],NA,week_6,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_6,New Orleans Saints,2017
+['Andrus Peat'],Questionable: Hip,week_6,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_6,New Orleans Saints,2017
+['Willie Snead'],Questionable: Hamstring,week_6,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_6,New Orleans Saints,2017
+['Nathan Stupar'],NA,week_6,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_6,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_6,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Larry Warford'],NA,week_6,New Orleans Saints,2017
+['Marcus Williams'],NA,week_6,New Orleans Saints,2017
+['P.J. Williams'],NA,week_6,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_6,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_7,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_7,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Shoulder,week_7,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_7,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_7,New Orleans Saints,2017
+['Ken Crawley'],NA,week_7,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_7,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_7,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_7,New Orleans Saints,2017
+['Coby Fleener'],NA,week_7,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Ted Ginn'],NA,week_7,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_7,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Ben Heeney'],NA,week_7,New Orleans Saints,2017
+['Taysom Hill'],NA,week_7,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_7,New Orleans Saints,2017
+['John Hughes'],NA,week_7,New Orleans Saints,2017
+['Mark Ingram'],NA,week_7,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_7,New Orleans Saints,2017
+['A.J. Klein'],NA,week_7,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_7,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_7,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_7,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_7,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_7,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_7,New Orleans Saints,2017
+['Michael Mauti'],NA,week_7,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_7,New Orleans Saints,2017
+['Sterling Moore'],NA,week_7,New Orleans Saints,2017
+['Alex Okafor'],NA,week_7,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_7,New Orleans Saints,2017
+['Andrus Peat'],NA,week_7,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_7,New Orleans Saints,2017
+['Willie Snead'],Questionable: Hamstring,week_7,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_7,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_7,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_7,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_7,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Larry Warford'],NA,week_7,New Orleans Saints,2017
+['Marcus Williams'],NA,week_7,New Orleans Saints,2017
+['P.J. Williams'],NA,week_7,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_7,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_8,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_8,New Orleans Saints,2017
+['Terron Armstead'],NA,week_8,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_8,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_8,New Orleans Saints,2017
+['Ken Crawley'],NA,week_8,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_8,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_8,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_8,New Orleans Saints,2017
+['Coby Fleener'],NA,week_8,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Ted Ginn'],NA,week_8,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_8,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Ben Heeney'],NA,week_8,New Orleans Saints,2017
+['Taysom Hill'],NA,week_8,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_8,New Orleans Saints,2017
+['John Hughes'],NA,week_8,New Orleans Saints,2017
+['Mark Ingram'],NA,week_8,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_8,New Orleans Saints,2017
+['A.J. Klein'],NA,week_8,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_8,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_8,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_8,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_8,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_8,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_8,New Orleans Saints,2017
+['Michael Mauti'],NA,week_8,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_8,New Orleans Saints,2017
+['Sterling Moore'],NA,week_8,New Orleans Saints,2017
+['Alex Okafor'],NA,week_8,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_8,New Orleans Saints,2017
+['Andrus Peat'],NA,week_8,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_8,New Orleans Saints,2017
+['Willie Snead'],NA,week_8,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_8,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_8,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_8,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_8,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Larry Warford'],Out: Abdomen,week_8,New Orleans Saints,2017
+['Marcus Williams'],NA,week_8,New Orleans Saints,2017
+['P.J. Williams'],NA,week_8,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_8,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_9,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_9,New Orleans Saints,2017
+['Terron Armstead'],NA,week_9,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_9,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_9,New Orleans Saints,2017
+['Ken Crawley'],NA,week_9,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_9,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_9,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_9,New Orleans Saints,2017
+['Coby Fleener'],NA,week_9,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Ted Ginn'],NA,week_9,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_9,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Ben Heeney'],NA,week_9,New Orleans Saints,2017
+['Taysom Hill'],NA,week_9,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_9,New Orleans Saints,2017
+['John Hughes'],NA,week_9,New Orleans Saints,2017
+['Mark Ingram'],NA,week_9,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_9,New Orleans Saints,2017
+['A.J. Klein'],NA,week_9,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_9,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_9,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_9,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_9,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_9,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_9,New Orleans Saints,2017
+['Michael Mauti'],NA,week_9,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_9,New Orleans Saints,2017
+['Sterling Moore'],NA,week_9,New Orleans Saints,2017
+['Alex Okafor'],NA,week_9,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_9,New Orleans Saints,2017
+['Andrus Peat'],NA,week_9,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_9,New Orleans Saints,2017
+['Willie Snead'],NA,week_9,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_9,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_9,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_9,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_9,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Larry Warford'],Out: Abdomen,week_9,New Orleans Saints,2017
+['Marcus Williams'],NA,week_9,New Orleans Saints,2017
+['P.J. Williams'],NA,week_9,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_9,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_10,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_10,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Chest,week_10,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_10,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_10,New Orleans Saints,2017
+['Ken Crawley'],NA,week_10,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_10,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_10,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_10,New Orleans Saints,2017
+['Coby Fleener'],NA,week_10,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Ted Ginn'],NA,week_10,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_10,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Ben Heeney'],NA,week_10,New Orleans Saints,2017
+['Taysom Hill'],NA,week_10,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_10,New Orleans Saints,2017
+['John Hughes'],NA,week_10,New Orleans Saints,2017
+['Mark Ingram'],NA,week_10,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_10,New Orleans Saints,2017
+['A.J. Klein'],NA,week_10,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_10,New Orleans Saints,2017
+['Daniel Lasco'],NA,week_10,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_10,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_10,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_10,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_10,New Orleans Saints,2017
+['Michael Mauti'],NA,week_10,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_10,New Orleans Saints,2017
+['Sterling Moore'],NA,week_10,New Orleans Saints,2017
+['Alex Okafor'],NA,week_10,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_10,New Orleans Saints,2017
+['Andrus Peat'],NA,week_10,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_10,New Orleans Saints,2017
+['Willie Snead'],NA,week_10,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_10,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_10,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_10,New Orleans Saints,2017
+['Kenny Vaccaro'],Out: Groin,week_10,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Larry Warford'],Questionable: Abdomen,week_10,New Orleans Saints,2017
+['Marcus Williams'],NA,week_10,New Orleans Saints,2017
+['P.J. Williams'],NA,week_10,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_10,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_11,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_11,New Orleans Saints,2017
+['Terron Armstead'],NA,week_11,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_11,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_11,New Orleans Saints,2017
+['Ken Crawley'],NA,week_11,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_11,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_11,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_11,New Orleans Saints,2017
+['Coby Fleener'],NA,week_11,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Ted Ginn'],NA,week_11,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_11,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Ben Heeney'],NA,week_11,New Orleans Saints,2017
+['Taysom Hill'],NA,week_11,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_11,New Orleans Saints,2017
+['John Hughes'],NA,week_11,New Orleans Saints,2017
+['Mark Ingram'],NA,week_11,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_11,New Orleans Saints,2017
+['A.J. Klein'],Questionable: Ankle,week_11,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_11,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_11,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_11,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_11,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_11,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_11,New Orleans Saints,2017
+['Michael Mauti'],NA,week_11,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_11,New Orleans Saints,2017
+['Sterling Moore'],NA,week_11,New Orleans Saints,2017
+['Alex Okafor'],NA,week_11,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_11,New Orleans Saints,2017
+['Andrus Peat'],NA,week_11,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_11,New Orleans Saints,2017
+['Willie Snead'],NA,week_11,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_11,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_11,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_11,New Orleans Saints,2017
+['Kenny Vaccaro'],Questionable: Groin,week_11,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Larry Warford'],NA,week_11,New Orleans Saints,2017
+['Marcus Williams'],NA,week_11,New Orleans Saints,2017
+['P.J. Williams'],NA,week_11,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_11,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_12,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_12,New Orleans Saints,2017
+['Terron Armstead'],NA,week_12,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_12,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_12,New Orleans Saints,2017
+['Ken Crawley'],Out: Abdomen,week_12,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_12,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_12,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_12,New Orleans Saints,2017
+['Coby Fleener'],NA,week_12,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Ted Ginn'],NA,week_12,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_12,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Ben Heeney'],NA,week_12,New Orleans Saints,2017
+['Taysom Hill'],NA,week_12,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_12,New Orleans Saints,2017
+['John Hughes'],NA,week_12,New Orleans Saints,2017
+['Mark Ingram'],NA,week_12,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_12,New Orleans Saints,2017
+['A.J. Klein'],NA,week_12,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_12,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_12,New Orleans Saints,2017
+['Marshon Lattimore'],Out: Ankle,week_12,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_12,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_12,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_12,New Orleans Saints,2017
+['Michael Mauti'],NA,week_12,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_12,New Orleans Saints,2017
+['Sterling Moore'],NA,week_12,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_12,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_12,New Orleans Saints,2017
+['Andrus Peat'],NA,week_12,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_12,New Orleans Saints,2017
+['Willie Snead'],NA,week_12,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_12,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_12,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_12,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_12,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Larry Warford'],NA,week_12,New Orleans Saints,2017
+['Marcus Williams'],NA,week_12,New Orleans Saints,2017
+['P.J. Williams'],NA,week_12,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_12,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_13,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_13,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Thigh,week_13,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_13,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_13,New Orleans Saints,2017
+['Ken Crawley'],NA,week_13,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_13,New Orleans Saints,2017
+['Dannell Ellerbe'],NA,week_13,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_13,New Orleans Saints,2017
+['Coby Fleener'],Out: Concussion,week_13,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Ted Ginn'],NA,week_13,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_13,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Ben Heeney'],NA,week_13,New Orleans Saints,2017
+['Taysom Hill'],NA,week_13,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_13,New Orleans Saints,2017
+['John Hughes'],NA,week_13,New Orleans Saints,2017
+['Mark Ingram'],NA,week_13,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_13,New Orleans Saints,2017
+['A.J. Klein'],NA,week_13,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_13,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_13,New Orleans Saints,2017
+['Marshon Lattimore'],Questionable: Ankle,week_13,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_13,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_13,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_13,New Orleans Saints,2017
+['Michael Mauti'],NA,week_13,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_13,New Orleans Saints,2017
+['Sterling Moore'],NA,week_13,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_13,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_13,New Orleans Saints,2017
+['Andrus Peat'],NA,week_13,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_13,New Orleans Saints,2017
+['Willie Snead'],NA,week_13,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_13,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_13,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_13,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_13,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Larry Warford'],NA,week_13,New Orleans Saints,2017
+['Marcus Williams'],Out: Groin,week_13,New Orleans Saints,2017
+['P.J. Williams'],Questionable: Shoulder,week_13,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_13,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_14,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_14,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Thigh,week_14,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_14,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_14,New Orleans Saints,2017
+['Ken Crawley'],NA,week_14,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_14,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_14,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_14,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_14,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Ted Ginn'],NA,week_14,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_14,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Ben Heeney'],NA,week_14,New Orleans Saints,2017
+['Taysom Hill'],NA,week_14,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_14,New Orleans Saints,2017
+['John Hughes'],NA,week_14,New Orleans Saints,2017
+['Mark Ingram'],Questionable: Toe,week_14,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_14,New Orleans Saints,2017
+['A.J. Klein'],NA,week_14,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_14,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_14,New Orleans Saints,2017
+['Marshon Lattimore'],Questionable: Ankle,week_14,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_14,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_14,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_14,New Orleans Saints,2017
+['Michael Mauti'],NA,week_14,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_14,New Orleans Saints,2017
+['Sterling Moore'],NA,week_14,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_14,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_14,New Orleans Saints,2017
+['Andrus Peat'],Out: Groin,week_14,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_14,New Orleans Saints,2017
+['Willie Snead'],NA,week_14,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_14,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_14,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_14,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_14,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Larry Warford'],NA,week_14,New Orleans Saints,2017
+['Marcus Williams'],Questionable: Groin,week_14,New Orleans Saints,2017
+['P.J. Williams'],NA,week_14,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_14,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_15,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_15,New Orleans Saints,2017
+['Terron Armstead'],NA,week_15,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2017
+['Bryan Braman'],NA,week_15,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_15,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_15,New Orleans Saints,2017
+['Ken Crawley'],NA,week_15,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_15,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_15,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_15,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_15,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2017
+['Ted Ginn'],Questionable: Rib,week_15,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_15,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2017
+['Ben Heeney'],NA,week_15,New Orleans Saints,2017
+['Taysom Hill'],NA,week_15,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_15,New Orleans Saints,2017
+['John Hughes'],NA,week_15,New Orleans Saints,2017
+['Mark Ingram'],NA,week_15,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_15,New Orleans Saints,2017
+['A.J. Klein'],Injured Reserve: Groin,week_15,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_15,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_15,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_15,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_15,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_15,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_15,New Orleans Saints,2017
+['Michael Mauti'],NA,week_15,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_15,New Orleans Saints,2017
+['Sterling Moore'],NA,week_15,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_15,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_15,New Orleans Saints,2017
+['Andrus Peat'],Questionable: Groin,week_15,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_15,New Orleans Saints,2017
+['Willie Snead'],NA,week_15,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_15,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_15,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_15,New Orleans Saints,2017
+['Kenny Vaccaro'],NA,week_15,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2017
+['Larry Warford'],NA,week_15,New Orleans Saints,2017
+['Marcus Williams'],NA,week_15,New Orleans Saints,2017
+['P.J. Williams'],NA,week_15,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_15,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_16,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_16,New Orleans Saints,2017
+['Terron Armstead'],NA,week_16,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_16,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_16,New Orleans Saints,2017
+['Ken Crawley'],NA,week_16,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_16,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_16,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_16,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_16,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Ted Ginn'],NA,week_16,New Orleans Saints,2017
+['Garrett Griffin'],Out: Foot,week_16,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Ben Heeney'],NA,week_16,New Orleans Saints,2017
+['Taysom Hill'],NA,week_16,New Orleans Saints,2017
+['Michael Hoomanawanui'],Out: Concussion,week_16,New Orleans Saints,2017
+['John Hughes'],NA,week_16,New Orleans Saints,2017
+['Mark Ingram'],NA,week_16,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",NA,week_16,New Orleans Saints,2017
+['A.J. Klein'],Injured Reserve: Groin,week_16,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_16,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_16,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_16,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_16,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_16,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_16,New Orleans Saints,2017
+['Michael Mauti'],NA,week_16,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_16,New Orleans Saints,2017
+['Sterling Moore'],NA,week_16,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_16,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_16,New Orleans Saints,2017
+['Andrus Peat'],NA,week_16,New Orleans Saints,2017
+['John Phillips'],NA,week_16,New Orleans Saints,2017
+['Willie Snead'],NA,week_16,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_16,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_16,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_16,New Orleans Saints,2017
+['Kenny Vaccaro'],Injured Reserve: Wrist,week_16,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Larry Warford'],NA,week_16,New Orleans Saints,2017
+['Marcus Williams'],NA,week_16,New Orleans Saints,2017
+['P.J. Williams'],NA,week_16,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_16,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_17,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_17,New Orleans Saints,2017
+['Terron Armstead'],Out: Thigh,week_17,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2017
+['Bryan Braman'],NA,week_17,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_17,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_17,New Orleans Saints,2017
+['Ken Crawley'],NA,week_17,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_17,New Orleans Saints,2017
+['Dannell Ellerbe'],NA,week_17,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_17,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_17,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2017
+['Ted Ginn'],NA,week_17,New Orleans Saints,2017
+['Garrett Griffin'],NA,week_17,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2017
+['Ben Heeney'],NA,week_17,New Orleans Saints,2017
+['Taysom Hill'],NA,week_17,New Orleans Saints,2017
+['Michael Hoomanawanui'],Out: Concussion,week_17,New Orleans Saints,2017
+['John Hughes'],Injured Reserve: Bicep,week_17,New Orleans Saints,2017
+['Mark Ingram'],NA,week_17,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",Injured Reserve: Ankle,week_17,New Orleans Saints,2017
+['A.J. Klein'],Injured Reserve: Groin,week_17,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_17,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_17,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_17,New Orleans Saints,2017
+['Demarcus Lawrence'],NA,week_17,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_17,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_17,New Orleans Saints,2017
+['Michael Mauti'],NA,week_17,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_17,New Orleans Saints,2017
+['Sterling Moore'],NA,week_17,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_17,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_17,New Orleans Saints,2017
+['Andrus Peat'],NA,week_17,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_17,New Orleans Saints,2017
+['Willie Snead'],NA,week_17,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_17,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_17,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_17,New Orleans Saints,2017
+['Kenny Vaccaro'],Injured Reserve: Wrist,week_17,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2017
+['Larry Warford'],NA,week_17,New Orleans Saints,2017
+['Marcus Williams'],NA,week_17,New Orleans Saints,2017
+['P.J. Williams'],NA,week_17,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_17,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_18,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_18,New Orleans Saints,2017
+['Terron Armstead'],Questionable: Thigh,week_18,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_18,New Orleans Saints,2017
+['Brandon Coleman'],NA,week_18,New Orleans Saints,2017
+['Ken Crawley'],NA,week_18,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_18,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_18,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_18,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_18,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Ted Ginn'],NA,week_18,New Orleans Saints,2017
+['Garrett Griffin'],Injured Reserve: Foot,week_18,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Ben Heeney'],NA,week_18,New Orleans Saints,2017
+['Taysom Hill'],NA,week_18,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_18,New Orleans Saints,2017
+['John Hughes'],Injured Reserve: Bicep,week_18,New Orleans Saints,2017
+['Mark Ingram'],NA,week_18,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",Injured Reserve: Ankle,week_18,New Orleans Saints,2017
+['A.J. Klein'],Injured Reserve: Groin,week_18,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_18,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_18,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_18,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_18,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_18,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_18,New Orleans Saints,2017
+['Michael Mauti'],NA,week_18,New Orleans Saints,2017
+['Tony McDaniel'],NA,week_18,New Orleans Saints,2017
+['Sterling Moore'],NA,week_18,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_18,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_18,New Orleans Saints,2017
+['Andrus Peat'],NA,week_18,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_18,New Orleans Saints,2017
+['Willie Snead'],NA,week_18,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_18,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_18,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_18,New Orleans Saints,2017
+['Kenny Vaccaro'],Injured Reserve: Wrist,week_18,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Larry Warford'],NA,week_18,New Orleans Saints,2017
+['Marcus Williams'],NA,week_18,New Orleans Saints,2017
+['P.J. Williams'],NA,week_18,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_18,New Orleans Saints,2017
+['Stephone Anthony'],NA,week_19,New Orleans Saints,2017
+['Alex Anzalone'],Injured Reserve: Shoulder,week_19,New Orleans Saints,2017
+['Terron Armstead'],NA,week_19,New Orleans Saints,2017
+['Dan Arnold'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017
+['Bryan Braman'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017
+['Delvin Breaux'],Injured Reserve: Leg,week_19,New Orleans Saints,2017
+['Brandon Coleman'],Out: Neck,week_19,New Orleans Saints,2017
+['Ken Crawley'],NA,week_19,New Orleans Saints,2017
+['Jon Dorenbos'],Injured Reserve: Heart,week_19,New Orleans Saints,2017
+['Dannell Ellerbe'],Injured Reserve: Foot,week_19,New Orleans Saints,2017
+['Nick Fairley'],Injured Reserve: Heart,week_19,New Orleans Saints,2017
+['Coby Fleener'],Injured Reserve: Concussion,week_19,New Orleans Saints,2017
+['Corey Fuller'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017
+['Ted Ginn'],NA,week_19,New Orleans Saints,2017
+['Garrett Griffin'],Injured Reserve: Foot,week_19,New Orleans Saints,2017
+['Clay Harbor'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017
+['Ben Heeney'],NA,week_19,New Orleans Saints,2017
+['Taysom Hill'],Questionable: Illness,week_19,New Orleans Saints,2017
+['Michael Hoomanawanui'],NA,week_19,New Orleans Saints,2017
+['John Hughes'],Injured Reserve: Bicep,week_19,New Orleans Saints,2017
+['Mark Ingram'],NA,week_19,New Orleans Saints,2017
+"[""Hau'oli Kikaha""]",Injured Reserve: Ankle,week_19,New Orleans Saints,2017
+['A.J. Klein'],Injured Reserve: Groin,week_19,New Orleans Saints,2017
+['John Kuhn'],Injured Reserve: Bicep,week_19,New Orleans Saints,2017
+['Daniel Lasco'],Injured Reserve: Spine,week_19,New Orleans Saints,2017
+['Marshon Lattimore'],NA,week_19,New Orleans Saints,2017
+['Demarcus Lawrence'],Injured Reserve: Knee,week_19,New Orleans Saints,2017
+['Devaroe Lawrence'],Injured Reserve: Knee,week_19,New Orleans Saints,2017
+['Mitchell Loewen'],Injured Reserve: Ankle,week_19,New Orleans Saints,2017
+['Michael Mauti'],Questionable: Illness,week_19,New Orleans Saints,2017
+['Tony McDaniel'],Injured Reserve: Leg,week_19,New Orleans Saints,2017
+['Sterling Moore'],NA,week_19,New Orleans Saints,2017
+['Alex Okafor'],Injured Reserve: Achilles,week_19,New Orleans Saints,2017
+['David Parry'],Injured Reserve: Ankle,week_19,New Orleans Saints,2017
+['Andrus Peat'],Injured Reserve: Shin,week_19,New Orleans Saints,2017
+['John Phillips'],Injured Reserve: Appendix,week_19,New Orleans Saints,2017
+['Willie Snead'],NA,week_19,New Orleans Saints,2017
+['Zach Strief'],Injured Reserve: Knee,week_19,New Orleans Saints,2017
+['Nathan Stupar'],Injured Reserve: Knee,week_19,New Orleans Saints,2017
+['Damian Swann'],Injured Reserve: Conditioning,week_19,New Orleans Saints,2017
+['Kenny Vaccaro'],Injured Reserve: Wrist,week_19,New Orleans Saints,2017
+['Martin Wallace'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017
+['Larry Warford'],NA,week_19,New Orleans Saints,2017
+['Marcus Williams'],NA,week_19,New Orleans Saints,2017
+['P.J. Williams'],NA,week_19,New Orleans Saints,2017
+['Jordan Williams-Lambert'],Injured Reserve: Undisclosed,week_19,New Orleans Saints,2017

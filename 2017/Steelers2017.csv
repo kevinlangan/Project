@@ -1,0 +1,460 @@
+﻿name,injury,week,team,year
+['Keion Adams'],Injured Reserve: Shoulder,week_1,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_1,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_1,Pittsburgh Steelers,2017
+['James Conner'],NA,week_1,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_1,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_1,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_1,Pittsburgh Steelers,2017
+['Bud Dupree'],Questionable: Shoulder,week_1,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_1,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_1,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_1,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_1,Pittsburgh Steelers,2017
+['Jerald Hawkins'],Out: Knee,week_1,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_1,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_1,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_1,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_1,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_1,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_1,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_1,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_1,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_1,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_1,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_1,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_1,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_1,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_1,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_2,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_2,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_2,Pittsburgh Steelers,2017
+['James Conner'],NA,week_2,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_2,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_2,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_2,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_2,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_2,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_2,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_2,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_2,Pittsburgh Steelers,2017
+['Jerald Hawkins'],Out: Knee,week_2,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_2,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_2,Pittsburgh Steelers,2017
+['Vance McDonald'],Questionable: Back,week_2,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_2,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_2,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_2,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_2,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_2,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_2,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_2,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_2,Pittsburgh Steelers,2017
+['Stephon Tuitt'],Questionable: Biceps,week_2,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_2,Pittsburgh Steelers,2017
+['J.J. Wilcox'],Questionable: Concussion,week_2,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_3,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_3,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_3,Pittsburgh Steelers,2017
+['James Conner'],NA,week_3,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_3,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_3,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_3,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_3,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_3,Pittsburgh Steelers,2017
+['Marcus Gilbert'],Out: Hamstring,week_3,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_3,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_3,Pittsburgh Steelers,2017
+['Jerald Hawkins'],Questionable: Knee,week_3,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_3,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_3,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_3,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_3,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_3,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_3,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_3,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_3,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_3,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_3,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_3,Pittsburgh Steelers,2017
+['Stephon Tuitt'],Questionable: Biceps,week_3,Pittsburgh Steelers,2017
+['T.J. Watt'],Out: Groin,week_3,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_3,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_4,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_4,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_4,Pittsburgh Steelers,2017
+['James Conner'],NA,week_4,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_4,Pittsburgh Steelers,2017
+['Sean Davis'],Questionable: Ankle,week_4,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_4,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_4,Pittsburgh Steelers,2017
+['Ramon Foster'],Questionable: Thumb,week_4,Pittsburgh Steelers,2017
+['Marcus Gilbert'],Questionable: Hamstring,week_4,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_4,Pittsburgh Steelers,2017
+['James Harrison'],Questionable: Illness,week_4,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_4,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_4,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_4,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_4,Pittsburgh Steelers,2017
+['Mike Mitchell'],Questionable: Hamstring,week_4,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_4,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_4,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_4,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_4,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_4,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_4,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_4,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_4,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_4,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_4,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_5,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_5,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_5,Pittsburgh Steelers,2017
+['James Conner'],NA,week_5,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_5,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_5,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_5,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_5,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_5,Pittsburgh Steelers,2017
+['Marcus Gilbert'],Doubtful: Hamstring,week_5,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_5,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_5,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_5,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_5,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_5,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_5,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_5,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_5,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_5,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_5,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_5,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_5,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_5,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_5,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_5,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_5,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_5,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_6,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_6,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_6,Pittsburgh Steelers,2017
+['James Conner'],NA,week_6,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_6,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_6,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_6,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_6,Pittsburgh Steelers,2017
+['Ramon Foster'],Questionable: Back,week_6,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_6,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_6,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_6,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_6,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_6,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_6,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_6,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_6,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_6,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_6,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_6,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_6,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_6,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_6,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_6,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_6,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_6,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_6,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_7,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_7,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_7,Pittsburgh Steelers,2017
+['James Conner'],NA,week_7,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_7,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_7,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_7,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_7,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_7,Pittsburgh Steelers,2017
+['Marcus Gilbert'],Doubtful: Hamstring,week_7,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_7,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_7,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_7,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_7,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_7,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_7,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_7,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_7,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_7,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_7,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_7,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_7,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_7,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_7,Pittsburgh Steelers,2017
+['Stephon Tuitt'],Out: Back,week_7,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_7,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_7,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_8,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_8,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_8,Pittsburgh Steelers,2017
+['James Conner'],NA,week_8,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_8,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_8,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_8,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_8,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_8,Pittsburgh Steelers,2017
+['Marcus Gilbert'],Out: Hamstring,week_8,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_8,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_8,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_8,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_8,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_8,Pittsburgh Steelers,2017
+['Vance McDonald'],Out: Knee,week_8,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_8,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_8,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_8,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_8,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_8,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_8,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_8,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_8,Pittsburgh Steelers,2017
+['Stephon Tuitt'],Out: Back,week_8,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_8,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_8,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_10,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_10,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_10,Pittsburgh Steelers,2017
+['James Conner'],NA,week_10,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_10,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_10,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_10,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_10,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_10,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_10,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_10,Pittsburgh Steelers,2017
+['James Harrison'],Out: Back,week_10,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_10,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_10,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_10,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_10,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_10,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_10,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_10,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_10,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_10,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_10,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_10,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_10,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_10,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_10,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_10,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_11,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_11,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_11,Pittsburgh Steelers,2017
+['James Conner'],NA,week_11,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_11,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_11,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_11,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_11,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_11,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_11,Pittsburgh Steelers,2017
+['Joe Haden'],Out: Fibula,week_11,Pittsburgh Steelers,2017
+['James Harrison'],Questionable: Back,week_11,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_11,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_11,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_11,Pittsburgh Steelers,2017
+['Vance McDonald'],Questionable: Ankle,week_11,Pittsburgh Steelers,2017
+['Mike Mitchell'],Questionable: Ankle,week_11,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_11,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_11,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_11,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_11,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_11,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_11,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_11,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_11,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_11,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_11,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_12,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_12,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2017
+['James Conner'],NA,week_12,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_12,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_12,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_12,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_12,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_12,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_12,Pittsburgh Steelers,2017
+['Joe Haden'],Out: Fibula,week_12,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_12,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_12,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_12,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_12,Pittsburgh Steelers,2017
+['Vance McDonald'],Out: Ankle,week_12,Pittsburgh Steelers,2017
+['Mike Mitchell'],Questionable: Ankle,week_12,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_12,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_12,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_12,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_12,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],Out: Hamstring,week_12,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_12,Pittsburgh Steelers,2017
+['Cameron Sutton'],Injured Reserve: Hamstring,week_12,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_12,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_12,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_12,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_13,Pittsburgh Steelers,2017
+['Antonio Brown'],Questionable: Toe,week_13,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2017
+['James Conner'],NA,week_13,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_13,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_13,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_13,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_13,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_13,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_13,Pittsburgh Steelers,2017
+['Joe Haden'],Out: Fibula,week_13,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_13,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_13,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_13,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_13,Pittsburgh Steelers,2017
+['Vance McDonald'],Out: Ankle,week_13,Pittsburgh Steelers,2017
+['Mike Mitchell'],Doubtful: Ankle,week_13,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_13,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_13,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_13,Pittsburgh Steelers,2017
+['Ryan Shazier'],NA,week_13,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_13,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_13,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_13,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_13,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_13,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_13,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_14,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_14,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_14,Pittsburgh Steelers,2017
+['James Conner'],NA,week_14,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_14,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_14,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_14,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_14,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_14,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_14,Pittsburgh Steelers,2017
+['Joe Haden'],Out: Fibula,week_14,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_14,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_14,Pittsburgh Steelers,2017
+['Tyler Matakevich'],Out: Shoulder,week_14,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_14,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_14,Pittsburgh Steelers,2017
+['Mike Mitchell'],Questionable: Ankle,week_14,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_14,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_14,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_14,Pittsburgh Steelers,2017
+['Ryan Shazier'],Injured Reserve: Spine,week_14,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_14,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_14,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_14,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_14,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_14,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_14,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_15,Pittsburgh Steelers,2017
+['Antonio Brown'],NA,week_15,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_15,Pittsburgh Steelers,2017
+['James Conner'],NA,week_15,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_15,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_15,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_15,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_15,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_15,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_15,Pittsburgh Steelers,2017
+['Joe Haden'],Questionable: Fibula,week_15,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_15,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_15,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_15,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_15,Pittsburgh Steelers,2017
+['Vance McDonald'],Out: Shoulder,week_15,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_15,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_15,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],Questionable: Shoulder,week_15,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_15,Pittsburgh Steelers,2017
+['Ryan Shazier'],Injured Reserve: Spine,week_15,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],Questionable: Hamstring,week_15,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_15,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_15,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_15,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_15,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_15,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_16,Pittsburgh Steelers,2017
+['Antonio Brown'],Out: Calf,week_16,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2017
+['James Conner'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_16,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_16,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_16,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_16,Pittsburgh Steelers,2017
+['Ramon Foster'],Questionable: Concussion,week_16,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_16,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_16,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_16,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_16,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_16,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_16,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_16,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_16,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_16,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],Questionable: Shoulder,week_16,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_16,Pittsburgh Steelers,2017
+['Ryan Shazier'],Injured Reserve: Spine,week_16,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_16,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_16,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_16,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_16,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_16,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_16,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_17,Pittsburgh Steelers,2017
+['Antonio Brown'],Out: Calf,week_17,Pittsburgh Steelers,2017
+['Sammie Coates'],NA,week_17,Pittsburgh Steelers,2017
+['James Conner'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_17,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_17,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_17,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_17,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_17,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_17,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_17,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_17,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_17,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_17,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_17,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_17,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_17,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],Questionable: Hip,week_17,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_17,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_17,Pittsburgh Steelers,2017
+['Ryan Shazier'],Injured Reserve: Spine,week_17,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_17,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_17,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_17,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_17,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_17,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_17,Pittsburgh Steelers,2017
+['Keion Adams'],Injured Reserve: Shoulder,week_19,Pittsburgh Steelers,2017
+['Antonio Brown'],Questionable: Calf,week_19,Pittsburgh Steelers,2017
+['Sammie Coates'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2017
+['James Conner'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2017
+['Jordan Dangerfield'],Injured Reserve: Ankle,week_19,Pittsburgh Steelers,2017
+['Sean Davis'],NA,week_19,Pittsburgh Steelers,2017
+['Greg Ducre'],Injured Reserve: Ankle,week_19,Pittsburgh Steelers,2017
+['Bud Dupree'],NA,week_19,Pittsburgh Steelers,2017
+['Ramon Foster'],NA,week_19,Pittsburgh Steelers,2017
+['Marcus Gilbert'],NA,week_19,Pittsburgh Steelers,2017
+['Joe Haden'],NA,week_19,Pittsburgh Steelers,2017
+['James Harrison'],NA,week_19,Pittsburgh Steelers,2017
+['Jerald Hawkins'],NA,week_19,Pittsburgh Steelers,2017
+['Tyler Matakevich'],NA,week_19,Pittsburgh Steelers,2017
+['Mike Matthews'],Injured Reserve: Knee,week_19,Pittsburgh Steelers,2017
+['Vance McDonald'],NA,week_19,Pittsburgh Steelers,2017
+['Mike Mitchell'],NA,week_19,Pittsburgh Steelers,2017
+['Maurkice Pouncey'],NA,week_19,Pittsburgh Steelers,2017
+['Coty Sensabaugh'],NA,week_19,Pittsburgh Steelers,2017
+['Canaan Severin'],Injured Reserve: Conditioning,week_19,Pittsburgh Steelers,2017
+['Ryan Shazier'],Injured Reserve: Spine,week_19,Pittsburgh Steelers,2017
+['JuJu Smith-Schuster'],NA,week_19,Pittsburgh Steelers,2017
+['Dez Stewart'],Injured Reserve: Undisclosed,week_19,Pittsburgh Steelers,2017
+['Cameron Sutton'],NA,week_19,Pittsburgh Steelers,2017
+['Stephon Tuitt'],NA,week_19,Pittsburgh Steelers,2017
+['T.J. Watt'],NA,week_19,Pittsburgh Steelers,2017
+['J.J. Wilcox'],NA,week_19,Pittsburgh Steelers,2017

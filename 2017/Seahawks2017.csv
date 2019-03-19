@@ -1,0 +1,801 @@
+﻿name,injury,week,team,year
+['Oday Aboushi'],NA,week_1,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_1,Seattle Seahawks,2017
+['Cliff Avril'],NA,week_1,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_1,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_1,Seattle Seahawks,2017
+['Justin Britt'],NA,week_1,Seattle Seahawks,2017
+['Duane Brown'],NA,week_1,Seattle Seahawks,2017
+['Chris Carson'],NA,week_1,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_1,Seattle Seahawks,2017
+['Frank Clark'],Questionable: Wrist,week_1,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_1,Seattle Seahawks,2017
+['Mike Davis'],NA,week_1,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_1,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_1,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_1,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_1,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_1,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_1,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_1,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_1,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_1,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_1,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_1,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_1,Seattle Seahawks,2017
+['Tyler Lockett'],Questionable: Knee,week_1,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_1,Seattle Seahawks,2017
+['Tre Madden'],NA,week_1,Seattle Seahawks,2017
+['Dewey McDonald'],NA,week_1,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_1,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_1,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_1,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_1,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_1,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_1,Seattle Seahawks,2017
+['C.J. Prosise'],NA,week_1,Seattle Seahawks,2017
+['Thomas Rawls'],Questionable: Ankle,week_1,Seattle Seahawks,2017
+['Jarran Reed'],Questionable: Shoulder,week_1,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_1,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_1,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_1,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_1,Seattle Seahawks,2017
+['Richard Sherman'],Questionable: Thigh,week_1,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_1,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_1,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_1,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_1,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_1,Seattle Seahawks,2017
+['Michael Wilhoite'],Doubtful: Calf,week_1,Seattle Seahawks,2017
+['Luke Willson'],NA,week_1,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_1,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_2,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_2,Seattle Seahawks,2017
+['Cliff Avril'],NA,week_2,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_2,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_2,Seattle Seahawks,2017
+['Justin Britt'],NA,week_2,Seattle Seahawks,2017
+['Duane Brown'],NA,week_2,Seattle Seahawks,2017
+['Chris Carson'],NA,week_2,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_2,Seattle Seahawks,2017
+['Frank Clark'],NA,week_2,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_2,Seattle Seahawks,2017
+['Mike Davis'],NA,week_2,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_2,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_2,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_2,Seattle Seahawks,2017
+['Terence Garvin'],Doubtful: Shoulder,week_2,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_2,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_2,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_2,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_2,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_2,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_2,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_2,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_2,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_2,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_2,Seattle Seahawks,2017
+['Tre Madden'],NA,week_2,Seattle Seahawks,2017
+['Dewey McDonald'],NA,week_2,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_2,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_2,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_2,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_2,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_2,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_2,Seattle Seahawks,2017
+['C.J. Prosise'],NA,week_2,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_2,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_2,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_2,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_2,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_2,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_2,Seattle Seahawks,2017
+['Richard Sherman'],Questionable: Hamstring,week_2,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_2,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_2,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_2,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_2,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_2,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_2,Seattle Seahawks,2017
+['Luke Willson'],NA,week_2,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_2,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_3,Seattle Seahawks,2017
+['D.J. Alexander'],Questionable: Hamstring,week_3,Seattle Seahawks,2017
+['Cliff Avril'],NA,week_3,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_3,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_3,Seattle Seahawks,2017
+['Justin Britt'],NA,week_3,Seattle Seahawks,2017
+['Duane Brown'],NA,week_3,Seattle Seahawks,2017
+['Chris Carson'],NA,week_3,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_3,Seattle Seahawks,2017
+['Frank Clark'],NA,week_3,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_3,Seattle Seahawks,2017
+['Mike Davis'],NA,week_3,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_3,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_3,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_3,Seattle Seahawks,2017
+['Terence Garvin'],Questionable: Shoulder,week_3,Seattle Seahawks,2017
+['Jimmy Graham'],Questionable: Ankle,week_3,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_3,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_3,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_3,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_3,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_3,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_3,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_3,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_3,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_3,Seattle Seahawks,2017
+['Tre Madden'],NA,week_3,Seattle Seahawks,2017
+['Dewey McDonald'],NA,week_3,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_3,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_3,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_3,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_3,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_3,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_3,Seattle Seahawks,2017
+['C.J. Prosise'],NA,week_3,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_3,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_3,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_3,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_3,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_3,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_3,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_3,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_3,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_3,Seattle Seahawks,2017
+['Neiko Thorpe'],Out: Ankle,week_3,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_3,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_3,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_3,Seattle Seahawks,2017
+['Luke Willson'],NA,week_3,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_3,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_4,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_4,Seattle Seahawks,2017
+['Cliff Avril'],NA,week_4,Seattle Seahawks,2017
+['Doug Baldwin'],Questionable: Groin,week_4,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_4,Seattle Seahawks,2017
+['Justin Britt'],NA,week_4,Seattle Seahawks,2017
+['Duane Brown'],NA,week_4,Seattle Seahawks,2017
+['Chris Carson'],NA,week_4,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_4,Seattle Seahawks,2017
+['Frank Clark'],NA,week_4,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_4,Seattle Seahawks,2017
+['Mike Davis'],NA,week_4,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_4,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_4,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_4,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_4,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_4,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_4,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_4,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_4,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_4,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_4,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_4,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_4,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_4,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_4,Seattle Seahawks,2017
+['Tre Madden'],NA,week_4,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_4,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_4,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_4,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_4,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_4,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_4,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_4,Seattle Seahawks,2017
+['C.J. Prosise'],Doubtful: Ankle,week_4,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_4,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_4,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_4,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_4,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_4,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_4,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_4,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_4,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_4,Seattle Seahawks,2017
+['Neiko Thorpe'],Questionable: Ankle,week_4,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_4,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_4,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_4,Seattle Seahawks,2017
+['Luke Willson'],NA,week_4,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_4,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_5,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_5,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_5,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_5,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_5,Seattle Seahawks,2017
+['Justin Britt'],NA,week_5,Seattle Seahawks,2017
+['Duane Brown'],NA,week_5,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_5,Seattle Seahawks,2017
+['Frank Clark'],NA,week_5,Seattle Seahawks,2017
+['Marcus Cromartie'],NA,week_5,Seattle Seahawks,2017
+['Mike Davis'],NA,week_5,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_5,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_5,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_5,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_5,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_5,Seattle Seahawks,2017
+['Quinton Jefferson'],Out: Hand,week_5,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_5,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_5,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_5,Seattle Seahawks,2017
+['Jeremy Lane'],Doubtful: Groin,week_5,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_5,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_5,Seattle Seahawks,2017
+['Tre Madden'],NA,week_5,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_5,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_5,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_5,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_5,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_5,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_5,Seattle Seahawks,2017
+['C.J. Prosise'],Doubtful: Ankle,week_5,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_5,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_5,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_5,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_5,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_5,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_5,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_5,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_5,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_5,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_5,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_5,Seattle Seahawks,2017
+['Michael Wilhoite'],Questionable: Hamstring,week_5,Seattle Seahawks,2017
+['Luke Willson'],NA,week_5,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_5,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_7,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_7,Seattle Seahawks,2017
+['Cliff Avril'],Out: Neck,week_7,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_7,Seattle Seahawks,2017
+['Michael Bennett'],Questionable: Heel,week_7,Seattle Seahawks,2017
+['Justin Britt'],NA,week_7,Seattle Seahawks,2017
+['Duane Brown'],NA,week_7,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_7,Seattle Seahawks,2017
+['Frank Clark'],NA,week_7,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_7,Seattle Seahawks,2017
+['Mike Davis'],NA,week_7,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_7,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_7,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_7,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_7,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_7,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_7,Seattle Seahawks,2017
+['Luke Joeckel'],Out: Knee,week_7,Seattle Seahawks,2017
+['Nazair Jones'],Questionable: Knee,week_7,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_7,Seattle Seahawks,2017
+['Jeremy Lane'],Doubtful: Groin,week_7,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_7,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_7,Seattle Seahawks,2017
+['Tre Madden'],NA,week_7,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_7,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_7,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_7,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_7,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_7,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_7,Seattle Seahawks,2017
+['C.J. Prosise'],Questionable: Ankle,week_7,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_7,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_7,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_7,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_7,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_7,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_7,Seattle Seahawks,2017
+['Marcus Smith'],Questionable: Ankle,week_7,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_7,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_7,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_7,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_7,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_7,Seattle Seahawks,2017
+['Luke Willson'],NA,week_7,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_7,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_8,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_8,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_8,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_8,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_8,Seattle Seahawks,2017
+['Justin Britt'],Questionable: Ankle,week_8,Seattle Seahawks,2017
+['Duane Brown'],NA,week_8,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_8,Seattle Seahawks,2017
+['Frank Clark'],NA,week_8,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_8,Seattle Seahawks,2017
+['Mike Davis'],NA,week_8,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_8,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_8,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_8,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_8,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_8,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_8,Seattle Seahawks,2017
+['Luke Joeckel'],Out: Knee,week_8,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_8,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_8,Seattle Seahawks,2017
+['Jeremy Lane'],Questionable: Groin,week_8,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_8,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_8,Seattle Seahawks,2017
+['Tre Madden'],NA,week_8,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_8,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_8,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_8,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_8,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_8,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_8,Seattle Seahawks,2017
+['C.J. Prosise'],Doubtful: Ankle,week_8,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_8,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_8,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_8,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_8,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_8,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_8,Seattle Seahawks,2017
+['Marcus Smith'],Questionable: Ankle,week_8,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_8,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_8,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_8,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_8,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_8,Seattle Seahawks,2017
+['Luke Willson'],NA,week_8,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_8,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_9,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_9,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_9,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_9,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_9,Seattle Seahawks,2017
+['Justin Britt'],NA,week_9,Seattle Seahawks,2017
+['Duane Brown'],NA,week_9,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['Kam Chancellor'],Questionable: Ankle,week_9,Seattle Seahawks,2017
+['Frank Clark'],NA,week_9,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_9,Seattle Seahawks,2017
+['Mike Davis'],NA,week_9,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_9,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_9,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_9,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_9,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_9,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_9,Seattle Seahawks,2017
+['Luke Joeckel'],Out: Knee,week_9,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_9,Seattle Seahawks,2017
+['Dion Jordan'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_9,Seattle Seahawks,2017
+['Jeremy Lane'],Questionable: Thigh,week_9,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_9,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_9,Seattle Seahawks,2017
+['Tre Madden'],NA,week_9,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_9,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_9,Seattle Seahawks,2017
+['Tanner McEvoy'],Questionable: Hamstring,week_9,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_9,Seattle Seahawks,2017
+['Rees Odhiambo'],NA,week_9,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_9,Seattle Seahawks,2017
+['C.J. Prosise'],Questionable: Ankle,week_9,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_9,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_9,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_9,Seattle Seahawks,2017
+['Sheldon Richardson'],Questionable: Oblique,week_9,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_9,Seattle Seahawks,2017
+['Richard Sherman'],NA,week_9,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_9,Seattle Seahawks,2017
+['Earl Thomas'],Out: Hamstring,week_9,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_9,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_9,Seattle Seahawks,2017
+['Bobby Wagner'],Questionable: Hamstring,week_9,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_9,Seattle Seahawks,2017
+['Luke Willson'],NA,week_9,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_9,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_10,Seattle Seahawks,2017
+['D.J. Alexander'],Questionable: Ankle,week_10,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_10,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_10,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_10,Seattle Seahawks,2017
+['Justin Britt'],NA,week_10,Seattle Seahawks,2017
+['Duane Brown'],NA,week_10,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_10,Seattle Seahawks,2017
+['Kam Chancellor'],NA,week_10,Seattle Seahawks,2017
+['Frank Clark'],NA,week_10,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_10,Seattle Seahawks,2017
+['Mike Davis'],NA,week_10,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_10,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_10,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_10,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_10,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_10,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_10,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_10,Seattle Seahawks,2017
+['Luke Joeckel'],Out: Knee,week_10,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_10,Seattle Seahawks,2017
+['Dion Jordan'],NA,week_10,Seattle Seahawks,2017
+['Eddie Lacy'],Out: Groin,week_10,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_10,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_10,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_10,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_10,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_10,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_10,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_10,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_10,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_10,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_10,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_10,Seattle Seahawks,2017
+['C.J. Prosise'],NA,week_10,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_10,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_10,Seattle Seahawks,2017
+['Paul Richardson'],Questionable: Groin,week_10,Seattle Seahawks,2017
+['Sheldon Richardson'],Questionable: Oblique,week_10,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_10,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_10,Seattle Seahawks,2017
+['Richard Sherman'],Questionable: Achilles,week_10,Seattle Seahawks,2017
+['Marcus Smith'],Out: Concussion,week_10,Seattle Seahawks,2017
+['Earl Thomas'],Doubtful: Hamstring,week_10,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_10,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_10,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_10,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_10,Seattle Seahawks,2017
+['Luke Willson'],NA,week_10,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_10,Seattle Seahawks,2017
+['Oday Aboushi'],NA,week_11,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_11,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_11,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_11,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_11,Seattle Seahawks,2017
+['Justin Britt'],NA,week_11,Seattle Seahawks,2017
+['Duane Brown'],Questionable: Ankle,week_11,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_11,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_11,Seattle Seahawks,2017
+['Frank Clark'],NA,week_11,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_11,Seattle Seahawks,2017
+['Mike Davis'],NA,week_11,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_11,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_11,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_11,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_11,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_11,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_11,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_11,Seattle Seahawks,2017
+['Luke Joeckel'],Out: Knee,week_11,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_11,Seattle Seahawks,2017
+['Dion Jordan'],NA,week_11,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_11,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_11,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_11,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_11,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_11,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_11,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_11,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_11,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_11,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_11,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_11,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_11,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_11,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_11,Seattle Seahawks,2017
+['Jarran Reed'],Questionable: Hamstring,week_11,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_11,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_11,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_11,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_11,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_11,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_11,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_11,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_11,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_11,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_11,Seattle Seahawks,2017
+['Michael Wilhoite'],Out: Calf,week_11,Seattle Seahawks,2017
+['Luke Willson'],NA,week_11,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_11,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_12,Seattle Seahawks,2017
+['D.J. Alexander'],Questionable: Shoulder,week_12,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_12,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_12,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_12,Seattle Seahawks,2017
+['Justin Britt'],NA,week_12,Seattle Seahawks,2017
+['Duane Brown'],Questionable: Ankle,week_12,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_12,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_12,Seattle Seahawks,2017
+['Frank Clark'],NA,week_12,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_12,Seattle Seahawks,2017
+['Mike Davis'],Doubtful: Groin,week_12,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_12,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_12,Seattle Seahawks,2017
+['Josh Forrest'],NA,week_12,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_12,Seattle Seahawks,2017
+['Jimmy Graham'],Questionable: Ankle,week_12,Seattle Seahawks,2017
+['Shaquill Griffin'],Out: Concussion,week_12,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_12,Seattle Seahawks,2017
+['Luke Joeckel'],Questionable: Knee,week_12,Seattle Seahawks,2017
+['Nazair Jones'],NA,week_12,Seattle Seahawks,2017
+['Dion Jordan'],Questionable: Neck,week_12,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_12,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_12,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_12,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_12,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_12,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_12,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_12,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_12,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_12,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_12,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_12,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_12,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_12,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_12,Seattle Seahawks,2017
+['Jarran Reed'],Questionable: Hamstring,week_12,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_12,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_12,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_12,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_12,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_12,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_12,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_12,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_12,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_12,Seattle Seahawks,2017
+['Bobby Wagner'],Questionable: Hamstring,week_12,Seattle Seahawks,2017
+['Michael Wilhoite'],Questionable: Calf,week_12,Seattle Seahawks,2017
+['Luke Willson'],NA,week_12,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_12,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_13,Seattle Seahawks,2017
+['D.J. Alexander'],Questionable: Shoulder,week_13,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_13,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_13,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_13,Seattle Seahawks,2017
+['Justin Britt'],NA,week_13,Seattle Seahawks,2017
+['Duane Brown'],Questionable: Ankle,week_13,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_13,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_13,Seattle Seahawks,2017
+['Frank Clark'],NA,week_13,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_13,Seattle Seahawks,2017
+['Mike Davis'],NA,week_13,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_13,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_13,Seattle Seahawks,2017
+['Josh Forrest'],Out: Foot,week_13,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_13,Seattle Seahawks,2017
+['Jimmy Graham'],Questionable: Ankle,week_13,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_13,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_13,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_13,Seattle Seahawks,2017
+['Nazair Jones'],Injured Reserve: Ankle,week_13,Seattle Seahawks,2017
+['Dion Jordan'],Doubtful: Neck,week_13,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_13,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_13,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_13,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_13,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_13,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_13,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_13,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_13,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_13,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_13,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_13,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_13,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_13,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_13,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_13,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_13,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_13,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_13,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_13,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_13,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_13,Seattle Seahawks,2017
+['Earl Thomas'],Questionable: Heel,week_13,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_13,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_13,Seattle Seahawks,2017
+['Bobby Wagner'],Questionable: Hamstring,week_13,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_13,Seattle Seahawks,2017
+['Luke Willson'],NA,week_13,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_13,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_14,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_14,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_14,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_14,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_14,Seattle Seahawks,2017
+['Justin Britt'],NA,week_14,Seattle Seahawks,2017
+['Duane Brown'],NA,week_14,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_14,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_14,Seattle Seahawks,2017
+['Frank Clark'],NA,week_14,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_14,Seattle Seahawks,2017
+['Mike Davis'],NA,week_14,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_14,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_14,Seattle Seahawks,2017
+['Josh Forrest'],Injured Reserve: Foot,week_14,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_14,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_14,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_14,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_14,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_14,Seattle Seahawks,2017
+['Nazair Jones'],Injured Reserve: Ankle,week_14,Seattle Seahawks,2017
+['Dion Jordan'],Questionable: Neck,week_14,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_14,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_14,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_14,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_14,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_14,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_14,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_14,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_14,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_14,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_14,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_14,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_14,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_14,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_14,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_14,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_14,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_14,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_14,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_14,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_14,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_14,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_14,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_14,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_14,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_14,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_14,Seattle Seahawks,2017
+['Luke Willson'],NA,week_14,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_14,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_15,Seattle Seahawks,2017
+['D.J. Alexander'],NA,week_15,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_15,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_15,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_15,Seattle Seahawks,2017
+['Justin Britt'],NA,week_15,Seattle Seahawks,2017
+['Duane Brown'],NA,week_15,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_15,Seattle Seahawks,2017
+['Kam Chancellor'],Out: Neck,week_15,Seattle Seahawks,2017
+['Frank Clark'],NA,week_15,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_15,Seattle Seahawks,2017
+['Mike Davis'],NA,week_15,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_15,Seattle Seahawks,2017
+['Josh Forrest'],Injured Reserve: Foot,week_15,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_15,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_15,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_15,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_15,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_15,Seattle Seahawks,2017
+['Nazair Jones'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2017
+['Dion Jordan'],NA,week_15,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_15,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_15,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_15,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_15,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_15,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_15,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_15,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_15,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_15,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_15,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_15,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_15,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_15,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_15,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_15,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_15,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_15,Seattle Seahawks,2017
+['DeShawn Shead'],Injured Reserve: Knee,week_15,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_15,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_15,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_15,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_15,Seattle Seahawks,2017
+['Nick Vannett'],NA,week_15,Seattle Seahawks,2017
+['Bobby Wagner'],Questionable: Hamstring,week_15,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_15,Seattle Seahawks,2017
+['Luke Willson'],NA,week_15,Seattle Seahawks,2017
+['K.J. Wright'],Doubtful: Concussion,week_15,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_16,Seattle Seahawks,2017
+['D.J. Alexander'],Out: Concussion,week_16,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_16,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_16,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_16,Seattle Seahawks,2017
+['Justin Britt'],NA,week_16,Seattle Seahawks,2017
+['Duane Brown'],NA,week_16,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_16,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_16,Seattle Seahawks,2017
+['Frank Clark'],Questionable: Toe,week_16,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_16,Seattle Seahawks,2017
+['Mike Davis'],NA,week_16,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_16,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_16,Seattle Seahawks,2017
+['Josh Forrest'],Injured Reserve: Foot,week_16,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_16,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_16,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_16,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_16,Seattle Seahawks,2017
+['Luke Joeckel'],NA,week_16,Seattle Seahawks,2017
+['Nazair Jones'],Injured Reserve: Ankle,week_16,Seattle Seahawks,2017
+['Dion Jordan'],NA,week_16,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_16,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_16,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_16,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_16,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_16,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_16,Seattle Seahawks,2017
+['Bradley McDougald'],Questionable: Knee,week_16,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_16,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_16,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_16,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_16,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_16,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_16,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_16,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_16,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_16,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_16,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_16,Seattle Seahawks,2017
+['DeShawn Shead'],NA,week_16,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_16,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_16,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_16,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_16,Seattle Seahawks,2017
+['Nick Vannett'],Questionable: Shoulder,week_16,Seattle Seahawks,2017
+['Bobby Wagner'],NA,week_16,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_16,Seattle Seahawks,2017
+['Luke Willson'],NA,week_16,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_16,Seattle Seahawks,2017
+['Oday Aboushi'],Injured Reserve: Shoulder,week_17,Seattle Seahawks,2017
+['D.J. Alexander'],Out: Concussion,week_17,Seattle Seahawks,2017
+['Cliff Avril'],Injured Reserve: Neck,week_17,Seattle Seahawks,2017
+['Doug Baldwin'],NA,week_17,Seattle Seahawks,2017
+['Michael Bennett'],NA,week_17,Seattle Seahawks,2017
+['Justin Britt'],NA,week_17,Seattle Seahawks,2017
+['Duane Brown'],NA,week_17,Seattle Seahawks,2017
+['Chris Carson'],Injured Reserve: Knee,week_17,Seattle Seahawks,2017
+['Kam Chancellor'],Injured Reserve: Neck,week_17,Seattle Seahawks,2017
+['Frank Clark'],NA,week_17,Seattle Seahawks,2017
+['Marcus Cromartie'],Injured Reserve: Leg,week_17,Seattle Seahawks,2017
+['Mike Davis'],NA,week_17,Seattle Seahawks,2017
+['DeAndre Elliott'],Injured Reserve: Ankle,week_17,Seattle Seahawks,2017
+['George Fant'],Injured Reserve: Knee,week_17,Seattle Seahawks,2017
+['Josh Forrest'],Injured Reserve: Foot,week_17,Seattle Seahawks,2017
+['Terence Garvin'],NA,week_17,Seattle Seahawks,2017
+['Jimmy Graham'],NA,week_17,Seattle Seahawks,2017
+['Shaquill Griffin'],NA,week_17,Seattle Seahawks,2017
+['Quinton Jefferson'],NA,week_17,Seattle Seahawks,2017
+['Luke Joeckel'],Questionable: Foot,week_17,Seattle Seahawks,2017
+['Nazair Jones'],Out: Foot,week_17,Seattle Seahawks,2017
+['Dion Jordan'],NA,week_17,Seattle Seahawks,2017
+['Eddie Lacy'],NA,week_17,Seattle Seahawks,2017
+['Jeremy Lane'],NA,week_17,Seattle Seahawks,2017
+['Tyler Lockett'],NA,week_17,Seattle Seahawks,2017
+['Marcus Lucas'],Injured Reserve: Ankle,week_17,Seattle Seahawks,2017
+['Tre Madden'],Injured Reserve: Calf,week_17,Seattle Seahawks,2017
+['Dewey McDonald'],Injured Reserve: Knee,week_17,Seattle Seahawks,2017
+['Bradley McDougald'],NA,week_17,Seattle Seahawks,2017
+['Malik McDowell'],Injured Reserve: Concussion,week_17,Seattle Seahawks,2017
+['Tanner McEvoy'],NA,week_17,Seattle Seahawks,2017
+['Robert Myers'],Injured Reserve: Leg,week_17,Seattle Seahawks,2017
+['Rees Odhiambo'],Injured Reserve: Hand,week_17,Seattle Seahawks,2017
+['Ronald Powell'],Injured Reserve: Undisclosed,week_17,Seattle Seahawks,2017
+['C.J. Prosise'],Injured Reserve: Ankle,week_17,Seattle Seahawks,2017
+['Thomas Rawls'],NA,week_17,Seattle Seahawks,2017
+['Jarran Reed'],NA,week_17,Seattle Seahawks,2017
+['Paul Richardson'],NA,week_17,Seattle Seahawks,2017
+['Sheldon Richardson'],NA,week_17,Seattle Seahawks,2017
+['Justin Senior'],Injured Reserve: Knee,week_17,Seattle Seahawks,2017
+['DeShawn Shead'],NA,week_17,Seattle Seahawks,2017
+['Richard Sherman'],Injured Reserve: Achilles,week_17,Seattle Seahawks,2017
+['Marcus Smith'],NA,week_17,Seattle Seahawks,2017
+['Earl Thomas'],NA,week_17,Seattle Seahawks,2017
+['Neiko Thorpe'],NA,week_17,Seattle Seahawks,2017
+['Nick Vannett'],Questionable: Back,week_17,Seattle Seahawks,2017
+['Bobby Wagner'],Questionable: Hamstring,week_17,Seattle Seahawks,2017
+['Michael Wilhoite'],NA,week_17,Seattle Seahawks,2017
+['Luke Willson'],Questionable: Ankle,week_17,Seattle Seahawks,2017
+['K.J. Wright'],NA,week_17,Seattle Seahawks,2017

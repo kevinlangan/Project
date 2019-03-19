@@ -1,0 +1,609 @@
+﻿name,injury,week,team,year
+['Vadal Alexander'],NA,week_1,Oakland Raiders,2017
+['David Amerson'],NA,week_1,Oakland Raiders,2017
+['Denico Autry'],NA,week_1,Oakland Raiders,2017
+['Derek Carr'],NA,week_1,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_1,Oakland Raiders,2017
+['Amari Cooper'],NA,week_1,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_1,Oakland Raiders,2017
+['Mario Edwards'],NA,week_1,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_1,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_1,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_1,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_1,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_1,Oakland Raiders,2017
+['Johnny Holton'],NA,week_1,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_1,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_1,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_1,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_1,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_1,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_1,Oakland Raiders,2017
+['Karl Joseph'],NA,week_1,Oakland Raiders,2017
+['Marquette King'],NA,week_1,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_1,Oakland Raiders,2017
+['Marquel Lee'],NA,week_1,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_1,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_1,Oakland Raiders,2017
+['Keith McGill'],Out: Foot,week_1,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_1,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_1,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_1,Oakland Raiders,2017
+['Jamize Olawale'],Out: Quadricep,week_1,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_1,Oakland Raiders,2017
+['Donald Penn'],NA,week_1,Oakland Raiders,2017
+['David Sharpe'],NA,week_1,Oakland Raiders,2017
+['Sean Smith'],NA,week_1,Oakland Raiders,2017
+['Clive Walford'],NA,week_1,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_1,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_1,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_2,Oakland Raiders,2017
+['David Amerson'],NA,week_2,Oakland Raiders,2017
+['Denico Autry'],NA,week_2,Oakland Raiders,2017
+['Derek Carr'],NA,week_2,Oakland Raiders,2017
+['Gareon Conley'],NA,week_2,Oakland Raiders,2017
+['Amari Cooper'],NA,week_2,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_2,Oakland Raiders,2017
+['Mario Edwards'],NA,week_2,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_2,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_2,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_2,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_2,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_2,Oakland Raiders,2017
+['Johnny Holton'],NA,week_2,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_2,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_2,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_2,Oakland Raiders,2017
+['Cory James'],NA,week_2,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_2,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_2,Oakland Raiders,2017
+['Karl Joseph'],NA,week_2,Oakland Raiders,2017
+['Marquette King'],NA,week_2,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_2,Oakland Raiders,2017
+['Marquel Lee'],NA,week_2,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_2,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_2,Oakland Raiders,2017
+['Keith McGill'],Questionable: Foot,week_2,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_2,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_2,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_2,Oakland Raiders,2017
+['Jamize Olawale'],Questionable: Quadricep,week_2,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_2,Oakland Raiders,2017
+['Donald Penn'],NA,week_2,Oakland Raiders,2017
+['David Sharpe'],NA,week_2,Oakland Raiders,2017
+['Sean Smith'],Questionable: Neck,week_2,Oakland Raiders,2017
+['Clive Walford'],NA,week_2,Oakland Raiders,2017
+['Jihad Ward'],NA,week_2,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_2,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_3,Oakland Raiders,2017
+['David Amerson'],NA,week_3,Oakland Raiders,2017
+['Denico Autry'],NA,week_3,Oakland Raiders,2017
+['Derek Carr'],NA,week_3,Oakland Raiders,2017
+['Gareon Conley'],NA,week_3,Oakland Raiders,2017
+['Amari Cooper'],NA,week_3,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_3,Oakland Raiders,2017
+['Mario Edwards'],NA,week_3,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_3,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_3,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_3,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_3,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_3,Oakland Raiders,2017
+['Johnny Holton'],NA,week_3,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_3,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_3,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_3,Oakland Raiders,2017
+['Cory James'],NA,week_3,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_3,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_3,Oakland Raiders,2017
+['Karl Joseph'],NA,week_3,Oakland Raiders,2017
+['Marquette King'],NA,week_3,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_3,Oakland Raiders,2017
+['Marquel Lee'],NA,week_3,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_3,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_3,Oakland Raiders,2017
+['Keith McGill'],NA,week_3,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_3,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_3,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_3,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_3,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_3,Oakland Raiders,2017
+['Donald Penn'],NA,week_3,Oakland Raiders,2017
+['David Sharpe'],NA,week_3,Oakland Raiders,2017
+['Sean Smith'],Questionable: Neck,week_3,Oakland Raiders,2017
+['Clive Walford'],NA,week_3,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_3,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_3,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_4,Oakland Raiders,2017
+['David Amerson'],NA,week_4,Oakland Raiders,2017
+['Denico Autry'],NA,week_4,Oakland Raiders,2017
+['Derek Carr'],NA,week_4,Oakland Raiders,2017
+['Gareon Conley'],Questionable: Shin,week_4,Oakland Raiders,2017
+['Amari Cooper'],NA,week_4,Oakland Raiders,2017
+['Michael Crabtree'],Questionable: Chest,week_4,Oakland Raiders,2017
+['Mario Edwards'],NA,week_4,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_4,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_4,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_4,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_4,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_4,Oakland Raiders,2017
+['Johnny Holton'],NA,week_4,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_4,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_4,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_4,Oakland Raiders,2017
+['Cory James'],NA,week_4,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_4,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_4,Oakland Raiders,2017
+['Karl Joseph'],NA,week_4,Oakland Raiders,2017
+['Marquette King'],NA,week_4,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_4,Oakland Raiders,2017
+['Marquel Lee'],NA,week_4,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_4,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_4,Oakland Raiders,2017
+['Keith McGill'],Questionable: Foot,week_4,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_4,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_4,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_4,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_4,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_4,Oakland Raiders,2017
+['Donald Penn'],NA,week_4,Oakland Raiders,2017
+['David Sharpe'],NA,week_4,Oakland Raiders,2017
+['Sean Smith'],NA,week_4,Oakland Raiders,2017
+['Clive Walford'],NA,week_4,Oakland Raiders,2017
+['Jihad Ward'],NA,week_4,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_4,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_5,Oakland Raiders,2017
+['David Amerson'],Questionable: Concussion,week_5,Oakland Raiders,2017
+['Denico Autry'],NA,week_5,Oakland Raiders,2017
+['Derek Carr'],Questionable: Back,week_5,Oakland Raiders,2017
+['Gareon Conley'],Questionable: Shin,week_5,Oakland Raiders,2017
+['Amari Cooper'],NA,week_5,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_5,Oakland Raiders,2017
+['Mario Edwards'],NA,week_5,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_5,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_5,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_5,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_5,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_5,Oakland Raiders,2017
+['Johnny Holton'],NA,week_5,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_5,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_5,Oakland Raiders,2017
+['Gabe Jackson'],Questionable: Foot,week_5,Oakland Raiders,2017
+['Cory James'],NA,week_5,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_5,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_5,Oakland Raiders,2017
+['Karl Joseph'],NA,week_5,Oakland Raiders,2017
+['Marquette King'],NA,week_5,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_5,Oakland Raiders,2017
+['Marquel Lee'],NA,week_5,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_5,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_5,Oakland Raiders,2017
+['Keith McGill'],NA,week_5,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_5,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_5,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_5,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_5,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_5,Oakland Raiders,2017
+['Donald Penn'],NA,week_5,Oakland Raiders,2017
+['David Sharpe'],NA,week_5,Oakland Raiders,2017
+['Sean Smith'],NA,week_5,Oakland Raiders,2017
+['Clive Walford'],NA,week_5,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_5,Oakland Raiders,2017
+['DeAndre Washington'],Questionable: Hamstring,week_5,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_6,Oakland Raiders,2017
+['David Amerson'],Questionable: Shoulder,week_6,Oakland Raiders,2017
+['Denico Autry'],NA,week_6,Oakland Raiders,2017
+['Derek Carr'],NA,week_6,Oakland Raiders,2017
+['Gareon Conley'],Out: Shin,week_6,Oakland Raiders,2017
+['Amari Cooper'],NA,week_6,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_6,Oakland Raiders,2017
+['Mario Edwards'],NA,week_6,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_6,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_6,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_6,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_6,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_6,Oakland Raiders,2017
+['Johnny Holton'],NA,week_6,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_6,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_6,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_6,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_6,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_6,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_6,Oakland Raiders,2017
+['Karl Joseph'],NA,week_6,Oakland Raiders,2017
+['Marquette King'],NA,week_6,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_6,Oakland Raiders,2017
+['Marquel Lee'],Out: Ankle,week_6,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_6,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_6,Oakland Raiders,2017
+['Keith McGill'],NA,week_6,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_6,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_6,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_6,Oakland Raiders,2017
+['Jamize Olawale'],Out: Concussion,week_6,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_6,Oakland Raiders,2017
+['Donald Penn'],NA,week_6,Oakland Raiders,2017
+['David Sharpe'],NA,week_6,Oakland Raiders,2017
+['Sean Smith'],NA,week_6,Oakland Raiders,2017
+['Clive Walford'],NA,week_6,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_6,Oakland Raiders,2017
+['DeAndre Washington'],Questionable: Hamstring,week_6,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_7,Oakland Raiders,2017
+['David Amerson'],NA,week_7,Oakland Raiders,2017
+['Denico Autry'],NA,week_7,Oakland Raiders,2017
+['Derek Carr'],NA,week_7,Oakland Raiders,2017
+['Gareon Conley'],Out: Shin,week_7,Oakland Raiders,2017
+['Amari Cooper'],NA,week_7,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_7,Oakland Raiders,2017
+['Mario Edwards'],NA,week_7,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_7,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_7,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_7,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_7,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_7,Oakland Raiders,2017
+['Johnny Holton'],NA,week_7,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_7,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_7,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_7,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_7,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_7,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_7,Oakland Raiders,2017
+['Karl Joseph'],NA,week_7,Oakland Raiders,2017
+['Marquette King'],NA,week_7,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_7,Oakland Raiders,2017
+['Marquel Lee'],Questionable: Ankle,week_7,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_7,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_7,Oakland Raiders,2017
+['Keith McGill'],NA,week_7,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_7,Oakland Raiders,2017
+['Nicholas Morrow'],Questionable: Ankle,week_7,Oakland Raiders,2017
+['Marshall Newhouse'],Out: Foot,week_7,Oakland Raiders,2017
+['Jamize Olawale'],Questionable: Concussion,week_7,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_7,Oakland Raiders,2017
+['Donald Penn'],NA,week_7,Oakland Raiders,2017
+['David Sharpe'],NA,week_7,Oakland Raiders,2017
+['Sean Smith'],NA,week_7,Oakland Raiders,2017
+['Clive Walford'],NA,week_7,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_7,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_7,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_8,Oakland Raiders,2017
+['David Amerson'],Out: Foot,week_8,Oakland Raiders,2017
+['Denico Autry'],NA,week_8,Oakland Raiders,2017
+['Derek Carr'],NA,week_8,Oakland Raiders,2017
+['Gareon Conley'],Out: Shin,week_8,Oakland Raiders,2017
+['Amari Cooper'],NA,week_8,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_8,Oakland Raiders,2017
+['Mario Edwards'],NA,week_8,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_8,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_8,Oakland Raiders,2017
+['Ben Heeney'],NA,week_8,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_8,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_8,Oakland Raiders,2017
+['Johnny Holton'],NA,week_8,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_8,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_8,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_8,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_8,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_8,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_8,Oakland Raiders,2017
+['Karl Joseph'],Doubtful: Groin,week_8,Oakland Raiders,2017
+['Marquette King'],Questionable: rightGroin,week_8,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_8,Oakland Raiders,2017
+['Marquel Lee'],Questionable: Ankle,week_8,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_8,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_8,Oakland Raiders,2017
+['Keith McGill'],NA,week_8,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Knee,week_8,Oakland Raiders,2017
+['Nicholas Morrow'],Questionable: Ankle,week_8,Oakland Raiders,2017
+['Marshall Newhouse'],Questionable: Foot,week_8,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_8,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_8,Oakland Raiders,2017
+['Donald Penn'],NA,week_8,Oakland Raiders,2017
+['David Sharpe'],NA,week_8,Oakland Raiders,2017
+['Sean Smith'],NA,week_8,Oakland Raiders,2017
+['Clive Walford'],NA,week_8,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_8,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_8,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_9,Oakland Raiders,2017
+['David Amerson'],Out: Foot,week_9,Oakland Raiders,2017
+['Denico Autry'],NA,week_9,Oakland Raiders,2017
+['Derek Carr'],NA,week_9,Oakland Raiders,2017
+['Gareon Conley'],Out: Shin,week_9,Oakland Raiders,2017
+['Amari Cooper'],NA,week_9,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_9,Oakland Raiders,2017
+['Mario Edwards'],NA,week_9,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_9,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_9,Oakland Raiders,2017
+['Ben Heeney'],NA,week_9,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_9,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_9,Oakland Raiders,2017
+['Johnny Holton'],NA,week_9,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_9,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_9,Oakland Raiders,2017
+['Gabe Jackson'],Questionable: Ankle,week_9,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_9,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_9,Oakland Raiders,2017
+['Jelani Jenkins'],NA,week_9,Oakland Raiders,2017
+['Karl Joseph'],Questionable: Groin,week_9,Oakland Raiders,2017
+['Marquette King'],NA,week_9,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_9,Oakland Raiders,2017
+['Marquel Lee'],Questionable: Ankle,week_9,Oakland Raiders,2017
+['Demetrius McCray'],Out: Knee,week_9,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_9,Oakland Raiders,2017
+['Keith McGill'],NA,week_9,Oakland Raiders,2017
+['Obi Melifonwu'],NA,week_9,Oakland Raiders,2017
+['Nicholas Morrow'],Questionable: Ankle,week_9,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_9,Oakland Raiders,2017
+['Jamize Olawale'],Questionable: Hamstring,week_9,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_9,Oakland Raiders,2017
+['Donald Penn'],NA,week_9,Oakland Raiders,2017
+['David Sharpe'],NA,week_9,Oakland Raiders,2017
+['Sean Smith'],NA,week_9,Oakland Raiders,2017
+['Clive Walford'],NA,week_9,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_9,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_9,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_11,Oakland Raiders,2017
+['David Amerson'],Doubtful: Foot,week_11,Oakland Raiders,2017
+['Denico Autry'],NA,week_11,Oakland Raiders,2017
+['Derek Carr'],NA,week_11,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_11,Oakland Raiders,2017
+['Amari Cooper'],NA,week_11,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_11,Oakland Raiders,2017
+['Mario Edwards'],NA,week_11,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_11,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_11,Oakland Raiders,2017
+['Ben Heeney'],NA,week_11,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_11,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_11,Oakland Raiders,2017
+['Johnny Holton'],NA,week_11,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_11,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_11,Oakland Raiders,2017
+['Gabe Jackson'],Questionable: Ankle,week_11,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_11,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_11,Oakland Raiders,2017
+['Jelani Jenkins'],NA,week_11,Oakland Raiders,2017
+['Karl Joseph'],NA,week_11,Oakland Raiders,2017
+['Marquette King'],NA,week_11,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_11,Oakland Raiders,2017
+['Marquel Lee'],NA,week_11,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_11,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_11,Oakland Raiders,2017
+['Keith McGill'],NA,week_11,Oakland Raiders,2017
+['Obi Melifonwu'],NA,week_11,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_11,Oakland Raiders,2017
+['Marshall Newhouse'],Questionable: Hip,week_11,Oakland Raiders,2017
+['Jamize Olawale'],Questionable: Hamstring,week_11,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_11,Oakland Raiders,2017
+['Donald Penn'],NA,week_11,Oakland Raiders,2017
+['David Sharpe'],NA,week_11,Oakland Raiders,2017
+['Sean Smith'],NA,week_11,Oakland Raiders,2017
+['Clive Walford'],NA,week_11,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_11,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_11,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_12,Oakland Raiders,2017
+['David Amerson'],Out: Foot,week_12,Oakland Raiders,2017
+['Denico Autry'],NA,week_12,Oakland Raiders,2017
+['Derek Carr'],NA,week_12,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_12,Oakland Raiders,2017
+['Amari Cooper'],NA,week_12,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_12,Oakland Raiders,2017
+['Mario Edwards'],NA,week_12,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_12,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_12,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_12,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_12,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_12,Oakland Raiders,2017
+['Johnny Holton'],Questionable: Concussion,week_12,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_12,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_12,Oakland Raiders,2017
+['Gabe Jackson'],Questionable: Ankle,week_12,Oakland Raiders,2017
+['Cory James'],Questionable: Knee,week_12,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_12,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_12,Oakland Raiders,2017
+['Karl Joseph'],NA,week_12,Oakland Raiders,2017
+['Marquette King'],NA,week_12,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_12,Oakland Raiders,2017
+['Marquel Lee'],NA,week_12,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_12,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_12,Oakland Raiders,2017
+['Keith McGill'],NA,week_12,Oakland Raiders,2017
+['Obi Melifonwu'],NA,week_12,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_12,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_12,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_12,Oakland Raiders,2017
+['Cordarrelle Patterson'],Questionable: Hip,week_12,Oakland Raiders,2017
+['Donald Penn'],NA,week_12,Oakland Raiders,2017
+['David Sharpe'],NA,week_12,Oakland Raiders,2017
+['Sean Smith'],NA,week_12,Oakland Raiders,2017
+['Clive Walford'],NA,week_12,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_12,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_12,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_13,Oakland Raiders,2017
+['David Amerson'],Questionable: Foot,week_13,Oakland Raiders,2017
+['Denico Autry'],NA,week_13,Oakland Raiders,2017
+['Derek Carr'],NA,week_13,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_13,Oakland Raiders,2017
+['Amari Cooper'],Out: Concussion,week_13,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_13,Oakland Raiders,2017
+['Mario Edwards'],NA,week_13,Oakland Raiders,2017
+['Jon Feliciano'],NA,week_13,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_13,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_13,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_13,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_13,Oakland Raiders,2017
+['Johnny Holton'],NA,week_13,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_13,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_13,Oakland Raiders,2017
+['Gabe Jackson'],Questionable: Ankle,week_13,Oakland Raiders,2017
+['Cory James'],Injured Reserve: Knee,week_13,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_13,Oakland Raiders,2017
+['Jelani Jenkins'],NA,week_13,Oakland Raiders,2017
+['Karl Joseph'],NA,week_13,Oakland Raiders,2017
+['Marquette King'],NA,week_13,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_13,Oakland Raiders,2017
+['Marquel Lee'],NA,week_13,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_13,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_13,Oakland Raiders,2017
+['Keith McGill'],NA,week_13,Oakland Raiders,2017
+['Obi Melifonwu'],NA,week_13,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_13,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_13,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_13,Oakland Raiders,2017
+['Cordarrelle Patterson'],Questionable: Hip,week_13,Oakland Raiders,2017
+['Donald Penn'],NA,week_13,Oakland Raiders,2017
+['David Sharpe'],NA,week_13,Oakland Raiders,2017
+['Sean Smith'],NA,week_13,Oakland Raiders,2017
+['Clive Walford'],NA,week_13,Oakland Raiders,2017
+['Jihad Ward'],Injured Reserve: Foot,week_13,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_13,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_14,Oakland Raiders,2017
+['David Amerson'],Questionable: Foot,week_14,Oakland Raiders,2017
+['Denico Autry'],Questionable: Hand,week_14,Oakland Raiders,2017
+['Derek Carr'],NA,week_14,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_14,Oakland Raiders,2017
+['Amari Cooper'],Questionable: Ankle,week_14,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_14,Oakland Raiders,2017
+['Mario Edwards'],NA,week_14,Oakland Raiders,2017
+['Jon Feliciano'],Out: Concussion,week_14,Oakland Raiders,2017
+['Antonio Hamilton'],Injured Reserve: Knee,week_14,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_14,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_14,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_14,Oakland Raiders,2017
+['Johnny Holton'],NA,week_14,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_14,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_14,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_14,Oakland Raiders,2017
+['Cory James'],Injured Reserve: Knee,week_14,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_14,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_14,Oakland Raiders,2017
+['Karl Joseph'],NA,week_14,Oakland Raiders,2017
+['Marquette King'],NA,week_14,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_14,Oakland Raiders,2017
+['Marquel Lee'],NA,week_14,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_14,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_14,Oakland Raiders,2017
+['Keith McGill'],NA,week_14,Oakland Raiders,2017
+['Obi Melifonwu'],NA,week_14,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_14,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_14,Oakland Raiders,2017
+['Jamize Olawale'],Questionable: Ankle,week_14,Oakland Raiders,2017
+['Cordarrelle Patterson'],Questionable: Hip,week_14,Oakland Raiders,2017
+['Donald Penn'],NA,week_14,Oakland Raiders,2017
+['David Sharpe'],NA,week_14,Oakland Raiders,2017
+['Sean Smith'],NA,week_14,Oakland Raiders,2017
+['Clive Walford'],NA,week_14,Oakland Raiders,2017
+['Jihad Ward'],Doubtful: Foot,week_14,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_14,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_15,Oakland Raiders,2017
+['David Amerson'],Doubtful: Foot,week_15,Oakland Raiders,2017
+['Denico Autry'],Questionable: Hand,week_15,Oakland Raiders,2017
+['Derek Carr'],NA,week_15,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_15,Oakland Raiders,2017
+['Amari Cooper'],Out: Ankle,week_15,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_15,Oakland Raiders,2017
+['Mario Edwards'],Out: Ankle,week_15,Oakland Raiders,2017
+['Jon Feliciano'],Questionable: Concussion,week_15,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_15,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_15,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_15,Oakland Raiders,2017
+['Treyvon Hester'],NA,week_15,Oakland Raiders,2017
+['Johnny Holton'],NA,week_15,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_15,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_15,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_15,Oakland Raiders,2017
+['Cory James'],Injured Reserve: Knee,week_15,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_15,Oakland Raiders,2017
+['Jelani Jenkins'],Injured Reserve: Undisclosed,week_15,Oakland Raiders,2017
+['Karl Joseph'],NA,week_15,Oakland Raiders,2017
+['Marquette King'],NA,week_15,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_15,Oakland Raiders,2017
+['Marquel Lee'],NA,week_15,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_15,Oakland Raiders,2017
+['Dexter McDonald'],NA,week_15,Oakland Raiders,2017
+['Keith McGill'],Questionable: Knee,week_15,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Hip,week_15,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_15,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_15,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_15,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_15,Oakland Raiders,2017
+['Donald Penn'],NA,week_15,Oakland Raiders,2017
+['David Sharpe'],NA,week_15,Oakland Raiders,2017
+['Sean Smith'],NA,week_15,Oakland Raiders,2017
+['Clive Walford'],Injured Reserve: Concussion,week_15,Oakland Raiders,2017
+['Jihad Ward'],NA,week_15,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_15,Oakland Raiders,2017
+['Vadal Alexander'],NA,week_16,Oakland Raiders,2017
+['David Amerson'],Doubtful: Foot,week_16,Oakland Raiders,2017
+['Denico Autry'],Questionable: Hand,week_16,Oakland Raiders,2017
+['Derek Carr'],NA,week_16,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_16,Oakland Raiders,2017
+['Amari Cooper'],Questionable: Ankle,week_16,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_16,Oakland Raiders,2017
+['Mario Edwards'],Out: Ankle,week_16,Oakland Raiders,2017
+['Jon Feliciano'],Injured Reserve: Concussion,week_16,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_16,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_16,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_16,Oakland Raiders,2017
+['Treyvon Hester'],Out: Ankle,week_16,Oakland Raiders,2017
+['Johnny Holton'],NA,week_16,Oakland Raiders,2017
+['Rodney Hudson'],Questionable: Ankle,week_16,Oakland Raiders,2017
+['Bruce Irvin'],Questionable: Concussion,week_16,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_16,Oakland Raiders,2017
+['Cory James'],Injured Reserve: Knee,week_16,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_16,Oakland Raiders,2017
+['Jelani Jenkins'],NA,week_16,Oakland Raiders,2017
+['Karl Joseph'],NA,week_16,Oakland Raiders,2017
+['Marquette King'],NA,week_16,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_16,Oakland Raiders,2017
+['Marquel Lee'],NA,week_16,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_16,Oakland Raiders,2017
+['Dexter McDonald'],Questionable: Knee,week_16,Oakland Raiders,2017
+['Keith McGill'],Questionable: Knee,week_16,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Hip,week_16,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_16,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_16,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_16,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_16,Oakland Raiders,2017
+['Donald Penn'],Injured Reserve: Foot,week_16,Oakland Raiders,2017
+['David Sharpe'],NA,week_16,Oakland Raiders,2017
+['Sean Smith'],NA,week_16,Oakland Raiders,2017
+['Clive Walford'],Injured Reserve: Concussion,week_16,Oakland Raiders,2017
+['Jihad Ward'],NA,week_16,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_16,Oakland Raiders,2017
+['Vadal Alexander'],Doubtful: Concussion,week_17,Oakland Raiders,2017
+['David Amerson'],Questionable: Foot,week_17,Oakland Raiders,2017
+['Denico Autry'],NA,week_17,Oakland Raiders,2017
+['Derek Carr'],NA,week_17,Oakland Raiders,2017
+['Gareon Conley'],Injured Reserve: Shin,week_17,Oakland Raiders,2017
+['Amari Cooper'],NA,week_17,Oakland Raiders,2017
+['Michael Crabtree'],NA,week_17,Oakland Raiders,2017
+['Mario Edwards'],NA,week_17,Oakland Raiders,2017
+['Jon Feliciano'],Injured Reserve: Concussion,week_17,Oakland Raiders,2017
+['Antonio Hamilton'],NA,week_17,Oakland Raiders,2017
+['Ben Heeney'],Injured Reserve: Ankle,week_17,Oakland Raiders,2017
+['Cooper Helfet'],Injured Reserve: Foot,week_17,Oakland Raiders,2017
+['Treyvon Hester'],Out: Ankle,week_17,Oakland Raiders,2017
+['Johnny Holton'],NA,week_17,Oakland Raiders,2017
+['Rodney Hudson'],NA,week_17,Oakland Raiders,2017
+['Bruce Irvin'],NA,week_17,Oakland Raiders,2017
+['Gabe Jackson'],NA,week_17,Oakland Raiders,2017
+['Cory James'],Injured Reserve: Knee,week_17,Oakland Raiders,2017
+['Sebastian Janikowski'],Injured Reserve: Back,week_17,Oakland Raiders,2017
+['Jelani Jenkins'],NA,week_17,Oakland Raiders,2017
+['Karl Joseph'],NA,week_17,Oakland Raiders,2017
+['Marquette King'],NA,week_17,Oakland Raiders,2017
+['Denver Kirkland'],Injured Reserve: Leg,week_17,Oakland Raiders,2017
+['Marquel Lee'],NA,week_17,Oakland Raiders,2017
+['Demetrius McCray'],NA,week_17,Oakland Raiders,2017
+['Dexter McDonald'],Questionable: Knee,week_17,Oakland Raiders,2017
+['Keith McGill'],NA,week_17,Oakland Raiders,2017
+['Obi Melifonwu'],Injured Reserve: Hip,week_17,Oakland Raiders,2017
+['Nicholas Morrow'],NA,week_17,Oakland Raiders,2017
+['Marshall Newhouse'],NA,week_17,Oakland Raiders,2017
+['Jamize Olawale'],NA,week_17,Oakland Raiders,2017
+['Cordarrelle Patterson'],NA,week_17,Oakland Raiders,2017
+['Donald Penn'],Injured Reserve: Foot,week_17,Oakland Raiders,2017
+['David Sharpe'],Questionable: Illness,week_17,Oakland Raiders,2017
+['Sean Smith'],NA,week_17,Oakland Raiders,2017
+['Clive Walford'],Injured Reserve: Concussion,week_17,Oakland Raiders,2017
+['Jihad Ward'],NA,week_17,Oakland Raiders,2017
+['DeAndre Washington'],NA,week_17,Oakland Raiders,2017

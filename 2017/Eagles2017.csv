@@ -1,0 +1,590 @@
+﻿name,injury,week,team,year
+['Beau Allen'],NA,week_1, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_1, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_1, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_1, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_1, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_1, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_1, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_1, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_1, Philadelphia Eagles,2017
+['Jordan Hicks'],NA,week_1, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_1, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_1, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_1, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_1, Philadelphia Eagles,2017
+['Chris Long'],NA,week_1, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_1, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_1, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_1, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_1, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_1, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_1, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_1, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_1, Philadelphia Eagles,2017
+['Darren Sproles'],NA,week_1, Philadelphia Eagles,2017
+['Caleb Sturgis'],NA,week_1, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_1, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_1, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_1, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_1, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_1, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_1, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_2, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_2, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_2, Philadelphia Eagles,2017
+['Ronald Darby'],Out: Ankle,week_2, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_2, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_2, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_2, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_2, Philadelphia Eagles,2017
+['Corey Graham'],Questionable: Hamstring,week_2, Philadelphia Eagles,2017
+['Jordan Hicks'],NA,week_2, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_2, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_2, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_2, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_2, Philadelphia Eagles,2017
+['Chris Long'],NA,week_2, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_2, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_2, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_2, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_2, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_2, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_2, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_2, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_2, Philadelphia Eagles,2017
+['Darren Sproles'],NA,week_2, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_2, Philadelphia Eagles,2017
+['Destiny Vaeao'],Out: Wrist,week_2, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_2, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_2, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_2, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_2, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_2, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_3, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_3, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_3, Philadelphia Eagles,2017
+['Ronald Darby'],Out: Ankle,week_3, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_3, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_3, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_3, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_3, Philadelphia Eagles,2017
+['Corey Graham'],Out: Hamstring,week_3, Philadelphia Eagles,2017
+['Jordan Hicks'],NA,week_3, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_3, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_3, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_3, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_3, Philadelphia Eagles,2017
+['Chris Long'],NA,week_3, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_3, Philadelphia Eagles,2017
+['Rodney McLeod'],Questionable: Hamstring,week_3, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_3, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_3, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_3, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_3, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_3, Philadelphia Eagles,2017
+['Torrey Smith'],Questionable: Illness,week_3, Philadelphia Eagles,2017
+['Darren Sproles'],NA,week_3, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_3, Philadelphia Eagles,2017
+['Destiny Vaeao'],Out: Wrist,week_3, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_3, Philadelphia Eagles,2017
+['Jaylen Watkins'],Out: Hamstring,week_3, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_3, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_3, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_3, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_4, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_4, Philadelphia Eagles,2017
+['Fletcher Cox'],Out: Calf,week_4, Philadelphia Eagles,2017
+['Ronald Darby'],Out: Ankle,week_4, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_4, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_4, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_4, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_4, Philadelphia Eagles,2017
+['Corey Graham'],Out: Hamstring,week_4, Philadelphia Eagles,2017
+['Jordan Hicks'],Questionable: Ankle,week_4, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_4, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_4, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_4, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_4, Philadelphia Eagles,2017
+['Chris Long'],NA,week_4, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_4, Philadelphia Eagles,2017
+['Rodney McLeod'],Questionable: Hamstring,week_4, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_4, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_4, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_4, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_4, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_4, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_4, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_4, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_4, Philadelphia Eagles,2017
+['Destiny Vaeao'],Out: Wrist,week_4, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_4, Philadelphia Eagles,2017
+['Jaylen Watkins'],Out: Hamstring,week_4, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_4, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_4, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_4, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_5, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_5, Philadelphia Eagles,2017
+['Fletcher Cox'],Out: Calf,week_5, Philadelphia Eagles,2017
+['Ronald Darby'],Out: Ankle,week_5, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_5, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_5, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_5, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_5, Philadelphia Eagles,2017
+['Corey Graham'],Questionable: Hamstring,week_5, Philadelphia Eagles,2017
+['Jordan Hicks'],NA,week_5, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_5, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_5, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_5, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_5, Philadelphia Eagles,2017
+['Chris Long'],NA,week_5, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_5, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_5, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_5, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_5, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_5, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_5, Philadelphia Eagles,2017
+['Wendell Smallwood'],Questionable: Knee,week_5, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_5, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_5, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_5, Philadelphia Eagles,2017
+['Destiny Vaeao'],Questionable: Wrist,week_5, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_5, Philadelphia Eagles,2017
+['Jaylen Watkins'],Questionable: Hamstring,week_5, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_5, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_5, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_5, Philadelphia Eagles,2017
+['Beau Allen'],Questionable: Foot,week_6, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_6, Philadelphia Eagles,2017
+['Fletcher Cox'],Questionable: Calf,week_6, Philadelphia Eagles,2017
+['Ronald Darby'],Out: Ankle,week_6, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_6, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_6, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_6, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_6, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_6, Philadelphia Eagles,2017
+['Jordan Hicks'],NA,week_6, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_6, Philadelphia Eagles,2017
+['Lane Johnson'],Out: Concussion,week_6, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_6, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_6, Philadelphia Eagles,2017
+['Chris Long'],Questionable: Foot,week_6, Philadelphia Eagles,2017
+['Chris Maragos'],NA,week_6, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_6, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_6, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_6, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_6, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_6, Philadelphia Eagles,2017
+['Wendell Smallwood'],Questionable: Knee,week_6, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_6, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_6, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_6, Philadelphia Eagles,2017
+['Destiny Vaeao'],Questionable: Wrist,week_6, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_6, Philadelphia Eagles,2017
+['Jaylen Watkins'],Questionable: Hamstring,week_6, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_6, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_6, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_6, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_7, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_7, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_7, Philadelphia Eagles,2017
+['Ronald Darby'],Questionable: Ankle,week_7, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_7, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_7, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_7, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_7, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_7, Philadelphia Eagles,2017
+['Jordan Hicks'],Questionable: Calf,week_7, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_7, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_7, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_7, Philadelphia Eagles,2017
+['Mychal Kendricks'],Questionable: Hamstring,week_7, Philadelphia Eagles,2017
+['Chris Long'],NA,week_7, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_7, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_7, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_7, Philadelphia Eagles,2017
+['Jason Peters'],NA,week_7, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_7, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_7, Philadelphia Eagles,2017
+['Wendell Smallwood'],Questionable: Knee,week_7, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_7, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_7, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_7, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_7, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_7, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_7, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_7, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_7, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_7, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_8, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_8, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_8, Philadelphia Eagles,2017
+['Ronald Darby'],Questionable: Ankle,week_8, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_8, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_8, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_8, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_8, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_8, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_8, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_8, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_8, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_8, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_8, Philadelphia Eagles,2017
+['Chris Long'],NA,week_8, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_8, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_8, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_8, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_8, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_8, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_8, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_8, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_8, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_8, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_8, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_8, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_8, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_8, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_8, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_8, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_8, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_9, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_9, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_9, Philadelphia Eagles,2017
+['Ronald Darby'],Questionable: Ankle,week_9, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_9, Philadelphia Eagles,2017
+['Zach Ertz'],Questionable: Hamstring,week_9, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_9, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_9, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_9, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_9, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_9, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_9, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_9, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_9, Philadelphia Eagles,2017
+['Chris Long'],NA,week_9, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_9, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_9, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_9, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_9, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_9, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_9, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_9, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_9, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_9, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_9, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_9, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_9, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_9, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_9, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_9, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_9, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_11, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_11, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_11, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_11, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_11, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_11, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_11, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_11, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_11, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_11, Philadelphia Eagles,2017
+['Alshon Jeffery'],Questionable: Ankle,week_11, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_11, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_11, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_11, Philadelphia Eagles,2017
+['Chris Long'],NA,week_11, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_11, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_11, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_11, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_11, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_11, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_11, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_11, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_11, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_11, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_11, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_11, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_11, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_11, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_11, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_11, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_11, Philadelphia Eagles,2017
+['Beau Allen'],Questionable: Knee,week_12, Philadelphia Eagles,2017
+['Trey Burton'],Questionable: Back,week_12, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_12, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_12, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_12, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_12, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_12, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_12, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_12, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_12, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_12, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_12, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_12, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_12, Philadelphia Eagles,2017
+['Chris Long'],NA,week_12, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_12, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_12, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_12, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_12, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_12, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_12, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_12, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_12, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_12, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_12, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_12, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_12, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_12, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_12, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_12, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_12, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_13, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_13, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_13, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_13, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_13, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_13, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_13, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_13, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_13, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_13, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_13, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_13, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_13, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_13, Philadelphia Eagles,2017
+['Chris Long'],NA,week_13, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_13, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_13, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_13, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_13, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_13, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_13, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_13, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_13, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_13, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_13, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_13, Philadelphia Eagles,2017
+['Joe Walker'],Questionable: Neck,week_13, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_13, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_13, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_13, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_13, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_14, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_14, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_14, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_14, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_14, Philadelphia Eagles,2017
+['Zach Ertz'],Questionable: Concussion,week_14, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_14, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_14, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_14, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_14, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_14, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_14, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_14, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_14, Philadelphia Eagles,2017
+['Chris Long'],NA,week_14, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_14, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_14, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_14, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_14, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_14, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_14, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_14, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_14, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_14, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_14, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_14, Philadelphia Eagles,2017
+['Joe Walker'],Questionable: Neck,week_14, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_14, Philadelphia Eagles,2017
+['Carson Wentz'],NA,week_14, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_14, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_14, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_15, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_15, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_15, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_15, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_15, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_15, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_15, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_15, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_15, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_15, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_15, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_15, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_15, Philadelphia Eagles,2017
+['Chris Long'],NA,week_15, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_15, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_15, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_15, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_15, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_15, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_15, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_15, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_15, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_15, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_15, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_15, Philadelphia Eagles,2017
+['Stefen Wisniewski'],Questionable: Ankle,week_15, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_16, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_16, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_16, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_16, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_16, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_16, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_16, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_16, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_16, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_16, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_16, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_16, Philadelphia Eagles,2017
+['Mychal Kendricks'],Questionable: Foot,week_16, Philadelphia Eagles,2017
+['Chris Long'],NA,week_16, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_16, Philadelphia Eagles,2017
+['Jalen Mills'],Questionable: Ankle,week_16, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_16, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_16, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_16, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_16, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_16, Philadelphia Eagles,2017
+['Joe Walker'],NA,week_16, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_16, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_16, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_16, Philadelphia Eagles,2017
+['Stefen Wisniewski'],Questionable: Ankle,week_16, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_17, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_17, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_17, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_17, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_17, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_17, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Brandon Graham'],Out: Ankle,week_17, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_17, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_17, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_17, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_17, Philadelphia Eagles,2017
+['Sidney Jones'],NA,week_17, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_17, Philadelphia Eagles,2017
+['Chris Long'],NA,week_17, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_17, Philadelphia Eagles,2017
+['Jalen Mills'],Questionable: Ankle,week_17, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_17, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_17, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_17, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_17, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_17, Philadelphia Eagles,2017
+['Joe Walker'],Injured Reserve: Neck,week_17, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_17, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_17, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_17, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_17, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_19, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_19, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_19, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_19, Philadelphia Eagles,2017
+['Dannell Ellerbe'],Questionable: Hamstring,week_19, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_19, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_19, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_19, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_19, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_19, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_19, Philadelphia Eagles,2017
+['Sidney Jones'],Questionable: Hamstring,week_19, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_19, Philadelphia Eagles,2017
+['Chris Long'],NA,week_19, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_19, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_19, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_19, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_19, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_19, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_19, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_19, Philadelphia Eagles,2017
+['Joe Walker'],Injured Reserve: Neck,week_19, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_19, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_19, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_19, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_19, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_20, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_20, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_20, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_20, Philadelphia Eagles,2017
+['Dannell Ellerbe'],Questionable: Hamstring,week_20, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_20, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_20, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_20, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_20, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_20, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_20, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_20, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_20, Philadelphia Eagles,2017
+['Chris Long'],NA,week_20, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_20, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_20, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_20, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_20, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_20, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_20, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_20, Philadelphia Eagles,2017
+['Joe Walker'],Injured Reserve: Neck,week_20, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_20, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_20, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_20, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_20, Philadelphia Eagles,2017
+['Beau Allen'],NA,week_21, Philadelphia Eagles,2017
+['Trey Burton'],NA,week_21, Philadelphia Eagles,2017
+['Fletcher Cox'],NA,week_21, Philadelphia Eagles,2017
+['Ronald Darby'],NA,week_21, Philadelphia Eagles,2017
+['Dannell Ellerbe'],NA,week_21, Philadelphia Eagles,2017
+['Zach Ertz'],NA,week_21, Philadelphia Eagles,2017
+['Randall Goforth'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Brandon Graham'],NA,week_21, Philadelphia Eagles,2017
+['Corey Graham'],NA,week_21, Philadelphia Eagles,2017
+['Jordan Hicks'],Injured Reserve: Achilles,week_21, Philadelphia Eagles,2017
+['Alshon Jeffery'],NA,week_21, Philadelphia Eagles,2017
+['Lane Johnson'],NA,week_21, Philadelphia Eagles,2017
+['Sidney Jones'],Injured Reserve: Achilles,week_21, Philadelphia Eagles,2017
+['Mychal Kendricks'],NA,week_21, Philadelphia Eagles,2017
+['Chris Long'],NA,week_21, Philadelphia Eagles,2017
+['Chris Maragos'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Rodney McLeod'],NA,week_21, Philadelphia Eagles,2017
+['Jalen Mills'],NA,week_21, Philadelphia Eagles,2017
+['Jason Peters'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Donnel Pumphrey'],Injured Reserve: Hamstring,week_21, Philadelphia Eagles,2017
+['Aziz Shittu'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Wendell Smallwood'],NA,week_21, Philadelphia Eagles,2017
+['Torrey Smith'],NA,week_21, Philadelphia Eagles,2017
+['Darren Sproles'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Caleb Sturgis'],Injured Reserve: Quadricep,week_21, Philadelphia Eagles,2017
+['Destiny Vaeao'],NA,week_21, Philadelphia Eagles,2017
+['Joe Walker'],Injured Reserve: Neck,week_21, Philadelphia Eagles,2017
+['Jaylen Watkins'],NA,week_21, Philadelphia Eagles,2017
+['Carson Wentz'],Injured Reserve: Knee,week_21, Philadelphia Eagles,2017
+['Dom Williams'],Injured Reserve: Achilles,week_21, Philadelphia Eagles,2017
+['Stefen Wisniewski'],NA,week_21, Philadelphia Eagles,2017

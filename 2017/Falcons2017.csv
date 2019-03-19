@@ -1,0 +1,469 @@
+﻿name,injury,week,team,year
+['Ricardo Allen'],NA,week_1,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_1,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_1,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_1,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_1,Atlanta Falcons,2017
+['Jack Crawford'],NA,week_1,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_1,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_1,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_1,Atlanta Falcons,2017
+['Brian Hill'],NA,week_1,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_1,Atlanta Falcons,2017
+['Alex Mack'],NA,week_1,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_1,Atlanta Falcons,2017
+['Austin Pasztor'],Questionable: Chest,week_1,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_1,Atlanta Falcons,2017
+['Duke Riley'],NA,week_1,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_1,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_1,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_1,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_1,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_1,Atlanta Falcons,2017
+['Jordan Tripp'],NA,week_1,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_1,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_1,Atlanta Falcons,2017
+['Terron Ward'],NA,week_1,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_1,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_2,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_2,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_2,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_2,Atlanta Falcons,2017
+['Jack Crawford'],NA,week_2,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_2,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_2,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_2,Atlanta Falcons,2017
+['Brian Hill'],Questionable: Ankle,week_2,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_2,Atlanta Falcons,2017
+['Alex Mack'],NA,week_2,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_2,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_2,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_2,Atlanta Falcons,2017
+['Duke Riley'],NA,week_2,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_2,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_2,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_2,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_2,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_2,Atlanta Falcons,2017
+['Jordan Tripp'],NA,week_2,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_2,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_2,Atlanta Falcons,2017
+['Terron Ward'],NA,week_2,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_2,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_3,Atlanta Falcons,2017
+['Vic Beasley'],Out: Hamstring,week_3,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_3,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_3,Atlanta Falcons,2017
+['Jack Crawford'],NA,week_3,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_3,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_3,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_3,Atlanta Falcons,2017
+['Brian Hill'],NA,week_3,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_3,Atlanta Falcons,2017
+['Alex Mack'],NA,week_3,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_3,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_3,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_3,Atlanta Falcons,2017
+['Duke Riley'],NA,week_3,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_3,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_3,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_3,Atlanta Falcons,2017
+['Ryan Schraeder'],Out: Concussion,week_3,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_3,Atlanta Falcons,2017
+['Jordan Tripp'],NA,week_3,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_3,Atlanta Falcons,2017
+['Courtney Upshaw'],Out: Ankle,week_3,Atlanta Falcons,2017
+['Terron Ward'],Out: Neck,week_3,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_3,Atlanta Falcons,2017
+['Ricardo Allen'],Out: Concussion,week_4,Atlanta Falcons,2017
+['Vic Beasley'],Out: Hamstring,week_4,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_4,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_4,Atlanta Falcons,2017
+['Jack Crawford'],NA,week_4,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_4,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_4,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_4,Atlanta Falcons,2017
+['Brian Hill'],NA,week_4,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_4,Atlanta Falcons,2017
+['Alex Mack'],NA,week_4,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_4,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_4,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_4,Atlanta Falcons,2017
+['Duke Riley'],NA,week_4,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_4,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_4,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_4,Atlanta Falcons,2017
+['Ryan Schraeder'],Out: Concussion,week_4,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_4,Atlanta Falcons,2017
+['Jordan Tripp'],NA,week_4,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_4,Atlanta Falcons,2017
+['Courtney Upshaw'],Out: Ankle,week_4,Atlanta Falcons,2017
+['Terron Ward'],Out: Neck,week_4,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_4,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_6,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_6,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_6,Atlanta Falcons,2017
+['Matt Bryant'],Questionable: Back,week_6,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_6,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_6,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_6,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_6,Atlanta Falcons,2017
+['Jermaine Grace'],Out: Hamstring,week_6,Atlanta Falcons,2017
+['Brian Hill'],NA,week_6,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_6,Atlanta Falcons,2017
+['Alex Mack'],NA,week_6,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_6,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_6,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_6,Atlanta Falcons,2017
+['Duke Riley'],NA,week_6,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_6,Atlanta Falcons,2017
+['Mohamed Sanu'],Out: Hamstring,week_6,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_6,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_6,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_6,Atlanta Falcons,2017
+['Jordan Tripp'],NA,week_6,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_6,Atlanta Falcons,2017
+['Courtney Upshaw'],Out: Ankle,week_6,Atlanta Falcons,2017
+['Terron Ward'],NA,week_6,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_6,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_7,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_7,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_7,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_7,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_7,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_7,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_7,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_7,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_7,Atlanta Falcons,2017
+['Brian Hill'],NA,week_7,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_7,Atlanta Falcons,2017
+['Alex Mack'],NA,week_7,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_7,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_7,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_7,Atlanta Falcons,2017
+['Duke Riley'],NA,week_7,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_7,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_7,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_7,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_7,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_7,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_7,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_7,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_7,Atlanta Falcons,2017
+['Terron Ward'],NA,week_7,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_7,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_8,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_8,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_8,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_8,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_8,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_8,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_8,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_8,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_8,Atlanta Falcons,2017
+['Brian Hill'],NA,week_8,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_8,Atlanta Falcons,2017
+['Alex Mack'],NA,week_8,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_8,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_8,Atlanta Falcons,2017
+['LaRoy Reynolds'],Injured Reserve: Pectoral,week_8,Atlanta Falcons,2017
+['Duke Riley'],Out: Knee,week_8,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_8,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_8,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_8,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_8,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_8,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_8,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_8,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_8,Atlanta Falcons,2017
+['Terron Ward'],NA,week_8,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_8,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_9,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_9,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_9,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_9,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_9,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_9,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_9,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_9,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_9,Atlanta Falcons,2017
+['Brian Hill'],NA,week_9,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_9,Atlanta Falcons,2017
+['Alex Mack'],NA,week_9,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_9,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_9,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_9,Atlanta Falcons,2017
+['Duke Riley'],Out: Knee,week_9,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_9,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_9,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_9,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_9,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_9,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_9,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_9,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_9,Atlanta Falcons,2017
+['Terron Ward'],NA,week_9,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_9,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_10,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_10,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_10,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_10,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_10,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_10,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_10,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_10,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_10,Atlanta Falcons,2017
+['Brian Hill'],NA,week_10,Atlanta Falcons,2017
+['Andy Levitre'],Questionable: Knee,week_10,Atlanta Falcons,2017
+['Alex Mack'],NA,week_10,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_10,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_10,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_10,Atlanta Falcons,2017
+['Duke Riley'],Out: Knee,week_10,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_10,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_10,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_10,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_10,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_10,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_10,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_10,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_10,Atlanta Falcons,2017
+['Terron Ward'],NA,week_10,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_10,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_11,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_11,Atlanta Falcons,2017
+['Matthew Bosher'],Questionable: leftAnkle,week_11,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_11,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_11,Atlanta Falcons,2017
+['Devonta Freeman'],Out: Concussion,week_11,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_11,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_11,Atlanta Falcons,2017
+['Brian Hill'],NA,week_11,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_11,Atlanta Falcons,2017
+['Alex Mack'],NA,week_11,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_11,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_11,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_11,Atlanta Falcons,2017
+['Duke Riley'],Questionable: Knee,week_11,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_11,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_11,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_11,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_11,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_11,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_11,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_11,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_11,Atlanta Falcons,2017
+['Terron Ward'],NA,week_11,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_11,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_12,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_12,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_12,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_12,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_12,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_12,Atlanta Falcons,2017
+['Devonta Freeman'],Out: Concussion,week_12,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_12,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_12,Atlanta Falcons,2017
+['Brian Hill'],NA,week_12,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_12,Atlanta Falcons,2017
+['Alex Mack'],NA,week_12,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_12,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_12,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_12,Atlanta Falcons,2017
+['Duke Riley'],NA,week_12,Atlanta Falcons,2017
+['Ty Sambrailo'],Out: Hamstring,week_12,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_12,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_12,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_12,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_12,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_12,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_12,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_12,Atlanta Falcons,2017
+['Terron Ward'],NA,week_12,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_12,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_13,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_13,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_13,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_13,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_13,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_13,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_13,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_13,Atlanta Falcons,2017
+['Brian Hill'],NA,week_13,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_13,Atlanta Falcons,2017
+['Alex Mack'],NA,week_13,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_13,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_13,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_13,Atlanta Falcons,2017
+['Duke Riley'],NA,week_13,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_13,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_13,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_13,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_13,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_13,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_13,Atlanta Falcons,2017
+['Desmond Trufant'],Out: Concussion,week_13,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_13,Atlanta Falcons,2017
+['Terron Ward'],NA,week_13,Atlanta Falcons,2017
+['Sean Weatherspoon'],Questionable: Illness,week_13,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_14,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_14,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_14,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_14,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_14,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_14,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_14,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_14,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_14,Atlanta Falcons,2017
+['Brian Hill'],NA,week_14,Atlanta Falcons,2017
+['Andy Levitre'],Out: Triceps,week_14,Atlanta Falcons,2017
+['Alex Mack'],NA,week_14,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_14,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_14,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_14,Atlanta Falcons,2017
+['Duke Riley'],NA,week_14,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_14,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_14,Atlanta Falcons,2017
+['Eric Saubert'],Out: Back,week_14,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_14,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_14,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_14,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_14,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_14,Atlanta Falcons,2017
+['Terron Ward'],NA,week_14,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_14,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_15,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_15,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_15,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_15,Atlanta Falcons,2017
+['Tevin Coleman'],Out: Concussion,week_15,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_15,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_15,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_15,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_15,Atlanta Falcons,2017
+['Brian Hill'],NA,week_15,Atlanta Falcons,2017
+['Andy Levitre'],Out: Triceps,week_15,Atlanta Falcons,2017
+['Alex Mack'],NA,week_15,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_15,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_15,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_15,Atlanta Falcons,2017
+['Duke Riley'],NA,week_15,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_15,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_15,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_15,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_15,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_15,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_15,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_15,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_15,Atlanta Falcons,2017
+['Terron Ward'],NA,week_15,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_15,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_16,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_16,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_16,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_16,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_16,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_16,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_16,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_16,Atlanta Falcons,2017
+['Brian Hill'],NA,week_16,Atlanta Falcons,2017
+['Andy Levitre'],Questionable: Triceps,week_16,Atlanta Falcons,2017
+['Alex Mack'],NA,week_16,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_16,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_16,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_16,Atlanta Falcons,2017
+['Duke Riley'],NA,week_16,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_16,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_16,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_16,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_16,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_16,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_16,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_16,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_16,Atlanta Falcons,2017
+['Terron Ward'],NA,week_16,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_16,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_17,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_17,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_17,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_17,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_17,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_17,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_17,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_17,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_17,Atlanta Falcons,2017
+['Brian Hill'],NA,week_17,Atlanta Falcons,2017
+['Andy Levitre'],NA,week_17,Atlanta Falcons,2017
+['Alex Mack'],Questionable: Calf,week_17,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_17,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_17,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_17,Atlanta Falcons,2017
+['Duke Riley'],NA,week_17,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_17,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_17,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_17,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_17,Atlanta Falcons,2017
+['Levine Toilolo'],Out: Knee,week_17,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_17,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_17,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_17,Atlanta Falcons,2017
+['Terron Ward'],NA,week_17,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_17,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_18,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_18,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_18,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_18,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_18,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_18,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_18,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_18,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_18,Atlanta Falcons,2017
+['Brian Hill'],NA,week_18,Atlanta Falcons,2017
+['Andy Levitre'],Injured Reserve: Tricep,week_18,Atlanta Falcons,2017
+['Alex Mack'],NA,week_18,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_18,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_18,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_18,Atlanta Falcons,2017
+['Duke Riley'],NA,week_18,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_18,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_18,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_18,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_18,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_18,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_18,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_18,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_18,Atlanta Falcons,2017
+['Terron Ward'],NA,week_18,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_18,Atlanta Falcons,2017
+['Ricardo Allen'],NA,week_19,Atlanta Falcons,2017
+['Vic Beasley'],NA,week_19,Atlanta Falcons,2017
+['Matthew Bosher'],NA,week_19,Atlanta Falcons,2017
+['Matt Bryant'],NA,week_19,Atlanta Falcons,2017
+['Tevin Coleman'],NA,week_19,Atlanta Falcons,2017
+['Jack Crawford'],Injured Reserve: Bicep,week_19,Atlanta Falcons,2017
+['Devonta Freeman'],NA,week_19,Atlanta Falcons,2017
+['Devin Fuller'],Injured Reserve: Knee,week_19,Atlanta Falcons,2017
+['Jermaine Grace'],NA,week_19,Atlanta Falcons,2017
+['Brian Hill'],NA,week_19,Atlanta Falcons,2017
+['Andy Levitre'],Injured Reserve: Tricep,week_19,Atlanta Falcons,2017
+['Alex Mack'],NA,week_19,Atlanta Falcons,2017
+['Quincy Mauger'],Injured Reserve: Knee,week_19,Atlanta Falcons,2017
+['Austin Pasztor'],NA,week_19,Atlanta Falcons,2017
+['LaRoy Reynolds'],NA,week_19,Atlanta Falcons,2017
+['Duke Riley'],NA,week_19,Atlanta Falcons,2017
+['Ty Sambrailo'],NA,week_19,Atlanta Falcons,2017
+['Mohamed Sanu'],NA,week_19,Atlanta Falcons,2017
+['Eric Saubert'],NA,week_19,Atlanta Falcons,2017
+['Ryan Schraeder'],NA,week_19,Atlanta Falcons,2017
+['Levine Toilolo'],NA,week_19,Atlanta Falcons,2017
+['Jordan Tripp'],Injured Reserve: Concussion,week_19,Atlanta Falcons,2017
+['Desmond Trufant'],NA,week_19,Atlanta Falcons,2017
+['Courtney Upshaw'],NA,week_19,Atlanta Falcons,2017
+['Terron Ward'],NA,week_19,Atlanta Falcons,2017
+['Sean Weatherspoon'],NA,week_19,Atlanta Falcons,2017

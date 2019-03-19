@@ -1,0 +1,513 @@
+﻿name,injury,week,team,year
+['Garett Bolles'],NA,week_1,Denver Broncos,2017
+['Devontae Booker'],Out: Wrist,week_1,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_1,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_1,Denver Broncos,2017
+['Todd Davis'],NA,week_1,Denver Broncos,2017
+['A.J. Derby'],NA,week_1,Denver Broncos,2017
+['Bennie Fowler'],NA,week_1,Denver Broncos,2017
+['Adam Gotsis'],NA,week_1,Denver Broncos,2017
+['Virgil Green'],NA,week_1,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_1,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_1,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_1,Denver Broncos,2017
+['Zach Kerr'],Out: Knee,week_1,Denver Broncos,2017
+['Brendan Langley'],NA,week_1,Denver Broncos,2017
+['Cody Latimer'],NA,week_1,Denver Broncos,2017
+['Ronald Leary'],NA,week_1,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_1,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_1,Denver Broncos,2017
+['Corey Nelson'],NA,week_1,Denver Broncos,2017
+['Domata Peko'],NA,week_1,Denver Broncos,2017
+['Kyle Peko'],Questionable: Foot,week_1,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_1,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_1,Denver Broncos,2017
+['Trevor Siemian'],NA,week_1,Denver Broncos,2017
+['Justin Simmons'],NA,week_1,Denver Broncos,2017
+['Donald Stephenson'],NA,week_1,Denver Broncos,2017
+['Darian Stewart'],NA,week_1,Denver Broncos,2017
+['Billy Turner'],NA,week_1,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_1,Denver Broncos,2017
+['Menelik Watson'],NA,week_1,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_1,Denver Broncos,2017
+['Derek Wolfe'],NA,week_1,Denver Broncos,2017
+['Garett Bolles'],NA,week_2,Denver Broncos,2017
+['Devontae Booker'],Out: Wrist,week_2,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_2,Denver Broncos,2017
+['Jared Crick'],Out: Back,week_2,Denver Broncos,2017
+['Todd Davis'],NA,week_2,Denver Broncos,2017
+['A.J. Derby'],NA,week_2,Denver Broncos,2017
+['Bennie Fowler'],NA,week_2,Denver Broncos,2017
+['Adam Gotsis'],NA,week_2,Denver Broncos,2017
+['Virgil Green'],NA,week_2,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_2,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_2,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_2,Denver Broncos,2017
+['Zach Kerr'],Questionable: Knee,week_2,Denver Broncos,2017
+['Brendan Langley'],Out: Knee,week_2,Denver Broncos,2017
+['Cody Latimer'],NA,week_2,Denver Broncos,2017
+['Ronald Leary'],Questionable: Concussion,week_2,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_2,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_2,Denver Broncos,2017
+['Corey Nelson'],NA,week_2,Denver Broncos,2017
+['Domata Peko'],NA,week_2,Denver Broncos,2017
+['Kyle Peko'],NA,week_2,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_2,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_2,Denver Broncos,2017
+['Trevor Siemian'],NA,week_2,Denver Broncos,2017
+['Justin Simmons'],NA,week_2,Denver Broncos,2017
+['Donald Stephenson'],NA,week_2,Denver Broncos,2017
+['Darian Stewart'],Questionable: Groin,week_2,Denver Broncos,2017
+['Billy Turner'],NA,week_2,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_2,Denver Broncos,2017
+['Menelik Watson'],NA,week_2,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_2,Denver Broncos,2017
+['Derek Wolfe'],NA,week_2,Denver Broncos,2017
+['Garett Bolles'],Questionable: LowerLeg,week_3,Denver Broncos,2017
+['Devontae Booker'],Injured Reserve: Wrist,week_3,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_3,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_3,Denver Broncos,2017
+['Todd Davis'],NA,week_3,Denver Broncos,2017
+['A.J. Derby'],NA,week_3,Denver Broncos,2017
+['Bennie Fowler'],Questionable: Concussion,week_3,Denver Broncos,2017
+['Adam Gotsis'],NA,week_3,Denver Broncos,2017
+['Virgil Green'],NA,week_3,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_3,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_3,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_3,Denver Broncos,2017
+['Zach Kerr'],NA,week_3,Denver Broncos,2017
+['Brendan Langley'],Out: Knee,week_3,Denver Broncos,2017
+['Cody Latimer'],NA,week_3,Denver Broncos,2017
+['Ronald Leary'],NA,week_3,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_3,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_3,Denver Broncos,2017
+['Corey Nelson'],NA,week_3,Denver Broncos,2017
+['Domata Peko'],NA,week_3,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_3,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_3,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_3,Denver Broncos,2017
+['Trevor Siemian'],NA,week_3,Denver Broncos,2017
+['Justin Simmons'],NA,week_3,Denver Broncos,2017
+['Donald Stephenson'],NA,week_3,Denver Broncos,2017
+['Darian Stewart'],NA,week_3,Denver Broncos,2017
+['Billy Turner'],NA,week_3,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_3,Denver Broncos,2017
+['Menelik Watson'],NA,week_3,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_3,Denver Broncos,2017
+['Derek Wolfe'],NA,week_3,Denver Broncos,2017
+['Garett Bolles'],NA,week_4,Denver Broncos,2017
+['Devontae Booker'],NA,week_4,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_4,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_4,Denver Broncos,2017
+['Todd Davis'],NA,week_4,Denver Broncos,2017
+['A.J. Derby'],NA,week_4,Denver Broncos,2017
+['Bennie Fowler'],NA,week_4,Denver Broncos,2017
+['Adam Gotsis'],NA,week_4,Denver Broncos,2017
+['Virgil Green'],NA,week_4,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_4,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_4,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_4,Denver Broncos,2017
+['Zach Kerr'],NA,week_4,Denver Broncos,2017
+['Brendan Langley'],NA,week_4,Denver Broncos,2017
+['Cody Latimer'],Questionable: Knee,week_4,Denver Broncos,2017
+['Ronald Leary'],NA,week_4,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_4,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_4,Denver Broncos,2017
+['Corey Nelson'],NA,week_4,Denver Broncos,2017
+['Domata Peko'],NA,week_4,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_4,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_4,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_4,Denver Broncos,2017
+['Trevor Siemian'],NA,week_4,Denver Broncos,2017
+['Justin Simmons'],NA,week_4,Denver Broncos,2017
+['Donald Stephenson'],NA,week_4,Denver Broncos,2017
+['Darian Stewart'],NA,week_4,Denver Broncos,2017
+['Billy Turner'],NA,week_4,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_4,Denver Broncos,2017
+['Menelik Watson'],NA,week_4,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_4,Denver Broncos,2017
+['Derek Wolfe'],NA,week_4,Denver Broncos,2017
+['Garett Bolles'],NA,week_6,Denver Broncos,2017
+['Devontae Booker'],NA,week_6,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_6,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_6,Denver Broncos,2017
+['Todd Davis'],NA,week_6,Denver Broncos,2017
+['A.J. Derby'],NA,week_6,Denver Broncos,2017
+['Bennie Fowler'],NA,week_6,Denver Broncos,2017
+['Adam Gotsis'],NA,week_6,Denver Broncos,2017
+['Virgil Green'],NA,week_6,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_6,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_6,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_6,Denver Broncos,2017
+['Zach Kerr'],NA,week_6,Denver Broncos,2017
+['Brendan Langley'],NA,week_6,Denver Broncos,2017
+['Cody Latimer'],Out: Knee,week_6,Denver Broncos,2017
+['Ronald Leary'],NA,week_6,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_6,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_6,Denver Broncos,2017
+['Corey Nelson'],NA,week_6,Denver Broncos,2017
+['Domata Peko'],NA,week_6,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_6,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_6,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_6,Denver Broncos,2017
+['Trevor Siemian'],NA,week_6,Denver Broncos,2017
+['Justin Simmons'],NA,week_6,Denver Broncos,2017
+['Donald Stephenson'],NA,week_6,Denver Broncos,2017
+['Darian Stewart'],NA,week_6,Denver Broncos,2017
+['Billy Turner'],NA,week_6,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_6,Denver Broncos,2017
+['Menelik Watson'],NA,week_6,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_6,Denver Broncos,2017
+['Derek Wolfe'],NA,week_6,Denver Broncos,2017
+['Garett Bolles'],NA,week_7,Denver Broncos,2017
+['Devontae Booker'],NA,week_7,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_7,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_7,Denver Broncos,2017
+['Todd Davis'],NA,week_7,Denver Broncos,2017
+['A.J. Derby'],NA,week_7,Denver Broncos,2017
+['Bennie Fowler'],NA,week_7,Denver Broncos,2017
+['Adam Gotsis'],NA,week_7,Denver Broncos,2017
+['Virgil Green'],NA,week_7,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_7,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_7,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_7,Denver Broncos,2017
+['Zach Kerr'],NA,week_7,Denver Broncos,2017
+['Brendan Langley'],NA,week_7,Denver Broncos,2017
+['Cody Latimer'],Out: Knee,week_7,Denver Broncos,2017
+['Ronald Leary'],NA,week_7,Denver Broncos,2017
+['Paxton Lynch'],Out: rightShoulder,week_7,Denver Broncos,2017
+['Isaiah McKenzie'],Out: Ankle,week_7,Denver Broncos,2017
+['Corey Nelson'],Out: Elbow,week_7,Denver Broncos,2017
+['Domata Peko'],NA,week_7,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_7,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_7,Denver Broncos,2017
+['Emmanuel Sanders'],Out: Ankle,week_7,Denver Broncos,2017
+['Trevor Siemian'],NA,week_7,Denver Broncos,2017
+['Justin Simmons'],NA,week_7,Denver Broncos,2017
+['Donald Stephenson'],Out: Calf,week_7,Denver Broncos,2017
+['Darian Stewart'],NA,week_7,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_7,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_7,Denver Broncos,2017
+['Menelik Watson'],Out: Calf,week_7,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_7,Denver Broncos,2017
+['Derek Wolfe'],NA,week_7,Denver Broncos,2017
+['Garett Bolles'],NA,week_8,Denver Broncos,2017
+['Devontae Booker'],NA,week_8,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_8,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_8,Denver Broncos,2017
+['Todd Davis'],Questionable: Ankle,week_8,Denver Broncos,2017
+['A.J. Derby'],NA,week_8,Denver Broncos,2017
+['Bennie Fowler'],NA,week_8,Denver Broncos,2017
+['Adam Gotsis'],NA,week_8,Denver Broncos,2017
+['Virgil Green'],Questionable: Shoulder,week_8,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_8,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_8,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_8,Denver Broncos,2017
+['Zach Kerr'],NA,week_8,Denver Broncos,2017
+['Brendan Langley'],NA,week_8,Denver Broncos,2017
+['Cody Latimer'],NA,week_8,Denver Broncos,2017
+['Ronald Leary'],NA,week_8,Denver Broncos,2017
+['Paxton Lynch'],NA,week_8,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_8,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_8,Denver Broncos,2017
+['Domata Peko'],NA,week_8,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_8,Denver Broncos,2017
+['Shane Ray'],NA,week_8,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_8,Denver Broncos,2017
+['Trevor Siemian'],NA,week_8,Denver Broncos,2017
+['Justin Simmons'],NA,week_8,Denver Broncos,2017
+['Donald Stephenson'],Out: Calf,week_8,Denver Broncos,2017
+['Darian Stewart'],NA,week_8,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_8,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_8,Denver Broncos,2017
+['Menelik Watson'],NA,week_8,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_8,Denver Broncos,2017
+['Derek Wolfe'],Questionable: Hand,week_8,Denver Broncos,2017
+['Garett Bolles'],NA,week_9,Denver Broncos,2017
+['Devontae Booker'],NA,week_9,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_9,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_9,Denver Broncos,2017
+['Todd Davis'],Questionable: Ankle,week_9,Denver Broncos,2017
+['A.J. Derby'],NA,week_9,Denver Broncos,2017
+['Bennie Fowler'],NA,week_9,Denver Broncos,2017
+['Adam Gotsis'],NA,week_9,Denver Broncos,2017
+['Virgil Green'],NA,week_9,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_9,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_9,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_9,Denver Broncos,2017
+['Zach Kerr'],NA,week_9,Denver Broncos,2017
+['Brendan Langley'],NA,week_9,Denver Broncos,2017
+['Cody Latimer'],NA,week_9,Denver Broncos,2017
+['Ronald Leary'],Questionable: Elbow,week_9,Denver Broncos,2017
+['Paxton Lynch'],NA,week_9,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_9,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_9,Denver Broncos,2017
+['Domata Peko'],NA,week_9,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_9,Denver Broncos,2017
+['Shane Ray'],NA,week_9,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_9,Denver Broncos,2017
+['Trevor Siemian'],NA,week_9,Denver Broncos,2017
+['Justin Simmons'],NA,week_9,Denver Broncos,2017
+['Donald Stephenson'],Out: Calf,week_9,Denver Broncos,2017
+['Darian Stewart'],NA,week_9,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_9,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_9,Denver Broncos,2017
+['Menelik Watson'],NA,week_9,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_9,Denver Broncos,2017
+['Derek Wolfe'],NA,week_9,Denver Broncos,2017
+['Garett Bolles'],NA,week_10,Denver Broncos,2017
+['Devontae Booker'],NA,week_10,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_10,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_10,Denver Broncos,2017
+['Todd Davis'],Questionable: Ankle,week_10,Denver Broncos,2017
+['A.J. Derby'],NA,week_10,Denver Broncos,2017
+['Bennie Fowler'],NA,week_10,Denver Broncos,2017
+['Adam Gotsis'],NA,week_10,Denver Broncos,2017
+['Virgil Green'],NA,week_10,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_10,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_10,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_10,Denver Broncos,2017
+['Zach Kerr'],NA,week_10,Denver Broncos,2017
+['Brendan Langley'],NA,week_10,Denver Broncos,2017
+['Cody Latimer'],NA,week_10,Denver Broncos,2017
+['Ronald Leary'],NA,week_10,Denver Broncos,2017
+['Paxton Lynch'],NA,week_10,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_10,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_10,Denver Broncos,2017
+['Domata Peko'],NA,week_10,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_10,Denver Broncos,2017
+['Shane Ray'],NA,week_10,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_10,Denver Broncos,2017
+['Trevor Siemian'],NA,week_10,Denver Broncos,2017
+['Justin Simmons'],NA,week_10,Denver Broncos,2017
+['Donald Stephenson'],Questionable: Calf,week_10,Denver Broncos,2017
+['Darian Stewart'],NA,week_10,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_10,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_10,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_10,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_10,Denver Broncos,2017
+['Derek Wolfe'],NA,week_10,Denver Broncos,2017
+['Garett Bolles'],NA,week_11,Denver Broncos,2017
+['Devontae Booker'],NA,week_11,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_11,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_11,Denver Broncos,2017
+['Todd Davis'],NA,week_11,Denver Broncos,2017
+['A.J. Derby'],Out: Shoulder,week_11,Denver Broncos,2017
+['Bennie Fowler'],NA,week_11,Denver Broncos,2017
+['Adam Gotsis'],NA,week_11,Denver Broncos,2017
+['Virgil Green'],NA,week_11,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_11,Denver Broncos,2017
+['Jeff Heuerman'],Out: Knee,week_11,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_11,Denver Broncos,2017
+['Zach Kerr'],NA,week_11,Denver Broncos,2017
+['Brendan Langley'],NA,week_11,Denver Broncos,2017
+['Cody Latimer'],Questionable: Knee,week_11,Denver Broncos,2017
+['Ronald Leary'],NA,week_11,Denver Broncos,2017
+['Paxton Lynch'],NA,week_11,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_11,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_11,Denver Broncos,2017
+['Domata Peko'],NA,week_11,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_11,Denver Broncos,2017
+['Shane Ray'],NA,week_11,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_11,Denver Broncos,2017
+['Trevor Siemian'],NA,week_11,Denver Broncos,2017
+['Justin Simmons'],NA,week_11,Denver Broncos,2017
+['Donald Stephenson'],Questionable: Calf,week_11,Denver Broncos,2017
+['Darian Stewart'],NA,week_11,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_11,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_11,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_11,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_11,Denver Broncos,2017
+['Derek Wolfe'],NA,week_11,Denver Broncos,2017
+['Garett Bolles'],NA,week_12,Denver Broncos,2017
+['Devontae Booker'],NA,week_12,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_12,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_12,Denver Broncos,2017
+['Todd Davis'],NA,week_12,Denver Broncos,2017
+['A.J. Derby'],NA,week_12,Denver Broncos,2017
+['Bennie Fowler'],NA,week_12,Denver Broncos,2017
+['Adam Gotsis'],Questionable: Ankle,week_12,Denver Broncos,2017
+['Virgil Green'],NA,week_12,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_12,Denver Broncos,2017
+['Jeff Heuerman'],Questionable: Knee,week_12,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_12,Denver Broncos,2017
+['Zach Kerr'],NA,week_12,Denver Broncos,2017
+['Brendan Langley'],NA,week_12,Denver Broncos,2017
+['Cody Latimer'],NA,week_12,Denver Broncos,2017
+['Ronald Leary'],NA,week_12,Denver Broncos,2017
+['Paxton Lynch'],NA,week_12,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_12,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_12,Denver Broncos,2017
+['Domata Peko'],Questionable: Illness,week_12,Denver Broncos,2017
+['Kyle Peko'],Injured Reserve: Foot,week_12,Denver Broncos,2017
+['Shane Ray'],Questionable: Wrist,week_12,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_12,Denver Broncos,2017
+['Trevor Siemian'],NA,week_12,Denver Broncos,2017
+['Justin Simmons'],NA,week_12,Denver Broncos,2017
+['Donald Stephenson'],NA,week_12,Denver Broncos,2017
+['Darian Stewart'],NA,week_12,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_12,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_12,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_12,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_12,Denver Broncos,2017
+['Derek Wolfe'],NA,week_12,Denver Broncos,2017
+['Garett Bolles'],NA,week_13,Denver Broncos,2017
+['Devontae Booker'],NA,week_13,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_13,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_13,Denver Broncos,2017
+['Todd Davis'],Questionable: Ankle,week_13,Denver Broncos,2017
+['A.J. Derby'],NA,week_13,Denver Broncos,2017
+['Bennie Fowler'],NA,week_13,Denver Broncos,2017
+['Adam Gotsis'],NA,week_13,Denver Broncos,2017
+['Virgil Green'],NA,week_13,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_13,Denver Broncos,2017
+['Jeff Heuerman'],Questionable: Knee,week_13,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_13,Denver Broncos,2017
+['Zach Kerr'],NA,week_13,Denver Broncos,2017
+['Brendan Langley'],NA,week_13,Denver Broncos,2017
+['Cody Latimer'],NA,week_13,Denver Broncos,2017
+['Ronald Leary'],Injured Reserve: Back,week_13,Denver Broncos,2017
+['Paxton Lynch'],Out: Ankle,week_13,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_13,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_13,Denver Broncos,2017
+['Domata Peko'],Out: Knee,week_13,Denver Broncos,2017
+['Kyle Peko'],NA,week_13,Denver Broncos,2017
+['Shane Ray'],Questionable: Wrist,week_13,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_13,Denver Broncos,2017
+['Trevor Siemian'],NA,week_13,Denver Broncos,2017
+['Justin Simmons'],NA,week_13,Denver Broncos,2017
+['Donald Stephenson'],NA,week_13,Denver Broncos,2017
+['Darian Stewart'],NA,week_13,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_13,Denver Broncos,2017
+['DeMarcus Walker'],Questionable: Illness,week_13,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_13,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_13,Denver Broncos,2017
+['Derek Wolfe'],Injured Reserve: Neck,week_13,Denver Broncos,2017
+['Garett Bolles'],NA,week_14,Denver Broncos,2017
+['Devontae Booker'],NA,week_14,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_14,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_14,Denver Broncos,2017
+['Todd Davis'],NA,week_14,Denver Broncos,2017
+['A.J. Derby'],NA,week_14,Denver Broncos,2017
+['Bennie Fowler'],NA,week_14,Denver Broncos,2017
+['Adam Gotsis'],Questionable: Illness,week_14,Denver Broncos,2017
+['Virgil Green'],NA,week_14,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_14,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_14,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_14,Denver Broncos,2017
+['Zach Kerr'],NA,week_14,Denver Broncos,2017
+['Brendan Langley'],NA,week_14,Denver Broncos,2017
+['Cody Latimer'],NA,week_14,Denver Broncos,2017
+['Ronald Leary'],Injured Reserve: Back,week_14,Denver Broncos,2017
+['Paxton Lynch'],Out: Ankle,week_14,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_14,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_14,Denver Broncos,2017
+['Domata Peko'],Questionable: Knee,week_14,Denver Broncos,2017
+['Kyle Peko'],NA,week_14,Denver Broncos,2017
+['Shane Ray'],NA,week_14,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_14,Denver Broncos,2017
+['Trevor Siemian'],NA,week_14,Denver Broncos,2017
+['Justin Simmons'],NA,week_14,Denver Broncos,2017
+['Donald Stephenson'],NA,week_14,Denver Broncos,2017
+['Darian Stewart'],NA,week_14,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_14,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_14,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_14,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_14,Denver Broncos,2017
+['Derek Wolfe'],Injured Reserve: Neck,week_14,Denver Broncos,2017
+['Garett Bolles'],NA,week_15,Denver Broncos,2017
+['Devontae Booker'],NA,week_15,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_15,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_15,Denver Broncos,2017
+['Todd Davis'],NA,week_15,Denver Broncos,2017
+['A.J. Derby'],NA,week_15,Denver Broncos,2017
+['Bennie Fowler'],NA,week_15,Denver Broncos,2017
+['Adam Gotsis'],NA,week_15,Denver Broncos,2017
+['Virgil Green'],NA,week_15,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_15,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_15,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_15,Denver Broncos,2017
+['Zach Kerr'],NA,week_15,Denver Broncos,2017
+['Brendan Langley'],NA,week_15,Denver Broncos,2017
+['Cody Latimer'],NA,week_15,Denver Broncos,2017
+['Ronald Leary'],Injured Reserve: Back,week_15,Denver Broncos,2017
+['Paxton Lynch'],Out: Ankle,week_15,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_15,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_15,Denver Broncos,2017
+['Domata Peko'],Questionable: Knee,week_15,Denver Broncos,2017
+['Kyle Peko'],NA,week_15,Denver Broncos,2017
+['Shane Ray'],NA,week_15,Denver Broncos,2017
+['Emmanuel Sanders'],NA,week_15,Denver Broncos,2017
+['Trevor Siemian'],NA,week_15,Denver Broncos,2017
+['Justin Simmons'],Injured Reserve: Ankle,week_15,Denver Broncos,2017
+['Donald Stephenson'],NA,week_15,Denver Broncos,2017
+['Darian Stewart'],NA,week_15,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_15,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_15,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_15,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_15,Denver Broncos,2017
+['Derek Wolfe'],Injured Reserve: Neck,week_15,Denver Broncos,2017
+['Garett Bolles'],NA,week_16,Denver Broncos,2017
+['Devontae Booker'],NA,week_16,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_16,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_16,Denver Broncos,2017
+['Todd Davis'],NA,week_16,Denver Broncos,2017
+['A.J. Derby'],NA,week_16,Denver Broncos,2017
+['Bennie Fowler'],NA,week_16,Denver Broncos,2017
+['Adam Gotsis'],NA,week_16,Denver Broncos,2017
+['Virgil Green'],NA,week_16,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_16,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_16,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_16,Denver Broncos,2017
+['Zach Kerr'],NA,week_16,Denver Broncos,2017
+['Brendan Langley'],NA,week_16,Denver Broncos,2017
+['Cody Latimer'],Questionable: Thigh,week_16,Denver Broncos,2017
+['Ronald Leary'],Injured Reserve: Back,week_16,Denver Broncos,2017
+['Paxton Lynch'],Questionable: Ankle,week_16,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_16,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_16,Denver Broncos,2017
+['Domata Peko'],NA,week_16,Denver Broncos,2017
+['Kyle Peko'],NA,week_16,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_16,Denver Broncos,2017
+['Emmanuel Sanders'],Questionable: Ankle,week_16,Denver Broncos,2017
+['Trevor Siemian'],Injured Reserve: Shoulder,week_16,Denver Broncos,2017
+['Justin Simmons'],Injured Reserve: Ankle,week_16,Denver Broncos,2017
+['Donald Stephenson'],NA,week_16,Denver Broncos,2017
+['Darian Stewart'],NA,week_16,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_16,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_16,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_16,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_16,Denver Broncos,2017
+['Derek Wolfe'],Injured Reserve: Neck,week_16,Denver Broncos,2017
+['Garett Bolles'],NA,week_17,Denver Broncos,2017
+['Devontae Booker'],NA,week_17,Denver Broncos,2017
+['Jake Butt'],Injured Reserve: Knee,week_17,Denver Broncos,2017
+['Jared Crick'],Injured Reserve: Back,week_17,Denver Broncos,2017
+['Todd Davis'],NA,week_17,Denver Broncos,2017
+['A.J. Derby'],NA,week_17,Denver Broncos,2017
+['Bennie Fowler'],NA,week_17,Denver Broncos,2017
+['Adam Gotsis'],NA,week_17,Denver Broncos,2017
+['Virgil Green'],NA,week_17,Denver Broncos,2017
+['Carlos Henderson'],Injured Reserve: Thumb,week_17,Denver Broncos,2017
+['Jeff Heuerman'],NA,week_17,Denver Broncos,2017
+['Chad Kelly'],Injured Reserve: Wrist,week_17,Denver Broncos,2017
+['Zach Kerr'],Out: Ankle,week_17,Denver Broncos,2017
+['Brendan Langley'],NA,week_17,Denver Broncos,2017
+['Cody Latimer'],Out: Thigh,week_17,Denver Broncos,2017
+['Ronald Leary'],Injured Reserve: Back,week_17,Denver Broncos,2017
+['Paxton Lynch'],NA,week_17,Denver Broncos,2017
+['Isaiah McKenzie'],NA,week_17,Denver Broncos,2017
+['Corey Nelson'],Injured Reserve: Elbow,week_17,Denver Broncos,2017
+['Domata Peko'],NA,week_17,Denver Broncos,2017
+['Kyle Peko'],NA,week_17,Denver Broncos,2017
+['Shane Ray'],Injured Reserve: Wrist,week_17,Denver Broncos,2017
+['Emmanuel Sanders'],Out: Ankle,week_17,Denver Broncos,2017
+['Trevor Siemian'],Injured Reserve: Shoulder,week_17,Denver Broncos,2017
+['Justin Simmons'],Injured Reserve: Ankle,week_17,Denver Broncos,2017
+['Donald Stephenson'],Questionable: Hand,week_17,Denver Broncos,2017
+['Darian Stewart'],NA,week_17,Denver Broncos,2017
+['Billy Turner'],Injured Reserve: Hand,week_17,Denver Broncos,2017
+['DeMarcus Walker'],NA,week_17,Denver Broncos,2017
+['Menelik Watson'],Injured Reserve: Foot,week_17,Denver Broncos,2017
+['Billy Winn'],Injured Reserve: Knee,week_17,Denver Broncos,2017
+['Derek Wolfe'],Injured Reserve: Neck,week_17,Denver Broncos,2017

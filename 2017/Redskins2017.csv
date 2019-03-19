@@ -1,0 +1,881 @@
+﻿name,injury,week,team,year
+['Jonathan Allen'],NA,week_1,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_1,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_1,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_1,Washington Redskins,2017
+['Zach Brown'],NA,week_1,Washington Redskins,2017
+['Chris Carter'],NA,week_1,Washington Redskins,2017
+['Tyler Catalina'],NA,week_1,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_1,Washington Redskins,2017
+['William Compton'],NA,week_1,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_1,Washington Redskins,2017
+['Jamison Crowder'],Questionable: Hip,week_1,Washington Redskins,2017
+['LeShun Daniels'],NA,week_1,Washington Redskins,2017
+['Robert Davis'],NA,week_1,Washington Redskins,2017
+['Josh Doctson'],NA,week_1,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_1,Washington Redskins,2017
+['Deshazor Everett'],NA,week_1,Washington Redskins,2017
+['Mason Foster'],NA,week_1,Washington Redskins,2017
+['Kendall Fuller'],NA,week_1,Washington Redskins,2017
+['Ryan Grant'],NA,week_1,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_1,Washington Redskins,2017
+['Maurice Harris'],NA,week_1,Washington Redskins,2017
+['Evander Hood'],NA,week_1,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_1,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_1,Washington Redskins,2017
+['Arthur Jones'],NA,week_1,Washington Redskins,2017
+['Kyle Kalis'],NA,week_1,Washington Redskins,2017
+['Robert Kelley'],NA,week_1,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_1,Washington Redskins,2017
+['Anthony Lanier'],NA,week_1,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_1,Washington Redskins,2017
+['Spencer Long'],Questionable: Knee,week_1,Washington Redskins,2017
+['Byron Marshall'],NA,week_1,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_1,Washington Redskins,2017
+['Terrell McClain'],NA,week_1,Washington Redskins,2017
+['Stefan McClure'],NA,week_1,Washington Redskins,2017
+['Fabian Moreau'],NA,week_1,Washington Redskins,2017
+['Morgan Moses'],NA,week_1,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_1,Washington Redskins,2017
+['Montae Nicholson'],NA,week_1,Washington Redskins,2017
+['Josh Norman'],NA,week_1,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_1,Washington Redskins,2017
+['Niles Paul'],NA,week_1,Washington Redskins,2017
+['Samaje Perine'],NA,week_1,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_1,Washington Redskins,2017
+['Brian Quick'],NA,week_1,Washington Redskins,2017
+['Jordan Reed'],NA,week_1,Washington Redskins,2017
+['Chase Roullier'],NA,week_1,Washington Redskins,2017
+['Brandon Scherff'],NA,week_1,Washington Redskins,2017
+['Preston Smith'],NA,week_1,Washington Redskins,2017
+['Martrell Spaight'],NA,week_1,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_1,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_1,Washington Redskins,2017
+['Chris Thompson'],NA,week_1,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_1,Washington Redskins,2017
+['Trent Williams'],NA,week_1,Washington Redskins,2017
+['Jonathan Allen'],NA,week_2,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_2,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_2,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_2,Washington Redskins,2017
+['Zach Brown'],NA,week_2,Washington Redskins,2017
+['Chris Carter'],NA,week_2,Washington Redskins,2017
+['Tyler Catalina'],NA,week_2,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_2,Washington Redskins,2017
+['William Compton'],NA,week_2,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_2,Washington Redskins,2017
+['Jamison Crowder'],NA,week_2,Washington Redskins,2017
+['LeShun Daniels'],NA,week_2,Washington Redskins,2017
+['Robert Davis'],NA,week_2,Washington Redskins,2017
+['Josh Doctson'],Questionable: Hamstring,week_2,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_2,Washington Redskins,2017
+['Deshazor Everett'],NA,week_2,Washington Redskins,2017
+['Mason Foster'],NA,week_2,Washington Redskins,2017
+['Kendall Fuller'],NA,week_2,Washington Redskins,2017
+['Ryan Grant'],NA,week_2,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_2,Washington Redskins,2017
+['Maurice Harris'],NA,week_2,Washington Redskins,2017
+['Evander Hood'],NA,week_2,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_2,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_2,Washington Redskins,2017
+['Arthur Jones'],NA,week_2,Washington Redskins,2017
+['Kyle Kalis'],NA,week_2,Washington Redskins,2017
+['Robert Kelley'],NA,week_2,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_2,Washington Redskins,2017
+['Anthony Lanier'],NA,week_2,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_2,Washington Redskins,2017
+['Spencer Long'],NA,week_2,Washington Redskins,2017
+['Byron Marshall'],NA,week_2,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_2,Washington Redskins,2017
+['Terrell McClain'],NA,week_2,Washington Redskins,2017
+['Stefan McClure'],NA,week_2,Washington Redskins,2017
+['Fabian Moreau'],NA,week_2,Washington Redskins,2017
+['Morgan Moses'],NA,week_2,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_2,Washington Redskins,2017
+['Montae Nicholson'],NA,week_2,Washington Redskins,2017
+['Josh Norman'],NA,week_2,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_2,Washington Redskins,2017
+['Niles Paul'],NA,week_2,Washington Redskins,2017
+['Samaje Perine'],NA,week_2,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_2,Washington Redskins,2017
+['Brian Quick'],NA,week_2,Washington Redskins,2017
+['Jordan Reed'],NA,week_2,Washington Redskins,2017
+['Chase Roullier'],NA,week_2,Washington Redskins,2017
+['Brandon Scherff'],NA,week_2,Washington Redskins,2017
+['Preston Smith'],NA,week_2,Washington Redskins,2017
+['Martrell Spaight'],NA,week_2,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_2,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_2,Washington Redskins,2017
+['Chris Thompson'],NA,week_2,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_2,Washington Redskins,2017
+['Trent Williams'],NA,week_2,Washington Redskins,2017
+['Jonathan Allen'],NA,week_3,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_3,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_3,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_3,Washington Redskins,2017
+['Zach Brown'],NA,week_3,Washington Redskins,2017
+['Chris Carter'],NA,week_3,Washington Redskins,2017
+['Tyler Catalina'],NA,week_3,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_3,Washington Redskins,2017
+['William Compton'],NA,week_3,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_3,Washington Redskins,2017
+['Jamison Crowder'],NA,week_3,Washington Redskins,2017
+['LeShun Daniels'],NA,week_3,Washington Redskins,2017
+['Robert Davis'],NA,week_3,Washington Redskins,2017
+['Josh Doctson'],NA,week_3,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_3,Washington Redskins,2017
+['Deshazor Everett'],NA,week_3,Washington Redskins,2017
+['Mason Foster'],Questionable: Shoulder,week_3,Washington Redskins,2017
+['Kendall Fuller'],NA,week_3,Washington Redskins,2017
+['Ryan Grant'],NA,week_3,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_3,Washington Redskins,2017
+['Maurice Harris'],NA,week_3,Washington Redskins,2017
+['Evander Hood'],NA,week_3,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_3,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_3,Washington Redskins,2017
+['Arthur Jones'],NA,week_3,Washington Redskins,2017
+['Kyle Kalis'],NA,week_3,Washington Redskins,2017
+['Robert Kelley'],Questionable: Rib,week_3,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_3,Washington Redskins,2017
+['Anthony Lanier'],NA,week_3,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_3,Washington Redskins,2017
+['Spencer Long'],NA,week_3,Washington Redskins,2017
+['Byron Marshall'],NA,week_3,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_3,Washington Redskins,2017
+['Terrell McClain'],NA,week_3,Washington Redskins,2017
+['Stefan McClure'],NA,week_3,Washington Redskins,2017
+['Fabian Moreau'],NA,week_3,Washington Redskins,2017
+['Morgan Moses'],NA,week_3,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_3,Washington Redskins,2017
+['Montae Nicholson'],Questionable: Shoulder,week_3,Washington Redskins,2017
+['Josh Norman'],Questionable: Shoulder,week_3,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_3,Washington Redskins,2017
+['Niles Paul'],NA,week_3,Washington Redskins,2017
+['Samaje Perine'],NA,week_3,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_3,Washington Redskins,2017
+['Brian Quick'],NA,week_3,Washington Redskins,2017
+['Jordan Reed'],Questionable: Rib,week_3,Washington Redskins,2017
+['Chase Roullier'],NA,week_3,Washington Redskins,2017
+['Brandon Scherff'],NA,week_3,Washington Redskins,2017
+['Preston Smith'],NA,week_3,Washington Redskins,2017
+['Martrell Spaight'],NA,week_3,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_3,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_3,Washington Redskins,2017
+['Chris Thompson'],NA,week_3,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_3,Washington Redskins,2017
+['Trent Williams'],NA,week_3,Washington Redskins,2017
+['Jonathan Allen'],NA,week_4,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_4,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_4,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_4,Washington Redskins,2017
+['Zach Brown'],NA,week_4,Washington Redskins,2017
+['Chris Carter'],NA,week_4,Washington Redskins,2017
+['Tyler Catalina'],NA,week_4,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_4,Washington Redskins,2017
+['William Compton'],Questionable: Ankle,week_4,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_4,Washington Redskins,2017
+['Jamison Crowder'],Questionable: Hamstring,week_4,Washington Redskins,2017
+['LeShun Daniels'],NA,week_4,Washington Redskins,2017
+['Robert Davis'],NA,week_4,Washington Redskins,2017
+['Josh Doctson'],NA,week_4,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_4,Washington Redskins,2017
+['Deshazor Everett'],NA,week_4,Washington Redskins,2017
+['Mason Foster'],Questionable: Shoulder,week_4,Washington Redskins,2017
+['Kendall Fuller'],NA,week_4,Washington Redskins,2017
+['Ryan Grant'],NA,week_4,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_4,Washington Redskins,2017
+['Maurice Harris'],NA,week_4,Washington Redskins,2017
+['Evander Hood'],NA,week_4,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_4,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_4,Washington Redskins,2017
+['Arthur Jones'],NA,week_4,Washington Redskins,2017
+['Kyle Kalis'],NA,week_4,Washington Redskins,2017
+['Robert Kelley'],Questionable: Rib,week_4,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_4,Washington Redskins,2017
+['Anthony Lanier'],NA,week_4,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_4,Washington Redskins,2017
+['Spencer Long'],NA,week_4,Washington Redskins,2017
+['Byron Marshall'],NA,week_4,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_4,Washington Redskins,2017
+['Terrell McClain'],NA,week_4,Washington Redskins,2017
+['Stefan McClure'],NA,week_4,Washington Redskins,2017
+['Fabian Moreau'],NA,week_4,Washington Redskins,2017
+['Morgan Moses'],NA,week_4,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_4,Washington Redskins,2017
+['Montae Nicholson'],NA,week_4,Washington Redskins,2017
+['Josh Norman'],NA,week_4,Washington Redskins,2017
+['Ty Nsekhe'],Out: CoreMuscle,week_4,Washington Redskins,2017
+['Niles Paul'],NA,week_4,Washington Redskins,2017
+['Samaje Perine'],NA,week_4,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_4,Washington Redskins,2017
+['Brian Quick'],NA,week_4,Washington Redskins,2017
+['Jordan Reed'],Questionable: Rib,week_4,Washington Redskins,2017
+['Chase Roullier'],NA,week_4,Washington Redskins,2017
+['Brandon Scherff'],NA,week_4,Washington Redskins,2017
+['Preston Smith'],NA,week_4,Washington Redskins,2017
+['Martrell Spaight'],NA,week_4,Washington Redskins,2017
+['D.J. Swearinger'],Questionable: Hamstring,week_4,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_4,Washington Redskins,2017
+['Chris Thompson'],NA,week_4,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_4,Washington Redskins,2017
+['Trent Williams'],NA,week_4,Washington Redskins,2017
+['Jonathan Allen'],NA,week_6,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_6,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_6,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_6,Washington Redskins,2017
+['Zach Brown'],NA,week_6,Washington Redskins,2017
+['Chris Carter'],NA,week_6,Washington Redskins,2017
+['Tyler Catalina'],NA,week_6,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_6,Washington Redskins,2017
+['William Compton'],NA,week_6,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_6,Washington Redskins,2017
+['Jamison Crowder'],NA,week_6,Washington Redskins,2017
+['LeShun Daniels'],NA,week_6,Washington Redskins,2017
+['Robert Davis'],NA,week_6,Washington Redskins,2017
+['Josh Doctson'],NA,week_6,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_6,Washington Redskins,2017
+['Deshazor Everett'],Doubtful: Hamstring,week_6,Washington Redskins,2017
+['Mason Foster'],NA,week_6,Washington Redskins,2017
+['Kendall Fuller'],NA,week_6,Washington Redskins,2017
+['Ryan Grant'],NA,week_6,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_6,Washington Redskins,2017
+['Maurice Harris'],NA,week_6,Washington Redskins,2017
+['Evander Hood'],NA,week_6,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_6,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_6,Washington Redskins,2017
+['Arthur Jones'],NA,week_6,Washington Redskins,2017
+['Kyle Kalis'],NA,week_6,Washington Redskins,2017
+['Robert Kelley'],Doubtful: Ankle,week_6,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_6,Washington Redskins,2017
+['Anthony Lanier'],NA,week_6,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_6,Washington Redskins,2017
+['Spencer Long'],NA,week_6,Washington Redskins,2017
+['Byron Marshall'],NA,week_6,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_6,Washington Redskins,2017
+['Terrell McClain'],NA,week_6,Washington Redskins,2017
+['Stefan McClure'],NA,week_6,Washington Redskins,2017
+['Fabian Moreau'],NA,week_6,Washington Redskins,2017
+['Morgan Moses'],NA,week_6,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_6,Washington Redskins,2017
+['Montae Nicholson'],NA,week_6,Washington Redskins,2017
+['Josh Norman'],Out: Rib,week_6,Washington Redskins,2017
+['Ty Nsekhe'],Out: CoreMuscle,week_6,Washington Redskins,2017
+['Niles Paul'],NA,week_6,Washington Redskins,2017
+['Samaje Perine'],NA,week_6,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_6,Washington Redskins,2017
+['Brian Quick'],NA,week_6,Washington Redskins,2017
+['Jordan Reed'],NA,week_6,Washington Redskins,2017
+['Chase Roullier'],NA,week_6,Washington Redskins,2017
+['Brandon Scherff'],NA,week_6,Washington Redskins,2017
+['Preston Smith'],NA,week_6,Washington Redskins,2017
+['Martrell Spaight'],NA,week_6,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_6,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_6,Washington Redskins,2017
+['Chris Thompson'],NA,week_6,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_6,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_6,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_7,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_7,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_7,Washington Redskins,2017
+['Bashaud Breeland'],Questionable: Knee,week_7,Washington Redskins,2017
+['Zach Brown'],NA,week_7,Washington Redskins,2017
+['Chris Carter'],NA,week_7,Washington Redskins,2017
+['Tyler Catalina'],Out: Concussion,week_7,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_7,Washington Redskins,2017
+['William Compton'],NA,week_7,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_7,Washington Redskins,2017
+['Jamison Crowder'],NA,week_7,Washington Redskins,2017
+['LeShun Daniels'],NA,week_7,Washington Redskins,2017
+['Robert Davis'],NA,week_7,Washington Redskins,2017
+['Josh Doctson'],NA,week_7,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_7,Washington Redskins,2017
+['Deshazor Everett'],Questionable: Hamstring,week_7,Washington Redskins,2017
+['Mason Foster'],Questionable: Shoulder,week_7,Washington Redskins,2017
+['Kendall Fuller'],NA,week_7,Washington Redskins,2017
+['Ryan Grant'],NA,week_7,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_7,Washington Redskins,2017
+['Maurice Harris'],NA,week_7,Washington Redskins,2017
+['Evander Hood'],NA,week_7,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_7,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_7,Washington Redskins,2017
+['Arthur Jones'],NA,week_7,Washington Redskins,2017
+['Kyle Kalis'],NA,week_7,Washington Redskins,2017
+['Robert Kelley'],Questionable: Ankle,week_7,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_7,Washington Redskins,2017
+['Anthony Lanier'],NA,week_7,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_7,Washington Redskins,2017
+['Spencer Long'],NA,week_7,Washington Redskins,2017
+['Byron Marshall'],NA,week_7,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_7,Washington Redskins,2017
+['Terrell McClain'],NA,week_7,Washington Redskins,2017
+['Stefan McClure'],Questionable: Knee,week_7,Washington Redskins,2017
+['Fabian Moreau'],NA,week_7,Washington Redskins,2017
+['Morgan Moses'],NA,week_7,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_7,Washington Redskins,2017
+['Montae Nicholson'],NA,week_7,Washington Redskins,2017
+['Josh Norman'],Out: Rib,week_7,Washington Redskins,2017
+['Ty Nsekhe'],Out: CoreMuscle,week_7,Washington Redskins,2017
+['Niles Paul'],NA,week_7,Washington Redskins,2017
+['Samaje Perine'],NA,week_7,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_7,Washington Redskins,2017
+['Brian Quick'],NA,week_7,Washington Redskins,2017
+['Jordan Reed'],NA,week_7,Washington Redskins,2017
+['Chase Roullier'],NA,week_7,Washington Redskins,2017
+['Brandon Scherff'],NA,week_7,Washington Redskins,2017
+['Preston Smith'],NA,week_7,Washington Redskins,2017
+['Martrell Spaight'],NA,week_7,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_7,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_7,Washington Redskins,2017
+['Chris Thompson'],NA,week_7,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_7,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_7,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_8,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_8,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_8,Washington Redskins,2017
+['Bashaud Breeland'],Questionable: Knee,week_8,Washington Redskins,2017
+['Zach Brown'],NA,week_8,Washington Redskins,2017
+['Chris Carter'],NA,week_8,Washington Redskins,2017
+['Tyler Catalina'],Questionable: Concussion,week_8,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_8,Washington Redskins,2017
+['William Compton'],NA,week_8,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_8,Washington Redskins,2017
+['Jamison Crowder'],NA,week_8,Washington Redskins,2017
+['LeShun Daniels'],NA,week_8,Washington Redskins,2017
+['Robert Davis'],NA,week_8,Washington Redskins,2017
+['Josh Doctson'],NA,week_8,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_8,Washington Redskins,2017
+['Deshazor Everett'],Questionable: Hamstring,week_8,Washington Redskins,2017
+['Mason Foster'],Out: Shoulder,week_8,Washington Redskins,2017
+['Kendall Fuller'],NA,week_8,Washington Redskins,2017
+['Ryan Grant'],NA,week_8,Washington Redskins,2017
+['DeAngelo Hall'],Injured Reserve: Knee,week_8,Washington Redskins,2017
+['Maurice Harris'],NA,week_8,Washington Redskins,2017
+['Evander Hood'],NA,week_8,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_8,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_8,Washington Redskins,2017
+['Arthur Jones'],NA,week_8,Washington Redskins,2017
+['Kyle Kalis'],NA,week_8,Washington Redskins,2017
+['Robert Kelley'],NA,week_8,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_8,Washington Redskins,2017
+['Anthony Lanier'],NA,week_8,Washington Redskins,2017
+['Shawn Lauvao'],NA,week_8,Washington Redskins,2017
+['Spencer Long'],Out: Knee,week_8,Washington Redskins,2017
+['Byron Marshall'],NA,week_8,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_8,Washington Redskins,2017
+['Terrell McClain'],NA,week_8,Washington Redskins,2017
+['Stefan McClure'],Questionable: Knee,week_8,Washington Redskins,2017
+['Fabian Moreau'],Questionable: Hamstring,week_8,Washington Redskins,2017
+['Morgan Moses'],Questionable: Ankle,week_8,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_8,Washington Redskins,2017
+['Montae Nicholson'],NA,week_8,Washington Redskins,2017
+['Josh Norman'],Questionable: Rib,week_8,Washington Redskins,2017
+['Ty Nsekhe'],Out: CoreMuscle,week_8,Washington Redskins,2017
+['Niles Paul'],NA,week_8,Washington Redskins,2017
+['Samaje Perine'],NA,week_8,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_8,Washington Redskins,2017
+['Brian Quick'],NA,week_8,Washington Redskins,2017
+['Jordan Reed'],NA,week_8,Washington Redskins,2017
+['Chase Roullier'],NA,week_8,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_8,Washington Redskins,2017
+['Preston Smith'],Questionable: Groin,week_8,Washington Redskins,2017
+['Martrell Spaight'],NA,week_8,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_8,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_8,Washington Redskins,2017
+['Chris Thompson'],NA,week_8,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_8,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_8,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_9,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_9,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_9,Washington Redskins,2017
+['Bashaud Breeland'],Questionable: Knee,week_9,Washington Redskins,2017
+['Zach Brown'],NA,week_9,Washington Redskins,2017
+['Chris Carter'],NA,week_9,Washington Redskins,2017
+['Tyler Catalina'],NA,week_9,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_9,Washington Redskins,2017
+['William Compton'],NA,week_9,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_9,Washington Redskins,2017
+['Jamison Crowder'],Questionable: Hamstring,week_9,Washington Redskins,2017
+['LeShun Daniels'],NA,week_9,Washington Redskins,2017
+['Robert Davis'],NA,week_9,Washington Redskins,2017
+['Josh Doctson'],NA,week_9,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_9,Washington Redskins,2017
+['Deshazor Everett'],NA,week_9,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_9,Washington Redskins,2017
+['Kendall Fuller'],NA,week_9,Washington Redskins,2017
+['Ryan Grant'],NA,week_9,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_9,Washington Redskins,2017
+['Maurice Harris'],NA,week_9,Washington Redskins,2017
+['Evander Hood'],NA,week_9,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_9,Washington Redskins,2017
+['Matthew Ioannidis'],Out: Hand,week_9,Washington Redskins,2017
+['Arthur Jones'],NA,week_9,Washington Redskins,2017
+['Kyle Kalis'],NA,week_9,Washington Redskins,2017
+['Robert Kelley'],Questionable: Ankle,week_9,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_9,Washington Redskins,2017
+['Anthony Lanier'],NA,week_9,Washington Redskins,2017
+['Shawn Lauvao'],Out: Stinger,week_9,Washington Redskins,2017
+['Spencer Long'],Doubtful: Knee,week_9,Washington Redskins,2017
+['Byron Marshall'],NA,week_9,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_9,Washington Redskins,2017
+['Terrell McClain'],NA,week_9,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_9,Washington Redskins,2017
+['Fabian Moreau'],NA,week_9,Washington Redskins,2017
+['Morgan Moses'],NA,week_9,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_9,Washington Redskins,2017
+['Montae Nicholson'],Questionable: Shoulder,week_9,Washington Redskins,2017
+['Josh Norman'],NA,week_9,Washington Redskins,2017
+['Ty Nsekhe'],Doubtful: CoreMuscle,week_9,Washington Redskins,2017
+['Niles Paul'],Out: Concussion,week_9,Washington Redskins,2017
+['Samaje Perine'],NA,week_9,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_9,Washington Redskins,2017
+['Brian Quick'],NA,week_9,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_9,Washington Redskins,2017
+['Chase Roullier'],NA,week_9,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_9,Washington Redskins,2017
+['Preston Smith'],NA,week_9,Washington Redskins,2017
+['Martrell Spaight'],Questionable: Shoulder,week_9,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_9,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_9,Washington Redskins,2017
+['Chris Thompson'],NA,week_9,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_9,Washington Redskins,2017
+['Trent Williams'],Doubtful: Knee,week_9,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_10,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_10,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_10,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_10,Washington Redskins,2017
+['Zach Brown'],Questionable: Ankle,week_10,Washington Redskins,2017
+['Chris Carter'],NA,week_10,Washington Redskins,2017
+['Tyler Catalina'],NA,week_10,Washington Redskins,2017
+['T.J. Clemmings'],NA,week_10,Washington Redskins,2017
+['William Compton'],NA,week_10,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_10,Washington Redskins,2017
+['Jamison Crowder'],Questionable: Hamstring,week_10,Washington Redskins,2017
+['LeShun Daniels'],NA,week_10,Washington Redskins,2017
+['Robert Davis'],NA,week_10,Washington Redskins,2017
+['Josh Doctson'],NA,week_10,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_10,Washington Redskins,2017
+['Deshazor Everett'],NA,week_10,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_10,Washington Redskins,2017
+['Kendall Fuller'],NA,week_10,Washington Redskins,2017
+['Ryan Grant'],NA,week_10,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_10,Washington Redskins,2017
+['Maurice Harris'],NA,week_10,Washington Redskins,2017
+['Evander Hood'],NA,week_10,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_10,Washington Redskins,2017
+['Matthew Ioannidis'],Out: Hand,week_10,Washington Redskins,2017
+['Arthur Jones'],Out: Shoulder,week_10,Washington Redskins,2017
+['Kyle Kalis'],NA,week_10,Washington Redskins,2017
+['Robert Kelley'],NA,week_10,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_10,Washington Redskins,2017
+['Anthony Lanier'],NA,week_10,Washington Redskins,2017
+['Shawn Lauvao'],Questionable: Stinger,week_10,Washington Redskins,2017
+['Spencer Long'],Questionable: Knee,week_10,Washington Redskins,2017
+['Byron Marshall'],NA,week_10,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_10,Washington Redskins,2017
+['Terrell McClain'],NA,week_10,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_10,Washington Redskins,2017
+['Fabian Moreau'],NA,week_10,Washington Redskins,2017
+['Morgan Moses'],Questionable: Ankle,week_10,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_10,Washington Redskins,2017
+['Montae Nicholson'],Questionable: Shoulder,week_10,Washington Redskins,2017
+['Josh Norman'],NA,week_10,Washington Redskins,2017
+['Ty Nsekhe'],Questionable: CoreMuscle,week_10,Washington Redskins,2017
+['Niles Paul'],Questionable: Concussion,week_10,Washington Redskins,2017
+['Samaje Perine'],NA,week_10,Washington Redskins,2017
+['Terrelle Pryor'],NA,week_10,Washington Redskins,2017
+['Brian Quick'],Questionable: Concussion,week_10,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_10,Washington Redskins,2017
+['Chase Roullier'],NA,week_10,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_10,Washington Redskins,2017
+['Preston Smith'],NA,week_10,Washington Redskins,2017
+['Martrell Spaight'],NA,week_10,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_10,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_10,Washington Redskins,2017
+['Chris Thompson'],NA,week_10,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_10,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_10,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_11,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_11,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_11,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_11,Washington Redskins,2017
+['Zach Brown'],Questionable: Achilles,week_11,Washington Redskins,2017
+['Chris Carter'],NA,week_11,Washington Redskins,2017
+['Tyler Catalina'],NA,week_11,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_11,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_11,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_11,Washington Redskins,2017
+['Jamison Crowder'],NA,week_11,Washington Redskins,2017
+['LeShun Daniels'],NA,week_11,Washington Redskins,2017
+['Robert Davis'],NA,week_11,Washington Redskins,2017
+['Josh Doctson'],NA,week_11,Washington Redskins,2017
+['Quinton Dunbar'],Questionable: Illness,week_11,Washington Redskins,2017
+['Deshazor Everett'],NA,week_11,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_11,Washington Redskins,2017
+['Kendall Fuller'],NA,week_11,Washington Redskins,2017
+['Ryan Grant'],Questionable: Concussion,week_11,Washington Redskins,2017
+['DeAngelo Hall'],Questionable: Knee,week_11,Washington Redskins,2017
+['Maurice Harris'],NA,week_11,Washington Redskins,2017
+['Evander Hood'],NA,week_11,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_11,Washington Redskins,2017
+['Matthew Ioannidis'],Questionable: Hand,week_11,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_11,Washington Redskins,2017
+['Kyle Kalis'],NA,week_11,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_11,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_11,Washington Redskins,2017
+['Anthony Lanier'],Questionable: Knee,week_11,Washington Redskins,2017
+['Shawn Lauvao'],Questionable: Stinger,week_11,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_11,Washington Redskins,2017
+['Byron Marshall'],NA,week_11,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_11,Washington Redskins,2017
+['Terrell McClain'],NA,week_11,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_11,Washington Redskins,2017
+['Fabian Moreau'],NA,week_11,Washington Redskins,2017
+['Morgan Moses'],NA,week_11,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_11,Washington Redskins,2017
+['Montae Nicholson'],Questionable: Shoulder,week_11,Washington Redskins,2017
+['Josh Norman'],NA,week_11,Washington Redskins,2017
+['Ty Nsekhe'],Questionable: CoreMuscle,week_11,Washington Redskins,2017
+['Niles Paul'],Questionable: Concussion,week_11,Washington Redskins,2017
+['Samaje Perine'],NA,week_11,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_11,Washington Redskins,2017
+['Brian Quick'],Questionable: Concussion,week_11,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_11,Washington Redskins,2017
+['Chase Roullier'],NA,week_11,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_11,Washington Redskins,2017
+['Preston Smith'],NA,week_11,Washington Redskins,2017
+['Martrell Spaight'],NA,week_11,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_11,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_11,Washington Redskins,2017
+['Chris Thompson'],NA,week_11,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_11,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_11,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_12,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_12,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_12,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_12,Washington Redskins,2017
+['Zach Brown'],Questionable: Achilles,week_12,Washington Redskins,2017
+['Chris Carter'],NA,week_12,Washington Redskins,2017
+['Tyler Catalina'],NA,week_12,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_12,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_12,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_12,Washington Redskins,2017
+['Jamison Crowder'],NA,week_12,Washington Redskins,2017
+['LeShun Daniels'],NA,week_12,Washington Redskins,2017
+['Robert Davis'],NA,week_12,Washington Redskins,2017
+['Josh Doctson'],NA,week_12,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_12,Washington Redskins,2017
+['Deshazor Everett'],NA,week_12,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_12,Washington Redskins,2017
+['Kendall Fuller'],NA,week_12,Washington Redskins,2017
+['Ryan Grant'],Questionable: Calf,week_12,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_12,Washington Redskins,2017
+['Maurice Harris'],NA,week_12,Washington Redskins,2017
+['Evander Hood'],NA,week_12,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_12,Washington Redskins,2017
+['Matthew Ioannidis'],Questionable: Hand,week_12,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_12,Washington Redskins,2017
+['Kyle Kalis'],NA,week_12,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_12,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_12,Washington Redskins,2017
+['Anthony Lanier'],Questionable: Knee,week_12,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_12,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_12,Washington Redskins,2017
+['Byron Marshall'],NA,week_12,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_12,Washington Redskins,2017
+['Terrell McClain'],Out: Toe,week_12,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_12,Washington Redskins,2017
+['Fabian Moreau'],NA,week_12,Washington Redskins,2017
+['Morgan Moses'],Questionable: Eye,week_12,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_12,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_12,Washington Redskins,2017
+['Josh Norman'],NA,week_12,Washington Redskins,2017
+['Ty Nsekhe'],Questionable: CoreMuscle,week_12,Washington Redskins,2017
+['Niles Paul'],NA,week_12,Washington Redskins,2017
+['Samaje Perine'],Questionable: Finger,week_12,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_12,Washington Redskins,2017
+['Brian Quick'],NA,week_12,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_12,Washington Redskins,2017
+['Chase Roullier'],Out: Hand,week_12,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_12,Washington Redskins,2017
+['Preston Smith'],NA,week_12,Washington Redskins,2017
+['Martrell Spaight'],Questionable: Ankle,week_12,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_12,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_12,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_12,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_12,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_12,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_13,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_13,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_13,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_13,Washington Redskins,2017
+['Zach Brown'],Questionable: Shoulder,week_13,Washington Redskins,2017
+['Chris Carter'],NA,week_13,Washington Redskins,2017
+['Tyler Catalina'],NA,week_13,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_13,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_13,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_13,Washington Redskins,2017
+['Jamison Crowder'],NA,week_13,Washington Redskins,2017
+['LeShun Daniels'],NA,week_13,Washington Redskins,2017
+['Robert Davis'],NA,week_13,Washington Redskins,2017
+['Josh Doctson'],NA,week_13,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_13,Washington Redskins,2017
+['Deshazor Everett'],NA,week_13,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_13,Washington Redskins,2017
+['Kendall Fuller'],NA,week_13,Washington Redskins,2017
+['Ryan Grant'],NA,week_13,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_13,Washington Redskins,2017
+['Maurice Harris'],NA,week_13,Washington Redskins,2017
+['Evander Hood'],NA,week_13,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_13,Washington Redskins,2017
+['Matthew Ioannidis'],Questionable: Hand,week_13,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_13,Washington Redskins,2017
+['Kyle Kalis'],NA,week_13,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_13,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_13,Washington Redskins,2017
+['Anthony Lanier'],NA,week_13,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_13,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_13,Washington Redskins,2017
+['Byron Marshall'],NA,week_13,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_13,Washington Redskins,2017
+['Terrell McClain'],Out: Toe,week_13,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_13,Washington Redskins,2017
+['Fabian Moreau'],NA,week_13,Washington Redskins,2017
+['Morgan Moses'],Questionable: Knee,week_13,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_13,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_13,Washington Redskins,2017
+['Josh Norman'],NA,week_13,Washington Redskins,2017
+['Ty Nsekhe'],Questionable: CoreMuscle,week_13,Washington Redskins,2017
+['Niles Paul'],NA,week_13,Washington Redskins,2017
+['Samaje Perine'],NA,week_13,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_13,Washington Redskins,2017
+['Brian Quick'],NA,week_13,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_13,Washington Redskins,2017
+['Chase Roullier'],Out: Hand,week_13,Washington Redskins,2017
+['Brandon Scherff'],Questionable: Knee,week_13,Washington Redskins,2017
+['Preston Smith'],NA,week_13,Washington Redskins,2017
+['Martrell Spaight'],Questionable: Ankle,week_13,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_13,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_13,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_13,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_13,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_13,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_14,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_14,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_14,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_14,Washington Redskins,2017
+['Zach Brown'],Questionable: Hamstring,week_14,Washington Redskins,2017
+['Chris Carter'],NA,week_14,Washington Redskins,2017
+['Tyler Catalina'],NA,week_14,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_14,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_14,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_14,Washington Redskins,2017
+['Jamison Crowder'],NA,week_14,Washington Redskins,2017
+['LeShun Daniels'],NA,week_14,Washington Redskins,2017
+['Robert Davis'],NA,week_14,Washington Redskins,2017
+['Josh Doctson'],NA,week_14,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_14,Washington Redskins,2017
+['Deshazor Everett'],NA,week_14,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_14,Washington Redskins,2017
+['Kendall Fuller'],NA,week_14,Washington Redskins,2017
+['Ryan Grant'],NA,week_14,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_14,Washington Redskins,2017
+['Maurice Harris'],Out: Concussion,week_14,Washington Redskins,2017
+['Evander Hood'],NA,week_14,Washington Redskins,2017
+['Dustin Hopkins'],Injured Reserve: Hip,week_14,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_14,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_14,Washington Redskins,2017
+['Kyle Kalis'],NA,week_14,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_14,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_14,Washington Redskins,2017
+['Anthony Lanier'],NA,week_14,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_14,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_14,Washington Redskins,2017
+['Byron Marshall'],NA,week_14,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_14,Washington Redskins,2017
+['Terrell McClain'],Questionable: Toe,week_14,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_14,Washington Redskins,2017
+['Fabian Moreau'],NA,week_14,Washington Redskins,2017
+['Morgan Moses'],Questionable: Ankle,week_14,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_14,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_14,Washington Redskins,2017
+['Josh Norman'],NA,week_14,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_14,Washington Redskins,2017
+['Niles Paul'],NA,week_14,Washington Redskins,2017
+['Samaje Perine'],NA,week_14,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_14,Washington Redskins,2017
+['Brian Quick'],NA,week_14,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_14,Washington Redskins,2017
+['Chase Roullier'],Questionable: Hand,week_14,Washington Redskins,2017
+['Brandon Scherff'],NA,week_14,Washington Redskins,2017
+['Preston Smith'],NA,week_14,Washington Redskins,2017
+['Martrell Spaight'],Questionable: Ankle,week_14,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_14,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_14,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_14,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_14,Washington Redskins,2017
+['Trent Williams'],Questionable: Knee,week_14,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_15,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_15,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_15,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_15,Washington Redskins,2017
+['Zach Brown'],Out: Illness,week_15,Washington Redskins,2017
+['Chris Carter'],Injured Reserve: Leg,week_15,Washington Redskins,2017
+['Tyler Catalina'],NA,week_15,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_15,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_15,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_15,Washington Redskins,2017
+['Jamison Crowder'],NA,week_15,Washington Redskins,2017
+['LeShun Daniels'],NA,week_15,Washington Redskins,2017
+['Robert Davis'],NA,week_15,Washington Redskins,2017
+['Josh Doctson'],NA,week_15,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_15,Washington Redskins,2017
+['Deshazor Everett'],NA,week_15,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_15,Washington Redskins,2017
+['Kendall Fuller'],NA,week_15,Washington Redskins,2017
+['Ryan Grant'],Questionable: Ankle,week_15,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_15,Washington Redskins,2017
+['Maurice Harris'],Questionable: Concussion,week_15,Washington Redskins,2017
+['Evander Hood'],NA,week_15,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_15,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_15,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_15,Washington Redskins,2017
+['Kyle Kalis'],NA,week_15,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_15,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_15,Washington Redskins,2017
+['Anthony Lanier'],NA,week_15,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_15,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_15,Washington Redskins,2017
+['Byron Marshall'],Injured Reserve: Hamstring,week_15,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_15,Washington Redskins,2017
+['Terrell McClain'],Questionable: Toe,week_15,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_15,Washington Redskins,2017
+['Fabian Moreau'],NA,week_15,Washington Redskins,2017
+['Morgan Moses'],Questionable: Ankle,week_15,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_15,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_15,Washington Redskins,2017
+['Josh Norman'],NA,week_15,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_15,Washington Redskins,2017
+['Niles Paul'],NA,week_15,Washington Redskins,2017
+['Samaje Perine'],NA,week_15,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_15,Washington Redskins,2017
+['Brian Quick'],NA,week_15,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_15,Washington Redskins,2017
+['Chase Roullier'],Questionable: Hand,week_15,Washington Redskins,2017
+['Brandon Scherff'],NA,week_15,Washington Redskins,2017
+['Preston Smith'],NA,week_15,Washington Redskins,2017
+['Martrell Spaight'],NA,week_15,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_15,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_15,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_15,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_15,Washington Redskins,2017
+['Trent Williams'],Injured Reserve: Knee,week_15,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_16,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_16,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_16,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_16,Washington Redskins,2017
+['Zach Brown'],Out: Achilles,week_16,Washington Redskins,2017
+['Chris Carter'],Injured Reserve: Leg,week_16,Washington Redskins,2017
+['Tyler Catalina'],NA,week_16,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_16,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_16,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_16,Washington Redskins,2017
+['Jamison Crowder'],Questionable: Hamstring,week_16,Washington Redskins,2017
+['LeShun Daniels'],Out: Hand,week_16,Washington Redskins,2017
+['Robert Davis'],NA,week_16,Washington Redskins,2017
+['Josh Doctson'],NA,week_16,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_16,Washington Redskins,2017
+['Deshazor Everett'],NA,week_16,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_16,Washington Redskins,2017
+['Kendall Fuller'],Questionable: Foot,week_16,Washington Redskins,2017
+['Ryan Grant'],NA,week_16,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_16,Washington Redskins,2017
+['Maurice Harris'],Questionable: Back,week_16,Washington Redskins,2017
+['Evander Hood'],NA,week_16,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_16,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_16,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_16,Washington Redskins,2017
+['Kyle Kalis'],NA,week_16,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_16,Washington Redskins,2017
+['Ryan Kerrigan'],NA,week_16,Washington Redskins,2017
+['Anthony Lanier'],NA,week_16,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_16,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_16,Washington Redskins,2017
+['Byron Marshall'],Injured Reserve: Hamstring,week_16,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_16,Washington Redskins,2017
+['Terrell McClain'],Questionable: Toe,week_16,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_16,Washington Redskins,2017
+['Fabian Moreau'],NA,week_16,Washington Redskins,2017
+['Morgan Moses'],Questionable: Illness,week_16,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_16,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_16,Washington Redskins,2017
+['Josh Norman'],NA,week_16,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_16,Washington Redskins,2017
+['Niles Paul'],NA,week_16,Washington Redskins,2017
+['Samaje Perine'],Questionable: Groin,week_16,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_16,Washington Redskins,2017
+['Brian Quick'],NA,week_16,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_16,Washington Redskins,2017
+['Chase Roullier'],NA,week_16,Washington Redskins,2017
+['Brandon Scherff'],NA,week_16,Washington Redskins,2017
+['Preston Smith'],NA,week_16,Washington Redskins,2017
+['Martrell Spaight'],NA,week_16,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_16,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_16,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_16,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_16,Washington Redskins,2017
+['Trent Williams'],Out: Knee,week_16,Washington Redskins,2017
+['Jonathan Allen'],Injured Reserve: Foot,week_17,Washington Redskins,2017
+['Houston Bates'],Injured Reserve: Knee,week_17,Washington Redskins,2017
+['Kevin Bowen'],Injured Reserve: Ankle,week_17,Washington Redskins,2017
+['Bashaud Breeland'],NA,week_17,Washington Redskins,2017
+['Zach Brown'],Out: Illness,week_17,Washington Redskins,2017
+['Chris Carter'],Injured Reserve: Leg,week_17,Washington Redskins,2017
+['Tyler Catalina'],NA,week_17,Washington Redskins,2017
+['T.J. Clemmings'],Injured Reserve: Ankle,week_17,Washington Redskins,2017
+['William Compton'],Injured Reserve: Foot,week_17,Washington Redskins,2017
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_17,Washington Redskins,2017
+['Jamison Crowder'],NA,week_17,Washington Redskins,2017
+['LeShun Daniels'],Injured Reserve: Hand,week_17,Washington Redskins,2017
+['Robert Davis'],Questionable: Concussion,week_17,Washington Redskins,2017
+['Josh Doctson'],NA,week_17,Washington Redskins,2017
+['Quinton Dunbar'],NA,week_17,Washington Redskins,2017
+['Deshazor Everett'],NA,week_17,Washington Redskins,2017
+['Mason Foster'],Injured Reserve: Shoulder,week_17,Washington Redskins,2017
+['Kendall Fuller'],NA,week_17,Washington Redskins,2017
+['Ryan Grant'],NA,week_17,Washington Redskins,2017
+['DeAngelo Hall'],NA,week_17,Washington Redskins,2017
+['Maurice Harris'],Questionable: Back,week_17,Washington Redskins,2017
+['Evander Hood'],Out: Elbow,week_17,Washington Redskins,2017
+['Dustin Hopkins'],NA,week_17,Washington Redskins,2017
+['Matthew Ioannidis'],NA,week_17,Washington Redskins,2017
+['Arthur Jones'],Injured Reserve: Shoulder,week_17,Washington Redskins,2017
+['Kyle Kalis'],Questionable: Ankle,week_17,Washington Redskins,2017
+['Robert Kelley'],Injured Reserve: Ankle,week_17,Washington Redskins,2017
+['Ryan Kerrigan'],Questionable: Calf,week_17,Washington Redskins,2017
+['Anthony Lanier'],NA,week_17,Washington Redskins,2017
+['Shawn Lauvao'],Injured Reserve: Neck,week_17,Washington Redskins,2017
+['Spencer Long'],Injured Reserve: Hip Flexor,week_17,Washington Redskins,2017
+['Byron Marshall'],Injured Reserve: Hamstring,week_17,Washington Redskins,2017
+['Keith Marshall'],Injured Reserve: Knee,week_17,Washington Redskins,2017
+['Terrell McClain'],Questionable: Toe,week_17,Washington Redskins,2017
+['Stefan McClure'],Injured Reserve: Hamstring,week_17,Washington Redskins,2017
+['Fabian Moreau'],NA,week_17,Washington Redskins,2017
+['Morgan Moses'],NA,week_17,Washington Redskins,2017
+['Trent Murphy'],Injured Reserve: Knee,week_17,Washington Redskins,2017
+['Montae Nicholson'],Injured Reserve: Concussion,week_17,Washington Redskins,2017
+['Josh Norman'],NA,week_17,Washington Redskins,2017
+['Ty Nsekhe'],NA,week_17,Washington Redskins,2017
+['Niles Paul'],NA,week_17,Washington Redskins,2017
+['Samaje Perine'],NA,week_17,Washington Redskins,2017
+['Terrelle Pryor'],Injured Reserve: Ankle,week_17,Washington Redskins,2017
+['Brian Quick'],NA,week_17,Washington Redskins,2017
+['Jordan Reed'],Injured Reserve: Hamstring,week_17,Washington Redskins,2017
+['Chase Roullier'],NA,week_17,Washington Redskins,2017
+['Brandon Scherff'],NA,week_17,Washington Redskins,2017
+['Preston Smith'],NA,week_17,Washington Redskins,2017
+['Martrell Spaight'],Questionable: Illness,week_17,Washington Redskins,2017
+['D.J. Swearinger'],NA,week_17,Washington Redskins,2017
+['Phil Taylor'],Injured Reserve: Quadricep,week_17,Washington Redskins,2017
+['Chris Thompson'],Injured Reserve: Leg,week_17,Washington Redskins,2017
+['Kendal Thompson'],Injured Reserve: Leg,week_17,Washington Redskins,2017
+['Trent Williams'],Injured Reserve: Knee,week_17,Washington Redskins,2017

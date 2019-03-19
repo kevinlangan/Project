@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Davante Adams'],NA,week_1,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_1,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_1,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_1,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_1,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_1,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_1,Green Bay Packers,2017
+['Kentrell Brice'],NA,week_1,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_1,Green Bay Packers,2017
+['Bryan Bulaga'],Questionable: Ankle,week_1,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_1,Green Bay Packers,2017
+['Kenny Clark'],NA,week_1,Green Bay Packers,2017
+['Randall Cobb'],NA,week_1,Green Bay Packers,2017
+['Mike Daniels'],NA,week_1,Green Bay Packers,2017
+['Quinton Dial'],NA,week_1,Green Bay Packers,2017
+['Jahri Evans'],NA,week_1,Green Bay Packers,2017
+['Brett Goode'],NA,week_1,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_1,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_1,Green Bay Packers,2017
+['Davon House'],NA,week_1,Green Bay Packers,2017
+['Ulrick John'],NA,week_1,Green Bay Packers,2017
+['Aaron Jones'],NA,week_1,Green Bay Packers,2017
+['Kevin King'],NA,week_1,Green Bay Packers,2017
+['Corey Linsley'],NA,week_1,Green Bay Packers,2017
+['Clay Matthews'],NA,week_1,Green Bay Packers,2017
+['Devante Mays'],NA,week_1,Green Bay Packers,2017
+['Justin McCray'],NA,week_1,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_1,Green Bay Packers,2017
+['Kyle Murphy'],NA,week_1,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_1,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_1,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_1,Green Bay Packers,2017
+['Nick Perry'],NA,week_1,Green Bay Packers,2017
+['Damarious Randall'],NA,week_1,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_1,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_1,Green Bay Packers,2017
+['Quinten Rollins'],NA,week_1,Green Bay Packers,2017
+['Jake Ryan'],NA,week_1,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_1,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_1,Green Bay Packers,2017
+['Lane Taylor'],NA,week_1,Green Bay Packers,2017
+['Joe Thomas'],NA,week_1,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_1,Green Bay Packers,2017
+['Davante Adams'],NA,week_2,Green Bay Packers,2017
+['Montravius Adams'],Questionable: Foot,week_2,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_2,Green Bay Packers,2017
+['David Bakhtiari'],Questionable: Hamstring,week_2,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_2,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_2,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_2,Green Bay Packers,2017
+['Kentrell Brice'],Questionable: Quadricep,week_2,Green Bay Packers,2017
+['Ahmad Brooks'],Doubtful: Concussion,week_2,Green Bay Packers,2017
+['Bryan Bulaga'],Questionable: Ankle,week_2,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_2,Green Bay Packers,2017
+['Kenny Clark'],NA,week_2,Green Bay Packers,2017
+['Randall Cobb'],NA,week_2,Green Bay Packers,2017
+['Mike Daniels'],Questionable: Hip,week_2,Green Bay Packers,2017
+['Quinton Dial'],NA,week_2,Green Bay Packers,2017
+['Jahri Evans'],NA,week_2,Green Bay Packers,2017
+['Brett Goode'],NA,week_2,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_2,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_2,Green Bay Packers,2017
+['Davon House'],NA,week_2,Green Bay Packers,2017
+['Ulrick John'],NA,week_2,Green Bay Packers,2017
+['Aaron Jones'],NA,week_2,Green Bay Packers,2017
+['Kevin King'],NA,week_2,Green Bay Packers,2017
+['Corey Linsley'],NA,week_2,Green Bay Packers,2017
+['Clay Matthews'],NA,week_2,Green Bay Packers,2017
+['Devante Mays'],NA,week_2,Green Bay Packers,2017
+['Justin McCray'],NA,week_2,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_2,Green Bay Packers,2017
+['Kyle Murphy'],NA,week_2,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_2,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_2,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_2,Green Bay Packers,2017
+['Nick Perry'],NA,week_2,Green Bay Packers,2017
+['Damarious Randall'],NA,week_2,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_2,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_2,Green Bay Packers,2017
+['Quinten Rollins'],NA,week_2,Green Bay Packers,2017
+['Jake Ryan'],NA,week_2,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_2,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_2,Green Bay Packers,2017
+['Lane Taylor'],NA,week_2,Green Bay Packers,2017
+['Joe Thomas'],NA,week_2,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_2,Green Bay Packers,2017
+['Davante Adams'],NA,week_3,Green Bay Packers,2017
+['Montravius Adams'],NA,week_3,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_3,Green Bay Packers,2017
+['David Bakhtiari'],Doubtful: Hamstring,week_3,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_3,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_3,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_3,Green Bay Packers,2017
+['Kentrell Brice'],Doubtful: Groin,week_3,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_3,Green Bay Packers,2017
+['Bryan Bulaga'],Questionable: Ankle,week_3,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_3,Green Bay Packers,2017
+['Kenny Clark'],NA,week_3,Green Bay Packers,2017
+['Randall Cobb'],Doubtful: Chest,week_3,Green Bay Packers,2017
+['Mike Daniels'],Doubtful: Hip,week_3,Green Bay Packers,2017
+['Quinton Dial'],NA,week_3,Green Bay Packers,2017
+['Jahri Evans'],NA,week_3,Green Bay Packers,2017
+['Brett Goode'],NA,week_3,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_3,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_3,Green Bay Packers,2017
+['Davon House'],Doubtful: Quadricep,week_3,Green Bay Packers,2017
+['Ulrick John'],NA,week_3,Green Bay Packers,2017
+['Aaron Jones'],NA,week_3,Green Bay Packers,2017
+['Kevin King'],NA,week_3,Green Bay Packers,2017
+['Corey Linsley'],NA,week_3,Green Bay Packers,2017
+['Clay Matthews'],NA,week_3,Green Bay Packers,2017
+['Devante Mays'],NA,week_3,Green Bay Packers,2017
+['Justin McCray'],NA,week_3,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_3,Green Bay Packers,2017
+['Kyle Murphy'],NA,week_3,Green Bay Packers,2017
+['Jordy Nelson'],Questionable: Quadricep,week_3,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_3,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_3,Green Bay Packers,2017
+['Nick Perry'],Doubtful: Hand,week_3,Green Bay Packers,2017
+['Damarious Randall'],NA,week_3,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_3,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_3,Green Bay Packers,2017
+['Quinten Rollins'],NA,week_3,Green Bay Packers,2017
+['Jake Ryan'],Doubtful: Hamstring,week_3,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_3,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_3,Green Bay Packers,2017
+['Lane Taylor'],NA,week_3,Green Bay Packers,2017
+['Joe Thomas'],NA,week_3,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_3,Green Bay Packers,2017
+['Davante Adams'],NA,week_4,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_4,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_4,Green Bay Packers,2017
+['David Bakhtiari'],Doubtful: Hamstring,week_4,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_4,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_4,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_4,Green Bay Packers,2017
+['Kentrell Brice'],NA,week_4,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_4,Green Bay Packers,2017
+['Bryan Bulaga'],Doubtful: Ankle,week_4,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_4,Green Bay Packers,2017
+['Kenny Clark'],NA,week_4,Green Bay Packers,2017
+['Randall Cobb'],NA,week_4,Green Bay Packers,2017
+['Mike Daniels'],Questionable: Hip,week_4,Green Bay Packers,2017
+['Quinton Dial'],NA,week_4,Green Bay Packers,2017
+['Jahri Evans'],NA,week_4,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_4,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_4,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_4,Green Bay Packers,2017
+['Davon House'],Out: Quadricep,week_4,Green Bay Packers,2017
+['Ulrick John'],NA,week_4,Green Bay Packers,2017
+['Aaron Jones'],NA,week_4,Green Bay Packers,2017
+['Kevin King'],NA,week_4,Green Bay Packers,2017
+['Corey Linsley'],NA,week_4,Green Bay Packers,2017
+['Clay Matthews'],NA,week_4,Green Bay Packers,2017
+['Devante Mays'],NA,week_4,Green Bay Packers,2017
+['Justin McCray'],NA,week_4,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_4,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_4,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_4,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_4,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_4,Green Bay Packers,2017
+['Nick Perry'],Questionable: Hand,week_4,Green Bay Packers,2017
+['Damarious Randall'],NA,week_4,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_4,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_4,Green Bay Packers,2017
+['Quinten Rollins'],NA,week_4,Green Bay Packers,2017
+['Jake Ryan'],NA,week_4,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_4,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_4,Green Bay Packers,2017
+['Lane Taylor'],NA,week_4,Green Bay Packers,2017
+['Joe Thomas'],NA,week_4,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_4,Green Bay Packers,2017
+['Davante Adams'],Questionable: Concussion,week_5,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_5,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_5,Green Bay Packers,2017
+['David Bakhtiari'],Questionable: Hamstring,week_5,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_5,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_5,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_5,Green Bay Packers,2017
+['Kentrell Brice'],NA,week_5,Green Bay Packers,2017
+['Ahmad Brooks'],Questionable: Back,week_5,Green Bay Packers,2017
+['Bryan Bulaga'],Questionable: Ankle,week_5,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_5,Green Bay Packers,2017
+['Kenny Clark'],NA,week_5,Green Bay Packers,2017
+['Randall Cobb'],NA,week_5,Green Bay Packers,2017
+['Mike Daniels'],Questionable: Hip,week_5,Green Bay Packers,2017
+['Quinton Dial'],NA,week_5,Green Bay Packers,2017
+['Jahri Evans'],NA,week_5,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_5,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_5,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_5,Green Bay Packers,2017
+['Davon House'],Questionable: Quadricep,week_5,Green Bay Packers,2017
+['Ulrick John'],NA,week_5,Green Bay Packers,2017
+['Aaron Jones'],NA,week_5,Green Bay Packers,2017
+['Kevin King'],NA,week_5,Green Bay Packers,2017
+['Corey Linsley'],NA,week_5,Green Bay Packers,2017
+['Clay Matthews'],NA,week_5,Green Bay Packers,2017
+['Devante Mays'],NA,week_5,Green Bay Packers,2017
+['Justin McCray'],NA,week_5,Green Bay Packers,2017
+['Ty Montgomery'],Doubtful: Ribs,week_5,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_5,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_5,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_5,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_5,Green Bay Packers,2017
+['Nick Perry'],NA,week_5,Green Bay Packers,2017
+['Damarious Randall'],NA,week_5,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_5,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_5,Green Bay Packers,2017
+['Quinten Rollins'],Questionable: Ankle,week_5,Green Bay Packers,2017
+['Jake Ryan'],NA,week_5,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_5,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_5,Green Bay Packers,2017
+['Lane Taylor'],NA,week_5,Green Bay Packers,2017
+['Joe Thomas'],Out: Ankle,week_5,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_5,Green Bay Packers,2017
+['Davante Adams'],NA,week_6,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_6,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_6,Green Bay Packers,2017
+['David Bakhtiari'],Questionable: Hamstring,week_6,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_6,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_6,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_6,Green Bay Packers,2017
+['Kentrell Brice'],NA,week_6,Green Bay Packers,2017
+['Ahmad Brooks'],Doubtful: Back,week_6,Green Bay Packers,2017
+['Bryan Bulaga'],Questionable: Ankle,week_6,Green Bay Packers,2017
+['Morgan Burnett'],Out: Hamstring,week_6,Green Bay Packers,2017
+['Kenny Clark'],NA,week_6,Green Bay Packers,2017
+['Randall Cobb'],NA,week_6,Green Bay Packers,2017
+['Mike Daniels'],NA,week_6,Green Bay Packers,2017
+['Quinton Dial'],NA,week_6,Green Bay Packers,2017
+['Jahri Evans'],NA,week_6,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_6,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_6,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_6,Green Bay Packers,2017
+['Davon House'],Questionable: Quadricep,week_6,Green Bay Packers,2017
+['Ulrick John'],NA,week_6,Green Bay Packers,2017
+['Aaron Jones'],NA,week_6,Green Bay Packers,2017
+['Kevin King'],Doubtful: Concussion,week_6,Green Bay Packers,2017
+['Corey Linsley'],NA,week_6,Green Bay Packers,2017
+['Clay Matthews'],NA,week_6,Green Bay Packers,2017
+['Devante Mays'],NA,week_6,Green Bay Packers,2017
+['Justin McCray'],NA,week_6,Green Bay Packers,2017
+['Ty Montgomery'],Questionable: Ribs,week_6,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_6,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_6,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_6,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_6,Green Bay Packers,2017
+['Nick Perry'],NA,week_6,Green Bay Packers,2017
+['Damarious Randall'],NA,week_6,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_6,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_6,Green Bay Packers,2017
+['Quinten Rollins'],NA,week_6,Green Bay Packers,2017
+['Jake Ryan'],NA,week_6,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_6,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_6,Green Bay Packers,2017
+['Lane Taylor'],NA,week_6,Green Bay Packers,2017
+['Joe Thomas'],Out: Ankle,week_6,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_6,Green Bay Packers,2017
+['Davante Adams'],NA,week_7,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_7,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_7,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_7,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_7,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_7,Green Bay Packers,2017
+['Vince Biegel'],Injured Reserve: Ankle,week_7,Green Bay Packers,2017
+['Kentrell Brice'],NA,week_7,Green Bay Packers,2017
+['Ahmad Brooks'],Out: Back,week_7,Green Bay Packers,2017
+['Bryan Bulaga'],NA,week_7,Green Bay Packers,2017
+['Morgan Burnett'],Out: Hamstring,week_7,Green Bay Packers,2017
+['Kenny Clark'],NA,week_7,Green Bay Packers,2017
+['Randall Cobb'],NA,week_7,Green Bay Packers,2017
+['Mike Daniels'],NA,week_7,Green Bay Packers,2017
+['Quinton Dial'],NA,week_7,Green Bay Packers,2017
+['Jahri Evans'],NA,week_7,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_7,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_7,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_7,Green Bay Packers,2017
+['Davon House'],Questionable: Quadricep,week_7,Green Bay Packers,2017
+['Ulrick John'],NA,week_7,Green Bay Packers,2017
+['Aaron Jones'],NA,week_7,Green Bay Packers,2017
+['Kevin King'],NA,week_7,Green Bay Packers,2017
+['Corey Linsley'],Questionable: Back,week_7,Green Bay Packers,2017
+['Clay Matthews'],NA,week_7,Green Bay Packers,2017
+['Devante Mays'],NA,week_7,Green Bay Packers,2017
+['Justin McCray'],NA,week_7,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_7,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_7,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_7,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_7,Green Bay Packers,2017
+['Taybor Pepper'],NA,week_7,Green Bay Packers,2017
+['Nick Perry'],NA,week_7,Green Bay Packers,2017
+['Damarious Randall'],Questionable: Hamstring,week_7,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_7,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_7,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_7,Green Bay Packers,2017
+['Jake Ryan'],NA,week_7,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_7,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_7,Green Bay Packers,2017
+['Lane Taylor'],Doubtful: Ankle,week_7,Green Bay Packers,2017
+['Joe Thomas'],Out: Ankle,week_7,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_7,Green Bay Packers,2017
+['Davante Adams'],NA,week_9,Green Bay Packers,2017
+['Montravius Adams'],NA,week_9,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_9,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_9,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_9,Green Bay Packers,2017
+['Martellus Bennett'],Doubtful: Shoulder,week_9,Green Bay Packers,2017
+['Vince Biegel'],NA,week_9,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_9,Green Bay Packers,2017
+['Ahmad Brooks'],Doubtful: Back,week_9,Green Bay Packers,2017
+['Bryan Bulaga'],NA,week_9,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_9,Green Bay Packers,2017
+['Kenny Clark'],NA,week_9,Green Bay Packers,2017
+['Randall Cobb'],NA,week_9,Green Bay Packers,2017
+['Mike Daniels'],NA,week_9,Green Bay Packers,2017
+['Quinton Dial'],Doubtful: Chest,week_9,Green Bay Packers,2017
+['Jahri Evans'],NA,week_9,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_9,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_9,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_9,Green Bay Packers,2017
+['Davon House'],NA,week_9,Green Bay Packers,2017
+['Ulrick John'],NA,week_9,Green Bay Packers,2017
+['Aaron Jones'],NA,week_9,Green Bay Packers,2017
+['Kevin King'],NA,week_9,Green Bay Packers,2017
+['Corey Linsley'],NA,week_9,Green Bay Packers,2017
+['Clay Matthews'],NA,week_9,Green Bay Packers,2017
+['Devante Mays'],NA,week_9,Green Bay Packers,2017
+['Justin McCray'],NA,week_9,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_9,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_9,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_9,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_9,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_9,Green Bay Packers,2017
+['Nick Perry'],NA,week_9,Green Bay Packers,2017
+['Damarious Randall'],Questionable: Hamstring,week_9,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_9,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_9,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_9,Green Bay Packers,2017
+['Jake Ryan'],NA,week_9,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_9,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_9,Green Bay Packers,2017
+['Lane Taylor'],Questionable: Ankle,week_9,Green Bay Packers,2017
+['Joe Thomas'],Out: Ankle,week_9,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_9,Green Bay Packers,2017
+['Davante Adams'],NA,week_10,Green Bay Packers,2017
+['Montravius Adams'],NA,week_10,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_10,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_10,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_10,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_10,Green Bay Packers,2017
+['Vince Biegel'],NA,week_10,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_10,Green Bay Packers,2017
+['Ahmad Brooks'],Questionable: Back,week_10,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_10,Green Bay Packers,2017
+['Morgan Burnett'],Out: Groin,week_10,Green Bay Packers,2017
+['Kenny Clark'],NA,week_10,Green Bay Packers,2017
+['Randall Cobb'],NA,week_10,Green Bay Packers,2017
+['Mike Daniels'],NA,week_10,Green Bay Packers,2017
+['Quinton Dial'],Out: Chest,week_10,Green Bay Packers,2017
+['Jahri Evans'],NA,week_10,Green Bay Packers,2017
+['Brett Goode'],Injured Reserve: Hamstring,week_10,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_10,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_10,Green Bay Packers,2017
+['Davon House'],NA,week_10,Green Bay Packers,2017
+['Ulrick John'],NA,week_10,Green Bay Packers,2017
+['Aaron Jones'],NA,week_10,Green Bay Packers,2017
+['Kevin King'],NA,week_10,Green Bay Packers,2017
+['Corey Linsley'],NA,week_10,Green Bay Packers,2017
+['Clay Matthews'],NA,week_10,Green Bay Packers,2017
+['Devante Mays'],NA,week_10,Green Bay Packers,2017
+['Justin McCray'],Questionable: Ankle,week_10,Green Bay Packers,2017
+['Ty Montgomery'],NA,week_10,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_10,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_10,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_10,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_10,Green Bay Packers,2017
+['Nick Perry'],NA,week_10,Green Bay Packers,2017
+['Damarious Randall'],NA,week_10,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_10,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_10,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_10,Green Bay Packers,2017
+['Jake Ryan'],NA,week_10,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_10,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_10,Green Bay Packers,2017
+['Lane Taylor'],NA,week_10,Green Bay Packers,2017
+['Joe Thomas'],Questionable: Ankle,week_10,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_10,Green Bay Packers,2017
+['Davante Adams'],NA,week_11,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_11,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_11,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_11,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_11,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_11,Green Bay Packers,2017
+['Vince Biegel'],NA,week_11,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_11,Green Bay Packers,2017
+['Ahmad Brooks'],Questionable: Back,week_11,Green Bay Packers,2017
+['Bryan Bulaga'],Out: Knee,week_11,Green Bay Packers,2017
+['Morgan Burnett'],Out: Groin,week_11,Green Bay Packers,2017
+['Kenny Clark'],NA,week_11,Green Bay Packers,2017
+['Randall Cobb'],NA,week_11,Green Bay Packers,2017
+['Mike Daniels'],NA,week_11,Green Bay Packers,2017
+['Quinton Dial'],Questionable: Chest,week_11,Green Bay Packers,2017
+['Jahri Evans'],NA,week_11,Green Bay Packers,2017
+['Brett Goode'],NA,week_11,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_11,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_11,Green Bay Packers,2017
+['Davon House'],NA,week_11,Green Bay Packers,2017
+['Ulrick John'],NA,week_11,Green Bay Packers,2017
+['Aaron Jones'],Out: Knee,week_11,Green Bay Packers,2017
+['Kevin King'],Questionable: Shoulder,week_11,Green Bay Packers,2017
+['Corey Linsley'],NA,week_11,Green Bay Packers,2017
+['Clay Matthews'],NA,week_11,Green Bay Packers,2017
+['Devante Mays'],NA,week_11,Green Bay Packers,2017
+['Justin McCray'],NA,week_11,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_11,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_11,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_11,Green Bay Packers,2017
+['Lucas Patrick'],Questionable: Back,week_11,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_11,Green Bay Packers,2017
+['Nick Perry'],NA,week_11,Green Bay Packers,2017
+['Damarious Randall'],NA,week_11,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_11,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_11,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_11,Green Bay Packers,2017
+['Jake Ryan'],NA,week_11,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_11,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_11,Green Bay Packers,2017
+['Lane Taylor'],NA,week_11,Green Bay Packers,2017
+['Joe Thomas'],NA,week_11,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_11,Green Bay Packers,2017
+['Davante Adams'],NA,week_12,Green Bay Packers,2017
+['Montravius Adams'],NA,week_12,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_12,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_12,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_12,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_12,Green Bay Packers,2017
+['Vince Biegel'],NA,week_12,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_12,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_12,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_12,Green Bay Packers,2017
+['Morgan Burnett'],Questionable: Groin,week_12,Green Bay Packers,2017
+['Kenny Clark'],Doubtful: Ankle,week_12,Green Bay Packers,2017
+['Randall Cobb'],NA,week_12,Green Bay Packers,2017
+['Mike Daniels'],NA,week_12,Green Bay Packers,2017
+['Quinton Dial'],NA,week_12,Green Bay Packers,2017
+['Jahri Evans'],NA,week_12,Green Bay Packers,2017
+['Brett Goode'],NA,week_12,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_12,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_12,Green Bay Packers,2017
+['Davon House'],NA,week_12,Green Bay Packers,2017
+['Ulrick John'],NA,week_12,Green Bay Packers,2017
+['Aaron Jones'],Out: Knee,week_12,Green Bay Packers,2017
+['Kevin King'],Questionable: Shoulder,week_12,Green Bay Packers,2017
+['Corey Linsley'],Questionable: Back,week_12,Green Bay Packers,2017
+['Clay Matthews'],Questionable: Groin,week_12,Green Bay Packers,2017
+['Devante Mays'],Questionable: Ankle,week_12,Green Bay Packers,2017
+['Justin McCray'],NA,week_12,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_12,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_12,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_12,Green Bay Packers,2017
+['Lucas Patrick'],Questionable: Hand,week_12,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_12,Green Bay Packers,2017
+['Nick Perry'],NA,week_12,Green Bay Packers,2017
+['Damarious Randall'],NA,week_12,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_12,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_12,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_12,Green Bay Packers,2017
+['Jake Ryan'],NA,week_12,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_12,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_12,Green Bay Packers,2017
+['Lane Taylor'],NA,week_12,Green Bay Packers,2017
+['Joe Thomas'],NA,week_12,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_12,Green Bay Packers,2017
+['Davante Adams'],NA,week_13,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_13,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_13,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_13,Green Bay Packers,2017
+['Don Barclay'],NA,week_13,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_13,Green Bay Packers,2017
+['Vince Biegel'],NA,week_13,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_13,Green Bay Packers,2017
+['Ahmad Brooks'],Questionable: Back,week_13,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_13,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_13,Green Bay Packers,2017
+['Kenny Clark'],Questionable: Ankle,week_13,Green Bay Packers,2017
+['Randall Cobb'],NA,week_13,Green Bay Packers,2017
+['Mike Daniels'],NA,week_13,Green Bay Packers,2017
+['Quinton Dial'],NA,week_13,Green Bay Packers,2017
+['Jahri Evans'],NA,week_13,Green Bay Packers,2017
+['Brett Goode'],NA,week_13,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_13,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_13,Green Bay Packers,2017
+['Davon House'],NA,week_13,Green Bay Packers,2017
+['Ulrick John'],NA,week_13,Green Bay Packers,2017
+['Aaron Jones'],Questionable: Knee,week_13,Green Bay Packers,2017
+['Kevin King'],Injured Reserve: Shoulder,week_13,Green Bay Packers,2017
+['Corey Linsley'],NA,week_13,Green Bay Packers,2017
+['Clay Matthews'],Questionable: Groin,week_13,Green Bay Packers,2017
+['Devante Mays'],NA,week_13,Green Bay Packers,2017
+['Justin McCray'],NA,week_13,Green Bay Packers,2017
+['Ty Montgomery'],Out: Ribs,week_13,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_13,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_13,Green Bay Packers,2017
+['Lucas Patrick'],Questionable: Hand,week_13,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_13,Green Bay Packers,2017
+['Nick Perry'],NA,week_13,Green Bay Packers,2017
+['Damarious Randall'],NA,week_13,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_13,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_13,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_13,Green Bay Packers,2017
+['Jake Ryan'],NA,week_13,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_13,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_13,Green Bay Packers,2017
+['Lane Taylor'],NA,week_13,Green Bay Packers,2017
+['Joe Thomas'],NA,week_13,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_13,Green Bay Packers,2017
+['Davante Adams'],NA,week_14,Green Bay Packers,2017
+['Montravius Adams'],NA,week_14,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_14,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_14,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_14,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_14,Green Bay Packers,2017
+['Vince Biegel'],NA,week_14,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_14,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_14,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_14,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_14,Green Bay Packers,2017
+['Kenny Clark'],NA,week_14,Green Bay Packers,2017
+['Randall Cobb'],NA,week_14,Green Bay Packers,2017
+['Mike Daniels'],NA,week_14,Green Bay Packers,2017
+['Quinton Dial'],Questionable: Chest,week_14,Green Bay Packers,2017
+['Jahri Evans'],NA,week_14,Green Bay Packers,2017
+['Brett Goode'],NA,week_14,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_14,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_14,Green Bay Packers,2017
+['Davon House'],Doubtful: Shoulder,week_14,Green Bay Packers,2017
+['Ulrick John'],NA,week_14,Green Bay Packers,2017
+['Aaron Jones'],NA,week_14,Green Bay Packers,2017
+['Kevin King'],Injured Reserve: Shoulder,week_14,Green Bay Packers,2017
+['Corey Linsley'],NA,week_14,Green Bay Packers,2017
+['Clay Matthews'],NA,week_14,Green Bay Packers,2017
+['Devante Mays'],NA,week_14,Green Bay Packers,2017
+['Justin McCray'],NA,week_14,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_14,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_14,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_14,Green Bay Packers,2017
+['Lucas Patrick'],Questionable: Hand,week_14,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_14,Green Bay Packers,2017
+['Nick Perry'],Questionable: Foot,week_14,Green Bay Packers,2017
+['Damarious Randall'],NA,week_14,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_14,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_14,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_14,Green Bay Packers,2017
+['Jake Ryan'],NA,week_14,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_14,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_14,Green Bay Packers,2017
+['Lane Taylor'],NA,week_14,Green Bay Packers,2017
+['Joe Thomas'],NA,week_14,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_14,Green Bay Packers,2017
+['Davante Adams'],NA,week_15,Green Bay Packers,2017
+['Montravius Adams'],Injured Reserve: Foot,week_15,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_15,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_15,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_15,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_15,Green Bay Packers,2017
+['Vince Biegel'],NA,week_15,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_15,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_15,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_15,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_15,Green Bay Packers,2017
+['Kenny Clark'],NA,week_15,Green Bay Packers,2017
+['Randall Cobb'],NA,week_15,Green Bay Packers,2017
+['Mike Daniels'],NA,week_15,Green Bay Packers,2017
+['Quinton Dial'],NA,week_15,Green Bay Packers,2017
+['Jahri Evans'],NA,week_15,Green Bay Packers,2017
+['Brett Goode'],NA,week_15,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_15,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_15,Green Bay Packers,2017
+['Davon House'],Out: Shoulder,week_15,Green Bay Packers,2017
+['Ulrick John'],NA,week_15,Green Bay Packers,2017
+['Aaron Jones'],NA,week_15,Green Bay Packers,2017
+['Kevin King'],Injured Reserve: Shoulder,week_15,Green Bay Packers,2017
+['Corey Linsley'],NA,week_15,Green Bay Packers,2017
+['Clay Matthews'],NA,week_15,Green Bay Packers,2017
+['Devante Mays'],NA,week_15,Green Bay Packers,2017
+['Justin McCray'],NA,week_15,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_15,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_15,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_15,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_15,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_15,Green Bay Packers,2017
+['Nick Perry'],Questionable: Foot,week_15,Green Bay Packers,2017
+['Damarious Randall'],NA,week_15,Green Bay Packers,2017
+['Aaron Rodgers'],NA,week_15,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_15,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_15,Green Bay Packers,2017
+['Jake Ryan'],Questionable: Knee,week_15,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_15,Green Bay Packers,2017
+['Jason Spriggs'],Questionable: Hip,week_15,Green Bay Packers,2017
+['Lane Taylor'],NA,week_15,Green Bay Packers,2017
+['Joe Thomas'],NA,week_15,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_15,Green Bay Packers,2017
+['Davante Adams'],Out: Concussion,week_16,Green Bay Packers,2017
+['Montravius Adams'],NA,week_16,Green Bay Packers,2017
+['Geronimo Allison'],NA,week_16,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_16,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_16,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_16,Green Bay Packers,2017
+['Vince Biegel'],NA,week_16,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_16,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_16,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_16,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_16,Green Bay Packers,2017
+['Kenny Clark'],NA,week_16,Green Bay Packers,2017
+['Randall Cobb'],NA,week_16,Green Bay Packers,2017
+['Mike Daniels'],NA,week_16,Green Bay Packers,2017
+['Quinton Dial'],NA,week_16,Green Bay Packers,2017
+['Jahri Evans'],Questionable: Knee,week_16,Green Bay Packers,2017
+['Brett Goode'],NA,week_16,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_16,Green Bay Packers,2017
+['Demetri Goodson'],Out: Hamstring,week_16,Green Bay Packers,2017
+['Davon House'],Questionable: Shoulder,week_16,Green Bay Packers,2017
+['Ulrick John'],NA,week_16,Green Bay Packers,2017
+['Aaron Jones'],NA,week_16,Green Bay Packers,2017
+['Kevin King'],Injured Reserve: Shoulder,week_16,Green Bay Packers,2017
+['Corey Linsley'],NA,week_16,Green Bay Packers,2017
+['Clay Matthews'],Questionable: Hamstring,week_16,Green Bay Packers,2017
+['Devante Mays'],NA,week_16,Green Bay Packers,2017
+['Justin McCray'],NA,week_16,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_16,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_16,Green Bay Packers,2017
+['Jordy Nelson'],NA,week_16,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_16,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_16,Green Bay Packers,2017
+['Nick Perry'],Injured Reserve: Ankle,week_16,Green Bay Packers,2017
+['Damarious Randall'],NA,week_16,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_16,Green Bay Packers,2017
+['Richard Rodgers'],NA,week_16,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_16,Green Bay Packers,2017
+['Jake Ryan'],NA,week_16,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_16,Green Bay Packers,2017
+['Jason Spriggs'],NA,week_16,Green Bay Packers,2017
+['Lane Taylor'],NA,week_16,Green Bay Packers,2017
+['Joe Thomas'],NA,week_16,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_16,Green Bay Packers,2017
+['Davante Adams'],Out: Concussion,week_17,Green Bay Packers,2017
+['Montravius Adams'],NA,week_17,Green Bay Packers,2017
+['Geronimo Allison'],Questionable: Illness,week_17,Green Bay Packers,2017
+['David Bakhtiari'],NA,week_17,Green Bay Packers,2017
+['Don Barclay'],Injured Reserve: Foot,week_17,Green Bay Packers,2017
+['Martellus Bennett'],NA,week_17,Green Bay Packers,2017
+['Vince Biegel'],NA,week_17,Green Bay Packers,2017
+['Kentrell Brice'],Injured Reserve: Ankle,week_17,Green Bay Packers,2017
+['Ahmad Brooks'],NA,week_17,Green Bay Packers,2017
+['Bryan Bulaga'],Injured Reserve: Knee,week_17,Green Bay Packers,2017
+['Morgan Burnett'],NA,week_17,Green Bay Packers,2017
+['Kenny Clark'],NA,week_17,Green Bay Packers,2017
+['Randall Cobb'],NA,week_17,Green Bay Packers,2017
+['Mike Daniels'],NA,week_17,Green Bay Packers,2017
+['Quinton Dial'],NA,week_17,Green Bay Packers,2017
+['Jahri Evans'],Out: Knee,week_17,Green Bay Packers,2017
+['Brett Goode'],NA,week_17,Green Bay Packers,2017
+['Antwan Goodley'],Injured Reserve: Undisclosed,week_17,Green Bay Packers,2017
+['Demetri Goodson'],Injured Reserve: Hamstring,week_17,Green Bay Packers,2017
+['Davon House'],NA,week_17,Green Bay Packers,2017
+['Ulrick John'],Questionable: Back,week_17,Green Bay Packers,2017
+['Aaron Jones'],Out: Knee,week_17,Green Bay Packers,2017
+['Kevin King'],Injured Reserve: Shoulder,week_17,Green Bay Packers,2017
+['Corey Linsley'],NA,week_17,Green Bay Packers,2017
+['Clay Matthews'],Questionable: Hamstring,week_17,Green Bay Packers,2017
+['Devante Mays'],NA,week_17,Green Bay Packers,2017
+['Justin McCray'],NA,week_17,Green Bay Packers,2017
+['Ty Montgomery'],Injured Reserve: Wrist,week_17,Green Bay Packers,2017
+['Kyle Murphy'],Injured Reserve: Foot,week_17,Green Bay Packers,2017
+['Jordy Nelson'],Out: Shoulder,week_17,Green Bay Packers,2017
+['Lucas Patrick'],NA,week_17,Green Bay Packers,2017
+['Taybor Pepper'],Injured Reserve: Foot,week_17,Green Bay Packers,2017
+['Nick Perry'],Out: Ankle,week_17,Green Bay Packers,2017
+['Damarious Randall'],Questionable: Knee,week_17,Green Bay Packers,2017
+['Aaron Rodgers'],Injured Reserve: Collarbone,week_17,Green Bay Packers,2017
+['Richard Rodgers'],Out: Shoulder,week_17,Green Bay Packers,2017
+['Quinten Rollins'],Injured Reserve: Achilles,week_17,Green Bay Packers,2017
+['Jake Ryan'],NA,week_17,Green Bay Packers,2017
+['Beau Sandland'],Injured Reserve: Knee,week_17,Green Bay Packers,2017
+['Jason Spriggs'],Injured Reserve: Hamstring,week_17,Green Bay Packers,2017
+['Lane Taylor'],NA,week_17,Green Bay Packers,2017
+['Joe Thomas'],NA,week_17,Green Bay Packers,2017
+['Herb Waters'],Injured Reserve: Shoulder,week_17,Green Bay Packers,2017

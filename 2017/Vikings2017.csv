@@ -1,0 +1,595 @@
+﻿name,injury,week,team,year
+['Mackensie Alexander'],NA,week_1,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_1,Minnesota Vikings,2017
+['Blake Bell'],NA,week_1,Minnesota Vikings,2017
+['Sam Bradford'],NA,week_1,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_1,Minnesota Vikings,2017
+['Tramaine Brock'],Questionable: Groin,week_1,Minnesota Vikings,2017
+['Dalvin Cook'],NA,week_1,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_1,Minnesota Vikings,2017
+['Nick Easton'],NA,week_1,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_1,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_1,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_1,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_1,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_1,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_1,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_1,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_1,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_1,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_1,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_1,Minnesota Vikings,2017
+['David Morgan'],NA,week_1,Minnesota Vikings,2017
+['Terence Newman'],NA,week_1,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_1,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_1,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_1,Minnesota Vikings,2017
+['Brian Robison'],NA,week_1,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_1,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_1,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_1,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_1,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_1,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_1,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_1,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_2,Minnesota Vikings,2017
+['Anthony Barr'],Questionable: Hamstring,week_2,Minnesota Vikings,2017
+['Blake Bell'],NA,week_2,Minnesota Vikings,2017
+['Sam Bradford'],Questionable: Knee,week_2,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_2,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_2,Minnesota Vikings,2017
+['Dalvin Cook'],NA,week_2,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_2,Minnesota Vikings,2017
+['Nick Easton'],NA,week_2,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_2,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_2,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_2,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_2,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_2,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_2,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_2,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_2,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_2,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_2,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_2,Minnesota Vikings,2017
+['David Morgan'],NA,week_2,Minnesota Vikings,2017
+['Terence Newman'],NA,week_2,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_2,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_2,Minnesota Vikings,2017
+['Xavier Rhodes'],Questionable: Hip,week_2,Minnesota Vikings,2017
+['Brian Robison'],NA,week_2,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_2,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_2,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_2,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_2,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_2,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_2,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_2,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_3,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_3,Minnesota Vikings,2017
+['Blake Bell'],NA,week_3,Minnesota Vikings,2017
+['Sam Bradford'],Out: Knee,week_3,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_3,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_3,Minnesota Vikings,2017
+['Dalvin Cook'],NA,week_3,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_3,Minnesota Vikings,2017
+['Nick Easton'],NA,week_3,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_3,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_3,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_3,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_3,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_3,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_3,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_3,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_3,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_3,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_3,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_3,Minnesota Vikings,2017
+['David Morgan'],NA,week_3,Minnesota Vikings,2017
+['Terence Newman'],NA,week_3,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_3,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_3,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_3,Minnesota Vikings,2017
+['Brian Robison'],NA,week_3,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_3,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_3,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_3,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_3,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_3,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_3,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_3,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_4,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_4,Minnesota Vikings,2017
+['Blake Bell'],NA,week_4,Minnesota Vikings,2017
+['Sam Bradford'],Out: Knee,week_4,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_4,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_4,Minnesota Vikings,2017
+['Dalvin Cook'],NA,week_4,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_4,Minnesota Vikings,2017
+['Nick Easton'],NA,week_4,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_4,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_4,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_4,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_4,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_4,Minnesota Vikings,2017
+['Rashod Hill'],Questionable: Knee,week_4,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_4,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_4,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_4,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_4,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_4,Minnesota Vikings,2017
+['David Morgan'],NA,week_4,Minnesota Vikings,2017
+['Terence Newman'],NA,week_4,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_4,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_4,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_4,Minnesota Vikings,2017
+['Brian Robison'],NA,week_4,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_4,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_4,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_4,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_4,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_4,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_4,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_4,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_5,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_5,Minnesota Vikings,2017
+['Blake Bell'],NA,week_5,Minnesota Vikings,2017
+['Sam Bradford'],Questionable: Knee,week_5,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_5,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_5,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_5,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_5,Minnesota Vikings,2017
+['Nick Easton'],NA,week_5,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_5,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_5,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_5,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_5,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_5,Minnesota Vikings,2017
+['Rashod Hill'],Out: Knee,week_5,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_5,Minnesota Vikings,2017
+['Jayron Kearse'],Questionable: Groin,week_5,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_5,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_5,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_5,Minnesota Vikings,2017
+['David Morgan'],NA,week_5,Minnesota Vikings,2017
+['Terence Newman'],NA,week_5,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_5,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_5,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_5,Minnesota Vikings,2017
+['Brian Robison'],NA,week_5,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_5,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_5,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_5,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_5,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_5,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_5,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_5,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_6,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_6,Minnesota Vikings,2017
+['Blake Bell'],NA,week_6,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_6,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_6,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_6,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_6,Minnesota Vikings,2017
+['Stefon Diggs'],Out: Groin,week_6,Minnesota Vikings,2017
+['Nick Easton'],Out: Calf,week_6,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_6,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_6,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_6,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_6,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_6,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_6,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_6,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_6,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_6,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_6,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_6,Minnesota Vikings,2017
+['David Morgan'],NA,week_6,Minnesota Vikings,2017
+['Terence Newman'],NA,week_6,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_6,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_6,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_6,Minnesota Vikings,2017
+['Brian Robison'],NA,week_6,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_6,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_6,Minnesota Vikings,2017
+['Andrew Sendejo'],Questionable: Groin,week_6,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_6,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_6,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_6,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_6,Minnesota Vikings,2017
+['Mackensie Alexander'],Questionable: Hip,week_7,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_7,Minnesota Vikings,2017
+['Blake Bell'],NA,week_7,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_7,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_7,Minnesota Vikings,2017
+['Tramaine Brock'],Questionable: Hamstring,week_7,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_7,Minnesota Vikings,2017
+['Stefon Diggs'],Out: Groin,week_7,Minnesota Vikings,2017
+['Nick Easton'],Out: Calf,week_7,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_7,Minnesota Vikings,2017
+['Michael Floyd'],Questionable: Hamstring,week_7,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_7,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_7,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_7,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_7,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_7,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_7,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_7,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_7,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_7,Minnesota Vikings,2017
+['David Morgan'],NA,week_7,Minnesota Vikings,2017
+['Terence Newman'],NA,week_7,Minnesota Vikings,2017
+['Riley Reiff'],Questionable: Ankle,week_7,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_7,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_7,Minnesota Vikings,2017
+['Brian Robison'],NA,week_7,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_7,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_7,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_7,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_7,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_7,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_7,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_7,Minnesota Vikings,2017
+['Mackensie Alexander'],Questionable: Hip,week_8,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_8,Minnesota Vikings,2017
+['Blake Bell'],NA,week_8,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_8,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_8,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_8,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_8,Minnesota Vikings,2017
+['Stefon Diggs'],Questionable: Groin,week_8,Minnesota Vikings,2017
+['Nick Easton'],Questionable: Calf,week_8,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_8,Minnesota Vikings,2017
+['Michael Floyd'],Questionable: Hamstring,week_8,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_8,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_8,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_8,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_8,Minnesota Vikings,2017
+['Datone Jones'],NA,week_8,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_8,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_8,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_8,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_8,Minnesota Vikings,2017
+['David Morgan'],NA,week_8,Minnesota Vikings,2017
+['Terence Newman'],NA,week_8,Minnesota Vikings,2017
+['Riley Reiff'],Questionable: Knee,week_8,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_8,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_8,Minnesota Vikings,2017
+['Brian Robison'],NA,week_8,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_8,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_8,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_8,Minnesota Vikings,2017
+['Jeremiah Sirles'],Out: Knee,week_8,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_8,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_8,Minnesota Vikings,2017
+['Stephen Weatherly'],Out: Knee,week_8,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_10,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_10,Minnesota Vikings,2017
+['Blake Bell'],NA,week_10,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_10,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_10,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_10,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_10,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_10,Minnesota Vikings,2017
+['Nick Easton'],NA,week_10,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_10,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_10,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_10,Minnesota Vikings,2017
+['Everson Griffen'],Questionable: Foot,week_10,Minnesota Vikings,2017
+['Anthony Harris'],Questionable: Hamstring,week_10,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_10,Minnesota Vikings,2017
+['Datone Jones'],NA,week_10,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_10,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_10,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_10,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_10,Minnesota Vikings,2017
+['David Morgan'],NA,week_10,Minnesota Vikings,2017
+['Terence Newman'],NA,week_10,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_10,Minnesota Vikings,2017
+['Mike Remmers'],Out: Concussion,week_10,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_10,Minnesota Vikings,2017
+['Brian Robison'],NA,week_10,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_10,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_10,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_10,Minnesota Vikings,2017
+['Jeremiah Sirles'],Out: Knee,week_10,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_10,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_10,Minnesota Vikings,2017
+['Stephen Weatherly'],Questionable: Knee,week_10,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_11,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_11,Minnesota Vikings,2017
+['Blake Bell'],NA,week_11,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_11,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_11,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_11,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_11,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_11,Minnesota Vikings,2017
+['Nick Easton'],NA,week_11,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_11,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_11,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_11,Minnesota Vikings,2017
+['Everson Griffen'],Questionable: Foot,week_11,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_11,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_11,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_11,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_11,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_11,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_11,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_11,Minnesota Vikings,2017
+['David Morgan'],NA,week_11,Minnesota Vikings,2017
+['Terence Newman'],NA,week_11,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_11,Minnesota Vikings,2017
+['Mike Remmers'],Out: Concussion,week_11,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_11,Minnesota Vikings,2017
+['Brian Robison'],Questionable: Back,week_11,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_11,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_11,Minnesota Vikings,2017
+['Andrew Sendejo'],Out: Groin,week_11,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_11,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_11,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_11,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_11,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_12,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_12,Minnesota Vikings,2017
+['Blake Bell'],NA,week_12,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_12,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_12,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_12,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_12,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_12,Minnesota Vikings,2017
+['Nick Easton'],NA,week_12,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_12,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_12,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_12,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_12,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_12,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_12,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_12,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_12,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_12,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_12,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_12,Minnesota Vikings,2017
+['David Morgan'],NA,week_12,Minnesota Vikings,2017
+['Terence Newman'],NA,week_12,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_12,Minnesota Vikings,2017
+['Mike Remmers'],Questionable: Concussion,week_12,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_12,Minnesota Vikings,2017
+['Brian Robison'],Questionable: Back,week_12,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_12,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_12,Minnesota Vikings,2017
+['Andrew Sendejo'],Questionable: Groin,week_12,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_12,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_12,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_12,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_12,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_13,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_13,Minnesota Vikings,2017
+['Blake Bell'],NA,week_13,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_13,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_13,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_13,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_13,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_13,Minnesota Vikings,2017
+['Nick Easton'],NA,week_13,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_13,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_13,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_13,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_13,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_13,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_13,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_13,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_13,Minnesota Vikings,2017
+['Eric Kendricks'],Questionable: Hip,week_13,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_13,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_13,Minnesota Vikings,2017
+['David Morgan'],NA,week_13,Minnesota Vikings,2017
+['Terence Newman'],NA,week_13,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_13,Minnesota Vikings,2017
+['Mike Remmers'],Out: Back,week_13,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_13,Minnesota Vikings,2017
+['Brian Robison'],NA,week_13,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_13,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_13,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_13,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_13,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_13,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_13,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_13,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_14,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_14,Minnesota Vikings,2017
+['Blake Bell'],NA,week_14,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_14,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_14,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_14,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_14,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_14,Minnesota Vikings,2017
+['Nick Easton'],NA,week_14,Minnesota Vikings,2017
+['Pat Elflein'],Questionable: Shoulder,week_14,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_14,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_14,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_14,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_14,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_14,Minnesota Vikings,2017
+['Datone Jones'],NA,week_14,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_14,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_14,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_14,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_14,Minnesota Vikings,2017
+['David Morgan'],Out: Concussion,week_14,Minnesota Vikings,2017
+['Terence Newman'],NA,week_14,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_14,Minnesota Vikings,2017
+['Mike Remmers'],Out: Back,week_14,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_14,Minnesota Vikings,2017
+['Brian Robison'],NA,week_14,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_14,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_14,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_14,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_14,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_14,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_14,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_14,Minnesota Vikings,2017
+['Mackensie Alexander'],Out: Ribs,week_15,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_15,Minnesota Vikings,2017
+['Blake Bell'],Out: Shoulder,week_15,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_15,Minnesota Vikings,2017
+['Teddy Bridgewater'],NA,week_15,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_15,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_15,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_15,Minnesota Vikings,2017
+['Nick Easton'],NA,week_15,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_15,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_15,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_15,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_15,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_15,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_15,Minnesota Vikings,2017
+['Datone Jones'],NA,week_15,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_15,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_15,Minnesota Vikings,2017
+['Emmanuel Lamur'],Questionable: Foot,week_15,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_15,Minnesota Vikings,2017
+['David Morgan'],NA,week_15,Minnesota Vikings,2017
+['Terence Newman'],NA,week_15,Minnesota Vikings,2017
+['Riley Reiff'],Doubtful: Ankle,week_15,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_15,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_15,Minnesota Vikings,2017
+['Brian Robison'],NA,week_15,Minnesota Vikings,2017
+['Kyle Rudolph'],Doubtful: Ankle,week_15,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_15,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_15,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_15,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_15,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_15,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_15,Minnesota Vikings,2017
+['Mackensie Alexander'],Questionable: Rib,week_16,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_16,Minnesota Vikings,2017
+['Blake Bell'],Injured Reserve: Shoulder,week_16,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_16,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_16,Minnesota Vikings,2017
+['Tramaine Brock'],Out: Foot,week_16,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_16,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_16,Minnesota Vikings,2017
+['Nick Easton'],NA,week_16,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_16,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_16,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_16,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_16,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_16,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_16,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_16,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_16,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_16,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_16,Minnesota Vikings,2017
+['Kevin McDermott'],NA,week_16,Minnesota Vikings,2017
+['David Morgan'],NA,week_16,Minnesota Vikings,2017
+['Terence Newman'],NA,week_16,Minnesota Vikings,2017
+['Riley Reiff'],Questionable: Ankle,week_16,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_16,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_16,Minnesota Vikings,2017
+['Brian Robison'],NA,week_16,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_16,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_16,Minnesota Vikings,2017
+['Andrew Sendejo'],Questionable: Ankle,week_16,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_16,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_16,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_16,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_16,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_17,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_17,Minnesota Vikings,2017
+['Blake Bell'],Injured Reserve: Shoulder,week_17,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_17,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_17,Minnesota Vikings,2017
+['Tramaine Brock'],Out: Foot,week_17,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_17,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_17,Minnesota Vikings,2017
+['Nick Easton'],Injured Reserve: Ankle,week_17,Minnesota Vikings,2017
+['Pat Elflein'],Out: Shoulder,week_17,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_17,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_17,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_17,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_17,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_17,Minnesota Vikings,2017
+['Datone Jones'],NA,week_17,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_17,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_17,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_17,Minnesota Vikings,2017
+['Kevin McDermott'],Out: Shoulder,week_17,Minnesota Vikings,2017
+['David Morgan'],NA,week_17,Minnesota Vikings,2017
+['Terence Newman'],NA,week_17,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_17,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_17,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_17,Minnesota Vikings,2017
+['Brian Robison'],NA,week_17,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_17,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_17,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_17,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_17,Minnesota Vikings,2017
+['Shamar Stephen'],Out: Ankle,week_17,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_17,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_17,Minnesota Vikings,2017
+['Mackensie Alexander'],NA,week_19,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_19,Minnesota Vikings,2017
+['Blake Bell'],Injured Reserve: Shoulder,week_19,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_19,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_19,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_19,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_19,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_19,Minnesota Vikings,2017
+['Nick Easton'],Injured Reserve: Ankle,week_19,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_19,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_19,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_19,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_19,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_19,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_19,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_19,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_19,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_19,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_19,Minnesota Vikings,2017
+['Kevin McDermott'],Injured Reserve: Shoulder,week_19,Minnesota Vikings,2017
+['David Morgan'],NA,week_19,Minnesota Vikings,2017
+['Terence Newman'],Questionable: Foot,week_19,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_19,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_19,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_19,Minnesota Vikings,2017
+['Brian Robison'],NA,week_19,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_19,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_19,Minnesota Vikings,2017
+['Andrew Sendejo'],NA,week_19,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_19,Minnesota Vikings,2017
+['Shamar Stephen'],NA,week_19,Minnesota Vikings,2017
+['Adam Thielen'],NA,week_19,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_19,Minnesota Vikings,2017
+['Mackensie Alexander'],Questionable: Rib,week_20,Minnesota Vikings,2017
+['Anthony Barr'],NA,week_20,Minnesota Vikings,2017
+['Blake Bell'],Injured Reserve: Shoulder,week_20,Minnesota Vikings,2017
+['Sam Bradford'],Injured Reserve: Knee,week_20,Minnesota Vikings,2017
+['Teddy Bridgewater'],Injured Reserve: Knee,week_20,Minnesota Vikings,2017
+['Tramaine Brock'],NA,week_20,Minnesota Vikings,2017
+['Dalvin Cook'],Injured Reserve: Knee,week_20,Minnesota Vikings,2017
+['Stefon Diggs'],NA,week_20,Minnesota Vikings,2017
+['Nick Easton'],Injured Reserve: Ankle,week_20,Minnesota Vikings,2017
+['Pat Elflein'],NA,week_20,Minnesota Vikings,2017
+['Michael Floyd'],NA,week_20,Minnesota Vikings,2017
+['Sharrif Floyd'],Injured Reserve: Knee,week_20,Minnesota Vikings,2017
+['Everson Griffen'],NA,week_20,Minnesota Vikings,2017
+['Anthony Harris'],NA,week_20,Minnesota Vikings,2017
+['Rashod Hill'],NA,week_20,Minnesota Vikings,2017
+['Datone Jones'],Injured Reserve: Shoulder,week_20,Minnesota Vikings,2017
+['Jayron Kearse'],NA,week_20,Minnesota Vikings,2017
+['Eric Kendricks'],NA,week_20,Minnesota Vikings,2017
+['Emmanuel Lamur'],NA,week_20,Minnesota Vikings,2017
+['Kevin McDermott'],Injured Reserve: Shoulder,week_20,Minnesota Vikings,2017
+['David Morgan'],NA,week_20,Minnesota Vikings,2017
+['Terence Newman'],NA,week_20,Minnesota Vikings,2017
+['Riley Reiff'],NA,week_20,Minnesota Vikings,2017
+['Mike Remmers'],NA,week_20,Minnesota Vikings,2017
+['Xavier Rhodes'],NA,week_20,Minnesota Vikings,2017
+['Brian Robison'],NA,week_20,Minnesota Vikings,2017
+['Kyle Rudolph'],NA,week_20,Minnesota Vikings,2017
+['Bishop Sankey'],Injured Reserve: Knee,week_20,Minnesota Vikings,2017
+['Andrew Sendejo'],Questionable: Concussion,week_20,Minnesota Vikings,2017
+['Jeremiah Sirles'],NA,week_20,Minnesota Vikings,2017
+['Shamar Stephen'],Out: Knee,week_20,Minnesota Vikings,2017
+['Adam Thielen'],Questionable: Back,week_20,Minnesota Vikings,2017
+['Stephen Weatherly'],NA,week_20,Minnesota Vikings,2017

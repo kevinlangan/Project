@@ -1,0 +1,596 @@
+﻿name,injury,week,team,year
+['Kenneth Acker'],NA,week_1,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_1,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_1,Kansas City Chiefs,2017
+['Eric Berry'],NA,week_1,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_1,Kansas City Chiefs,2017
+['Chris Conley'],NA,week_1,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_1,Kansas City Chiefs,2017
+['Parker Ehinger'],Doubtful: Knee,week_1,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_1,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_1,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_1,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_1,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_1,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_1,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_1,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_1,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_1,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_1,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_1,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_1,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_1,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_1,Kansas City Chiefs,2017
+['Ron Parker'],Questionable: Ankle,week_1,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_1,Kansas City Chiefs,2017
+['Reggie Ragland'],Doubtful: Knee,week_1,Kansas City Chiefs,2017
+['Cairo Santos'],NA,week_1,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_1,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_1,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_1,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_1,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_1,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_2,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_2,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_2,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_2,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_2,Kansas City Chiefs,2017
+['Chris Conley'],NA,week_2,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_2,Kansas City Chiefs,2017
+['Parker Ehinger'],Doubtful: Knee,week_2,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_2,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_2,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_2,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_2,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_2,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_2,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_2,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_2,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_2,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_2,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_2,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_2,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_2,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_2,Kansas City Chiefs,2017
+['Ron Parker'],Questionable: Ankle,week_2,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],Questionable: Illness,week_2,Kansas City Chiefs,2017
+['Reggie Ragland'],Doubtful: Knee,week_2,Kansas City Chiefs,2017
+['Cairo Santos'],NA,week_2,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_2,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_2,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_2,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_2,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_2,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_3,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_3,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_3,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_3,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_3,Kansas City Chiefs,2017
+['Chris Conley'],NA,week_3,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_3,Kansas City Chiefs,2017
+['Parker Ehinger'],Doubtful: Knee,week_3,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_3,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_3,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_3,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_3,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_3,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_3,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_3,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_3,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_3,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_3,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_3,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_3,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_3,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_3,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_3,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_3,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_3,Kansas City Chiefs,2017
+['Cairo Santos'],NA,week_3,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_3,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_3,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_3,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_3,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_3,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_4,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_4,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_4,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_4,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_4,Kansas City Chiefs,2017
+['Chris Conley'],NA,week_4,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_4,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_4,Kansas City Chiefs,2017
+['Eric Fisher'],Questionable: Back,week_4,Kansas City Chiefs,2017
+['Dee Ford'],Out: Back,week_4,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_4,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_4,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_4,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_4,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_4,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_4,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_4,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_4,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_4,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_4,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_4,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_4,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],Questionable: Groin,week_4,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_4,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_4,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_4,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_4,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_4,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_4,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_4,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_5,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_5,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_5,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_5,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_5,Kansas City Chiefs,2017
+['Chris Conley'],NA,week_5,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],Out: Knee,week_5,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_5,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_5,Kansas City Chiefs,2017
+['Dee Ford'],Out: Back,week_5,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_5,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_5,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_5,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_5,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_5,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_5,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_5,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_5,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_5,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_5,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_5,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_5,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_5,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_5,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_5,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_5,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_5,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_5,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_5,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_5,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_6,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_6,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_6,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_6,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_6,Kansas City Chiefs,2017
+['Chris Conley'],Out: Achilles,week_6,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],Out: Knee,week_6,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_6,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_6,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_6,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_6,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_6,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_6,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_6,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_6,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_6,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_6,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_6,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_6,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_6,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_6,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_6,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_6,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_6,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_6,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_6,Kansas City Chiefs,2017
+['Steven Terrell'],Out: Concussion,week_6,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_6,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_6,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_6,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_7,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_7,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_7,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_7,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_7,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_7,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],Out: Knee,week_7,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_7,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_7,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_7,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_7,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_7,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_7,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_7,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_7,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_7,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_7,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_7,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_7,Kansas City Chiefs,2017
+['Steven Nelson'],Injured Reserve: Abdominal,week_7,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_7,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_7,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_7,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_7,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_7,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_7,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_7,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_7,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2017
+['Charcandrick West'],Out: Concussion,week_7,Kansas City Chiefs,2017
+['Albert Wilson'],Questionable: Knee,week_7,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_8,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_8,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_8,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_8,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_8,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_8,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],Questionable: Knee,week_8,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_8,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_8,Kansas City Chiefs,2017
+['Dee Ford'],NA,week_8,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_8,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_8,Kansas City Chiefs,2017
+['Tamba Hali'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_8,Kansas City Chiefs,2017
+['Justin Houston'],Questionable: Knee,week_8,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_8,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_8,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_8,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_8,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_8,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_8,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_8,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_8,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_8,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_8,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_8,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_8,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_8,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_8,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_8,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_8,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_9,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_9,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_9,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_9,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_9,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_9,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_9,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_9,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_9,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_9,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_9,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_9,Kansas City Chiefs,2017
+['Tamba Hali'],NA,week_9,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_9,Kansas City Chiefs,2017
+['Justin Houston'],Questionable: Knee,week_9,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_9,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_9,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_9,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_9,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_9,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_9,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_9,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_9,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_9,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_9,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_9,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_9,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_9,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_9,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_9,Kansas City Chiefs,2017
+['Albert Wilson'],Out: Hamstring,week_9,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_11,Kansas City Chiefs,2017
+['Allen Bailey'],Out: Knee,week_11,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_11,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_11,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_11,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_11,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_11,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_11,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_11,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_11,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_11,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_11,Kansas City Chiefs,2017
+['Tamba Hali'],Out: Knee,week_11,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_11,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_11,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_11,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_11,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_11,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_11,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_11,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_11,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_11,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_11,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_11,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_11,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_11,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_11,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_11,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_11,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_11,Kansas City Chiefs,2017
+['Albert Wilson'],Out: Hamstring,week_11,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_12,Kansas City Chiefs,2017
+['Allen Bailey'],Questionable: Knee,week_12,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_12,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_12,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_12,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_12,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_12,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_12,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_12,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_12,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_12,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_12,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_12,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_12,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_12,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_12,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_12,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_12,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_12,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_12,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_12,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_12,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_12,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_12,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_12,Kansas City Chiefs,2017
+['Cairo Santos'],NA,week_12,Kansas City Chiefs,2017
+['Terrance Smith'],Out: Concussion,week_12,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_12,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_12,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_12,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_12,Kansas City Chiefs,2017
+['Albert Wilson'],Questionable: Hamstring,week_12,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_13,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_13,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_13,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_13,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_13,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_13,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_13,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_13,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_13,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_13,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_13,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_13,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_13,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_13,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_13,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_13,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_13,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_13,Kansas City Chiefs,2017
+['Mitch Morse'],NA,week_13,Kansas City Chiefs,2017
+['Eric Murray'],Out: Ankle,week_13,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_13,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_13,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_13,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_13,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_13,Kansas City Chiefs,2017
+['Cairo Santos'],NA,week_13,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_13,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_13,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_13,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2017
+['Charcandrick West'],Out: NotInjuryRelated,week_13,Kansas City Chiefs,2017
+['Albert Wilson'],Questionable: Hamstring,week_13,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_14,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_14,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_14,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_14,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_14,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_14,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_14,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_14,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_14,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_14,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_14,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_14,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_14,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_14,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_14,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_14,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_14,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_14,Kansas City Chiefs,2017
+['Mitch Morse'],Injured Reserve: Foot,week_14,Kansas City Chiefs,2017
+['Eric Murray'],Out: Ankle,week_14,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_14,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_14,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_14,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_14,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_14,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_14,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_14,Kansas City Chiefs,2017
+['Steven Terrell'],NA,week_14,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_14,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_14,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_14,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_15,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_15,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_15,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_15,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_15,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_15,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_15,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_15,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_15,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_15,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_15,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_15,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_15,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_15,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_15,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_15,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_15,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_15,Kansas City Chiefs,2017
+['Mitch Morse'],Out: Foot,week_15,Kansas City Chiefs,2017
+['Eric Murray'],Questionable: Ankle,week_15,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_15,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_15,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_15,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],Questionable: Quadricep,week_15,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_15,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_15,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_15,Kansas City Chiefs,2017
+['Steven Terrell'],Injured Reserve: Undisclosed,week_15,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_15,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_15,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_15,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_16,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_16,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_16,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_16,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_16,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_16,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_16,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_16,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_16,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_16,Kansas City Chiefs,2017
+['Tamba Hali'],NA,week_16,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_16,Kansas City Chiefs,2017
+['Justin Houston'],Questionable: Illness,week_16,Kansas City Chiefs,2017
+['Akeem Hunt'],NA,week_16,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_16,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_16,Kansas City Chiefs,2017
+['Mitch Morse'],Injured Reserve: Foot,week_16,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_16,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_16,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],NA,week_16,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_16,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_16,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_16,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_16,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_16,Kansas City Chiefs,2017
+['Steven Terrell'],Injured Reserve: Undisclosed,week_16,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_16,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_16,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_16,Kansas City Chiefs,2017
+['Kenneth Acker'],Questionable: Illness,week_17,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_17,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_17,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_17,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_17,Kansas City Chiefs,2017
+['Parker Ehinger'],NA,week_17,Kansas City Chiefs,2017
+['Cameron Erving'],Questionable: Illness,week_17,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_17,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_17,Kansas City Chiefs,2017
+['Phillip Gaines'],NA,week_17,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_17,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_17,Kansas City Chiefs,2017
+['Tyreek Hill'],Out: NotInjuryRelated,week_17,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_17,Kansas City Chiefs,2017
+['Akeem Hunt'],Questionable: Shoulder,week_17,Kansas City Chiefs,2017
+['Jarvis Jenkins'],NA,week_17,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2017
+['Bennie Logan'],Doubtful: Knee,week_17,Kansas City Chiefs,2017
+['Mitch Morse'],Injured Reserve: Foot,week_17,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_17,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_17,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],Questionable: Illness,week_17,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_17,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],Questionable: Shoulder,week_17,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_17,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_17,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_17,Kansas City Chiefs,2017
+['Steven Terrell'],Injured Reserve: Undisclosed,week_17,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",NA,week_17,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2017
+['Charcandrick West'],Questionable: Illness,week_17,Kansas City Chiefs,2017
+['Albert Wilson'],NA,week_17,Kansas City Chiefs,2017
+['Kenneth Acker'],NA,week_18,Kansas City Chiefs,2017
+['Allen Bailey'],NA,week_18,Kansas City Chiefs,2017
+['Isaiah Battle'],Injured Reserve: Hamstring,week_18,Kansas City Chiefs,2017
+['Eric Berry'],Injured Reserve: Achilles,week_18,Kansas City Chiefs,2017
+['Reshard Cliett'],Injured Reserve: Finger,week_18,Kansas City Chiefs,2017
+['Chris Conley'],Injured Reserve: Achilles,week_18,Kansas City Chiefs,2017
+['Laurent Duvernay-Tardif'],NA,week_18,Kansas City Chiefs,2017
+['Parker Ehinger'],Injured Reserve: Knee,week_18,Kansas City Chiefs,2017
+['Cameron Erving'],NA,week_18,Kansas City Chiefs,2017
+['Eric Fisher'],NA,week_18,Kansas City Chiefs,2017
+['Dee Ford'],Injured Reserve: Back,week_18,Kansas City Chiefs,2017
+['Phillip Gaines'],Injured Reserve: Elbow,week_18,Kansas City Chiefs,2017
+['Antwan Goodley'],Injured Reserve: Hamstring,week_18,Kansas City Chiefs,2017
+['Tamba Hali'],Questionable: Knee,week_18,Kansas City Chiefs,2017
+['Tyreek Hill'],NA,week_18,Kansas City Chiefs,2017
+['Justin Houston'],NA,week_18,Kansas City Chiefs,2017
+['Akeem Hunt'],Injured Reserve: Ankle,week_18,Kansas City Chiefs,2017
+['Jarvis Jenkins'],Questionable: Knee,week_18,Kansas City Chiefs,2017
+['Ashton Lampkin'],Injured Reserve: Knee,week_18,Kansas City Chiefs,2017
+['Bennie Logan'],NA,week_18,Kansas City Chiefs,2017
+['Mitch Morse'],Injured Reserve: Foot,week_18,Kansas City Chiefs,2017
+['Eric Murray'],NA,week_18,Kansas City Chiefs,2017
+['Steven Nelson'],NA,week_18,Kansas City Chiefs,2017
+['Dadi Nicolas'],Injured Reserve: Knee,week_18,Kansas City Chiefs,2017
+['Rakeem Nunez-Roches'],Doubtful: Ankle,week_18,Kansas City Chiefs,2017
+['Ron Parker'],NA,week_18,Kansas City Chiefs,2017
+['Kevin Pierre-Louis'],NA,week_18,Kansas City Chiefs,2017
+['Reggie Ragland'],NA,week_18,Kansas City Chiefs,2017
+['Cairo Santos'],Injured Reserve: Groin,week_18,Kansas City Chiefs,2017
+['Terrance Smith'],NA,week_18,Kansas City Chiefs,2017
+['Steven Terrell'],Injured Reserve: Undisclosed,week_18,Kansas City Chiefs,2017
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_18,Kansas City Chiefs,2017
+['Spencer Ware'],Injured Reserve: Knee,week_18,Kansas City Chiefs,2017
+['Charcandrick West'],NA,week_18,Kansas City Chiefs,2017
+['Albert Wilson'],Questionable: Hamstring,week_18,Kansas City Chiefs,2017

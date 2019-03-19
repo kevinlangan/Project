@@ -1,0 +1,545 @@
+﻿name,injury,week,team,year
+['Keenan Allen'],NA,week_1,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],Questionable: Hamstring,week_1,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_1,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_1,Los Angeles Chargers,2017
+['Tre Boston'],Questionable: Calf,week_1,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_1,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_1,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_1,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_1,Los Angeles Chargers,2017
+['Chris Hairston'],NA,week_1,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_1,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_1,Los Angeles Chargers,2017
+['Dontrelle Inman'],Questionable: Groin,week_1,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_1,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_1,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_1,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_1,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_1,Los Angeles Chargers,2017
+['Sean McGrath'],Questionable: Knee,week_1,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_1,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_1,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_1,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_1,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_1,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_1,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_1,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_1,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_1,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_1,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_1,Los Angeles Chargers,2017
+['Jason Verrett'],NA,week_1,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_1,Los Angeles Chargers,2017
+['Mike Williams'],Injured Reserve: Back,week_1,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_1,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_2,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],Questionable: Hamstring,week_2,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_2,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_2,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_2,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_2,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_2,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_2,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_2,Los Angeles Chargers,2017
+['Chris Hairston'],NA,week_2,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_2,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_2,Los Angeles Chargers,2017
+['Dontrelle Inman'],Questionable: Groin,week_2,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],Out: Concussion,week_2,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_2,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_2,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_2,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_2,Los Angeles Chargers,2017
+['Sean McGrath'],Questionable: Knee,week_2,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_2,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_2,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_2,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_2,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_2,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_2,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_2,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_2,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_2,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_2,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_2,Los Angeles Chargers,2017
+['Jason Verrett'],Out: Knee,week_2,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_2,Los Angeles Chargers,2017
+['Mike Williams'],Out: Back,week_2,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_2,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_3,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_3,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_3,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_3,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_3,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_3,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_3,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_3,Los Angeles Chargers,2017
+['Melvin Gordon'],Questionable: Knee,week_3,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_3,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_3,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_3,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_3,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_3,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_3,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_3,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_3,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_3,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_3,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_3,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_3,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_3,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_3,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_3,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_3,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_3,Los Angeles Chargers,2017
+['Hayes Pullard'],Questionable: Knee,week_3,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_3,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_3,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_3,Los Angeles Chargers,2017
+['Jason Verrett'],Out: Knee,week_3,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_3,Los Angeles Chargers,2017
+['Mike Williams'],Out: Back,week_3,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_3,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_4,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_4,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_4,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_4,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_4,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_4,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_4,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_4,Los Angeles Chargers,2017
+['Melvin Gordon'],Questionable: Knee,week_4,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_4,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_4,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_4,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_4,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_4,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_4,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_4,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_4,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_4,Los Angeles Chargers,2017
+['Sean McGrath'],Questionable: Foot,week_4,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_4,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_4,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_4,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_4,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_4,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_4,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_4,Los Angeles Chargers,2017
+['Hayes Pullard'],Questionable: Knee,week_4,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_4,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_4,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_4,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_4,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_4,Los Angeles Chargers,2017
+['Mike Williams'],Out: Back,week_4,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_4,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_5,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_5,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_5,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_5,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_5,Los Angeles Chargers,2017
+['Jatavis Brown'],Questionable: Ankle,week_5,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_5,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_5,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_5,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_5,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_5,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_5,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_5,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_5,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_5,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_5,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_5,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_5,Los Angeles Chargers,2017
+['Sean McGrath'],Questionable: Foot,week_5,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_5,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_5,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_5,Los Angeles Chargers,2017
+['Branden Oliver'],Out: Hamstring,week_5,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_5,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_5,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_5,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_5,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_5,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_5,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_5,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_5,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_5,Los Angeles Chargers,2017
+['Mike Williams'],Out: Back,week_5,Los Angeles Chargers,2017
+['Tyrell Williams'],Questionable: Neck,week_5,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_6,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_6,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_6,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_6,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_6,Los Angeles Chargers,2017
+['Jatavis Brown'],Questionable: Ankle,week_6,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_6,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_6,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_6,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_6,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_6,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_6,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_6,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_6,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_6,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_6,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_6,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_6,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_6,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_6,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_6,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_6,Los Angeles Chargers,2017
+['Branden Oliver'],Questionable: Hamstring,week_6,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_6,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_6,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_6,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_6,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_6,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_6,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_6,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_6,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_6,Los Angeles Chargers,2017
+['Mike Williams'],Questionable: Back,week_6,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_6,Los Angeles Chargers,2017
+['Keenan Allen'],Questionable: Shoulder,week_7,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_7,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_7,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_7,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_7,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_7,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_7,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_7,Los Angeles Chargers,2017
+['Melvin Gordon'],Questionable: Shoulder,week_7,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_7,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_7,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_7,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_7,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_7,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_7,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_7,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Back,week_7,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_7,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_7,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_7,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_7,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_7,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_7,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_7,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_7,Los Angeles Chargers,2017
+['Adrian Phillips'],Questionable: Neck,week_7,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_7,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_7,Los Angeles Chargers,2017
+['Matt Slauson'],NA,week_7,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_7,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_7,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_7,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_7,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_7,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_8,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_8,Los Angeles Chargers,2017
+['Joe Barksdale'],Doubtful: Foot,week_8,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_8,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_8,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_8,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_8,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_8,Los Angeles Chargers,2017
+['Melvin Gordon'],Questionable: Foot,week_8,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_8,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_8,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_8,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_8,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_8,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_8,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_8,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Back,week_8,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_8,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_8,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_8,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_8,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_8,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_8,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_8,Los Angeles Chargers,2017
+['Denzel Perryman'],Injured Reserve: Ankle,week_8,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_8,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_8,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_8,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_8,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_8,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_8,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_8,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_8,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_8,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_10,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_10,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_10,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_10,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_10,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_10,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_10,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_10,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_10,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_10,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_10,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_10,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_10,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_10,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_10,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_10,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_10,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_10,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_10,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_10,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_10,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_10,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_10,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_10,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_10,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_10,Los Angeles Chargers,2017
+['Hayes Pullard'],Questionable: Neck,week_10,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_10,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_10,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_10,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_10,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_10,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_10,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_10,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_11,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_11,Los Angeles Chargers,2017
+['Joe Barksdale'],Out: Foot,week_11,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_11,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_11,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_11,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_11,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_11,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_11,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_11,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_11,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_11,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_11,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_11,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_11,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_11,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_11,Los Angeles Chargers,2017
+['Chris McCain'],Questionable: Quadricep,week_11,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_11,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_11,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_11,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_11,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_11,Los Angeles Chargers,2017
+['James Onwualu'],Doubtful: Quadricep,week_11,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_11,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_11,Los Angeles Chargers,2017
+['Hayes Pullard'],Doubtful: Neck,week_11,Los Angeles Chargers,2017
+['Philip Rivers'],Questionable: Concussion,week_11,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_11,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_11,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_11,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_11,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_11,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_11,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_12,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_12,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Foot,week_12,Los Angeles Chargers,2017
+['Travis Benjamin'],Questionable: Abdomen,week_12,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_12,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_12,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_12,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_12,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_12,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_12,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_12,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_12,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_12,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_12,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_12,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_12,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Toe,week_12,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_12,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_12,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_12,Los Angeles Chargers,2017
+['Nick Novak'],NA,week_12,Los Angeles Chargers,2017
+['Russell Okung'],Questionable: Knee,week_12,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_12,Los Angeles Chargers,2017
+['James Onwualu'],Questionable: Quadricep,week_12,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_12,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_12,Los Angeles Chargers,2017
+['Hayes Pullard'],Questionable: Neck,week_12,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_12,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_12,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_12,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_12,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_12,Los Angeles Chargers,2017
+['Mike Williams'],Questionable: Knee,week_12,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_12,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_13,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_13,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_13,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_13,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_13,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_13,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_13,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_13,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_13,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_13,Los Angeles Chargers,2017
+['Casey Hayward'],Questionable: Calf,week_13,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_13,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_13,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_13,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_13,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_13,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Toe,week_13,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_13,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_13,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_13,Los Angeles Chargers,2017
+['Nick Novak'],Questionable: Back,week_13,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_13,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_13,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_13,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_13,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_13,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_13,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_13,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_13,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_13,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_13,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_13,Los Angeles Chargers,2017
+['Mike Williams'],Out: Back,week_13,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_13,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_14,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_14,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_14,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_14,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_14,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_14,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_14,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_14,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_14,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_14,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_14,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_14,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_14,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_14,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_14,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_14,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Toe,week_14,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_14,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_14,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_14,Los Angeles Chargers,2017
+['Nick Novak'],Injured Reserve: Back,week_14,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_14,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_14,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_14,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_14,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_14,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_14,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_14,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_14,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_14,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_14,Los Angeles Chargers,2017
+['Andre Williams'],NA,week_14,Los Angeles Chargers,2017
+['Mike Williams'],Questionable: Knee,week_14,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_14,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_15,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_15,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_15,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_15,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_15,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_15,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_15,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_15,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_15,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_15,Los Angeles Chargers,2017
+['Casey Hayward'],Questionable: Calf,week_15,Los Angeles Chargers,2017
+['Hunter Henry'],NA,week_15,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_15,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_15,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_15,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_15,Los Angeles Chargers,2017
+['Corey Liuget'],NA,week_15,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_15,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_15,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_15,Los Angeles Chargers,2017
+['Nick Novak'],Injured Reserve: Back,week_15,Los Angeles Chargers,2017
+['Russell Okung'],NA,week_15,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_15,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_15,Los Angeles Chargers,2017
+['Denzel Perryman'],NA,week_15,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_15,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_15,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_15,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_15,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_15,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_15,Los Angeles Chargers,2017
+['Andre Williams'],Injured Reserve: Wrist,week_15,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_15,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_15,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_16,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_16,Los Angeles Chargers,2017
+['Joe Barksdale'],Questionable: Hip,week_16,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_16,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_16,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_16,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_16,Los Angeles Chargers,2017
+['Austin Ekeler'],Questionable: Hand,week_16,Los Angeles Chargers,2017
+['Melvin Gordon'],NA,week_16,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_16,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_16,Los Angeles Chargers,2017
+['Hunter Henry'],Injured Reserve: Kidney,week_16,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_16,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_16,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_16,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_16,Los Angeles Chargers,2017
+['Corey Liuget'],Out: Knee,week_16,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_16,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_16,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_16,Los Angeles Chargers,2017
+['Nick Novak'],Injured Reserve: Back,week_16,Los Angeles Chargers,2017
+['Russell Okung'],Questionable: Groin,week_16,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_16,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_16,Los Angeles Chargers,2017
+['Denzel Perryman'],Out: Hamstring,week_16,Los Angeles Chargers,2017
+['Adrian Phillips'],NA,week_16,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_16,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_16,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_16,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_16,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_16,Los Angeles Chargers,2017
+['Andre Williams'],Injured Reserve: Wrist,week_16,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_16,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_16,Los Angeles Chargers,2017
+['Keenan Allen'],NA,week_17,Los Angeles Chargers,2017
+['Jeremiah Attaochu'],NA,week_17,Los Angeles Chargers,2017
+['Joe Barksdale'],NA,week_17,Los Angeles Chargers,2017
+['Travis Benjamin'],NA,week_17,Los Angeles Chargers,2017
+['Tre Boston'],NA,week_17,Los Angeles Chargers,2017
+['Jatavis Brown'],NA,week_17,Los Angeles Chargers,2017
+['Asante Cleveland'],Injured Reserve: Knee,week_17,Los Angeles Chargers,2017
+['Austin Ekeler'],NA,week_17,Los Angeles Chargers,2017
+['Melvin Gordon'],Questionable: Ankle,week_17,Los Angeles Chargers,2017
+['Chris Hairston'],Injured Reserve: Illness,week_17,Los Angeles Chargers,2017
+['Casey Hayward'],NA,week_17,Los Angeles Chargers,2017
+['Hunter Henry'],Injured Reserve: Kidney,week_17,Los Angeles Chargers,2017
+['Dontrelle Inman'],NA,week_17,Los Angeles Chargers,2017
+['Rayshawn Jenkins'],NA,week_17,Los Angeles Chargers,2017
+['Forrest Lamp'],Injured Reserve: Knee,week_17,Los Angeles Chargers,2017
+['Chris Landrum'],Injured Reserve: Shoulder,week_17,Los Angeles Chargers,2017
+['Corey Liuget'],Questionable: Knee,week_17,Los Angeles Chargers,2017
+['Chris McCain'],NA,week_17,Los Angeles Chargers,2017
+['Sean McGrath'],NA,week_17,Los Angeles Chargers,2017
+['Charmeachealle Moore'],Injured Reserve: Undisclosed,week_17,Los Angeles Chargers,2017
+['Nick Novak'],Injured Reserve: Back,week_17,Los Angeles Chargers,2017
+['Russell Okung'],Questionable: Groin,week_17,Los Angeles Chargers,2017
+['Branden Oliver'],NA,week_17,Los Angeles Chargers,2017
+['James Onwualu'],NA,week_17,Los Angeles Chargers,2017
+['Denzel Perryman'],Questionable: Hamstring,week_17,Los Angeles Chargers,2017
+['Adrian Phillips'],Out: Ankle,week_17,Los Angeles Chargers,2017
+['Hayes Pullard'],NA,week_17,Los Angeles Chargers,2017
+['Philip Rivers'],NA,week_17,Los Angeles Chargers,2017
+['Matt Slauson'],Injured Reserve: Bicep,week_17,Los Angeles Chargers,2017
+['Darrell Stuckey'],Injured Reserve: Knee,week_17,Los Angeles Chargers,2017
+['Jason Verrett'],Injured Reserve: Knee,week_17,Los Angeles Chargers,2017
+['Andre Williams'],Injured Reserve: Wrist,week_17,Los Angeles Chargers,2017
+['Mike Williams'],NA,week_17,Los Angeles Chargers,2017
+['Tyrell Williams'],NA,week_17,Los Angeles Chargers,2017
