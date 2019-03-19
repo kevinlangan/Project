@@ -1,0 +1,945 @@
+﻿name,injury,week,team,year
+['Bryan Anger'],Questionable: groin,week_1,Jacksonville Jaguars,2014
+['Alan Ball'],NA,week_1,Jacksonville Jaguars,2014
+['Brandon Barden'],Injured Reserve: groin,week_1,Jacksonville Jaguars,2014
+['Zane Beadles'],Questionable: calf,week_1,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_1,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_1,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_1,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_1,Jacksonville Jaguars,2014
+['Luke Bowanko'],Probable: quadriceps,week_1,Jacksonville Jaguars,2014
+['Andre Branch'],NA,week_1,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_1,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_1,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_1,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_1,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_1,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_1,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_1,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_1,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_1,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_1,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_1,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_1,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_1,Jacksonville Jaguars,2014
+['Clay Harbor'],Out: calf,week_1,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_1,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_1,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_1,Jacksonville Jaguars,2014
+['Storm Johnson'],Questionable: ankle,week_1,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_1,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_1,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_1,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_1,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_1,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_1,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_1,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",Questionable: shoulder,week_1,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_1,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_1,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_1,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_1,Jacksonville Jaguars,2014
+['Austin Pasztor'],Questionable: hand,week_1,Jacksonville Jaguars,2014
+['Paul Posluszny'],NA,week_1,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_1,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_1,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_1,Jacksonville Jaguars,2014
+['Allen Robinson'],Questionable: hamstring,week_1,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_1,Jacksonville Jaguars,2014
+['Ace Sanders'],Suspended: ,week_1,Jacksonville Jaguars,2014
+['Josh Scobee'],Probable: groin,week_1,Jacksonville Jaguars,2014
+['Cecil Shorts'],Questionable: hamstring,week_1,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_1,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_1,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_1,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_1,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_1,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_1,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_1,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_1,Jacksonville Jaguars,2014
+['Josh Wells'],Questionable: shoulder,week_1,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_2,Jacksonville Jaguars,2014
+['Alan Ball'],Questionable: abdominal,week_2,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_2,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_2,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_2,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_2,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_2,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_2,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_2,Jacksonville Jaguars,2014
+['Andre Branch'],NA,week_2,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_2,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_2,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_2,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],Questionable: concussion,week_2,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_2,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_2,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_2,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_2,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_2,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_2,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: ankle,week_2,Jacksonville Jaguars,2014
+['Dwayne Gratz'],Probable: ankle,week_2,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_2,Jacksonville Jaguars,2014
+['Clay Harbor'],Questionable: calf,week_2,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_2,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_2,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_2,Jacksonville Jaguars,2014
+['Storm Johnson'],Questionable: ankle,week_2,Jacksonville Jaguars,2014
+['Abry Jones'],Questionable: abdominal,week_2,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_2,Jacksonville Jaguars,2014
+['Marqise Lee'],Probable: hamstring,week_2,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Probable: knee,week_2,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_2,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_2,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_2,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_2,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_2,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_2,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_2,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_2,Jacksonville Jaguars,2014
+['Austin Pasztor'],Questionable: hand,week_2,Jacksonville Jaguars,2014
+['Paul Posluszny'],NA,week_2,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_2,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_2,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_2,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_2,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_2,Jacksonville Jaguars,2014
+['Ace Sanders'],Suspended: ,week_2,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_2,Jacksonville Jaguars,2014
+['Cecil Shorts'],Questionable: hamstring,week_2,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_2,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_2,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_2,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_2,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_2,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_2,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_2,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_2,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_2,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_3,Jacksonville Jaguars,2014
+['Alan Ball'],Questionable: abdomen,week_3,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_3,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_3,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_3,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_3,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_3,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_3,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_3,Jacksonville Jaguars,2014
+['Andre Branch'],NA,week_3,Jacksonville Jaguars,2014
+['Chris Clemons'],Questionable: illness,week_3,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_3,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_3,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],Probable: concussion,week_3,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_3,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_3,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_3,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_3,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_3,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_3,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: ankle,week_3,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_3,Jacksonville Jaguars,2014
+['Winston Guy'],Questionable: illness,week_3,Jacksonville Jaguars,2014
+['Clay Harbor'],Questionable: calf,week_3,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_3,Jacksonville Jaguars,2014
+['Allen Hurns'],Doubtful: ankle,week_3,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_3,Jacksonville Jaguars,2014
+['Storm Johnson'],Probable: ankle,week_3,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_3,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_3,Jacksonville Jaguars,2014
+['Marqise Lee'],Out: hamstring,week_3,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_3,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_3,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_3,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_3,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_3,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_3,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_3,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_3,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_3,Jacksonville Jaguars,2014
+['Austin Pasztor'],Probable: hand,week_3,Jacksonville Jaguars,2014
+['Paul Posluszny'],Questionable: knee,week_3,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_3,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_3,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_3,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_3,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_3,Jacksonville Jaguars,2014
+['Ace Sanders'],Suspended: ,week_3,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_3,Jacksonville Jaguars,2014
+['Cecil Shorts'],Questionable: hamstring,week_3,Jacksonville Jaguars,2014
+['Mickey Shuler'],Questionable: heel,week_3,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_3,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_3,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_3,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_3,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_3,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_3,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_3,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_3,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_4,Jacksonville Jaguars,2014
+['Alan Ball'],Probable: abdomen,week_4,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_4,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_4,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_4,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_4,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_4,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_4,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_4,Jacksonville Jaguars,2014
+['Andre Branch'],NA,week_4,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_4,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_4,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_4,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_4,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_4,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_4,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_4,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_4,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_4,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_4,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: ankle,week_4,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_4,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_4,Jacksonville Jaguars,2014
+['Clay Harbor'],Probable: calf,week_4,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_4,Jacksonville Jaguars,2014
+['Allen Hurns'],Probable: ankle,week_4,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_4,Jacksonville Jaguars,2014
+['Storm Johnson'],Questionable: ankle,week_4,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_4,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_4,Jacksonville Jaguars,2014
+['Marqise Lee'],Out: hamstring,week_4,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_4,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_4,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_4,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_4,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_4,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_4,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_4,Jacksonville Jaguars,2014
+['Roy Miller'],Questionable: ankle,week_4,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_4,Jacksonville Jaguars,2014
+['Austin Pasztor'],Probable: hand,week_4,Jacksonville Jaguars,2014
+['Paul Posluszny'],Probable: ankle,week_4,Jacksonville Jaguars,2014
+['Chris Prosinski'],Out: elbow,week_4,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_4,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_4,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_4,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_4,Jacksonville Jaguars,2014
+['Ace Sanders'],Suspended: ,week_4,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_4,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_4,Jacksonville Jaguars,2014
+['Mickey Shuler'],Questionable: illness,week_4,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_4,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_4,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",Questionable: ankle,week_4,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_4,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_4,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_4,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_4,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_4,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_5,Jacksonville Jaguars,2014
+['Alan Ball'],NA,week_5,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_5,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_5,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_5,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_5,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_5,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_5,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_5,Jacksonville Jaguars,2014
+['Andre Branch'],Questionable: hip,week_5,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_5,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_5,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_5,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_5,Jacksonville Jaguars,2014
+['Ryan Davis'],Questionable: shoulder,week_5,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_5,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_5,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_5,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_5,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_5,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_5,Jacksonville Jaguars,2014
+['Dwayne Gratz'],Doubtful: concussion,week_5,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_5,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_5,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_5,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_5,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_5,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_5,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_5,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_5,Jacksonville Jaguars,2014
+['Marqise Lee'],Out: hamstring,week_5,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_5,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_5,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_5,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_5,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_5,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_5,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_5,Jacksonville Jaguars,2014
+['Roy Miller'],Questionable: ankle,week_5,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_5,Jacksonville Jaguars,2014
+['Austin Pasztor'],Probable: hand,week_5,Jacksonville Jaguars,2014
+['Paul Posluszny'],Probable: knee,week_5,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_5,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_5,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_5,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_5,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_5,Jacksonville Jaguars,2014
+['Ace Sanders'],Probable: four-game suspension served,week_5,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_5,Jacksonville Jaguars,2014
+['Cecil Shorts'],Out: hamstring,week_5,Jacksonville Jaguars,2014
+['Mickey Shuler'],Questionable: illness,week_5,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_5,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_5,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",Questionable: ankle,week_5,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_5,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_5,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_5,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_5,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_5,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_6,Jacksonville Jaguars,2014
+['Alan Ball'],NA,week_6,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_6,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_6,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_6,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_6,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_6,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_6,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_6,Jacksonville Jaguars,2014
+['Andre Branch'],NA,week_6,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_6,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_6,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_6,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_6,Jacksonville Jaguars,2014
+['Ryan Davis'],Probable: shoulder,week_6,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_6,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_6,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_6,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_6,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_6,Jacksonville Jaguars,2014
+['Toby Gerhart'],Questionable: ankle,week_6,Jacksonville Jaguars,2014
+['Dwayne Gratz'],Probable: concussion,week_6,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_6,Jacksonville Jaguars,2014
+['Clay Harbor'],Probable: back,week_6,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_6,Jacksonville Jaguars,2014
+['Allen Hurns'],Probable: foot,week_6,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_6,Jacksonville Jaguars,2014
+['Storm Johnson'],Probable: ankle,week_6,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_6,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_6,Jacksonville Jaguars,2014
+['Marqise Lee'],Probable: hamstring,week_6,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_6,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_6,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_6,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_6,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_6,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_6,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_6,Jacksonville Jaguars,2014
+['Roy Miller'],Probable: ankle,week_6,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_6,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_6,Jacksonville Jaguars,2014
+['Paul Posluszny'],Questionable: knee,week_6,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_6,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_6,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_6,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_6,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_6,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_6,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_6,Jacksonville Jaguars,2014
+['Cecil Shorts'],Probable: hamstring,week_6,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_6,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_6,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_6,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_6,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_6,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_6,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_6,Jacksonville Jaguars,2014
+['Dekoda Watson'],Probable: shoulder,week_6,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_6,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_7,Jacksonville Jaguars,2014
+['Alan Ball'],Questionable: knee,week_7,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_7,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_7,Jacksonville Jaguars,2014
+['Deion Belue'],Injured Reserve: back,week_7,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_7,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_7,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_7,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_7,Jacksonville Jaguars,2014
+['Andre Branch'],Questionable: groin,week_7,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_7,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_7,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_7,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_7,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_7,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_7,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_7,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_7,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_7,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_7,Jacksonville Jaguars,2014
+['Toby Gerhart'],Questionable: ankle,week_7,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_7,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_7,Jacksonville Jaguars,2014
+['Clay Harbor'],Probable: knee,week_7,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_7,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_7,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_7,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_7,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_7,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_7,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_7,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_7,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_7,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_7,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_7,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_7,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_7,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_7,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_7,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_7,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_7,Jacksonville Jaguars,2014
+['Paul Posluszny'],NA,week_7,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_7,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_7,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_7,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_7,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_7,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_7,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_7,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_7,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_7,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_7,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_7,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_7,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_7,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_7,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_7,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_7,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_7,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_8,Jacksonville Jaguars,2014
+['Alan Ball'],Doubtful: bicep,week_8,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_8,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_8,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_8,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_8,Jacksonville Jaguars,2014
+['Will Blackmon'],NA,week_8,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_8,Jacksonville Jaguars,2014
+['Luke Bowanko'],Probable: ankle,week_8,Jacksonville Jaguars,2014
+['Andre Branch'],Out: groin,week_8,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_8,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_8,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_8,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_8,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_8,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_8,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_8,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_8,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_8,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_8,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: foot,week_8,Jacksonville Jaguars,2014
+['Dwayne Gratz'],Questionable: hip,week_8,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_8,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_8,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_8,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_8,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_8,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_8,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_8,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_8,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_8,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_8,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_8,Jacksonville Jaguars,2014
+['Craig Loston'],Probable: hamstring,week_8,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_8,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_8,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_8,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_8,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_8,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_8,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_8,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_8,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_8,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_8,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_8,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_8,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_8,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_8,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_8,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_8,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_8,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_8,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_8,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_8,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_8,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_8,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_8,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_8,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_8,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_9,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_9,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_9,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_9,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_9,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_9,Jacksonville Jaguars,2014
+['Will Blackmon'],Out: finger,week_9,Jacksonville Jaguars,2014
+['Blake Bortles'],NA,week_9,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_9,Jacksonville Jaguars,2014
+['Andre Branch'],Out: groin,week_9,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_9,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_9,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_9,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_9,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_9,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_9,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_9,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_9,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_9,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_9,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_9,Jacksonville Jaguars,2014
+['Dwayne Gratz'],Questionable: groin,week_9,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_9,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_9,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_9,Jacksonville Jaguars,2014
+['Allen Hurns'],Probable: ankle,week_9,Jacksonville Jaguars,2014
+['Luke Joeckel'],Doubtful: concussion,week_9,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_9,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_9,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_9,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_9,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_9,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_9,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_9,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_9,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_9,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_9,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_9,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_9,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_9,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_9,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_9,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_9,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_9,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_9,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_9,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_9,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_9,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_9,Jacksonville Jaguars,2014
+['Cecil Shorts'],Questionable: groin,week_9,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_9,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_9,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_9,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_9,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_9,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_9,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_9,Jacksonville Jaguars,2014
+['Dekoda Watson'],Questionable: hamstring,week_9,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_9,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_10,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_10,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_10,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_10,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_10,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_10,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_10,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: left wrist,week_10,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_10,Jacksonville Jaguars,2014
+['Andre Branch'],Out: groin,week_10,Jacksonville Jaguars,2014
+['Chris Clemons'],NA,week_10,Jacksonville Jaguars,2014
+['Aaron Colvin'],Out: knee,week_10,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_10,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_10,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_10,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_10,Jacksonville Jaguars,2014
+['Josh Evans'],Questionable: shoulder,week_10,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_10,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_10,Jacksonville Jaguars,2014
+['Jeremiah George'],Questionable: ankle,week_10,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_10,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_10,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_10,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_10,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_10,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_10,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_10,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_10,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_10,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_10,Jacksonville Jaguars,2014
+['Marqise Lee'],Questionable: ankle,week_10,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Injured Reserve: ankle,week_10,Jacksonville Jaguars,2014
+['Brandon Linder'],Questionable: shoulder,week_10,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_10,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_10,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_10,Jacksonville Jaguars,2014
+['Sherrod Martin'],Questionable: shoulder,week_10,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_10,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_10,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_10,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_10,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_10,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_10,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_10,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_10,Jacksonville Jaguars,2014
+['Allen Robinson'],NA,week_10,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_10,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_10,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_10,Jacksonville Jaguars,2014
+['Cecil Shorts'],Doubtful: hamstring,week_10,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_10,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_10,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_10,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_10,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_10,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_10,Jacksonville Jaguars,2014
+['Jordan Todman'],Probable: quadricep,week_10,Jacksonville Jaguars,2014
+['Dekoda Watson'],Probable: hamstring,week_10,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_10,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_12,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_12,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_12,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_12,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_12,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_12,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_12,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: left wrist,week_12,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_12,Jacksonville Jaguars,2014
+['Andre Branch'],Out: groin,week_12,Jacksonville Jaguars,2014
+['Chris Clemons'],Probable: knee,week_12,Jacksonville Jaguars,2014
+['Aaron Colvin'],Probable: knee,week_12,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_12,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_12,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_12,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_12,Jacksonville Jaguars,2014
+['Josh Evans'],Probable: elbow,week_12,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_12,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_12,Jacksonville Jaguars,2014
+['Jeremiah George'],Questionable: ankle,week_12,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_12,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_12,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_12,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_12,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_12,Jacksonville Jaguars,2014
+['Allen Hurns'],Questionable: concussion,week_12,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_12,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_12,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_12,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_12,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_12,Jacksonville Jaguars,2014
+['Marcedes Lewis'],Probable: ankle,week_12,Jacksonville Jaguars,2014
+['Brandon Linder'],Questionable: shoulder,week_12,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_12,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_12,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_12,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_12,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_12,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_12,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_12,Jacksonville Jaguars,2014
+['Austin Pasztor'],Questionable: hamstring,week_12,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_12,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_12,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_12,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_12,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_12,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_12,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_12,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_12,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_12,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_12,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_12,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_12,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_12,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_12,Jacksonville Jaguars,2014
+['Peyton Thompson'],Questionable: rib,week_12,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_12,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_12,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_12,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_13,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_13,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_13,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_13,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_13,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_13,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_13,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: left wrist,week_13,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_13,Jacksonville Jaguars,2014
+['Andre Branch'],Probable: groin,week_13,Jacksonville Jaguars,2014
+['Chris Clemons'],Questionable: knee,week_13,Jacksonville Jaguars,2014
+['Aaron Colvin'],NA,week_13,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_13,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_13,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_13,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_13,Jacksonville Jaguars,2014
+['Josh Evans'],Questionable: elbow,week_13,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_13,Jacksonville Jaguars,2014
+['Khairi Fortt'],NA,week_13,Jacksonville Jaguars,2014
+['Jeremiah George'],Questionable: ankle,week_13,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_13,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_13,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_13,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_13,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_13,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_13,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_13,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_13,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_13,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_13,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_13,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_13,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_13,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_13,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_13,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_13,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_13,Jacksonville Jaguars,2014
+['Demetrius McCray'],Questionable: ankle,week_13,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_13,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_13,Jacksonville Jaguars,2014
+['Austin Pasztor'],NA,week_13,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_13,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_13,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],Questionable: beck,week_13,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_13,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_13,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_13,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_13,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_13,Jacksonville Jaguars,2014
+['Cecil Shorts'],Probable: illness,week_13,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_13,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_13,Jacksonville Jaguars,2014
+['Tommy Streeter'],NA,week_13,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_13,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_13,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_13,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_13,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_13,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_13,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_14,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_14,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_14,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_14,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_14,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_14,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_14,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: ankle/right shoulder,week_14,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_14,Jacksonville Jaguars,2014
+['Andre Branch'],Questionable: groin,week_14,Jacksonville Jaguars,2014
+['Chris Clemons'],Probable: knee,week_14,Jacksonville Jaguars,2014
+['Aaron Colvin'],NA,week_14,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_14,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_14,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_14,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_14,Jacksonville Jaguars,2014
+['Josh Evans'],Questionable: ankle,week_14,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_14,Jacksonville Jaguars,2014
+['Khairi Fortt'],Questionable: hamstring,week_14,Jacksonville Jaguars,2014
+['Jeremiah George'],Probable: ankle,week_14,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: shoulder,week_14,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_14,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_14,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_14,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_14,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_14,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_14,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_14,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_14,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_14,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_14,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_14,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_14,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_14,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_14,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",Questionable: foot,week_14,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_14,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_14,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_14,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_14,Jacksonville Jaguars,2014
+['Austin Pasztor'],Injured Reserve: hamstring,week_14,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_14,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_14,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],Questionable: neck,week_14,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_14,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_14,Jacksonville Jaguars,2014
+['Denard Robinson'],NA,week_14,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_14,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_14,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_14,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_14,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_14,Jacksonville Jaguars,2014
+['Tommy Streeter'],Questionable: abdomen,week_14,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_14,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_14,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_14,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_14,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_14,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_14,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_15,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_15,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_15,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_15,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_15,Jacksonville Jaguars,2014
+['Justin Blackmon'],Suspended: ,week_15,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_15,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: right shoulder,week_15,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_15,Jacksonville Jaguars,2014
+['Andre Branch'],Questionable: groin,week_15,Jacksonville Jaguars,2014
+['Chris Clemons'],Questionable: knee,week_15,Jacksonville Jaguars,2014
+['Aaron Colvin'],NA,week_15,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_15,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_15,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_15,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_15,Jacksonville Jaguars,2014
+['Josh Evans'],Probable: finger,week_15,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_15,Jacksonville Jaguars,2014
+['Khairi Fortt'],Questionable: hamstring,week_15,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_15,Jacksonville Jaguars,2014
+['Toby Gerhart'],Probable: ankle,week_15,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_15,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_15,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_15,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_15,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_15,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_15,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_15,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_15,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_15,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_15,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_15,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_15,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_15,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_15,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_15,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_15,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_15,Jacksonville Jaguars,2014
+['Roy Miller'],NA,week_15,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_15,Jacksonville Jaguars,2014
+['Austin Pasztor'],Injured Reserve: hamstring,week_15,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_15,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_15,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_15,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_15,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_15,Jacksonville Jaguars,2014
+['Denard Robinson'],Out: foot,week_15,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_15,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_15,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_15,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_15,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_15,Jacksonville Jaguars,2014
+['Tommy Streeter'],Probable: abdomen,week_15,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_15,Jacksonville Jaguars,2014
+['J.T. Thomas'],Probable: ankle,week_15,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_15,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_15,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_15,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_15,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_16,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_16,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_16,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_16,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_16,Jacksonville Jaguars,2014
+['Justin Blackmon'],Out: disciplinary,week_16,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_16,Jacksonville Jaguars,2014
+['Blake Bortles'],Doubtful: foot,week_16,Jacksonville Jaguars,2014
+['Luke Bowanko'],NA,week_16,Jacksonville Jaguars,2014
+['Andre Branch'],Questionable: groin,week_16,Jacksonville Jaguars,2014
+['Chris Clemons'],Probable: knee,week_16,Jacksonville Jaguars,2014
+['Aaron Colvin'],NA,week_16,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_16,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_16,Jacksonville Jaguars,2014
+['Ryan Davis'],Questionable: hip,week_16,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_16,Jacksonville Jaguars,2014
+['Josh Evans'],Questionable: foot,week_16,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_16,Jacksonville Jaguars,2014
+['Khairi Fortt'],Questionable: hamstring,week_16,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_16,Jacksonville Jaguars,2014
+['Toby Gerhart'],NA,week_16,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_16,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_16,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_16,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_16,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_16,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_16,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_16,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_16,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_16,Jacksonville Jaguars,2014
+['Marqise Lee'],Probable: elbow,week_16,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_16,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_16,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_16,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_16,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_16,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_16,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_16,Jacksonville Jaguars,2014
+['Roy Miller'],Questionable: knee,week_16,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_16,Jacksonville Jaguars,2014
+['Austin Pasztor'],Injured Reserve: hamstring,week_16,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_16,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_16,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_16,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_16,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_16,Jacksonville Jaguars,2014
+['Denard Robinson'],Out: foot,week_16,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_16,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_16,Jacksonville Jaguars,2014
+['Cecil Shorts'],NA,week_16,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_16,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_16,Jacksonville Jaguars,2014
+['Tommy Streeter'],Questionable: abdomen,week_16,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_16,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_16,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_16,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_16,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_16,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_16,Jacksonville Jaguars,2014
+['Bryan Anger'],NA,week_17,Jacksonville Jaguars,2014
+['Alan Ball'],Injured Reserve: biceps,week_17,Jacksonville Jaguars,2014
+['Brandon Barden'],NA,week_17,Jacksonville Jaguars,2014
+['Zane Beadles'],NA,week_17,Jacksonville Jaguars,2014
+['Deion Belue'],NA,week_17,Jacksonville Jaguars,2014
+['Justin Blackmon'],Out: disciplinary,week_17,Jacksonville Jaguars,2014
+['Will Blackmon'],Injured Reserve: finger,week_17,Jacksonville Jaguars,2014
+['Blake Bortles'],Probable: foot,week_17,Jacksonville Jaguars,2014
+['Luke Bowanko'],Probable: wrist,week_17,Jacksonville Jaguars,2014
+['Andre Branch'],Probable: groin,week_17,Jacksonville Jaguars,2014
+['Chris Clemons'],Probable: knee,week_17,Jacksonville Jaguars,2014
+['Aaron Colvin'],NA,week_17,Jacksonville Jaguars,2014
+['Damian Copeland'],Injured Reserve: wrist,week_17,Jacksonville Jaguars,2014
+['Johnathan Cyprien'],NA,week_17,Jacksonville Jaguars,2014
+['Ryan Davis'],NA,week_17,Jacksonville Jaguars,2014
+['Tandon Doss'],Injured Reserve: ankle,week_17,Jacksonville Jaguars,2014
+['Josh Evans'],NA,week_17,Jacksonville Jaguars,2014
+['Bradie Ewing'],Injured Reserve: wrist,week_17,Jacksonville Jaguars,2014
+['Khairi Fortt'],Injured Reserve: hamstring,week_17,Jacksonville Jaguars,2014
+['Jeremiah George'],NA,week_17,Jacksonville Jaguars,2014
+['Toby Gerhart'],Questionable: ribs,week_17,Jacksonville Jaguars,2014
+['Dwayne Gratz'],NA,week_17,Jacksonville Jaguars,2014
+['Winston Guy'],NA,week_17,Jacksonville Jaguars,2014
+['Clay Harbor'],NA,week_17,Jacksonville Jaguars,2014
+['Geno Hayes'],NA,week_17,Jacksonville Jaguars,2014
+['Allen Hurns'],NA,week_17,Jacksonville Jaguars,2014
+['Luke Joeckel'],NA,week_17,Jacksonville Jaguars,2014
+['Storm Johnson'],NA,week_17,Jacksonville Jaguars,2014
+['Abry Jones'],NA,week_17,Jacksonville Jaguars,2014
+['Reggie Jordan'],Injured Reserve: hamstring,week_17,Jacksonville Jaguars,2014
+['Marqise Lee'],NA,week_17,Jacksonville Jaguars,2014
+['Marcedes Lewis'],NA,week_17,Jacksonville Jaguars,2014
+['Brandon Linder'],NA,week_17,Jacksonville Jaguars,2014
+['Craig Loston'],NA,week_17,Jacksonville Jaguars,2014
+['John Lotulelei'],Injured Reserve: knee,week_17,Jacksonville Jaguars,2014
+"[""Sen'Derrick Marks""]",NA,week_17,Jacksonville Jaguars,2014
+['Sherrod Martin'],NA,week_17,Jacksonville Jaguars,2014
+['Demetrius McCray'],NA,week_17,Jacksonville Jaguars,2014
+['Roy Miller'],Out: knee,week_17,Jacksonville Jaguars,2014
+['Fendi Onobun'],Injured Reserve: quadriceps,week_17,Jacksonville Jaguars,2014
+['Austin Pasztor'],Injured Reserve: hamstring,week_17,Jacksonville Jaguars,2014
+['Paul Posluszny'],Injured Reserve: pectoral,week_17,Jacksonville Jaguars,2014
+['Chris Prosinski'],NA,week_17,Jacksonville Jaguars,2014
+['LaRoy Reynolds'],NA,week_17,Jacksonville Jaguars,2014
+['Rashaad Reynolds'],Injured Reserve: hand,week_17,Jacksonville Jaguars,2014
+['Allen Robinson'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2014
+['Denard Robinson'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2014
+['Ace Sanders'],NA,week_17,Jacksonville Jaguars,2014
+['Josh Scobee'],NA,week_17,Jacksonville Jaguars,2014
+['Cecil Shorts'],Probable: shoulder,week_17,Jacksonville Jaguars,2014
+['Mickey Shuler'],NA,week_17,Jacksonville Jaguars,2014
+['Nathan Slaughter'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2014
+['Tommy Streeter'],Probable: abdomen,week_17,Jacksonville Jaguars,2014
+"[""Will Ta'ufo'ou""]",NA,week_17,Jacksonville Jaguars,2014
+['J.T. Thomas'],NA,week_17,Jacksonville Jaguars,2014
+['Peyton Thompson'],NA,week_17,Jacksonville Jaguars,2014
+['Jordan Todman'],NA,week_17,Jacksonville Jaguars,2014
+['Dekoda Watson'],NA,week_17,Jacksonville Jaguars,2014
+['Josh Wells'],NA,week_17,Jacksonville Jaguars,2014

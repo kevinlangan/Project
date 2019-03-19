@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Miles Austin'],NA,week_1,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_1,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_1,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_1,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_1,Cleveland Browns,2014
+['Armonty Bryant'],NA,week_1,Cleveland Browns,2014
+['Desmond Bryant'],Doubtful: wrist,week_1,Cleveland Browns,2014
+['Jordan Cameron'],NA,week_1,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_1,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_1,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_1,Cleveland Browns,2014
+['Pierre Desir'],Probable: knee,week_1,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_1,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_1,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_1,Cleveland Browns,2014
+['Tashaun Gipson'],Questionable: knee,week_1,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_1,Cleveland Browns,2014
+['John Greco'],NA,week_1,Cleveland Browns,2014
+['Joe Haden'],Probable: foot,week_1,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_1,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_1,Cleveland Browns,2014
+['John Hughes'],Questionable: hamstring,week_1,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_1,Cleveland Browns,2014
+['Paul Kruger'],NA,week_1,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_1,Cleveland Browns,2014
+['Jim Leonhard'],Probable: knee,week_1,Cleveland Browns,2014
+['Alex Mack'],NA,week_1,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_1,Cleveland Browns,2014
+['Eric Martin'],Probable: concussion,week_1,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_1,Cleveland Browns,2014
+['Paul McQuistan'],Questionable: ankle,week_1,Cleveland Browns,2014
+['Barkevious Mingo'],NA,week_1,Cleveland Browns,2014
+['Marlon Moore'],Suspended: ,week_1,Cleveland Browns,2014
+['Robert Nelson'],NA,week_1,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_1,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_1,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_1,Cleveland Browns,2014
+['Buster Skrine'],Questionable: thumb,week_1,Cleveland Browns,2014
+['Rodney Smith'],NA,week_1,Cleveland Browns,2014
+['Ben Tate'],Questionable: knee,week_1,Cleveland Browns,2014
+['Phil Taylor'],NA,week_1,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_1,Cleveland Browns,2014
+['Donte Whitner'],NA,week_1,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_1,Cleveland Browns,2014
+['Billy Winn'],NA,week_1,Cleveland Browns,2014
+['Glenn Winston'],NA,week_1,Cleveland Browns,2014
+['Christian Yount'],Probable: shoulder,week_1,Cleveland Browns,2014
+['Miles Austin'],NA,week_2,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_2,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_2,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_2,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_2,Cleveland Browns,2014
+['Armonty Bryant'],NA,week_2,Cleveland Browns,2014
+['Desmond Bryant'],Questionable: wrist,week_2,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: shoulder,week_2,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_2,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_2,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_2,Cleveland Browns,2014
+['Pierre Desir'],NA,week_2,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_2,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_2,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_2,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_2,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_2,Cleveland Browns,2014
+['John Greco'],NA,week_2,Cleveland Browns,2014
+['Joe Haden'],NA,week_2,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_2,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_2,Cleveland Browns,2014
+['John Hughes'],Questionable: hamstring,week_2,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_2,Cleveland Browns,2014
+['Paul Kruger'],NA,week_2,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_2,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_2,Cleveland Browns,2014
+['Alex Mack'],NA,week_2,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_2,Cleveland Browns,2014
+['Eric Martin'],Questionable: concussion,week_2,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_2,Cleveland Browns,2014
+['Paul McQuistan'],Questionable: ankle,week_2,Cleveland Browns,2014
+['Barkevious Mingo'],Questionable: shoulder,week_2,Cleveland Browns,2014
+['Marlon Moore'],Probable: one-game suspension served,week_2,Cleveland Browns,2014
+['Robert Nelson'],NA,week_2,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_2,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_2,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_2,Cleveland Browns,2014
+['Buster Skrine'],Probable: thumb,week_2,Cleveland Browns,2014
+['Rodney Smith'],NA,week_2,Cleveland Browns,2014
+['Ben Tate'],Out: knee,week_2,Cleveland Browns,2014
+['Phil Taylor'],NA,week_2,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_2,Cleveland Browns,2014
+['Donte Whitner'],NA,week_2,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_2,Cleveland Browns,2014
+['Billy Winn'],NA,week_2,Cleveland Browns,2014
+['Glenn Winston'],NA,week_2,Cleveland Browns,2014
+['Christian Yount'],NA,week_2,Cleveland Browns,2014
+['Miles Austin'],NA,week_3,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_3,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_3,Cleveland Browns,2014
+['Travis Benjamin'],Probable: knee,week_3,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_3,Cleveland Browns,2014
+['Armonty Bryant'],NA,week_3,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_3,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: shoulder,week_3,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_3,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_3,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_3,Cleveland Browns,2014
+['Pierre Desir'],NA,week_3,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_3,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_3,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_3,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_3,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_3,Cleveland Browns,2014
+['John Greco'],NA,week_3,Cleveland Browns,2014
+['Joe Haden'],NA,week_3,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_3,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_3,Cleveland Browns,2014
+['John Hughes'],Probable: hamstring,week_3,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_3,Cleveland Browns,2014
+['Paul Kruger'],NA,week_3,Cleveland Browns,2014
+['Spencer Lanning'],Probable: shoulder,week_3,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_3,Cleveland Browns,2014
+['Alex Mack'],NA,week_3,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_3,Cleveland Browns,2014
+['Eric Martin'],NA,week_3,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_3,Cleveland Browns,2014
+['Paul McQuistan'],Probable: ankle,week_3,Cleveland Browns,2014
+['Barkevious Mingo'],Questionable: shoulder,week_3,Cleveland Browns,2014
+['Marlon Moore'],NA,week_3,Cleveland Browns,2014
+['Robert Nelson'],NA,week_3,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_3,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_3,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_3,Cleveland Browns,2014
+['Buster Skrine'],Probable: thumb,week_3,Cleveland Browns,2014
+['Rodney Smith'],NA,week_3,Cleveland Browns,2014
+['Ben Tate'],Out: knee,week_3,Cleveland Browns,2014
+['Phil Taylor'],NA,week_3,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_3,Cleveland Browns,2014
+['Donte Whitner'],NA,week_3,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_3,Cleveland Browns,2014
+['Billy Winn'],NA,week_3,Cleveland Browns,2014
+['Glenn Winston'],NA,week_3,Cleveland Browns,2014
+['Christian Yount'],NA,week_3,Cleveland Browns,2014
+['Miles Austin'],NA,week_5,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_5,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_5,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_5,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_5,Cleveland Browns,2014
+['Armonty Bryant'],NA,week_5,Cleveland Browns,2014
+['Desmond Bryant'],Questionable: glute/wrist,week_5,Cleveland Browns,2014
+['Jordan Cameron'],Probable: shoulder,week_5,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_5,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_5,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_5,Cleveland Browns,2014
+['Pierre Desir'],NA,week_5,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_5,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_5,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_5,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_5,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_5,Cleveland Browns,2014
+['John Greco'],NA,week_5,Cleveland Browns,2014
+['Joe Haden'],NA,week_5,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_5,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_5,Cleveland Browns,2014
+['John Hughes'],NA,week_5,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_5,Cleveland Browns,2014
+['Paul Kruger'],NA,week_5,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_5,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_5,Cleveland Browns,2014
+['Alex Mack'],NA,week_5,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_5,Cleveland Browns,2014
+['Eric Martin'],NA,week_5,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_5,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_5,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_5,Cleveland Browns,2014
+['Marlon Moore'],Questionable: illness,week_5,Cleveland Browns,2014
+['Robert Nelson'],NA,week_5,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_5,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_5,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_5,Cleveland Browns,2014
+['Buster Skrine'],Probable: thumb,week_5,Cleveland Browns,2014
+['Rodney Smith'],NA,week_5,Cleveland Browns,2014
+['Ben Tate'],Probable: knee,week_5,Cleveland Browns,2014
+['Phil Taylor'],NA,week_5,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_5,Cleveland Browns,2014
+['Donte Whitner'],NA,week_5,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_5,Cleveland Browns,2014
+['Billy Winn'],NA,week_5,Cleveland Browns,2014
+['Glenn Winston'],NA,week_5,Cleveland Browns,2014
+['Christian Yount'],NA,week_5,Cleveland Browns,2014
+['Miles Austin'],NA,week_6,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_6,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_6,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_6,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_6,Cleveland Browns,2014
+['Armonty Bryant'],NA,week_6,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_6,Cleveland Browns,2014
+['Jordan Cameron'],Probable: ankle/shoulder,week_6,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_6,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_6,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_6,Cleveland Browns,2014
+['Pierre Desir'],NA,week_6,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_6,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_6,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_6,Cleveland Browns,2014
+['Tashaun Gipson'],Probable: shoulder,week_6,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_6,Cleveland Browns,2014
+['John Greco'],Probable: knee,week_6,Cleveland Browns,2014
+['Joe Haden'],Questionable: hip,week_6,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_6,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_6,Cleveland Browns,2014
+['John Hughes'],NA,week_6,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_6,Cleveland Browns,2014
+['Paul Kruger'],Questionable: back,week_6,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_6,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_6,Cleveland Browns,2014
+['Alex Mack'],NA,week_6,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_6,Cleveland Browns,2014
+['Eric Martin'],NA,week_6,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_6,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_6,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_6,Cleveland Browns,2014
+['Marlon Moore'],NA,week_6,Cleveland Browns,2014
+['Robert Nelson'],NA,week_6,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_6,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_6,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_6,Cleveland Browns,2014
+['Buster Skrine'],Probable: thumb,week_6,Cleveland Browns,2014
+['Rodney Smith'],Questionable: hamstring,week_6,Cleveland Browns,2014
+['Ben Tate'],Probable: finger,week_6,Cleveland Browns,2014
+['Phil Taylor'],Out: knee,week_6,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_6,Cleveland Browns,2014
+['Donte Whitner'],NA,week_6,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_6,Cleveland Browns,2014
+['Billy Winn'],Questionable: quadriceps,week_6,Cleveland Browns,2014
+['Glenn Winston'],NA,week_6,Cleveland Browns,2014
+['Christian Yount'],NA,week_6,Cleveland Browns,2014
+['Miles Austin'],NA,week_7,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_7,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_7,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_7,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_7,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_7,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_7,Cleveland Browns,2014
+['Jordan Cameron'],NA,week_7,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_7,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_7,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_7,Cleveland Browns,2014
+['Pierre Desir'],NA,week_7,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_7,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_7,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_7,Cleveland Browns,2014
+['Tashaun Gipson'],Questionable: thigh,week_7,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_7,Cleveland Browns,2014
+['John Greco'],NA,week_7,Cleveland Browns,2014
+['Joe Haden'],NA,week_7,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_7,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_7,Cleveland Browns,2014
+['John Hughes'],NA,week_7,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_7,Cleveland Browns,2014
+['Paul Kruger'],Questionable: back,week_7,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_7,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_7,Cleveland Browns,2014
+['Alex Mack'],Out: leg/ankle,week_7,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_7,Cleveland Browns,2014
+['Eric Martin'],NA,week_7,Cleveland Browns,2014
+['Nick McDonald'],Out: wrist,week_7,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_7,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_7,Cleveland Browns,2014
+['Marlon Moore'],NA,week_7,Cleveland Browns,2014
+['Robert Nelson'],NA,week_7,Cleveland Browns,2014
+['Ahtyba Rubin'],Questionable: ankle,week_7,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_7,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_7,Cleveland Browns,2014
+['Buster Skrine'],NA,week_7,Cleveland Browns,2014
+['Rodney Smith'],Questionable: hamstring,week_7,Cleveland Browns,2014
+['Ben Tate'],Probable: finger,week_7,Cleveland Browns,2014
+['Phil Taylor'],Out: knee,week_7,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_7,Cleveland Browns,2014
+['Donte Whitner'],NA,week_7,Cleveland Browns,2014
+"[""K'Waun Williams""]",Out: concussion,week_7,Cleveland Browns,2014
+['Billy Winn'],Questionable: quadriceps,week_7,Cleveland Browns,2014
+['Glenn Winston'],NA,week_7,Cleveland Browns,2014
+['Christian Yount'],NA,week_7,Cleveland Browns,2014
+['Miles Austin'],NA,week_8,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_8,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_8,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_8,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_8,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_8,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_8,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: head,week_8,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_8,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_8,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_8,Cleveland Browns,2014
+['Pierre Desir'],NA,week_8,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_8,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_8,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_8,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_8,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_8,Cleveland Browns,2014
+['John Greco'],NA,week_8,Cleveland Browns,2014
+['Joe Haden'],NA,week_8,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_8,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_8,Cleveland Browns,2014
+['John Hughes'],NA,week_8,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_8,Cleveland Browns,2014
+['Paul Kruger'],NA,week_8,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_8,Cleveland Browns,2014
+['Jim Leonhard'],Questionable: ankle,week_8,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_8,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_8,Cleveland Browns,2014
+['Eric Martin'],NA,week_8,Cleveland Browns,2014
+['Nick McDonald'],NA,week_8,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_8,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_8,Cleveland Browns,2014
+['Marlon Moore'],NA,week_8,Cleveland Browns,2014
+['Robert Nelson'],NA,week_8,Cleveland Browns,2014
+['Ahtyba Rubin'],Doubtful: ankle,week_8,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_8,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_8,Cleveland Browns,2014
+['Buster Skrine'],NA,week_8,Cleveland Browns,2014
+['Rodney Smith'],Questionable: hamstring,week_8,Cleveland Browns,2014
+['Ben Tate'],NA,week_8,Cleveland Browns,2014
+['Phil Taylor'],Out: knee,week_8,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_8,Cleveland Browns,2014
+['Donte Whitner'],NA,week_8,Cleveland Browns,2014
+"[""K'Waun Williams""]",Probable: concussion,week_8,Cleveland Browns,2014
+['Billy Winn'],Questionable: quadriceps,week_8,Cleveland Browns,2014
+['Glenn Winston'],NA,week_8,Cleveland Browns,2014
+['Christian Yount'],NA,week_8,Cleveland Browns,2014
+['Miles Austin'],NA,week_9,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_9,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_9,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_9,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_9,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_9,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_9,Cleveland Browns,2014
+['Jordan Cameron'],Doubtful: concussion,week_9,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_9,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_9,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_9,Cleveland Browns,2014
+['Pierre Desir'],NA,week_9,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_9,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_9,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_9,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_9,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_9,Cleveland Browns,2014
+['John Greco'],NA,week_9,Cleveland Browns,2014
+['Joe Haden'],NA,week_9,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_9,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_9,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_9,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_9,Cleveland Browns,2014
+['Paul Kruger'],NA,week_9,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_9,Cleveland Browns,2014
+['Jim Leonhard'],Probable: ankle,week_9,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_9,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_9,Cleveland Browns,2014
+['Eric Martin'],NA,week_9,Cleveland Browns,2014
+['Nick McDonald'],NA,week_9,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_9,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_9,Cleveland Browns,2014
+['Marlon Moore'],NA,week_9,Cleveland Browns,2014
+['Robert Nelson'],NA,week_9,Cleveland Browns,2014
+['Ahtyba Rubin'],Probable: ankle,week_9,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_9,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_9,Cleveland Browns,2014
+['Buster Skrine'],NA,week_9,Cleveland Browns,2014
+['Rodney Smith'],Questionable: hamstring,week_9,Cleveland Browns,2014
+['Ben Tate'],NA,week_9,Cleveland Browns,2014
+['Phil Taylor'],Out: knee,week_9,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_9,Cleveland Browns,2014
+['Donte Whitner'],NA,week_9,Cleveland Browns,2014
+"[""K'Waun Williams""]",Probable: shoulder/neck,week_9,Cleveland Browns,2014
+['Billy Winn'],Questionable: quadriceps,week_9,Cleveland Browns,2014
+['Glenn Winston'],NA,week_9,Cleveland Browns,2014
+['Christian Yount'],NA,week_9,Cleveland Browns,2014
+['Miles Austin'],NA,week_10,Cleveland Browns,2014
+['Johnson Bademosi'],Doubtful: concussion,week_10,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_10,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_10,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_10,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_10,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_10,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: concussion,week_10,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_10,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_10,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_10,Cleveland Browns,2014
+['Pierre Desir'],NA,week_10,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_10,Cleveland Browns,2014
+['Taylor Gabriel'],Probable: shoulder,week_10,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_10,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_10,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_10,Cleveland Browns,2014
+['John Greco'],NA,week_10,Cleveland Browns,2014
+['Joe Haden'],NA,week_10,Cleveland Browns,2014
+['Andrew Hawkins'],Questionable: thigh/knee,week_10,Cleveland Browns,2014
+['Brian Hoyer'],Probable: glute,week_10,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_10,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_10,Cleveland Browns,2014
+['Paul Kruger'],NA,week_10,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_10,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_10,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_10,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_10,Cleveland Browns,2014
+['Eric Martin'],NA,week_10,Cleveland Browns,2014
+['Nick McDonald'],NA,week_10,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_10,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_10,Cleveland Browns,2014
+['Marlon Moore'],NA,week_10,Cleveland Browns,2014
+['Robert Nelson'],NA,week_10,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_10,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_10,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_10,Cleveland Browns,2014
+['Buster Skrine'],NA,week_10,Cleveland Browns,2014
+['Rodney Smith'],Questionable: hamstring,week_10,Cleveland Browns,2014
+['Ben Tate'],NA,week_10,Cleveland Browns,2014
+['Phil Taylor'],NA,week_10,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_10,Cleveland Browns,2014
+['Donte Whitner'],NA,week_10,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_10,Cleveland Browns,2014
+['Billy Winn'],Questionable: toe,week_10,Cleveland Browns,2014
+['Glenn Winston'],NA,week_10,Cleveland Browns,2014
+['Christian Yount'],NA,week_10,Cleveland Browns,2014
+['Miles Austin'],NA,week_11,Cleveland Browns,2014
+['Johnson Bademosi'],Questionable: concussion,week_11,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_11,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_11,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_11,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_11,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_11,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: concussion,week_11,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_11,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_11,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_11,Cleveland Browns,2014
+['Pierre Desir'],NA,week_11,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_11,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_11,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_11,Cleveland Browns,2014
+['Tashaun Gipson'],Questionable: concussion,week_11,Cleveland Browns,2014
+['Josh Gordon'],Suspended: ,week_11,Cleveland Browns,2014
+['John Greco'],NA,week_11,Cleveland Browns,2014
+['Joe Haden'],NA,week_11,Cleveland Browns,2014
+['Andrew Hawkins'],Probable: thigh/knee,week_11,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_11,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_11,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_11,Cleveland Browns,2014
+['Paul Kruger'],NA,week_11,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_11,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_11,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_11,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_11,Cleveland Browns,2014
+['Eric Martin'],NA,week_11,Cleveland Browns,2014
+['Nick McDonald'],Questionable: calf,week_11,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_11,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_11,Cleveland Browns,2014
+['Marlon Moore'],NA,week_11,Cleveland Browns,2014
+['Robert Nelson'],NA,week_11,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_11,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_11,Cleveland Browns,2014
+['Jabaal Sheard'],NA,week_11,Cleveland Browns,2014
+['Buster Skrine'],NA,week_11,Cleveland Browns,2014
+['Rodney Smith'],NA,week_11,Cleveland Browns,2014
+['Ben Tate'],NA,week_11,Cleveland Browns,2014
+['Phil Taylor'],Questionable: knee,week_11,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_11,Cleveland Browns,2014
+['Donte Whitner'],NA,week_11,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_11,Cleveland Browns,2014
+['Billy Winn'],Probable: toe,week_11,Cleveland Browns,2014
+['Glenn Winston'],NA,week_11,Cleveland Browns,2014
+['Christian Yount'],NA,week_11,Cleveland Browns,2014
+['Miles Austin'],NA,week_12,Cleveland Browns,2014
+['Johnson Bademosi'],Questionable: concussion,week_12,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_12,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_12,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_12,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_12,Cleveland Browns,2014
+['Desmond Bryant'],Probable: wrist,week_12,Cleveland Browns,2014
+['Jordan Cameron'],Doubtful: concussion,week_12,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_12,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_12,Cleveland Browns,2014
+['Karlos Dansby'],Out: knee,week_12,Cleveland Browns,2014
+['Pierre Desir'],NA,week_12,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_12,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_12,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_12,Cleveland Browns,2014
+['Tashaun Gipson'],NA,week_12,Cleveland Browns,2014
+['Josh Gordon'],Probable: 10-game suspension served,week_12,Cleveland Browns,2014
+['John Greco'],NA,week_12,Cleveland Browns,2014
+['Joe Haden'],NA,week_12,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_12,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_12,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_12,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_12,Cleveland Browns,2014
+['Paul Kruger'],NA,week_12,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_12,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_12,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_12,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_12,Cleveland Browns,2014
+['Eric Martin'],NA,week_12,Cleveland Browns,2014
+['Nick McDonald'],NA,week_12,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_12,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_12,Cleveland Browns,2014
+['Marlon Moore'],Questionable: hamstring,week_12,Cleveland Browns,2014
+['Robert Nelson'],NA,week_12,Cleveland Browns,2014
+['Ahtyba Rubin'],Questionable: knee,week_12,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_12,Cleveland Browns,2014
+['Jabaal Sheard'],Doubtful: foot,week_12,Cleveland Browns,2014
+['Buster Skrine'],NA,week_12,Cleveland Browns,2014
+['Rodney Smith'],NA,week_12,Cleveland Browns,2014
+['Ben Tate'],NA,week_12,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_12,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_12,Cleveland Browns,2014
+['Donte Whitner'],NA,week_12,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_12,Cleveland Browns,2014
+['Billy Winn'],NA,week_12,Cleveland Browns,2014
+['Glenn Winston'],NA,week_12,Cleveland Browns,2014
+['Christian Yount'],NA,week_12,Cleveland Browns,2014
+['Miles Austin'],NA,week_13,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_13,Cleveland Browns,2014
+['Gary Barnidge'],NA,week_13,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_13,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_13,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_13,Cleveland Browns,2014
+['Desmond Bryant'],NA,week_13,Cleveland Browns,2014
+['Jordan Cameron'],Probable: concussion,week_13,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_13,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_13,Cleveland Browns,2014
+['Karlos Dansby'],Questionable: knee,week_13,Cleveland Browns,2014
+['Pierre Desir'],NA,week_13,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_13,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_13,Cleveland Browns,2014
+['Justin Gilbert'],Out: illness,week_13,Cleveland Browns,2014
+['Tashaun Gipson'],Out: knee,week_13,Cleveland Browns,2014
+['Josh Gordon'],NA,week_13,Cleveland Browns,2014
+['John Greco'],NA,week_13,Cleveland Browns,2014
+['Joe Haden'],NA,week_13,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_13,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_13,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_13,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_13,Cleveland Browns,2014
+['Paul Kruger'],NA,week_13,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_13,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_13,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_13,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_13,Cleveland Browns,2014
+['Eric Martin'],NA,week_13,Cleveland Browns,2014
+['Nick McDonald'],NA,week_13,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_13,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_13,Cleveland Browns,2014
+['Marlon Moore'],Questionable: hamstring,week_13,Cleveland Browns,2014
+['Robert Nelson'],NA,week_13,Cleveland Browns,2014
+['Ahtyba Rubin'],Questionable: back,week_13,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_13,Cleveland Browns,2014
+['Jabaal Sheard'],Questionable: foot,week_13,Cleveland Browns,2014
+['Buster Skrine'],NA,week_13,Cleveland Browns,2014
+['Rodney Smith'],NA,week_13,Cleveland Browns,2014
+['Ben Tate'],NA,week_13,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_13,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_13,Cleveland Browns,2014
+['Donte Whitner'],NA,week_13,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_13,Cleveland Browns,2014
+['Billy Winn'],NA,week_13,Cleveland Browns,2014
+['Glenn Winston'],NA,week_13,Cleveland Browns,2014
+['Christian Yount'],NA,week_13,Cleveland Browns,2014
+['Miles Austin'],Injured Reserve: kidney,week_14,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_14,Cleveland Browns,2014
+['Gary Barnidge'],Out: ribs,week_14,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_14,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_14,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_14,Cleveland Browns,2014
+['Desmond Bryant'],NA,week_14,Cleveland Browns,2014
+['Jordan Cameron'],Questionable: concussion,week_14,Cleveland Browns,2014
+['Isaiah Crowell'],Questionable: hip,week_14,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_14,Cleveland Browns,2014
+['Karlos Dansby'],Questionable: knee,week_14,Cleveland Browns,2014
+['Pierre Desir'],NA,week_14,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_14,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_14,Cleveland Browns,2014
+['Justin Gilbert'],Probable: illness,week_14,Cleveland Browns,2014
+['Tashaun Gipson'],Out: knee,week_14,Cleveland Browns,2014
+['Josh Gordon'],NA,week_14,Cleveland Browns,2014
+['John Greco'],NA,week_14,Cleveland Browns,2014
+['Joe Haden'],NA,week_14,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_14,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_14,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_14,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_14,Cleveland Browns,2014
+['Paul Kruger'],Questionable: illness,week_14,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_14,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_14,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_14,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_14,Cleveland Browns,2014
+['Eric Martin'],NA,week_14,Cleveland Browns,2014
+['Nick McDonald'],Probable: ankle/knee,week_14,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_14,Cleveland Browns,2014
+['Barkevious Mingo'],Probable: shoulder,week_14,Cleveland Browns,2014
+['Marlon Moore'],Questionable: hamstring,week_14,Cleveland Browns,2014
+['Robert Nelson'],Questionable: hamstring,week_14,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_14,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_14,Cleveland Browns,2014
+['Jabaal Sheard'],Questionable: foot,week_14,Cleveland Browns,2014
+['Buster Skrine'],NA,week_14,Cleveland Browns,2014
+['Rodney Smith'],NA,week_14,Cleveland Browns,2014
+['Ben Tate'],NA,week_14,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_14,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_14,Cleveland Browns,2014
+['Donte Whitner'],NA,week_14,Cleveland Browns,2014
+"[""K'Waun Williams""]",NA,week_14,Cleveland Browns,2014
+['Billy Winn'],NA,week_14,Cleveland Browns,2014
+['Glenn Winston'],NA,week_14,Cleveland Browns,2014
+['Christian Yount'],NA,week_14,Cleveland Browns,2014
+['Miles Austin'],Injured Reserve: kidney,week_15,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_15,Cleveland Browns,2014
+['Gary Barnidge'],Questionable: ribs,week_15,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_15,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_15,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_15,Cleveland Browns,2014
+['Desmond Bryant'],Questionable: thigh,week_15,Cleveland Browns,2014
+['Jordan Cameron'],NA,week_15,Cleveland Browns,2014
+['Isaiah Crowell'],Probable: hip,week_15,Cleveland Browns,2014
+['Billy Cundiff'],Questionable: right knee,week_15,Cleveland Browns,2014
+['Karlos Dansby'],Questionable: knee,week_15,Cleveland Browns,2014
+['Pierre Desir'],NA,week_15,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_15,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_15,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_15,Cleveland Browns,2014
+['Tashaun Gipson'],Out: knee,week_15,Cleveland Browns,2014
+['Josh Gordon'],NA,week_15,Cleveland Browns,2014
+['John Greco'],NA,week_15,Cleveland Browns,2014
+['Joe Haden'],NA,week_15,Cleveland Browns,2014
+['Andrew Hawkins'],NA,week_15,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_15,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_15,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_15,Cleveland Browns,2014
+['Paul Kruger'],NA,week_15,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_15,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_15,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_15,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_15,Cleveland Browns,2014
+['Eric Martin'],NA,week_15,Cleveland Browns,2014
+['Nick McDonald'],Questionable: ankle/knee,week_15,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_15,Cleveland Browns,2014
+['Barkevious Mingo'],NA,week_15,Cleveland Browns,2014
+['Marlon Moore'],NA,week_15,Cleveland Browns,2014
+['Robert Nelson'],Questionable: hamstring,week_15,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_15,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_15,Cleveland Browns,2014
+['Jabaal Sheard'],Questionable: foot,week_15,Cleveland Browns,2014
+['Buster Skrine'],NA,week_15,Cleveland Browns,2014
+['Rodney Smith'],NA,week_15,Cleveland Browns,2014
+['Ben Tate'],NA,week_15,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_15,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_15,Cleveland Browns,2014
+['Donte Whitner'],Probable: illness,week_15,Cleveland Browns,2014
+"[""K'Waun Williams""]",Questionable: hamstring,week_15,Cleveland Browns,2014
+['Billy Winn'],NA,week_15,Cleveland Browns,2014
+['Glenn Winston'],Questionable: illness,week_15,Cleveland Browns,2014
+['Christian Yount'],NA,week_15,Cleveland Browns,2014
+['Miles Austin'],Injured Reserve: kidney,week_16,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_16,Cleveland Browns,2014
+['Gary Barnidge'],Questionable: ribs,week_16,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_16,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_16,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_16,Cleveland Browns,2014
+['Desmond Bryant'],NA,week_16,Cleveland Browns,2014
+['Jordan Cameron'],NA,week_16,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_16,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_16,Cleveland Browns,2014
+['Karlos Dansby'],Questionable: knee,week_16,Cleveland Browns,2014
+['Pierre Desir'],NA,week_16,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_16,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_16,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_16,Cleveland Browns,2014
+['Tashaun Gipson'],Out: knee,week_16,Cleveland Browns,2014
+['Josh Gordon'],NA,week_16,Cleveland Browns,2014
+['John Greco'],NA,week_16,Cleveland Browns,2014
+['Joe Haden'],Questionable: shoulder,week_16,Cleveland Browns,2014
+['Andrew Hawkins'],Probable: illness,week_16,Cleveland Browns,2014
+['Brian Hoyer'],NA,week_16,Cleveland Browns,2014
+['John Hughes'],Injured Reserve: knee,week_16,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",NA,week_16,Cleveland Browns,2014
+['Paul Kruger'],NA,week_16,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_16,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_16,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_16,Cleveland Browns,2014
+['Johnny Manziel'],NA,week_16,Cleveland Browns,2014
+['Eric Martin'],NA,week_16,Cleveland Browns,2014
+['Nick McDonald'],NA,week_16,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_16,Cleveland Browns,2014
+['Barkevious Mingo'],NA,week_16,Cleveland Browns,2014
+['Marlon Moore'],Questionable: knee,week_16,Cleveland Browns,2014
+['Robert Nelson'],Questionable: hamstring,week_16,Cleveland Browns,2014
+['Ahtyba Rubin'],NA,week_16,Cleveland Browns,2014
+['Ryan Seymour'],NA,week_16,Cleveland Browns,2014
+['Jabaal Sheard'],Questionable: foot,week_16,Cleveland Browns,2014
+['Buster Skrine'],NA,week_16,Cleveland Browns,2014
+['Rodney Smith'],NA,week_16,Cleveland Browns,2014
+['Ben Tate'],NA,week_16,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_16,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_16,Cleveland Browns,2014
+['Donte Whitner'],NA,week_16,Cleveland Browns,2014
+"[""K'Waun Williams""]",Questionable: hamstring,week_16,Cleveland Browns,2014
+['Billy Winn'],NA,week_16,Cleveland Browns,2014
+['Glenn Winston'],NA,week_16,Cleveland Browns,2014
+['Christian Yount'],NA,week_16,Cleveland Browns,2014
+['Miles Austin'],Injured Reserve: kidney,week_17,Cleveland Browns,2014
+['Johnson Bademosi'],NA,week_17,Cleveland Browns,2014
+['Gary Barnidge'],Questionable: ribs,week_17,Cleveland Browns,2014
+['Travis Benjamin'],NA,week_17,Cleveland Browns,2014
+['Michael Bowie'],Injured Reserve: shoulder,week_17,Cleveland Browns,2014
+['Armonty Bryant'],Injured Reserve: knee,week_17,Cleveland Browns,2014
+['Desmond Bryant'],Questionable: thumb,week_17,Cleveland Browns,2014
+['Jordan Cameron'],NA,week_17,Cleveland Browns,2014
+['Isaiah Crowell'],NA,week_17,Cleveland Browns,2014
+['Billy Cundiff'],NA,week_17,Cleveland Browns,2014
+['Karlos Dansby'],NA,week_17,Cleveland Browns,2014
+['Pierre Desir'],NA,week_17,Cleveland Browns,2014
+['Darius Eubanks'],Injured Reserve: shoulder,week_17,Cleveland Browns,2014
+['Taylor Gabriel'],NA,week_17,Cleveland Browns,2014
+['Justin Gilbert'],NA,week_17,Cleveland Browns,2014
+['Tashaun Gipson'],Injured Reserve: knee,week_17,Cleveland Browns,2014
+['Josh Gordon'],Out: one-game suspension,week_17,Cleveland Browns,2014
+['John Greco'],NA,week_17,Cleveland Browns,2014
+['Joe Haden'],Questionable: shoulder,week_17,Cleveland Browns,2014
+['Andrew Hawkins'],Questionable: thumb,week_17,Cleveland Browns,2014
+['Brian Hoyer'],Questionable: right shoulder/right biceps,week_17,Cleveland Browns,2014
+['John Hughes'],Probable: knee,week_17,Cleveland Browns,2014
+"[""Ishmaa'ily Kitchen""]",Injured Reserve: knee,week_17,Cleveland Browns,2014
+['Paul Kruger'],NA,week_17,Cleveland Browns,2014
+['Spencer Lanning'],NA,week_17,Cleveland Browns,2014
+['Jim Leonhard'],NA,week_17,Cleveland Browns,2014
+['Alex Mack'],Injured Reserve: leg/ankle,week_17,Cleveland Browns,2014
+['Johnny Manziel'],Injured Reserve: hamstring,week_17,Cleveland Browns,2014
+['Eric Martin'],NA,week_17,Cleveland Browns,2014
+['Nick McDonald'],NA,week_17,Cleveland Browns,2014
+['Paul McQuistan'],NA,week_17,Cleveland Browns,2014
+['Barkevious Mingo'],NA,week_17,Cleveland Browns,2014
+['Marlon Moore'],Questionable: knee,week_17,Cleveland Browns,2014
+['Robert Nelson'],NA,week_17,Cleveland Browns,2014
+['Ahtyba Rubin'],Questionable: ankle,week_17,Cleveland Browns,2014
+['Ryan Seymour'],Questionable: hamstring,week_17,Cleveland Browns,2014
+['Jabaal Sheard'],Questionable: foot,week_17,Cleveland Browns,2014
+['Buster Skrine'],NA,week_17,Cleveland Browns,2014
+['Rodney Smith'],NA,week_17,Cleveland Browns,2014
+['Ben Tate'],NA,week_17,Cleveland Browns,2014
+['Phil Taylor'],Injured Reserve: knee,week_17,Cleveland Browns,2014
+['Isaiah Trufant'],Injured Reserve: undisclosed,week_17,Cleveland Browns,2014
+['Donte Whitner'],NA,week_17,Cleveland Browns,2014
+"[""K'Waun Williams""]",Questionable: hamstring,week_17,Cleveland Browns,2014
+['Billy Winn'],NA,week_17,Cleveland Browns,2014
+['Glenn Winston'],NA,week_17,Cleveland Browns,2014
+['Christian Yount'],NA,week_17,Cleveland Browns,2014

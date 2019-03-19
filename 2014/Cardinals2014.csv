@@ -1,0 +1,800 @@
+﻿name,injury,week,team,year
+['John Abraham'],NA,week_1,Arizona Cardinals,2014
+['Sam Acho'],NA,week_1,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_1,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_1,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_1,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_1,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_1,Arizona Cardinals,2014
+['John Brown'],NA,week_1,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_1,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_1,Arizona Cardinals,2014
+['John Carlson'],NA,week_1,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_1,Arizona Cardinals,2014
+['Jonathan Cooper'],Probable: toe,week_1,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_1,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_1,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_1,Arizona Cardinals,2014
+['Jonathan Dwyer'],NA,week_1,Arizona Cardinals,2014
+['Andre Ellington'],Doubtful: foot,week_1,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_1,Arizona Cardinals,2014
+['Larry Fitzgerald'],Probable: knee,week_1,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_1,Arizona Cardinals,2014
+['Larry Foote'],NA,week_1,Arizona Cardinals,2014
+['Rob Housler'],NA,week_1,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_1,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_1,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_1,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_1,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_1,Arizona Cardinals,2014
+['Tyrann Mathieu'],Out: knee,week_1,Arizona Cardinals,2014
+['Kevin Minter'],Probable: chest,week_1,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_1,Arizona Cardinals,2014
+['Alex Okafor'],Questionable: thigh,week_1,Arizona Cardinals,2014
+['Carson Palmer'],NA,week_1,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_1,Arizona Cardinals,2014
+['Frostee Rucker'],Questionable: back,week_1,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_1,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_1,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_1,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_1,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_1,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_1,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_1,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_1,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_1,Arizona Cardinals,2014
+['Dan Williams'],NA,week_1,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_1,Arizona Cardinals,2014
+['Dave Zastudil'],Questionable: left groin,week_1,Arizona Cardinals,2014
+['John Abraham'],Out: concussion,week_2,Arizona Cardinals,2014
+['Sam Acho'],NA,week_2,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_2,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_2,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_2,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_2,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_2,Arizona Cardinals,2014
+['John Brown'],NA,week_2,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_2,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_2,Arizona Cardinals,2014
+['John Carlson'],NA,week_2,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_2,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_2,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_2,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_2,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_2,Arizona Cardinals,2014
+['Jonathan Dwyer'],NA,week_2,Arizona Cardinals,2014
+['Andre Ellington'],Questionable: foot,week_2,Arizona Cardinals,2014
+['Paul Fanaika'],Questionable: knee,week_2,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_2,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_2,Arizona Cardinals,2014
+['Larry Foote'],NA,week_2,Arizona Cardinals,2014
+['Rob Housler'],NA,week_2,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_2,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_2,Arizona Cardinals,2014
+['Rashad Johnson'],Probable: ankle,week_2,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_2,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_2,Arizona Cardinals,2014
+['Tyrann Mathieu'],Questionable: knee,week_2,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_2,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_2,Arizona Cardinals,2014
+['Alex Okafor'],Questionable: thigh,week_2,Arizona Cardinals,2014
+['Carson Palmer'],Probable: right shoulder,week_2,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_2,Arizona Cardinals,2014
+['Frostee Rucker'],Doubtful: calf,week_2,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_2,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_2,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_2,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_2,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_2,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_2,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_2,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_2,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_2,Arizona Cardinals,2014
+['Dan Williams'],NA,week_2,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_2,Arizona Cardinals,2014
+['Dave Zastudil'],Probable: left groin,week_2,Arizona Cardinals,2014
+['John Abraham'],Doubtful: concussion,week_3,Arizona Cardinals,2014
+['Sam Acho'],NA,week_3,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_3,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_3,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_3,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_3,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_3,Arizona Cardinals,2014
+['John Brown'],NA,week_3,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_3,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_3,Arizona Cardinals,2014
+['John Carlson'],NA,week_3,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_3,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_3,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_3,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_3,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_3,Arizona Cardinals,2014
+['Jonathan Dwyer'],Doubtful: personal/legal,week_3,Arizona Cardinals,2014
+['Andre Ellington'],Questionable: foot,week_3,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_3,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_3,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_3,Arizona Cardinals,2014
+['Larry Foote'],Questionable: shoulder,week_3,Arizona Cardinals,2014
+['Rob Housler'],Questionable: hip,week_3,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_3,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_3,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_3,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_3,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_3,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_3,Arizona Cardinals,2014
+['Kevin Minter'],Probable: quadriceps,week_3,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_3,Arizona Cardinals,2014
+['Alex Okafor'],Questionable: thigh,week_3,Arizona Cardinals,2014
+['Carson Palmer'],Doubtful: right shoulder,week_3,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_3,Arizona Cardinals,2014
+['Frostee Rucker'],Questionable: calf,week_3,Arizona Cardinals,2014
+['Lyle Sendlein'],Probable: ankle,week_3,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_3,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_3,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_3,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_3,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_3,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_3,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_3,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_3,Arizona Cardinals,2014
+['Dan Williams'],NA,week_3,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_3,Arizona Cardinals,2014
+['Dave Zastudil'],Questionable: left groin,week_3,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_5,Arizona Cardinals,2014
+['Sam Acho'],NA,week_5,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_5,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_5,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_5,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_5,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_5,Arizona Cardinals,2014
+['John Brown'],NA,week_5,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_5,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_5,Arizona Cardinals,2014
+['John Carlson'],NA,week_5,Arizona Cardinals,2014
+['Glenn Carson'],Out: ankle,week_5,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_5,Arizona Cardinals,2014
+['Antonio Cromartie'],Doubtful: knee,week_5,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_5,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_5,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_5,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot,week_5,Arizona Cardinals,2014
+['Paul Fanaika'],Questionable: knee,week_5,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_5,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_5,Arizona Cardinals,2014
+['Larry Foote'],NA,week_5,Arizona Cardinals,2014
+['Rob Housler'],Probable: hip,week_5,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_5,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_5,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_5,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_5,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_5,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_5,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_5,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_5,Arizona Cardinals,2014
+['Alex Okafor'],Questionable: thigh,week_5,Arizona Cardinals,2014
+['Carson Palmer'],Doubtful: right shoulder,week_5,Arizona Cardinals,2014
+['Patrick Peterson'],Probable: illness,week_5,Arizona Cardinals,2014
+['Frostee Rucker'],Questionable: calf,week_5,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_5,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_5,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_5,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_5,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_5,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_5,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_5,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_5,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_5,Arizona Cardinals,2014
+['Dan Williams'],NA,week_5,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_5,Arizona Cardinals,2014
+['Dave Zastudil'],Questionable: left groin,week_5,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_6,Arizona Cardinals,2014
+['Sam Acho'],NA,week_6,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_6,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_6,Arizona Cardinals,2014
+['Justin Bethel'],Questionable: shoulder,week_6,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_6,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_6,Arizona Cardinals,2014
+['John Brown'],NA,week_6,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_6,Arizona Cardinals,2014
+['Calais Campbell'],Out: knee,week_6,Arizona Cardinals,2014
+['John Carlson'],NA,week_6,Arizona Cardinals,2014
+['Glenn Carson'],Questionable: ankle,week_6,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_6,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_6,Arizona Cardinals,2014
+['Kenny Demens'],Questionable: back,week_6,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_6,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_6,Arizona Cardinals,2014
+['Andre Ellington'],Questionable: ankle,week_6,Arizona Cardinals,2014
+['Paul Fanaika'],Questionable: ankle/calf,week_6,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_6,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_6,Arizona Cardinals,2014
+['Larry Foote'],NA,week_6,Arizona Cardinals,2014
+['Rob Housler'],NA,week_6,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_6,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_6,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_6,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_6,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_6,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_6,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_6,Arizona Cardinals,2014
+['Troy Niklas'],Out: ankle,week_6,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_6,Arizona Cardinals,2014
+['Carson Palmer'],Questionable: right shoulder,week_6,Arizona Cardinals,2014
+['Patrick Peterson'],Probable: ankle,week_6,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_6,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_6,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_6,Arizona Cardinals,2014
+['Drew Stanton'],Questionable: concussion,week_6,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_6,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_6,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_6,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_6,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_6,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_6,Arizona Cardinals,2014
+['Dan Williams'],NA,week_6,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_6,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_6,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_7,Arizona Cardinals,2014
+['Sam Acho'],NA,week_7,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_7,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_7,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_7,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_7,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_7,Arizona Cardinals,2014
+['John Brown'],Probable: hamstring,week_7,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_7,Arizona Cardinals,2014
+['Calais Campbell'],Out: knee,week_7,Arizona Cardinals,2014
+['John Carlson'],Questionable: knee,week_7,Arizona Cardinals,2014
+['Glenn Carson'],Questionable: ankle,week_7,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_7,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_7,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_7,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_7,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_7,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot,week_7,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_7,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_7,Arizona Cardinals,2014
+['Michael Floyd'],Questionable: groin,week_7,Arizona Cardinals,2014
+['Larry Foote'],NA,week_7,Arizona Cardinals,2014
+['Rob Housler'],NA,week_7,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_7,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_7,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_7,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_7,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_7,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_7,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_7,Arizona Cardinals,2014
+['Troy Niklas'],Questionable: ankle,week_7,Arizona Cardinals,2014
+['Alex Okafor'],Questionable: quadricep,week_7,Arizona Cardinals,2014
+['Carson Palmer'],Probable: right shoulder,week_7,Arizona Cardinals,2014
+['Patrick Peterson'],Questionable: ankle,week_7,Arizona Cardinals,2014
+['Frostee Rucker'],Questionable: calf,week_7,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_7,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_7,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_7,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_7,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",Questionable: illness,week_7,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_7,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_7,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_7,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_7,Arizona Cardinals,2014
+['Dan Williams'],NA,week_7,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_7,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_7,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_8,Arizona Cardinals,2014
+['Sam Acho'],NA,week_8,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_8,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_8,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_8,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_8,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_8,Arizona Cardinals,2014
+['John Brown'],Probable: ankle,week_8,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_8,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_8,Arizona Cardinals,2014
+['John Carlson'],NA,week_8,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_8,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_8,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_8,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_8,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_8,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_8,Arizona Cardinals,2014
+['Andre Ellington'],Probable: rib,week_8,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_8,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_8,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_8,Arizona Cardinals,2014
+['Larry Foote'],NA,week_8,Arizona Cardinals,2014
+['Rob Housler'],NA,week_8,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_8,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_8,Arizona Cardinals,2014
+['Rashad Johnson'],Probable: knee,week_8,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_8,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_8,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_8,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_8,Arizona Cardinals,2014
+['Troy Niklas'],Questionable: ankle,week_8,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_8,Arizona Cardinals,2014
+['Carson Palmer'],NA,week_8,Arizona Cardinals,2014
+['Patrick Peterson'],Questionable: head/neck,week_8,Arizona Cardinals,2014
+['Frostee Rucker'],Probable: calf,week_8,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_8,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_8,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_8,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_8,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_8,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_8,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_8,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_8,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_8,Arizona Cardinals,2014
+['Dan Williams'],NA,week_8,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_8,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_8,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_9,Arizona Cardinals,2014
+['Sam Acho'],NA,week_9,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_9,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_9,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_9,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_9,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_9,Arizona Cardinals,2014
+['John Brown'],NA,week_9,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_9,Arizona Cardinals,2014
+['Calais Campbell'],Probable: knee,week_9,Arizona Cardinals,2014
+['John Carlson'],NA,week_9,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_9,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_9,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_9,Arizona Cardinals,2014
+['Kenny Demens'],Probable: knee,week_9,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_9,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_9,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot,week_9,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_9,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_9,Arizona Cardinals,2014
+['Michael Floyd'],Probable: knee,week_9,Arizona Cardinals,2014
+['Larry Foote'],NA,week_9,Arizona Cardinals,2014
+['Rob Housler'],NA,week_9,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_9,Arizona Cardinals,2014
+['Tony Jefferson'],Doubtful: concussion,week_9,Arizona Cardinals,2014
+['Rashad Johnson'],Probable: knee,week_9,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_9,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_9,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_9,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_9,Arizona Cardinals,2014
+['Troy Niklas'],Questionable: ankle,week_9,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_9,Arizona Cardinals,2014
+['Carson Palmer'],NA,week_9,Arizona Cardinals,2014
+['Patrick Peterson'],Probable: concussion,week_9,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_9,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_9,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_9,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_9,Arizona Cardinals,2014
+['Ed Stinson'],NA,week_9,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_9,Arizona Cardinals,2014
+['Stepfan Taylor'],Out: calf,week_9,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_9,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_9,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_9,Arizona Cardinals,2014
+['Dan Williams'],NA,week_9,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_9,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_9,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_10,Arizona Cardinals,2014
+['Sam Acho'],NA,week_10,Arizona Cardinals,2014
+['Lorenzo Alexander'],Questionable: knee,week_10,Arizona Cardinals,2014
+['Marcus Benard'],Probable: illness,week_10,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_10,Arizona Cardinals,2014
+['Desmond Bishop'],Questionable: hamstring,week_10,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_10,Arizona Cardinals,2014
+['John Brown'],NA,week_10,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_10,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_10,Arizona Cardinals,2014
+['John Carlson'],NA,week_10,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_10,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_10,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_10,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_10,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_10,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_10,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot,week_10,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_10,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_10,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_10,Arizona Cardinals,2014
+['Larry Foote'],Probable: knee,week_10,Arizona Cardinals,2014
+['Rob Housler'],NA,week_10,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_10,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_10,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_10,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_10,Arizona Cardinals,2014
+['Bobby Massie'],Probable: ankle/knee,week_10,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_10,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_10,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_10,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_10,Arizona Cardinals,2014
+['Carson Palmer'],NA,week_10,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_10,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_10,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_10,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_10,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_10,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: groin,week_10,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_10,Arizona Cardinals,2014
+['Stepfan Taylor'],Out: calf,week_10,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_10,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_10,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_10,Arizona Cardinals,2014
+['Dan Williams'],NA,week_10,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_10,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_10,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_11,Arizona Cardinals,2014
+['Sam Acho'],NA,week_11,Arizona Cardinals,2014
+['Lorenzo Alexander'],Questionable: knee,week_11,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_11,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_11,Arizona Cardinals,2014
+['Desmond Bishop'],Questionable: hamstring,week_11,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_11,Arizona Cardinals,2014
+['John Brown'],NA,week_11,Arizona Cardinals,2014
+['Deone Bucannon'],Probable: quadriceps,week_11,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_11,Arizona Cardinals,2014
+['John Carlson'],NA,week_11,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_11,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_11,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_11,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_11,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_11,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_11,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot/hip,week_11,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_11,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_11,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_11,Arizona Cardinals,2014
+['Larry Foote'],NA,week_11,Arizona Cardinals,2014
+['Rob Housler'],NA,week_11,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_11,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_11,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_11,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_11,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_11,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_11,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_11,Arizona Cardinals,2014
+['Troy Niklas'],NA,week_11,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_11,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_11,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_11,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_11,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_11,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_11,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_11,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: toe,week_11,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_11,Arizona Cardinals,2014
+['Stepfan Taylor'],Questionable: calf,week_11,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_11,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_11,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_11,Arizona Cardinals,2014
+['Dan Williams'],Probable: elbow,week_11,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_11,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_11,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_12,Arizona Cardinals,2014
+['Sam Acho'],Probable: neck,week_12,Arizona Cardinals,2014
+['Lorenzo Alexander'],Questionable: knee,week_12,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_12,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_12,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_12,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_12,Arizona Cardinals,2014
+['John Brown'],NA,week_12,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_12,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_12,Arizona Cardinals,2014
+['John Carlson'],NA,week_12,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_12,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_12,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_12,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_12,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_12,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_12,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot/hip,week_12,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_12,Arizona Cardinals,2014
+['Larry Fitzgerald'],Questionable: knee,week_12,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_12,Arizona Cardinals,2014
+['Larry Foote'],Probable: hip,week_12,Arizona Cardinals,2014
+['Rob Housler'],NA,week_12,Arizona Cardinals,2014
+['Robert Hughes'],Questionable: hamstring,week_12,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_12,Arizona Cardinals,2014
+['Rashad Johnson'],Questionable: back,week_12,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_12,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_12,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_12,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_12,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_12,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_12,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_12,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_12,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_12,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_12,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_12,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_12,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: toe,week_12,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_12,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_12,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_12,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_12,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_12,Arizona Cardinals,2014
+['Dan Williams'],Probable: elbow,week_12,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_12,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_12,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_13,Arizona Cardinals,2014
+['Sam Acho'],NA,week_13,Arizona Cardinals,2014
+['Lorenzo Alexander'],Questionable: knee,week_13,Arizona Cardinals,2014
+['Marcus Benard'],Probable: shoulder,week_13,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_13,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_13,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_13,Arizona Cardinals,2014
+['John Brown'],Probable: dental,week_13,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_13,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_13,Arizona Cardinals,2014
+['John Carlson'],NA,week_13,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_13,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_13,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_13,Arizona Cardinals,2014
+['Kenny Demens'],Questionable: hamstring,week_13,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_13,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_13,Arizona Cardinals,2014
+['Andre Ellington'],Probable: foot/hip,week_13,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_13,Arizona Cardinals,2014
+['Larry Fitzgerald'],Questionable: knee,week_13,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_13,Arizona Cardinals,2014
+['Larry Foote'],NA,week_13,Arizona Cardinals,2014
+['Rob Housler'],NA,week_13,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_13,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_13,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_13,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_13,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_13,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_13,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_13,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_13,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_13,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_13,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_13,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_13,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_13,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_13,Arizona Cardinals,2014
+['Drew Stanton'],Probable: ankle,week_13,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: toe,week_13,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_13,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_13,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_13,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_13,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_13,Arizona Cardinals,2014
+['Dan Williams'],NA,week_13,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_13,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_13,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_14,Arizona Cardinals,2014
+['Sam Acho'],NA,week_14,Arizona Cardinals,2014
+['Lorenzo Alexander'],Questionable: knee,week_14,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_14,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_14,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_14,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_14,Arizona Cardinals,2014
+['John Brown'],NA,week_14,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_14,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_14,Arizona Cardinals,2014
+['John Carlson'],NA,week_14,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_14,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_14,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_14,Arizona Cardinals,2014
+['Kenny Demens'],Probable: hamstring,week_14,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_14,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_14,Arizona Cardinals,2014
+['Andre Ellington'],Doubtful: hip,week_14,Arizona Cardinals,2014
+['Paul Fanaika'],Doubtful: ankle,week_14,Arizona Cardinals,2014
+['Larry Fitzgerald'],Probable: knee,week_14,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_14,Arizona Cardinals,2014
+['Larry Foote'],Questionable: foot,week_14,Arizona Cardinals,2014
+['Rob Housler'],NA,week_14,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_14,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_14,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_14,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_14,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_14,Arizona Cardinals,2014
+['Tyrann Mathieu'],Out: thumb,week_14,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_14,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_14,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_14,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_14,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_14,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_14,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_14,Arizona Cardinals,2014
+['Matt Shaughnessy'],Injured Reserve: knee,week_14,Arizona Cardinals,2014
+['Drew Stanton'],NA,week_14,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: toe,week_14,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_14,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_14,Arizona Cardinals,2014
+['Jared Veldheer'],Questionable: ankle,week_14,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_14,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_14,Arizona Cardinals,2014
+['Dan Williams'],NA,week_14,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_14,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_14,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_15,Arizona Cardinals,2014
+['Sam Acho'],NA,week_15,Arizona Cardinals,2014
+['Lorenzo Alexander'],Probable: knee,week_15,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_15,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_15,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_15,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_15,Arizona Cardinals,2014
+['John Brown'],NA,week_15,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_15,Arizona Cardinals,2014
+['Calais Campbell'],NA,week_15,Arizona Cardinals,2014
+['John Carlson'],NA,week_15,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_15,Arizona Cardinals,2014
+['Jonathan Cooper'],NA,week_15,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_15,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_15,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_15,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_15,Arizona Cardinals,2014
+['Andre Ellington'],Out: hip,week_15,Arizona Cardinals,2014
+['Paul Fanaika'],Questionable: ankle,week_15,Arizona Cardinals,2014
+['Larry Fitzgerald'],Probable: knee,week_15,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_15,Arizona Cardinals,2014
+['Larry Foote'],Questionable: foot,week_15,Arizona Cardinals,2014
+['Rob Housler'],NA,week_15,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_15,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_15,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_15,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_15,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_15,Arizona Cardinals,2014
+['Tyrann Mathieu'],Out: thumb,week_15,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_15,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_15,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_15,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_15,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_15,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_15,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_15,Arizona Cardinals,2014
+['Matt Shaughnessy'],Questionable: shoulder,week_15,Arizona Cardinals,2014
+['Drew Stanton'],Probable: ankle/knee,week_15,Arizona Cardinals,2014
+['Ed Stinson'],Questionable: toe,week_15,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_15,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_15,Arizona Cardinals,2014
+['Jared Veldheer'],Questionable: ankle,week_15,Arizona Cardinals,2014
+['Daryl Washington'],Suspended: ,week_15,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_15,Arizona Cardinals,2014
+['Dan Williams'],NA,week_15,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_15,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_15,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_16,Arizona Cardinals,2014
+['Sam Acho'],NA,week_16,Arizona Cardinals,2014
+['Lorenzo Alexander'],Probable: knee,week_16,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_16,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_16,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_16,Arizona Cardinals,2014
+['Jaron Brown'],Questionable: toe,week_16,Arizona Cardinals,2014
+['John Brown'],NA,week_16,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_16,Arizona Cardinals,2014
+['Calais Campbell'],Probable: hip,week_16,Arizona Cardinals,2014
+['John Carlson'],NA,week_16,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_16,Arizona Cardinals,2014
+['Jonathan Cooper'],Questionable: wrist,week_16,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_16,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_16,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_16,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_16,Arizona Cardinals,2014
+['Andre Ellington'],Injured Reserve: hernia,week_16,Arizona Cardinals,2014
+['Paul Fanaika'],Questionable: ankle,week_16,Arizona Cardinals,2014
+['Larry Fitzgerald'],Probable: knee,week_16,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_16,Arizona Cardinals,2014
+['Larry Foote'],Probable: knee,week_16,Arizona Cardinals,2014
+['Rob Housler'],NA,week_16,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_16,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_16,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_16,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_16,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_16,Arizona Cardinals,2014
+['Tyrann Mathieu'],NA,week_16,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_16,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_16,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_16,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_16,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_16,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_16,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_16,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_16,Arizona Cardinals,2014
+['Drew Stanton'],Out: knee,week_16,Arizona Cardinals,2014
+['Ed Stinson'],Injured Reserve: toe,week_16,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_16,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_16,Arizona Cardinals,2014
+['Jared Veldheer'],Probable: ankle,week_16,Arizona Cardinals,2014
+['Daryl Washington'],Out: disciplinary,week_16,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_16,Arizona Cardinals,2014
+['Dan Williams'],NA,week_16,Arizona Cardinals,2014
+['Kerwynn Williams'],Questionable: knee,week_16,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_16,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_17,Arizona Cardinals,2014
+['Sam Acho'],NA,week_17,Arizona Cardinals,2014
+['Lorenzo Alexander'],Probable: knee,week_17,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_17,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_17,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_17,Arizona Cardinals,2014
+['Jaron Brown'],Questionable: toe,week_17,Arizona Cardinals,2014
+['John Brown'],NA,week_17,Arizona Cardinals,2014
+['Deone Bucannon'],Questionable: knee,week_17,Arizona Cardinals,2014
+['Calais Campbell'],Questionable: hip,week_17,Arizona Cardinals,2014
+['John Carlson'],Questionable: calf,week_17,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_17,Arizona Cardinals,2014
+['Jonathan Cooper'],Questionable: wrist,week_17,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_17,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_17,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_17,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_17,Arizona Cardinals,2014
+['Andre Ellington'],Injured Reserve: hernia,week_17,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_17,Arizona Cardinals,2014
+['Larry Fitzgerald'],Probable: knee,week_17,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_17,Arizona Cardinals,2014
+['Larry Foote'],Questionable: knee,week_17,Arizona Cardinals,2014
+['Rob Housler'],NA,week_17,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_17,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_17,Arizona Cardinals,2014
+['Rashad Johnson'],Probable: ankle,week_17,Arizona Cardinals,2014
+['Ted Larsen'],Probable: shoulder,week_17,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_17,Arizona Cardinals,2014
+['Tyrann Mathieu'],Probable: thumb,week_17,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_17,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_17,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_17,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_17,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_17,Arizona Cardinals,2014
+['Frostee Rucker'],NA,week_17,Arizona Cardinals,2014
+['Lyle Sendlein'],NA,week_17,Arizona Cardinals,2014
+['Matt Shaughnessy'],Probable: shoulder,week_17,Arizona Cardinals,2014
+['Drew Stanton'],Out: knee,week_17,Arizona Cardinals,2014
+['Ed Stinson'],Injured Reserve: toe,week_17,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_17,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_17,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_17,Arizona Cardinals,2014
+['Daryl Washington'],Out: disciplinary,week_17,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_17,Arizona Cardinals,2014
+['Dan Williams'],Questionable: foot,week_17,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_17,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_17,Arizona Cardinals,2014
+['John Abraham'],Injured Reserve: concussion,week_18,Arizona Cardinals,2014
+['Sam Acho'],NA,week_18,Arizona Cardinals,2014
+['Lorenzo Alexander'],NA,week_18,Arizona Cardinals,2014
+['Marcus Benard'],NA,week_18,Arizona Cardinals,2014
+['Justin Bethel'],NA,week_18,Arizona Cardinals,2014
+['Desmond Bishop'],NA,week_18,Arizona Cardinals,2014
+['Jaron Brown'],NA,week_18,Arizona Cardinals,2014
+['John Brown'],NA,week_18,Arizona Cardinals,2014
+['Deone Bucannon'],NA,week_18,Arizona Cardinals,2014
+['Calais Campbell'],Probable: hip,week_18,Arizona Cardinals,2014
+['John Carlson'],NA,week_18,Arizona Cardinals,2014
+['Glenn Carson'],NA,week_18,Arizona Cardinals,2014
+['Jonathan Cooper'],Questionable: wrist,week_18,Arizona Cardinals,2014
+['Antonio Cromartie'],NA,week_18,Arizona Cardinals,2014
+['Kenny Demens'],NA,week_18,Arizona Cardinals,2014
+['Darnell Dockett'],Injured Reserve: knee,week_18,Arizona Cardinals,2014
+['Jonathan Dwyer'],Out: personal/legal/illness,week_18,Arizona Cardinals,2014
+['Andre Ellington'],Injured Reserve: hernia,week_18,Arizona Cardinals,2014
+['Paul Fanaika'],NA,week_18,Arizona Cardinals,2014
+['Larry Fitzgerald'],NA,week_18,Arizona Cardinals,2014
+['Michael Floyd'],NA,week_18,Arizona Cardinals,2014
+['Larry Foote'],Probable: knee,week_18,Arizona Cardinals,2014
+['Rob Housler'],NA,week_18,Arizona Cardinals,2014
+['Robert Hughes'],NA,week_18,Arizona Cardinals,2014
+['Tony Jefferson'],NA,week_18,Arizona Cardinals,2014
+['Rashad Johnson'],NA,week_18,Arizona Cardinals,2014
+['Ted Larsen'],NA,week_18,Arizona Cardinals,2014
+['Bobby Massie'],NA,week_18,Arizona Cardinals,2014
+['Tyrann Mathieu'],Probable: hip/thumb,week_18,Arizona Cardinals,2014
+['Kevin Minter'],NA,week_18,Arizona Cardinals,2014
+['Troy Niklas'],Injured Reserve: ankle,week_18,Arizona Cardinals,2014
+['Alex Okafor'],NA,week_18,Arizona Cardinals,2014
+['Carson Palmer'],Injured Reserve: knee,week_18,Arizona Cardinals,2014
+['Patrick Peterson'],NA,week_18,Arizona Cardinals,2014
+['Frostee Rucker'],Probable: ankle,week_18,Arizona Cardinals,2014
+['Lyle Sendlein'],Probable: back,week_18,Arizona Cardinals,2014
+['Matt Shaughnessy'],NA,week_18,Arizona Cardinals,2014
+['Drew Stanton'],Out: knee,week_18,Arizona Cardinals,2014
+['Ed Stinson'],Injured Reserve: toe,week_18,Arizona Cardinals,2014
+"[""Alameda Ta'amu""]",NA,week_18,Arizona Cardinals,2014
+['Stepfan Taylor'],NA,week_18,Arizona Cardinals,2014
+['Jared Veldheer'],NA,week_18,Arizona Cardinals,2014
+['Daryl Washington'],Out: disciplinary,week_18,Arizona Cardinals,2014
+['Eddie Whitley'],Injured Reserve: foot,week_18,Arizona Cardinals,2014
+['Dan Williams'],Probable: foot,week_18,Arizona Cardinals,2014
+['Kerwynn Williams'],NA,week_18,Arizona Cardinals,2014
+['Dave Zastudil'],Injured Reserve: groin,week_18,Arizona Cardinals,2014

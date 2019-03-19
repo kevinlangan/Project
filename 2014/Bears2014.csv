@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Jared Allen'],NA,week_1,Chicago Bears,2014
+['David Bass'],NA,week_1,Chicago Bears,2014
+['Martellus Bennett'],NA,week_1,Chicago Bears,2014
+['Taylor Boggs'],NA,week_1,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_1,Chicago Bears,2014
+['Lance Briggs'],NA,week_1,Chicago Bears,2014
+['Eben Britton'],NA,week_1,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_1,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_1,Chicago Bears,2014
+['Chris Conte'],Probable: concussion,week_1,Chicago Bears,2014
+['Brian De La Puente'],Probable: knee,week_1,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_1,Chicago Bears,2014
+['Shaun Draughn'],Questionable: neck,week_1,Chicago Bears,2014
+['David Fales'],Questionable: shoulder,week_1,Chicago Bears,2014
+['Ego Ferguson'],NA,week_1,Chicago Bears,2014
+['Tony Fiammetta'],Questionable: hamstring,week_1,Chicago Bears,2014
+['Kyle Fuller'],NA,week_1,Chicago Bears,2014
+['Roberto Garza'],Questionable: ankle,week_1,Chicago Bears,2014
+['Robbie Gould'],NA,week_1,Chicago Bears,2014
+['Lamarr Houston'],NA,week_1,Chicago Bears,2014
+['Demontre Hurst'],NA,week_1,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_1,Chicago Bears,2014
+['Tim Jennings'],NA,week_1,Chicago Bears,2014
+['Kyle Long'],NA,week_1,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_1,Chicago Bears,2014
+['Brandon Marshall'],NA,week_1,Chicago Bears,2014
+['Shea McClellin'],NA,week_1,Chicago Bears,2014
+['Danny McCray'],NA,week_1,Chicago Bears,2014
+['Sherrick McManis'],NA,week_1,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_1,Chicago Bears,2014
+['Jordan Mills'],Probable: foot,week_1,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_1,Chicago Bears,2014
+['Josh Morgan'],NA,week_1,Chicago Bears,2014
+['Ryan Mundy'],NA,week_1,Chicago Bears,2014
+['Michael Ola'],NA,week_1,Chicago Bears,2014
+['Jay Ratliff'],NA,week_1,Chicago Bears,2014
+['Trevor Scott'],NA,week_1,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_1,Chicago Bears,2014
+['Matt Slauson'],Questionable: ankle,week_1,Chicago Bears,2014
+['Will Sutton'],NA,week_1,Chicago Bears,2014
+['Charles Tillman'],NA,week_1,Chicago Bears,2014
+['Brock Vereen'],NA,week_1,Chicago Bears,2014
+['Cornelius Washington'],NA,week_1,Chicago Bears,2014
+['Chris Williams'],NA,week_1,Chicago Bears,2014
+['D.J. Williams'],NA,week_1,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_1,Chicago Bears,2014
+['Willie Young'],NA,week_1,Chicago Bears,2014
+['Jared Allen'],NA,week_2,Chicago Bears,2014
+['David Bass'],NA,week_2,Chicago Bears,2014
+['Martellus Bennett'],NA,week_2,Chicago Bears,2014
+['Taylor Boggs'],NA,week_2,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_2,Chicago Bears,2014
+['Lance Briggs'],NA,week_2,Chicago Bears,2014
+['Eben Britton'],NA,week_2,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_2,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_2,Chicago Bears,2014
+['Chris Conte'],NA,week_2,Chicago Bears,2014
+['Brian De La Puente'],NA,week_2,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_2,Chicago Bears,2014
+['Shaun Draughn'],NA,week_2,Chicago Bears,2014
+['David Fales'],Questionable: shoulder,week_2,Chicago Bears,2014
+['Ego Ferguson'],NA,week_2,Chicago Bears,2014
+['Tony Fiammetta'],Questionable: hamstring,week_2,Chicago Bears,2014
+['Kyle Fuller'],NA,week_2,Chicago Bears,2014
+['Roberto Garza'],Out: ankle,week_2,Chicago Bears,2014
+['Robbie Gould'],NA,week_2,Chicago Bears,2014
+['Lamarr Houston'],NA,week_2,Chicago Bears,2014
+['Demontre Hurst'],NA,week_2,Chicago Bears,2014
+['Alshon Jeffery'],Questionable: hamstring,week_2,Chicago Bears,2014
+['Tim Jennings'],NA,week_2,Chicago Bears,2014
+['Kyle Long'],NA,week_2,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_2,Chicago Bears,2014
+['Brandon Marshall'],Questionable: ankle,week_2,Chicago Bears,2014
+['Shea McClellin'],NA,week_2,Chicago Bears,2014
+['Danny McCray'],NA,week_2,Chicago Bears,2014
+['Sherrick McManis'],NA,week_2,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_2,Chicago Bears,2014
+['Jordan Mills'],NA,week_2,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_2,Chicago Bears,2014
+['Josh Morgan'],Questionable: groin,week_2,Chicago Bears,2014
+['Ryan Mundy'],NA,week_2,Chicago Bears,2014
+['Michael Ola'],NA,week_2,Chicago Bears,2014
+['Jay Ratliff'],NA,week_2,Chicago Bears,2014
+['Trevor Scott'],NA,week_2,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_2,Chicago Bears,2014
+['Matt Slauson'],Doubtful: ankle,week_2,Chicago Bears,2014
+['Will Sutton'],NA,week_2,Chicago Bears,2014
+['Charles Tillman'],NA,week_2,Chicago Bears,2014
+['Brock Vereen'],NA,week_2,Chicago Bears,2014
+['Cornelius Washington'],NA,week_2,Chicago Bears,2014
+['Chris Williams'],NA,week_2,Chicago Bears,2014
+['D.J. Williams'],NA,week_2,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_2,Chicago Bears,2014
+['Willie Young'],NA,week_2,Chicago Bears,2014
+['Jared Allen'],Probable: back ,week_3,Chicago Bears,2014
+['David Bass'],NA,week_3,Chicago Bears,2014
+['Martellus Bennett'],NA,week_3,Chicago Bears,2014
+['Taylor Boggs'],NA,week_3,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_3,Chicago Bears,2014
+['Lance Briggs'],NA,week_3,Chicago Bears,2014
+['Eben Britton'],NA,week_3,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_3,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_3,Chicago Bears,2014
+['Chris Conte'],Questionable: shoulder,week_3,Chicago Bears,2014
+['Brian De La Puente'],NA,week_3,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_3,Chicago Bears,2014
+['Shaun Draughn'],NA,week_3,Chicago Bears,2014
+['David Fales'],NA,week_3,Chicago Bears,2014
+['Ego Ferguson'],NA,week_3,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_3,Chicago Bears,2014
+['Kyle Fuller'],NA,week_3,Chicago Bears,2014
+['Roberto Garza'],Questionable: ankle,week_3,Chicago Bears,2014
+['Robbie Gould'],NA,week_3,Chicago Bears,2014
+['Lamarr Houston'],NA,week_3,Chicago Bears,2014
+['Demontre Hurst'],NA,week_3,Chicago Bears,2014
+['Alshon Jeffery'],Probable: hamstring,week_3,Chicago Bears,2014
+['Tim Jennings'],NA,week_3,Chicago Bears,2014
+['Kyle Long'],NA,week_3,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_3,Chicago Bears,2014
+['Brandon Marshall'],Probable: ankle,week_3,Chicago Bears,2014
+['Shea McClellin'],Out: hand,week_3,Chicago Bears,2014
+['Danny McCray'],NA,week_3,Chicago Bears,2014
+['Sherrick McManis'],Questionable: quadriceps,week_3,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_3,Chicago Bears,2014
+['Jordan Mills'],NA,week_3,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_3,Chicago Bears,2014
+['Josh Morgan'],Questionable: groin,week_3,Chicago Bears,2014
+['Ryan Mundy'],NA,week_3,Chicago Bears,2014
+['Michael Ola'],NA,week_3,Chicago Bears,2014
+['Jay Ratliff'],Questionable: head,week_3,Chicago Bears,2014
+['Trevor Scott'],Questionable: foot,week_3,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_3,Chicago Bears,2014
+['Matt Slauson'],Questionable: ankle,week_3,Chicago Bears,2014
+['Will Sutton'],NA,week_3,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_3,Chicago Bears,2014
+['Brock Vereen'],NA,week_3,Chicago Bears,2014
+['Cornelius Washington'],NA,week_3,Chicago Bears,2014
+['Chris Williams'],NA,week_3,Chicago Bears,2014
+['D.J. Williams'],NA,week_3,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_3,Chicago Bears,2014
+['Willie Young'],NA,week_3,Chicago Bears,2014
+['Jared Allen'],Questionable: illness,week_4,Chicago Bears,2014
+['David Bass'],NA,week_4,Chicago Bears,2014
+['Martellus Bennett'],NA,week_4,Chicago Bears,2014
+['Taylor Boggs'],NA,week_4,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_4,Chicago Bears,2014
+['Lance Briggs'],NA,week_4,Chicago Bears,2014
+['Eben Britton'],NA,week_4,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_4,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_4,Chicago Bears,2014
+['Chris Conte'],Questionable: shoulder,week_4,Chicago Bears,2014
+['Brian De La Puente'],NA,week_4,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_4,Chicago Bears,2014
+['Shaun Draughn'],NA,week_4,Chicago Bears,2014
+['David Fales'],NA,week_4,Chicago Bears,2014
+['Ego Ferguson'],NA,week_4,Chicago Bears,2014
+['Tony Fiammetta'],Questionable: hamstring,week_4,Chicago Bears,2014
+['Kyle Fuller'],NA,week_4,Chicago Bears,2014
+['Roberto Garza'],Questionable: ankle,week_4,Chicago Bears,2014
+['Robbie Gould'],NA,week_4,Chicago Bears,2014
+['Lamarr Houston'],NA,week_4,Chicago Bears,2014
+['Demontre Hurst'],NA,week_4,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_4,Chicago Bears,2014
+['Tim Jennings'],NA,week_4,Chicago Bears,2014
+['Kyle Long'],NA,week_4,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_4,Chicago Bears,2014
+['Brandon Marshall'],Questionable: hamstring,week_4,Chicago Bears,2014
+['Shea McClellin'],Out: hand,week_4,Chicago Bears,2014
+['Danny McCray'],NA,week_4,Chicago Bears,2014
+['Sherrick McManis'],Questionable: quadriceps,week_4,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_4,Chicago Bears,2014
+['Jordan Mills'],NA,week_4,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_4,Chicago Bears,2014
+['Josh Morgan'],NA,week_4,Chicago Bears,2014
+['Ryan Mundy'],Probable: shoulder,week_4,Chicago Bears,2014
+['Michael Ola'],NA,week_4,Chicago Bears,2014
+['Jay Ratliff'],Questionable: concussion,week_4,Chicago Bears,2014
+['Trevor Scott'],Probable: foot,week_4,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_4,Chicago Bears,2014
+['Matt Slauson'],Questionable: ankle,week_4,Chicago Bears,2014
+['Will Sutton'],NA,week_4,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_4,Chicago Bears,2014
+['Brock Vereen'],NA,week_4,Chicago Bears,2014
+['Cornelius Washington'],NA,week_4,Chicago Bears,2014
+['Chris Williams'],NA,week_4,Chicago Bears,2014
+['D.J. Williams'],NA,week_4,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_4,Chicago Bears,2014
+['Willie Young'],NA,week_4,Chicago Bears,2014
+['Jared Allen'],Probable: illness,week_5,Chicago Bears,2014
+['David Bass'],NA,week_5,Chicago Bears,2014
+['Martellus Bennett'],NA,week_5,Chicago Bears,2014
+['Taylor Boggs'],NA,week_5,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_5,Chicago Bears,2014
+['Lance Briggs'],Questionable: knee,week_5,Chicago Bears,2014
+['Eben Britton'],NA,week_5,Chicago Bears,2014
+['Jermon Bushrod'],Questionable: knee,week_5,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_5,Chicago Bears,2014
+['Chris Conte'],Probable: shoulder,week_5,Chicago Bears,2014
+['Brian De La Puente'],NA,week_5,Chicago Bears,2014
+['Ahmad Dixon'],Questionable: hamstring,week_5,Chicago Bears,2014
+['Shaun Draughn'],NA,week_5,Chicago Bears,2014
+['David Fales'],NA,week_5,Chicago Bears,2014
+['Ego Ferguson'],NA,week_5,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_5,Chicago Bears,2014
+['Kyle Fuller'],NA,week_5,Chicago Bears,2014
+['Roberto Garza'],Questionable: ankle,week_5,Chicago Bears,2014
+['Robbie Gould'],NA,week_5,Chicago Bears,2014
+['Lamarr Houston'],NA,week_5,Chicago Bears,2014
+['Demontre Hurst'],NA,week_5,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_5,Chicago Bears,2014
+['Tim Jennings'],NA,week_5,Chicago Bears,2014
+['Kyle Long'],NA,week_5,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_5,Chicago Bears,2014
+['Brandon Marshall'],Probable: ankle,week_5,Chicago Bears,2014
+['Shea McClellin'],Out: hand,week_5,Chicago Bears,2014
+['Danny McCray'],NA,week_5,Chicago Bears,2014
+['Sherrick McManis'],Questionable: quadriceps,week_5,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_5,Chicago Bears,2014
+['Jordan Mills'],NA,week_5,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_5,Chicago Bears,2014
+['Josh Morgan'],NA,week_5,Chicago Bears,2014
+['Ryan Mundy'],NA,week_5,Chicago Bears,2014
+['Michael Ola'],NA,week_5,Chicago Bears,2014
+['Jay Ratliff'],Questionable: concussion,week_5,Chicago Bears,2014
+['Trevor Scott'],Questionable: foot,week_5,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_5,Chicago Bears,2014
+['Matt Slauson'],Questionable: ankle,week_5,Chicago Bears,2014
+['Will Sutton'],NA,week_5,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_5,Chicago Bears,2014
+['Brock Vereen'],NA,week_5,Chicago Bears,2014
+['Cornelius Washington'],NA,week_5,Chicago Bears,2014
+['Chris Williams'],NA,week_5,Chicago Bears,2014
+['D.J. Williams'],Questionable: neck,week_5,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_5,Chicago Bears,2014
+['Willie Young'],NA,week_5,Chicago Bears,2014
+['Jared Allen'],NA,week_6,Chicago Bears,2014
+['David Bass'],NA,week_6,Chicago Bears,2014
+['Martellus Bennett'],NA,week_6,Chicago Bears,2014
+['Taylor Boggs'],Questionable: hamstring,week_6,Chicago Bears,2014
+['Jonathan Bostic'],Questionable: back,week_6,Chicago Bears,2014
+['Lance Briggs'],Questionable: ribs,week_6,Chicago Bears,2014
+['Eben Britton'],NA,week_6,Chicago Bears,2014
+['Jermon Bushrod'],Questionable: knee/ankle,week_6,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_6,Chicago Bears,2014
+['Chris Conte'],Questionable: concussion,week_6,Chicago Bears,2014
+['Brian De La Puente'],NA,week_6,Chicago Bears,2014
+['Ahmad Dixon'],Questionable: hamstring,week_6,Chicago Bears,2014
+['Shaun Draughn'],NA,week_6,Chicago Bears,2014
+['David Fales'],NA,week_6,Chicago Bears,2014
+['Ego Ferguson'],NA,week_6,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_6,Chicago Bears,2014
+['Kyle Fuller'],NA,week_6,Chicago Bears,2014
+['Roberto Garza'],Probable: ankle,week_6,Chicago Bears,2014
+['Robbie Gould'],NA,week_6,Chicago Bears,2014
+['Lamarr Houston'],NA,week_6,Chicago Bears,2014
+['Demontre Hurst'],NA,week_6,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_6,Chicago Bears,2014
+['Tim Jennings'],NA,week_6,Chicago Bears,2014
+['Kyle Long'],NA,week_6,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_6,Chicago Bears,2014
+['Brandon Marshall'],NA,week_6,Chicago Bears,2014
+['Shea McClellin'],Questionable: hand,week_6,Chicago Bears,2014
+['Danny McCray'],NA,week_6,Chicago Bears,2014
+['Sherrick McManis'],Questionable: quadriceps,week_6,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_6,Chicago Bears,2014
+['Jordan Mills'],NA,week_6,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_6,Chicago Bears,2014
+['Josh Morgan'],NA,week_6,Chicago Bears,2014
+['Ryan Mundy'],NA,week_6,Chicago Bears,2014
+['Michael Ola'],NA,week_6,Chicago Bears,2014
+['Jay Ratliff'],Probable: concussion,week_6,Chicago Bears,2014
+['Trevor Scott'],NA,week_6,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_6,Chicago Bears,2014
+['Matt Slauson'],NA,week_6,Chicago Bears,2014
+['Will Sutton'],NA,week_6,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_6,Chicago Bears,2014
+['Brock Vereen'],NA,week_6,Chicago Bears,2014
+['Cornelius Washington'],NA,week_6,Chicago Bears,2014
+['Chris Williams'],NA,week_6,Chicago Bears,2014
+['D.J. Williams'],Questionable: neck,week_6,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_6,Chicago Bears,2014
+['Willie Young'],NA,week_6,Chicago Bears,2014
+['Jared Allen'],NA,week_7,Chicago Bears,2014
+['David Bass'],NA,week_7,Chicago Bears,2014
+['Martellus Bennett'],NA,week_7,Chicago Bears,2014
+['Taylor Boggs'],NA,week_7,Chicago Bears,2014
+['Jonathan Bostic'],Questionable: back,week_7,Chicago Bears,2014
+['Lance Briggs'],Questionable: ribs,week_7,Chicago Bears,2014
+['Eben Britton'],NA,week_7,Chicago Bears,2014
+['Jermon Bushrod'],Questionable: knee/ankle,week_7,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_7,Chicago Bears,2014
+['Chris Conte'],Questionable: shoulder,week_7,Chicago Bears,2014
+['Brian De La Puente'],NA,week_7,Chicago Bears,2014
+['Ahmad Dixon'],Questionable: hamstring,week_7,Chicago Bears,2014
+['Shaun Draughn'],NA,week_7,Chicago Bears,2014
+['David Fales'],NA,week_7,Chicago Bears,2014
+['Ego Ferguson'],NA,week_7,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_7,Chicago Bears,2014
+['Kyle Fuller'],NA,week_7,Chicago Bears,2014
+['Roberto Garza'],NA,week_7,Chicago Bears,2014
+['Robbie Gould'],NA,week_7,Chicago Bears,2014
+['Lamarr Houston'],NA,week_7,Chicago Bears,2014
+['Demontre Hurst'],NA,week_7,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_7,Chicago Bears,2014
+['Tim Jennings'],NA,week_7,Chicago Bears,2014
+['Kyle Long'],NA,week_7,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_7,Chicago Bears,2014
+['Brandon Marshall'],NA,week_7,Chicago Bears,2014
+['Shea McClellin'],Probable: hand,week_7,Chicago Bears,2014
+['Danny McCray'],NA,week_7,Chicago Bears,2014
+['Sherrick McManis'],Questionable: quadriceps/knee,week_7,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_7,Chicago Bears,2014
+['Jordan Mills'],Questionable: foot,week_7,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_7,Chicago Bears,2014
+['Josh Morgan'],NA,week_7,Chicago Bears,2014
+['Ryan Mundy'],NA,week_7,Chicago Bears,2014
+['Michael Ola'],NA,week_7,Chicago Bears,2014
+['Jay Ratliff'],NA,week_7,Chicago Bears,2014
+['Trevor Scott'],NA,week_7,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_7,Chicago Bears,2014
+['Matt Slauson'],NA,week_7,Chicago Bears,2014
+['Will Sutton'],NA,week_7,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_7,Chicago Bears,2014
+['Brock Vereen'],NA,week_7,Chicago Bears,2014
+['Cornelius Washington'],NA,week_7,Chicago Bears,2014
+['Chris Williams'],NA,week_7,Chicago Bears,2014
+['D.J. Williams'],Questionable: neck,week_7,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_7,Chicago Bears,2014
+['Willie Young'],NA,week_7,Chicago Bears,2014
+['Jared Allen'],NA,week_8,Chicago Bears,2014
+['David Bass'],NA,week_8,Chicago Bears,2014
+['Martellus Bennett'],Probable: hamstring,week_8,Chicago Bears,2014
+['Taylor Boggs'],NA,week_8,Chicago Bears,2014
+['Jonathan Bostic'],Questionable: back,week_8,Chicago Bears,2014
+['Lance Briggs'],Questionable: ribs,week_8,Chicago Bears,2014
+['Eben Britton'],NA,week_8,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_8,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_8,Chicago Bears,2014
+['Chris Conte'],Probable: shoulder,week_8,Chicago Bears,2014
+['Brian De La Puente'],NA,week_8,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_8,Chicago Bears,2014
+['Shaun Draughn'],NA,week_8,Chicago Bears,2014
+['David Fales'],NA,week_8,Chicago Bears,2014
+['Ego Ferguson'],NA,week_8,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_8,Chicago Bears,2014
+['Kyle Fuller'],Doubtful: hand/hip,week_8,Chicago Bears,2014
+['Roberto Garza'],NA,week_8,Chicago Bears,2014
+['Robbie Gould'],NA,week_8,Chicago Bears,2014
+['Lamarr Houston'],NA,week_8,Chicago Bears,2014
+['Demontre Hurst'],NA,week_8,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_8,Chicago Bears,2014
+['Tim Jennings'],NA,week_8,Chicago Bears,2014
+['Kyle Long'],NA,week_8,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_8,Chicago Bears,2014
+['Brandon Marshall'],NA,week_8,Chicago Bears,2014
+['Shea McClellin'],NA,week_8,Chicago Bears,2014
+['Danny McCray'],Questionable: knee,week_8,Chicago Bears,2014
+['Sherrick McManis'],NA,week_8,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_8,Chicago Bears,2014
+['Jordan Mills'],Questionable: foot,week_8,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_8,Chicago Bears,2014
+['Josh Morgan'],NA,week_8,Chicago Bears,2014
+['Ryan Mundy'],NA,week_8,Chicago Bears,2014
+['Michael Ola'],NA,week_8,Chicago Bears,2014
+['Jay Ratliff'],NA,week_8,Chicago Bears,2014
+['Trevor Scott'],NA,week_8,Chicago Bears,2014
+['Darryl Sharpton'],NA,week_8,Chicago Bears,2014
+['Matt Slauson'],NA,week_8,Chicago Bears,2014
+['Will Sutton'],NA,week_8,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_8,Chicago Bears,2014
+['Brock Vereen'],NA,week_8,Chicago Bears,2014
+['Cornelius Washington'],NA,week_8,Chicago Bears,2014
+['Chris Williams'],Questionable: illness,week_8,Chicago Bears,2014
+['D.J. Williams'],NA,week_8,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_8,Chicago Bears,2014
+['Willie Young'],NA,week_8,Chicago Bears,2014
+['Jared Allen'],NA,week_10,Chicago Bears,2014
+['David Bass'],NA,week_10,Chicago Bears,2014
+['Martellus Bennett'],Probable: rib,week_10,Chicago Bears,2014
+['Taylor Boggs'],NA,week_10,Chicago Bears,2014
+['Jonathan Bostic'],Probable: back,week_10,Chicago Bears,2014
+['Lance Briggs'],Probable: ribs,week_10,Chicago Bears,2014
+['Eben Britton'],Doubtful: appendectomy,week_10,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_10,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_10,Chicago Bears,2014
+['Chris Conte'],NA,week_10,Chicago Bears,2014
+['Brian De La Puente'],NA,week_10,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_10,Chicago Bears,2014
+['Shaun Draughn'],NA,week_10,Chicago Bears,2014
+['David Fales'],NA,week_10,Chicago Bears,2014
+['Ego Ferguson'],NA,week_10,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_10,Chicago Bears,2014
+['Kyle Fuller'],Probable: hip/hand,week_10,Chicago Bears,2014
+['Roberto Garza'],NA,week_10,Chicago Bears,2014
+['Robbie Gould'],NA,week_10,Chicago Bears,2014
+['Lamarr Houston'],Out: leg,week_10,Chicago Bears,2014
+['Demontre Hurst'],NA,week_10,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_10,Chicago Bears,2014
+['Tim Jennings'],NA,week_10,Chicago Bears,2014
+['Kyle Long'],NA,week_10,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_10,Chicago Bears,2014
+['Brandon Marshall'],NA,week_10,Chicago Bears,2014
+['Shea McClellin'],NA,week_10,Chicago Bears,2014
+['Danny McCray'],Probable: knee,week_10,Chicago Bears,2014
+['Sherrick McManis'],NA,week_10,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_10,Chicago Bears,2014
+['Jordan Mills'],Probable: foot,week_10,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_10,Chicago Bears,2014
+['Josh Morgan'],NA,week_10,Chicago Bears,2014
+['Ryan Mundy'],NA,week_10,Chicago Bears,2014
+['Michael Ola'],NA,week_10,Chicago Bears,2014
+['Jay Ratliff'],NA,week_10,Chicago Bears,2014
+['Trevor Scott'],NA,week_10,Chicago Bears,2014
+['Darryl Sharpton'],Out: hamstring,week_10,Chicago Bears,2014
+['Matt Slauson'],Out: pectoral,week_10,Chicago Bears,2014
+['Will Sutton'],NA,week_10,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_10,Chicago Bears,2014
+['Brock Vereen'],NA,week_10,Chicago Bears,2014
+['Cornelius Washington'],NA,week_10,Chicago Bears,2014
+['Chris Williams'],NA,week_10,Chicago Bears,2014
+['D.J. Williams'],NA,week_10,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_10,Chicago Bears,2014
+['Willie Young'],NA,week_10,Chicago Bears,2014
+['Jared Allen'],NA,week_11,Chicago Bears,2014
+['David Bass'],NA,week_11,Chicago Bears,2014
+['Martellus Bennett'],Questionable: ribs,week_11,Chicago Bears,2014
+['Taylor Boggs'],NA,week_11,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_11,Chicago Bears,2014
+['Lance Briggs'],NA,week_11,Chicago Bears,2014
+['Eben Britton'],Questionable: appendectomy,week_11,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_11,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_11,Chicago Bears,2014
+['Chris Conte'],NA,week_11,Chicago Bears,2014
+['Brian De La Puente'],NA,week_11,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_11,Chicago Bears,2014
+['Shaun Draughn'],NA,week_11,Chicago Bears,2014
+['David Fales'],NA,week_11,Chicago Bears,2014
+['Ego Ferguson'],NA,week_11,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_11,Chicago Bears,2014
+['Kyle Fuller'],NA,week_11,Chicago Bears,2014
+['Roberto Garza'],NA,week_11,Chicago Bears,2014
+['Robbie Gould'],NA,week_11,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_11,Chicago Bears,2014
+['Demontre Hurst'],NA,week_11,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_11,Chicago Bears,2014
+['Tim Jennings'],Probable: knee,week_11,Chicago Bears,2014
+['Kyle Long'],NA,week_11,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_11,Chicago Bears,2014
+['Brandon Marshall'],Probable: ankle,week_11,Chicago Bears,2014
+['Shea McClellin'],NA,week_11,Chicago Bears,2014
+['Danny McCray'],NA,week_11,Chicago Bears,2014
+['Sherrick McManis'],NA,week_11,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_11,Chicago Bears,2014
+['Jordan Mills'],Questionable: ribs,week_11,Chicago Bears,2014
+['Terrance Mitchell'],Questionable: illness,week_11,Chicago Bears,2014
+['Josh Morgan'],Questionable: shoulder,week_11,Chicago Bears,2014
+['Ryan Mundy'],NA,week_11,Chicago Bears,2014
+['Michael Ola'],NA,week_11,Chicago Bears,2014
+['Jay Ratliff'],NA,week_11,Chicago Bears,2014
+['Trevor Scott'],Questionable: knee,week_11,Chicago Bears,2014
+['Darryl Sharpton'],Questionable: hamstring,week_11,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_11,Chicago Bears,2014
+['Will Sutton'],NA,week_11,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_11,Chicago Bears,2014
+['Brock Vereen'],NA,week_11,Chicago Bears,2014
+['Cornelius Washington'],Probable: illness,week_11,Chicago Bears,2014
+['Chris Williams'],NA,week_11,Chicago Bears,2014
+['D.J. Williams'],NA,week_11,Chicago Bears,2014
+['Marquess Wilson'],Injured Reserve: clavicle,week_11,Chicago Bears,2014
+['Willie Young'],NA,week_11,Chicago Bears,2014
+['Jared Allen'],NA,week_12,Chicago Bears,2014
+['David Bass'],NA,week_12,Chicago Bears,2014
+['Martellus Bennett'],NA,week_12,Chicago Bears,2014
+['Taylor Boggs'],NA,week_12,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_12,Chicago Bears,2014
+['Lance Briggs'],NA,week_12,Chicago Bears,2014
+['Eben Britton'],Questionable: appendectomy,week_12,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_12,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_12,Chicago Bears,2014
+['Chris Conte'],NA,week_12,Chicago Bears,2014
+['Brian De La Puente'],NA,week_12,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_12,Chicago Bears,2014
+['Shaun Draughn'],NA,week_12,Chicago Bears,2014
+['David Fales'],NA,week_12,Chicago Bears,2014
+['Ego Ferguson'],Questionable: illness,week_12,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_12,Chicago Bears,2014
+['Kyle Fuller'],NA,week_12,Chicago Bears,2014
+['Roberto Garza'],NA,week_12,Chicago Bears,2014
+['Robbie Gould'],NA,week_12,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_12,Chicago Bears,2014
+['Demontre Hurst'],Questionable: knee,week_12,Chicago Bears,2014
+['Alshon Jeffery'],Probable: hamstring,week_12,Chicago Bears,2014
+['Tim Jennings'],NA,week_12,Chicago Bears,2014
+['Kyle Long'],NA,week_12,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_12,Chicago Bears,2014
+['Brandon Marshall'],Probable: ankle,week_12,Chicago Bears,2014
+['Shea McClellin'],NA,week_12,Chicago Bears,2014
+['Danny McCray'],NA,week_12,Chicago Bears,2014
+['Sherrick McManis'],NA,week_12,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_12,Chicago Bears,2014
+['Jordan Mills'],Questionable: ribs,week_12,Chicago Bears,2014
+['Terrance Mitchell'],Questionable: illness,week_12,Chicago Bears,2014
+['Josh Morgan'],Questionable: shoulder,week_12,Chicago Bears,2014
+['Ryan Mundy'],NA,week_12,Chicago Bears,2014
+['Michael Ola'],NA,week_12,Chicago Bears,2014
+['Jay Ratliff'],NA,week_12,Chicago Bears,2014
+['Trevor Scott'],Questionable: knee,week_12,Chicago Bears,2014
+['Darryl Sharpton'],Questionable: hamstring,week_12,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_12,Chicago Bears,2014
+['Will Sutton'],NA,week_12,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_12,Chicago Bears,2014
+['Brock Vereen'],NA,week_12,Chicago Bears,2014
+['Cornelius Washington'],NA,week_12,Chicago Bears,2014
+['Chris Williams'],Questionable: hamstring,week_12,Chicago Bears,2014
+['D.J. Williams'],NA,week_12,Chicago Bears,2014
+['Marquess Wilson'],NA,week_12,Chicago Bears,2014
+['Willie Young'],NA,week_12,Chicago Bears,2014
+['Jared Allen'],NA,week_13,Chicago Bears,2014
+['David Bass'],NA,week_13,Chicago Bears,2014
+['Martellus Bennett'],NA,week_13,Chicago Bears,2014
+['Taylor Boggs'],NA,week_13,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_13,Chicago Bears,2014
+['Lance Briggs'],Questionable: groin,week_13,Chicago Bears,2014
+['Eben Britton'],Probable: appendectomy,week_13,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_13,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_13,Chicago Bears,2014
+['Chris Conte'],NA,week_13,Chicago Bears,2014
+['Brian De La Puente'],Questionable: ankle,week_13,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_13,Chicago Bears,2014
+['Shaun Draughn'],NA,week_13,Chicago Bears,2014
+['David Fales'],NA,week_13,Chicago Bears,2014
+['Ego Ferguson'],NA,week_13,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_13,Chicago Bears,2014
+['Kyle Fuller'],Questionable: knee,week_13,Chicago Bears,2014
+['Roberto Garza'],NA,week_13,Chicago Bears,2014
+['Robbie Gould'],NA,week_13,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_13,Chicago Bears,2014
+['Demontre Hurst'],NA,week_13,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_13,Chicago Bears,2014
+['Tim Jennings'],NA,week_13,Chicago Bears,2014
+['Kyle Long'],NA,week_13,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_13,Chicago Bears,2014
+['Brandon Marshall'],Probable: ankle,week_13,Chicago Bears,2014
+['Shea McClellin'],NA,week_13,Chicago Bears,2014
+['Danny McCray'],NA,week_13,Chicago Bears,2014
+['Sherrick McManis'],NA,week_13,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_13,Chicago Bears,2014
+['Jordan Mills'],Probable: ribs,week_13,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_13,Chicago Bears,2014
+['Josh Morgan'],NA,week_13,Chicago Bears,2014
+['Ryan Mundy'],NA,week_13,Chicago Bears,2014
+['Michael Ola'],NA,week_13,Chicago Bears,2014
+['Jay Ratliff'],Questionable: knee,week_13,Chicago Bears,2014
+['Trevor Scott'],Questionable: knee,week_13,Chicago Bears,2014
+['Darryl Sharpton'],Questionable: hamstring,week_13,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_13,Chicago Bears,2014
+['Will Sutton'],NA,week_13,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_13,Chicago Bears,2014
+['Brock Vereen'],Probable: shoulder,week_13,Chicago Bears,2014
+['Cornelius Washington'],NA,week_13,Chicago Bears,2014
+['Chris Williams'],Questionable: hamstring,week_13,Chicago Bears,2014
+['D.J. Williams'],NA,week_13,Chicago Bears,2014
+['Marquess Wilson'],NA,week_13,Chicago Bears,2014
+['Willie Young'],NA,week_13,Chicago Bears,2014
+['Jared Allen'],NA,week_14,Chicago Bears,2014
+['David Bass'],NA,week_14,Chicago Bears,2014
+['Martellus Bennett'],Probable: foot,week_14,Chicago Bears,2014
+['Taylor Boggs'],NA,week_14,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_14,Chicago Bears,2014
+['Lance Briggs'],Injured Reserve: groin,week_14,Chicago Bears,2014
+['Eben Britton'],Questionable: appendectomy,week_14,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_14,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_14,Chicago Bears,2014
+['Chris Conte'],Questionable: eye,week_14,Chicago Bears,2014
+['Brian De La Puente'],Injured Reserve: ankle,week_14,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_14,Chicago Bears,2014
+['Shaun Draughn'],NA,week_14,Chicago Bears,2014
+['David Fales'],NA,week_14,Chicago Bears,2014
+['Ego Ferguson'],NA,week_14,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_14,Chicago Bears,2014
+['Kyle Fuller'],NA,week_14,Chicago Bears,2014
+['Roberto Garza'],NA,week_14,Chicago Bears,2014
+['Robbie Gould'],Questionable: right quadricep,week_14,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_14,Chicago Bears,2014
+['Demontre Hurst'],NA,week_14,Chicago Bears,2014
+['Alshon Jeffery'],Probable: hamstring,week_14,Chicago Bears,2014
+['Tim Jennings'],Questionable: groin,week_14,Chicago Bears,2014
+['Kyle Long'],Probable: calf,week_14,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_14,Chicago Bears,2014
+['Brandon Marshall'],NA,week_14,Chicago Bears,2014
+['Shea McClellin'],NA,week_14,Chicago Bears,2014
+['Danny McCray'],NA,week_14,Chicago Bears,2014
+['Sherrick McManis'],NA,week_14,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_14,Chicago Bears,2014
+['Jordan Mills'],NA,week_14,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_14,Chicago Bears,2014
+['Josh Morgan'],NA,week_14,Chicago Bears,2014
+['Ryan Mundy'],NA,week_14,Chicago Bears,2014
+['Michael Ola'],NA,week_14,Chicago Bears,2014
+['Jay Ratliff'],Questionable: knee,week_14,Chicago Bears,2014
+['Trevor Scott'],Questionable: knee,week_14,Chicago Bears,2014
+['Darryl Sharpton'],Questionable: hamstring,week_14,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_14,Chicago Bears,2014
+['Will Sutton'],NA,week_14,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_14,Chicago Bears,2014
+['Brock Vereen'],NA,week_14,Chicago Bears,2014
+['Cornelius Washington'],Questionable: chest,week_14,Chicago Bears,2014
+['Chris Williams'],Questionable: hamstring,week_14,Chicago Bears,2014
+['D.J. Williams'],NA,week_14,Chicago Bears,2014
+['Marquess Wilson'],NA,week_14,Chicago Bears,2014
+['Willie Young'],NA,week_14,Chicago Bears,2014
+['Jared Allen'],NA,week_15,Chicago Bears,2014
+['David Bass'],NA,week_15,Chicago Bears,2014
+['Martellus Bennett'],NA,week_15,Chicago Bears,2014
+['Taylor Boggs'],NA,week_15,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_15,Chicago Bears,2014
+['Lance Briggs'],Injured Reserve: groin,week_15,Chicago Bears,2014
+['Eben Britton'],NA,week_15,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_15,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_15,Chicago Bears,2014
+['Chris Conte'],Questionable: back,week_15,Chicago Bears,2014
+['Brian De La Puente'],Injured Reserve: ankle,week_15,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_15,Chicago Bears,2014
+['Shaun Draughn'],NA,week_15,Chicago Bears,2014
+['David Fales'],NA,week_15,Chicago Bears,2014
+['Ego Ferguson'],NA,week_15,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_15,Chicago Bears,2014
+['Kyle Fuller'],NA,week_15,Chicago Bears,2014
+['Roberto Garza'],NA,week_15,Chicago Bears,2014
+['Robbie Gould'],Questionable: right quadriceps,week_15,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_15,Chicago Bears,2014
+['Demontre Hurst'],NA,week_15,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_15,Chicago Bears,2014
+['Tim Jennings'],NA,week_15,Chicago Bears,2014
+['Kyle Long'],NA,week_15,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_15,Chicago Bears,2014
+['Brandon Marshall'],Injured Reserve: ribs,week_15,Chicago Bears,2014
+['Shea McClellin'],NA,week_15,Chicago Bears,2014
+['Danny McCray'],NA,week_15,Chicago Bears,2014
+['Sherrick McManis'],NA,week_15,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_15,Chicago Bears,2014
+['Jordan Mills'],NA,week_15,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_15,Chicago Bears,2014
+['Josh Morgan'],NA,week_15,Chicago Bears,2014
+['Ryan Mundy'],NA,week_15,Chicago Bears,2014
+['Michael Ola'],Questionable: back,week_15,Chicago Bears,2014
+['Jay Ratliff'],Probable: knee,week_15,Chicago Bears,2014
+['Trevor Scott'],NA,week_15,Chicago Bears,2014
+['Darryl Sharpton'],Questionable: hamstring,week_15,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_15,Chicago Bears,2014
+['Will Sutton'],NA,week_15,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_15,Chicago Bears,2014
+['Brock Vereen'],NA,week_15,Chicago Bears,2014
+['Cornelius Washington'],Questionable: ankle,week_15,Chicago Bears,2014
+['Chris Williams'],NA,week_15,Chicago Bears,2014
+['D.J. Williams'],Injured Reserve: neck,week_15,Chicago Bears,2014
+['Marquess Wilson'],NA,week_15,Chicago Bears,2014
+['Willie Young'],NA,week_15,Chicago Bears,2014
+['Jared Allen'],NA,week_16,Chicago Bears,2014
+['David Bass'],NA,week_16,Chicago Bears,2014
+['Martellus Bennett'],NA,week_16,Chicago Bears,2014
+['Taylor Boggs'],NA,week_16,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_16,Chicago Bears,2014
+['Lance Briggs'],Injured Reserve: groin,week_16,Chicago Bears,2014
+['Eben Britton'],NA,week_16,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_16,Chicago Bears,2014
+['Jimmy Clausen'],NA,week_16,Chicago Bears,2014
+['Chris Conte'],Questionable: back,week_16,Chicago Bears,2014
+['Brian De La Puente'],Injured Reserve: ankle,week_16,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_16,Chicago Bears,2014
+['Shaun Draughn'],NA,week_16,Chicago Bears,2014
+['David Fales'],NA,week_16,Chicago Bears,2014
+['Ego Ferguson'],NA,week_16,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_16,Chicago Bears,2014
+['Kyle Fuller'],Probable: hand,week_16,Chicago Bears,2014
+['Roberto Garza'],NA,week_16,Chicago Bears,2014
+['Robbie Gould'],Questionable: right quadriceps,week_16,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_16,Chicago Bears,2014
+['Demontre Hurst'],NA,week_16,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_16,Chicago Bears,2014
+['Tim Jennings'],Questionable: ankle,week_16,Chicago Bears,2014
+['Kyle Long'],Questionable: hip,week_16,Chicago Bears,2014
+['Al Louis-Jean'],NA,week_16,Chicago Bears,2014
+['Brandon Marshall'],Injured Reserve: ribs,week_16,Chicago Bears,2014
+['Shea McClellin'],Probable: ankle,week_16,Chicago Bears,2014
+['Danny McCray'],NA,week_16,Chicago Bears,2014
+['Sherrick McManis'],NA,week_16,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_16,Chicago Bears,2014
+['Jordan Mills'],NA,week_16,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_16,Chicago Bears,2014
+['Josh Morgan'],NA,week_16,Chicago Bears,2014
+['Ryan Mundy'],NA,week_16,Chicago Bears,2014
+['Michael Ola'],Questionable: back,week_16,Chicago Bears,2014
+['Jay Ratliff'],Questionable: knee,week_16,Chicago Bears,2014
+['Trevor Scott'],NA,week_16,Chicago Bears,2014
+['Darryl Sharpton'],Injured Reserve: hamstring,week_16,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_16,Chicago Bears,2014
+['Will Sutton'],Questionable: illness,week_16,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_16,Chicago Bears,2014
+['Brock Vereen'],NA,week_16,Chicago Bears,2014
+['Cornelius Washington'],NA,week_16,Chicago Bears,2014
+['Chris Williams'],NA,week_16,Chicago Bears,2014
+['D.J. Williams'],Injured Reserve: neck,week_16,Chicago Bears,2014
+['Marquess Wilson'],NA,week_16,Chicago Bears,2014
+['Willie Young'],NA,week_16,Chicago Bears,2014
+['Jared Allen'],Questionable: ribs,week_17,Chicago Bears,2014
+['David Bass'],Questionable: knee,week_17,Chicago Bears,2014
+['Martellus Bennett'],NA,week_17,Chicago Bears,2014
+['Taylor Boggs'],NA,week_17,Chicago Bears,2014
+['Jonathan Bostic'],NA,week_17,Chicago Bears,2014
+['Lance Briggs'],Injured Reserve: groin,week_17,Chicago Bears,2014
+['Eben Britton'],NA,week_17,Chicago Bears,2014
+['Jermon Bushrod'],NA,week_17,Chicago Bears,2014
+['Jimmy Clausen'],Out: concussion,week_17,Chicago Bears,2014
+['Chris Conte'],Questionable: back,week_17,Chicago Bears,2014
+['Brian De La Puente'],Injured Reserve: ankle,week_17,Chicago Bears,2014
+['Ahmad Dixon'],NA,week_17,Chicago Bears,2014
+['Shaun Draughn'],NA,week_17,Chicago Bears,2014
+['David Fales'],NA,week_17,Chicago Bears,2014
+['Ego Ferguson'],Questionable: ankle,week_17,Chicago Bears,2014
+['Tony Fiammetta'],NA,week_17,Chicago Bears,2014
+['Kyle Fuller'],NA,week_17,Chicago Bears,2014
+['Roberto Garza'],NA,week_17,Chicago Bears,2014
+['Robbie Gould'],Out: quadricep,week_17,Chicago Bears,2014
+['Lamarr Houston'],Injured Reserve: knee,week_17,Chicago Bears,2014
+['Demontre Hurst'],NA,week_17,Chicago Bears,2014
+['Alshon Jeffery'],NA,week_17,Chicago Bears,2014
+['Tim Jennings'],NA,week_17,Chicago Bears,2014
+['Kyle Long'],Questionable: hip,week_17,Chicago Bears,2014
+['Al Louis-Jean'],Questionable: hamstring,week_17,Chicago Bears,2014
+['Brandon Marshall'],Injured Reserve: ribs,week_17,Chicago Bears,2014
+['Shea McClellin'],NA,week_17,Chicago Bears,2014
+['Danny McCray'],NA,week_17,Chicago Bears,2014
+['Sherrick McManis'],NA,week_17,Chicago Bears,2014
+['Zach Miller'],Injured Reserve: foot,week_17,Chicago Bears,2014
+['Jordan Mills'],NA,week_17,Chicago Bears,2014
+['Terrance Mitchell'],NA,week_17,Chicago Bears,2014
+['Josh Morgan'],NA,week_17,Chicago Bears,2014
+['Ryan Mundy'],NA,week_17,Chicago Bears,2014
+['Michael Ola'],NA,week_17,Chicago Bears,2014
+['Jay Ratliff'],Questionable: knee,week_17,Chicago Bears,2014
+['Trevor Scott'],NA,week_17,Chicago Bears,2014
+['Darryl Sharpton'],Injured Reserve: hamstring,week_17,Chicago Bears,2014
+['Matt Slauson'],Injured Reserve: pectoral,week_17,Chicago Bears,2014
+['Will Sutton'],NA,week_17,Chicago Bears,2014
+['Charles Tillman'],Injured Reserve: triceps,week_17,Chicago Bears,2014
+['Brock Vereen'],NA,week_17,Chicago Bears,2014
+['Cornelius Washington'],NA,week_17,Chicago Bears,2014
+['Chris Williams'],NA,week_17,Chicago Bears,2014
+['D.J. Williams'],Injured Reserve: neck,week_17,Chicago Bears,2014
+['Marquess Wilson'],Questionable: knee,week_17,Chicago Bears,2014
+['Willie Young'],Injured Reserve: Achilles,week_17,Chicago Bears,2014

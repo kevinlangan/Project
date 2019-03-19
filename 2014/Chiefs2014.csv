@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Husain Abdullah'],NA,week_1,Kansas City Chiefs,2014
+['Jeff Allen'],NA,week_1,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_1,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_1,Kansas City Chiefs,2014
+['Eric Berry'],Probable: heel,week_1,Kansas City Chiefs,2014
+['Dwayne Bowe'],Suspended: ,week_1,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_1,Kansas City Chiefs,2014
+['Mike Catapano'],Out: illness,week_1,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_1,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_1,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_1,Kansas City Chiefs,2014
+['Marcus Cooper'],Questionable: ankle,week_1,Kansas City Chiefs,2014
+['Mike DeVito'],Probable: hand,week_1,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_1,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_1,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_1,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_1,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_1,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_1,Kansas City Chiefs,2014
+['Cyrus Gray'],NA,week_1,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_1,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_1,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_1,Kansas City Chiefs,2014
+['Junior Hemingway'],Questionable: hip,week_1,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_1,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_1,Kansas City Chiefs,2014
+['A.J. Jenkins'],Questionable: concussion,week_1,Kansas City Chiefs,2014
+['Derrick Johnson'],NA,week_1,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_1,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_1,Kansas City Chiefs,2014
+['Eric Kush'],Questionable: shoulder,week_1,Kansas City Chiefs,2014
+['Josh Martin'],Probable: quadriceps,week_1,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_1,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_1,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_1,Kansas City Chiefs,2014
+['Joe McKnight'],NA,week_1,Kansas City Chiefs,2014
+['Chris Owens'],NA,week_1,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_1,Kansas City Chiefs,2014
+['Sean Smith'],NA,week_1,Kansas City Chiefs,2014
+['Donald Stephenson'],Suspended: ,week_1,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",Questionable: hamstring,week_1,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_1,Kansas City Chiefs,2014
+['Vance Walker'],Probable: hand,week_1,Kansas City Chiefs,2014
+['Albert Wilson'],Probable: ankle,week_1,Kansas City Chiefs,2014
+['Frank Zombo'],Probable: groin,week_1,Kansas City Chiefs,2014
+['Husain Abdullah'],Probable: quadricep,week_2,Kansas City Chiefs,2014
+['Jeff Allen'],Questionable: elbow,week_2,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_2,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_2,Kansas City Chiefs,2014
+['Eric Berry'],Probable: quadricep/heel,week_2,Kansas City Chiefs,2014
+['Dwayne Bowe'],Probable: one-game suspension served/quadricep,week_2,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_2,Kansas City Chiefs,2014
+['Mike Catapano'],Out: illness,week_2,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_2,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_2,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_2,Kansas City Chiefs,2014
+['Marcus Cooper'],Probable: ankle,week_2,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_2,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_2,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_2,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_2,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_2,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_2,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_2,Kansas City Chiefs,2014
+['Cyrus Gray'],NA,week_2,Kansas City Chiefs,2014
+['Tamba Hali'],Questionable: ankle/knee,week_2,Kansas City Chiefs,2014
+['Frankie Hammond'],Probable: shoulder,week_2,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_2,Kansas City Chiefs,2014
+['Junior Hemingway'],Probable: hip,week_2,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_2,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_2,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_2,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_2,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_2,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_2,Kansas City Chiefs,2014
+['Eric Kush'],Probable: shoulder,week_2,Kansas City Chiefs,2014
+['Josh Martin'],Probable: quadricep,week_2,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_2,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_2,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_2,Kansas City Chiefs,2014
+['Joe McKnight'],NA,week_2,Kansas City Chiefs,2014
+['Chris Owens'],NA,week_2,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_2,Kansas City Chiefs,2014
+['Sean Smith'],NA,week_2,Kansas City Chiefs,2014
+['Donald Stephenson'],Suspended: ,week_2,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",Questionable: hamstring,week_2,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_2,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_2,Kansas City Chiefs,2014
+['Albert Wilson'],Probable: ankle,week_2,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_2,Kansas City Chiefs,2014
+['Husain Abdullah'],Probable: foot/quadriceps,week_3,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_3,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_3,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_3,Kansas City Chiefs,2014
+['Eric Berry'],Questionable: ankle,week_3,Kansas City Chiefs,2014
+['Dwayne Bowe'],Probable: quadriceps,week_3,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_3,Kansas City Chiefs,2014
+['Mike Catapano'],Out: illness,week_3,Kansas City Chiefs,2014
+['Jamaal Charles'],Questionable: ankle,week_3,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_3,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_3,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_3,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_3,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_3,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_3,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_3,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_3,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_3,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_3,Kansas City Chiefs,2014
+['Cyrus Gray'],Probable: foot,week_3,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: ankle/knee,week_3,Kansas City Chiefs,2014
+['Frankie Hammond'],Probable: shoulder,week_3,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_3,Kansas City Chiefs,2014
+['Junior Hemingway'],Probable: hip,week_3,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_3,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_3,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_3,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_3,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_3,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_3,Kansas City Chiefs,2014
+['Eric Kush'],Probable: shoulder,week_3,Kansas City Chiefs,2014
+['Josh Martin'],Probable: quadriceps/triceps,week_3,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_3,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_3,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_3,Kansas City Chiefs,2014
+['Joe McKnight'],NA,week_3,Kansas City Chiefs,2014
+['Chris Owens'],NA,week_3,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_3,Kansas City Chiefs,2014
+['Sean Smith'],NA,week_3,Kansas City Chiefs,2014
+['Donald Stephenson'],Suspended: ,week_3,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",Probable: hamstring,week_3,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_3,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_3,Kansas City Chiefs,2014
+['Albert Wilson'],Probable: ankle,week_3,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_3,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_4,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_4,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_4,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_4,Kansas City Chiefs,2014
+['Eric Berry'],Doubtful: ankle,week_4,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_4,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_4,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_4,Kansas City Chiefs,2014
+['Jamaal Charles'],Questionable: ankle,week_4,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_4,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_4,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_4,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_4,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_4,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_4,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_4,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_4,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_4,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_4,Kansas City Chiefs,2014
+['Cyrus Gray'],NA,week_4,Kansas City Chiefs,2014
+['Tamba Hali'],Questionable: ankle/knee,week_4,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_4,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_4,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_4,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_4,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_4,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_4,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_4,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_4,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_4,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_4,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_4,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_4,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_4,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_4,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_4,Kansas City Chiefs,2014
+['Chris Owens'],NA,week_4,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_4,Kansas City Chiefs,2014
+['Sean Smith'],Questionable: groin,week_4,Kansas City Chiefs,2014
+['Donald Stephenson'],Suspended: ,week_4,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",Questionable: hamstring,week_4,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_4,Kansas City Chiefs,2014
+['Vance Walker'],Probable: shoulder,week_4,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_4,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_4,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_5,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_5,Kansas City Chiefs,2014
+['Donnie Avery'],Doubtful: groin,week_5,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_5,Kansas City Chiefs,2014
+['Eric Berry'],Questionable: ankle,week_5,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_5,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_5,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_5,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: ankle,week_5,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_5,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_5,Kansas City Chiefs,2014
+['Marcus Cooper'],Questionable: knee,week_5,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_5,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_5,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_5,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_5,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_5,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_5,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_5,Kansas City Chiefs,2014
+['Cyrus Gray'],NA,week_5,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_5,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_5,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_5,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_5,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_5,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_5,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_5,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_5,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_5,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_5,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_5,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_5,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_5,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_5,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_5,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_5,Kansas City Chiefs,2014
+['Chris Owens'],Probable: thumb,week_5,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_5,Kansas City Chiefs,2014
+['Sean Smith'],Questionable: groin,week_5,Kansas City Chiefs,2014
+['Donald Stephenson'],Probable: four-game suspension served,week_5,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",Probable: hamstring,week_5,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_5,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_5,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_5,Kansas City Chiefs,2014
+['Frank Zombo'],Probable: hamstring,week_5,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_7,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_7,Kansas City Chiefs,2014
+['Donnie Avery'],Out: hernia,week_7,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_7,Kansas City Chiefs,2014
+['Eric Berry'],Questionable: ankle,week_7,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_7,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_7,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_7,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_7,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_7,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_7,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_7,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_7,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_7,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_7,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_7,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_7,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_7,Kansas City Chiefs,2014
+['Phillip Gaines'],Probable: concussion,week_7,Kansas City Chiefs,2014
+['Cyrus Gray'],Questionable: hand,week_7,Kansas City Chiefs,2014
+['Tamba Hali'],NA,week_7,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_7,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_7,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_7,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_7,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_7,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_7,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_7,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_7,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_7,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_7,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_7,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_7,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_7,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_7,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_7,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_7,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_7,Kansas City Chiefs,2014
+['Sean Smith'],Questionable: groin,week_7,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_7,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_7,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_7,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_7,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_7,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_7,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_8,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_8,Kansas City Chiefs,2014
+['Donnie Avery'],Out: hernia,week_8,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_8,Kansas City Chiefs,2014
+['Eric Berry'],Questionable: ankle,week_8,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_8,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_8,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_8,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: head,week_8,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_8,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_8,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_8,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_8,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_8,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_8,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_8,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_8,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_8,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_8,Kansas City Chiefs,2014
+['Cyrus Gray'],Probable: hand,week_8,Kansas City Chiefs,2014
+['Tamba Hali'],NA,week_8,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_8,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_8,Kansas City Chiefs,2014
+['Junior Hemingway'],Questionable: hamstring,week_8,Kansas City Chiefs,2014
+['Justin Houston'],Probable: ankle,week_8,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_8,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_8,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_8,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_8,Kansas City Chiefs,2014
+['Travis Kelce'],Questionable: ribs,week_8,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_8,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_8,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_8,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_8,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_8,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_8,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_8,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_8,Kansas City Chiefs,2014
+['Sean Smith'],Questionable: groin,week_8,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_8,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_8,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_8,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_8,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_8,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_8,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_9,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_9,Kansas City Chiefs,2014
+['Donnie Avery'],Out: hernia,week_9,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_9,Kansas City Chiefs,2014
+['Eric Berry'],Questionable: ankle,week_9,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_9,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_9,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_9,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: back,week_9,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_9,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_9,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_9,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_9,Kansas City Chiefs,2014
+['Anthony Fasano'],Probable: shoulder,week_9,Kansas City Chiefs,2014
+['Jamell Fleming'],Questionable: hamstring,week_9,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_9,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_9,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_9,Kansas City Chiefs,2014
+['Phillip Gaines'],Probable: quadriceps,week_9,Kansas City Chiefs,2014
+['Cyrus Gray'],Probable: hand,week_9,Kansas City Chiefs,2014
+['Tamba Hali'],NA,week_9,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_9,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_9,Kansas City Chiefs,2014
+['Junior Hemingway'],Probable: hamstring,week_9,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_9,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_9,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_9,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_9,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_9,Kansas City Chiefs,2014
+['Travis Kelce'],Probable: ribs,week_9,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_9,Kansas City Chiefs,2014
+['Josh Martin'],Questionable: hamstring,week_9,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_9,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_9,Kansas City Chiefs,2014
+['Mike McGlynn'],Probable: hamstring,week_9,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_9,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_9,Kansas City Chiefs,2014
+['Alex Smith'],Probable: right shoulder,week_9,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_9,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_9,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_9,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_9,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_9,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_9,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_9,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_10,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_10,Kansas City Chiefs,2014
+['Donnie Avery'],Out: hernia,week_10,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_10,Kansas City Chiefs,2014
+['Eric Berry'],Probable: ankle,week_10,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_10,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_10,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_10,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_10,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_10,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_10,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_10,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_10,Kansas City Chiefs,2014
+['Anthony Fasano'],NA,week_10,Kansas City Chiefs,2014
+['Jamell Fleming'],Questionable: hamstring,week_10,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_10,Kansas City Chiefs,2014
+['Jerry Franklin'],Questionable: hamstring,week_10,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_10,Kansas City Chiefs,2014
+['Phillip Gaines'],Probable: ankle/quadriceps,week_10,Kansas City Chiefs,2014
+['Cyrus Gray'],Probable: hand,week_10,Kansas City Chiefs,2014
+['Tamba Hali'],Questionable: knee,week_10,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_10,Kansas City Chiefs,2014
+['Demetrius Harris'],NA,week_10,Kansas City Chiefs,2014
+['Junior Hemingway'],Probable: hamstring,week_10,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_10,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_10,Kansas City Chiefs,2014
+['A.J. Jenkins'],NA,week_10,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_10,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_10,Kansas City Chiefs,2014
+['Travis Kelce'],Probable: ribs,week_10,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_10,Kansas City Chiefs,2014
+['Josh Martin'],Questionable: hamstring,week_10,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_10,Kansas City Chiefs,2014
+['Joe Mays'],Injured Reserve: wrist,week_10,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_10,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_10,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_10,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_10,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_10,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_10,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_10,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_10,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_10,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_10,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_10,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_11,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_11,Kansas City Chiefs,2014
+['Donnie Avery'],Probable: groin,week_11,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_11,Kansas City Chiefs,2014
+['Eric Berry'],NA,week_11,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_11,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_11,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_11,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: shoulder/elbow,week_11,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_11,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_11,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_11,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_11,Kansas City Chiefs,2014
+['Anthony Fasano'],Doubtful: knee,week_11,Kansas City Chiefs,2014
+['Jamell Fleming'],Questionable: hamstring,week_11,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_11,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_11,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_11,Kansas City Chiefs,2014
+['Phillip Gaines'],Questionable: quadricep/ankle,week_11,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_11,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_11,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_11,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_11,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_11,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_11,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_11,Kansas City Chiefs,2014
+['A.J. Jenkins'],Questionable: shoulder,week_11,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_11,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_11,Kansas City Chiefs,2014
+['Travis Kelce'],Probable: ribs,week_11,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_11,Kansas City Chiefs,2014
+['Josh Martin'],Probable: hamstring,week_11,Kansas City Chiefs,2014
+['Josh Mauga'],Probable: groin,week_11,Kansas City Chiefs,2014
+['Joe Mays'],NA,week_11,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_11,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_11,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_11,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_11,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_11,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_11,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_11,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_11,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_11,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_11,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_11,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_12,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_12,Kansas City Chiefs,2014
+['Donnie Avery'],Doubtful: groin,week_12,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_12,Kansas City Chiefs,2014
+['Eric Berry'],NA,week_12,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_12,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_12,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_12,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_12,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_12,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_12,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_12,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_12,Kansas City Chiefs,2014
+['Anthony Fasano'],Probable: knee,week_12,Kansas City Chiefs,2014
+['Jamell Fleming'],Questionable: hamstring,week_12,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_12,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_12,Kansas City Chiefs,2014
+['Zach Fulton'],Probable: ankle,week_12,Kansas City Chiefs,2014
+['Phillip Gaines'],Probable: ankle/quadricep,week_12,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_12,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_12,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_12,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_12,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_12,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_12,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_12,Kansas City Chiefs,2014
+['A.J. Jenkins'],Questionable: shoulder,week_12,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_12,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_12,Kansas City Chiefs,2014
+['Travis Kelce'],Probable: ribs/shoulder,week_12,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_12,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_12,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_12,Kansas City Chiefs,2014
+['Joe Mays'],NA,week_12,Kansas City Chiefs,2014
+['Mike McGlynn'],Probable: knee,week_12,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_12,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee,week_12,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_12,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_12,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_12,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_12,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_12,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_12,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_12,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_12,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_13,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_13,Kansas City Chiefs,2014
+['Donnie Avery'],Probable: groin,week_13,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_13,Kansas City Chiefs,2014
+['Eric Berry'],Out: illness,week_13,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_13,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_13,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_13,Kansas City Chiefs,2014
+['Jamaal Charles'],NA,week_13,Kansas City Chiefs,2014
+['Dustin Colquitt'],Probable: right calf,week_13,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_13,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_13,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_13,Kansas City Chiefs,2014
+['Anthony Fasano'],Questionable: knee,week_13,Kansas City Chiefs,2014
+['Jamell Fleming'],Probable: hamstring,week_13,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_13,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_13,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_13,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_13,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_13,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_13,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_13,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_13,Kansas City Chiefs,2014
+['Junior Hemingway'],Questionable: concussion,week_13,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_13,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_13,Kansas City Chiefs,2014
+['A.J. Jenkins'],Injured Reserve: shoulder,week_13,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_13,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_13,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_13,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_13,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_13,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_13,Kansas City Chiefs,2014
+['Joe Mays'],NA,week_13,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_13,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_13,Kansas City Chiefs,2014
+['Chris Owens'],Questionable: knee/abdomen,week_13,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_13,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_13,Kansas City Chiefs,2014
+['Donald Stephenson'],Probable: shoulder,week_13,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_13,Kansas City Chiefs,2014
+['Kevin Vickerson'],Questionable: calf,week_13,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_13,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_13,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_13,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_14,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_14,Kansas City Chiefs,2014
+['Donnie Avery'],Questionable: groin,week_14,Kansas City Chiefs,2014
+['Allen Bailey'],Questionable: concussion,week_14,Kansas City Chiefs,2014
+['Eric Berry'],Out: illness,week_14,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_14,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_14,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_14,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: knee,week_14,Kansas City Chiefs,2014
+['Dustin Colquitt'],Probable: right calf,week_14,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_14,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_14,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_14,Kansas City Chiefs,2014
+['Anthony Fasano'],Questionable: knee,week_14,Kansas City Chiefs,2014
+['Jamell Fleming'],Probable: hamstring,week_14,Kansas City Chiefs,2014
+['Dee Ford'],Probable: quadricep,week_14,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_14,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_14,Kansas City Chiefs,2014
+['Phillip Gaines'],NA,week_14,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_14,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_14,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_14,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_14,Kansas City Chiefs,2014
+['Junior Hemingway'],Questionable: concussion,week_14,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_14,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_14,Kansas City Chiefs,2014
+['A.J. Jenkins'],Injured Reserve: shoulder,week_14,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_14,Kansas City Chiefs,2014
+['James-Michael Johnson'],Probable: back/knee,week_14,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_14,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_14,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_14,Kansas City Chiefs,2014
+['Josh Mauga'],Probable: back,week_14,Kansas City Chiefs,2014
+['Joe Mays'],NA,week_14,Kansas City Chiefs,2014
+['Mike McGlynn'],Questionable: quadricep,week_14,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_14,Kansas City Chiefs,2014
+['Chris Owens'],Probable: knee,week_14,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_14,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_14,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_14,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_14,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_14,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_14,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_14,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_14,Kansas City Chiefs,2014
+['Husain Abdullah'],Probable: foot,week_15,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_15,Kansas City Chiefs,2014
+['Donnie Avery'],Probable: groin,week_15,Kansas City Chiefs,2014
+['Allen Bailey'],Questionable: concussion,week_15,Kansas City Chiefs,2014
+['Eric Berry'],Out: illness,week_15,Kansas City Chiefs,2014
+['Dwayne Bowe'],NA,week_15,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_15,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_15,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: knee/ankle,week_15,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_15,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_15,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_15,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_15,Kansas City Chiefs,2014
+['Anthony Fasano'],Questionable: knee,week_15,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_15,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_15,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_15,Kansas City Chiefs,2014
+['Zach Fulton'],NA,week_15,Kansas City Chiefs,2014
+['Phillip Gaines'],Doubtful: concussion,week_15,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_15,Kansas City Chiefs,2014
+['Tamba Hali'],Questionable: knee,week_15,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_15,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_15,Kansas City Chiefs,2014
+['Junior Hemingway'],Probable: concussion,week_15,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_15,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_15,Kansas City Chiefs,2014
+['A.J. Jenkins'],Injured Reserve: shoulder,week_15,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_15,Kansas City Chiefs,2014
+['James-Michael Johnson'],Probable: back/knee,week_15,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_15,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_15,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_15,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_15,Kansas City Chiefs,2014
+['Joe Mays'],Probable: knee,week_15,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_15,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_15,Kansas City Chiefs,2014
+['Chris Owens'],Probable: knee,week_15,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_15,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_15,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_15,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_15,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_15,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_15,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_15,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_15,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_16,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_16,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_16,Kansas City Chiefs,2014
+['Allen Bailey'],Probable: concussion,week_16,Kansas City Chiefs,2014
+['Eric Berry'],Out: illness,week_16,Kansas City Chiefs,2014
+['Dwayne Bowe'],Probable: illness,week_16,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_16,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_16,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: knee/ankle,week_16,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_16,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_16,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_16,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2014
+['Anthony Fasano'],Questionable: knee,week_16,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_16,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_16,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_16,Kansas City Chiefs,2014
+['Zach Fulton'],Probable: toe,week_16,Kansas City Chiefs,2014
+['Phillip Gaines'],Probable: concussion,week_16,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_16,Kansas City Chiefs,2014
+['Tamba Hali'],Probable: knee,week_16,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_16,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_16,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_16,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_16,Kansas City Chiefs,2014
+['Jaye Howard'],Questionable: shoulder/illness,week_16,Kansas City Chiefs,2014
+['A.J. Jenkins'],Injured Reserve: shoulder,week_16,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_16,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_16,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_16,Kansas City Chiefs,2014
+['Josh Martin'],NA,week_16,Kansas City Chiefs,2014
+['Josh Mauga'],Probable: oblique,week_16,Kansas City Chiefs,2014
+['Joe Mays'],Questionable: knee,week_16,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_16,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_16,Kansas City Chiefs,2014
+['Chris Owens'],Probable: knee,week_16,Kansas City Chiefs,2014
+['Alex Smith'],NA,week_16,Kansas City Chiefs,2014
+['Sean Smith'],Probable: groin,week_16,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_16,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_16,Kansas City Chiefs,2014
+['Kevin Vickerson'],NA,week_16,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_16,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_16,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_16,Kansas City Chiefs,2014
+['Husain Abdullah'],NA,week_17,Kansas City Chiefs,2014
+['Jeff Allen'],Injured Reserve: elbow,week_17,Kansas City Chiefs,2014
+['Donnie Avery'],NA,week_17,Kansas City Chiefs,2014
+['Allen Bailey'],NA,week_17,Kansas City Chiefs,2014
+['Eric Berry'],Out: illness,week_17,Kansas City Chiefs,2014
+['Dwayne Bowe'],Probable: shoulder,week_17,Kansas City Chiefs,2014
+['Tyler Bray'],Injured Reserve: knee,week_17,Kansas City Chiefs,2014
+['Mike Catapano'],Injured Reserve: illness,week_17,Kansas City Chiefs,2014
+['Jamaal Charles'],Probable: hamstring/ankle,week_17,Kansas City Chiefs,2014
+['Dustin Colquitt'],NA,week_17,Kansas City Chiefs,2014
+['Sanders Commings'],Injured Reserve: ankle/fibula,week_17,Kansas City Chiefs,2014
+['Marcus Cooper'],NA,week_17,Kansas City Chiefs,2014
+['Mike DeVito'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2014
+['Anthony Fasano'],Questionable: knee,week_17,Kansas City Chiefs,2014
+['Jamell Fleming'],NA,week_17,Kansas City Chiefs,2014
+['Dee Ford'],NA,week_17,Kansas City Chiefs,2014
+['Jerry Franklin'],NA,week_17,Kansas City Chiefs,2014
+['Zach Fulton'],Questionable: foot/toe,week_17,Kansas City Chiefs,2014
+['Phillip Gaines'],Questionable: illness,week_17,Kansas City Chiefs,2014
+['Cyrus Gray'],Injured Reserve: knee,week_17,Kansas City Chiefs,2014
+['Tamba Hali'],Questionable: knee,week_17,Kansas City Chiefs,2014
+['Frankie Hammond'],NA,week_17,Kansas City Chiefs,2014
+['Demetrius Harris'],Injured Reserve: foot,week_17,Kansas City Chiefs,2014
+['Junior Hemingway'],NA,week_17,Kansas City Chiefs,2014
+['Justin Houston'],NA,week_17,Kansas City Chiefs,2014
+['Jaye Howard'],NA,week_17,Kansas City Chiefs,2014
+['A.J. Jenkins'],Injured Reserve: shoulder,week_17,Kansas City Chiefs,2014
+['Derrick Johnson'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2014
+['James-Michael Johnson'],NA,week_17,Kansas City Chiefs,2014
+['Travis Kelce'],NA,week_17,Kansas City Chiefs,2014
+['Eric Kush'],NA,week_17,Kansas City Chiefs,2014
+['Josh Martin'],Probable: hand,week_17,Kansas City Chiefs,2014
+['Josh Mauga'],NA,week_17,Kansas City Chiefs,2014
+['Joe Mays'],Questionable: knee,week_17,Kansas City Chiefs,2014
+['Mike McGlynn'],NA,week_17,Kansas City Chiefs,2014
+['Joe McKnight'],Injured Reserve: Achilles,week_17,Kansas City Chiefs,2014
+['Chris Owens'],NA,week_17,Kansas City Chiefs,2014
+['Alex Smith'],Out: spleen,week_17,Kansas City Chiefs,2014
+['Sean Smith'],NA,week_17,Kansas City Chiefs,2014
+['Donald Stephenson'],NA,week_17,Kansas City Chiefs,2014
+"[""De'Anthony Thomas""]",NA,week_17,Kansas City Chiefs,2014
+['Kevin Vickerson'],Questionable: calf,week_17,Kansas City Chiefs,2014
+['Vance Walker'],NA,week_17,Kansas City Chiefs,2014
+['Albert Wilson'],NA,week_17,Kansas City Chiefs,2014
+['Frank Zombo'],NA,week_17,Kansas City Chiefs,2014

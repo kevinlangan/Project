@@ -1,0 +1,811 @@
+﻿name,injury,week,team,year
+['Jared Abbrederis'],Injured Reserve: knee,week_1,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_1,Green Bay Packers,2014
+['Davante Adams'],NA,week_1,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_1,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_1,Green Bay Packers,2014
+['Sam Barrington'],NA,week_1,Green Bay Packers,2014
+['Brandon Bostick'],Out: fibula,week_1,Green Bay Packers,2014
+['Josh Boyd'],NA,week_1,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_1,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_1,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_1,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_1,Green Bay Packers,2014
+['Mike Daniels'],NA,week_1,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_1,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_1,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_1,Green Bay Packers,2014
+['Demetri Goodson'],Out: concussion,week_1,Green Bay Packers,2014
+['Letroy Guion'],Questionable: hamstring,week_1,Green Bay Packers,2014
+['Casey Hayward'],NA,week_1,Green Bay Packers,2014
+['Davon House'],NA,week_1,Green Bay Packers,2014
+['Micah Hyde'],NA,week_1,Green Bay Packers,2014
+['Brad Jones'],Questionable: quadriceps,week_1,Green Bay Packers,2014
+['Datone Jones'],NA,week_1,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_1,Green Bay Packers,2014
+['T.J. Lang'],NA,week_1,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_1,Green Bay Packers,2014
+['Clay Matthews'],NA,week_1,Green Bay Packers,2014
+['Andy Mulumba'],NA,week_1,Green Bay Packers,2014
+['Mike Neal'],NA,week_1,Green Bay Packers,2014
+['Rajion Neal'],Injured Reserve: knee,week_1,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_1,Green Bay Packers,2014
+['Nick Perry'],NA,week_1,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_1,Green Bay Packers,2014
+['Sean Richardson'],NA,week_1,Green Bay Packers,2014
+['Luther Robinson'],NA,week_1,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_1,Green Bay Packers,2014
+['Sam Shields'],NA,week_1,Green Bay Packers,2014
+['Josh Sitton'],NA,week_1,Green Bay Packers,2014
+['James Starks'],NA,week_1,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_1,Green Bay Packers,2014
+['Lane Taylor'],NA,week_1,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_1,Green Bay Packers,2014
+['Andrew Tiller'],Injured Reserve: undisclosed,week_1,Green Bay Packers,2014
+['J.C. Tretter'],Out: knee,week_1,Green Bay Packers,2014
+['Tramon Williams'],NA,week_1,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_2,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_2,Green Bay Packers,2014
+['Davante Adams'],NA,week_2,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_2,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_2,Green Bay Packers,2014
+['Sam Barrington'],NA,week_2,Green Bay Packers,2014
+['Brandon Bostick'],Questionable: fibula,week_2,Green Bay Packers,2014
+['Josh Boyd'],NA,week_2,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_2,Green Bay Packers,2014
+['Bryan Bulaga'],Questionable: knee,week_2,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_2,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_2,Green Bay Packers,2014
+['Mike Daniels'],NA,week_2,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_2,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_2,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_2,Green Bay Packers,2014
+['Demetri Goodson'],Probable: concussion,week_2,Green Bay Packers,2014
+['Letroy Guion'],NA,week_2,Green Bay Packers,2014
+['Casey Hayward'],NA,week_2,Green Bay Packers,2014
+['Davon House'],NA,week_2,Green Bay Packers,2014
+['Micah Hyde'],NA,week_2,Green Bay Packers,2014
+['Brad Jones'],Questionable: quadriceps,week_2,Green Bay Packers,2014
+['Datone Jones'],NA,week_2,Green Bay Packers,2014
+['Eddie Lacy'],Probable: concussion,week_2,Green Bay Packers,2014
+['T.J. Lang'],NA,week_2,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_2,Green Bay Packers,2014
+['Clay Matthews'],NA,week_2,Green Bay Packers,2014
+['Andy Mulumba'],NA,week_2,Green Bay Packers,2014
+['Mike Neal'],NA,week_2,Green Bay Packers,2014
+['Rajion Neal'],NA,week_2,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_2,Green Bay Packers,2014
+['Nick Perry'],NA,week_2,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_2,Green Bay Packers,2014
+['Sean Richardson'],NA,week_2,Green Bay Packers,2014
+['Luther Robinson'],NA,week_2,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_2,Green Bay Packers,2014
+['Sam Shields'],NA,week_2,Green Bay Packers,2014
+['Josh Sitton'],NA,week_2,Green Bay Packers,2014
+['James Starks'],NA,week_2,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_2,Green Bay Packers,2014
+['Lane Taylor'],NA,week_2,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_2,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_2,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_2,Green Bay Packers,2014
+['Tramon Williams'],NA,week_2,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_3,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_3,Green Bay Packers,2014
+['Davante Adams'],NA,week_3,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_3,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_3,Green Bay Packers,2014
+['Sam Barrington'],NA,week_3,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_3,Green Bay Packers,2014
+['Josh Boyd'],NA,week_3,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_3,Green Bay Packers,2014
+['Bryan Bulaga'],Questionable: knee,week_3,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_3,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_3,Green Bay Packers,2014
+['Mike Daniels'],NA,week_3,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_3,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_3,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_3,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_3,Green Bay Packers,2014
+['Letroy Guion'],NA,week_3,Green Bay Packers,2014
+['Casey Hayward'],Questionable: glute,week_3,Green Bay Packers,2014
+['Davon House'],NA,week_3,Green Bay Packers,2014
+['Micah Hyde'],Questionable: knee,week_3,Green Bay Packers,2014
+['Brad Jones'],Questionable: quadriceps,week_3,Green Bay Packers,2014
+['Datone Jones'],NA,week_3,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_3,Green Bay Packers,2014
+['T.J. Lang'],NA,week_3,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_3,Green Bay Packers,2014
+['Clay Matthews'],NA,week_3,Green Bay Packers,2014
+['Andy Mulumba'],Out: knee,week_3,Green Bay Packers,2014
+['Mike Neal'],NA,week_3,Green Bay Packers,2014
+['Rajion Neal'],NA,week_3,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_3,Green Bay Packers,2014
+['Nick Perry'],NA,week_3,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_3,Green Bay Packers,2014
+['Sean Richardson'],NA,week_3,Green Bay Packers,2014
+['Luther Robinson'],NA,week_3,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_3,Green Bay Packers,2014
+['Sam Shields'],NA,week_3,Green Bay Packers,2014
+['Josh Sitton'],NA,week_3,Green Bay Packers,2014
+['James Starks'],NA,week_3,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_3,Green Bay Packers,2014
+['Lane Taylor'],NA,week_3,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_3,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_3,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_3,Green Bay Packers,2014
+['Tramon Williams'],NA,week_3,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Davante Adams'],NA,week_4,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_4,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Sam Barrington'],NA,week_4,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_4,Green Bay Packers,2014
+['Josh Boyd'],NA,week_4,Green Bay Packers,2014
+['Jarrett Boykin'],Probable: knee,week_4,Green Bay Packers,2014
+['Bryan Bulaga'],Probable: knee,week_4,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_4,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_4,Green Bay Packers,2014
+['Mike Daniels'],NA,week_4,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_4,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_4,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_4,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_4,Green Bay Packers,2014
+['Letroy Guion'],NA,week_4,Green Bay Packers,2014
+['Casey Hayward'],NA,week_4,Green Bay Packers,2014
+['Davon House'],Probable: knee,week_4,Green Bay Packers,2014
+['Micah Hyde'],NA,week_4,Green Bay Packers,2014
+['Brad Jones'],Questionable: quadriceps,week_4,Green Bay Packers,2014
+['Datone Jones'],NA,week_4,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_4,Green Bay Packers,2014
+['T.J. Lang'],NA,week_4,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_4,Green Bay Packers,2014
+['Clay Matthews'],Questionable: groin,week_4,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Mike Neal'],NA,week_4,Green Bay Packers,2014
+['Rajion Neal'],NA,week_4,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Nick Perry'],Questionable: wrist,week_4,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_4,Green Bay Packers,2014
+['Sean Richardson'],NA,week_4,Green Bay Packers,2014
+['Luther Robinson'],NA,week_4,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_4,Green Bay Packers,2014
+['Sam Shields'],NA,week_4,Green Bay Packers,2014
+['Josh Sitton'],NA,week_4,Green Bay Packers,2014
+['James Starks'],NA,week_4,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_4,Green Bay Packers,2014
+['Lane Taylor'],NA,week_4,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_4,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_4,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_4,Green Bay Packers,2014
+['Tramon Williams'],NA,week_4,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Davante Adams'],NA,week_5,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_5,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Sam Barrington'],Questionable: hamstring,week_5,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_5,Green Bay Packers,2014
+['Josh Boyd'],Questionable: knee,week_5,Green Bay Packers,2014
+['Jarrett Boykin'],Questionable: knee,week_5,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_5,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_5,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_5,Green Bay Packers,2014
+['Mike Daniels'],NA,week_5,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_5,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_5,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_5,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_5,Green Bay Packers,2014
+['Letroy Guion'],NA,week_5,Green Bay Packers,2014
+['Casey Hayward'],NA,week_5,Green Bay Packers,2014
+['Davon House'],NA,week_5,Green Bay Packers,2014
+['Micah Hyde'],NA,week_5,Green Bay Packers,2014
+['Brad Jones'],Questionable: quadriceps,week_5,Green Bay Packers,2014
+['Datone Jones'],NA,week_5,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_5,Green Bay Packers,2014
+['T.J. Lang'],NA,week_5,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_5,Green Bay Packers,2014
+['Clay Matthews'],Questionable: groin,week_5,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Mike Neal'],Probable: hip,week_5,Green Bay Packers,2014
+['Rajion Neal'],NA,week_5,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Nick Perry'],NA,week_5,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_5,Green Bay Packers,2014
+['Sean Richardson'],NA,week_5,Green Bay Packers,2014
+['Luther Robinson'],NA,week_5,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_5,Green Bay Packers,2014
+['Sam Shields'],NA,week_5,Green Bay Packers,2014
+['Josh Sitton'],NA,week_5,Green Bay Packers,2014
+['James Starks'],NA,week_5,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_5,Green Bay Packers,2014
+['Lane Taylor'],NA,week_5,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_5,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_5,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_5,Green Bay Packers,2014
+['Tramon Williams'],NA,week_5,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Davante Adams'],NA,week_6,Green Bay Packers,2014
+['David Bakhtiari'],Questionable: back,week_6,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Sam Barrington'],Questionable: hamstring,week_6,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_6,Green Bay Packers,2014
+['Josh Boyd'],Questionable: knee,week_6,Green Bay Packers,2014
+['Jarrett Boykin'],Out: groin/knee,week_6,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_6,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_6,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_6,Green Bay Packers,2014
+['Mike Daniels'],NA,week_6,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_6,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_6,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_6,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_6,Green Bay Packers,2014
+['Letroy Guion'],NA,week_6,Green Bay Packers,2014
+['Casey Hayward'],NA,week_6,Green Bay Packers,2014
+['Davon House'],NA,week_6,Green Bay Packers,2014
+['Micah Hyde'],NA,week_6,Green Bay Packers,2014
+['Brad Jones'],NA,week_6,Green Bay Packers,2014
+['Datone Jones'],Questionable: ankle,week_6,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_6,Green Bay Packers,2014
+['T.J. Lang'],NA,week_6,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_6,Green Bay Packers,2014
+['Clay Matthews'],NA,week_6,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Mike Neal'],NA,week_6,Green Bay Packers,2014
+['Rajion Neal'],NA,week_6,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Nick Perry'],NA,week_6,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_6,Green Bay Packers,2014
+['Sean Richardson'],NA,week_6,Green Bay Packers,2014
+['Luther Robinson'],NA,week_6,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_6,Green Bay Packers,2014
+['Sam Shields'],NA,week_6,Green Bay Packers,2014
+['Josh Sitton'],NA,week_6,Green Bay Packers,2014
+['James Starks'],NA,week_6,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_6,Green Bay Packers,2014
+['Lane Taylor'],NA,week_6,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_6,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_6,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_6,Green Bay Packers,2014
+['Tramon Williams'],NA,week_6,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Davante Adams'],NA,week_7,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_7,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Sam Barrington'],Probable: hamstring,week_7,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_7,Green Bay Packers,2014
+['Josh Boyd'],Probable: knee,week_7,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_7,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_7,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_7,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_7,Green Bay Packers,2014
+['Mike Daniels'],NA,week_7,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_7,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_7,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_7,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_7,Green Bay Packers,2014
+['Letroy Guion'],NA,week_7,Green Bay Packers,2014
+['Casey Hayward'],NA,week_7,Green Bay Packers,2014
+['Davon House'],NA,week_7,Green Bay Packers,2014
+['Micah Hyde'],NA,week_7,Green Bay Packers,2014
+['Brad Jones'],NA,week_7,Green Bay Packers,2014
+['Datone Jones'],Questionable: ankle,week_7,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_7,Green Bay Packers,2014
+['T.J. Lang'],NA,week_7,Green Bay Packers,2014
+['Jamari Lattimore'],Questionable: neck,week_7,Green Bay Packers,2014
+['Clay Matthews'],NA,week_7,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Mike Neal'],NA,week_7,Green Bay Packers,2014
+['Rajion Neal'],NA,week_7,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Nick Perry'],NA,week_7,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_7,Green Bay Packers,2014
+['Sean Richardson'],NA,week_7,Green Bay Packers,2014
+['Luther Robinson'],NA,week_7,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_7,Green Bay Packers,2014
+['Sam Shields'],Questionable: knee,week_7,Green Bay Packers,2014
+['Josh Sitton'],NA,week_7,Green Bay Packers,2014
+['James Starks'],NA,week_7,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_7,Green Bay Packers,2014
+['Lane Taylor'],NA,week_7,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_7,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_7,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_7,Green Bay Packers,2014
+['Tramon Williams'],Questionable: ankle,week_7,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Davante Adams'],NA,week_8,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_8,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Sam Barrington'],NA,week_8,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_8,Green Bay Packers,2014
+['Josh Boyd'],NA,week_8,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_8,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_8,Green Bay Packers,2014
+['Morgan Burnett'],Questionable: calf,week_8,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_8,Green Bay Packers,2014
+['Mike Daniels'],NA,week_8,Green Bay Packers,2014
+['Kevin Dorsey'],NA,week_8,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_8,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_8,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_8,Green Bay Packers,2014
+['Letroy Guion'],NA,week_8,Green Bay Packers,2014
+['Casey Hayward'],NA,week_8,Green Bay Packers,2014
+['Davon House'],NA,week_8,Green Bay Packers,2014
+['Micah Hyde'],NA,week_8,Green Bay Packers,2014
+['Brad Jones'],NA,week_8,Green Bay Packers,2014
+['Datone Jones'],Questionable: ankle,week_8,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_8,Green Bay Packers,2014
+['T.J. Lang'],NA,week_8,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_8,Green Bay Packers,2014
+['Clay Matthews'],NA,week_8,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Mike Neal'],NA,week_8,Green Bay Packers,2014
+['Rajion Neal'],NA,week_8,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Nick Perry'],NA,week_8,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_8,Green Bay Packers,2014
+['Sean Richardson'],NA,week_8,Green Bay Packers,2014
+['Luther Robinson'],NA,week_8,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_8,Green Bay Packers,2014
+['Sam Shields'],Questionable: knee,week_8,Green Bay Packers,2014
+['Josh Sitton'],NA,week_8,Green Bay Packers,2014
+['James Starks'],Probable: ankle,week_8,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_8,Green Bay Packers,2014
+['Lane Taylor'],NA,week_8,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_8,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_8,Green Bay Packers,2014
+['J.C. Tretter'],Injured Reserve: knee,week_8,Green Bay Packers,2014
+['Tramon Williams'],NA,week_8,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_10,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_10,Green Bay Packers,2014
+['Davante Adams'],NA,week_10,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_10,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_10,Green Bay Packers,2014
+['Sam Barrington'],NA,week_10,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_10,Green Bay Packers,2014
+['Josh Boyd'],NA,week_10,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_10,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_10,Green Bay Packers,2014
+['Morgan Burnett'],Probable: calf,week_10,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_10,Green Bay Packers,2014
+['Mike Daniels'],NA,week_10,Green Bay Packers,2014
+['Kevin Dorsey'],Out: foot,week_10,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_10,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_10,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_10,Green Bay Packers,2014
+['Letroy Guion'],NA,week_10,Green Bay Packers,2014
+['Casey Hayward'],NA,week_10,Green Bay Packers,2014
+['Davon House'],NA,week_10,Green Bay Packers,2014
+['Micah Hyde'],NA,week_10,Green Bay Packers,2014
+['Brad Jones'],NA,week_10,Green Bay Packers,2014
+['Datone Jones'],Probable: ankle,week_10,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_10,Green Bay Packers,2014
+['T.J. Lang'],Doubtful: ankle,week_10,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_10,Green Bay Packers,2014
+['Clay Matthews'],NA,week_10,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_10,Green Bay Packers,2014
+['Mike Neal'],NA,week_10,Green Bay Packers,2014
+['Rajion Neal'],NA,week_10,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_10,Green Bay Packers,2014
+['Nick Perry'],NA,week_10,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_10,Green Bay Packers,2014
+['Sean Richardson'],NA,week_10,Green Bay Packers,2014
+['Luther Robinson'],NA,week_10,Green Bay Packers,2014
+['Aaron Rodgers'],Probable: hamstring,week_10,Green Bay Packers,2014
+['Sam Shields'],Probable: knee,week_10,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_10,Green Bay Packers,2014
+['James Starks'],NA,week_10,Green Bay Packers,2014
+['Jake Stoneburner'],Injured Reserve: undisclosed,week_10,Green Bay Packers,2014
+['Lane Taylor'],NA,week_10,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_10,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_10,Green Bay Packers,2014
+['J.C. Tretter'],Probable: knee,week_10,Green Bay Packers,2014
+['Tramon Williams'],NA,week_10,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_11,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_11,Green Bay Packers,2014
+['Davante Adams'],NA,week_11,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_11,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_11,Green Bay Packers,2014
+['Sam Barrington'],NA,week_11,Green Bay Packers,2014
+['Brandon Bostick'],Doubtful: hip,week_11,Green Bay Packers,2014
+['Josh Boyd'],NA,week_11,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_11,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_11,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_11,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_11,Green Bay Packers,2014
+['Mike Daniels'],NA,week_11,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_11,Green Bay Packers,2014
+['Jayrone Elliott'],Questionable: hamstring,week_11,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_11,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_11,Green Bay Packers,2014
+['Letroy Guion'],NA,week_11,Green Bay Packers,2014
+['Casey Hayward'],NA,week_11,Green Bay Packers,2014
+['Davon House'],NA,week_11,Green Bay Packers,2014
+['Micah Hyde'],NA,week_11,Green Bay Packers,2014
+['Brad Jones'],NA,week_11,Green Bay Packers,2014
+['Datone Jones'],NA,week_11,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_11,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_11,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_11,Green Bay Packers,2014
+['Clay Matthews'],NA,week_11,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_11,Green Bay Packers,2014
+['Mike Neal'],NA,week_11,Green Bay Packers,2014
+['Rajion Neal'],NA,week_11,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_11,Green Bay Packers,2014
+['Nick Perry'],NA,week_11,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_11,Green Bay Packers,2014
+['Sean Richardson'],NA,week_11,Green Bay Packers,2014
+['Luther Robinson'],NA,week_11,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_11,Green Bay Packers,2014
+['Sam Shields'],NA,week_11,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_11,Green Bay Packers,2014
+['James Starks'],NA,week_11,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_11,Green Bay Packers,2014
+['Lane Taylor'],NA,week_11,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_11,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_11,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_11,Green Bay Packers,2014
+['Tramon Williams'],NA,week_11,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_12,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_12,Green Bay Packers,2014
+['Davante Adams'],NA,week_12,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_12,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_12,Green Bay Packers,2014
+['Sam Barrington'],NA,week_12,Green Bay Packers,2014
+['Brandon Bostick'],Questionable: hip,week_12,Green Bay Packers,2014
+['Josh Boyd'],NA,week_12,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_12,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_12,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_12,Green Bay Packers,2014
+['Jarrett Bush'],Questionable: groin,week_12,Green Bay Packers,2014
+['Mike Daniels'],NA,week_12,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_12,Green Bay Packers,2014
+['Jayrone Elliott'],Questionable: hamstring,week_12,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_12,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_12,Green Bay Packers,2014
+['Letroy Guion'],NA,week_12,Green Bay Packers,2014
+['Casey Hayward'],NA,week_12,Green Bay Packers,2014
+['Davon House'],NA,week_12,Green Bay Packers,2014
+['Micah Hyde'],NA,week_12,Green Bay Packers,2014
+['Brad Jones'],NA,week_12,Green Bay Packers,2014
+['Datone Jones'],Questionable: ankle,week_12,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_12,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_12,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_12,Green Bay Packers,2014
+['Clay Matthews'],Probable: groin,week_12,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_12,Green Bay Packers,2014
+['Mike Neal'],NA,week_12,Green Bay Packers,2014
+['Rajion Neal'],NA,week_12,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_12,Green Bay Packers,2014
+['Nick Perry'],Questionable: shoulder,week_12,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_12,Green Bay Packers,2014
+['Sean Richardson'],NA,week_12,Green Bay Packers,2014
+['Luther Robinson'],NA,week_12,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_12,Green Bay Packers,2014
+['Sam Shields'],NA,week_12,Green Bay Packers,2014
+['Josh Sitton'],Probable: toe,week_12,Green Bay Packers,2014
+['James Starks'],NA,week_12,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_12,Green Bay Packers,2014
+['Lane Taylor'],NA,week_12,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_12,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_12,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_12,Green Bay Packers,2014
+['Tramon Williams'],NA,week_12,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_13,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_13,Green Bay Packers,2014
+['Davante Adams'],Questionable: heel,week_13,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_13,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_13,Green Bay Packers,2014
+['Sam Barrington'],NA,week_13,Green Bay Packers,2014
+['Brandon Bostick'],Probable: hip,week_13,Green Bay Packers,2014
+['Josh Boyd'],NA,week_13,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_13,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_13,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_13,Green Bay Packers,2014
+['Jarrett Bush'],Questionable: groin,week_13,Green Bay Packers,2014
+['Mike Daniels'],NA,week_13,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_13,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_13,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_13,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_13,Green Bay Packers,2014
+['Letroy Guion'],NA,week_13,Green Bay Packers,2014
+['Casey Hayward'],NA,week_13,Green Bay Packers,2014
+['Davon House'],NA,week_13,Green Bay Packers,2014
+['Micah Hyde'],NA,week_13,Green Bay Packers,2014
+['Brad Jones'],NA,week_13,Green Bay Packers,2014
+['Datone Jones'],NA,week_13,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_13,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_13,Green Bay Packers,2014
+['Jamari Lattimore'],NA,week_13,Green Bay Packers,2014
+['Clay Matthews'],NA,week_13,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_13,Green Bay Packers,2014
+['Mike Neal'],NA,week_13,Green Bay Packers,2014
+['Rajion Neal'],NA,week_13,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_13,Green Bay Packers,2014
+['Nick Perry'],Questionable: shoulder,week_13,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_13,Green Bay Packers,2014
+['Sean Richardson'],NA,week_13,Green Bay Packers,2014
+['Luther Robinson'],NA,week_13,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_13,Green Bay Packers,2014
+['Sam Shields'],Questionable: head,week_13,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_13,Green Bay Packers,2014
+['James Starks'],NA,week_13,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_13,Green Bay Packers,2014
+['Lane Taylor'],NA,week_13,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_13,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_13,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_13,Green Bay Packers,2014
+['Tramon Williams'],NA,week_13,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_14,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_14,Green Bay Packers,2014
+['Davante Adams'],NA,week_14,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_14,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_14,Green Bay Packers,2014
+['Sam Barrington'],NA,week_14,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_14,Green Bay Packers,2014
+['Josh Boyd'],Questionable: knee,week_14,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_14,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_14,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_14,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_14,Green Bay Packers,2014
+['Mike Daniels'],Questionable: back,week_14,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_14,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_14,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_14,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_14,Green Bay Packers,2014
+['Letroy Guion'],NA,week_14,Green Bay Packers,2014
+['Casey Hayward'],NA,week_14,Green Bay Packers,2014
+['Davon House'],NA,week_14,Green Bay Packers,2014
+['Micah Hyde'],NA,week_14,Green Bay Packers,2014
+['Brad Jones'],NA,week_14,Green Bay Packers,2014
+['Datone Jones'],NA,week_14,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_14,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_14,Green Bay Packers,2014
+['Jamari Lattimore'],Questionable: ankle,week_14,Green Bay Packers,2014
+['Clay Matthews'],NA,week_14,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_14,Green Bay Packers,2014
+['Mike Neal'],NA,week_14,Green Bay Packers,2014
+['Rajion Neal'],NA,week_14,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_14,Green Bay Packers,2014
+['Nick Perry'],Questionable: shoulder,week_14,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_14,Green Bay Packers,2014
+['Sean Richardson'],NA,week_14,Green Bay Packers,2014
+['Luther Robinson'],Out: calf,week_14,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_14,Green Bay Packers,2014
+['Sam Shields'],Questionable: concussion,week_14,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_14,Green Bay Packers,2014
+['James Starks'],NA,week_14,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_14,Green Bay Packers,2014
+['Lane Taylor'],Probable: illness,week_14,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_14,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_14,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_14,Green Bay Packers,2014
+['Tramon Williams'],NA,week_14,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_15,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_15,Green Bay Packers,2014
+['Davante Adams'],NA,week_15,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_15,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_15,Green Bay Packers,2014
+['Sam Barrington'],NA,week_15,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_15,Green Bay Packers,2014
+['Josh Boyd'],NA,week_15,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_15,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_15,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_15,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_15,Green Bay Packers,2014
+['Mike Daniels'],NA,week_15,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_15,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_15,Green Bay Packers,2014
+['Bruce Gaston'],Questionable: illness,week_15,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_15,Green Bay Packers,2014
+['Letroy Guion'],NA,week_15,Green Bay Packers,2014
+['Casey Hayward'],NA,week_15,Green Bay Packers,2014
+['Davon House'],Questionable: shoulder,week_15,Green Bay Packers,2014
+['Micah Hyde'],NA,week_15,Green Bay Packers,2014
+['Brad Jones'],NA,week_15,Green Bay Packers,2014
+['Datone Jones'],NA,week_15,Green Bay Packers,2014
+['Eddie Lacy'],Questionable: hip,week_15,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_15,Green Bay Packers,2014
+['Jamari Lattimore'],Questionable: ankle,week_15,Green Bay Packers,2014
+['Clay Matthews'],NA,week_15,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_15,Green Bay Packers,2014
+['Mike Neal'],NA,week_15,Green Bay Packers,2014
+['Rajion Neal'],NA,week_15,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_15,Green Bay Packers,2014
+['Nick Perry'],Probable: shoulder,week_15,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_15,Green Bay Packers,2014
+['Sean Richardson'],NA,week_15,Green Bay Packers,2014
+['Luther Robinson'],Injured Reserve: calf,week_15,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_15,Green Bay Packers,2014
+['Sam Shields'],NA,week_15,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_15,Green Bay Packers,2014
+['James Starks'],NA,week_15,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_15,Green Bay Packers,2014
+['Lane Taylor'],NA,week_15,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_15,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_15,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_15,Green Bay Packers,2014
+['Tramon Williams'],NA,week_15,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_16,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_16,Green Bay Packers,2014
+['Davante Adams'],NA,week_16,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_16,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_16,Green Bay Packers,2014
+['Sam Barrington'],NA,week_16,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_16,Green Bay Packers,2014
+['Josh Boyd'],NA,week_16,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_16,Green Bay Packers,2014
+['Bryan Bulaga'],Doubtful: concussion,week_16,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_16,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_16,Green Bay Packers,2014
+['Mike Daniels'],NA,week_16,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_16,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_16,Green Bay Packers,2014
+['Bruce Gaston'],Questionable: illness,week_16,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_16,Green Bay Packers,2014
+['Letroy Guion'],NA,week_16,Green Bay Packers,2014
+['Casey Hayward'],NA,week_16,Green Bay Packers,2014
+['Davon House'],Doubtful: shoulder,week_16,Green Bay Packers,2014
+['Micah Hyde'],NA,week_16,Green Bay Packers,2014
+['Brad Jones'],NA,week_16,Green Bay Packers,2014
+['Datone Jones'],NA,week_16,Green Bay Packers,2014
+['Eddie Lacy'],Probable: eye,week_16,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_16,Green Bay Packers,2014
+['Jamari Lattimore'],Injured Reserve: ankle,week_16,Green Bay Packers,2014
+['Clay Matthews'],Probable: biceps,week_16,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_16,Green Bay Packers,2014
+['Mike Neal'],Questionable: abdomen,week_16,Green Bay Packers,2014
+['Rajion Neal'],NA,week_16,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_16,Green Bay Packers,2014
+['Nick Perry'],Questionable: shoulder,week_16,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_16,Green Bay Packers,2014
+['Sean Richardson'],NA,week_16,Green Bay Packers,2014
+['Luther Robinson'],Injured Reserve: calf,week_16,Green Bay Packers,2014
+['Aaron Rodgers'],NA,week_16,Green Bay Packers,2014
+['Sam Shields'],NA,week_16,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_16,Green Bay Packers,2014
+['James Starks'],NA,week_16,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_16,Green Bay Packers,2014
+['Lane Taylor'],NA,week_16,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_16,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_16,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_16,Green Bay Packers,2014
+['Tramon Williams'],NA,week_16,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_17,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_17,Green Bay Packers,2014
+['Davante Adams'],NA,week_17,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_17,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_17,Green Bay Packers,2014
+['Sam Barrington'],NA,week_17,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_17,Green Bay Packers,2014
+['Josh Boyd'],NA,week_17,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_17,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_17,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_17,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_17,Green Bay Packers,2014
+['Mike Daniels'],NA,week_17,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_17,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_17,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_17,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_17,Green Bay Packers,2014
+['Letroy Guion'],NA,week_17,Green Bay Packers,2014
+['Casey Hayward'],NA,week_17,Green Bay Packers,2014
+['Davon House'],Questionable: shoulder,week_17,Green Bay Packers,2014
+['Micah Hyde'],NA,week_17,Green Bay Packers,2014
+['Brad Jones'],NA,week_17,Green Bay Packers,2014
+['Datone Jones'],NA,week_17,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_17,Green Bay Packers,2014
+['T.J. Lang'],Questionable: ankle,week_17,Green Bay Packers,2014
+['Jamari Lattimore'],Injured Reserve: ankle,week_17,Green Bay Packers,2014
+['Clay Matthews'],Questionable: biceps,week_17,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_17,Green Bay Packers,2014
+['Mike Neal'],Questionable: abdomen,week_17,Green Bay Packers,2014
+['Rajion Neal'],NA,week_17,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_17,Green Bay Packers,2014
+['Nick Perry'],NA,week_17,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_17,Green Bay Packers,2014
+['Sean Richardson'],NA,week_17,Green Bay Packers,2014
+['Luther Robinson'],Injured Reserve: calf,week_17,Green Bay Packers,2014
+['Aaron Rodgers'],Probable: calf,week_17,Green Bay Packers,2014
+['Sam Shields'],NA,week_17,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_17,Green Bay Packers,2014
+['James Starks'],NA,week_17,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_17,Green Bay Packers,2014
+['Lane Taylor'],NA,week_17,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_17,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_17,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_17,Green Bay Packers,2014
+['Tramon Williams'],NA,week_17,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_19,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_19,Green Bay Packers,2014
+['Davante Adams'],NA,week_19,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_19,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_19,Green Bay Packers,2014
+['Sam Barrington'],NA,week_19,Green Bay Packers,2014
+['Brandon Bostick'],Probable: illness,week_19,Green Bay Packers,2014
+['Josh Boyd'],Questionable: knee,week_19,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_19,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_19,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_19,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_19,Green Bay Packers,2014
+['Mike Daniels'],NA,week_19,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_19,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_19,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_19,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_19,Green Bay Packers,2014
+['Letroy Guion'],NA,week_19,Green Bay Packers,2014
+['Casey Hayward'],NA,week_19,Green Bay Packers,2014
+['Davon House'],Questionable: shoulder,week_19,Green Bay Packers,2014
+['Micah Hyde'],NA,week_19,Green Bay Packers,2014
+['Brad Jones'],NA,week_19,Green Bay Packers,2014
+['Datone Jones'],NA,week_19,Green Bay Packers,2014
+['Eddie Lacy'],NA,week_19,Green Bay Packers,2014
+['T.J. Lang'],NA,week_19,Green Bay Packers,2014
+['Jamari Lattimore'],Injured Reserve: ankle,week_19,Green Bay Packers,2014
+['Clay Matthews'],NA,week_19,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_19,Green Bay Packers,2014
+['Mike Neal'],NA,week_19,Green Bay Packers,2014
+['Rajion Neal'],NA,week_19,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_19,Green Bay Packers,2014
+['Nick Perry'],NA,week_19,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_19,Green Bay Packers,2014
+['Sean Richardson'],Questionable: knee,week_19,Green Bay Packers,2014
+['Luther Robinson'],Injured Reserve: calf,week_19,Green Bay Packers,2014
+['Aaron Rodgers'],Probable: calf,week_19,Green Bay Packers,2014
+['Sam Shields'],NA,week_19,Green Bay Packers,2014
+['Josh Sitton'],Questionable: toe,week_19,Green Bay Packers,2014
+['James Starks'],NA,week_19,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_19,Green Bay Packers,2014
+['Lane Taylor'],NA,week_19,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_19,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_19,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_19,Green Bay Packers,2014
+['Tramon Williams'],NA,week_19,Green Bay Packers,2014
+['Jared Abbrederis'],Injured Reserve: knee,week_20,Green Bay Packers,2014
+['Aaron Adams'],Injured Reserve: knee,week_20,Green Bay Packers,2014
+['Davante Adams'],NA,week_20,Green Bay Packers,2014
+['David Bakhtiari'],NA,week_20,Green Bay Packers,2014
+['Don Barclay'],Injured Reserve: knee,week_20,Green Bay Packers,2014
+['Sam Barrington'],NA,week_20,Green Bay Packers,2014
+['Brandon Bostick'],NA,week_20,Green Bay Packers,2014
+['Josh Boyd'],Questionable: ankle,week_20,Green Bay Packers,2014
+['Jarrett Boykin'],NA,week_20,Green Bay Packers,2014
+['Bryan Bulaga'],NA,week_20,Green Bay Packers,2014
+['Morgan Burnett'],NA,week_20,Green Bay Packers,2014
+['Jarrett Bush'],NA,week_20,Green Bay Packers,2014
+['Mike Daniels'],NA,week_20,Green Bay Packers,2014
+['Kevin Dorsey'],Injured Reserve: foot,week_20,Green Bay Packers,2014
+['Jayrone Elliott'],NA,week_20,Green Bay Packers,2014
+['Bruce Gaston'],NA,week_20,Green Bay Packers,2014
+['Demetri Goodson'],NA,week_20,Green Bay Packers,2014
+['Letroy Guion'],NA,week_20,Green Bay Packers,2014
+['Casey Hayward'],NA,week_20,Green Bay Packers,2014
+['Davon House'],NA,week_20,Green Bay Packers,2014
+['Micah Hyde'],NA,week_20,Green Bay Packers,2014
+['Brad Jones'],NA,week_20,Green Bay Packers,2014
+['Datone Jones'],NA,week_20,Green Bay Packers,2014
+['Eddie Lacy'],Probable: knee,week_20,Green Bay Packers,2014
+['T.J. Lang'],NA,week_20,Green Bay Packers,2014
+['Jamari Lattimore'],Injured Reserve: ankle,week_20,Green Bay Packers,2014
+['Clay Matthews'],NA,week_20,Green Bay Packers,2014
+['Andy Mulumba'],Injured Reserve: knee,week_20,Green Bay Packers,2014
+['Mike Neal'],NA,week_20,Green Bay Packers,2014
+['Rajion Neal'],NA,week_20,Green Bay Packers,2014
+['Nate Palmer'],Injured Reserve: knee,week_20,Green Bay Packers,2014
+['Nick Perry'],NA,week_20,Green Bay Packers,2014
+['B.J. Raji'],Injured Reserve: biceps,week_20,Green Bay Packers,2014
+['Sean Richardson'],NA,week_20,Green Bay Packers,2014
+['Luther Robinson'],Injured Reserve: calf,week_20,Green Bay Packers,2014
+['Aaron Rodgers'],Probable: calf,week_20,Green Bay Packers,2014
+['Sam Shields'],NA,week_20,Green Bay Packers,2014
+['Josh Sitton'],Probable: toe,week_20,Green Bay Packers,2014
+['James Starks'],NA,week_20,Green Bay Packers,2014
+['Jake Stoneburner'],NA,week_20,Green Bay Packers,2014
+['Lane Taylor'],NA,week_20,Green Bay Packers,2014
+['Khyri Thornton'],Injured Reserve: hamstring,week_20,Green Bay Packers,2014
+['Andrew Tiller'],NA,week_20,Green Bay Packers,2014
+['J.C. Tretter'],NA,week_20,Green Bay Packers,2014
+['Tramon Williams'],NA,week_20,Green Bay Packers,2014

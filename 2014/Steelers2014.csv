@@ -1,0 +1,630 @@
+﻿name,injury,week,team,year
+['Mike Adams'],NA,week_1,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_1,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_1,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_1,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",Probable: disciplinary,week_1,Pittsburgh Steelers,2014
+['LeGarrette Blount'],Probable: disciplinary,week_1,Pittsburgh Steelers,2014
+['Martavis Bryant'],Questionable: shoulder,week_1,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_1,Pittsburgh Steelers,2014
+['William Gay'],NA,week_1,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_1,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_1,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_1,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_1,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_1,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_1,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_1,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_1,Pittsburgh Steelers,2014
+['Brice McCain'],Questionable: groin,week_1,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_1,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_1,Pittsburgh Steelers,2014
+['Lance Moore'],Questionable: groin,week_1,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_1,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_1,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_1,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_1,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_1,Pittsburgh Steelers,2014
+['Matt Spaeth'],Probable: hamstring,week_1,Pittsburgh Steelers,2014
+['Sean Spence'],Probable: knee,week_1,Pittsburgh Steelers,2014
+['Ike Taylor'],NA,week_1,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_1,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_1,Pittsburgh Steelers,2014
+['Cody Wallace'],Questionable: finger,week_1,Pittsburgh Steelers,2014
+['Greg Warren'],Probable: knee,week_1,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_1,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_1,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_1,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_1,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_2,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_2,Pittsburgh Steelers,2014
+['Dri Archer'],Questionable: knee/ankle,week_2,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_2,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_2,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_2,Pittsburgh Steelers,2014
+['Martavis Bryant'],Questionable: shoulder,week_2,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_2,Pittsburgh Steelers,2014
+['William Gay'],NA,week_2,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_2,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_2,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_2,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_2,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_2,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_2,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_2,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_2,Pittsburgh Steelers,2014
+['Brice McCain'],Questionable: groin,week_2,Pittsburgh Steelers,2014
+['Steve McLendon'],Probable: stinger,week_2,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_2,Pittsburgh Steelers,2014
+['Lance Moore'],Questionable: groin,week_2,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_2,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_2,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_2,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_2,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_2,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_2,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_2,Pittsburgh Steelers,2014
+['Ike Taylor'],NA,week_2,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: Achilles/ankle,week_2,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_2,Pittsburgh Steelers,2014
+['Cody Wallace'],Questionable: finger,week_2,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_2,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_2,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_2,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_2,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_2,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_3,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_3,Pittsburgh Steelers,2014
+['Dri Archer'],Questionable: knee/ankle,week_3,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_3,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_3,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_3,Pittsburgh Steelers,2014
+['Martavis Bryant'],Probable: shoulder,week_3,Pittsburgh Steelers,2014
+['Ramon Foster'],Questionable: ankle,week_3,Pittsburgh Steelers,2014
+['William Gay'],NA,week_3,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_3,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_3,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_3,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_3,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_3,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_3,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_3,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_3,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_3,Pittsburgh Steelers,2014
+['Steve McLendon'],Probable: shoulder,week_3,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_3,Pittsburgh Steelers,2014
+['Lance Moore'],Probable: groin,week_3,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_3,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_3,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_3,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_3,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_3,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_3,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_3,Pittsburgh Steelers,2014
+['Ike Taylor'],NA,week_3,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_3,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_3,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_3,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_3,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_3,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_3,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_3,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_3,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_4,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_4,Pittsburgh Steelers,2014
+['Dri Archer'],Probable: knee/ankle,week_4,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_4,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_4,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_4,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_4,Pittsburgh Steelers,2014
+['Ramon Foster'],Probable: ankle,week_4,Pittsburgh Steelers,2014
+['William Gay'],NA,week_4,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_4,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_4,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_4,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],Probable: illness,week_4,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_4,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_4,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_4,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_4,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_4,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_4,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_4,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_4,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_4,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_4,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_4,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_4,Pittsburgh Steelers,2014
+['Ryan Shazier'],Out: knee,week_4,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_4,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_4,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_4,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_4,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_4,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_4,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_4,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_4,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_4,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_4,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_4,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_5,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_5,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_5,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_5,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_5,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_5,Pittsburgh Steelers,2014
+['Martavis Bryant'],Questionable: illness,week_5,Pittsburgh Steelers,2014
+['Ramon Foster'],Probable: ankle,week_5,Pittsburgh Steelers,2014
+['William Gay'],NA,week_5,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Questionable: ankle,week_5,Pittsburgh Steelers,2014
+['James Harrison'],Questionable: illness,week_5,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_5,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_5,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_5,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_5,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_5,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_5,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_5,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_5,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_5,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_5,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_5,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_5,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_5,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_5,Pittsburgh Steelers,2014
+['Ryan Shazier'],Out: knee,week_5,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_5,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_5,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_5,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_5,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_5,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_5,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_5,Pittsburgh Steelers,2014
+['Markus Wheaton'],Questionable: groin,week_5,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_5,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_5,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_5,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_6,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_6,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_6,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_6,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_6,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_6,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_6,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_6,Pittsburgh Steelers,2014
+['William Gay'],NA,week_6,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_6,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_6,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_6,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_6,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_6,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_6,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_6,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_6,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_6,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_6,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_6,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_6,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_6,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_6,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_6,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_6,Pittsburgh Steelers,2014
+['Ryan Shazier'],Questionable: knee,week_6,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_6,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_6,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_6,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: hamstring,week_6,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_6,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_6,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_6,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_6,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_6,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_6,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_6,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_7,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_7,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_7,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_7,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_7,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_7,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_7,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_7,Pittsburgh Steelers,2014
+['William Gay'],NA,week_7,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_7,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_7,Pittsburgh Steelers,2014
+['Cameron Heyward'],Probable: ankle,week_7,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_7,Pittsburgh Steelers,2014
+['Will Johnson'],Questionable: illness,week_7,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_7,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_7,Pittsburgh Steelers,2014
+['Brett Keisel'],Questionable: knee,week_7,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_7,Pittsburgh Steelers,2014
+['Steve McLendon'],Out: shoulder,week_7,Pittsburgh Steelers,2014
+['Mike Mitchell'],Questionable: knee,week_7,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_7,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_7,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_7,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_7,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_7,Pittsburgh Steelers,2014
+['Ryan Shazier'],Questionable: knee,week_7,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_7,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_7,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_7,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: hamstring,week_7,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_7,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_7,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_7,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_7,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_7,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_7,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_7,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_8,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_8,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_8,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_8,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_8,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_8,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_8,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_8,Pittsburgh Steelers,2014
+['William Gay'],NA,week_8,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Questionable: concussion,week_8,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_8,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_8,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_8,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_8,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_8,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_8,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_8,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_8,Pittsburgh Steelers,2014
+['Steve McLendon'],Questionable: shoulder,week_8,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_8,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_8,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_8,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_8,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_8,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_8,Pittsburgh Steelers,2014
+['Ryan Shazier'],Probable: knee,week_8,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_8,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_8,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_8,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: hamstring,week_8,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_8,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_8,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_8,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_8,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_8,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_8,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_8,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_9,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_9,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_9,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_9,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_9,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_9,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_9,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_9,Pittsburgh Steelers,2014
+['William Gay'],NA,week_9,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Questionable: concussion,week_9,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_9,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_9,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_9,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_9,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_9,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_9,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_9,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_9,Pittsburgh Steelers,2014
+['Steve McLendon'],Questionable: shoulder,week_9,Pittsburgh Steelers,2014
+['Mike Mitchell'],Questionable: groin,week_9,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_9,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_9,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_9,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_9,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_9,Pittsburgh Steelers,2014
+['Ryan Shazier'],Probable: knee,week_9,Pittsburgh Steelers,2014
+['Matt Spaeth'],Questionable: hamstring,week_9,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_9,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_9,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: hamstring,week_9,Pittsburgh Steelers,2014
+['Ross Ventrone'],Questionable: hamstring,week_9,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_9,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_9,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_9,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_9,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_9,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_9,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_10,Pittsburgh Steelers,2014
+['Cortez Allen'],NA,week_10,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_10,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_10,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_10,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_10,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_10,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_10,Pittsburgh Steelers,2014
+['William Gay'],NA,week_10,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_10,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_10,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_10,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],Probable: hamstring,week_10,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_10,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_10,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_10,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_10,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_10,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_10,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_10,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_10,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_10,Pittsburgh Steelers,2014
+['Troy Polamalu'],Out: knee,week_10,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_10,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_10,Pittsburgh Steelers,2014
+['Ryan Shazier'],Out: ankle,week_10,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_10,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_10,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_10,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Questionable: hamstring,week_10,Pittsburgh Steelers,2014
+['Ross Ventrone'],Questionable: hamstring,week_10,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_10,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_10,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_10,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_10,Pittsburgh Steelers,2014
+['Jason Worilds'],Questionable: abdomen,week_10,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_10,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_11,Pittsburgh Steelers,2014
+['Cortez Allen'],Questionable: thumb,week_11,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_11,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_11,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_11,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_11,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_11,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_11,Pittsburgh Steelers,2014
+['William Gay'],NA,week_11,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_11,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_11,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_11,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_11,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_11,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_11,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_11,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_11,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_11,Pittsburgh Steelers,2014
+['Steve McLendon'],Out: shoulder,week_11,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_11,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_11,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_11,Pittsburgh Steelers,2014
+['Troy Polamalu'],Out: knee,week_11,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_11,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_11,Pittsburgh Steelers,2014
+['Ryan Shazier'],Out: ankle,week_11,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_11,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_11,Pittsburgh Steelers,2014
+['Ike Taylor'],Out: arm,week_11,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Doubtful: hamstring,week_11,Pittsburgh Steelers,2014
+['Ross Ventrone'],Probable: hamstring,week_11,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_11,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_11,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_11,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_11,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_11,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_11,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_13,Pittsburgh Steelers,2014
+['Cortez Allen'],Probable: thumb,week_13,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_13,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_13,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_13,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_13,Pittsburgh Steelers,2014
+['Martavis Bryant'],Probable: illness,week_13,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_13,Pittsburgh Steelers,2014
+['William Gay'],NA,week_13,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Questionable: ankle,week_13,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_13,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_13,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_13,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_13,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_13,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_13,Pittsburgh Steelers,2014
+['Brett Keisel'],NA,week_13,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_13,Pittsburgh Steelers,2014
+['Steve McLendon'],Questionable: shoulder,week_13,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_13,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_13,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_13,Pittsburgh Steelers,2014
+['Troy Polamalu'],Probable: knee,week_13,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_13,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_13,Pittsburgh Steelers,2014
+['Ryan Shazier'],Probable: ankle,week_13,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_13,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_13,Pittsburgh Steelers,2014
+['Ike Taylor'],Probable: arm,week_13,Pittsburgh Steelers,2014
+['Shamarko Thomas'],Probable: hamstring,week_13,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_13,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_13,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_13,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_13,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_13,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_13,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_13,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_14,Pittsburgh Steelers,2014
+['Cortez Allen'],Questionable: thumb,week_14,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_14,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_14,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_14,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_14,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_14,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_14,Pittsburgh Steelers,2014
+['William Gay'],NA,week_14,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Questionable: ankle,week_14,Pittsburgh Steelers,2014
+['James Harrison'],Questionable: knee,week_14,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_14,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_14,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_14,Pittsburgh Steelers,2014
+['Jarvis Jones'],Injured Reserve: wrist,week_14,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_14,Pittsburgh Steelers,2014
+['Brett Keisel'],Injured Reserve: tricep,week_14,Pittsburgh Steelers,2014
+['Brice McCain'],Questionable: hamstring,week_14,Pittsburgh Steelers,2014
+['Steve McLendon'],Questionable: shoulder,week_14,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_14,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_14,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_14,Pittsburgh Steelers,2014
+['Troy Polamalu'],Questionable: illness,week_14,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_14,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],Probable: wrist,week_14,Pittsburgh Steelers,2014
+['Ryan Shazier'],Probable: ankle,week_14,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_14,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_14,Pittsburgh Steelers,2014
+['Ike Taylor'],Probable: shoulder,week_14,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_14,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_14,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_14,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_14,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_14,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_14,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_14,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_14,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_15,Pittsburgh Steelers,2014
+['Cortez Allen'],Injured Reserve: thumb,week_15,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_15,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_15,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_15,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_15,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_15,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_15,Pittsburgh Steelers,2014
+['William Gay'],Probable: quadriceps,week_15,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Probable: ankle,week_15,Pittsburgh Steelers,2014
+['James Harrison'],Questionable: knee,week_15,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_15,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_15,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_15,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_15,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_15,Pittsburgh Steelers,2014
+['Brett Keisel'],Injured Reserve: tricep,week_15,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_15,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_15,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_15,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_15,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_15,Pittsburgh Steelers,2014
+['Troy Polamalu'],NA,week_15,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],Probable: ankle,week_15,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_15,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_15,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_15,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_15,Pittsburgh Steelers,2014
+['Ike Taylor'],Questionable: shoulder/forearm,week_15,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_15,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_15,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_15,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_15,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_15,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_15,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_15,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_15,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_16,Pittsburgh Steelers,2014
+['Cortez Allen'],Injured Reserve: thumb,week_16,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_16,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_16,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_16,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_16,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_16,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_16,Pittsburgh Steelers,2014
+['William Gay'],NA,week_16,Pittsburgh Steelers,2014
+['Marcus Gilbert'],Probable: ankle,week_16,Pittsburgh Steelers,2014
+['James Harrison'],Probable: knee,week_16,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_16,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_16,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_16,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_16,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_16,Pittsburgh Steelers,2014
+['Brett Keisel'],Injured Reserve: tricep,week_16,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_16,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_16,Pittsburgh Steelers,2014
+['Mike Mitchell'],Probable: groin,week_16,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_16,Pittsburgh Steelers,2014
+['Michael Palmer'],NA,week_16,Pittsburgh Steelers,2014
+['Troy Polamalu'],Questionable: knee,week_16,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],Probable: ankle,week_16,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_16,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_16,Pittsburgh Steelers,2014
+['Matt Spaeth'],Questionable: elbow,week_16,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_16,Pittsburgh Steelers,2014
+['Ike Taylor'],Questionable: shoulder/forearm,week_16,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_16,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_16,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_16,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_16,Pittsburgh Steelers,2014
+['Markus Wheaton'],Probable: illness,week_16,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_16,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_16,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_16,Pittsburgh Steelers,2014
+['Mike Adams'],NA,week_17,Pittsburgh Steelers,2014
+['Cortez Allen'],Injured Reserve: thumb,week_17,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_17,Pittsburgh Steelers,2014
+['Kelvin Beachum'],Probable: back,week_17,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",NA,week_17,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_17,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_17,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_17,Pittsburgh Steelers,2014
+['William Gay'],NA,week_17,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_17,Pittsburgh Steelers,2014
+['James Harrison'],NA,week_17,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_17,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_17,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_17,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_17,Pittsburgh Steelers,2014
+['Landry Jones'],NA,week_17,Pittsburgh Steelers,2014
+['Brett Keisel'],Injured Reserve: tricep,week_17,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_17,Pittsburgh Steelers,2014
+['Steve McLendon'],NA,week_17,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_17,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_17,Pittsburgh Steelers,2014
+['Michael Palmer'],Questionable: groin,week_17,Pittsburgh Steelers,2014
+['Troy Polamalu'],Questionable: knee,week_17,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_17,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_17,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_17,Pittsburgh Steelers,2014
+['Matt Spaeth'],Probable: elbow,week_17,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_17,Pittsburgh Steelers,2014
+['Ike Taylor'],Questionable: shoulder/forearm,week_17,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_17,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_17,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_17,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_17,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_17,Pittsburgh Steelers,2014
+['Vince Williams'],Probable: ankle,week_17,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_17,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_17,Pittsburgh Steelers,2014
+['Mike Adams'],Questionable: illness,week_18,Pittsburgh Steelers,2014
+['Cortez Allen'],Injured Reserve: thumb,week_18,Pittsburgh Steelers,2014
+['Dri Archer'],NA,week_18,Pittsburgh Steelers,2014
+['Kelvin Beachum'],NA,week_18,Pittsburgh Steelers,2014
+"[""Le'Veon Bell""]",Doubtful: knee,week_18,Pittsburgh Steelers,2014
+['LeGarrette Blount'],NA,week_18,Pittsburgh Steelers,2014
+['Martavis Bryant'],NA,week_18,Pittsburgh Steelers,2014
+['Ramon Foster'],NA,week_18,Pittsburgh Steelers,2014
+['William Gay'],NA,week_18,Pittsburgh Steelers,2014
+['Marcus Gilbert'],NA,week_18,Pittsburgh Steelers,2014
+['James Harrison'],Probable: illness,week_18,Pittsburgh Steelers,2014
+['Cameron Heyward'],NA,week_18,Pittsburgh Steelers,2014
+['Darrius Heyward-Bey'],NA,week_18,Pittsburgh Steelers,2014
+['Will Johnson'],NA,week_18,Pittsburgh Steelers,2014
+['Jarvis Jones'],NA,week_18,Pittsburgh Steelers,2014
+['Landry Jones'],Questionable: illness,week_18,Pittsburgh Steelers,2014
+['Brett Keisel'],Injured Reserve: tricep,week_18,Pittsburgh Steelers,2014
+['Brice McCain'],NA,week_18,Pittsburgh Steelers,2014
+['Steve McLendon'],Questionable: shoulder,week_18,Pittsburgh Steelers,2014
+['Mike Mitchell'],NA,week_18,Pittsburgh Steelers,2014
+['Lance Moore'],NA,week_18,Pittsburgh Steelers,2014
+['Michael Palmer'],Questionable: groin,week_18,Pittsburgh Steelers,2014
+['Troy Polamalu'],Probable: knee,week_18,Pittsburgh Steelers,2014
+['Maurkice Pouncey'],NA,week_18,Pittsburgh Steelers,2014
+['Ben Roethlisberger'],NA,week_18,Pittsburgh Steelers,2014
+['Ryan Shazier'],NA,week_18,Pittsburgh Steelers,2014
+['Matt Spaeth'],NA,week_18,Pittsburgh Steelers,2014
+['Sean Spence'],NA,week_18,Pittsburgh Steelers,2014
+['Ike Taylor'],Probable: shoulder/forearm,week_18,Pittsburgh Steelers,2014
+['Shamarko Thomas'],NA,week_18,Pittsburgh Steelers,2014
+['Ross Ventrone'],NA,week_18,Pittsburgh Steelers,2014
+['Cody Wallace'],NA,week_18,Pittsburgh Steelers,2014
+['Greg Warren'],NA,week_18,Pittsburgh Steelers,2014
+['Markus Wheaton'],NA,week_18,Pittsburgh Steelers,2014
+['Vince Williams'],NA,week_18,Pittsburgh Steelers,2014
+['Jason Worilds'],NA,week_18,Pittsburgh Steelers,2014
+['Jordan Zumwalt'],Injured Reserve: groin,week_18,Pittsburgh Steelers,2014

@@ -1,0 +1,561 @@
+﻿name,injury,week,team,year
+['Robert Alford'],NA,week_1,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_1,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_1,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_1,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_1,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_1,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_1,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_1,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_1,Atlanta Falcons,2014
+['Harry Douglas'],NA,week_1,Atlanta Falcons,2014
+['Joe Hawley'],NA,week_1,Atlanta Falcons,2014
+['Devin Hester'],NA,week_1,Atlanta Falcons,2014
+['Lamar Holmes'],NA,week_1,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_1,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_1,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_1,Atlanta Falcons,2014
+['Julio Jones'],NA,week_1,Atlanta Falcons,2014
+['Peter Konz'],NA,week_1,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_1,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_1,Atlanta Falcons,2014
+['Jake Matthews'],Questionable: ankle,week_1,Atlanta Falcons,2014
+['Robert McClain'],NA,week_1,Atlanta Falcons,2014
+['William Moore'],NA,week_1,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_1,Atlanta Falcons,2014
+['Corey Peters'],Probable: achilles,week_1,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_1,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_1,Atlanta Falcons,2014
+['Antone Smith'],NA,week_1,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_1,Atlanta Falcons,2014
+['Dezmen Southward'],Probable: concussion,week_1,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_1,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_1,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_1,Atlanta Falcons,2014
+['Roddy White'],Questionable: knee,week_1,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_1,Atlanta Falcons,2014
+['Robert Alford'],NA,week_2,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_2,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_2,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_2,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_2,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_2,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_2,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_2,Atlanta Falcons,2014
+['Harry Douglas'],NA,week_2,Atlanta Falcons,2014
+['Joe Hawley'],NA,week_2,Atlanta Falcons,2014
+['Devin Hester'],NA,week_2,Atlanta Falcons,2014
+['Lamar Holmes'],NA,week_2,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_2,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_2,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_2,Atlanta Falcons,2014
+['Julio Jones'],NA,week_2,Atlanta Falcons,2014
+['Peter Konz'],NA,week_2,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_2,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_2,Atlanta Falcons,2014
+['Jake Matthews'],Doubtful: ankle,week_2,Atlanta Falcons,2014
+['Robert McClain'],NA,week_2,Atlanta Falcons,2014
+['William Moore'],NA,week_2,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_2,Atlanta Falcons,2014
+['Corey Peters'],NA,week_2,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_2,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_2,Atlanta Falcons,2014
+['Antone Smith'],NA,week_2,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_2,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_2,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_2,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_2,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_2,Atlanta Falcons,2014
+['Roddy White'],Probable: knee,week_2,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_2,Atlanta Falcons,2014
+['Robert Alford'],NA,week_3,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_3,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_3,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_3,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_3,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_3,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_3,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_3,Atlanta Falcons,2014
+['Harry Douglas'],NA,week_3,Atlanta Falcons,2014
+['Joe Hawley'],NA,week_3,Atlanta Falcons,2014
+['Devin Hester'],NA,week_3,Atlanta Falcons,2014
+['Lamar Holmes'],NA,week_3,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_3,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_3,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_3,Atlanta Falcons,2014
+['Julio Jones'],Probable: ankle,week_3,Atlanta Falcons,2014
+['Peter Konz'],NA,week_3,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_3,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_3,Atlanta Falcons,2014
+['Jake Matthews'],Questionable: ankle,week_3,Atlanta Falcons,2014
+['Robert McClain'],NA,week_3,Atlanta Falcons,2014
+['William Moore'],NA,week_3,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_3,Atlanta Falcons,2014
+['Corey Peters'],NA,week_3,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_3,Atlanta Falcons,2014
+['Prince Shembo'],Probable: knee,week_3,Atlanta Falcons,2014
+['Antone Smith'],NA,week_3,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_3,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_3,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_3,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_3,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_3,Atlanta Falcons,2014
+['Roddy White'],Questionable: hamstring,week_3,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_3,Atlanta Falcons,2014
+['Robert Alford'],NA,week_4,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_4,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_4,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_4,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_4,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_4,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_4,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_4,Atlanta Falcons,2014
+['Harry Douglas'],Probable: foot,week_4,Atlanta Falcons,2014
+['Joe Hawley'],NA,week_4,Atlanta Falcons,2014
+['Devin Hester'],Probable: ankle,week_4,Atlanta Falcons,2014
+['Lamar Holmes'],NA,week_4,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_4,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_4,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_4,Atlanta Falcons,2014
+['Julio Jones'],NA,week_4,Atlanta Falcons,2014
+['Peter Konz'],NA,week_4,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_4,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_4,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_4,Atlanta Falcons,2014
+['Robert McClain'],NA,week_4,Atlanta Falcons,2014
+['William Moore'],NA,week_4,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_4,Atlanta Falcons,2014
+['Corey Peters'],NA,week_4,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_4,Atlanta Falcons,2014
+['Prince Shembo'],Probable: calf,week_4,Atlanta Falcons,2014
+['Antone Smith'],Probable: hamstring,week_4,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_4,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_4,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_4,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_4,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_4,Atlanta Falcons,2014
+['Roddy White'],Probable: hamstring,week_4,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_4,Atlanta Falcons,2014
+['Robert Alford'],NA,week_5,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_5,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_5,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_5,Atlanta Falcons,2014
+['Justin Blalock'],Questionable: back,week_5,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_5,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_5,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_5,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_5,Atlanta Falcons,2014
+['Harry Douglas'],Doubtful: foot,week_5,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_5,Atlanta Falcons,2014
+['Devin Hester'],Probable: ankle,week_5,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_5,Atlanta Falcons,2014
+['Kemal Ishmael'],Questionable: ankle,week_5,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_5,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_5,Atlanta Falcons,2014
+['Julio Jones'],Probable: ankle,week_5,Atlanta Falcons,2014
+['Peter Konz'],NA,week_5,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_5,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_5,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_5,Atlanta Falcons,2014
+['Robert McClain'],NA,week_5,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_5,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_5,Atlanta Falcons,2014
+['Corey Peters'],NA,week_5,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_5,Atlanta Falcons,2014
+['Prince Shembo'],Questionable: knee,week_5,Atlanta Falcons,2014
+['Antone Smith'],NA,week_5,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_5,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_5,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_5,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_5,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_5,Atlanta Falcons,2014
+['Roddy White'],NA,week_5,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_5,Atlanta Falcons,2014
+['Robert Alford'],NA,week_6,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_6,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_6,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_6,Atlanta Falcons,2014
+['Justin Blalock'],Questionable: back,week_6,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_6,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_6,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_6,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_6,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_6,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_6,Atlanta Falcons,2014
+['Devin Hester'],Questionable: hamstring,week_6,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_6,Atlanta Falcons,2014
+['Kemal Ishmael'],Questionable: ankle,week_6,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_6,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_6,Atlanta Falcons,2014
+['Julio Jones'],Probable: ankle,week_6,Atlanta Falcons,2014
+['Peter Konz'],NA,week_6,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_6,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_6,Atlanta Falcons,2014
+['Jake Matthews'],Questionable: ankle,week_6,Atlanta Falcons,2014
+['Robert McClain'],NA,week_6,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_6,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_6,Atlanta Falcons,2014
+['Corey Peters'],NA,week_6,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_6,Atlanta Falcons,2014
+['Prince Shembo'],Questionable: ankle,week_6,Atlanta Falcons,2014
+['Antone Smith'],NA,week_6,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_6,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_6,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_6,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_6,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_6,Atlanta Falcons,2014
+['Roddy White'],NA,week_6,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_6,Atlanta Falcons,2014
+['Robert Alford'],NA,week_7,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_7,Atlanta Falcons,2014
+['Jonathan Babineaux'],Questionable: knee,week_7,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_7,Atlanta Falcons,2014
+['Justin Blalock'],Questionable: back,week_7,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_7,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_7,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_7,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_7,Atlanta Falcons,2014
+['Harry Douglas'],Out: foot,week_7,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_7,Atlanta Falcons,2014
+['Devin Hester'],Questionable: hamstring,week_7,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_7,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_7,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_7,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_7,Atlanta Falcons,2014
+['Julio Jones'],Probable: ankle,week_7,Atlanta Falcons,2014
+['Peter Konz'],NA,week_7,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_7,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_7,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_7,Atlanta Falcons,2014
+['Robert McClain'],NA,week_7,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_7,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_7,Atlanta Falcons,2014
+['Corey Peters'],NA,week_7,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_7,Atlanta Falcons,2014
+['Prince Shembo'],Questionable: knee,week_7,Atlanta Falcons,2014
+['Antone Smith'],NA,week_7,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_7,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_7,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_7,Atlanta Falcons,2014
+['Nathan Stupar'],Questionable: knee,week_7,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_7,Atlanta Falcons,2014
+['Roddy White'],NA,week_7,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_7,Atlanta Falcons,2014
+['Robert Alford'],NA,week_8,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_8,Atlanta Falcons,2014
+['Jonathan Babineaux'],Questionable: foot,week_8,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_8,Atlanta Falcons,2014
+['Justin Blalock'],Probable: back,week_8,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_8,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_8,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_8,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_8,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_8,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_8,Atlanta Falcons,2014
+['Devin Hester'],NA,week_8,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_8,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_8,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_8,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_8,Atlanta Falcons,2014
+['Julio Jones'],Probable: ankle,week_8,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_8,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_8,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_8,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_8,Atlanta Falcons,2014
+['Robert McClain'],NA,week_8,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_8,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_8,Atlanta Falcons,2014
+['Corey Peters'],NA,week_8,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_8,Atlanta Falcons,2014
+['Prince Shembo'],Probable: knee,week_8,Atlanta Falcons,2014
+['Antone Smith'],NA,week_8,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_8,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_8,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_8,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_8,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_8,Atlanta Falcons,2014
+['Roddy White'],NA,week_8,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_8,Atlanta Falcons,2014
+['Robert Alford'],NA,week_10,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_10,Atlanta Falcons,2014
+['Jonathan Babineaux'],Questionable: foot,week_10,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_10,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_10,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_10,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_10,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_10,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_10,Atlanta Falcons,2014
+['Harry Douglas'],Probable: foot,week_10,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_10,Atlanta Falcons,2014
+['Devin Hester'],NA,week_10,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_10,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_10,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_10,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_10,Atlanta Falcons,2014
+['Julio Jones'],NA,week_10,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_10,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_10,Atlanta Falcons,2014
+['Jonathan Massaquoi'],Questionable: foot,week_10,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_10,Atlanta Falcons,2014
+['Robert McClain'],NA,week_10,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_10,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_10,Atlanta Falcons,2014
+['Corey Peters'],NA,week_10,Atlanta Falcons,2014
+['Jonathan Scott'],Questionable: hamstring,week_10,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_10,Atlanta Falcons,2014
+['Antone Smith'],Probable: neck,week_10,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_10,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_10,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_10,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_10,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2014
+['Roddy White'],NA,week_10,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_10,Atlanta Falcons,2014
+['Robert Alford'],NA,week_11,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_11,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_11,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_11,Atlanta Falcons,2014
+['Justin Blalock'],Questionable: foot,week_11,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_11,Atlanta Falcons,2014
+['Drew Davis'],Physically Unable to Perform: foot,week_11,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_11,Atlanta Falcons,2014
+['Harry Douglas'],Probable: foot,week_11,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_11,Atlanta Falcons,2014
+['Devin Hester'],Questionable: ankle,week_11,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_11,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_11,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_11,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_11,Atlanta Falcons,2014
+['Julio Jones'],NA,week_11,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_11,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_11,Atlanta Falcons,2014
+['Jonathan Massaquoi'],Questionable: foot,week_11,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_11,Atlanta Falcons,2014
+['Robert McClain'],NA,week_11,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_11,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_11,Atlanta Falcons,2014
+['Corey Peters'],NA,week_11,Atlanta Falcons,2014
+['Jonathan Scott'],Questionable: hamstring,week_11,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_11,Atlanta Falcons,2014
+['Antone Smith'],NA,week_11,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_11,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_11,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_11,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_11,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_11,Atlanta Falcons,2014
+['Roddy White'],NA,week_11,Atlanta Falcons,2014
+['Josh Wilson'],Questionable: ankle,week_11,Atlanta Falcons,2014
+['Robert Alford'],Out: wrist,week_12,Atlanta Falcons,2014
+['Jon Asamoah'],Probable: shoulder,week_12,Atlanta Falcons,2014
+['Jonathan Babineaux'],Probable: knee,week_12,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_12,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_12,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_12,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_12,Atlanta Falcons,2014
+['Drew Davis'],NA,week_12,Atlanta Falcons,2014
+['Patrick DiMarco'],Questionable: illness,week_12,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_12,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_12,Atlanta Falcons,2014
+['Devin Hester'],Probable: wrist,week_12,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_12,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_12,Atlanta Falcons,2014
+['Steven Jackson'],Questionable: illness,week_12,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_12,Atlanta Falcons,2014
+['Julio Jones'],Probable: illness,week_12,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_12,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_12,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_12,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_12,Atlanta Falcons,2014
+['Robert McClain'],NA,week_12,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_12,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_12,Atlanta Falcons,2014
+['Corey Peters'],NA,week_12,Atlanta Falcons,2014
+['Jonathan Scott'],Questionable: hamstring,week_12,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_12,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_12,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_12,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_12,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_12,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_12,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2014
+['Roddy White'],NA,week_12,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_12,Atlanta Falcons,2014
+['Robert Alford'],Out: wrist,week_13,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_13,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_13,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_13,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_13,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_13,Atlanta Falcons,2014
+['Drew Davis'],NA,week_13,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_13,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_13,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_13,Atlanta Falcons,2014
+['Devin Hester'],NA,week_13,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_13,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_13,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_13,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_13,Atlanta Falcons,2014
+['Julio Jones'],NA,week_13,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_13,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_13,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_13,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_13,Atlanta Falcons,2014
+['Robert McClain'],NA,week_13,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_13,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_13,Atlanta Falcons,2014
+['Corey Peters'],NA,week_13,Atlanta Falcons,2014
+['Jonathan Scott'],Probable: hamstring,week_13,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_13,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_13,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_13,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_13,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_13,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_13,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2014
+['Roddy White'],Questionable: ankle,week_13,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_13,Atlanta Falcons,2014
+['Robert Alford'],Out: wrist,week_14,Atlanta Falcons,2014
+['Jon Asamoah'],NA,week_14,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_14,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_14,Atlanta Falcons,2014
+['Justin Blalock'],Probable: back,week_14,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_14,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_14,Atlanta Falcons,2014
+['Drew Davis'],NA,week_14,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_14,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_14,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_14,Atlanta Falcons,2014
+['Devin Hester'],NA,week_14,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_14,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_14,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_14,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_14,Atlanta Falcons,2014
+['Julio Jones'],NA,week_14,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_14,Atlanta Falcons,2014
+['Stansly Maponga'],Questionable: elbow,week_14,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_14,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_14,Atlanta Falcons,2014
+['Robert McClain'],NA,week_14,Atlanta Falcons,2014
+['William Moore'],NA,week_14,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_14,Atlanta Falcons,2014
+['Corey Peters'],NA,week_14,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_14,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_14,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_14,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_14,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_14,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_14,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_14,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2014
+['Roddy White'],Questionable: ankle,week_14,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_14,Atlanta Falcons,2014
+['Robert Alford'],Out: wrist,week_15,Atlanta Falcons,2014
+['Jon Asamoah'],Questionable: back,week_15,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_15,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_15,Atlanta Falcons,2014
+['Justin Blalock'],Questionable: back,week_15,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_15,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_15,Atlanta Falcons,2014
+['Drew Davis'],NA,week_15,Atlanta Falcons,2014
+['Patrick DiMarco'],Questionable: illness,week_15,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_15,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_15,Atlanta Falcons,2014
+['Devin Hester'],NA,week_15,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_15,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_15,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_15,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_15,Atlanta Falcons,2014
+['Julio Jones'],Questionable: hip,week_15,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_15,Atlanta Falcons,2014
+['Stansly Maponga'],Probable: elbow,week_15,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_15,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_15,Atlanta Falcons,2014
+['Robert McClain'],NA,week_15,Atlanta Falcons,2014
+['William Moore'],Questionable: foot,week_15,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_15,Atlanta Falcons,2014
+['Corey Peters'],NA,week_15,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_15,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_15,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_15,Atlanta Falcons,2014
+['Paul Soliai'],Questionable: shoulder,week_15,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_15,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_15,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_15,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2014
+['Roddy White'],Questionable: ankle,week_15,Atlanta Falcons,2014
+['Josh Wilson'],NA,week_15,Atlanta Falcons,2014
+['Robert Alford'],Injured Reserve: wrist,week_16,Atlanta Falcons,2014
+['Jon Asamoah'],Questionable: back,week_16,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_16,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_16,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_16,Atlanta Falcons,2014
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_16,Atlanta Falcons,2014
+['Drew Davis'],NA,week_16,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_16,Atlanta Falcons,2014
+['Harry Douglas'],Probable: foot,week_16,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_16,Atlanta Falcons,2014
+['Devin Hester'],NA,week_16,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_16,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_16,Atlanta Falcons,2014
+['Steven Jackson'],NA,week_16,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_16,Atlanta Falcons,2014
+['Julio Jones'],Questionable: hip,week_16,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_16,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_16,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_16,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_16,Atlanta Falcons,2014
+['Robert McClain'],NA,week_16,Atlanta Falcons,2014
+['William Moore'],Questionable: foot,week_16,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_16,Atlanta Falcons,2014
+['Corey Peters'],NA,week_16,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_16,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_16,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_16,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_16,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_16,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_16,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_16,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2014
+['Roddy White'],Probable: knee,week_16,Atlanta Falcons,2014
+['Josh Wilson'],Probable: hand,week_16,Atlanta Falcons,2014
+['Robert Alford'],Injured Reserve: wrist,week_17,Atlanta Falcons,2014
+['Jon Asamoah'],Questionable: back,week_17,Atlanta Falcons,2014
+['Jonathan Babineaux'],NA,week_17,Atlanta Falcons,2014
+['Sam Baker'],Injured Reserve: knee,week_17,Atlanta Falcons,2014
+['Justin Blalock'],NA,week_17,Atlanta Falcons,2014
+['Matt Bryant'],Probable: illness,week_17,Atlanta Falcons,2014
+['Gabe Carimi'],NA,week_17,Atlanta Falcons,2014
+['Drew Davis'],NA,week_17,Atlanta Falcons,2014
+['Patrick DiMarco'],NA,week_17,Atlanta Falcons,2014
+['Harry Douglas'],Questionable: foot,week_17,Atlanta Falcons,2014
+['Joe Hawley'],Injured Reserve: knee,week_17,Atlanta Falcons,2014
+['Devin Hester'],NA,week_17,Atlanta Falcons,2014
+['Lamar Holmes'],Injured Reserve: foot,week_17,Atlanta Falcons,2014
+['Kemal Ishmael'],NA,week_17,Atlanta Falcons,2014
+['Steven Jackson'],Out: quadriceps,week_17,Atlanta Falcons,2014
+['Mike Johnson'],Injured Reserve: foot,week_17,Atlanta Falcons,2014
+['Julio Jones'],Questionable: hip,week_17,Atlanta Falcons,2014
+['Peter Konz'],Injured Reserve: knee,week_17,Atlanta Falcons,2014
+['Stansly Maponga'],NA,week_17,Atlanta Falcons,2014
+['Jonathan Massaquoi'],NA,week_17,Atlanta Falcons,2014
+['Jake Matthews'],NA,week_17,Atlanta Falcons,2014
+['Robert McClain'],Questionable: illness,week_17,Atlanta Falcons,2014
+['William Moore'],Injured Reserve: shoulder,week_17,Atlanta Falcons,2014
+['Zeke Motta'],Physically Unable to Perform: neck,week_17,Atlanta Falcons,2014
+['Corey Peters'],NA,week_17,Atlanta Falcons,2014
+['Jonathan Scott'],NA,week_17,Atlanta Falcons,2014
+['Prince Shembo'],NA,week_17,Atlanta Falcons,2014
+['Antone Smith'],Injured Reserve: knee,week_17,Atlanta Falcons,2014
+['Paul Soliai'],NA,week_17,Atlanta Falcons,2014
+['Dezmen Southward'],NA,week_17,Atlanta Falcons,2014
+['Marquis Spruill'],Injured Reserve: knee,week_17,Atlanta Falcons,2014
+['Nathan Stupar'],NA,week_17,Atlanta Falcons,2014
+['Sean Weatherspoon'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2014
+['Roddy White'],Questionable: ankle,week_17,Atlanta Falcons,2014
+['Josh Wilson'],Questionable: hamstring,week_17,Atlanta Falcons,2014

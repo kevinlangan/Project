@@ -1,0 +1,799 @@
+﻿name,injury,week,team,year
+['Danny Aiken'],NA,week_1,New England Patriots,2014
+['Kyle Arrington'],NA,week_1,New England Patriots,2014
+['Akeem Ayers'],NA,week_1,New England Patriots,2014
+['LeGarrette Blount'],NA,week_1,New England Patriots,2014
+['Tom Brady'],Probable: calf,week_1,New England Patriots,2014
+['Brandon Browner'],Suspended: ,week_1,New England Patriots,2014
+['Michael Buchanan'],Questionable: ankle,week_1,New England Patriots,2014
+['Marcus Cannon'],NA,week_1,New England Patriots,2014
+['Jonathan Casillas'],NA,week_1,New England Patriots,2014
+['Jamie Collins'],NA,week_1,New England Patriots,2014
+['Dan Connolly'],NA,week_1,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_1,New England Patriots,2014
+['Aaron Dobson'],NA,week_1,New England Patriots,2014
+['Dominique Easley'],NA,week_1,New England Patriots,2014
+['Nate Ebner'],NA,week_1,New England Patriots,2014
+['Julian Edelman'],NA,week_1,New England Patriots,2014
+['Cameron Fleming'],NA,week_1,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_1,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_1,New England Patriots,2014
+['Jonas Gray'],NA,week_1,New England Patriots,2014
+['Rob Gronkowski'],Questionable: knee,week_1,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_1,New England Patriots,2014
+['Chandler Jones'],NA,week_1,New England Patriots,2014
+['Chris Jones'],Questionable: ankle,week_1,New England Patriots,2014
+['Don Jones'],NA,week_1,New England Patriots,2014
+['Brandon LaFell'],NA,week_1,New England Patriots,2014
+['Jerod Mayo'],NA,week_1,New England Patriots,2014
+['Devin McCourty'],NA,week_1,New England Patriots,2014
+['Terrence Miller'],Injured Reserve: undisclosed,week_1,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_1,New England Patriots,2014
+['Rob Ninkovich'],NA,week_1,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_1,New England Patriots,2014
+['Darrelle Revis'],NA,week_1,New England Patriots,2014
+['Stevan Ridley'],NA,week_1,New England Patriots,2014
+['Sealver Siliga'],Questionable: hand,week_1,New England Patriots,2014
+['Matthew Slater'],NA,week_1,New England Patriots,2014
+['Nate Solder'],NA,week_1,New England Patriots,2014
+['Bryan Stork'],NA,week_1,New England Patriots,2014
+['Brian Tyms'],Suspended: ,week_1,New England Patriots,2014
+['Shane Vereen'],NA,week_1,New England Patriots,2014
+['Ryan Wendell'],NA,week_1,New England Patriots,2014
+['Chris White'],NA,week_1,New England Patriots,2014
+['Danny Aiken'],NA,week_2,New England Patriots,2014
+['Kyle Arrington'],NA,week_2,New England Patriots,2014
+['Akeem Ayers'],NA,week_2,New England Patriots,2014
+['LeGarrette Blount'],NA,week_2,New England Patriots,2014
+['Tom Brady'],NA,week_2,New England Patriots,2014
+['Brandon Browner'],Suspended: ,week_2,New England Patriots,2014
+['Michael Buchanan'],Questionable: ankle,week_2,New England Patriots,2014
+['Marcus Cannon'],NA,week_2,New England Patriots,2014
+['Jonathan Casillas'],NA,week_2,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_2,New England Patriots,2014
+['Dan Connolly'],NA,week_2,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_2,New England Patriots,2014
+['Aaron Dobson'],NA,week_2,New England Patriots,2014
+['Dominique Easley'],NA,week_2,New England Patriots,2014
+['Nate Ebner'],NA,week_2,New England Patriots,2014
+['Julian Edelman'],NA,week_2,New England Patriots,2014
+['Cameron Fleming'],NA,week_2,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_2,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_2,New England Patriots,2014
+['Jonas Gray'],NA,week_2,New England Patriots,2014
+['Rob Gronkowski'],Probable: knee,week_2,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_2,New England Patriots,2014
+['Chandler Jones'],NA,week_2,New England Patriots,2014
+['Chris Jones'],Questionable: ankle,week_2,New England Patriots,2014
+['Don Jones'],NA,week_2,New England Patriots,2014
+['Brandon LaFell'],NA,week_2,New England Patriots,2014
+['Jerod Mayo'],NA,week_2,New England Patriots,2014
+['Devin McCourty'],NA,week_2,New England Patriots,2014
+['Terrence Miller'],Injured Reserve: undisclosed,week_2,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_2,New England Patriots,2014
+['Rob Ninkovich'],NA,week_2,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_2,New England Patriots,2014
+['Darrelle Revis'],NA,week_2,New England Patriots,2014
+['Stevan Ridley'],NA,week_2,New England Patriots,2014
+['Sealver Siliga'],Questionable: hand,week_2,New England Patriots,2014
+['Matthew Slater'],NA,week_2,New England Patriots,2014
+['Nate Solder'],NA,week_2,New England Patriots,2014
+['Bryan Stork'],NA,week_2,New England Patriots,2014
+['Brian Tyms'],Suspended: ,week_2,New England Patriots,2014
+['Shane Vereen'],NA,week_2,New England Patriots,2014
+['Ryan Wendell'],Questionable: knee,week_2,New England Patriots,2014
+['Chris White'],NA,week_2,New England Patriots,2014
+['Danny Aiken'],NA,week_3,New England Patriots,2014
+['Kyle Arrington'],NA,week_3,New England Patriots,2014
+['Akeem Ayers'],NA,week_3,New England Patriots,2014
+['LeGarrette Blount'],NA,week_3,New England Patriots,2014
+['Tom Brady'],NA,week_3,New England Patriots,2014
+['Brandon Browner'],Suspended: ,week_3,New England Patriots,2014
+['Michael Buchanan'],Questionable: ankle,week_3,New England Patriots,2014
+['Marcus Cannon'],NA,week_3,New England Patriots,2014
+['Jonathan Casillas'],NA,week_3,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_3,New England Patriots,2014
+['Dan Connolly'],Questionable: knee,week_3,New England Patriots,2014
+['Alfonzo Dennard'],Questionable: shoulder,week_3,New England Patriots,2014
+['Aaron Dobson'],NA,week_3,New England Patriots,2014
+['Dominique Easley'],NA,week_3,New England Patriots,2014
+['Nate Ebner'],NA,week_3,New England Patriots,2014
+['Julian Edelman'],Probable: back,week_3,New England Patriots,2014
+['Cameron Fleming'],NA,week_3,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_3,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_3,New England Patriots,2014
+['Jonas Gray'],NA,week_3,New England Patriots,2014
+['Rob Gronkowski'],Probable: knee,week_3,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_3,New England Patriots,2014
+['Chandler Jones'],NA,week_3,New England Patriots,2014
+['Chris Jones'],NA,week_3,New England Patriots,2014
+['Don Jones'],Questionable: hamstring,week_3,New England Patriots,2014
+['Brandon LaFell'],NA,week_3,New England Patriots,2014
+['Jerod Mayo'],NA,week_3,New England Patriots,2014
+['Devin McCourty'],NA,week_3,New England Patriots,2014
+['Terrence Miller'],Injured Reserve: undisclosed,week_3,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_3,New England Patriots,2014
+['Rob Ninkovich'],NA,week_3,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_3,New England Patriots,2014
+['Darrelle Revis'],NA,week_3,New England Patriots,2014
+['Stevan Ridley'],NA,week_3,New England Patriots,2014
+['Sealver Siliga'],Questionable: hand,week_3,New England Patriots,2014
+['Matthew Slater'],NA,week_3,New England Patriots,2014
+['Nate Solder'],NA,week_3,New England Patriots,2014
+['Bryan Stork'],NA,week_3,New England Patriots,2014
+['Brian Tyms'],Suspended: ,week_3,New England Patriots,2014
+['Shane Vereen'],Probable: shoulder,week_3,New England Patriots,2014
+['Ryan Wendell'],Questionable: knee,week_3,New England Patriots,2014
+['Chris White'],NA,week_3,New England Patriots,2014
+['Danny Aiken'],NA,week_4,New England Patriots,2014
+['Kyle Arrington'],NA,week_4,New England Patriots,2014
+['Akeem Ayers'],NA,week_4,New England Patriots,2014
+['LeGarrette Blount'],NA,week_4,New England Patriots,2014
+['Tom Brady'],NA,week_4,New England Patriots,2014
+['Brandon Browner'],Suspended: ,week_4,New England Patriots,2014
+['Michael Buchanan'],Questionable: ankle,week_4,New England Patriots,2014
+['Marcus Cannon'],NA,week_4,New England Patriots,2014
+['Jonathan Casillas'],NA,week_4,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_4,New England Patriots,2014
+['Dan Connolly'],Questionable: foot,week_4,New England Patriots,2014
+['Alfonzo Dennard'],Questionable: shoulder,week_4,New England Patriots,2014
+['Aaron Dobson'],NA,week_4,New England Patriots,2014
+['Dominique Easley'],NA,week_4,New England Patriots,2014
+['Nate Ebner'],NA,week_4,New England Patriots,2014
+['Julian Edelman'],NA,week_4,New England Patriots,2014
+['Cameron Fleming'],NA,week_4,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_4,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_4,New England Patriots,2014
+['Jonas Gray'],NA,week_4,New England Patriots,2014
+['Rob Gronkowski'],Probable: knee,week_4,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_4,New England Patriots,2014
+['Chandler Jones'],NA,week_4,New England Patriots,2014
+['Chris Jones'],NA,week_4,New England Patriots,2014
+['Don Jones'],Questionable: hamstring,week_4,New England Patriots,2014
+['Brandon LaFell'],NA,week_4,New England Patriots,2014
+['Jerod Mayo'],NA,week_4,New England Patriots,2014
+['Devin McCourty'],NA,week_4,New England Patriots,2014
+['Terrence Miller'],Injured Reserve: undisclosed,week_4,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_4,New England Patriots,2014
+['Rob Ninkovich'],NA,week_4,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_4,New England Patriots,2014
+['Darrelle Revis'],NA,week_4,New England Patriots,2014
+['Stevan Ridley'],NA,week_4,New England Patriots,2014
+['Sealver Siliga'],Doubtful: foot,week_4,New England Patriots,2014
+['Matthew Slater'],NA,week_4,New England Patriots,2014
+['Nate Solder'],NA,week_4,New England Patriots,2014
+['Bryan Stork'],NA,week_4,New England Patriots,2014
+['Brian Tyms'],Suspended: ,week_4,New England Patriots,2014
+['Shane Vereen'],NA,week_4,New England Patriots,2014
+['Ryan Wendell'],NA,week_4,New England Patriots,2014
+['Chris White'],NA,week_4,New England Patriots,2014
+['Danny Aiken'],NA,week_5,New England Patriots,2014
+['Kyle Arrington'],NA,week_5,New England Patriots,2014
+['Akeem Ayers'],NA,week_5,New England Patriots,2014
+['LeGarrette Blount'],NA,week_5,New England Patriots,2014
+['Tom Brady'],NA,week_5,New England Patriots,2014
+['Brandon Browner'],Probable: four-game suspension served,week_5,New England Patriots,2014
+['Michael Buchanan'],NA,week_5,New England Patriots,2014
+['Marcus Cannon'],NA,week_5,New England Patriots,2014
+['Jonathan Casillas'],NA,week_5,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_5,New England Patriots,2014
+['Dan Connolly'],NA,week_5,New England Patriots,2014
+['Alfonzo Dennard'],Questionable: shoulder,week_5,New England Patriots,2014
+['Aaron Dobson'],NA,week_5,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_5,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_5,New England Patriots,2014
+['Julian Edelman'],NA,week_5,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_5,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_5,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_5,New England Patriots,2014
+['Jonas Gray'],NA,week_5,New England Patriots,2014
+['Rob Gronkowski'],Probable: knee,week_5,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: knee,week_5,New England Patriots,2014
+['Chandler Jones'],Questionable: shoulder,week_5,New England Patriots,2014
+['Chris Jones'],NA,week_5,New England Patriots,2014
+['Don Jones'],NA,week_5,New England Patriots,2014
+['Brandon LaFell'],NA,week_5,New England Patriots,2014
+['Jerod Mayo'],NA,week_5,New England Patriots,2014
+['Devin McCourty'],NA,week_5,New England Patriots,2014
+['Terrence Miller'],Injured Reserve: undisclosed,week_5,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_5,New England Patriots,2014
+['Rob Ninkovich'],NA,week_5,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_5,New England Patriots,2014
+['Darrelle Revis'],NA,week_5,New England Patriots,2014
+['Stevan Ridley'],NA,week_5,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_5,New England Patriots,2014
+['Matthew Slater'],NA,week_5,New England Patriots,2014
+['Nate Solder'],NA,week_5,New England Patriots,2014
+['Bryan Stork'],NA,week_5,New England Patriots,2014
+['Brian Tyms'],Probable: four-game suspension served,week_5,New England Patriots,2014
+['Shane Vereen'],NA,week_5,New England Patriots,2014
+['Ryan Wendell'],NA,week_5,New England Patriots,2014
+['Chris White'],NA,week_5,New England Patriots,2014
+['Danny Aiken'],NA,week_6,New England Patriots,2014
+['Kyle Arrington'],NA,week_6,New England Patriots,2014
+['Akeem Ayers'],NA,week_6,New England Patriots,2014
+['LeGarrette Blount'],NA,week_6,New England Patriots,2014
+['Tom Brady'],Questionable: ankle,week_6,New England Patriots,2014
+['Brandon Browner'],Questionable: ankle,week_6,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_6,New England Patriots,2014
+['Marcus Cannon'],NA,week_6,New England Patriots,2014
+['Jonathan Casillas'],NA,week_6,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_6,New England Patriots,2014
+['Dan Connolly'],NA,week_6,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_6,New England Patriots,2014
+['Aaron Dobson'],NA,week_6,New England Patriots,2014
+['Dominique Easley'],Questionable: shoulder/knee,week_6,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_6,New England Patriots,2014
+['Julian Edelman'],NA,week_6,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_6,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_6,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_6,New England Patriots,2014
+['Jonas Gray'],NA,week_6,New England Patriots,2014
+['Rob Gronkowski'],NA,week_6,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: knee,week_6,New England Patriots,2014
+['Chandler Jones'],Questionable: shoulder,week_6,New England Patriots,2014
+['Chris Jones'],NA,week_6,New England Patriots,2014
+['Don Jones'],NA,week_6,New England Patriots,2014
+['Brandon LaFell'],NA,week_6,New England Patriots,2014
+['Jerod Mayo'],NA,week_6,New England Patriots,2014
+['Devin McCourty'],Questionable: rib,week_6,New England Patriots,2014
+['Terrence Miller'],NA,week_6,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_6,New England Patriots,2014
+['Rob Ninkovich'],NA,week_6,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_6,New England Patriots,2014
+['Darrelle Revis'],NA,week_6,New England Patriots,2014
+['Stevan Ridley'],NA,week_6,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_6,New England Patriots,2014
+['Matthew Slater'],Questionable: shoulder,week_6,New England Patriots,2014
+['Nate Solder'],NA,week_6,New England Patriots,2014
+['Bryan Stork'],Questionable: concussion,week_6,New England Patriots,2014
+['Brian Tyms'],NA,week_6,New England Patriots,2014
+['Shane Vereen'],NA,week_6,New England Patriots,2014
+['Ryan Wendell'],NA,week_6,New England Patriots,2014
+['Chris White'],NA,week_6,New England Patriots,2014
+['Danny Aiken'],NA,week_7,New England Patriots,2014
+['Kyle Arrington'],NA,week_7,New England Patriots,2014
+['Akeem Ayers'],NA,week_7,New England Patriots,2014
+['LeGarrette Blount'],NA,week_7,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_7,New England Patriots,2014
+['Brandon Browner'],Questionable: ankle,week_7,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_7,New England Patriots,2014
+['Marcus Cannon'],NA,week_7,New England Patriots,2014
+['Jonathan Casillas'],NA,week_7,New England Patriots,2014
+['Jamie Collins'],Questionable: thigh,week_7,New England Patriots,2014
+['Dan Connolly'],Questionable: head,week_7,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_7,New England Patriots,2014
+['Aaron Dobson'],NA,week_7,New England Patriots,2014
+['Dominique Easley'],Questionable: shoulder/knee,week_7,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_7,New England Patriots,2014
+['Julian Edelman'],NA,week_7,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_7,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_7,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_7,New England Patriots,2014
+['Jonas Gray'],NA,week_7,New England Patriots,2014
+['Rob Gronkowski'],NA,week_7,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: knee,week_7,New England Patriots,2014
+['Chandler Jones'],Questionable: shoulder,week_7,New England Patriots,2014
+['Chris Jones'],NA,week_7,New England Patriots,2014
+['Don Jones'],NA,week_7,New England Patriots,2014
+['Brandon LaFell'],NA,week_7,New England Patriots,2014
+['Jerod Mayo'],Out: leg,week_7,New England Patriots,2014
+['Devin McCourty'],Probable: shoulder,week_7,New England Patriots,2014
+['Terrence Miller'],NA,week_7,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_7,New England Patriots,2014
+['Rob Ninkovich'],NA,week_7,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_7,New England Patriots,2014
+['Darrelle Revis'],NA,week_7,New England Patriots,2014
+['Stevan Ridley'],Out: knee,week_7,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_7,New England Patriots,2014
+['Matthew Slater'],Questionable: shoulder,week_7,New England Patriots,2014
+['Nate Solder'],NA,week_7,New England Patriots,2014
+['Bryan Stork'],Questionable: concussion,week_7,New England Patriots,2014
+['Brian Tyms'],NA,week_7,New England Patriots,2014
+['Shane Vereen'],NA,week_7,New England Patriots,2014
+['Ryan Wendell'],NA,week_7,New England Patriots,2014
+['Chris White'],NA,week_7,New England Patriots,2014
+['Danny Aiken'],NA,week_8,New England Patriots,2014
+['Kyle Arrington'],NA,week_8,New England Patriots,2014
+['Akeem Ayers'],NA,week_8,New England Patriots,2014
+['LeGarrette Blount'],NA,week_8,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_8,New England Patriots,2014
+['Brandon Browner'],Questionable: ankle,week_8,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_8,New England Patriots,2014
+['Marcus Cannon'],NA,week_8,New England Patriots,2014
+['Jonathan Casillas'],NA,week_8,New England Patriots,2014
+['Jamie Collins'],Probable: thigh,week_8,New England Patriots,2014
+['Dan Connolly'],Questionable: concussion,week_8,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_8,New England Patriots,2014
+['Aaron Dobson'],NA,week_8,New England Patriots,2014
+['Dominique Easley'],Questionable: shoulder/knee,week_8,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_8,New England Patriots,2014
+['Julian Edelman'],NA,week_8,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_8,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_8,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_8,New England Patriots,2014
+['Jonas Gray'],NA,week_8,New England Patriots,2014
+['Rob Gronkowski'],NA,week_8,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: knee,week_8,New England Patriots,2014
+['Chandler Jones'],Out: hip,week_8,New England Patriots,2014
+['Chris Jones'],NA,week_8,New England Patriots,2014
+['Don Jones'],NA,week_8,New England Patriots,2014
+['Brandon LaFell'],NA,week_8,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: leg,week_8,New England Patriots,2014
+['Devin McCourty'],Probable: shoulder,week_8,New England Patriots,2014
+['Terrence Miller'],NA,week_8,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_8,New England Patriots,2014
+['Rob Ninkovich'],NA,week_8,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_8,New England Patriots,2014
+['Darrelle Revis'],NA,week_8,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_8,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_8,New England Patriots,2014
+['Matthew Slater'],Questionable: shoulder,week_8,New England Patriots,2014
+['Nate Solder'],NA,week_8,New England Patriots,2014
+['Bryan Stork'],Questionable: concussion,week_8,New England Patriots,2014
+['Brian Tyms'],NA,week_8,New England Patriots,2014
+['Shane Vereen'],Questionable: illness,week_8,New England Patriots,2014
+['Ryan Wendell'],NA,week_8,New England Patriots,2014
+['Chris White'],NA,week_8,New England Patriots,2014
+['Danny Aiken'],NA,week_9,New England Patriots,2014
+['Kyle Arrington'],NA,week_9,New England Patriots,2014
+['Akeem Ayers'],NA,week_9,New England Patriots,2014
+['LeGarrette Blount'],NA,week_9,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_9,New England Patriots,2014
+['Brandon Browner'],Probable: ankle,week_9,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_9,New England Patriots,2014
+['Marcus Cannon'],NA,week_9,New England Patriots,2014
+['Jonathan Casillas'],Questionable: hamstring,week_9,New England Patriots,2014
+['Jamie Collins'],NA,week_9,New England Patriots,2014
+['Dan Connolly'],NA,week_9,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_9,New England Patriots,2014
+['Aaron Dobson'],NA,week_9,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_9,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_9,New England Patriots,2014
+['Julian Edelman'],NA,week_9,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_9,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_9,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_9,New England Patriots,2014
+['Jonas Gray'],NA,week_9,New England Patriots,2014
+['Rob Gronkowski'],NA,week_9,New England Patriots,2014
+"[""Dont'a Hightower""]",Probable: knee,week_9,New England Patriots,2014
+['Chandler Jones'],Out: hip,week_9,New England Patriots,2014
+['Chris Jones'],NA,week_9,New England Patriots,2014
+['Don Jones'],NA,week_9,New England Patriots,2014
+['Brandon LaFell'],NA,week_9,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_9,New England Patriots,2014
+['Devin McCourty'],NA,week_9,New England Patriots,2014
+['Terrence Miller'],NA,week_9,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_9,New England Patriots,2014
+['Rob Ninkovich'],NA,week_9,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_9,New England Patriots,2014
+['Darrelle Revis'],NA,week_9,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_9,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_9,New England Patriots,2014
+['Matthew Slater'],Questionable: shoulder,week_9,New England Patriots,2014
+['Nate Solder'],NA,week_9,New England Patriots,2014
+['Bryan Stork'],NA,week_9,New England Patriots,2014
+['Brian Tyms'],NA,week_9,New England Patriots,2014
+['Shane Vereen'],NA,week_9,New England Patriots,2014
+['Ryan Wendell'],NA,week_9,New England Patriots,2014
+['Chris White'],NA,week_9,New England Patriots,2014
+['Danny Aiken'],NA,week_11,New England Patriots,2014
+['Kyle Arrington'],NA,week_11,New England Patriots,2014
+['Akeem Ayers'],NA,week_11,New England Patriots,2014
+['LeGarrette Blount'],NA,week_11,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_11,New England Patriots,2014
+['Brandon Browner'],NA,week_11,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_11,New England Patriots,2014
+['Marcus Cannon'],NA,week_11,New England Patriots,2014
+['Jonathan Casillas'],NA,week_11,New England Patriots,2014
+['Jamie Collins'],NA,week_11,New England Patriots,2014
+['Dan Connolly'],NA,week_11,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_11,New England Patriots,2014
+['Aaron Dobson'],NA,week_11,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_11,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_11,New England Patriots,2014
+['Julian Edelman'],NA,week_11,New England Patriots,2014
+['Cameron Fleming'],Questionable: finger,week_11,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_11,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_11,New England Patriots,2014
+['Jonas Gray'],NA,week_11,New England Patriots,2014
+['Rob Gronkowski'],NA,week_11,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_11,New England Patriots,2014
+['Chandler Jones'],Out: hip,week_11,New England Patriots,2014
+['Chris Jones'],NA,week_11,New England Patriots,2014
+['Don Jones'],NA,week_11,New England Patriots,2014
+['Brandon LaFell'],NA,week_11,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_11,New England Patriots,2014
+['Devin McCourty'],NA,week_11,New England Patriots,2014
+['Terrence Miller'],NA,week_11,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_11,New England Patriots,2014
+['Rob Ninkovich'],NA,week_11,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_11,New England Patriots,2014
+['Darrelle Revis'],NA,week_11,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_11,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_11,New England Patriots,2014
+['Matthew Slater'],Questionable: shoulder,week_11,New England Patriots,2014
+['Nate Solder'],NA,week_11,New England Patriots,2014
+['Bryan Stork'],NA,week_11,New England Patriots,2014
+['Brian Tyms'],NA,week_11,New England Patriots,2014
+['Shane Vereen'],NA,week_11,New England Patriots,2014
+['Ryan Wendell'],Questionable: knee,week_11,New England Patriots,2014
+['Chris White'],NA,week_11,New England Patriots,2014
+['Danny Aiken'],NA,week_12,New England Patriots,2014
+['Kyle Arrington'],NA,week_12,New England Patriots,2014
+['Akeem Ayers'],NA,week_12,New England Patriots,2014
+['LeGarrette Blount'],NA,week_12,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_12,New England Patriots,2014
+['Brandon Browner'],NA,week_12,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_12,New England Patriots,2014
+['Marcus Cannon'],Questionable: hip,week_12,New England Patriots,2014
+['Jonathan Casillas'],NA,week_12,New England Patriots,2014
+['Jamie Collins'],NA,week_12,New England Patriots,2014
+['Dan Connolly'],NA,week_12,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_12,New England Patriots,2014
+['Aaron Dobson'],NA,week_12,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_12,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_12,New England Patriots,2014
+['Julian Edelman'],Questionable: thigh,week_12,New England Patriots,2014
+['Cameron Fleming'],Questionable: ankle,week_12,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_12,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_12,New England Patriots,2014
+['Jonas Gray'],NA,week_12,New England Patriots,2014
+['Rob Gronkowski'],NA,week_12,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_12,New England Patriots,2014
+['Chandler Jones'],Out: hip,week_12,New England Patriots,2014
+['Chris Jones'],NA,week_12,New England Patriots,2014
+['Don Jones'],NA,week_12,New England Patriots,2014
+['Brandon LaFell'],NA,week_12,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_12,New England Patriots,2014
+['Devin McCourty'],NA,week_12,New England Patriots,2014
+['Terrence Miller'],NA,week_12,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_12,New England Patriots,2014
+['Rob Ninkovich'],NA,week_12,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_12,New England Patriots,2014
+['Darrelle Revis'],NA,week_12,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_12,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_12,New England Patriots,2014
+['Matthew Slater'],NA,week_12,New England Patriots,2014
+['Nate Solder'],NA,week_12,New England Patriots,2014
+['Bryan Stork'],NA,week_12,New England Patriots,2014
+['Brian Tyms'],NA,week_12,New England Patriots,2014
+['Shane Vereen'],NA,week_12,New England Patriots,2014
+['Ryan Wendell'],Questionable: knee,week_12,New England Patriots,2014
+['Chris White'],NA,week_12,New England Patriots,2014
+['Danny Aiken'],Questionable: concussion,week_13,New England Patriots,2014
+['Kyle Arrington'],Questionable: head,week_13,New England Patriots,2014
+['Akeem Ayers'],NA,week_13,New England Patriots,2014
+['LeGarrette Blount'],NA,week_13,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_13,New England Patriots,2014
+['Brandon Browner'],NA,week_13,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_13,New England Patriots,2014
+['Marcus Cannon'],Questionable: hip,week_13,New England Patriots,2014
+['Jonathan Casillas'],NA,week_13,New England Patriots,2014
+['Jamie Collins'],NA,week_13,New England Patriots,2014
+['Dan Connolly'],Questionable: ankle,week_13,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_13,New England Patriots,2014
+['Aaron Dobson'],NA,week_13,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_13,New England Patriots,2014
+['Nate Ebner'],Questionable: finger,week_13,New England Patriots,2014
+['Julian Edelman'],Probable: thigh,week_13,New England Patriots,2014
+['Cameron Fleming'],Questionable: ankle,week_13,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_13,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_13,New England Patriots,2014
+['Jonas Gray'],NA,week_13,New England Patriots,2014
+['Rob Gronkowski'],NA,week_13,New England Patriots,2014
+"[""Dont'a Hightower""]",NA,week_13,New England Patriots,2014
+['Chandler Jones'],Questionable: hip,week_13,New England Patriots,2014
+['Chris Jones'],NA,week_13,New England Patriots,2014
+['Don Jones'],NA,week_13,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder,week_13,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_13,New England Patriots,2014
+['Devin McCourty'],NA,week_13,New England Patriots,2014
+['Terrence Miller'],NA,week_13,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_13,New England Patriots,2014
+['Rob Ninkovich'],NA,week_13,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_13,New England Patriots,2014
+['Darrelle Revis'],NA,week_13,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_13,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_13,New England Patriots,2014
+['Matthew Slater'],NA,week_13,New England Patriots,2014
+['Nate Solder'],NA,week_13,New England Patriots,2014
+['Bryan Stork'],NA,week_13,New England Patriots,2014
+['Brian Tyms'],NA,week_13,New England Patriots,2014
+['Shane Vereen'],Probable: ankle,week_13,New England Patriots,2014
+['Ryan Wendell'],NA,week_13,New England Patriots,2014
+['Chris White'],Questionable: ankle,week_13,New England Patriots,2014
+['Danny Aiken'],Questionable: concussion,week_14,New England Patriots,2014
+['Kyle Arrington'],Questionable: ankle,week_14,New England Patriots,2014
+['Akeem Ayers'],NA,week_14,New England Patriots,2014
+['LeGarrette Blount'],NA,week_14,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_14,New England Patriots,2014
+['Brandon Browner'],NA,week_14,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_14,New England Patriots,2014
+['Marcus Cannon'],Probable: hip,week_14,New England Patriots,2014
+['Jonathan Casillas'],NA,week_14,New England Patriots,2014
+['Jamie Collins'],NA,week_14,New England Patriots,2014
+['Dan Connolly'],Questionable: ankle,week_14,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_14,New England Patriots,2014
+['Aaron Dobson'],Out: hamstring,week_14,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_14,New England Patriots,2014
+['Nate Ebner'],NA,week_14,New England Patriots,2014
+['Julian Edelman'],Probable: thigh,week_14,New England Patriots,2014
+['Cameron Fleming'],Questionable: ankle,week_14,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_14,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_14,New England Patriots,2014
+['Jonas Gray'],NA,week_14,New England Patriots,2014
+['Rob Gronkowski'],NA,week_14,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: shoulder,week_14,New England Patriots,2014
+['Chandler Jones'],Questionable: hip,week_14,New England Patriots,2014
+['Chris Jones'],NA,week_14,New England Patriots,2014
+['Don Jones'],NA,week_14,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder,week_14,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_14,New England Patriots,2014
+['Devin McCourty'],NA,week_14,New England Patriots,2014
+['Terrence Miller'],NA,week_14,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_14,New England Patriots,2014
+['Rob Ninkovich'],NA,week_14,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_14,New England Patriots,2014
+['Darrelle Revis'],NA,week_14,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_14,New England Patriots,2014
+['Sealver Siliga'],Injured Reserve: foot,week_14,New England Patriots,2014
+['Matthew Slater'],NA,week_14,New England Patriots,2014
+['Nate Solder'],NA,week_14,New England Patriots,2014
+['Bryan Stork'],NA,week_14,New England Patriots,2014
+['Brian Tyms'],NA,week_14,New England Patriots,2014
+['Shane Vereen'],Probable: ankle,week_14,New England Patriots,2014
+['Ryan Wendell'],NA,week_14,New England Patriots,2014
+['Chris White'],Questionable: ankle,week_14,New England Patriots,2014
+['Danny Aiken'],Questionable: concussion,week_15,New England Patriots,2014
+['Kyle Arrington'],NA,week_15,New England Patriots,2014
+['Akeem Ayers'],NA,week_15,New England Patriots,2014
+['LeGarrette Blount'],NA,week_15,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_15,New England Patriots,2014
+['Brandon Browner'],NA,week_15,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_15,New England Patriots,2014
+['Marcus Cannon'],NA,week_15,New England Patriots,2014
+['Jonathan Casillas'],NA,week_15,New England Patriots,2014
+['Jamie Collins'],NA,week_15,New England Patriots,2014
+['Dan Connolly'],Questionable: ankle,week_15,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_15,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_15,New England Patriots,2014
+['Dominique Easley'],Questionable: knee,week_15,New England Patriots,2014
+['Nate Ebner'],NA,week_15,New England Patriots,2014
+['Julian Edelman'],Probable: thigh,week_15,New England Patriots,2014
+['Cameron Fleming'],Questionable: ankle,week_15,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_15,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_15,New England Patriots,2014
+['Jonas Gray'],NA,week_15,New England Patriots,2014
+['Rob Gronkowski'],NA,week_15,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: shoulder,week_15,New England Patriots,2014
+['Chandler Jones'],Questionable: hip,week_15,New England Patriots,2014
+['Chris Jones'],NA,week_15,New England Patriots,2014
+['Don Jones'],NA,week_15,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder,week_15,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_15,New England Patriots,2014
+['Devin McCourty'],NA,week_15,New England Patriots,2014
+['Terrence Miller'],NA,week_15,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_15,New England Patriots,2014
+['Rob Ninkovich'],Probable: heel,week_15,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_15,New England Patriots,2014
+['Darrelle Revis'],NA,week_15,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_15,New England Patriots,2014
+['Sealver Siliga'],NA,week_15,New England Patriots,2014
+['Matthew Slater'],NA,week_15,New England Patriots,2014
+['Nate Solder'],NA,week_15,New England Patriots,2014
+['Bryan Stork'],NA,week_15,New England Patriots,2014
+['Brian Tyms'],NA,week_15,New England Patriots,2014
+['Shane Vereen'],Probable: ankle,week_15,New England Patriots,2014
+['Ryan Wendell'],NA,week_15,New England Patriots,2014
+['Chris White'],Questionable: ankle,week_15,New England Patriots,2014
+['Danny Aiken'],Questionable: finger,week_16,New England Patriots,2014
+['Kyle Arrington'],Probable: hamstring,week_16,New England Patriots,2014
+['Akeem Ayers'],NA,week_16,New England Patriots,2014
+['LeGarrette Blount'],Questionable: shoulder,week_16,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_16,New England Patriots,2014
+['Brandon Browner'],NA,week_16,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_16,New England Patriots,2014
+['Marcus Cannon'],NA,week_16,New England Patriots,2014
+['Jonathan Casillas'],NA,week_16,New England Patriots,2014
+['Jamie Collins'],NA,week_16,New England Patriots,2014
+['Dan Connolly'],Probable: ankle,week_16,New England Patriots,2014
+['Alfonzo Dennard'],NA,week_16,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_16,New England Patriots,2014
+['Dominique Easley'],Injured Reserve: knee,week_16,New England Patriots,2014
+['Nate Ebner'],NA,week_16,New England Patriots,2014
+['Julian Edelman'],Questionable: concussion/thigh,week_16,New England Patriots,2014
+['Cameron Fleming'],Questionable: ankle,week_16,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_16,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_16,New England Patriots,2014
+['Jonas Gray'],NA,week_16,New England Patriots,2014
+['Rob Gronkowski'],NA,week_16,New England Patriots,2014
+"[""Dont'a Hightower""]",Probable: shoulder,week_16,New England Patriots,2014
+['Chandler Jones'],Questionable: hip,week_16,New England Patriots,2014
+['Chris Jones'],NA,week_16,New England Patriots,2014
+['Don Jones'],NA,week_16,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder,week_16,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_16,New England Patriots,2014
+['Devin McCourty'],NA,week_16,New England Patriots,2014
+['Terrence Miller'],NA,week_16,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_16,New England Patriots,2014
+['Rob Ninkovich'],Probable: heel,week_16,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_16,New England Patriots,2014
+['Darrelle Revis'],NA,week_16,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_16,New England Patriots,2014
+['Sealver Siliga'],NA,week_16,New England Patriots,2014
+['Matthew Slater'],NA,week_16,New England Patriots,2014
+['Nate Solder'],NA,week_16,New England Patriots,2014
+['Bryan Stork'],NA,week_16,New England Patriots,2014
+['Brian Tyms'],NA,week_16,New England Patriots,2014
+['Shane Vereen'],Probable: ankle,week_16,New England Patriots,2014
+['Ryan Wendell'],NA,week_16,New England Patriots,2014
+['Chris White'],Questionable: ankle,week_16,New England Patriots,2014
+['Danny Aiken'],Probable: finger,week_17,New England Patriots,2014
+['Kyle Arrington'],Questionable: hamstring,week_17,New England Patriots,2014
+['Akeem Ayers'],NA,week_17,New England Patriots,2014
+['LeGarrette Blount'],Questionable: shoulder,week_17,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_17,New England Patriots,2014
+['Brandon Browner'],Probable: groin,week_17,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_17,New England Patriots,2014
+['Marcus Cannon'],NA,week_17,New England Patriots,2014
+['Jonathan Casillas'],NA,week_17,New England Patriots,2014
+['Jamie Collins'],Probable: hip,week_17,New England Patriots,2014
+['Dan Connolly'],Questionable: ankle,week_17,New England Patriots,2014
+['Alfonzo Dennard'],Out: hamstring,week_17,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_17,New England Patriots,2014
+['Dominique Easley'],Injured Reserve: knee,week_17,New England Patriots,2014
+['Nate Ebner'],NA,week_17,New England Patriots,2014
+['Julian Edelman'],Probable: concussion/thigh,week_17,New England Patriots,2014
+['Cameron Fleming'],Probable: ankle,week_17,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_17,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_17,New England Patriots,2014
+['Jonas Gray'],Probable: ankle,week_17,New England Patriots,2014
+['Rob Gronkowski'],NA,week_17,New England Patriots,2014
+"[""Dont'a Hightower""]",Probable: shoulder,week_17,New England Patriots,2014
+['Chandler Jones'],Probable: hip,week_17,New England Patriots,2014
+['Chris Jones'],NA,week_17,New England Patriots,2014
+['Don Jones'],NA,week_17,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder,week_17,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_17,New England Patriots,2014
+['Devin McCourty'],NA,week_17,New England Patriots,2014
+['Terrence Miller'],NA,week_17,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_17,New England Patriots,2014
+['Rob Ninkovich'],Probable: heel,week_17,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_17,New England Patriots,2014
+['Darrelle Revis'],NA,week_17,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_17,New England Patriots,2014
+['Sealver Siliga'],NA,week_17,New England Patriots,2014
+['Matthew Slater'],NA,week_17,New England Patriots,2014
+['Nate Solder'],NA,week_17,New England Patriots,2014
+['Bryan Stork'],NA,week_17,New England Patriots,2014
+['Brian Tyms'],NA,week_17,New England Patriots,2014
+['Shane Vereen'],Probable: ankle,week_17,New England Patriots,2014
+['Ryan Wendell'],NA,week_17,New England Patriots,2014
+['Chris White'],Probable: ankle,week_17,New England Patriots,2014
+['Danny Aiken'],NA,week_19,New England Patriots,2014
+['Kyle Arrington'],Questionable: hamstring,week_19,New England Patriots,2014
+['Akeem Ayers'],NA,week_19,New England Patriots,2014
+['LeGarrette Blount'],Questionable: illness,week_19,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_19,New England Patriots,2014
+['Brandon Browner'],Questionable: groin,week_19,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_19,New England Patriots,2014
+['Marcus Cannon'],NA,week_19,New England Patriots,2014
+['Jonathan Casillas'],NA,week_19,New England Patriots,2014
+['Jamie Collins'],NA,week_19,New England Patriots,2014
+['Dan Connolly'],Questionable: ankle,week_19,New England Patriots,2014
+['Alfonzo Dennard'],Injured Reserve: hamstring,week_19,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_19,New England Patriots,2014
+['Dominique Easley'],Injured Reserve: knee,week_19,New England Patriots,2014
+['Nate Ebner'],NA,week_19,New England Patriots,2014
+['Julian Edelman'],Probable: concussion/thigh,week_19,New England Patriots,2014
+['Cameron Fleming'],NA,week_19,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_19,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_19,New England Patriots,2014
+['Jonas Gray'],Questionable: ankle,week_19,New England Patriots,2014
+['Rob Gronkowski'],NA,week_19,New England Patriots,2014
+"[""Dont'a Hightower""]",Questionable: shoulder,week_19,New England Patriots,2014
+['Chandler Jones'],NA,week_19,New England Patriots,2014
+['Chris Jones'],NA,week_19,New England Patriots,2014
+['Don Jones'],NA,week_19,New England Patriots,2014
+['Brandon LaFell'],Questionable: shoulder/toe,week_19,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_19,New England Patriots,2014
+['Devin McCourty'],NA,week_19,New England Patriots,2014
+['Terrence Miller'],NA,week_19,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_19,New England Patriots,2014
+['Rob Ninkovich'],NA,week_19,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_19,New England Patriots,2014
+['Darrelle Revis'],NA,week_19,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_19,New England Patriots,2014
+['Sealver Siliga'],NA,week_19,New England Patriots,2014
+['Matthew Slater'],NA,week_19,New England Patriots,2014
+['Nate Solder'],Questionable: knee,week_19,New England Patriots,2014
+['Bryan Stork'],NA,week_19,New England Patriots,2014
+['Brian Tyms'],NA,week_19,New England Patriots,2014
+['Shane Vereen'],NA,week_19,New England Patriots,2014
+['Ryan Wendell'],NA,week_19,New England Patriots,2014
+['Chris White'],NA,week_19,New England Patriots,2014
+['Danny Aiken'],NA,week_20,New England Patriots,2014
+['Kyle Arrington'],NA,week_20,New England Patriots,2014
+['Akeem Ayers'],NA,week_20,New England Patriots,2014
+['LeGarrette Blount'],NA,week_20,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_20,New England Patriots,2014
+['Brandon Browner'],Questionable: knee,week_20,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_20,New England Patriots,2014
+['Marcus Cannon'],NA,week_20,New England Patriots,2014
+['Jonathan Casillas'],NA,week_20,New England Patriots,2014
+['Jamie Collins'],NA,week_20,New England Patriots,2014
+['Dan Connolly'],NA,week_20,New England Patriots,2014
+['Alfonzo Dennard'],Injured Reserve: hamstring,week_20,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_20,New England Patriots,2014
+['Dominique Easley'],Injured Reserve: knee,week_20,New England Patriots,2014
+['Nate Ebner'],NA,week_20,New England Patriots,2014
+['Julian Edelman'],NA,week_20,New England Patriots,2014
+['Cameron Fleming'],NA,week_20,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_20,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_20,New England Patriots,2014
+['Jonas Gray'],NA,week_20,New England Patriots,2014
+['Rob Gronkowski'],NA,week_20,New England Patriots,2014
+"[""Dont'a Hightower""]",Probable: shoulder,week_20,New England Patriots,2014
+['Chandler Jones'],NA,week_20,New England Patriots,2014
+['Chris Jones'],Questionable: elbow,week_20,New England Patriots,2014
+['Don Jones'],NA,week_20,New England Patriots,2014
+['Brandon LaFell'],Probable: shoulder/toe,week_20,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_20,New England Patriots,2014
+['Devin McCourty'],NA,week_20,New England Patriots,2014
+['Terrence Miller'],NA,week_20,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_20,New England Patriots,2014
+['Rob Ninkovich'],NA,week_20,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_20,New England Patriots,2014
+['Darrelle Revis'],NA,week_20,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_20,New England Patriots,2014
+['Sealver Siliga'],NA,week_20,New England Patriots,2014
+['Matthew Slater'],NA,week_20,New England Patriots,2014
+['Nate Solder'],NA,week_20,New England Patriots,2014
+['Bryan Stork'],Questionable: knee,week_20,New England Patriots,2014
+['Brian Tyms'],NA,week_20,New England Patriots,2014
+['Shane Vereen'],NA,week_20,New England Patriots,2014
+['Ryan Wendell'],NA,week_20,New England Patriots,2014
+['Chris White'],NA,week_20,New England Patriots,2014
+['Danny Aiken'],NA,week_21,New England Patriots,2014
+['Kyle Arrington'],NA,week_21,New England Patriots,2014
+['Akeem Ayers'],Probable: knee,week_21,New England Patriots,2014
+['LeGarrette Blount'],NA,week_21,New England Patriots,2014
+['Tom Brady'],Probable: ankle,week_21,New England Patriots,2014
+['Brandon Browner'],NA,week_21,New England Patriots,2014
+['Michael Buchanan'],Injured Reserve: ankle,week_21,New England Patriots,2014
+['Marcus Cannon'],NA,week_21,New England Patriots,2014
+['Jonathan Casillas'],NA,week_21,New England Patriots,2014
+['Jamie Collins'],NA,week_21,New England Patriots,2014
+['Dan Connolly'],NA,week_21,New England Patriots,2014
+['Alfonzo Dennard'],Injured Reserve: hamstring,week_21,New England Patriots,2014
+['Aaron Dobson'],Injured Reserve: hamstring,week_21,New England Patriots,2014
+['Dominique Easley'],Injured Reserve: knee,week_21,New England Patriots,2014
+['Nate Ebner'],NA,week_21,New England Patriots,2014
+['Julian Edelman'],NA,week_21,New England Patriots,2014
+['Cameron Fleming'],NA,week_21,New England Patriots,2014
+['Tyler Gaffney'],Injured Reserve: knee ,week_21,New England Patriots,2014
+['Cameron Gordon'],Injured Reserve: undisclosed,week_21,New England Patriots,2014
+['Jonas Gray'],NA,week_21,New England Patriots,2014
+['Rob Gronkowski'],NA,week_21,New England Patriots,2014
+"[""Dont'a Hightower""]",Probable: shoulder,week_21,New England Patriots,2014
+['Chandler Jones'],NA,week_21,New England Patriots,2014
+['Chris Jones'],Questionable: elbow,week_21,New England Patriots,2014
+['Don Jones'],NA,week_21,New England Patriots,2014
+['Brandon LaFell'],NA,week_21,New England Patriots,2014
+['Jerod Mayo'],Injured Reserve: knee,week_21,New England Patriots,2014
+['Devin McCourty'],NA,week_21,New England Patriots,2014
+['Terrence Miller'],NA,week_21,New England Patriots,2014
+['James Morris'],Injured Reserve: ankle,week_21,New England Patriots,2014
+['Rob Ninkovich'],NA,week_21,New England Patriots,2014
+['Greg Orton'],Injured Reserve: Achilles,week_21,New England Patriots,2014
+['Darrelle Revis'],NA,week_21,New England Patriots,2014
+['Stevan Ridley'],Injured Reserve: knee,week_21,New England Patriots,2014
+['Sealver Siliga'],Probable: foot,week_21,New England Patriots,2014
+['Matthew Slater'],NA,week_21,New England Patriots,2014
+['Nate Solder'],NA,week_21,New England Patriots,2014
+['Bryan Stork'],Questionable: knee,week_21,New England Patriots,2014
+['Brian Tyms'],NA,week_21,New England Patriots,2014
+['Shane Vereen'],NA,week_21,New England Patriots,2014
+['Ryan Wendell'],NA,week_21,New England Patriots,2014
+['Chris White'],NA,week_21,New England Patriots,2014

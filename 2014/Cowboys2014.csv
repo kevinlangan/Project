@@ -1,0 +1,793 @@
+﻿name,injury,week,team,year
+['Ken Bishop'],NA,week_1,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_1,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_1,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_1,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_1,Dallas Cowboys,2014
+['Barry Church'],NA,week_1,Dallas Cowboys,2014
+['Morris Claiborne'],NA,week_1,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_1,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_1,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_1,Dallas Cowboys,2014
+['Justin Durant'],NA,week_1,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_1,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_1,Dallas Cowboys,2014
+['Doug Free'],NA,week_1,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_1,Dallas Cowboys,2014
+['Jakar Hamilton'],Suspended: ,week_1,Dallas Cowboys,2014
+['James Hanna'],NA,week_1,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_1,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_1,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_1,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_1,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_1,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_1,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_1,Dallas Cowboys,2014
+['Zack Martin'],Questionable: foot,week_1,Dallas Cowboys,2014
+['Rolando McClain'],NA,week_1,Dallas Cowboys,2014
+['Terrell McClain'],Probable: ankle,week_1,Dallas Cowboys,2014
+['Henry Melton'],Probable: groin,week_1,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_1,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_1,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_1,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_1,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_1,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_1,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_1,Dallas Cowboys,2014
+['Orlando Scandrick'],Suspended: ,week_1,Dallas Cowboys,2014
+['George Selvie'],Probable: shoulder,week_1,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_1,Dallas Cowboys,2014
+['Anthony Spencer'],Out: knee,week_1,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_1,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_1,Dallas Cowboys,2014
+['Darrion Weems'],Questionable: shoulder,week_1,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_1,Dallas Cowboys,2014
+['Terrance Williams'],Questionable: back,week_1,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_2,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_2,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_2,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_2,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_2,Dallas Cowboys,2014
+['Barry Church'],NA,week_2,Dallas Cowboys,2014
+['Morris Claiborne'],NA,week_2,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_2,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_2,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_2,Dallas Cowboys,2014
+['Justin Durant'],Out: groin,week_2,Dallas Cowboys,2014
+['Lavar Edwards'],Questionable: knee,week_2,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_2,Dallas Cowboys,2014
+['Doug Free'],NA,week_2,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_2,Dallas Cowboys,2014
+['Jakar Hamilton'],Suspended: ,week_2,Dallas Cowboys,2014
+['James Hanna'],NA,week_2,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_2,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_2,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_2,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_2,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_2,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_2,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_2,Dallas Cowboys,2014
+['Zack Martin'],Probable: foot,week_2,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: undisclosed,week_2,Dallas Cowboys,2014
+['Terrell McClain'],Probable: ankle,week_2,Dallas Cowboys,2014
+['Henry Melton'],NA,week_2,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_2,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_2,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_2,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_2,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_2,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_2,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_2,Dallas Cowboys,2014
+['Orlando Scandrick'],Suspended: ,week_2,Dallas Cowboys,2014
+['George Selvie'],Questionable: shoulder,week_2,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_2,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee,week_2,Dallas Cowboys,2014
+['C.J. Spillman'],Questionable: groin,week_2,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_2,Dallas Cowboys,2014
+['Darrion Weems'],Questionable: shoulder,week_2,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_2,Dallas Cowboys,2014
+['Terrance Williams'],Probable: back,week_2,Dallas Cowboys,2014
+['Ken Bishop'],Questionable: illness,week_3,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_3,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_3,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_3,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_3,Dallas Cowboys,2014
+['Barry Church'],NA,week_3,Dallas Cowboys,2014
+['Morris Claiborne'],NA,week_3,Dallas Cowboys,2014
+['Davon Coleman'],Questionable: knee,week_3,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_3,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_3,Dallas Cowboys,2014
+['Justin Durant'],Out: groin,week_3,Dallas Cowboys,2014
+['Lavar Edwards'],Probable: knee,week_3,Dallas Cowboys,2014
+['Gavin Escobar'],Probable: knee,week_3,Dallas Cowboys,2014
+['Doug Free'],NA,week_3,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_3,Dallas Cowboys,2014
+['Jakar Hamilton'],Suspended: ,week_3,Dallas Cowboys,2014
+['James Hanna'],NA,week_3,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_3,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_3,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_3,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_3,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_3,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_3,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_3,Dallas Cowboys,2014
+['Zack Martin'],Probable: foot,week_3,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: groin,week_3,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_3,Dallas Cowboys,2014
+['Henry Melton'],NA,week_3,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_3,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_3,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_3,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_3,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_3,Dallas Cowboys,2014
+['Joseph Randle'],Questionable: concussion,week_3,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_3,Dallas Cowboys,2014
+['Orlando Scandrick'],Probable: suspension served,week_3,Dallas Cowboys,2014
+['George Selvie'],Probable: shoulder,week_3,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_3,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee,week_3,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_3,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_3,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_3,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_3,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_3,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_4,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_4,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_4,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_4,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_4,Dallas Cowboys,2014
+['Barry Church'],NA,week_4,Dallas Cowboys,2014
+['Morris Claiborne'],NA,week_4,Dallas Cowboys,2014
+['Davon Coleman'],Questionable: knee,week_4,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_4,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_4,Dallas Cowboys,2014
+['Justin Durant'],Probable: groin,week_4,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_4,Dallas Cowboys,2014
+['Gavin Escobar'],Probable: knee,week_4,Dallas Cowboys,2014
+['Doug Free'],NA,week_4,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_4,Dallas Cowboys,2014
+['Jakar Hamilton'],Suspended: ,week_4,Dallas Cowboys,2014
+['James Hanna'],NA,week_4,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_4,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_4,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_4,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_4,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_4,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_4,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_4,Dallas Cowboys,2014
+['Zack Martin'],NA,week_4,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: groin,week_4,Dallas Cowboys,2014
+['Terrell McClain'],Questionable: concussion,week_4,Dallas Cowboys,2014
+['Henry Melton'],Questionable: hamstring,week_4,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_4,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_4,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_4,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_4,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_4,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_4,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_4,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_4,Dallas Cowboys,2014
+['George Selvie'],NA,week_4,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_4,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee,week_4,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_4,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_4,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_4,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_4,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_4,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_5,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_5,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_5,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_5,Dallas Cowboys,2014
+['Bruce Carter'],Doubtful: quadricep,week_5,Dallas Cowboys,2014
+['Barry Church'],NA,week_5,Dallas Cowboys,2014
+['Morris Claiborne'],Out: knee,week_5,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_5,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_5,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_5,Dallas Cowboys,2014
+['Justin Durant'],NA,week_5,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_5,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_5,Dallas Cowboys,2014
+['Doug Free'],NA,week_5,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_5,Dallas Cowboys,2014
+['Jakar Hamilton'],Probable: four-game suspension served,week_5,Dallas Cowboys,2014
+['James Hanna'],NA,week_5,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_5,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_5,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_5,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_5,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_5,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_5,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_5,Dallas Cowboys,2014
+['Zack Martin'],NA,week_5,Dallas Cowboys,2014
+['Rolando McClain'],Probable: groin,week_5,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_5,Dallas Cowboys,2014
+['Henry Melton'],Questionable: hamstring,week_5,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_5,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_5,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_5,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_5,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_5,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_5,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_5,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_5,Dallas Cowboys,2014
+['George Selvie'],NA,week_5,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_5,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee,week_5,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_5,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_5,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_5,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_5,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_5,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_6,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_6,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_6,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_6,Dallas Cowboys,2014
+['Bruce Carter'],Out: quadricep,week_6,Dallas Cowboys,2014
+['Barry Church'],NA,week_6,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_6,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_6,Dallas Cowboys,2014
+['Jack Crawford'],Questionable: calf,week_6,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_6,Dallas Cowboys,2014
+['Justin Durant'],NA,week_6,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_6,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_6,Dallas Cowboys,2014
+['Doug Free'],NA,week_6,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_6,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_6,Dallas Cowboys,2014
+['James Hanna'],NA,week_6,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_6,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_6,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_6,Dallas Cowboys,2014
+['Cameron Lawrence'],Questionable: thigh,week_6,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_6,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_6,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_6,Dallas Cowboys,2014
+['Zack Martin'],NA,week_6,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: groin,week_6,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_6,Dallas Cowboys,2014
+['Henry Melton'],Probable: calf,week_6,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_6,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_6,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_6,Dallas Cowboys,2014
+['Jermey Parnell'],Questionable: chest,week_6,Dallas Cowboys,2014
+['Tyler Patmon'],Probable: illness,week_6,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_6,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_6,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_6,Dallas Cowboys,2014
+['George Selvie'],NA,week_6,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_6,Dallas Cowboys,2014
+['Anthony Spencer'],Probable: knee,week_6,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_6,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_6,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_6,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_6,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_6,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_7,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_7,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_7,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_7,Dallas Cowboys,2014
+['Bruce Carter'],Out: quadricep,week_7,Dallas Cowboys,2014
+['Barry Church'],NA,week_7,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_7,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_7,Dallas Cowboys,2014
+['Jack Crawford'],Questionable: calf,week_7,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_7,Dallas Cowboys,2014
+['Justin Durant'],NA,week_7,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_7,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_7,Dallas Cowboys,2014
+['Doug Free'],Out: foot,week_7,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_7,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_7,Dallas Cowboys,2014
+['James Hanna'],NA,week_7,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_7,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_7,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_7,Dallas Cowboys,2014
+['Cameron Lawrence'],Probable: thigh,week_7,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_7,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_7,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_7,Dallas Cowboys,2014
+['Zack Martin'],NA,week_7,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: groin/personal,week_7,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_7,Dallas Cowboys,2014
+['Henry Melton'],NA,week_7,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_7,Dallas Cowboys,2014
+['DeMarco Murray'],Questionable: illness,week_7,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_7,Dallas Cowboys,2014
+['Jermey Parnell'],Questionable: chest,week_7,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_7,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_7,Dallas Cowboys,2014
+['Tony Romo'],Questionable: back/ankle,week_7,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_7,Dallas Cowboys,2014
+['George Selvie'],NA,week_7,Dallas Cowboys,2014
+['Tyron Smith'],Questionable: ankle,week_7,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee/foot,week_7,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_7,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_7,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_7,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_7,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_7,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_8,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_8,Dallas Cowboys,2014
+['Dez Bryant'],Probable: shoulder,week_8,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_8,Dallas Cowboys,2014
+['Bruce Carter'],Probable: quadricep,week_8,Dallas Cowboys,2014
+['Barry Church'],NA,week_8,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_8,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_8,Dallas Cowboys,2014
+['Jack Crawford'],Questionable: calf,week_8,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_8,Dallas Cowboys,2014
+['Justin Durant'],NA,week_8,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_8,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_8,Dallas Cowboys,2014
+['Doug Free'],Out: foot,week_8,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_8,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_8,Dallas Cowboys,2014
+['James Hanna'],NA,week_8,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_8,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_8,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_8,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_8,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_8,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_8,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_8,Dallas Cowboys,2014
+['Zack Martin'],NA,week_8,Dallas Cowboys,2014
+['Rolando McClain'],NA,week_8,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_8,Dallas Cowboys,2014
+['Henry Melton'],NA,week_8,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_8,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_8,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_8,Dallas Cowboys,2014
+['Jermey Parnell'],Probable: chest,week_8,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_8,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_8,Dallas Cowboys,2014
+['Tony Romo'],Questionable: back,week_8,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_8,Dallas Cowboys,2014
+['George Selvie'],NA,week_8,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_8,Dallas Cowboys,2014
+['Anthony Spencer'],Probable: knee/foot,week_8,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_8,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_8,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_8,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_8,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_8,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_9,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_9,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_9,Dallas Cowboys,2014
+['Brandon Carr'],Probable: hamstring,week_9,Dallas Cowboys,2014
+['Bruce Carter'],Probable: thigh,week_9,Dallas Cowboys,2014
+['Barry Church'],NA,week_9,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_9,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_9,Dallas Cowboys,2014
+['Jack Crawford'],Probable: calf,week_9,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_9,Dallas Cowboys,2014
+['Justin Durant'],Out: bicep,week_9,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_9,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_9,Dallas Cowboys,2014
+['Doug Free'],Out: foot,week_9,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_9,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_9,Dallas Cowboys,2014
+['James Hanna'],NA,week_9,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_9,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_9,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_9,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_9,Dallas Cowboys,2014
+['Demarcus Lawrence'],Injured Reserve: foot,week_9,Dallas Cowboys,2014
+['Ronald Leary'],Questionable: groin,week_9,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_9,Dallas Cowboys,2014
+['Zack Martin'],NA,week_9,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: shoulder,week_9,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_9,Dallas Cowboys,2014
+['Henry Melton'],NA,week_9,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_9,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_9,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_9,Dallas Cowboys,2014
+['Jermey Parnell'],Probable: chest,week_9,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_9,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_9,Dallas Cowboys,2014
+['Tony Romo'],Questionable: back,week_9,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_9,Dallas Cowboys,2014
+['George Selvie'],NA,week_9,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_9,Dallas Cowboys,2014
+['Anthony Spencer'],Questionable: knee/foot,week_9,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_9,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_9,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_9,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_9,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_9,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_10,Dallas Cowboys,2014
+['Josh Brent'],Suspended: ,week_10,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_10,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_10,Dallas Cowboys,2014
+['Bruce Carter'],Probable: finger,week_10,Dallas Cowboys,2014
+['Barry Church'],Probable: shoulder,week_10,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_10,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_10,Dallas Cowboys,2014
+['Jack Crawford'],Probable: calf,week_10,Dallas Cowboys,2014
+['Tyrone Crawford'],Questionable: knee,week_10,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_10,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_10,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_10,Dallas Cowboys,2014
+['Doug Free'],Probable: foot,week_10,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_10,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_10,Dallas Cowboys,2014
+['James Hanna'],Probable: hamstring,week_10,Dallas Cowboys,2014
+['Nick Hayden'],Questionable: shoulder,week_10,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_10,Dallas Cowboys,2014
+['Anthony Hitchens'],Probable: chest,week_10,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_10,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_10,Dallas Cowboys,2014
+['Ronald Leary'],Probable: groin,week_10,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_10,Dallas Cowboys,2014
+['Zack Martin'],NA,week_10,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: knee/groin,week_10,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_10,Dallas Cowboys,2014
+['Henry Melton'],NA,week_10,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_10,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_10,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_10,Dallas Cowboys,2014
+['Jermey Parnell'],Probable: chest,week_10,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_10,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_10,Dallas Cowboys,2014
+['Tony Romo'],Questionable: back,week_10,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_10,Dallas Cowboys,2014
+['George Selvie'],NA,week_10,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_10,Dallas Cowboys,2014
+['Anthony Spencer'],Probable: knee/foot,week_10,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_10,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_10,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_10,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_10,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_10,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_12,Dallas Cowboys,2014
+['Josh Brent'],Probable: 10-game suspension served,week_12,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_12,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_12,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_12,Dallas Cowboys,2014
+['Barry Church'],NA,week_12,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_12,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_12,Dallas Cowboys,2014
+['Jack Crawford'],NA,week_12,Dallas Cowboys,2014
+['Tyrone Crawford'],Probable: knee,week_12,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_12,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_12,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_12,Dallas Cowboys,2014
+['Doug Free'],Probable: foot,week_12,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_12,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_12,Dallas Cowboys,2014
+['James Hanna'],NA,week_12,Dallas Cowboys,2014
+['Nick Hayden'],Probable: shoulder,week_12,Dallas Cowboys,2014
+['Jeff Heath'],NA,week_12,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_12,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_12,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_12,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_12,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_12,Dallas Cowboys,2014
+['Zack Martin'],NA,week_12,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee,week_12,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_12,Dallas Cowboys,2014
+['Henry Melton'],NA,week_12,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_12,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_12,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_12,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_12,Dallas Cowboys,2014
+['Tyler Patmon'],Questionable: knee,week_12,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_12,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_12,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_12,Dallas Cowboys,2014
+['George Selvie'],NA,week_12,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_12,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_12,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_12,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_12,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_12,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_12,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_12,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_13,Dallas Cowboys,2014
+['Josh Brent'],Questionable: groin,week_13,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_13,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_13,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_13,Dallas Cowboys,2014
+['Barry Church'],Questionable: head/arm,week_13,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_13,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_13,Dallas Cowboys,2014
+['Jack Crawford'],Out: thumb,week_13,Dallas Cowboys,2014
+['Tyrone Crawford'],Probable: knee,week_13,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_13,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_13,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_13,Dallas Cowboys,2014
+['Doug Free'],Probable: foot,week_13,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_13,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_13,Dallas Cowboys,2014
+['James Hanna'],NA,week_13,Dallas Cowboys,2014
+['Nick Hayden'],Probable: shoulder,week_13,Dallas Cowboys,2014
+['Jeff Heath'],Out: thumb,week_13,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_13,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_13,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_13,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_13,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_13,Dallas Cowboys,2014
+['Zack Martin'],NA,week_13,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee,week_13,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_13,Dallas Cowboys,2014
+['Henry Melton'],NA,week_13,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_13,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_13,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_13,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_13,Dallas Cowboys,2014
+['Tyler Patmon'],Questionable: knee,week_13,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_13,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_13,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_13,Dallas Cowboys,2014
+['George Selvie'],NA,week_13,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_13,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_13,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_13,Dallas Cowboys,2014
+['Dekoda Watson'],Questionable: hamstring,week_13,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_13,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_13,Dallas Cowboys,2014
+['Terrance Williams'],Questionable: finger,week_13,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_14,Dallas Cowboys,2014
+['Josh Brent'],Probable: groin,week_14,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_14,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_14,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_14,Dallas Cowboys,2014
+['Barry Church'],NA,week_14,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_14,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_14,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_14,Dallas Cowboys,2014
+['Tyrone Crawford'],Probable: knee,week_14,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_14,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_14,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_14,Dallas Cowboys,2014
+['Doug Free'],Probable: foot,week_14,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_14,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_14,Dallas Cowboys,2014
+['James Hanna'],NA,week_14,Dallas Cowboys,2014
+['Nick Hayden'],Probable: shoulder,week_14,Dallas Cowboys,2014
+['Jeff Heath'],Out: thumb,week_14,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_14,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_14,Dallas Cowboys,2014
+['Demarcus Lawrence'],Questionable: chest,week_14,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_14,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_14,Dallas Cowboys,2014
+['Zack Martin'],NA,week_14,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee,week_14,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_14,Dallas Cowboys,2014
+['Henry Melton'],NA,week_14,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_14,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_14,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_14,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_14,Dallas Cowboys,2014
+['Tyler Patmon'],Doubtful: knee,week_14,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_14,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_14,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_14,Dallas Cowboys,2014
+['George Selvie'],Probable: thumb,week_14,Dallas Cowboys,2014
+['Tyron Smith'],Probable: illness,week_14,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_14,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_14,Dallas Cowboys,2014
+['Dekoda Watson'],Doubtful: hamstring,week_14,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_14,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_14,Dallas Cowboys,2014
+['Terrance Williams'],Probable: finger,week_14,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_15,Dallas Cowboys,2014
+['Josh Brent'],Probable: ankle,week_15,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_15,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_15,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_15,Dallas Cowboys,2014
+['Barry Church'],NA,week_15,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_15,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_15,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_15,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_15,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_15,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_15,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_15,Dallas Cowboys,2014
+['Doug Free'],NA,week_15,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_15,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_15,Dallas Cowboys,2014
+['James Hanna'],NA,week_15,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_15,Dallas Cowboys,2014
+['Jeff Heath'],Probable: thumb,week_15,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_15,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_15,Dallas Cowboys,2014
+['Demarcus Lawrence'],Probable: chest,week_15,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_15,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_15,Dallas Cowboys,2014
+['Zack Martin'],NA,week_15,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee,week_15,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_15,Dallas Cowboys,2014
+['Henry Melton'],NA,week_15,Dallas Cowboys,2014
+['Jeremy Mincey'],Probable: personal,week_15,Dallas Cowboys,2014
+['DeMarco Murray'],NA,week_15,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_15,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_15,Dallas Cowboys,2014
+['Tyler Patmon'],Probable: knee/ankle,week_15,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_15,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_15,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_15,Dallas Cowboys,2014
+['George Selvie'],Probable: thumb,week_15,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_15,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_15,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_15,Dallas Cowboys,2014
+['Dekoda Watson'],Questionable: hamstring,week_15,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_15,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_15,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_15,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_16,Dallas Cowboys,2014
+['Josh Brent'],Questionable: calf,week_16,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_16,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_16,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_16,Dallas Cowboys,2014
+['Barry Church'],NA,week_16,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_16,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_16,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_16,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_16,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_16,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_16,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_16,Dallas Cowboys,2014
+['Doug Free'],Questionable: ankle,week_16,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_16,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_16,Dallas Cowboys,2014
+['James Hanna'],NA,week_16,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_16,Dallas Cowboys,2014
+['Jeff Heath'],Probable: thumb,week_16,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_16,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_16,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_16,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_16,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_16,Dallas Cowboys,2014
+['Zack Martin'],Questionable: ankle,week_16,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee,week_16,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_16,Dallas Cowboys,2014
+['Henry Melton'],NA,week_16,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_16,Dallas Cowboys,2014
+['DeMarco Murray'],Questionable: hand,week_16,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_16,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_16,Dallas Cowboys,2014
+['Tyler Patmon'],Probable: knee/ankle,week_16,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_16,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_16,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_16,Dallas Cowboys,2014
+['George Selvie'],Probable: thumb,week_16,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_16,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_16,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_16,Dallas Cowboys,2014
+['Dekoda Watson'],Questionable: hamstring,week_16,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_16,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_16,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_16,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_17,Dallas Cowboys,2014
+['Josh Brent'],Questionable: calf/personal,week_17,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_17,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_17,Dallas Cowboys,2014
+['Bruce Carter'],NA,week_17,Dallas Cowboys,2014
+['Barry Church'],NA,week_17,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_17,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_17,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_17,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_17,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_17,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_17,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_17,Dallas Cowboys,2014
+['Doug Free'],Questionable: ankle,week_17,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_17,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_17,Dallas Cowboys,2014
+['James Hanna'],NA,week_17,Dallas Cowboys,2014
+['Nick Hayden'],NA,week_17,Dallas Cowboys,2014
+['Jeff Heath'],Probable: thumb,week_17,Dallas Cowboys,2014
+['Anthony Hitchens'],NA,week_17,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_17,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_17,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_17,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_17,Dallas Cowboys,2014
+['Zack Martin'],Probable: ankle,week_17,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: knee/personal,week_17,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_17,Dallas Cowboys,2014
+['Henry Melton'],NA,week_17,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_17,Dallas Cowboys,2014
+['DeMarco Murray'],Probable: hand/illness,week_17,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_17,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_17,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_17,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_17,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_17,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_17,Dallas Cowboys,2014
+['George Selvie'],NA,week_17,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_17,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_17,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_17,Dallas Cowboys,2014
+['Dekoda Watson'],Questionable: hamstring,week_17,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_17,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_17,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_17,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_18,Dallas Cowboys,2014
+['Josh Brent'],Probable: calf,week_18,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_18,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_18,Dallas Cowboys,2014
+['Bruce Carter'],Probable: knee,week_18,Dallas Cowboys,2014
+['Barry Church'],NA,week_18,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_18,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_18,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_18,Dallas Cowboys,2014
+['Tyrone Crawford'],Questionable: illness,week_18,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_18,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_18,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_18,Dallas Cowboys,2014
+['Doug Free'],Doubtful: ankle,week_18,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_18,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_18,Dallas Cowboys,2014
+['James Hanna'],NA,week_18,Dallas Cowboys,2014
+['Nick Hayden'],Questionable: shoulder,week_18,Dallas Cowboys,2014
+['Jeff Heath'],Probable: thumb,week_18,Dallas Cowboys,2014
+['Anthony Hitchens'],Doubtful: ankle,week_18,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_18,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_18,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_18,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_18,Dallas Cowboys,2014
+['Zack Martin'],Probable: ankle,week_18,Dallas Cowboys,2014
+['Rolando McClain'],Probable: knee/illness,week_18,Dallas Cowboys,2014
+['Terrell McClain'],NA,week_18,Dallas Cowboys,2014
+['Henry Melton'],Injured Reserve: knee,week_18,Dallas Cowboys,2014
+['Jeremy Mincey'],NA,week_18,Dallas Cowboys,2014
+['DeMarco Murray'],Probable: hand,week_18,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_18,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_18,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_18,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_18,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_18,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_18,Dallas Cowboys,2014
+['George Selvie'],NA,week_18,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_18,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_18,Dallas Cowboys,2014
+['C.J. Spillman'],Doubtful: groin,week_18,Dallas Cowboys,2014
+['Dekoda Watson'],Probable: hamstring,week_18,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_18,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_18,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_18,Dallas Cowboys,2014
+['Ken Bishop'],NA,week_19,Dallas Cowboys,2014
+['Josh Brent'],NA,week_19,Dallas Cowboys,2014
+['Dez Bryant'],NA,week_19,Dallas Cowboys,2014
+['Brandon Carr'],NA,week_19,Dallas Cowboys,2014
+['Bruce Carter'],Probable: knee,week_19,Dallas Cowboys,2014
+['Barry Church'],NA,week_19,Dallas Cowboys,2014
+['Morris Claiborne'],Injured Reserve: knee,week_19,Dallas Cowboys,2014
+['Davon Coleman'],NA,week_19,Dallas Cowboys,2014
+['Jack Crawford'],Injured Reserve: thumb,week_19,Dallas Cowboys,2014
+['Tyrone Crawford'],NA,week_19,Dallas Cowboys,2014
+['Justin Durant'],Injured Reserve: biceps,week_19,Dallas Cowboys,2014
+['Lavar Edwards'],NA,week_19,Dallas Cowboys,2014
+['Gavin Escobar'],NA,week_19,Dallas Cowboys,2014
+['Doug Free'],Doubtful: ankle,week_19,Dallas Cowboys,2014
+['Ben Gardner'],Injured Reserve: shoulder,week_19,Dallas Cowboys,2014
+['Jakar Hamilton'],NA,week_19,Dallas Cowboys,2014
+['James Hanna'],Probable: knee,week_19,Dallas Cowboys,2014
+['Nick Hayden'],Probable: shoulder,week_19,Dallas Cowboys,2014
+['Jeff Heath'],Probable: thumb,week_19,Dallas Cowboys,2014
+['Anthony Hitchens'],Questionable: ankle,week_19,Dallas Cowboys,2014
+['Cameron Lawrence'],NA,week_19,Dallas Cowboys,2014
+['Demarcus Lawrence'],NA,week_19,Dallas Cowboys,2014
+['Ronald Leary'],NA,week_19,Dallas Cowboys,2014
+['Sean Lee'],Injured Reserve: knee,week_19,Dallas Cowboys,2014
+['Zack Martin'],Probable: ankle,week_19,Dallas Cowboys,2014
+['Rolando McClain'],Questionable: knee/concussion,week_19,Dallas Cowboys,2014
+['Terrell McClain'],Questionable: ankle,week_19,Dallas Cowboys,2014
+['Henry Melton'],Injured Reserve: knee,week_19,Dallas Cowboys,2014
+['Jeremy Mincey'],Questionable: head,week_19,Dallas Cowboys,2014
+['DeMarco Murray'],Probable: hand,week_19,Dallas Cowboys,2014
+['Amobi Okoye'],Out: illness,week_19,Dallas Cowboys,2014
+['Jermey Parnell'],NA,week_19,Dallas Cowboys,2014
+['Tyler Patmon'],NA,week_19,Dallas Cowboys,2014
+['Joseph Randle'],NA,week_19,Dallas Cowboys,2014
+['Tony Romo'],Probable: back,week_19,Dallas Cowboys,2014
+['Orlando Scandrick'],NA,week_19,Dallas Cowboys,2014
+['George Selvie'],NA,week_19,Dallas Cowboys,2014
+['Tyron Smith'],NA,week_19,Dallas Cowboys,2014
+['Anthony Spencer'],NA,week_19,Dallas Cowboys,2014
+['C.J. Spillman'],NA,week_19,Dallas Cowboys,2014
+['Dekoda Watson'],NA,week_19,Dallas Cowboys,2014
+['Darrion Weems'],Injured Reserve: shoulder,week_19,Dallas Cowboys,2014
+['Chris Whaley'],Out: knee,week_19,Dallas Cowboys,2014
+['Terrance Williams'],NA,week_19,Dallas Cowboys,2014

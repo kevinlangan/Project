@@ -1,0 +1,851 @@
+﻿name,injury,week,team,year
+['C.J. Anderson'],NA,week_1,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_1,Denver Broncos,2014
+['Montee Ball'],NA,week_1,Denver Broncos,2014
+['Lamin Barrow'],NA,week_1,Denver Broncos,2014
+['Omar Bolden'],NA,week_1,Denver Broncos,2014
+['David Bruton'],NA,week_1,Denver Broncos,2014
+['Isaiah Burse'],Probable: heat,week_1,Denver Broncos,2014
+['Andre Caldwell'],NA,week_1,Denver Broncos,2014
+['Quinton Carter'],NA,week_1,Denver Broncos,2014
+['Ryan Clady'],NA,week_1,Denver Broncos,2014
+['Chris Clark'],NA,week_1,Denver Broncos,2014
+['Britton Colquitt'],NA,week_1,Denver Broncos,2014
+['Paul Cornick'],NA,week_1,Denver Broncos,2014
+['Orlando Franklin'],NA,week_1,Denver Broncos,2014
+['Ben Garland'],Questionable: ankle,week_1,Denver Broncos,2014
+['Virgil Green'],NA,week_1,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_1,Denver Broncos,2014
+['Ronnie Hillman'],Out: illness,week_1,Denver Broncos,2014
+['Nate Irving'],NA,week_1,Denver Broncos,2014
+['Malik Jackson'],NA,week_1,Denver Broncos,2014
+['Steven Johnson'],NA,week_1,Denver Broncos,2014
+['Terrance Knighton'],Questionable: knee,week_1,Denver Broncos,2014
+['Cody Latimer'],NA,week_1,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_1,Denver Broncos,2014
+['Peyton Manning'],NA,week_1,Denver Broncos,2014
+['Brandon Marshall'],NA,week_1,Denver Broncos,2014
+['Lerentee McCray'],NA,week_1,Denver Broncos,2014
+['Brandon McManus'],NA,week_1,Denver Broncos,2014
+['Von Miller'],NA,week_1,Denver Broncos,2014
+['Will Montgomery'],NA,week_1,Denver Broncos,2014
+['Corey Nelson'],NA,week_1,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_1,Denver Broncos,2014
+['Matt Prater'],Suspended: ,week_1,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_1,Denver Broncos,2014
+['Emmanuel Sanders'],Probable: thigh,week_1,Denver Broncos,2014
+['Quanterus Smith'],NA,week_1,Denver Broncos,2014
+['Aqib Talib'],NA,week_1,Denver Broncos,2014
+['Jacob Tamme'],NA,week_1,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_1,Denver Broncos,2014
+['Julius Thomas'],NA,week_1,Denver Broncos,2014
+['Juwan Thompson'],NA,week_1,Denver Broncos,2014
+['Danny Trevathan'],Out: knee,week_1,Denver Broncos,2014
+['Mitch Unrein'],NA,week_1,Denver Broncos,2014
+['Louis Vasquez'],Probable: back,week_1,Denver Broncos,2014
+['T.J. Ward'],NA,week_1,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_1,Denver Broncos,2014
+['Kayvon Webster'],Probable: ankle,week_1,Denver Broncos,2014
+['Wes Welker'],Suspended: ,week_1,Denver Broncos,2014
+['Derek Wolfe'],NA,week_1,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_1,Denver Broncos,2014
+['C.J. Anderson'],NA,week_2,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_2,Denver Broncos,2014
+['Montee Ball'],NA,week_2,Denver Broncos,2014
+['Lamin Barrow'],NA,week_2,Denver Broncos,2014
+['Omar Bolden'],NA,week_2,Denver Broncos,2014
+['David Bruton'],Questionable: shoulder,week_2,Denver Broncos,2014
+['Isaiah Burse'],NA,week_2,Denver Broncos,2014
+['Andre Caldwell'],NA,week_2,Denver Broncos,2014
+['Quinton Carter'],NA,week_2,Denver Broncos,2014
+['Ryan Clady'],Probable: foot,week_2,Denver Broncos,2014
+['Chris Clark'],NA,week_2,Denver Broncos,2014
+['Britton Colquitt'],NA,week_2,Denver Broncos,2014
+['Paul Cornick'],NA,week_2,Denver Broncos,2014
+['Orlando Franklin'],NA,week_2,Denver Broncos,2014
+['Ben Garland'],Questionable: ankle,week_2,Denver Broncos,2014
+['Virgil Green'],NA,week_2,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_2,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_2,Denver Broncos,2014
+['Nate Irving'],Probable: leg,week_2,Denver Broncos,2014
+['Malik Jackson'],NA,week_2,Denver Broncos,2014
+['Steven Johnson'],NA,week_2,Denver Broncos,2014
+['Terrance Knighton'],NA,week_2,Denver Broncos,2014
+['Cody Latimer'],NA,week_2,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_2,Denver Broncos,2014
+['Peyton Manning'],NA,week_2,Denver Broncos,2014
+['Brandon Marshall'],NA,week_2,Denver Broncos,2014
+['Lerentee McCray'],NA,week_2,Denver Broncos,2014
+['Brandon McManus'],NA,week_2,Denver Broncos,2014
+['Von Miller'],NA,week_2,Denver Broncos,2014
+['Will Montgomery'],NA,week_2,Denver Broncos,2014
+['Corey Nelson'],NA,week_2,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_2,Denver Broncos,2014
+['Matt Prater'],Suspended: ,week_2,Denver Broncos,2014
+['Manuel Ramirez'],Probable: back,week_2,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_2,Denver Broncos,2014
+['Quanterus Smith'],NA,week_2,Denver Broncos,2014
+['Aqib Talib'],NA,week_2,Denver Broncos,2014
+['Jacob Tamme'],NA,week_2,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_2,Denver Broncos,2014
+['Julius Thomas'],NA,week_2,Denver Broncos,2014
+['Juwan Thompson'],NA,week_2,Denver Broncos,2014
+['Danny Trevathan'],Out: knee,week_2,Denver Broncos,2014
+['Mitch Unrein'],NA,week_2,Denver Broncos,2014
+['Louis Vasquez'],NA,week_2,Denver Broncos,2014
+['T.J. Ward'],NA,week_2,Denver Broncos,2014
+['DeMarcus Ware'],Probable: thigh,week_2,Denver Broncos,2014
+['Kayvon Webster'],Probable: ankle,week_2,Denver Broncos,2014
+['Wes Welker'],Suspended: ,week_2,Denver Broncos,2014
+['Derek Wolfe'],NA,week_2,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_2,Denver Broncos,2014
+['C.J. Anderson'],NA,week_3,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_3,Denver Broncos,2014
+['Montee Ball'],NA,week_3,Denver Broncos,2014
+['Lamin Barrow'],NA,week_3,Denver Broncos,2014
+['Omar Bolden'],NA,week_3,Denver Broncos,2014
+['David Bruton'],Questionable: shoulder,week_3,Denver Broncos,2014
+['Isaiah Burse'],NA,week_3,Denver Broncos,2014
+['Andre Caldwell'],NA,week_3,Denver Broncos,2014
+['Quinton Carter'],Probable: knee,week_3,Denver Broncos,2014
+['Ryan Clady'],Probable: foot,week_3,Denver Broncos,2014
+['Chris Clark'],NA,week_3,Denver Broncos,2014
+['Britton Colquitt'],NA,week_3,Denver Broncos,2014
+['Paul Cornick'],NA,week_3,Denver Broncos,2014
+['Orlando Franklin'],NA,week_3,Denver Broncos,2014
+['Ben Garland'],Questionable: ankle,week_3,Denver Broncos,2014
+['Virgil Green'],NA,week_3,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_3,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_3,Denver Broncos,2014
+['Nate Irving'],NA,week_3,Denver Broncos,2014
+['Malik Jackson'],NA,week_3,Denver Broncos,2014
+['Steven Johnson'],NA,week_3,Denver Broncos,2014
+['Terrance Knighton'],NA,week_3,Denver Broncos,2014
+['Cody Latimer'],NA,week_3,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_3,Denver Broncos,2014
+['Peyton Manning'],NA,week_3,Denver Broncos,2014
+['Brandon Marshall'],NA,week_3,Denver Broncos,2014
+['Lerentee McCray'],Questionable: knee,week_3,Denver Broncos,2014
+['Brandon McManus'],Questionable: right groin,week_3,Denver Broncos,2014
+['Von Miller'],Probable: groin,week_3,Denver Broncos,2014
+['Will Montgomery'],NA,week_3,Denver Broncos,2014
+['Corey Nelson'],NA,week_3,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_3,Denver Broncos,2014
+['Matt Prater'],Suspended: ,week_3,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_3,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_3,Denver Broncos,2014
+['Quanterus Smith'],NA,week_3,Denver Broncos,2014
+['Aqib Talib'],NA,week_3,Denver Broncos,2014
+['Jacob Tamme'],NA,week_3,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_3,Denver Broncos,2014
+['Julius Thomas'],NA,week_3,Denver Broncos,2014
+['Juwan Thompson'],NA,week_3,Denver Broncos,2014
+['Danny Trevathan'],Out: knee,week_3,Denver Broncos,2014
+['Mitch Unrein'],NA,week_3,Denver Broncos,2014
+['Louis Vasquez'],NA,week_3,Denver Broncos,2014
+['T.J. Ward'],NA,week_3,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_3,Denver Broncos,2014
+['Kayvon Webster'],NA,week_3,Denver Broncos,2014
+['Wes Welker'],Probable: suspension served,week_3,Denver Broncos,2014
+['Derek Wolfe'],NA,week_3,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_3,Denver Broncos,2014
+['C.J. Anderson'],NA,week_5,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_5,Denver Broncos,2014
+['Montee Ball'],NA,week_5,Denver Broncos,2014
+['Lamin Barrow'],NA,week_5,Denver Broncos,2014
+['Omar Bolden'],NA,week_5,Denver Broncos,2014
+['David Bruton'],Questionable: ankle,week_5,Denver Broncos,2014
+['Isaiah Burse'],NA,week_5,Denver Broncos,2014
+['Andre Caldwell'],NA,week_5,Denver Broncos,2014
+['Quinton Carter'],Probable: knee,week_5,Denver Broncos,2014
+['Ryan Clady'],NA,week_5,Denver Broncos,2014
+['Chris Clark'],NA,week_5,Denver Broncos,2014
+['Britton Colquitt'],NA,week_5,Denver Broncos,2014
+['Paul Cornick'],NA,week_5,Denver Broncos,2014
+['Orlando Franklin'],NA,week_5,Denver Broncos,2014
+['Ben Garland'],NA,week_5,Denver Broncos,2014
+['Virgil Green'],Probable: concussion,week_5,Denver Broncos,2014
+['Chris Harris'],NA,week_5,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_5,Denver Broncos,2014
+['Nate Irving'],NA,week_5,Denver Broncos,2014
+['Malik Jackson'],NA,week_5,Denver Broncos,2014
+['Steven Johnson'],NA,week_5,Denver Broncos,2014
+['Terrance Knighton'],NA,week_5,Denver Broncos,2014
+['Cody Latimer'],NA,week_5,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_5,Denver Broncos,2014
+['Peyton Manning'],NA,week_5,Denver Broncos,2014
+['Brandon Marshall'],NA,week_5,Denver Broncos,2014
+['Lerentee McCray'],Questionable: knee,week_5,Denver Broncos,2014
+['Brandon McManus'],Probable: right groin,week_5,Denver Broncos,2014
+['Von Miller'],NA,week_5,Denver Broncos,2014
+['Will Montgomery'],NA,week_5,Denver Broncos,2014
+['Corey Nelson'],NA,week_5,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_5,Denver Broncos,2014
+['Matt Prater'],Suspended: ,week_5,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_5,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_5,Denver Broncos,2014
+['Quanterus Smith'],NA,week_5,Denver Broncos,2014
+['Aqib Talib'],NA,week_5,Denver Broncos,2014
+['Jacob Tamme'],NA,week_5,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_5,Denver Broncos,2014
+['Julius Thomas'],NA,week_5,Denver Broncos,2014
+['Juwan Thompson'],NA,week_5,Denver Broncos,2014
+['Danny Trevathan'],Probable: knee,week_5,Denver Broncos,2014
+['Mitch Unrein'],NA,week_5,Denver Broncos,2014
+['Louis Vasquez'],Probable: ribs,week_5,Denver Broncos,2014
+['T.J. Ward'],NA,week_5,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_5,Denver Broncos,2014
+['Kayvon Webster'],NA,week_5,Denver Broncos,2014
+['Wes Welker'],NA,week_5,Denver Broncos,2014
+['Derek Wolfe'],NA,week_5,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_5,Denver Broncos,2014
+['C.J. Anderson'],NA,week_6,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_6,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_6,Denver Broncos,2014
+['Lamin Barrow'],NA,week_6,Denver Broncos,2014
+['Omar Bolden'],NA,week_6,Denver Broncos,2014
+['David Bruton'],Probable: ankle,week_6,Denver Broncos,2014
+['Isaiah Burse'],NA,week_6,Denver Broncos,2014
+['Andre Caldwell'],Probable: knee,week_6,Denver Broncos,2014
+['Quinton Carter'],NA,week_6,Denver Broncos,2014
+['Ryan Clady'],NA,week_6,Denver Broncos,2014
+['Chris Clark'],NA,week_6,Denver Broncos,2014
+['Britton Colquitt'],NA,week_6,Denver Broncos,2014
+['Paul Cornick'],NA,week_6,Denver Broncos,2014
+['Orlando Franklin'],NA,week_6,Denver Broncos,2014
+['Ben Garland'],NA,week_6,Denver Broncos,2014
+['Virgil Green'],NA,week_6,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_6,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_6,Denver Broncos,2014
+['Nate Irving'],NA,week_6,Denver Broncos,2014
+['Malik Jackson'],NA,week_6,Denver Broncos,2014
+['Steven Johnson'],NA,week_6,Denver Broncos,2014
+['Terrance Knighton'],NA,week_6,Denver Broncos,2014
+['Cody Latimer'],NA,week_6,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_6,Denver Broncos,2014
+['Peyton Manning'],NA,week_6,Denver Broncos,2014
+['Brandon Marshall'],NA,week_6,Denver Broncos,2014
+['Lerentee McCray'],Probable: knee,week_6,Denver Broncos,2014
+['Brandon McManus'],Probable: right groin,week_6,Denver Broncos,2014
+['Von Miller'],NA,week_6,Denver Broncos,2014
+['Will Montgomery'],NA,week_6,Denver Broncos,2014
+['Corey Nelson'],NA,week_6,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_6,Denver Broncos,2014
+['Matt Prater'],NA,week_6,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_6,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_6,Denver Broncos,2014
+['Quanterus Smith'],NA,week_6,Denver Broncos,2014
+['Aqib Talib'],NA,week_6,Denver Broncos,2014
+['Jacob Tamme'],NA,week_6,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_6,Denver Broncos,2014
+['Julius Thomas'],NA,week_6,Denver Broncos,2014
+['Juwan Thompson'],Questionable: knee,week_6,Denver Broncos,2014
+['Danny Trevathan'],NA,week_6,Denver Broncos,2014
+['Mitch Unrein'],NA,week_6,Denver Broncos,2014
+['Louis Vasquez'],NA,week_6,Denver Broncos,2014
+['T.J. Ward'],NA,week_6,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_6,Denver Broncos,2014
+['Kayvon Webster'],NA,week_6,Denver Broncos,2014
+['Wes Welker'],NA,week_6,Denver Broncos,2014
+['Derek Wolfe'],NA,week_6,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_6,Denver Broncos,2014
+['C.J. Anderson'],NA,week_7,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_7,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_7,Denver Broncos,2014
+['Lamin Barrow'],NA,week_7,Denver Broncos,2014
+['Omar Bolden'],Probable: groin,week_7,Denver Broncos,2014
+['David Bruton'],Probable: ankile,week_7,Denver Broncos,2014
+['Isaiah Burse'],NA,week_7,Denver Broncos,2014
+['Andre Caldwell'],NA,week_7,Denver Broncos,2014
+['Quinton Carter'],NA,week_7,Denver Broncos,2014
+['Ryan Clady'],NA,week_7,Denver Broncos,2014
+['Chris Clark'],NA,week_7,Denver Broncos,2014
+['Britton Colquitt'],NA,week_7,Denver Broncos,2014
+['Paul Cornick'],NA,week_7,Denver Broncos,2014
+['Orlando Franklin'],NA,week_7,Denver Broncos,2014
+['Ben Garland'],NA,week_7,Denver Broncos,2014
+['Virgil Green'],NA,week_7,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_7,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_7,Denver Broncos,2014
+['Nate Irving'],NA,week_7,Denver Broncos,2014
+['Malik Jackson'],NA,week_7,Denver Broncos,2014
+['Steven Johnson'],NA,week_7,Denver Broncos,2014
+['Terrance Knighton'],NA,week_7,Denver Broncos,2014
+['Cody Latimer'],NA,week_7,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_7,Denver Broncos,2014
+['Peyton Manning'],NA,week_7,Denver Broncos,2014
+['Brandon Marshall'],NA,week_7,Denver Broncos,2014
+['Lerentee McCray'],Questionable: knee,week_7,Denver Broncos,2014
+['Brandon McManus'],Probable: right groin,week_7,Denver Broncos,2014
+['Von Miller'],NA,week_7,Denver Broncos,2014
+['Will Montgomery'],NA,week_7,Denver Broncos,2014
+['Corey Nelson'],Probable: hamstring,week_7,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_7,Denver Broncos,2014
+['Matt Prater'],NA,week_7,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_7,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_7,Denver Broncos,2014
+['Quanterus Smith'],NA,week_7,Denver Broncos,2014
+['Aqib Talib'],NA,week_7,Denver Broncos,2014
+['Jacob Tamme'],NA,week_7,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_7,Denver Broncos,2014
+['Julius Thomas'],NA,week_7,Denver Broncos,2014
+['Juwan Thompson'],Questionable: knee,week_7,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_7,Denver Broncos,2014
+['Mitch Unrein'],NA,week_7,Denver Broncos,2014
+['Louis Vasquez'],NA,week_7,Denver Broncos,2014
+['T.J. Ward'],NA,week_7,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_7,Denver Broncos,2014
+['Kayvon Webster'],NA,week_7,Denver Broncos,2014
+['Wes Welker'],NA,week_7,Denver Broncos,2014
+['Derek Wolfe'],NA,week_7,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_7,Denver Broncos,2014
+['C.J. Anderson'],NA,week_8,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_8,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_8,Denver Broncos,2014
+['Lamin Barrow'],NA,week_8,Denver Broncos,2014
+['Omar Bolden'],Questionable: head,week_8,Denver Broncos,2014
+['David Bruton'],NA,week_8,Denver Broncos,2014
+['Isaiah Burse'],NA,week_8,Denver Broncos,2014
+['Andre Caldwell'],NA,week_8,Denver Broncos,2014
+['Quinton Carter'],Probable: hamstring,week_8,Denver Broncos,2014
+['Ryan Clady'],NA,week_8,Denver Broncos,2014
+['Chris Clark'],NA,week_8,Denver Broncos,2014
+['Britton Colquitt'],NA,week_8,Denver Broncos,2014
+['Paul Cornick'],NA,week_8,Denver Broncos,2014
+['Orlando Franklin'],NA,week_8,Denver Broncos,2014
+['Ben Garland'],NA,week_8,Denver Broncos,2014
+['Virgil Green'],NA,week_8,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_8,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_8,Denver Broncos,2014
+['Nate Irving'],NA,week_8,Denver Broncos,2014
+['Malik Jackson'],NA,week_8,Denver Broncos,2014
+['Steven Johnson'],Questionable: ankle,week_8,Denver Broncos,2014
+['Terrance Knighton'],NA,week_8,Denver Broncos,2014
+['Cody Latimer'],NA,week_8,Denver Broncos,2014
+['Greg Latta'],Injured Reserve: hip,week_8,Denver Broncos,2014
+['Peyton Manning'],NA,week_8,Denver Broncos,2014
+['Brandon Marshall'],NA,week_8,Denver Broncos,2014
+['Lerentee McCray'],NA,week_8,Denver Broncos,2014
+['Brandon McManus'],Questionable: right groin,week_8,Denver Broncos,2014
+['Von Miller'],NA,week_8,Denver Broncos,2014
+['Will Montgomery'],NA,week_8,Denver Broncos,2014
+['Corey Nelson'],NA,week_8,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_8,Denver Broncos,2014
+['Matt Prater'],NA,week_8,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_8,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_8,Denver Broncos,2014
+['Quanterus Smith'],NA,week_8,Denver Broncos,2014
+['Aqib Talib'],NA,week_8,Denver Broncos,2014
+['Jacob Tamme'],NA,week_8,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_8,Denver Broncos,2014
+['Julius Thomas'],NA,week_8,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_8,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_8,Denver Broncos,2014
+['Mitch Unrein'],NA,week_8,Denver Broncos,2014
+['Louis Vasquez'],NA,week_8,Denver Broncos,2014
+['T.J. Ward'],Probable: knee,week_8,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_8,Denver Broncos,2014
+['Kayvon Webster'],NA,week_8,Denver Broncos,2014
+['Wes Welker'],NA,week_8,Denver Broncos,2014
+['Derek Wolfe'],NA,week_8,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_8,Denver Broncos,2014
+['C.J. Anderson'],NA,week_9,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_9,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_9,Denver Broncos,2014
+['Lamin Barrow'],Questionable: concussion,week_9,Denver Broncos,2014
+['Omar Bolden'],Probable: concussion,week_9,Denver Broncos,2014
+['David Bruton'],NA,week_9,Denver Broncos,2014
+['Isaiah Burse'],NA,week_9,Denver Broncos,2014
+['Andre Caldwell'],NA,week_9,Denver Broncos,2014
+['Quinton Carter'],Questionable: hamstring,week_9,Denver Broncos,2014
+['Ryan Clady'],NA,week_9,Denver Broncos,2014
+['Chris Clark'],NA,week_9,Denver Broncos,2014
+['Britton Colquitt'],NA,week_9,Denver Broncos,2014
+['Paul Cornick'],NA,week_9,Denver Broncos,2014
+['Orlando Franklin'],NA,week_9,Denver Broncos,2014
+['Ben Garland'],NA,week_9,Denver Broncos,2014
+['Virgil Green'],Questionable: calf,week_9,Denver Broncos,2014
+['Chris Harris'],Probable: knee,week_9,Denver Broncos,2014
+['Ronnie Hillman'],Probable: shoulder,week_9,Denver Broncos,2014
+['Nate Irving'],NA,week_9,Denver Broncos,2014
+['Malik Jackson'],NA,week_9,Denver Broncos,2014
+['Steven Johnson'],Questionable: ankle,week_9,Denver Broncos,2014
+['Terrance Knighton'],NA,week_9,Denver Broncos,2014
+['Cody Latimer'],NA,week_9,Denver Broncos,2014
+['Greg Latta'],NA,week_9,Denver Broncos,2014
+['Peyton Manning'],NA,week_9,Denver Broncos,2014
+['Brandon Marshall'],NA,week_9,Denver Broncos,2014
+['Lerentee McCray'],NA,week_9,Denver Broncos,2014
+['Brandon McManus'],Probable: right groin,week_9,Denver Broncos,2014
+['Von Miller'],NA,week_9,Denver Broncos,2014
+['Will Montgomery'],NA,week_9,Denver Broncos,2014
+['Corey Nelson'],NA,week_9,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_9,Denver Broncos,2014
+['Matt Prater'],NA,week_9,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_9,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_9,Denver Broncos,2014
+['Quanterus Smith'],NA,week_9,Denver Broncos,2014
+['Aqib Talib'],NA,week_9,Denver Broncos,2014
+['Jacob Tamme'],NA,week_9,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_9,Denver Broncos,2014
+['Julius Thomas'],NA,week_9,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_9,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_9,Denver Broncos,2014
+['Mitch Unrein'],NA,week_9,Denver Broncos,2014
+['Louis Vasquez'],Questionable: illness,week_9,Denver Broncos,2014
+['T.J. Ward'],NA,week_9,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_9,Denver Broncos,2014
+['Kayvon Webster'],NA,week_9,Denver Broncos,2014
+['Wes Welker'],NA,week_9,Denver Broncos,2014
+['Derek Wolfe'],NA,week_9,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_9,Denver Broncos,2014
+['C.J. Anderson'],NA,week_10,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_10,Denver Broncos,2014
+['Montee Ball'],Probable: groin,week_10,Denver Broncos,2014
+['Lamin Barrow'],NA,week_10,Denver Broncos,2014
+['Omar Bolden'],NA,week_10,Denver Broncos,2014
+['David Bruton'],NA,week_10,Denver Broncos,2014
+['Isaiah Burse'],NA,week_10,Denver Broncos,2014
+['Andre Caldwell'],NA,week_10,Denver Broncos,2014
+['Quinton Carter'],Questionable: hamstring,week_10,Denver Broncos,2014
+['Ryan Clady'],NA,week_10,Denver Broncos,2014
+['Chris Clark'],NA,week_10,Denver Broncos,2014
+['Britton Colquitt'],NA,week_10,Denver Broncos,2014
+['Paul Cornick'],Questionable: shoulder,week_10,Denver Broncos,2014
+['Orlando Franklin'],NA,week_10,Denver Broncos,2014
+['Ben Garland'],NA,week_10,Denver Broncos,2014
+['Virgil Green'],Questionable: calf,week_10,Denver Broncos,2014
+['Chris Harris'],NA,week_10,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_10,Denver Broncos,2014
+['Nate Irving'],Out: knee,week_10,Denver Broncos,2014
+['Malik Jackson'],NA,week_10,Denver Broncos,2014
+['Steven Johnson'],Probable: ankle,week_10,Denver Broncos,2014
+['Terrance Knighton'],NA,week_10,Denver Broncos,2014
+['Cody Latimer'],NA,week_10,Denver Broncos,2014
+['Greg Latta'],NA,week_10,Denver Broncos,2014
+['Peyton Manning'],NA,week_10,Denver Broncos,2014
+['Brandon Marshall'],NA,week_10,Denver Broncos,2014
+['Lerentee McCray'],NA,week_10,Denver Broncos,2014
+['Brandon McManus'],Probable: right groin,week_10,Denver Broncos,2014
+['Von Miller'],NA,week_10,Denver Broncos,2014
+['Will Montgomery'],NA,week_10,Denver Broncos,2014
+['Corey Nelson'],NA,week_10,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_10,Denver Broncos,2014
+['Matt Prater'],NA,week_10,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_10,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_10,Denver Broncos,2014
+['Quanterus Smith'],NA,week_10,Denver Broncos,2014
+['Aqib Talib'],NA,week_10,Denver Broncos,2014
+['Jacob Tamme'],NA,week_10,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_10,Denver Broncos,2014
+['Julius Thomas'],NA,week_10,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_10,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_10,Denver Broncos,2014
+['Mitch Unrein'],NA,week_10,Denver Broncos,2014
+['Louis Vasquez'],NA,week_10,Denver Broncos,2014
+['T.J. Ward'],NA,week_10,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_10,Denver Broncos,2014
+['Kayvon Webster'],NA,week_10,Denver Broncos,2014
+['Wes Welker'],Probable: back,week_10,Denver Broncos,2014
+['Derek Wolfe'],NA,week_10,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_10,Denver Broncos,2014
+['C.J. Anderson'],NA,week_11,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_11,Denver Broncos,2014
+['Montee Ball'],Probable: groin,week_11,Denver Broncos,2014
+['Lamin Barrow'],NA,week_11,Denver Broncos,2014
+['Omar Bolden'],NA,week_11,Denver Broncos,2014
+['David Bruton'],NA,week_11,Denver Broncos,2014
+['Isaiah Burse'],NA,week_11,Denver Broncos,2014
+['Andre Caldwell'],NA,week_11,Denver Broncos,2014
+['Quinton Carter'],Probable: knee,week_11,Denver Broncos,2014
+['Ryan Clady'],Questionable: groin,week_11,Denver Broncos,2014
+['Chris Clark'],NA,week_11,Denver Broncos,2014
+['Britton Colquitt'],NA,week_11,Denver Broncos,2014
+['Paul Cornick'],Questionable: shoulder,week_11,Denver Broncos,2014
+['Orlando Franklin'],Questionable: knee,week_11,Denver Broncos,2014
+['Ben Garland'],NA,week_11,Denver Broncos,2014
+['Virgil Green'],Questionable: knee,week_11,Denver Broncos,2014
+['Chris Harris'],NA,week_11,Denver Broncos,2014
+['Ronnie Hillman'],Out: ankle,week_11,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_11,Denver Broncos,2014
+['Malik Jackson'],NA,week_11,Denver Broncos,2014
+['Steven Johnson'],Probable: ankle,week_11,Denver Broncos,2014
+['Terrance Knighton'],NA,week_11,Denver Broncos,2014
+['Cody Latimer'],NA,week_11,Denver Broncos,2014
+['Greg Latta'],NA,week_11,Denver Broncos,2014
+['Peyton Manning'],NA,week_11,Denver Broncos,2014
+['Brandon Marshall'],NA,week_11,Denver Broncos,2014
+['Lerentee McCray'],NA,week_11,Denver Broncos,2014
+['Brandon McManus'],NA,week_11,Denver Broncos,2014
+['Von Miller'],NA,week_11,Denver Broncos,2014
+['Will Montgomery'],NA,week_11,Denver Broncos,2014
+['Corey Nelson'],NA,week_11,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_11,Denver Broncos,2014
+['Matt Prater'],NA,week_11,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_11,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_11,Denver Broncos,2014
+['Quanterus Smith'],NA,week_11,Denver Broncos,2014
+['Aqib Talib'],NA,week_11,Denver Broncos,2014
+['Jacob Tamme'],NA,week_11,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_11,Denver Broncos,2014
+['Julius Thomas'],NA,week_11,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_11,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_11,Denver Broncos,2014
+['Mitch Unrein'],NA,week_11,Denver Broncos,2014
+['Louis Vasquez'],NA,week_11,Denver Broncos,2014
+['T.J. Ward'],NA,week_11,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_11,Denver Broncos,2014
+['Kayvon Webster'],NA,week_11,Denver Broncos,2014
+['Wes Welker'],NA,week_11,Denver Broncos,2014
+['Derek Wolfe'],NA,week_11,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_11,Denver Broncos,2014
+['C.J. Anderson'],NA,week_12,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_12,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_12,Denver Broncos,2014
+['Lamin Barrow'],NA,week_12,Denver Broncos,2014
+['Omar Bolden'],NA,week_12,Denver Broncos,2014
+['David Bruton'],Probable: ankle,week_12,Denver Broncos,2014
+['Isaiah Burse'],NA,week_12,Denver Broncos,2014
+['Andre Caldwell'],NA,week_12,Denver Broncos,2014
+['Quinton Carter'],Questionable: knee,week_12,Denver Broncos,2014
+['Ryan Clady'],Questionable: groin,week_12,Denver Broncos,2014
+['Chris Clark'],NA,week_12,Denver Broncos,2014
+['Britton Colquitt'],Probable: illness,week_12,Denver Broncos,2014
+['Paul Cornick'],Probable: shoulder,week_12,Denver Broncos,2014
+['Orlando Franklin'],NA,week_12,Denver Broncos,2014
+['Ben Garland'],NA,week_12,Denver Broncos,2014
+['Virgil Green'],Questionable: knee,week_12,Denver Broncos,2014
+['Chris Harris'],NA,week_12,Denver Broncos,2014
+['Ronnie Hillman'],Out: ankle,week_12,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_12,Denver Broncos,2014
+['Malik Jackson'],NA,week_12,Denver Broncos,2014
+['Steven Johnson'],Probable: ankle,week_12,Denver Broncos,2014
+['Terrance Knighton'],NA,week_12,Denver Broncos,2014
+['Cody Latimer'],NA,week_12,Denver Broncos,2014
+['Greg Latta'],NA,week_12,Denver Broncos,2014
+['Peyton Manning'],NA,week_12,Denver Broncos,2014
+['Brandon Marshall'],NA,week_12,Denver Broncos,2014
+['Lerentee McCray'],NA,week_12,Denver Broncos,2014
+['Brandon McManus'],NA,week_12,Denver Broncos,2014
+['Von Miller'],NA,week_12,Denver Broncos,2014
+['Will Montgomery'],NA,week_12,Denver Broncos,2014
+['Corey Nelson'],NA,week_12,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_12,Denver Broncos,2014
+['Matt Prater'],NA,week_12,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_12,Denver Broncos,2014
+['Emmanuel Sanders'],Questionable: concussion,week_12,Denver Broncos,2014
+['Quanterus Smith'],NA,week_12,Denver Broncos,2014
+['Aqib Talib'],NA,week_12,Denver Broncos,2014
+['Jacob Tamme'],NA,week_12,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_12,Denver Broncos,2014
+['Julius Thomas'],Questionable: ankle,week_12,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_12,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_12,Denver Broncos,2014
+['Mitch Unrein'],NA,week_12,Denver Broncos,2014
+['Louis Vasquez'],NA,week_12,Denver Broncos,2014
+['T.J. Ward'],NA,week_12,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_12,Denver Broncos,2014
+['Kayvon Webster'],NA,week_12,Denver Broncos,2014
+['Wes Welker'],NA,week_12,Denver Broncos,2014
+['Derek Wolfe'],NA,week_12,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_12,Denver Broncos,2014
+['C.J. Anderson'],NA,week_13,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_13,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_13,Denver Broncos,2014
+['Lamin Barrow'],NA,week_13,Denver Broncos,2014
+['Omar Bolden'],NA,week_13,Denver Broncos,2014
+['David Bruton'],Probable: finger,week_13,Denver Broncos,2014
+['Isaiah Burse'],NA,week_13,Denver Broncos,2014
+['Andre Caldwell'],NA,week_13,Denver Broncos,2014
+['Quinton Carter'],Questionable: knee,week_13,Denver Broncos,2014
+['Ryan Clady'],NA,week_13,Denver Broncos,2014
+['Chris Clark'],NA,week_13,Denver Broncos,2014
+['Britton Colquitt'],NA,week_13,Denver Broncos,2014
+['Paul Cornick'],NA,week_13,Denver Broncos,2014
+['Orlando Franklin'],NA,week_13,Denver Broncos,2014
+['Ben Garland'],NA,week_13,Denver Broncos,2014
+['Virgil Green'],Probable: calf,week_13,Denver Broncos,2014
+['Chris Harris'],NA,week_13,Denver Broncos,2014
+['Ronnie Hillman'],Out: ankle,week_13,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_13,Denver Broncos,2014
+['Malik Jackson'],NA,week_13,Denver Broncos,2014
+['Steven Johnson'],NA,week_13,Denver Broncos,2014
+['Terrance Knighton'],NA,week_13,Denver Broncos,2014
+['Cody Latimer'],NA,week_13,Denver Broncos,2014
+['Greg Latta'],NA,week_13,Denver Broncos,2014
+['Peyton Manning'],NA,week_13,Denver Broncos,2014
+['Brandon Marshall'],Questionable: concussion,week_13,Denver Broncos,2014
+['Lerentee McCray'],NA,week_13,Denver Broncos,2014
+['Brandon McManus'],NA,week_13,Denver Broncos,2014
+['Von Miller'],NA,week_13,Denver Broncos,2014
+['Will Montgomery'],NA,week_13,Denver Broncos,2014
+['Corey Nelson'],NA,week_13,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_13,Denver Broncos,2014
+['Matt Prater'],NA,week_13,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_13,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_13,Denver Broncos,2014
+['Quanterus Smith'],Questionable: ankle,week_13,Denver Broncos,2014
+['Aqib Talib'],Questionable: hamstring,week_13,Denver Broncos,2014
+['Jacob Tamme'],NA,week_13,Denver Broncos,2014
+['Demaryius Thomas'],NA,week_13,Denver Broncos,2014
+['Julius Thomas'],Questionable: ankle,week_13,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_13,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_13,Denver Broncos,2014
+['Mitch Unrein'],NA,week_13,Denver Broncos,2014
+['Louis Vasquez'],NA,week_13,Denver Broncos,2014
+['T.J. Ward'],NA,week_13,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_13,Denver Broncos,2014
+['Kayvon Webster'],Questionable: shoulder,week_13,Denver Broncos,2014
+['Wes Welker'],NA,week_13,Denver Broncos,2014
+['Derek Wolfe'],NA,week_13,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_13,Denver Broncos,2014
+['C.J. Anderson'],Probable: ankle,week_14,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_14,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_14,Denver Broncos,2014
+['Lamin Barrow'],NA,week_14,Denver Broncos,2014
+['Omar Bolden'],NA,week_14,Denver Broncos,2014
+['David Bruton'],NA,week_14,Denver Broncos,2014
+['Isaiah Burse'],NA,week_14,Denver Broncos,2014
+['Andre Caldwell'],NA,week_14,Denver Broncos,2014
+['Quinton Carter'],Questionable: knee,week_14,Denver Broncos,2014
+['Ryan Clady'],NA,week_14,Denver Broncos,2014
+['Chris Clark'],NA,week_14,Denver Broncos,2014
+['Britton Colquitt'],NA,week_14,Denver Broncos,2014
+['Paul Cornick'],Probable: shoulder,week_14,Denver Broncos,2014
+['Orlando Franklin'],NA,week_14,Denver Broncos,2014
+['Ben Garland'],NA,week_14,Denver Broncos,2014
+['Virgil Green'],NA,week_14,Denver Broncos,2014
+['Chris Harris'],NA,week_14,Denver Broncos,2014
+['Ronnie Hillman'],Out: ankle,week_14,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_14,Denver Broncos,2014
+['Malik Jackson'],NA,week_14,Denver Broncos,2014
+['Steven Johnson'],NA,week_14,Denver Broncos,2014
+['Terrance Knighton'],Probable: elbow,week_14,Denver Broncos,2014
+['Cody Latimer'],Questionable: head,week_14,Denver Broncos,2014
+['Greg Latta'],NA,week_14,Denver Broncos,2014
+['Peyton Manning'],NA,week_14,Denver Broncos,2014
+['Brandon Marshall'],NA,week_14,Denver Broncos,2014
+['Lerentee McCray'],Questionable: illness,week_14,Denver Broncos,2014
+['Brandon McManus'],NA,week_14,Denver Broncos,2014
+['Von Miller'],NA,week_14,Denver Broncos,2014
+['Will Montgomery'],Probable: knee,week_14,Denver Broncos,2014
+['Corey Nelson'],NA,week_14,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_14,Denver Broncos,2014
+['Matt Prater'],NA,week_14,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_14,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_14,Denver Broncos,2014
+['Quanterus Smith'],Questionable: ribs,week_14,Denver Broncos,2014
+['Aqib Talib'],Probable: hamstring,week_14,Denver Broncos,2014
+['Jacob Tamme'],Questionable: ribs,week_14,Denver Broncos,2014
+['Demaryius Thomas'],Probable: ankle,week_14,Denver Broncos,2014
+['Julius Thomas'],Questionable: ankle,week_14,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_14,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_14,Denver Broncos,2014
+['Mitch Unrein'],NA,week_14,Denver Broncos,2014
+['Louis Vasquez'],NA,week_14,Denver Broncos,2014
+['T.J. Ward'],NA,week_14,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_14,Denver Broncos,2014
+['Kayvon Webster'],Doubtful: shoulder,week_14,Denver Broncos,2014
+['Wes Welker'],NA,week_14,Denver Broncos,2014
+['Derek Wolfe'],Questionable: head,week_14,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_14,Denver Broncos,2014
+['C.J. Anderson'],Questionable: ankle,week_15,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_15,Denver Broncos,2014
+['Montee Ball'],Out: groin,week_15,Denver Broncos,2014
+['Lamin Barrow'],NA,week_15,Denver Broncos,2014
+['Omar Bolden'],NA,week_15,Denver Broncos,2014
+['David Bruton'],Probable: groin,week_15,Denver Broncos,2014
+['Isaiah Burse'],NA,week_15,Denver Broncos,2014
+['Andre Caldwell'],NA,week_15,Denver Broncos,2014
+['Quinton Carter'],Questionable: knee,week_15,Denver Broncos,2014
+['Ryan Clady'],NA,week_15,Denver Broncos,2014
+['Chris Clark'],NA,week_15,Denver Broncos,2014
+['Britton Colquitt'],NA,week_15,Denver Broncos,2014
+['Paul Cornick'],Questionable: toe,week_15,Denver Broncos,2014
+['Orlando Franklin'],NA,week_15,Denver Broncos,2014
+['Ben Garland'],NA,week_15,Denver Broncos,2014
+['Virgil Green'],NA,week_15,Denver Broncos,2014
+['Chris Harris'],NA,week_15,Denver Broncos,2014
+['Ronnie Hillman'],Out: ankle,week_15,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_15,Denver Broncos,2014
+['Malik Jackson'],Questionable: knee,week_15,Denver Broncos,2014
+['Steven Johnson'],NA,week_15,Denver Broncos,2014
+['Terrance Knighton'],NA,week_15,Denver Broncos,2014
+['Cody Latimer'],Questionable: concussion,week_15,Denver Broncos,2014
+['Greg Latta'],NA,week_15,Denver Broncos,2014
+['Peyton Manning'],NA,week_15,Denver Broncos,2014
+['Brandon Marshall'],NA,week_15,Denver Broncos,2014
+['Lerentee McCray'],NA,week_15,Denver Broncos,2014
+['Brandon McManus'],NA,week_15,Denver Broncos,2014
+['Von Miller'],NA,week_15,Denver Broncos,2014
+['Will Montgomery'],Probable: knee,week_15,Denver Broncos,2014
+['Corey Nelson'],NA,week_15,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_15,Denver Broncos,2014
+['Matt Prater'],NA,week_15,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_15,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_15,Denver Broncos,2014
+['Quanterus Smith'],Probable: ribs,week_15,Denver Broncos,2014
+['Aqib Talib'],NA,week_15,Denver Broncos,2014
+['Jacob Tamme'],Questionable: ribs,week_15,Denver Broncos,2014
+['Demaryius Thomas'],Probable: ankle,week_15,Denver Broncos,2014
+['Julius Thomas'],Questionable: ankle,week_15,Denver Broncos,2014
+['Juwan Thompson'],Probable: knee,week_15,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_15,Denver Broncos,2014
+['Mitch Unrein'],NA,week_15,Denver Broncos,2014
+['Louis Vasquez'],NA,week_15,Denver Broncos,2014
+['T.J. Ward'],NA,week_15,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_15,Denver Broncos,2014
+['Kayvon Webster'],Questionable: shoulder,week_15,Denver Broncos,2014
+['Wes Welker'],Probable: ankle,week_15,Denver Broncos,2014
+['Derek Wolfe'],NA,week_15,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_15,Denver Broncos,2014
+['C.J. Anderson'],Probable: ankle,week_16,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_16,Denver Broncos,2014
+['Montee Ball'],Injured Reserve: groin,week_16,Denver Broncos,2014
+['Lamin Barrow'],NA,week_16,Denver Broncos,2014
+['Omar Bolden'],NA,week_16,Denver Broncos,2014
+['David Bruton'],NA,week_16,Denver Broncos,2014
+['Isaiah Burse'],NA,week_16,Denver Broncos,2014
+['Andre Caldwell'],NA,week_16,Denver Broncos,2014
+['Quinton Carter'],Injured Reserve: knee,week_16,Denver Broncos,2014
+['Ryan Clady'],Questionable: thigh,week_16,Denver Broncos,2014
+['Chris Clark'],Probable: back,week_16,Denver Broncos,2014
+['Britton Colquitt'],NA,week_16,Denver Broncos,2014
+['Paul Cornick'],Questionable: toe,week_16,Denver Broncos,2014
+['Orlando Franklin'],NA,week_16,Denver Broncos,2014
+['Ben Garland'],NA,week_16,Denver Broncos,2014
+['Virgil Green'],NA,week_16,Denver Broncos,2014
+['Chris Harris'],NA,week_16,Denver Broncos,2014
+['Ronnie Hillman'],Questionable: ankle,week_16,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_16,Denver Broncos,2014
+['Malik Jackson'],NA,week_16,Denver Broncos,2014
+['Steven Johnson'],NA,week_16,Denver Broncos,2014
+['Terrance Knighton'],NA,week_16,Denver Broncos,2014
+['Cody Latimer'],Probable: concussion,week_16,Denver Broncos,2014
+['Greg Latta'],NA,week_16,Denver Broncos,2014
+['Peyton Manning'],Probable: thigh,week_16,Denver Broncos,2014
+['Brandon Marshall'],Out: foot,week_16,Denver Broncos,2014
+['Lerentee McCray'],NA,week_16,Denver Broncos,2014
+['Brandon McManus'],NA,week_16,Denver Broncos,2014
+['Von Miller'],NA,week_16,Denver Broncos,2014
+['Will Montgomery'],Probable: knee,week_16,Denver Broncos,2014
+['Corey Nelson'],NA,week_16,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_16,Denver Broncos,2014
+['Matt Prater'],NA,week_16,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_16,Denver Broncos,2014
+['Emmanuel Sanders'],Questionable: illness,week_16,Denver Broncos,2014
+['Quanterus Smith'],NA,week_16,Denver Broncos,2014
+['Aqib Talib'],NA,week_16,Denver Broncos,2014
+['Jacob Tamme'],Probable: ribs,week_16,Denver Broncos,2014
+['Demaryius Thomas'],Probable: ankle,week_16,Denver Broncos,2014
+['Julius Thomas'],Probable: ankle,week_16,Denver Broncos,2014
+['Juwan Thompson'],Questionable: hip/knee,week_16,Denver Broncos,2014
+['Danny Trevathan'],Out: knee,week_16,Denver Broncos,2014
+['Mitch Unrein'],NA,week_16,Denver Broncos,2014
+['Louis Vasquez'],NA,week_16,Denver Broncos,2014
+['T.J. Ward'],NA,week_16,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_16,Denver Broncos,2014
+['Kayvon Webster'],Questionable: shoulder,week_16,Denver Broncos,2014
+['Wes Welker'],NA,week_16,Denver Broncos,2014
+['Derek Wolfe'],NA,week_16,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_16,Denver Broncos,2014
+['C.J. Anderson'],Probable: ankle,week_17,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_17,Denver Broncos,2014
+['Montee Ball'],Injured Reserve: groin,week_17,Denver Broncos,2014
+['Lamin Barrow'],Probable: illness,week_17,Denver Broncos,2014
+['Omar Bolden'],NA,week_17,Denver Broncos,2014
+['David Bruton'],Probable: calf,week_17,Denver Broncos,2014
+['Isaiah Burse'],NA,week_17,Denver Broncos,2014
+['Andre Caldwell'],NA,week_17,Denver Broncos,2014
+['Quinton Carter'],Injured Reserve: knee,week_17,Denver Broncos,2014
+['Ryan Clady'],Probable: thigh,week_17,Denver Broncos,2014
+['Chris Clark'],Probable: back,week_17,Denver Broncos,2014
+['Britton Colquitt'],Probable: illness,week_17,Denver Broncos,2014
+['Paul Cornick'],Questionable: toe,week_17,Denver Broncos,2014
+['Orlando Franklin'],NA,week_17,Denver Broncos,2014
+['Ben Garland'],NA,week_17,Denver Broncos,2014
+['Virgil Green'],NA,week_17,Denver Broncos,2014
+['Chris Harris'],NA,week_17,Denver Broncos,2014
+['Ronnie Hillman'],Probable: foot,week_17,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_17,Denver Broncos,2014
+['Malik Jackson'],NA,week_17,Denver Broncos,2014
+['Steven Johnson'],NA,week_17,Denver Broncos,2014
+['Terrance Knighton'],NA,week_17,Denver Broncos,2014
+['Cody Latimer'],NA,week_17,Denver Broncos,2014
+['Greg Latta'],NA,week_17,Denver Broncos,2014
+['Peyton Manning'],Probable: thigh,week_17,Denver Broncos,2014
+['Brandon Marshall'],Questionable: foot,week_17,Denver Broncos,2014
+['Lerentee McCray'],NA,week_17,Denver Broncos,2014
+['Brandon McManus'],NA,week_17,Denver Broncos,2014
+['Von Miller'],NA,week_17,Denver Broncos,2014
+['Will Montgomery'],Probable: knee,week_17,Denver Broncos,2014
+['Corey Nelson'],NA,week_17,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_17,Denver Broncos,2014
+['Matt Prater'],NA,week_17,Denver Broncos,2014
+['Manuel Ramirez'],Questionable: illness,week_17,Denver Broncos,2014
+['Emmanuel Sanders'],Questionable: hip,week_17,Denver Broncos,2014
+['Quanterus Smith'],NA,week_17,Denver Broncos,2014
+['Aqib Talib'],NA,week_17,Denver Broncos,2014
+['Jacob Tamme'],Probable: foot,week_17,Denver Broncos,2014
+['Demaryius Thomas'],Probable: ankle/hip,week_17,Denver Broncos,2014
+['Julius Thomas'],Probable: ankle,week_17,Denver Broncos,2014
+['Juwan Thompson'],Probable: hip/knee,week_17,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_17,Denver Broncos,2014
+['Mitch Unrein'],Questionable: illness,week_17,Denver Broncos,2014
+['Louis Vasquez'],NA,week_17,Denver Broncos,2014
+['T.J. Ward'],Questionable: neck,week_17,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_17,Denver Broncos,2014
+['Kayvon Webster'],Probable: shoulder,week_17,Denver Broncos,2014
+['Wes Welker'],NA,week_17,Denver Broncos,2014
+['Derek Wolfe'],Probable: knee,week_17,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_17,Denver Broncos,2014
+['C.J. Anderson'],NA,week_19,Denver Broncos,2014
+['Kenny Anunike'],Injured Reserve: elbow,week_19,Denver Broncos,2014
+['Montee Ball'],Injured Reserve: groin,week_19,Denver Broncos,2014
+['Lamin Barrow'],NA,week_19,Denver Broncos,2014
+['Omar Bolden'],NA,week_19,Denver Broncos,2014
+['David Bruton'],Probable: concussion/neck,week_19,Denver Broncos,2014
+['Isaiah Burse'],NA,week_19,Denver Broncos,2014
+['Andre Caldwell'],NA,week_19,Denver Broncos,2014
+['Quinton Carter'],Injured Reserve: knee,week_19,Denver Broncos,2014
+['Ryan Clady'],NA,week_19,Denver Broncos,2014
+['Chris Clark'],NA,week_19,Denver Broncos,2014
+['Britton Colquitt'],NA,week_19,Denver Broncos,2014
+['Paul Cornick'],Probable: toe,week_19,Denver Broncos,2014
+['Orlando Franklin'],Probable: concussion,week_19,Denver Broncos,2014
+['Ben Garland'],NA,week_19,Denver Broncos,2014
+['Virgil Green'],NA,week_19,Denver Broncos,2014
+['Chris Harris'],NA,week_19,Denver Broncos,2014
+['Ronnie Hillman'],NA,week_19,Denver Broncos,2014
+['Nate Irving'],Injured Reserve: knee,week_19,Denver Broncos,2014
+['Malik Jackson'],NA,week_19,Denver Broncos,2014
+['Steven Johnson'],NA,week_19,Denver Broncos,2014
+['Terrance Knighton'],NA,week_19,Denver Broncos,2014
+['Cody Latimer'],NA,week_19,Denver Broncos,2014
+['Greg Latta'],NA,week_19,Denver Broncos,2014
+['Peyton Manning'],Probable: thigh,week_19,Denver Broncos,2014
+['Brandon Marshall'],Questionable: foot,week_19,Denver Broncos,2014
+['Lerentee McCray'],NA,week_19,Denver Broncos,2014
+['Brandon McManus'],NA,week_19,Denver Broncos,2014
+['Von Miller'],NA,week_19,Denver Broncos,2014
+['Will Montgomery'],Probable: knee,week_19,Denver Broncos,2014
+['Corey Nelson'],NA,week_19,Denver Broncos,2014
+['Jordan Norwood'],Injured Reserve: knee,week_19,Denver Broncos,2014
+['Matt Prater'],NA,week_19,Denver Broncos,2014
+['Manuel Ramirez'],NA,week_19,Denver Broncos,2014
+['Emmanuel Sanders'],NA,week_19,Denver Broncos,2014
+['Quanterus Smith'],Questionable: knee,week_19,Denver Broncos,2014
+['Aqib Talib'],Probable: Achilles,week_19,Denver Broncos,2014
+['Jacob Tamme'],NA,week_19,Denver Broncos,2014
+['Demaryius Thomas'],Probable: ankle/finger,week_19,Denver Broncos,2014
+['Julius Thomas'],Probable: ankle,week_19,Denver Broncos,2014
+['Juwan Thompson'],Probable: hip/knee,week_19,Denver Broncos,2014
+['Danny Trevathan'],Injured Reserve: knee,week_19,Denver Broncos,2014
+['Mitch Unrein'],Questionable: knee,week_19,Denver Broncos,2014
+['Louis Vasquez'],NA,week_19,Denver Broncos,2014
+['T.J. Ward'],Probable: neck,week_19,Denver Broncos,2014
+['DeMarcus Ware'],NA,week_19,Denver Broncos,2014
+['Kayvon Webster'],Probable: shoulder,week_19,Denver Broncos,2014
+['Wes Welker'],NA,week_19,Denver Broncos,2014
+['Derek Wolfe'],NA,week_19,Denver Broncos,2014
+['John Youboty'],Injured Reserve: Achilles,week_19,Denver Broncos,2014

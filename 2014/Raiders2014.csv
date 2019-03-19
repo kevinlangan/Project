@@ -1,0 +1,737 @@
+﻿name,injury,week,team,year
+['Larry Asante'],NA,week_1,Oakland Raiders,2014
+['David Ausberry'],Probable: knee,week_1,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_1,Oakland Raiders,2014
+['Tyvon Branch'],NA,week_1,Oakland Raiders,2014
+['Tarell Brown'],NA,week_1,Oakland Raiders,2014
+['Vincent Brown'],NA,week_1,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_1,Oakland Raiders,2014
+['Miles Burris'],NA,week_1,Oakland Raiders,2014
+['Brice Butler'],Questionable: concussion,week_1,Oakland Raiders,2014
+['Derek Carr'],NA,week_1,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_1,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: knee,week_1,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_1,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_1,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_1,Oakland Raiders,2014
+['Andre Holmes'],NA,week_1,Oakland Raiders,2014
+['Austin Howard'],NA,week_1,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_1,Oakland Raiders,2014
+['Sebastian Janikowski'],Probable: quadriceps,week_1,Oakland Raiders,2014
+['Taiwan Jones'],Probable: knee,week_1,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_1,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_1,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_1,Oakland Raiders,2014
+['Khalil Mack'],NA,week_1,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_1,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_1,Oakland Raiders,2014
+['Matt McCants'],NA,week_1,Oakland Raiders,2014
+['Keith McGill'],NA,week_1,Oakland Raiders,2014
+['Denarius Moore'],NA,week_1,Oakland Raiders,2014
+['Sio Moore'],NA,week_1,Oakland Raiders,2014
+['Latavius Murray'],NA,week_1,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_1,Oakland Raiders,2014
+['Marcel Reece'],NA,week_1,Oakland Raiders,2014
+['Nick Roach'],Questionable: concussion,week_1,Oakland Raiders,2014
+['Carlos Rogers'],NA,week_1,Oakland Raiders,2014
+['Matt Schaub'],Probable: elbow,week_1,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_1,Oakland Raiders,2014
+['Pat Sims'],NA,week_1,Oakland Raiders,2014
+['Rod Streater'],NA,week_1,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_1,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_1,Oakland Raiders,2014
+['Justin Tuck'],NA,week_1,Oakland Raiders,2014
+['Menelik Watson'],Probable: hip,week_1,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_1,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_1,Oakland Raiders,2014
+['Usama Young'],NA,week_1,Oakland Raiders,2014
+['Larry Asante'],NA,week_2,Oakland Raiders,2014
+['David Ausberry'],NA,week_2,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_2,Oakland Raiders,2014
+['Tyvon Branch'],NA,week_2,Oakland Raiders,2014
+['Tarell Brown'],NA,week_2,Oakland Raiders,2014
+['Vincent Brown'],NA,week_2,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_2,Oakland Raiders,2014
+['Miles Burris'],NA,week_2,Oakland Raiders,2014
+['Brice Butler'],NA,week_2,Oakland Raiders,2014
+['Derek Carr'],NA,week_2,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_2,Oakland Raiders,2014
+['Chimdi Chekwa'],Probable: knee,week_2,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_2,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_2,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_2,Oakland Raiders,2014
+['Andre Holmes'],NA,week_2,Oakland Raiders,2014
+['Austin Howard'],NA,week_2,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_2,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_2,Oakland Raiders,2014
+['Taiwan Jones'],Out: foot,week_2,Oakland Raiders,2014
+['Maurice Jones-Drew'],Doubtful: hand,week_2,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_2,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_2,Oakland Raiders,2014
+['Khalil Mack'],NA,week_2,Oakland Raiders,2014
+['Kaluka Maiava'],Questionable: illness,week_2,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_2,Oakland Raiders,2014
+['Matt McCants'],Questionable: knee,week_2,Oakland Raiders,2014
+['Keith McGill'],NA,week_2,Oakland Raiders,2014
+['Denarius Moore'],NA,week_2,Oakland Raiders,2014
+['Sio Moore'],NA,week_2,Oakland Raiders,2014
+['Latavius Murray'],NA,week_2,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_2,Oakland Raiders,2014
+['Marcel Reece'],NA,week_2,Oakland Raiders,2014
+['Nick Roach'],Questionable: concussion,week_2,Oakland Raiders,2014
+['Carlos Rogers'],NA,week_2,Oakland Raiders,2014
+['Matt Schaub'],NA,week_2,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_2,Oakland Raiders,2014
+['Pat Sims'],NA,week_2,Oakland Raiders,2014
+['Rod Streater'],Questionable: hip,week_2,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_2,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_2,Oakland Raiders,2014
+['Justin Tuck'],NA,week_2,Oakland Raiders,2014
+['Menelik Watson'],NA,week_2,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_2,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_2,Oakland Raiders,2014
+['Usama Young'],NA,week_2,Oakland Raiders,2014
+['Larry Asante'],NA,week_3,Oakland Raiders,2014
+['David Ausberry'],NA,week_3,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_3,Oakland Raiders,2014
+['Tyvon Branch'],NA,week_3,Oakland Raiders,2014
+['Tarell Brown'],NA,week_3,Oakland Raiders,2014
+['Vincent Brown'],NA,week_3,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_3,Oakland Raiders,2014
+['Miles Burris'],NA,week_3,Oakland Raiders,2014
+['Brice Butler'],NA,week_3,Oakland Raiders,2014
+['Derek Carr'],NA,week_3,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_3,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: knee,week_3,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_3,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_3,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_3,Oakland Raiders,2014
+['Andre Holmes'],NA,week_3,Oakland Raiders,2014
+['Austin Howard'],NA,week_3,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_3,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_3,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_3,Oakland Raiders,2014
+['Maurice Jones-Drew'],Questionable: hand,week_3,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_3,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_3,Oakland Raiders,2014
+['Khalil Mack'],NA,week_3,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_3,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_3,Oakland Raiders,2014
+['Matt McCants'],Questionable: knee,week_3,Oakland Raiders,2014
+['Keith McGill'],NA,week_3,Oakland Raiders,2014
+['Denarius Moore'],NA,week_3,Oakland Raiders,2014
+['Sio Moore'],Questionable: ankle,week_3,Oakland Raiders,2014
+['Latavius Murray'],NA,week_3,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_3,Oakland Raiders,2014
+['Marcel Reece'],NA,week_3,Oakland Raiders,2014
+['Nick Roach'],Questionable: concussion,week_3,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_3,Oakland Raiders,2014
+['Matt Schaub'],NA,week_3,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_3,Oakland Raiders,2014
+['Pat Sims'],NA,week_3,Oakland Raiders,2014
+['Rod Streater'],Questionable: hip,week_3,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_3,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_3,Oakland Raiders,2014
+['Justin Tuck'],Questionable: illness,week_3,Oakland Raiders,2014
+['Menelik Watson'],NA,week_3,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_3,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_3,Oakland Raiders,2014
+['Usama Young'],NA,week_3,Oakland Raiders,2014
+['Larry Asante'],NA,week_4,Oakland Raiders,2014
+['David Ausberry'],NA,week_4,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_4,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_4,Oakland Raiders,2014
+['Tarell Brown'],NA,week_4,Oakland Raiders,2014
+['Vincent Brown'],NA,week_4,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_4,Oakland Raiders,2014
+['Miles Burris'],Questionable: foot,week_4,Oakland Raiders,2014
+['Brice Butler'],NA,week_4,Oakland Raiders,2014
+['Derek Carr'],NA,week_4,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_4,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: knee,week_4,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_4,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_4,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_4,Oakland Raiders,2014
+['Andre Holmes'],NA,week_4,Oakland Raiders,2014
+['Austin Howard'],NA,week_4,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_4,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_4,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_4,Oakland Raiders,2014
+['Maurice Jones-Drew'],Probable: hand,week_4,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_4,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_4,Oakland Raiders,2014
+['Khalil Mack'],NA,week_4,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_4,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_4,Oakland Raiders,2014
+['Matt McCants'],Probable: knee,week_4,Oakland Raiders,2014
+['Keith McGill'],NA,week_4,Oakland Raiders,2014
+['Denarius Moore'],NA,week_4,Oakland Raiders,2014
+['Sio Moore'],Questionable: ankle,week_4,Oakland Raiders,2014
+['Latavius Murray'],NA,week_4,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_4,Oakland Raiders,2014
+['Marcel Reece'],NA,week_4,Oakland Raiders,2014
+['Nick Roach'],Questionable: concussion,week_4,Oakland Raiders,2014
+['Carlos Rogers'],NA,week_4,Oakland Raiders,2014
+['Matt Schaub'],Out: personal,week_4,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_4,Oakland Raiders,2014
+['Pat Sims'],NA,week_4,Oakland Raiders,2014
+['Rod Streater'],Out: foot,week_4,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_4,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_4,Oakland Raiders,2014
+['Justin Tuck'],NA,week_4,Oakland Raiders,2014
+['Menelik Watson'],NA,week_4,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_4,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_4,Oakland Raiders,2014
+['Usama Young'],NA,week_4,Oakland Raiders,2014
+['Larry Asante'],NA,week_6,Oakland Raiders,2014
+['David Ausberry'],NA,week_6,Oakland Raiders,2014
+['Khalif Barnes'],Doubtful: quadriceps,week_6,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_6,Oakland Raiders,2014
+['Tarell Brown'],Probable: thumb,week_6,Oakland Raiders,2014
+['Vincent Brown'],Questionable: hamstring,week_6,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_6,Oakland Raiders,2014
+['Miles Burris'],NA,week_6,Oakland Raiders,2014
+['Brice Butler'],NA,week_6,Oakland Raiders,2014
+['Derek Carr'],Questionable: knee,week_6,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_6,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_6,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_6,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_6,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_6,Oakland Raiders,2014
+['Andre Holmes'],NA,week_6,Oakland Raiders,2014
+['Austin Howard'],NA,week_6,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_6,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_6,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_6,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_6,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_6,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_6,Oakland Raiders,2014
+['Khalil Mack'],NA,week_6,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_6,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_6,Oakland Raiders,2014
+['Matt McCants'],Questionable: knee,week_6,Oakland Raiders,2014
+['Keith McGill'],Questionable: groin,week_6,Oakland Raiders,2014
+['Denarius Moore'],NA,week_6,Oakland Raiders,2014
+['Sio Moore'],Questionable: ankle,week_6,Oakland Raiders,2014
+['Latavius Murray'],NA,week_6,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_6,Oakland Raiders,2014
+['Marcel Reece'],Questionable: quadriceps,week_6,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_6,Oakland Raiders,2014
+['Carlos Rogers'],NA,week_6,Oakland Raiders,2014
+['Matt Schaub'],Probable: personal,week_6,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_6,Oakland Raiders,2014
+['Pat Sims'],NA,week_6,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_6,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_6,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_6,Oakland Raiders,2014
+['Justin Tuck'],NA,week_6,Oakland Raiders,2014
+['Menelik Watson'],NA,week_6,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_6,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_6,Oakland Raiders,2014
+['Usama Young'],NA,week_6,Oakland Raiders,2014
+['Larry Asante'],NA,week_7,Oakland Raiders,2014
+['David Ausberry'],NA,week_7,Oakland Raiders,2014
+['Khalif Barnes'],Questionable: quadriceps,week_7,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_7,Oakland Raiders,2014
+['Tarell Brown'],NA,week_7,Oakland Raiders,2014
+['Vincent Brown'],Questionable: hamstring,week_7,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_7,Oakland Raiders,2014
+['Miles Burris'],NA,week_7,Oakland Raiders,2014
+['Brice Butler'],NA,week_7,Oakland Raiders,2014
+['Derek Carr'],Probable: ankle/knee,week_7,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_7,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_7,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_7,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_7,Oakland Raiders,2014
+['D.J. Hayden'],Physically Unable to Perform: foot,week_7,Oakland Raiders,2014
+['Andre Holmes'],NA,week_7,Oakland Raiders,2014
+['Austin Howard'],NA,week_7,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_7,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_7,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_7,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_7,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_7,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_7,Oakland Raiders,2014
+['Khalil Mack'],NA,week_7,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_7,Oakland Raiders,2014
+['Benson Mayowa'],Probable: knee,week_7,Oakland Raiders,2014
+['Matt McCants'],NA,week_7,Oakland Raiders,2014
+['Keith McGill'],Questionable: groin,week_7,Oakland Raiders,2014
+['Denarius Moore'],NA,week_7,Oakland Raiders,2014
+['Sio Moore'],Questionable: ankle,week_7,Oakland Raiders,2014
+['Latavius Murray'],NA,week_7,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_7,Oakland Raiders,2014
+['Marcel Reece'],Questionable: quadricep,week_7,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_7,Oakland Raiders,2014
+['Carlos Rogers'],NA,week_7,Oakland Raiders,2014
+['Matt Schaub'],NA,week_7,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_7,Oakland Raiders,2014
+['Pat Sims'],NA,week_7,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_7,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_7,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_7,Oakland Raiders,2014
+['Justin Tuck'],Questionable: knee,week_7,Oakland Raiders,2014
+['Menelik Watson'],NA,week_7,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_7,Oakland Raiders,2014
+['LaMarr Woodley'],NA,week_7,Oakland Raiders,2014
+['Usama Young'],Questionable: foot,week_7,Oakland Raiders,2014
+['Larry Asante'],NA,week_8,Oakland Raiders,2014
+['David Ausberry'],Questionable: foot,week_8,Oakland Raiders,2014
+['Khalif Barnes'],Probable: quadriceps,week_8,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_8,Oakland Raiders,2014
+['Tarell Brown'],NA,week_8,Oakland Raiders,2014
+['Vincent Brown'],Questionable: hamstring,week_8,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_8,Oakland Raiders,2014
+['Miles Burris'],NA,week_8,Oakland Raiders,2014
+['Brice Butler'],NA,week_8,Oakland Raiders,2014
+['Derek Carr'],NA,week_8,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_8,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_8,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_8,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_8,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_8,Oakland Raiders,2014
+['Andre Holmes'],NA,week_8,Oakland Raiders,2014
+['Austin Howard'],Questionable: neck,week_8,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_8,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_8,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_8,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_8,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_8,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_8,Oakland Raiders,2014
+['Khalil Mack'],NA,week_8,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_8,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_8,Oakland Raiders,2014
+['Matt McCants'],NA,week_8,Oakland Raiders,2014
+['Keith McGill'],Questionable: groin,week_8,Oakland Raiders,2014
+['Denarius Moore'],NA,week_8,Oakland Raiders,2014
+['Sio Moore'],NA,week_8,Oakland Raiders,2014
+['Latavius Murray'],NA,week_8,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_8,Oakland Raiders,2014
+['Marcel Reece'],Probable: quadricep,week_8,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_8,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_8,Oakland Raiders,2014
+['Matt Schaub'],NA,week_8,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: Achilles,week_8,Oakland Raiders,2014
+['Pat Sims'],NA,week_8,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_8,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_8,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_8,Oakland Raiders,2014
+['Justin Tuck'],Questionable: knee,week_8,Oakland Raiders,2014
+['Menelik Watson'],NA,week_8,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_8,Oakland Raiders,2014
+['LaMarr Woodley'],Out: bicep,week_8,Oakland Raiders,2014
+['Usama Young'],Out: ankle,week_8,Oakland Raiders,2014
+['Larry Asante'],NA,week_9,Oakland Raiders,2014
+['David Ausberry'],Questionable: foot,week_9,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_9,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_9,Oakland Raiders,2014
+['Tarell Brown'],NA,week_9,Oakland Raiders,2014
+['Vincent Brown'],Questionable: hamstring,week_9,Oakland Raiders,2014
+['Kaelin Burnett'],Injured Reserve: knee,week_9,Oakland Raiders,2014
+['Miles Burris'],NA,week_9,Oakland Raiders,2014
+['Brice Butler'],NA,week_9,Oakland Raiders,2014
+['Derek Carr'],NA,week_9,Oakland Raiders,2014
+['T.J. Carrie'],Probable: back,week_9,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: hamstring,week_9,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_9,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_9,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_9,Oakland Raiders,2014
+['Andre Holmes'],NA,week_9,Oakland Raiders,2014
+['Austin Howard'],NA,week_9,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_9,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_9,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_9,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_9,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_9,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_9,Oakland Raiders,2014
+['Khalil Mack'],NA,week_9,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_9,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_9,Oakland Raiders,2014
+['Matt McCants'],NA,week_9,Oakland Raiders,2014
+['Keith McGill'],Questionable: groin,week_9,Oakland Raiders,2014
+['Denarius Moore'],NA,week_9,Oakland Raiders,2014
+['Sio Moore'],NA,week_9,Oakland Raiders,2014
+['Latavius Murray'],NA,week_9,Oakland Raiders,2014
+['Jamize Olawale'],Questionable: shoulder,week_9,Oakland Raiders,2014
+['Marcel Reece'],Questionable: quadriceps,week_9,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_9,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_9,Oakland Raiders,2014
+['Matt Schaub'],NA,week_9,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_9,Oakland Raiders,2014
+['Pat Sims'],NA,week_9,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_9,Oakland Raiders,2014
+['Kenbrell Thompkins'],Questionable: personal,week_9,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_9,Oakland Raiders,2014
+['Justin Tuck'],Questionable: knee,week_9,Oakland Raiders,2014
+['Menelik Watson'],NA,week_9,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_9,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_9,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_9,Oakland Raiders,2014
+['Larry Asante'],NA,week_10,Oakland Raiders,2014
+['David Ausberry'],Questionable: foot,week_10,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_10,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_10,Oakland Raiders,2014
+['Tarell Brown'],NA,week_10,Oakland Raiders,2014
+['Vincent Brown'],Probable: hamstring,week_10,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_10,Oakland Raiders,2014
+['Miles Burris'],NA,week_10,Oakland Raiders,2014
+['Brice Butler'],NA,week_10,Oakland Raiders,2014
+['Derek Carr'],NA,week_10,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_10,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: hamstring,week_10,Oakland Raiders,2014
+['Jonathan Dowling'],NA,week_10,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_10,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_10,Oakland Raiders,2014
+['Andre Holmes'],NA,week_10,Oakland Raiders,2014
+['Austin Howard'],NA,week_10,Oakland Raiders,2014
+['Gabe Jackson'],Questionable: knee,week_10,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_10,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_10,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_10,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_10,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_10,Oakland Raiders,2014
+['Khalil Mack'],NA,week_10,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_10,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_10,Oakland Raiders,2014
+['Matt McCants'],NA,week_10,Oakland Raiders,2014
+['Keith McGill'],Questionable: groin,week_10,Oakland Raiders,2014
+['Denarius Moore'],NA,week_10,Oakland Raiders,2014
+['Sio Moore'],NA,week_10,Oakland Raiders,2014
+['Latavius Murray'],NA,week_10,Oakland Raiders,2014
+['Jamize Olawale'],Questionable: shoulder,week_10,Oakland Raiders,2014
+['Marcel Reece'],NA,week_10,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_10,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_10,Oakland Raiders,2014
+['Matt Schaub'],NA,week_10,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_10,Oakland Raiders,2014
+['Pat Sims'],NA,week_10,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_10,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_10,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_10,Oakland Raiders,2014
+['Justin Tuck'],Questionable: knee,week_10,Oakland Raiders,2014
+['Menelik Watson'],NA,week_10,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_10,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_10,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_10,Oakland Raiders,2014
+['Larry Asante'],NA,week_11,Oakland Raiders,2014
+['David Ausberry'],Questionable: foot,week_11,Oakland Raiders,2014
+['Khalif Barnes'],Questionable: quadricep,week_11,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_11,Oakland Raiders,2014
+['Tarell Brown'],NA,week_11,Oakland Raiders,2014
+['Vincent Brown'],NA,week_11,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_11,Oakland Raiders,2014
+['Miles Burris'],NA,week_11,Oakland Raiders,2014
+['Brice Butler'],NA,week_11,Oakland Raiders,2014
+['Derek Carr'],NA,week_11,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_11,Oakland Raiders,2014
+['Chimdi Chekwa'],Probable: hamstring,week_11,Oakland Raiders,2014
+['Jonathan Dowling'],Questionable: back,week_11,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_11,Oakland Raiders,2014
+['D.J. Hayden'],Questionable: groin,week_11,Oakland Raiders,2014
+['Andre Holmes'],NA,week_11,Oakland Raiders,2014
+['Austin Howard'],NA,week_11,Oakland Raiders,2014
+['Gabe Jackson'],Questionable: knee,week_11,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_11,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_11,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_11,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_11,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_11,Oakland Raiders,2014
+['Khalil Mack'],NA,week_11,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_11,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_11,Oakland Raiders,2014
+['Matt McCants'],NA,week_11,Oakland Raiders,2014
+['Keith McGill'],NA,week_11,Oakland Raiders,2014
+['Denarius Moore'],NA,week_11,Oakland Raiders,2014
+['Sio Moore'],NA,week_11,Oakland Raiders,2014
+['Latavius Murray'],NA,week_11,Oakland Raiders,2014
+['Jamize Olawale'],Questionable: shoulder/hamstring,week_11,Oakland Raiders,2014
+['Marcel Reece'],NA,week_11,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_11,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_11,Oakland Raiders,2014
+['Matt Schaub'],NA,week_11,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_11,Oakland Raiders,2014
+['Pat Sims'],NA,week_11,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_11,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_11,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_11,Oakland Raiders,2014
+['Justin Tuck'],Questionable: knee,week_11,Oakland Raiders,2014
+['Menelik Watson'],Questionable: concussion,week_11,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_11,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_11,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_11,Oakland Raiders,2014
+['Larry Asante'],NA,week_12,Oakland Raiders,2014
+['David Ausberry'],Questionable: foot,week_12,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_12,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_12,Oakland Raiders,2014
+['Tarell Brown'],NA,week_12,Oakland Raiders,2014
+['Vincent Brown'],NA,week_12,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_12,Oakland Raiders,2014
+['Miles Burris'],Questionable: hip,week_12,Oakland Raiders,2014
+['Brice Butler'],NA,week_12,Oakland Raiders,2014
+['Derek Carr'],Probable: quadricep,week_12,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_12,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_12,Oakland Raiders,2014
+['Jonathan Dowling'],Probable: back,week_12,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_12,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_12,Oakland Raiders,2014
+['Andre Holmes'],NA,week_12,Oakland Raiders,2014
+['Austin Howard'],NA,week_12,Oakland Raiders,2014
+['Gabe Jackson'],Questionable: knee,week_12,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_12,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_12,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_12,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_12,Oakland Raiders,2014
+['Brian Leonhardt'],NA,week_12,Oakland Raiders,2014
+['Khalil Mack'],NA,week_12,Oakland Raiders,2014
+['Kaluka Maiava'],Injured Reserve: hamstring,week_12,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_12,Oakland Raiders,2014
+['Matt McCants'],NA,week_12,Oakland Raiders,2014
+['Keith McGill'],NA,week_12,Oakland Raiders,2014
+['Denarius Moore'],NA,week_12,Oakland Raiders,2014
+['Sio Moore'],NA,week_12,Oakland Raiders,2014
+['Latavius Murray'],NA,week_12,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_12,Oakland Raiders,2014
+['Marcel Reece'],NA,week_12,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_12,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_12,Oakland Raiders,2014
+['Matt Schaub'],NA,week_12,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_12,Oakland Raiders,2014
+['Pat Sims'],NA,week_12,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_12,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_12,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_12,Oakland Raiders,2014
+['Justin Tuck'],NA,week_12,Oakland Raiders,2014
+['Menelik Watson'],NA,week_12,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_12,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_12,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_12,Oakland Raiders,2014
+['Larry Asante'],Questionable: shoulder,week_13,Oakland Raiders,2014
+['David Ausberry'],Injured Reserve: foot,week_13,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_13,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_13,Oakland Raiders,2014
+['Tarell Brown'],NA,week_13,Oakland Raiders,2014
+['Vincent Brown'],NA,week_13,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_13,Oakland Raiders,2014
+['Miles Burris'],NA,week_13,Oakland Raiders,2014
+['Brice Butler'],NA,week_13,Oakland Raiders,2014
+['Derek Carr'],NA,week_13,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_13,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_13,Oakland Raiders,2014
+['Jonathan Dowling'],Questionable: back,week_13,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_13,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_13,Oakland Raiders,2014
+['Andre Holmes'],NA,week_13,Oakland Raiders,2014
+['Austin Howard'],NA,week_13,Oakland Raiders,2014
+['Gabe Jackson'],Questionable: knee,week_13,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_13,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_13,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_13,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_13,Oakland Raiders,2014
+['Brian Leonhardt'],Probable: concussion,week_13,Oakland Raiders,2014
+['Khalil Mack'],NA,week_13,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_13,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_13,Oakland Raiders,2014
+['Matt McCants'],NA,week_13,Oakland Raiders,2014
+['Keith McGill'],NA,week_13,Oakland Raiders,2014
+['Denarius Moore'],NA,week_13,Oakland Raiders,2014
+['Sio Moore'],NA,week_13,Oakland Raiders,2014
+['Latavius Murray'],Probable: concussion,week_13,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_13,Oakland Raiders,2014
+['Marcel Reece'],NA,week_13,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_13,Oakland Raiders,2014
+['Carlos Rogers'],Questionable: knee,week_13,Oakland Raiders,2014
+['Matt Schaub'],NA,week_13,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_13,Oakland Raiders,2014
+['Pat Sims'],NA,week_13,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_13,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_13,Oakland Raiders,2014
+['Neiko Thorpe'],Questionable: hand,week_13,Oakland Raiders,2014
+['Justin Tuck'],NA,week_13,Oakland Raiders,2014
+['Menelik Watson'],NA,week_13,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_13,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_13,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_13,Oakland Raiders,2014
+['Larry Asante'],Questionable: quadriceps,week_14,Oakland Raiders,2014
+['David Ausberry'],Injured Reserve: foot,week_14,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_14,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_14,Oakland Raiders,2014
+['Tarell Brown'],Questionable: foot,week_14,Oakland Raiders,2014
+['Vincent Brown'],NA,week_14,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_14,Oakland Raiders,2014
+['Miles Burris'],NA,week_14,Oakland Raiders,2014
+['Brice Butler'],NA,week_14,Oakland Raiders,2014
+['Derek Carr'],NA,week_14,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_14,Oakland Raiders,2014
+['Chimdi Chekwa'],NA,week_14,Oakland Raiders,2014
+['Jonathan Dowling'],Questionable: back,week_14,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_14,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_14,Oakland Raiders,2014
+['Andre Holmes'],NA,week_14,Oakland Raiders,2014
+['Austin Howard'],NA,week_14,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_14,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_14,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_14,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_14,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_14,Oakland Raiders,2014
+['Brian Leonhardt'],Questionable: concussion,week_14,Oakland Raiders,2014
+['Khalil Mack'],NA,week_14,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_14,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_14,Oakland Raiders,2014
+['Matt McCants'],NA,week_14,Oakland Raiders,2014
+['Keith McGill'],NA,week_14,Oakland Raiders,2014
+['Denarius Moore'],NA,week_14,Oakland Raiders,2014
+['Sio Moore'],Questionable: hip,week_14,Oakland Raiders,2014
+['Latavius Murray'],Probable: concussion,week_14,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_14,Oakland Raiders,2014
+['Marcel Reece'],NA,week_14,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_14,Oakland Raiders,2014
+['Carlos Rogers'],Injured Reserve: knee,week_14,Oakland Raiders,2014
+['Matt Schaub'],NA,week_14,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_14,Oakland Raiders,2014
+['Pat Sims'],NA,week_14,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_14,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_14,Oakland Raiders,2014
+['Neiko Thorpe'],Questionable: hand,week_14,Oakland Raiders,2014
+['Justin Tuck'],NA,week_14,Oakland Raiders,2014
+['Menelik Watson'],Questionable: ankle,week_14,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_14,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_14,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_14,Oakland Raiders,2014
+['Larry Asante'],Questionable: shoulder/quadriceps,week_15,Oakland Raiders,2014
+['David Ausberry'],Injured Reserve: foot,week_15,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_15,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_15,Oakland Raiders,2014
+['Tarell Brown'],Questionable: foot/ankle,week_15,Oakland Raiders,2014
+['Vincent Brown'],NA,week_15,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_15,Oakland Raiders,2014
+['Miles Burris'],NA,week_15,Oakland Raiders,2014
+['Brice Butler'],NA,week_15,Oakland Raiders,2014
+['Derek Carr'],NA,week_15,Oakland Raiders,2014
+['T.J. Carrie'],NA,week_15,Oakland Raiders,2014
+['Chimdi Chekwa'],Probable: shoulder,week_15,Oakland Raiders,2014
+['Jonathan Dowling'],Injured Reserve: back,week_15,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_15,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_15,Oakland Raiders,2014
+['Andre Holmes'],Probable: shoulder,week_15,Oakland Raiders,2014
+['Austin Howard'],NA,week_15,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_15,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_15,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_15,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_15,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_15,Oakland Raiders,2014
+['Brian Leonhardt'],Questionable: concussion,week_15,Oakland Raiders,2014
+['Khalil Mack'],NA,week_15,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_15,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_15,Oakland Raiders,2014
+['Matt McCants'],NA,week_15,Oakland Raiders,2014
+['Keith McGill'],NA,week_15,Oakland Raiders,2014
+['Denarius Moore'],Questionable: knee/ankle,week_15,Oakland Raiders,2014
+['Sio Moore'],Questionable: hip,week_15,Oakland Raiders,2014
+['Latavius Murray'],NA,week_15,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_15,Oakland Raiders,2014
+['Marcel Reece'],NA,week_15,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_15,Oakland Raiders,2014
+['Carlos Rogers'],Injured Reserve: knee,week_15,Oakland Raiders,2014
+['Matt Schaub'],NA,week_15,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_15,Oakland Raiders,2014
+['Pat Sims'],Probable: shoulder,week_15,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_15,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_15,Oakland Raiders,2014
+['Neiko Thorpe'],Probable: hand,week_15,Oakland Raiders,2014
+['Justin Tuck'],NA,week_15,Oakland Raiders,2014
+['Menelik Watson'],Questionable: foot/ankle,week_15,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_15,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_15,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_15,Oakland Raiders,2014
+['Larry Asante'],Injured Reserve: quadriceps,week_16,Oakland Raiders,2014
+['David Ausberry'],Injured Reserve: foot,week_16,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_16,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_16,Oakland Raiders,2014
+['Tarell Brown'],Questionable: foot,week_16,Oakland Raiders,2014
+['Vincent Brown'],Questionable: groin,week_16,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_16,Oakland Raiders,2014
+['Miles Burris'],NA,week_16,Oakland Raiders,2014
+['Brice Butler'],NA,week_16,Oakland Raiders,2014
+['Derek Carr'],Probable: right thumb,week_16,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_16,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: hamstring,week_16,Oakland Raiders,2014
+['Jonathan Dowling'],Injured Reserve: back,week_16,Oakland Raiders,2014
+['Ras-I Dowling'],NA,week_16,Oakland Raiders,2014
+['D.J. Hayden'],Questionable: back,week_16,Oakland Raiders,2014
+['Andre Holmes'],NA,week_16,Oakland Raiders,2014
+['Austin Howard'],NA,week_16,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_16,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_16,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_16,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_16,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_16,Oakland Raiders,2014
+['Brian Leonhardt'],Questionable: concussion,week_16,Oakland Raiders,2014
+['Khalil Mack'],NA,week_16,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_16,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_16,Oakland Raiders,2014
+['Matt McCants'],NA,week_16,Oakland Raiders,2014
+['Keith McGill'],NA,week_16,Oakland Raiders,2014
+['Denarius Moore'],Questionable: knee/ankle,week_16,Oakland Raiders,2014
+['Sio Moore'],Injured Reserve: hip,week_16,Oakland Raiders,2014
+['Latavius Murray'],NA,week_16,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_16,Oakland Raiders,2014
+['Marcel Reece'],NA,week_16,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_16,Oakland Raiders,2014
+['Carlos Rogers'],Injured Reserve: knee,week_16,Oakland Raiders,2014
+['Matt Schaub'],NA,week_16,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_16,Oakland Raiders,2014
+['Pat Sims'],NA,week_16,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_16,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_16,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_16,Oakland Raiders,2014
+['Justin Tuck'],NA,week_16,Oakland Raiders,2014
+['Menelik Watson'],Questionable: foot/ankle,week_16,Oakland Raiders,2014
+['C.J. Wilson'],Questionable: ankle,week_16,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_16,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_16,Oakland Raiders,2014
+['Larry Asante'],Injured Reserve: quadriceps,week_17,Oakland Raiders,2014
+['David Ausberry'],Injured Reserve: foot,week_17,Oakland Raiders,2014
+['Khalif Barnes'],NA,week_17,Oakland Raiders,2014
+['Tyvon Branch'],Injured Reserve: foot,week_17,Oakland Raiders,2014
+['Tarell Brown'],Injured Reserve: foot,week_17,Oakland Raiders,2014
+['Vincent Brown'],Questionable: groin,week_17,Oakland Raiders,2014
+['Kaelin Burnett'],NA,week_17,Oakland Raiders,2014
+['Miles Burris'],NA,week_17,Oakland Raiders,2014
+['Brice Butler'],NA,week_17,Oakland Raiders,2014
+['Derek Carr'],Probable: illness,week_17,Oakland Raiders,2014
+['T.J. Carrie'],Questionable: ankle,week_17,Oakland Raiders,2014
+['Chimdi Chekwa'],Questionable: hamstring,week_17,Oakland Raiders,2014
+['Jonathan Dowling'],Injured Reserve: back,week_17,Oakland Raiders,2014
+['Ras-I Dowling'],Questionable: hamstring,week_17,Oakland Raiders,2014
+['D.J. Hayden'],NA,week_17,Oakland Raiders,2014
+['Andre Holmes'],NA,week_17,Oakland Raiders,2014
+['Austin Howard'],NA,week_17,Oakland Raiders,2014
+['Gabe Jackson'],NA,week_17,Oakland Raiders,2014
+['Sebastian Janikowski'],NA,week_17,Oakland Raiders,2014
+['Taiwan Jones'],Injured Reserve: foot,week_17,Oakland Raiders,2014
+['Maurice Jones-Drew'],NA,week_17,Oakland Raiders,2014
+['Nick Kasa'],Injured Reserve: knee,week_17,Oakland Raiders,2014
+['Brian Leonhardt'],Injured Reserve: concussion,week_17,Oakland Raiders,2014
+['Khalil Mack'],Probable: hamstring,week_17,Oakland Raiders,2014
+['Kaluka Maiava'],NA,week_17,Oakland Raiders,2014
+['Benson Mayowa'],NA,week_17,Oakland Raiders,2014
+['Matt McCants'],NA,week_17,Oakland Raiders,2014
+['Keith McGill'],NA,week_17,Oakland Raiders,2014
+['Denarius Moore'],Questionable: knee/ankle,week_17,Oakland Raiders,2014
+['Sio Moore'],Injured Reserve: hip,week_17,Oakland Raiders,2014
+['Latavius Murray'],NA,week_17,Oakland Raiders,2014
+['Jamize Olawale'],NA,week_17,Oakland Raiders,2014
+['Marcel Reece'],NA,week_17,Oakland Raiders,2014
+['Nick Roach'],Injured Reserve: concussion,week_17,Oakland Raiders,2014
+['Carlos Rogers'],Injured Reserve: knee,week_17,Oakland Raiders,2014
+['Matt Schaub'],NA,week_17,Oakland Raiders,2014
+['Kory Sheets'],Injured Reserve: achilles,week_17,Oakland Raiders,2014
+['Pat Sims'],NA,week_17,Oakland Raiders,2014
+['Rod Streater'],Injured Reserve: foot,week_17,Oakland Raiders,2014
+['Kenbrell Thompkins'],NA,week_17,Oakland Raiders,2014
+['Neiko Thorpe'],NA,week_17,Oakland Raiders,2014
+['Justin Tuck'],NA,week_17,Oakland Raiders,2014
+['Menelik Watson'],Questionable: foot/ankle,week_17,Oakland Raiders,2014
+['C.J. Wilson'],NA,week_17,Oakland Raiders,2014
+['LaMarr Woodley'],Injured Reserve: biceps,week_17,Oakland Raiders,2014
+['Usama Young'],Injured Reserve: ankle,week_17,Oakland Raiders,2014

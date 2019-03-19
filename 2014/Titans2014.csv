@@ -1,0 +1,737 @@
+﻿name,injury,week,team,year
+['James Anderson'],NA,week_1,Tennessee Titans,2014
+['Jackie Battle'],Probable: shoulder,week_1,Tennessee Titans,2014
+['Brett Brackett'],NA,week_1,Tennessee Titans,2014
+['Zach Brown'],Questionable: shoulder,week_1,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_1,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_1,Tennessee Titans,2014
+['Shonn Greene'],NA,week_1,Tennessee Titans,2014
+['Michael Griffin'],NA,week_1,Tennessee Titans,2014
+['Quentin Groves'],NA,week_1,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_1,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_1,Tennessee Titans,2014
+['Justin Hunter'],NA,week_1,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_1,Tennessee Titans,2014
+['Antonio Johnson'],Injured Reserve: knee,week_1,Tennessee Titans,2014
+['Terren Jones'],NA,week_1,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_1,Tennessee Titans,2014
+['Jake Locker'],NA,week_1,Tennessee Titans,2014
+['Mike Martin'],Probable: shoulder,week_1,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_1,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_1,Tennessee Titans,2014
+['Jason McCourty'],NA,week_1,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_1,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_1,Tennessee Titans,2014
+['Michael Oher'],NA,week_1,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_1,Tennessee Titans,2014
+['Bernard Pollard'],NA,week_1,Tennessee Titans,2014
+['Michael Roos'],NA,week_1,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_1,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_1,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_1,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_1,Tennessee Titans,2014
+['Craig Stevens'],NA,week_1,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_1,Tennessee Titans,2014
+['Byron Stingily'],NA,week_1,Tennessee Titans,2014
+['Taylor Thompson'],NA,week_1,Tennessee Titans,2014
+['Delanie Walker'],NA,week_1,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_1,Tennessee Titans,2014
+['Chance Warmack'],NA,week_1,Tennessee Titans,2014
+['Leon Washington'],NA,week_1,Tennessee Titans,2014
+['Nate Washington'],NA,week_1,Tennessee Titans,2014
+['Charlie Whitehurst'],Questionable: right finger,week_1,Tennessee Titans,2014
+['George Wilson'],NA,week_1,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_1,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_1,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_1,Tennessee Titans,2014
+['Kendall Wright'],NA,week_1,Tennessee Titans,2014
+['James Anderson'],NA,week_2,Tennessee Titans,2014
+['Jackie Battle'],Questionable: neck,week_2,Tennessee Titans,2014
+['Brett Brackett'],NA,week_2,Tennessee Titans,2014
+['Zach Brown'],Out: shoulder,week_2,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_2,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_2,Tennessee Titans,2014
+['Shonn Greene'],NA,week_2,Tennessee Titans,2014
+['Michael Griffin'],NA,week_2,Tennessee Titans,2014
+['Quentin Groves'],NA,week_2,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_2,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_2,Tennessee Titans,2014
+['Justin Hunter'],Probable: knee,week_2,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_2,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_2,Tennessee Titans,2014
+['Terren Jones'],NA,week_2,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_2,Tennessee Titans,2014
+['Jake Locker'],NA,week_2,Tennessee Titans,2014
+['Mike Martin'],Questionable: shoulder,week_2,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_2,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_2,Tennessee Titans,2014
+['Jason McCourty'],NA,week_2,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_2,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_2,Tennessee Titans,2014
+['Michael Oher'],NA,week_2,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_2,Tennessee Titans,2014
+['Bernard Pollard'],NA,week_2,Tennessee Titans,2014
+['Michael Roos'],NA,week_2,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_2,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_2,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_2,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_2,Tennessee Titans,2014
+['Craig Stevens'],NA,week_2,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_2,Tennessee Titans,2014
+['Byron Stingily'],NA,week_2,Tennessee Titans,2014
+['Taylor Thompson'],NA,week_2,Tennessee Titans,2014
+['Delanie Walker'],NA,week_2,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_2,Tennessee Titans,2014
+['Chance Warmack'],NA,week_2,Tennessee Titans,2014
+['Leon Washington'],NA,week_2,Tennessee Titans,2014
+['Nate Washington'],NA,week_2,Tennessee Titans,2014
+['Charlie Whitehurst'],Probable: finger,week_2,Tennessee Titans,2014
+['George Wilson'],Questionable: foot,week_2,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_2,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_2,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_2,Tennessee Titans,2014
+['Kendall Wright'],NA,week_2,Tennessee Titans,2014
+['James Anderson'],NA,week_3,Tennessee Titans,2014
+['Jackie Battle'],NA,week_3,Tennessee Titans,2014
+['Brett Brackett'],NA,week_3,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_3,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_3,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_3,Tennessee Titans,2014
+['Shonn Greene'],NA,week_3,Tennessee Titans,2014
+['Michael Griffin'],NA,week_3,Tennessee Titans,2014
+['Quentin Groves'],NA,week_3,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_3,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_3,Tennessee Titans,2014
+['Justin Hunter'],NA,week_3,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_3,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_3,Tennessee Titans,2014
+['Terren Jones'],NA,week_3,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_3,Tennessee Titans,2014
+['Jake Locker'],NA,week_3,Tennessee Titans,2014
+['Mike Martin'],NA,week_3,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_3,Tennessee Titans,2014
+['Dexter McCluster'],Probable: foot,week_3,Tennessee Titans,2014
+['Jason McCourty'],Questionable: groin,week_3,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_3,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_3,Tennessee Titans,2014
+['Michael Oher'],NA,week_3,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_3,Tennessee Titans,2014
+['Bernard Pollard'],NA,week_3,Tennessee Titans,2014
+['Michael Roos'],NA,week_3,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_3,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_3,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_3,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_3,Tennessee Titans,2014
+['Craig Stevens'],NA,week_3,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_3,Tennessee Titans,2014
+['Byron Stingily'],NA,week_3,Tennessee Titans,2014
+['Taylor Thompson'],NA,week_3,Tennessee Titans,2014
+['Delanie Walker'],NA,week_3,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_3,Tennessee Titans,2014
+['Chance Warmack'],NA,week_3,Tennessee Titans,2014
+['Leon Washington'],NA,week_3,Tennessee Titans,2014
+['Nate Washington'],NA,week_3,Tennessee Titans,2014
+['Charlie Whitehurst'],Questionable: finger,week_3,Tennessee Titans,2014
+['George Wilson'],NA,week_3,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_3,Tennessee Titans,2014
+['Wesley Woodyard'],Questionable: ankle,week_3,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_3,Tennessee Titans,2014
+['Kendall Wright'],NA,week_3,Tennessee Titans,2014
+['James Anderson'],Probable: thigh,week_4,Tennessee Titans,2014
+['Jackie Battle'],NA,week_4,Tennessee Titans,2014
+['Brett Brackett'],NA,week_4,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_4,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_4,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_4,Tennessee Titans,2014
+['Shonn Greene'],NA,week_4,Tennessee Titans,2014
+['Michael Griffin'],NA,week_4,Tennessee Titans,2014
+['Quentin Groves'],NA,week_4,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_4,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_4,Tennessee Titans,2014
+['Justin Hunter'],NA,week_4,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_4,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_4,Tennessee Titans,2014
+['Terren Jones'],NA,week_4,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_4,Tennessee Titans,2014
+['Jake Locker'],Questionable: wrist,week_4,Tennessee Titans,2014
+['Mike Martin'],NA,week_4,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_4,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_4,Tennessee Titans,2014
+['Jason McCourty'],NA,week_4,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_4,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_4,Tennessee Titans,2014
+['Michael Oher'],NA,week_4,Tennessee Titans,2014
+['Ropati Pitoitua'],Questionable: knee,week_4,Tennessee Titans,2014
+['Bernard Pollard'],NA,week_4,Tennessee Titans,2014
+['Michael Roos'],NA,week_4,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_4,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_4,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_4,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_4,Tennessee Titans,2014
+['Craig Stevens'],NA,week_4,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_4,Tennessee Titans,2014
+['Byron Stingily'],NA,week_4,Tennessee Titans,2014
+['Taylor Thompson'],Questionable: knee,week_4,Tennessee Titans,2014
+['Delanie Walker'],Questionable: shoulder,week_4,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_4,Tennessee Titans,2014
+['Chance Warmack'],NA,week_4,Tennessee Titans,2014
+['Leon Washington'],NA,week_4,Tennessee Titans,2014
+['Nate Washington'],NA,week_4,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_4,Tennessee Titans,2014
+['George Wilson'],NA,week_4,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_4,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_4,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_4,Tennessee Titans,2014
+['Kendall Wright'],NA,week_4,Tennessee Titans,2014
+['James Anderson'],NA,week_5,Tennessee Titans,2014
+['Jackie Battle'],NA,week_5,Tennessee Titans,2014
+['Brett Brackett'],NA,week_5,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_5,Tennessee Titans,2014
+['Jurrell Casey'],Probable: foot,week_5,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_5,Tennessee Titans,2014
+['Shonn Greene'],NA,week_5,Tennessee Titans,2014
+['Michael Griffin'],NA,week_5,Tennessee Titans,2014
+['Quentin Groves'],NA,week_5,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_5,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_5,Tennessee Titans,2014
+['Justin Hunter'],NA,week_5,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_5,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_5,Tennessee Titans,2014
+['Terren Jones'],NA,week_5,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: undisclosed,week_5,Tennessee Titans,2014
+['Jake Locker'],Probable: wrist,week_5,Tennessee Titans,2014
+['Mike Martin'],NA,week_5,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_5,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_5,Tennessee Titans,2014
+['Jason McCourty'],NA,week_5,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_5,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_5,Tennessee Titans,2014
+['Michael Oher'],NA,week_5,Tennessee Titans,2014
+['Ropati Pitoitua'],Probable: knee,week_5,Tennessee Titans,2014
+['Bernard Pollard'],NA,week_5,Tennessee Titans,2014
+['Michael Roos'],NA,week_5,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_5,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_5,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_5,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_5,Tennessee Titans,2014
+['Craig Stevens'],NA,week_5,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_5,Tennessee Titans,2014
+['Byron Stingily'],NA,week_5,Tennessee Titans,2014
+['Taylor Thompson'],Questionable: knee,week_5,Tennessee Titans,2014
+['Delanie Walker'],Questionable: shoulder,week_5,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_5,Tennessee Titans,2014
+['Chance Warmack'],NA,week_5,Tennessee Titans,2014
+['Leon Washington'],NA,week_5,Tennessee Titans,2014
+['Nate Washington'],NA,week_5,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_5,Tennessee Titans,2014
+['George Wilson'],NA,week_5,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_5,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_5,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Questionable: concussion,week_5,Tennessee Titans,2014
+['Kendall Wright'],NA,week_5,Tennessee Titans,2014
+['James Anderson'],NA,week_6,Tennessee Titans,2014
+['Jackie Battle'],NA,week_6,Tennessee Titans,2014
+['Brett Brackett'],NA,week_6,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_6,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_6,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_6,Tennessee Titans,2014
+['Shonn Greene'],Questionable: hamstring,week_6,Tennessee Titans,2014
+['Michael Griffin'],NA,week_6,Tennessee Titans,2014
+['Quentin Groves'],NA,week_6,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_6,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_6,Tennessee Titans,2014
+['Justin Hunter'],NA,week_6,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_6,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_6,Tennessee Titans,2014
+['Terren Jones'],NA,week_6,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_6,Tennessee Titans,2014
+['Jake Locker'],Questionable: right hand,week_6,Tennessee Titans,2014
+['Mike Martin'],NA,week_6,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_6,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_6,Tennessee Titans,2014
+['Jason McCourty'],NA,week_6,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_6,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_6,Tennessee Titans,2014
+['Michael Oher'],NA,week_6,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_6,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_6,Tennessee Titans,2014
+['Michael Roos'],Out: knee,week_6,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_6,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_6,Tennessee Titans,2014
+['Coty Sensabaugh'],Questionable: knee,week_6,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_6,Tennessee Titans,2014
+['Craig Stevens'],Questionable: thigh,week_6,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_6,Tennessee Titans,2014
+['Byron Stingily'],NA,week_6,Tennessee Titans,2014
+['Taylor Thompson'],Questionable: knee,week_6,Tennessee Titans,2014
+['Delanie Walker'],Probable: shoulder,week_6,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_6,Tennessee Titans,2014
+['Chance Warmack'],NA,week_6,Tennessee Titans,2014
+['Leon Washington'],NA,week_6,Tennessee Titans,2014
+['Nate Washington'],NA,week_6,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_6,Tennessee Titans,2014
+['George Wilson'],NA,week_6,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_6,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_6,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Probable: concussion,week_6,Tennessee Titans,2014
+['Kendall Wright'],NA,week_6,Tennessee Titans,2014
+['James Anderson'],NA,week_7,Tennessee Titans,2014
+['Jackie Battle'],NA,week_7,Tennessee Titans,2014
+['Brett Brackett'],NA,week_7,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_7,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_7,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_7,Tennessee Titans,2014
+['Shonn Greene'],Out: hamstring,week_7,Tennessee Titans,2014
+['Michael Griffin'],NA,week_7,Tennessee Titans,2014
+['Quentin Groves'],NA,week_7,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_7,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_7,Tennessee Titans,2014
+['Justin Hunter'],NA,week_7,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_7,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_7,Tennessee Titans,2014
+['Terren Jones'],NA,week_7,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_7,Tennessee Titans,2014
+['Jake Locker'],Questionable: right hand,week_7,Tennessee Titans,2014
+['Mike Martin'],NA,week_7,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_7,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_7,Tennessee Titans,2014
+['Jason McCourty'],NA,week_7,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_7,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_7,Tennessee Titans,2014
+['Michael Oher'],NA,week_7,Tennessee Titans,2014
+['Ropati Pitoitua'],Questionable: hand,week_7,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_7,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_7,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_7,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_7,Tennessee Titans,2014
+['Coty Sensabaugh'],Questionable: knee,week_7,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_7,Tennessee Titans,2014
+['Craig Stevens'],Out: thigh,week_7,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_7,Tennessee Titans,2014
+['Byron Stingily'],NA,week_7,Tennessee Titans,2014
+['Taylor Thompson'],Questionable: knee,week_7,Tennessee Titans,2014
+['Delanie Walker'],NA,week_7,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_7,Tennessee Titans,2014
+['Chance Warmack'],NA,week_7,Tennessee Titans,2014
+['Leon Washington'],NA,week_7,Tennessee Titans,2014
+['Nate Washington'],NA,week_7,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_7,Tennessee Titans,2014
+['George Wilson'],Questionable: calf,week_7,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_7,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_7,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_7,Tennessee Titans,2014
+['Kendall Wright'],NA,week_7,Tennessee Titans,2014
+['James Anderson'],NA,week_8,Tennessee Titans,2014
+['Jackie Battle'],NA,week_8,Tennessee Titans,2014
+['Brett Brackett'],NA,week_8,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_8,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_8,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_8,Tennessee Titans,2014
+['Shonn Greene'],Questionable: hamstring,week_8,Tennessee Titans,2014
+['Michael Griffin'],NA,week_8,Tennessee Titans,2014
+['Quentin Groves'],Questionable: ankle,week_8,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_8,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_8,Tennessee Titans,2014
+['Justin Hunter'],NA,week_8,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_8,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_8,Tennessee Titans,2014
+['Terren Jones'],NA,week_8,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_8,Tennessee Titans,2014
+['Jake Locker'],Probable: right hand,week_8,Tennessee Titans,2014
+['Mike Martin'],NA,week_8,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_8,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_8,Tennessee Titans,2014
+['Jason McCourty'],NA,week_8,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_8,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_8,Tennessee Titans,2014
+['Michael Oher'],NA,week_8,Tennessee Titans,2014
+['Ropati Pitoitua'],Questionable: hand,week_8,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_8,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_8,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_8,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_8,Tennessee Titans,2014
+['Coty Sensabaugh'],Questionable: knee,week_8,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_8,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_8,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_8,Tennessee Titans,2014
+['Byron Stingily'],NA,week_8,Tennessee Titans,2014
+['Taylor Thompson'],Questionable: knee,week_8,Tennessee Titans,2014
+['Delanie Walker'],NA,week_8,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_8,Tennessee Titans,2014
+['Chance Warmack'],NA,week_8,Tennessee Titans,2014
+['Leon Washington'],NA,week_8,Tennessee Titans,2014
+['Nate Washington'],NA,week_8,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_8,Tennessee Titans,2014
+['George Wilson'],NA,week_8,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_8,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_8,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_8,Tennessee Titans,2014
+['Kendall Wright'],NA,week_8,Tennessee Titans,2014
+['James Anderson'],NA,week_10,Tennessee Titans,2014
+['Jackie Battle'],NA,week_10,Tennessee Titans,2014
+['Brett Brackett'],NA,week_10,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_10,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_10,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_10,Tennessee Titans,2014
+['Shonn Greene'],NA,week_10,Tennessee Titans,2014
+['Michael Griffin'],NA,week_10,Tennessee Titans,2014
+['Quentin Groves'],NA,week_10,Tennessee Titans,2014
+['Sammie Lee Hill'],Probable: hamstring ,week_10,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_10,Tennessee Titans,2014
+['Justin Hunter'],NA,week_10,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_10,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_10,Tennessee Titans,2014
+['Terren Jones'],NA,week_10,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_10,Tennessee Titans,2014
+['Jake Locker'],NA,week_10,Tennessee Titans,2014
+['Mike Martin'],NA,week_10,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_10,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_10,Tennessee Titans,2014
+['Jason McCourty'],NA,week_10,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_10,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_10,Tennessee Titans,2014
+['Michael Oher'],NA,week_10,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_10,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_10,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_10,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_10,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_10,Tennessee Titans,2014
+['Coty Sensabaugh'],Probable: knee,week_10,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_10,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_10,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_10,Tennessee Titans,2014
+['Byron Stingily'],NA,week_10,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_10,Tennessee Titans,2014
+['Delanie Walker'],NA,week_10,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_10,Tennessee Titans,2014
+['Chance Warmack'],NA,week_10,Tennessee Titans,2014
+['Leon Washington'],NA,week_10,Tennessee Titans,2014
+['Nate Washington'],Probable: shoulder,week_10,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_10,Tennessee Titans,2014
+['George Wilson'],NA,week_10,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_10,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_10,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],NA,week_10,Tennessee Titans,2014
+['Kendall Wright'],NA,week_10,Tennessee Titans,2014
+['James Anderson'],NA,week_11,Tennessee Titans,2014
+['Jackie Battle'],NA,week_11,Tennessee Titans,2014
+['Brett Brackett'],NA,week_11,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_11,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_11,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_11,Tennessee Titans,2014
+['Shonn Greene'],NA,week_11,Tennessee Titans,2014
+['Michael Griffin'],NA,week_11,Tennessee Titans,2014
+['Quentin Groves'],NA,week_11,Tennessee Titans,2014
+['Sammie Lee Hill'],Questionable: hamstring ,week_11,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_11,Tennessee Titans,2014
+['Justin Hunter'],NA,week_11,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_11,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_11,Tennessee Titans,2014
+['Terren Jones'],NA,week_11,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_11,Tennessee Titans,2014
+['Jake Locker'],NA,week_11,Tennessee Titans,2014
+['Mike Martin'],NA,week_11,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_11,Tennessee Titans,2014
+['Dexter McCluster'],Questionable: knee,week_11,Tennessee Titans,2014
+['Jason McCourty'],NA,week_11,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_11,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_11,Tennessee Titans,2014
+['Michael Oher'],NA,week_11,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_11,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_11,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_11,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_11,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_11,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_11,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_11,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_11,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_11,Tennessee Titans,2014
+['Byron Stingily'],NA,week_11,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_11,Tennessee Titans,2014
+['Delanie Walker'],Out: concussion,week_11,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_11,Tennessee Titans,2014
+['Chance Warmack'],NA,week_11,Tennessee Titans,2014
+['Leon Washington'],Questionable: hamstring,week_11,Tennessee Titans,2014
+['Nate Washington'],NA,week_11,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_11,Tennessee Titans,2014
+['George Wilson'],NA,week_11,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_11,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_11,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Questionable: back,week_11,Tennessee Titans,2014
+['Kendall Wright'],NA,week_11,Tennessee Titans,2014
+['James Anderson'],NA,week_12,Tennessee Titans,2014
+['Jackie Battle'],NA,week_12,Tennessee Titans,2014
+['Brett Brackett'],NA,week_12,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_12,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_12,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_12,Tennessee Titans,2014
+['Shonn Greene'],NA,week_12,Tennessee Titans,2014
+['Michael Griffin'],Questionable: bicep,week_12,Tennessee Titans,2014
+['Quentin Groves'],NA,week_12,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_12,Tennessee Titans,2014
+['Marqueston Huff'],Questionable: hamstring,week_12,Tennessee Titans,2014
+['Justin Hunter'],Questionable: knee,week_12,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_12,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_12,Tennessee Titans,2014
+['Terren Jones'],NA,week_12,Tennessee Titans,2014
+['Taylor Lewan'],NA,week_12,Tennessee Titans,2014
+['Jake Locker'],NA,week_12,Tennessee Titans,2014
+['Mike Martin'],NA,week_12,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_12,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_12,Tennessee Titans,2014
+['Jason McCourty'],NA,week_12,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_12,Tennessee Titans,2014
+['Derrick Morgan'],Questionable: knee,week_12,Tennessee Titans,2014
+['Michael Oher'],NA,week_12,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_12,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_12,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_12,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_12,Tennessee Titans,2014
+['Brian Schwenke'],NA,week_12,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_12,Tennessee Titans,2014
+['Daimion Stafford'],Probable: shoulder,week_12,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_12,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_12,Tennessee Titans,2014
+['Byron Stingily'],NA,week_12,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_12,Tennessee Titans,2014
+['Delanie Walker'],Questionable: concussion,week_12,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_12,Tennessee Titans,2014
+['Chance Warmack'],NA,week_12,Tennessee Titans,2014
+['Leon Washington'],NA,week_12,Tennessee Titans,2014
+['Nate Washington'],NA,week_12,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_12,Tennessee Titans,2014
+['George Wilson'],NA,week_12,Tennessee Titans,2014
+['Kamerion Wimbley'],NA,week_12,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_12,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Questionable: back,week_12,Tennessee Titans,2014
+['Kendall Wright'],NA,week_12,Tennessee Titans,2014
+['James Anderson'],NA,week_13,Tennessee Titans,2014
+['Jackie Battle'],NA,week_13,Tennessee Titans,2014
+['Brett Brackett'],NA,week_13,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_13,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_13,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_13,Tennessee Titans,2014
+['Shonn Greene'],NA,week_13,Tennessee Titans,2014
+['Michael Griffin'],Questionable: shoulder,week_13,Tennessee Titans,2014
+['Quentin Groves'],NA,week_13,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_13,Tennessee Titans,2014
+['Marqueston Huff'],Questionable: hamstring,week_13,Tennessee Titans,2014
+['Justin Hunter'],NA,week_13,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_13,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_13,Tennessee Titans,2014
+['Terren Jones'],NA,week_13,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: ankle,week_13,Tennessee Titans,2014
+['Jake Locker'],NA,week_13,Tennessee Titans,2014
+['Mike Martin'],NA,week_13,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_13,Tennessee Titans,2014
+['Dexter McCluster'],Questionable: concussion,week_13,Tennessee Titans,2014
+['Jason McCourty'],NA,week_13,Tennessee Titans,2014
+['Zach Mettenberger'],NA,week_13,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_13,Tennessee Titans,2014
+['Michael Oher'],Questionable: toe,week_13,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_13,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_13,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_13,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_13,Tennessee Titans,2014
+['Brian Schwenke'],Injured Reserve: knee,week_13,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_13,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_13,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_13,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_13,Tennessee Titans,2014
+['Byron Stingily'],NA,week_13,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_13,Tennessee Titans,2014
+['Delanie Walker'],NA,week_13,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_13,Tennessee Titans,2014
+['Chance Warmack'],NA,week_13,Tennessee Titans,2014
+['Leon Washington'],Questionable: hamstring,week_13,Tennessee Titans,2014
+['Nate Washington'],NA,week_13,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_13,Tennessee Titans,2014
+['George Wilson'],NA,week_13,Tennessee Titans,2014
+['Kamerion Wimbley'],Questionable: hamstring,week_13,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_13,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Questionable: back,week_13,Tennessee Titans,2014
+['Kendall Wright'],NA,week_13,Tennessee Titans,2014
+['James Anderson'],NA,week_14,Tennessee Titans,2014
+['Jackie Battle'],NA,week_14,Tennessee Titans,2014
+['Brett Brackett'],NA,week_14,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_14,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_14,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_14,Tennessee Titans,2014
+['Shonn Greene'],NA,week_14,Tennessee Titans,2014
+['Michael Griffin'],NA,week_14,Tennessee Titans,2014
+['Quentin Groves'],NA,week_14,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_14,Tennessee Titans,2014
+['Marqueston Huff'],Probable: hamstring,week_14,Tennessee Titans,2014
+['Justin Hunter'],Injured Reserve: spleen,week_14,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_14,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_14,Tennessee Titans,2014
+['Terren Jones'],NA,week_14,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: ankle,week_14,Tennessee Titans,2014
+['Jake Locker'],NA,week_14,Tennessee Titans,2014
+['Mike Martin'],NA,week_14,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_14,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_14,Tennessee Titans,2014
+['Jason McCourty'],NA,week_14,Tennessee Titans,2014
+['Zach Mettenberger'],Questionable: right shoulder,week_14,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_14,Tennessee Titans,2014
+['Michael Oher'],Questionable: toe,week_14,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_14,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_14,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_14,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_14,Tennessee Titans,2014
+['Brian Schwenke'],Injured Reserve: knee,week_14,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_14,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_14,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_14,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_14,Tennessee Titans,2014
+['Byron Stingily'],NA,week_14,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_14,Tennessee Titans,2014
+['Delanie Walker'],NA,week_14,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_14,Tennessee Titans,2014
+['Chance Warmack'],Probable: ankle,week_14,Tennessee Titans,2014
+['Leon Washington'],NA,week_14,Tennessee Titans,2014
+['Nate Washington'],NA,week_14,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_14,Tennessee Titans,2014
+['George Wilson'],NA,week_14,Tennessee Titans,2014
+['Kamerion Wimbley'],Questionable: hamstring,week_14,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_14,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Questionable: back,week_14,Tennessee Titans,2014
+['Kendall Wright'],Questionable: wrist,week_14,Tennessee Titans,2014
+['James Anderson'],NA,week_15,Tennessee Titans,2014
+['Jackie Battle'],NA,week_15,Tennessee Titans,2014
+['Brett Brackett'],NA,week_15,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_15,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_15,Tennessee Titans,2014
+['Zaviar Gooden'],NA,week_15,Tennessee Titans,2014
+['Shonn Greene'],NA,week_15,Tennessee Titans,2014
+['Michael Griffin'],Questionable: back,week_15,Tennessee Titans,2014
+['Quentin Groves'],NA,week_15,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_15,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_15,Tennessee Titans,2014
+['Justin Hunter'],Injured Reserve: spleen,week_15,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_15,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_15,Tennessee Titans,2014
+['Terren Jones'],NA,week_15,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: ankle,week_15,Tennessee Titans,2014
+['Jake Locker'],NA,week_15,Tennessee Titans,2014
+['Mike Martin'],NA,week_15,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_15,Tennessee Titans,2014
+['Dexter McCluster'],NA,week_15,Tennessee Titans,2014
+['Jason McCourty'],NA,week_15,Tennessee Titans,2014
+['Zach Mettenberger'],Out: right shoulder,week_15,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_15,Tennessee Titans,2014
+['Michael Oher'],Questionable: toe,week_15,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_15,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_15,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_15,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_15,Tennessee Titans,2014
+['Brian Schwenke'],Injured Reserve: knee,week_15,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_15,Tennessee Titans,2014
+['Daimion Stafford'],Questionable: concussion,week_15,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_15,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_15,Tennessee Titans,2014
+['Byron Stingily'],Questionable: ankle,week_15,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_15,Tennessee Titans,2014
+['Delanie Walker'],NA,week_15,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_15,Tennessee Titans,2014
+['Chance Warmack'],NA,week_15,Tennessee Titans,2014
+['Leon Washington'],NA,week_15,Tennessee Titans,2014
+['Nate Washington'],NA,week_15,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_15,Tennessee Titans,2014
+['George Wilson'],NA,week_15,Tennessee Titans,2014
+['Kamerion Wimbley'],Questionable: hamstring,week_15,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_15,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Injured Reserve: shoulder,week_15,Tennessee Titans,2014
+['Kendall Wright'],Questionable: wrist,week_15,Tennessee Titans,2014
+['James Anderson'],NA,week_16,Tennessee Titans,2014
+['Jackie Battle'],NA,week_16,Tennessee Titans,2014
+['Brett Brackett'],Injured Reserve: knee,week_16,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_16,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_16,Tennessee Titans,2014
+['Zaviar Gooden'],Questionable: hamstring,week_16,Tennessee Titans,2014
+['Shonn Greene'],Questionable: head,week_16,Tennessee Titans,2014
+['Michael Griffin'],NA,week_16,Tennessee Titans,2014
+['Quentin Groves'],NA,week_16,Tennessee Titans,2014
+['Sammie Lee Hill'],NA,week_16,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_16,Tennessee Titans,2014
+['Justin Hunter'],Injured Reserve: spleen,week_16,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_16,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_16,Tennessee Titans,2014
+['Terren Jones'],NA,week_16,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: ankle,week_16,Tennessee Titans,2014
+['Jake Locker'],Doubtful: left shoulder,week_16,Tennessee Titans,2014
+['Mike Martin'],NA,week_16,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_16,Tennessee Titans,2014
+['Dexter McCluster'],Questionable: knee,week_16,Tennessee Titans,2014
+['Jason McCourty'],NA,week_16,Tennessee Titans,2014
+['Zach Mettenberger'],Out: right shoulder,week_16,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_16,Tennessee Titans,2014
+['Michael Oher'],Injured Reserve: toe,week_16,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_16,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_16,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_16,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_16,Tennessee Titans,2014
+['Brian Schwenke'],Injured Reserve: knee,week_16,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_16,Tennessee Titans,2014
+['Daimion Stafford'],Questionable: concussion,week_16,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_16,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_16,Tennessee Titans,2014
+['Byron Stingily'],Questionable: ankle,week_16,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_16,Tennessee Titans,2014
+['Delanie Walker'],Questionable: knee,week_16,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_16,Tennessee Titans,2014
+['Chance Warmack'],NA,week_16,Tennessee Titans,2014
+['Leon Washington'],NA,week_16,Tennessee Titans,2014
+['Nate Washington'],NA,week_16,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_16,Tennessee Titans,2014
+['George Wilson'],NA,week_16,Tennessee Titans,2014
+['Kamerion Wimbley'],Questionable: hamstring,week_16,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_16,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Injured Reserve: shoulder,week_16,Tennessee Titans,2014
+['Kendall Wright'],Questionable: wrist,week_16,Tennessee Titans,2014
+['James Anderson'],NA,week_17,Tennessee Titans,2014
+['Jackie Battle'],NA,week_17,Tennessee Titans,2014
+['Brett Brackett'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Zach Brown'],Injured Reserve: shoulder,week_17,Tennessee Titans,2014
+['Jurrell Casey'],NA,week_17,Tennessee Titans,2014
+['Zaviar Gooden'],Probable: hamstring,week_17,Tennessee Titans,2014
+['Shonn Greene'],NA,week_17,Tennessee Titans,2014
+['Michael Griffin'],NA,week_17,Tennessee Titans,2014
+['Quentin Groves'],NA,week_17,Tennessee Titans,2014
+['Sammie Lee Hill'],Questionable: foot,week_17,Tennessee Titans,2014
+['Marqueston Huff'],NA,week_17,Tennessee Titans,2014
+['Justin Hunter'],Injured Reserve: spleen,week_17,Tennessee Titans,2014
+['Gabe Ikard'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Antonio Johnson'],NA,week_17,Tennessee Titans,2014
+['Terren Jones'],Questionable: head,week_17,Tennessee Titans,2014
+['Taylor Lewan'],Questionable: ankle,week_17,Tennessee Titans,2014
+['Jake Locker'],Injured Reserve: shoulder,week_17,Tennessee Titans,2014
+['Mike Martin'],NA,week_17,Tennessee Titans,2014
+['Colin McCarthy'],Injured Reserve: shoulder ,week_17,Tennessee Titans,2014
+['Dexter McCluster'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Jason McCourty'],NA,week_17,Tennessee Titans,2014
+['Zach Mettenberger'],Out: right shoulder,week_17,Tennessee Titans,2014
+['Derrick Morgan'],NA,week_17,Tennessee Titans,2014
+['Michael Oher'],Injured Reserve: toe,week_17,Tennessee Titans,2014
+['Ropati Pitoitua'],NA,week_17,Tennessee Titans,2014
+['Bernard Pollard'],Injured Reserve: Achilles,week_17,Tennessee Titans,2014
+['Michael Roos'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Bishop Sankey'],NA,week_17,Tennessee Titans,2014
+['Brian Schwenke'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Coty Sensabaugh'],NA,week_17,Tennessee Titans,2014
+['Daimion Stafford'],NA,week_17,Tennessee Titans,2014
+['Craig Stevens'],Injured Reserve: thigh,week_17,Tennessee Titans,2014
+['Josh Stewart'],Injured Reserve: Achilles,week_17,Tennessee Titans,2014
+['Byron Stingily'],Questionable: ankle,week_17,Tennessee Titans,2014
+['Taylor Thompson'],Injured Reserve: knee,week_17,Tennessee Titans,2014
+['Delanie Walker'],NA,week_17,Tennessee Titans,2014
+['Eric Ward'],Injured Reserve: undisclosed,week_17,Tennessee Titans,2014
+['Chance Warmack'],NA,week_17,Tennessee Titans,2014
+['Leon Washington'],NA,week_17,Tennessee Titans,2014
+['Nate Washington'],NA,week_17,Tennessee Titans,2014
+['Charlie Whitehurst'],NA,week_17,Tennessee Titans,2014
+['George Wilson'],NA,week_17,Tennessee Titans,2014
+['Kamerion Wimbley'],Questionable: hamstring,week_17,Tennessee Titans,2014
+['Wesley Woodyard'],NA,week_17,Tennessee Titans,2014
+['Blidi Wreh-Wilson'],Injured Reserve: shoulder,week_17,Tennessee Titans,2014
+['Kendall Wright'],NA,week_17,Tennessee Titans,2014

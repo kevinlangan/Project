@@ -1,0 +1,881 @@
+﻿name,injury,week,team,year
+['Kenneth Acker'],Injured Reserve: foot,week_1,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_1,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_1,San Francisco 49ers,2014
+['Alex Boone'],NA,week_1,San Francisco 49ers,2014
+['Chris Borland'],NA,week_1,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_1,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_1,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_1,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_1,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_1,San Francisco 49ers,2014
+['Chris Cook'],NA,week_1,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_1,San Francisco 49ers,2014
+['Michael Crabtree'],Questionable: calf,week_1,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: ankle,week_1,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: hamstring,week_1,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_1,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_1,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: bicep,week_1,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_1,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_1,San Francisco 49ers,2014
+['Frank Gore'],NA,week_1,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_1,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_1,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_1,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_1,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_1,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_1,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_1,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_1,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_1,San Francisco 49ers,2014
+['Andy Lee'],NA,week_1,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_1,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_1,San Francisco 49ers,2014
+['Marcus Martin'],Out: knee,week_1,San Francisco 49ers,2014
+['Ray McDonald'],Questionable: disciplinary,week_1,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: hamstring,week_1,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_1,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_1,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_1,San Francisco 49ers,2014
+['Nick Moody'],NA,week_1,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_1,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_1,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_1,San Francisco 49ers,2014
+['Eric Reid'],NA,week_1,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_1,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_1,San Francisco 49ers,2014
+['Justin Smith'],NA,week_1,San Francisco 49ers,2014
+['Joe Staley'],NA,week_1,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_1,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_1,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_1,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_1,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_1,San Francisco 49ers,2014
+['Ian Williams'],NA,week_1,San Francisco 49ers,2014
+['Patrick Willis'],NA,week_1,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_2,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_2,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_2,San Francisco 49ers,2014
+['Alex Boone'],NA,week_2,San Francisco 49ers,2014
+['Chris Borland'],NA,week_2,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_2,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_2,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_2,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_2,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_2,San Francisco 49ers,2014
+['Chris Cook'],NA,week_2,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_2,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_2,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: concussion,week_2,San Francisco 49ers,2014
+['Anthony Davis'],Doubtful: hamstring,week_2,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_2,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_2,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: bicep,week_2,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_2,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_2,San Francisco 49ers,2014
+['Frank Gore'],NA,week_2,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_2,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_2,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_2,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_2,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_2,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_2,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_2,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_2,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_2,San Francisco 49ers,2014
+['Andy Lee'],Probable: right knee,week_2,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_2,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_2,San Francisco 49ers,2014
+['Marcus Martin'],Out: knee,week_2,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_2,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_2,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_2,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_2,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_2,San Francisco 49ers,2014
+['Nick Moody'],NA,week_2,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_2,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_2,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_2,San Francisco 49ers,2014
+['Eric Reid'],NA,week_2,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_2,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_2,San Francisco 49ers,2014
+['Justin Smith'],NA,week_2,San Francisco 49ers,2014
+['Joe Staley'],NA,week_2,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_2,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_2,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_2,San Francisco 49ers,2014
+['Jimmie Ward'],Questionable: concussion,week_2,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_2,San Francisco 49ers,2014
+['Ian Williams'],NA,week_2,San Francisco 49ers,2014
+['Patrick Willis'],NA,week_2,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_3,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_3,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_3,San Francisco 49ers,2014
+['Alex Boone'],NA,week_3,San Francisco 49ers,2014
+['Chris Borland'],NA,week_3,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_3,San Francisco 49ers,2014
+['Tramaine Brock'],Out: toe,week_3,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_3,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_3,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_3,San Francisco 49ers,2014
+['Chris Cook'],NA,week_3,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_3,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_3,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_3,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: hamstring,week_3,San Francisco 49ers,2014
+['Vernon Davis'],Questionable: ankle,week_3,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_3,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_3,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_3,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_3,San Francisco 49ers,2014
+['Frank Gore'],NA,week_3,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_3,San Francisco 49ers,2014
+['Carlos Hyde'],Probable: calf,week_3,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_3,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_3,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_3,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_3,San Francisco 49ers,2014
+['Colin Kaepernick'],Probable: back,week_3,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_3,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_3,San Francisco 49ers,2014
+['Andy Lee'],NA,week_3,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_3,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_3,San Francisco 49ers,2014
+['Marcus Martin'],Out: knee,week_3,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_3,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: knee,week_3,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_3,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_3,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_3,San Francisco 49ers,2014
+['Nick Moody'],NA,week_3,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_3,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_3,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_3,San Francisco 49ers,2014
+['Eric Reid'],NA,week_3,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_3,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_3,San Francisco 49ers,2014
+['Justin Smith'],NA,week_3,San Francisco 49ers,2014
+['Joe Staley'],Questionable: knee,week_3,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_3,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_3,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_3,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_3,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_3,San Francisco 49ers,2014
+['Ian Williams'],NA,week_3,San Francisco 49ers,2014
+['Patrick Willis'],NA,week_3,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_4,San Francisco 49ers,2014
+['Antoine Bethea'],Questionable: ankle,week_4,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_4,San Francisco 49ers,2014
+['Alex Boone'],NA,week_4,San Francisco 49ers,2014
+['Chris Borland'],NA,week_4,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_4,San Francisco 49ers,2014
+['Tramaine Brock'],Out: toe,week_4,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_4,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_4,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_4,San Francisco 49ers,2014
+['Chris Cook'],NA,week_4,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_4,San Francisco 49ers,2014
+['Michael Crabtree'],Probable: quadricep,week_4,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_4,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: hamstring,week_4,San Francisco 49ers,2014
+['Vernon Davis'],Questionable: ankle,week_4,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_4,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_4,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_4,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_4,San Francisco 49ers,2014
+['Frank Gore'],Probable: back,week_4,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_4,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_4,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_4,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_4,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_4,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_4,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_4,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_4,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_4,San Francisco 49ers,2014
+['Andy Lee'],NA,week_4,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_4,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_4,San Francisco 49ers,2014
+['Marcus Martin'],Out: knee,week_4,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_4,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: knee,week_4,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_4,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_4,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_4,San Francisco 49ers,2014
+['Nick Moody'],NA,week_4,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_4,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_4,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_4,San Francisco 49ers,2014
+['Eric Reid'],NA,week_4,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_4,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_4,San Francisco 49ers,2014
+['Justin Smith'],NA,week_4,San Francisco 49ers,2014
+['Joe Staley'],NA,week_4,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_4,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_4,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_4,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_4,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_4,San Francisco 49ers,2014
+['Ian Williams'],NA,week_4,San Francisco 49ers,2014
+['Patrick Willis'],Probable: wrist,week_4,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_5,San Francisco 49ers,2014
+['Antoine Bethea'],Questionable: ankle,week_5,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_5,San Francisco 49ers,2014
+['Alex Boone'],NA,week_5,San Francisco 49ers,2014
+['Chris Borland'],NA,week_5,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_5,San Francisco 49ers,2014
+['Tramaine Brock'],Out: toe,week_5,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_5,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_5,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_5,San Francisco 49ers,2014
+['Chris Cook'],NA,week_5,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_5,San Francisco 49ers,2014
+['Michael Crabtree'],Probable: foot,week_5,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_5,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: knee,week_5,San Francisco 49ers,2014
+['Vernon Davis'],Questionable: back,week_5,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_5,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_5,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_5,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_5,San Francisco 49ers,2014
+['Frank Gore'],Probable: back,week_5,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_5,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_5,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_5,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_5,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],Questionable: shoulder,week_5,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_5,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_5,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_5,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_5,San Francisco 49ers,2014
+['Andy Lee'],Questionable: right ankle,week_5,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_5,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_5,San Francisco 49ers,2014
+['Marcus Martin'],Out: knee,week_5,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_5,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: knee,week_5,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_5,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_5,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_5,San Francisco 49ers,2014
+['Nick Moody'],NA,week_5,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_5,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_5,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_5,San Francisco 49ers,2014
+['Eric Reid'],Questionable: hamstring,week_5,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_5,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_5,San Francisco 49ers,2014
+['Justin Smith'],NA,week_5,San Francisco 49ers,2014
+['Joe Staley'],NA,week_5,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_5,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_5,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_5,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_5,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_5,San Francisco 49ers,2014
+['Ian Williams'],Questionable: ankle,week_5,San Francisco 49ers,2014
+['Patrick Willis'],NA,week_5,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_6,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_6,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_6,San Francisco 49ers,2014
+['Alex Boone'],NA,week_6,San Francisco 49ers,2014
+['Chris Borland'],NA,week_6,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_6,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_6,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_6,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_6,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_6,San Francisco 49ers,2014
+['Chris Cook'],Probable: quadricep,week_6,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_6,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_6,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_6,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: knee/ankle,week_6,San Francisco 49ers,2014
+['Vernon Davis'],Questionable: back,week_6,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_6,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_6,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_6,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_6,San Francisco 49ers,2014
+['Frank Gore'],NA,week_6,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_6,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_6,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_6,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_6,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],Probable: shoulder,week_6,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_6,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_6,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_6,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_6,San Francisco 49ers,2014
+['Andy Lee'],Probable: right ankle,week_6,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_6,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_6,San Francisco 49ers,2014
+['Marcus Martin'],Questionable: knee,week_6,San Francisco 49ers,2014
+['Ray McDonald'],Probable: knee,week_6,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_6,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_6,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_6,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_6,San Francisco 49ers,2014
+['Nick Moody'],Probable: hamstring,week_6,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_6,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_6,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_6,San Francisco 49ers,2014
+['Eric Reid'],NA,week_6,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_6,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_6,San Francisco 49ers,2014
+['Justin Smith'],NA,week_6,San Francisco 49ers,2014
+['Joe Staley'],NA,week_6,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_6,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_6,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_6,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_6,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_6,San Francisco 49ers,2014
+['Ian Williams'],Probable: ankle,week_6,San Francisco 49ers,2014
+['Patrick Willis'],NA,week_6,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_7,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_7,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_7,San Francisco 49ers,2014
+['Alex Boone'],NA,week_7,San Francisco 49ers,2014
+['Chris Borland'],NA,week_7,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_7,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_7,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_7,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_7,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_7,San Francisco 49ers,2014
+['Chris Cook'],Questionable: quadricep,week_7,San Francisco 49ers,2014
+['Perrish Cox'],Questionable: quadricep,week_7,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_7,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: shoulder,week_7,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: knee/ankle,week_7,San Francisco 49ers,2014
+['Vernon Davis'],Probable: back,week_7,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_7,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_7,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_7,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_7,San Francisco 49ers,2014
+['Frank Gore'],NA,week_7,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_7,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_7,San Francisco 49ers,2014
+['Mike Iupati'],Questionable: concussion,week_7,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_7,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],Questionable: shoulder,week_7,San Francisco 49ers,2014
+['Steve Johnson'],Questionable: hip,week_7,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_7,San Francisco 49ers,2014
+['Daniel Kilgore'],NA,week_7,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_7,San Francisco 49ers,2014
+['Andy Lee'],NA,week_7,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_7,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_7,San Francisco 49ers,2014
+['Marcus Martin'],Questionable: knee,week_7,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_7,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_7,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_7,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_7,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_7,San Francisco 49ers,2014
+['Nick Moody'],NA,week_7,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_7,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_7,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_7,San Francisco 49ers,2014
+['Eric Reid'],NA,week_7,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_7,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_7,San Francisco 49ers,2014
+['Justin Smith'],NA,week_7,San Francisco 49ers,2014
+['Joe Staley'],NA,week_7,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_7,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_7,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_7,San Francisco 49ers,2014
+['Jimmie Ward'],Questionable: quadriceps,week_7,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_7,San Francisco 49ers,2014
+['Ian Williams'],Questionable: ankle,week_7,San Francisco 49ers,2014
+['Patrick Willis'],Doubtful: toe,week_7,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_9,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_9,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_9,San Francisco 49ers,2014
+['Alex Boone'],NA,week_9,San Francisco 49ers,2014
+['Chris Borland'],NA,week_9,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_9,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_9,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_9,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_9,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_9,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_9,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_9,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_9,San Francisco 49ers,2014
+['Chris Culliver'],Probable: hamstring,week_9,San Francisco 49ers,2014
+['Anthony Davis'],NA,week_9,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_9,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_9,San Francisco 49ers,2014
+['Glenn Dorsey'],Probable: biceps,week_9,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_9,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_9,San Francisco 49ers,2014
+['Frank Gore'],NA,week_9,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_9,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_9,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_9,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_9,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_9,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_9,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_9,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_9,San Francisco 49ers,2014
+['Marcus Lattimore'],Out: knee,week_9,San Francisco 49ers,2014
+['Andy Lee'],NA,week_9,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_9,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_9,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_9,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_9,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_9,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_9,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_9,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_9,San Francisco 49ers,2014
+['Nick Moody'],NA,week_9,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_9,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_9,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_9,San Francisco 49ers,2014
+['Eric Reid'],NA,week_9,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_9,San Francisco 49ers,2014
+['Aldon Smith'],Suspended: ,week_9,San Francisco 49ers,2014
+['Justin Smith'],NA,week_9,San Francisco 49ers,2014
+['Joe Staley'],NA,week_9,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_9,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_9,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_9,San Francisco 49ers,2014
+['Jimmie Ward'],Probable: quadriceps,week_9,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_9,San Francisco 49ers,2014
+['Ian Williams'],NA,week_9,San Francisco 49ers,2014
+['Patrick Willis'],Questionable: toe,week_9,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_10,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_10,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_10,San Francisco 49ers,2014
+['Alex Boone'],NA,week_10,San Francisco 49ers,2014
+['Chris Borland'],NA,week_10,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_10,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: toe,week_10,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_10,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_10,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_10,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_10,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_10,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_10,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_10,San Francisco 49ers,2014
+['Anthony Davis'],NA,week_10,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_10,San Francisco 49ers,2014
+['Quinton Dial'],Questionable: eye,week_10,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_10,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_10,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_10,San Francisco 49ers,2014
+['Frank Gore'],Probable: hip,week_10,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_10,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_10,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_10,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_10,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_10,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_10,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_10,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_10,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_10,San Francisco 49ers,2014
+['Andy Lee'],NA,week_10,San Francisco 49ers,2014
+['Brandon Lloyd'],Questionable: hamstring,week_10,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_10,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_10,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_10,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_10,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_10,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_10,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_10,San Francisco 49ers,2014
+['Nick Moody'],NA,week_10,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_10,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_10,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_10,San Francisco 49ers,2014
+['Eric Reid'],NA,week_10,San Francisco 49ers,2014
+['Dan Skuta'],Questionable: ankle,week_10,San Francisco 49ers,2014
+['Aldon Smith'],Probable: nine-game suspension served,week_10,San Francisco 49ers,2014
+['Justin Smith'],NA,week_10,San Francisco 49ers,2014
+['Joe Staley'],NA,week_10,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_10,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_10,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_10,San Francisco 49ers,2014
+['Jimmie Ward'],NA,week_10,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_10,San Francisco 49ers,2014
+['Ian Williams'],Questionable: shin,week_10,San Francisco 49ers,2014
+['Patrick Willis'],Questionable: toe,week_10,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_11,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_11,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_11,San Francisco 49ers,2014
+['Alex Boone'],NA,week_11,San Francisco 49ers,2014
+['Chris Borland'],Probable: shoulder,week_11,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_11,San Francisco 49ers,2014
+['Tramaine Brock'],Out: hamstring,week_11,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_11,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_11,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_11,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_11,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_11,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_11,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_11,San Francisco 49ers,2014
+['Anthony Davis'],NA,week_11,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_11,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_11,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_11,San Francisco 49ers,2014
+['Bruce Ellington'],Questionable: ankle,week_11,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_11,San Francisco 49ers,2014
+['Frank Gore'],Probable: hip,week_11,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_11,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_11,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_11,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_11,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_11,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_11,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_11,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_11,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_11,San Francisco 49ers,2014
+['Andy Lee'],NA,week_11,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_11,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_11,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_11,San Francisco 49ers,2014
+['Ray McDonald'],Probable: knee,week_11,San Francisco 49ers,2014
+['Vance McDonald'],NA,week_11,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_11,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_11,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_11,San Francisco 49ers,2014
+['Nick Moody'],NA,week_11,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_11,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_11,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_11,San Francisco 49ers,2014
+['Eric Reid'],Probable: ankle,week_11,San Francisco 49ers,2014
+['Dan Skuta'],Questionable: ankle,week_11,San Francisco 49ers,2014
+['Aldon Smith'],Probable: nine-game suspension served,week_11,San Francisco 49ers,2014
+['Justin Smith'],NA,week_11,San Francisco 49ers,2014
+['Joe Staley'],NA,week_11,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_11,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_11,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_11,San Francisco 49ers,2014
+['Jimmie Ward'],Out: foot,week_11,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_11,San Francisco 49ers,2014
+['Ian Williams'],Out: ankle,week_11,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_11,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_12,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_12,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_12,San Francisco 49ers,2014
+['Alex Boone'],NA,week_12,San Francisco 49ers,2014
+['Chris Borland'],Probable: shoulder,week_12,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_12,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_12,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_12,San Francisco 49ers,2014
+['Derek Carrier'],NA,week_12,San Francisco 49ers,2014
+['Garrett Celek'],Physically Unable to Perform: back,week_12,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_12,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_12,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_12,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_12,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: concussion,week_12,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_12,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_12,San Francisco 49ers,2014
+['Glenn Dorsey'],Probable: biceps,week_12,San Francisco 49ers,2014
+['Bruce Ellington'],Questionable: ankle,week_12,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_12,San Francisco 49ers,2014
+['Frank Gore'],NA,week_12,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_12,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_12,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_12,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_12,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_12,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_12,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_12,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_12,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_12,San Francisco 49ers,2014
+['Andy Lee'],NA,week_12,San Francisco 49ers,2014
+['Brandon Lloyd'],Probable: quadricep,week_12,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_12,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_12,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_12,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: hip,week_12,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_12,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_12,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_12,San Francisco 49ers,2014
+['Nick Moody'],NA,week_12,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_12,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_12,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_12,San Francisco 49ers,2014
+['Eric Reid'],NA,week_12,San Francisco 49ers,2014
+['Dan Skuta'],Questionable: ankle,week_12,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_12,San Francisco 49ers,2014
+['Justin Smith'],NA,week_12,San Francisco 49ers,2014
+['Joe Staley'],NA,week_12,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_12,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_12,San Francisco 49ers,2014
+['Raymond Ventrone'],NA,week_12,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_12,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_12,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_12,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_12,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_13,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_13,San Francisco 49ers,2014
+['Anquan Boldin'],Questionable: undisclosed,week_13,San Francisco 49ers,2014
+['Alex Boone'],NA,week_13,San Francisco 49ers,2014
+['Chris Borland'],NA,week_13,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_13,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_13,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_13,San Francisco 49ers,2014
+['Derek Carrier'],Questionable: foot,week_13,San Francisco 49ers,2014
+['Garrett Celek'],NA,week_13,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_13,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_13,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_13,San Francisco 49ers,2014
+['Chris Culliver'],NA,week_13,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: concussion,week_13,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_13,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_13,San Francisco 49ers,2014
+['Glenn Dorsey'],Questionable: forearm,week_13,San Francisco 49ers,2014
+['Bruce Ellington'],Questionable: ankle,week_13,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_13,San Francisco 49ers,2014
+['Frank Gore'],Probable: knee,week_13,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_13,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_13,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_13,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_13,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_13,San Francisco 49ers,2014
+['Steve Johnson'],NA,week_13,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_13,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_13,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_13,San Francisco 49ers,2014
+['Andy Lee'],NA,week_13,San Francisco 49ers,2014
+['Brandon Lloyd'],Probable: quadricep,week_13,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_13,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_13,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_13,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: hip,week_13,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_13,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_13,San Francisco 49ers,2014
+['Bruce Miller'],Probable: shoulder,week_13,San Francisco 49ers,2014
+['Nick Moody'],NA,week_13,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_13,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_13,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_13,San Francisco 49ers,2014
+['Eric Reid'],Probable: ankle,week_13,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_13,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_13,San Francisco 49ers,2014
+['Justin Smith'],Probable: back,week_13,San Francisco 49ers,2014
+['Joe Staley'],NA,week_13,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_13,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_13,San Francisco 49ers,2014
+['Raymond Ventrone'],Probable: groin,week_13,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_13,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_13,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_13,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_13,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_14,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_14,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_14,San Francisco 49ers,2014
+['Alex Boone'],NA,week_14,San Francisco 49ers,2014
+['Chris Borland'],NA,week_14,San Francisco 49ers,2014
+['NaVorro Bowman'],Physically Unable to Perform: knee,week_14,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_14,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_14,San Francisco 49ers,2014
+['Derek Carrier'],Injured Reserve: foot,week_14,San Francisco 49ers,2014
+['Garrett Celek'],NA,week_14,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_14,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_14,San Francisco 49ers,2014
+['Michael Crabtree'],Questionable: knee,week_14,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: shoulder,week_14,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: concussion,week_14,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_14,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_14,San Francisco 49ers,2014
+['Glenn Dorsey'],Questionable: forearm,week_14,San Francisco 49ers,2014
+['Bruce Ellington'],Probable: ankle,week_14,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_14,San Francisco 49ers,2014
+['Frank Gore'],NA,week_14,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_14,San Francisco 49ers,2014
+['Carlos Hyde'],Questionable: shoulder,week_14,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_14,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_14,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_14,San Francisco 49ers,2014
+['Steve Johnson'],Probable: knee,week_14,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_14,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_14,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_14,San Francisco 49ers,2014
+['Andy Lee'],NA,week_14,San Francisco 49ers,2014
+['Brandon Lloyd'],Probable: quadriceps,week_14,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_14,San Francisco 49ers,2014
+['Marcus Martin'],NA,week_14,San Francisco 49ers,2014
+['Ray McDonald'],Questionable: finger,week_14,San Francisco 49ers,2014
+['Vance McDonald'],Questionable: back,week_14,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_14,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_14,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_14,San Francisco 49ers,2014
+['Nick Moody'],NA,week_14,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_14,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_14,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_14,San Francisco 49ers,2014
+['Eric Reid'],NA,week_14,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_14,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_14,San Francisco 49ers,2014
+['Justin Smith'],Questionable: back,week_14,San Francisco 49ers,2014
+['Joe Staley'],Probable: illness,week_14,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_14,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_14,San Francisco 49ers,2014
+['Raymond Ventrone'],Questionable: groin,week_14,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_14,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_14,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_14,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_14,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_15,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_15,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_15,San Francisco 49ers,2014
+['Alex Boone'],NA,week_15,San Francisco 49ers,2014
+['Chris Borland'],NA,week_15,San Francisco 49ers,2014
+['NaVorro Bowman'],Questionable: knee,week_15,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_15,San Francisco 49ers,2014
+['Ahmad Brooks'],NA,week_15,San Francisco 49ers,2014
+['Derek Carrier'],Injured Reserve: foot,week_15,San Francisco 49ers,2014
+['Garrett Celek'],NA,week_15,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_15,San Francisco 49ers,2014
+['Perrish Cox'],NA,week_15,San Francisco 49ers,2014
+['Michael Crabtree'],NA,week_15,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: knee,week_15,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: concussion,week_15,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_15,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_15,San Francisco 49ers,2014
+['Glenn Dorsey'],Questionable: forearm,week_15,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_15,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_15,San Francisco 49ers,2014
+['Frank Gore'],NA,week_15,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_15,San Francisco 49ers,2014
+['Carlos Hyde'],NA,week_15,San Francisco 49ers,2014
+['Mike Iupati'],Probable: elbow,week_15,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_15,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_15,San Francisco 49ers,2014
+['Steve Johnson'],Questionable: knee,week_15,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_15,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_15,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_15,San Francisco 49ers,2014
+['Andy Lee'],NA,week_15,San Francisco 49ers,2014
+['Brandon Lloyd'],Questionable: quadriceps,week_15,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_15,San Francisco 49ers,2014
+['Marcus Martin'],Questionable: knee,week_15,San Francisco 49ers,2014
+['Ray McDonald'],Probable: finger,week_15,San Francisco 49ers,2014
+['Vance McDonald'],Injured Reserve: back,week_15,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_15,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_15,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_15,San Francisco 49ers,2014
+['Nick Moody'],NA,week_15,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_15,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_15,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_15,San Francisco 49ers,2014
+['Eric Reid'],NA,week_15,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_15,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_15,San Francisco 49ers,2014
+['Justin Smith'],Questionable: back,week_15,San Francisco 49ers,2014
+['Joe Staley'],NA,week_15,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_15,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_15,San Francisco 49ers,2014
+['Raymond Ventrone'],Questionable: groin,week_15,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_15,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_15,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_15,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_15,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_16,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_16,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_16,San Francisco 49ers,2014
+['Alex Boone'],NA,week_16,San Francisco 49ers,2014
+['Chris Borland'],Out: ankle,week_16,San Francisco 49ers,2014
+['NaVorro Bowman'],Injured Reserve: knee,week_16,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_16,San Francisco 49ers,2014
+['Ahmad Brooks'],Questionable: thumb,week_16,San Francisco 49ers,2014
+['Derek Carrier'],Injured Reserve: foot,week_16,San Francisco 49ers,2014
+['Garrett Celek'],Injured Reserve: ankle,week_16,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_16,San Francisco 49ers,2014
+['Perrish Cox'],Questionable: ankle,week_16,San Francisco 49ers,2014
+['Michael Crabtree'],Questionable: knee,week_16,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: knee,week_16,San Francisco 49ers,2014
+['Anthony Davis'],Questionable: concussion,week_16,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_16,San Francisco 49ers,2014
+['Quinton Dial'],Questionable: knee,week_16,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_16,San Francisco 49ers,2014
+['Bruce Ellington'],NA,week_16,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_16,San Francisco 49ers,2014
+['Frank Gore'],Questionable: concussion,week_16,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_16,San Francisco 49ers,2014
+['Carlos Hyde'],Out: ankle/back,week_16,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_16,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_16,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],Questionable: knee,week_16,San Francisco 49ers,2014
+['Steve Johnson'],Questionable: knee,week_16,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_16,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_16,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_16,San Francisco 49ers,2014
+['Andy Lee'],NA,week_16,San Francisco 49ers,2014
+['Brandon Lloyd'],NA,week_16,San Francisco 49ers,2014
+['Jonathan Martin'],Probable: illness,week_16,San Francisco 49ers,2014
+['Marcus Martin'],Probable: knee,week_16,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_16,San Francisco 49ers,2014
+['Vance McDonald'],Injured Reserve: back,week_16,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_16,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_16,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_16,San Francisco 49ers,2014
+['Nick Moody'],NA,week_16,San Francisco 49ers,2014
+['Kyle Nelson'],Probable: back,week_16,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_16,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_16,San Francisco 49ers,2014
+['Eric Reid'],NA,week_16,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_16,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_16,San Francisco 49ers,2014
+['Justin Smith'],Questionable: back,week_16,San Francisco 49ers,2014
+['Joe Staley'],NA,week_16,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_16,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_16,San Francisco 49ers,2014
+['Raymond Ventrone'],Questionable: groin,week_16,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_16,San Francisco 49ers,2014
+['Michael Wilhoite'],Questionable: hip,week_16,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_16,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_16,San Francisco 49ers,2014
+['Kenneth Acker'],Injured Reserve: foot,week_17,San Francisco 49ers,2014
+['Antoine Bethea'],NA,week_17,San Francisco 49ers,2014
+['Anquan Boldin'],NA,week_17,San Francisco 49ers,2014
+['Alex Boone'],Questionable: knee,week_17,San Francisco 49ers,2014
+['Chris Borland'],Injured Reserve: ankle,week_17,San Francisco 49ers,2014
+['NaVorro Bowman'],Injured Reserve: knee,week_17,San Francisco 49ers,2014
+['Tramaine Brock'],Questionable: hamstring,week_17,San Francisco 49ers,2014
+['Ahmad Brooks'],Questionable: thumb,week_17,San Francisco 49ers,2014
+['Derek Carrier'],Injured Reserve: foot,week_17,San Francisco 49ers,2014
+['Garrett Celek'],Injured Reserve: ankle,week_17,San Francisco 49ers,2014
+['Chris Cook'],Injured Reserve: hamstring,week_17,San Francisco 49ers,2014
+['Perrish Cox'],Questionable: shoulder,week_17,San Francisco 49ers,2014
+['Michael Crabtree'],Probable: knee,week_17,San Francisco 49ers,2014
+['Chris Culliver'],Questionable: knee,week_17,San Francisco 49ers,2014
+['Anthony Davis'],NA,week_17,San Francisco 49ers,2014
+['Vernon Davis'],NA,week_17,San Francisco 49ers,2014
+['Quinton Dial'],NA,week_17,San Francisco 49ers,2014
+['Glenn Dorsey'],Injured Reserve: biceps,week_17,San Francisco 49ers,2014
+['Bruce Ellington'],Questionable: hamstring,week_17,San Francisco 49ers,2014
+['Dillon Farrell'],NA,week_17,San Francisco 49ers,2014
+['Frank Gore'],NA,week_17,San Francisco 49ers,2014
+['Kendall Hunter'],Injured Reserve: knee,week_17,San Francisco 49ers,2014
+['Carlos Hyde'],Questionable: ankle/back,week_17,San Francisco 49ers,2014
+['Mike Iupati'],NA,week_17,San Francisco 49ers,2014
+['Chuck Jacobs'],Injured Reserve: knee,week_17,San Francisco 49ers,2014
+['Tony Jerod-Eddie'],NA,week_17,San Francisco 49ers,2014
+['Steve Johnson'],Questionable: knee,week_17,San Francisco 49ers,2014
+['Colin Kaepernick'],NA,week_17,San Francisco 49ers,2014
+['Daniel Kilgore'],Injured Reserve: ankle,week_17,San Francisco 49ers,2014
+['Marcus Lattimore'],NA,week_17,San Francisco 49ers,2014
+['Andy Lee'],NA,week_17,San Francisco 49ers,2014
+['Brandon Lloyd'],Probable: groin,week_17,San Francisco 49ers,2014
+['Jonathan Martin'],NA,week_17,San Francisco 49ers,2014
+['Marcus Martin'],Questionable: illness,week_17,San Francisco 49ers,2014
+['Ray McDonald'],NA,week_17,San Francisco 49ers,2014
+['Vance McDonald'],Injured Reserve: back,week_17,San Francisco 49ers,2014
+['Leon McFadden'],NA,week_17,San Francisco 49ers,2014
+['Trey Millard'],Out: knee,week_17,San Francisco 49ers,2014
+['Bruce Miller'],NA,week_17,San Francisco 49ers,2014
+['Nick Moody'],NA,week_17,San Francisco 49ers,2014
+['Kyle Nelson'],NA,week_17,San Francisco 49ers,2014
+['Kaleb Ramsey'],Physically Unable to Perform: undisclosed,week_17,San Francisco 49ers,2014
+['Keith Reaser'],Out: knee,week_17,San Francisco 49ers,2014
+['Eric Reid'],Questionable: concussion,week_17,San Francisco 49ers,2014
+['Dan Skuta'],NA,week_17,San Francisco 49ers,2014
+['Aldon Smith'],NA,week_17,San Francisco 49ers,2014
+['Justin Smith'],Questionable: back,week_17,San Francisco 49ers,2014
+['Joe Staley'],NA,week_17,San Francisco 49ers,2014
+['Brandon Thomas'],Out: knee,week_17,San Francisco 49ers,2014
+['Will Tukuafu'],Injured Reserve: concussion,week_17,San Francisco 49ers,2014
+['Raymond Ventrone'],Questionable: groin,week_17,San Francisco 49ers,2014
+['Jimmie Ward'],Injured Reserve: foot,week_17,San Francisco 49ers,2014
+['Michael Wilhoite'],NA,week_17,San Francisco 49ers,2014
+['Ian Williams'],Injured Reserve: ankle,week_17,San Francisco 49ers,2014
+['Patrick Willis'],Injured Reserve: toe,week_17,San Francisco 49ers,2014

@@ -1,0 +1,698 @@
+﻿name,injury,week,team,year
+['Ezekiel Ansah'],NA,week_1,Detroit Lions,2014
+['Joique Bell'],NA,week_1,Detroit Lions,2014
+['Bill Bentley'],NA,week_1,Detroit Lions,2014
+['Reggie Bush'],NA,week_1,Detroit Lions,2014
+['Josh Bynes'],NA,week_1,Detroit Lions,2014
+['Don Carey'],Questionable: hamstring,week_1,Detroit Lions,2014
+['Jerome Couplin'],NA,week_1,Detroit Lions,2014
+['Eric Ebron'],NA,week_1,Detroit Lions,2014
+['Nick Fairley'],NA,week_1,Detroit Lions,2014
+['Joseph Fauria'],NA,week_1,Detroit Lions,2014
+['Corey Hilliard'],NA,week_1,Detroit Lions,2014
+['James Ihedigbo'],Questionable: knee/neck,week_1,Detroit Lions,2014
+['Calvin Johnson'],NA,week_1,Detroit Lions,2014
+['George Johnson'],NA,week_1,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_1,Detroit Lions,2014
+['Nevin Lawson'],NA,week_1,Detroit Lions,2014
+['Travis Lewis'],NA,week_1,Detroit Lions,2014
+['Rashean Mathis'],NA,week_1,Detroit Lions,2014
+['C.J. Mosley'],NA,week_1,Detroit Lions,2014
+['Don Muhlbach'],NA,week_1,Detroit Lions,2014
+['Montell Owens'],NA,week_1,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_1,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_1,Detroit Lions,2014
+['Glover Quin'],NA,week_1,Detroit Lions,2014
+['Dominic Raiola'],NA,week_1,Detroit Lions,2014
+['Caraun Reid'],Questionable: shoulder,week_1,Detroit Lions,2014
+['Riley Reiff'],NA,week_1,Detroit Lions,2014
+['Theo Riddick'],NA,week_1,Detroit Lions,2014
+['Jeremy Ross'],NA,week_1,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_1,Detroit Lions,2014
+['Rob Sims'],NA,week_1,Detroit Lions,2014
+['Darius Slay'],NA,week_1,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_1,Detroit Lions,2014
+['Golden Tate'],NA,week_1,Detroit Lions,2014
+['Devin Taylor'],NA,week_1,Detroit Lions,2014
+['Stephen Tulloch'],NA,week_1,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_1,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_1,Detroit Lions,2014
+['LaAdrian Waddle'],NA,week_1,Detroit Lions,2014
+['Larry Warford'],NA,week_1,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_1,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_2,Detroit Lions,2014
+['Joique Bell'],NA,week_2,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_2,Detroit Lions,2014
+['Reggie Bush'],Probable: knee,week_2,Detroit Lions,2014
+['Josh Bynes'],NA,week_2,Detroit Lions,2014
+['Don Carey'],Questionable: hamstring,week_2,Detroit Lions,2014
+['Jerome Couplin'],NA,week_2,Detroit Lions,2014
+['Eric Ebron'],NA,week_2,Detroit Lions,2014
+['Nick Fairley'],NA,week_2,Detroit Lions,2014
+['Joseph Fauria'],NA,week_2,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_2,Detroit Lions,2014
+['James Ihedigbo'],Questionable: knee/neck,week_2,Detroit Lions,2014
+['Calvin Johnson'],NA,week_2,Detroit Lions,2014
+['George Johnson'],NA,week_2,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_2,Detroit Lions,2014
+['Nevin Lawson'],NA,week_2,Detroit Lions,2014
+['Travis Lewis'],NA,week_2,Detroit Lions,2014
+['Rashean Mathis'],NA,week_2,Detroit Lions,2014
+['C.J. Mosley'],NA,week_2,Detroit Lions,2014
+['Don Muhlbach'],NA,week_2,Detroit Lions,2014
+['Montell Owens'],NA,week_2,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_2,Detroit Lions,2014
+['Brandon Pettigrew'],Probable: foot,week_2,Detroit Lions,2014
+['Glover Quin'],NA,week_2,Detroit Lions,2014
+['Dominic Raiola'],NA,week_2,Detroit Lions,2014
+['Caraun Reid'],NA,week_2,Detroit Lions,2014
+['Riley Reiff'],NA,week_2,Detroit Lions,2014
+['Theo Riddick'],NA,week_2,Detroit Lions,2014
+['Jeremy Ross'],NA,week_2,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_2,Detroit Lions,2014
+['Rob Sims'],NA,week_2,Detroit Lions,2014
+['Darius Slay'],NA,week_2,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_2,Detroit Lions,2014
+['Golden Tate'],NA,week_2,Detroit Lions,2014
+['Devin Taylor'],NA,week_2,Detroit Lions,2014
+['Stephen Tulloch'],NA,week_2,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_2,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_2,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: leg,week_2,Detroit Lions,2014
+['Larry Warford'],NA,week_2,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_2,Detroit Lions,2014
+['Ezekiel Ansah'],Questionable: knee,week_3,Detroit Lions,2014
+['Joique Bell'],Probable: knee,week_3,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_3,Detroit Lions,2014
+['Reggie Bush'],NA,week_3,Detroit Lions,2014
+['Josh Bynes'],NA,week_3,Detroit Lions,2014
+['Don Carey'],Probable: hamstring,week_3,Detroit Lions,2014
+['Jerome Couplin'],NA,week_3,Detroit Lions,2014
+['Eric Ebron'],NA,week_3,Detroit Lions,2014
+['Nick Fairley'],Probable: biceps,week_3,Detroit Lions,2014
+['Joseph Fauria'],NA,week_3,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_3,Detroit Lions,2014
+['James Ihedigbo'],Questionable: knee/neck,week_3,Detroit Lions,2014
+['Calvin Johnson'],NA,week_3,Detroit Lions,2014
+['George Johnson'],Questionable: groin,week_3,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_3,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_3,Detroit Lions,2014
+['Travis Lewis'],Questionable: quadriceps,week_3,Detroit Lions,2014
+['Rashean Mathis'],NA,week_3,Detroit Lions,2014
+['C.J. Mosley'],NA,week_3,Detroit Lions,2014
+['Don Muhlbach'],NA,week_3,Detroit Lions,2014
+['Montell Owens'],Questionable: hamstring,week_3,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_3,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_3,Detroit Lions,2014
+['Glover Quin'],NA,week_3,Detroit Lions,2014
+['Dominic Raiola'],NA,week_3,Detroit Lions,2014
+['Caraun Reid'],NA,week_3,Detroit Lions,2014
+['Riley Reiff'],NA,week_3,Detroit Lions,2014
+['Theo Riddick'],NA,week_3,Detroit Lions,2014
+['Jeremy Ross'],NA,week_3,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_3,Detroit Lions,2014
+['Rob Sims'],NA,week_3,Detroit Lions,2014
+['Darius Slay'],NA,week_3,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_3,Detroit Lions,2014
+['Golden Tate'],NA,week_3,Detroit Lions,2014
+['Devin Taylor'],NA,week_3,Detroit Lions,2014
+['Stephen Tulloch'],NA,week_3,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_3,Detroit Lions,2014
+['Cassius Vaughn'],Questionable: ankle,week_3,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: calf,week_3,Detroit Lions,2014
+['Larry Warford'],NA,week_3,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_3,Detroit Lions,2014
+['Ezekiel Ansah'],Probable: knee,week_4,Detroit Lions,2014
+['Joique Bell'],Probable: knee,week_4,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_4,Detroit Lions,2014
+['Reggie Bush'],NA,week_4,Detroit Lions,2014
+['Josh Bynes'],NA,week_4,Detroit Lions,2014
+['Don Carey'],Questionable: hamstring,week_4,Detroit Lions,2014
+['Jerome Couplin'],NA,week_4,Detroit Lions,2014
+['Eric Ebron'],NA,week_4,Detroit Lions,2014
+['Nick Fairley'],Questionable: biceps,week_4,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_4,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_4,Detroit Lions,2014
+['James Ihedigbo'],Probable: knee/neck,week_4,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_4,Detroit Lions,2014
+['George Johnson'],Probable: groin,week_4,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_4,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_4,Detroit Lions,2014
+['Travis Lewis'],Questionable: quadriceps,week_4,Detroit Lions,2014
+['Rashean Mathis'],NA,week_4,Detroit Lions,2014
+['C.J. Mosley'],NA,week_4,Detroit Lions,2014
+['Don Muhlbach'],NA,week_4,Detroit Lions,2014
+['Montell Owens'],Questionable: hamstring,week_4,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_4,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_4,Detroit Lions,2014
+['Glover Quin'],NA,week_4,Detroit Lions,2014
+['Dominic Raiola'],NA,week_4,Detroit Lions,2014
+['Caraun Reid'],NA,week_4,Detroit Lions,2014
+['Riley Reiff'],NA,week_4,Detroit Lions,2014
+['Theo Riddick'],NA,week_4,Detroit Lions,2014
+['Jeremy Ross'],NA,week_4,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_4,Detroit Lions,2014
+['Rob Sims'],NA,week_4,Detroit Lions,2014
+['Darius Slay'],NA,week_4,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_4,Detroit Lions,2014
+['Golden Tate'],NA,week_4,Detroit Lions,2014
+['Devin Taylor'],NA,week_4,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_4,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_4,Detroit Lions,2014
+['Cassius Vaughn'],Questionable: ankle,week_4,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: calf,week_4,Detroit Lions,2014
+['Larry Warford'],NA,week_4,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_4,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_5,Detroit Lions,2014
+['Joique Bell'],Doubtful: concussion,week_5,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_5,Detroit Lions,2014
+['Reggie Bush'],NA,week_5,Detroit Lions,2014
+['Josh Bynes'],NA,week_5,Detroit Lions,2014
+['Don Carey'],Probable: hamstring,week_5,Detroit Lions,2014
+['Jerome Couplin'],NA,week_5,Detroit Lions,2014
+['Eric Ebron'],NA,week_5,Detroit Lions,2014
+['Nick Fairley'],Questionable: knee,week_5,Detroit Lions,2014
+['Joseph Fauria'],Doubtful: ankle,week_5,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_5,Detroit Lions,2014
+['James Ihedigbo'],NA,week_5,Detroit Lions,2014
+['Calvin Johnson'],Questionable: ankle,week_5,Detroit Lions,2014
+['George Johnson'],NA,week_5,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_5,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_5,Detroit Lions,2014
+['Travis Lewis'],Questionable: quadriceps,week_5,Detroit Lions,2014
+['Rashean Mathis'],NA,week_5,Detroit Lions,2014
+['C.J. Mosley'],NA,week_5,Detroit Lions,2014
+['Don Muhlbach'],NA,week_5,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_5,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_5,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_5,Detroit Lions,2014
+['Glover Quin'],NA,week_5,Detroit Lions,2014
+['Dominic Raiola'],NA,week_5,Detroit Lions,2014
+['Caraun Reid'],NA,week_5,Detroit Lions,2014
+['Riley Reiff'],NA,week_5,Detroit Lions,2014
+['Theo Riddick'],Questionable: hamstring,week_5,Detroit Lions,2014
+['Jeremy Ross'],NA,week_5,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_5,Detroit Lions,2014
+['Rob Sims'],NA,week_5,Detroit Lions,2014
+['Darius Slay'],NA,week_5,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_5,Detroit Lions,2014
+['Golden Tate'],Probable: hamstring,week_5,Detroit Lions,2014
+['Devin Taylor'],Questionable: knee,week_5,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_5,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_5,Detroit Lions,2014
+['Cassius Vaughn'],Questionable: ankle,week_5,Detroit Lions,2014
+['LaAdrian Waddle'],Probable: calf,week_5,Detroit Lions,2014
+['Larry Warford'],NA,week_5,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_5,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_6,Detroit Lions,2014
+['Joique Bell'],Probable: concussion,week_6,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_6,Detroit Lions,2014
+['Reggie Bush'],Questionable: ankle,week_6,Detroit Lions,2014
+['Josh Bynes'],NA,week_6,Detroit Lions,2014
+['Don Carey'],NA,week_6,Detroit Lions,2014
+['Jerome Couplin'],Probable: ribs,week_6,Detroit Lions,2014
+['Eric Ebron'],NA,week_6,Detroit Lions,2014
+['Nick Fairley'],NA,week_6,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_6,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_6,Detroit Lions,2014
+['James Ihedigbo'],NA,week_6,Detroit Lions,2014
+['Calvin Johnson'],Doubtful: ankle,week_6,Detroit Lions,2014
+['George Johnson'],NA,week_6,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_6,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_6,Detroit Lions,2014
+['Travis Lewis'],Questionable: quadriceps,week_6,Detroit Lions,2014
+['Rashean Mathis'],NA,week_6,Detroit Lions,2014
+['C.J. Mosley'],NA,week_6,Detroit Lions,2014
+['Don Muhlbach'],NA,week_6,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_6,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_6,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_6,Detroit Lions,2014
+['Glover Quin'],NA,week_6,Detroit Lions,2014
+['Dominic Raiola'],NA,week_6,Detroit Lions,2014
+['Caraun Reid'],NA,week_6,Detroit Lions,2014
+['Riley Reiff'],NA,week_6,Detroit Lions,2014
+['Theo Riddick'],Probable: hamstring,week_6,Detroit Lions,2014
+['Jeremy Ross'],NA,week_6,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_6,Detroit Lions,2014
+['Rob Sims'],NA,week_6,Detroit Lions,2014
+['Darius Slay'],NA,week_6,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_6,Detroit Lions,2014
+['Golden Tate'],NA,week_6,Detroit Lions,2014
+['Devin Taylor'],NA,week_6,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_6,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_6,Detroit Lions,2014
+['Cassius Vaughn'],Probable: ankle,week_6,Detroit Lions,2014
+['LaAdrian Waddle'],NA,week_6,Detroit Lions,2014
+['Larry Warford'],NA,week_6,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_6,Detroit Lions,2014
+['Ezekiel Ansah'],Questionable: toe,week_7,Detroit Lions,2014
+['Joique Bell'],NA,week_7,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_7,Detroit Lions,2014
+['Reggie Bush'],Questionable: ankle,week_7,Detroit Lions,2014
+['Josh Bynes'],NA,week_7,Detroit Lions,2014
+['Don Carey'],NA,week_7,Detroit Lions,2014
+['Jerome Couplin'],NA,week_7,Detroit Lions,2014
+['Eric Ebron'],Questionable: hamstring,week_7,Detroit Lions,2014
+['Nick Fairley'],NA,week_7,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_7,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_7,Detroit Lions,2014
+['James Ihedigbo'],NA,week_7,Detroit Lions,2014
+['Calvin Johnson'],Doubtful: ankle,week_7,Detroit Lions,2014
+['George Johnson'],NA,week_7,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_7,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_7,Detroit Lions,2014
+['Travis Lewis'],Questionable: quadriceps,week_7,Detroit Lions,2014
+['Rashean Mathis'],NA,week_7,Detroit Lions,2014
+['C.J. Mosley'],NA,week_7,Detroit Lions,2014
+['Don Muhlbach'],NA,week_7,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_7,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_7,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_7,Detroit Lions,2014
+['Glover Quin'],NA,week_7,Detroit Lions,2014
+['Dominic Raiola'],NA,week_7,Detroit Lions,2014
+['Caraun Reid'],NA,week_7,Detroit Lions,2014
+['Riley Reiff'],NA,week_7,Detroit Lions,2014
+['Theo Riddick'],Questionable: hamstring,week_7,Detroit Lions,2014
+['Jeremy Ross'],Questionable: ankle,week_7,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_7,Detroit Lions,2014
+['Rob Sims'],NA,week_7,Detroit Lions,2014
+['Darius Slay'],NA,week_7,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_7,Detroit Lions,2014
+['Golden Tate'],NA,week_7,Detroit Lions,2014
+['Devin Taylor'],NA,week_7,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_7,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_7,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_7,Detroit Lions,2014
+['LaAdrian Waddle'],NA,week_7,Detroit Lions,2014
+['Larry Warford'],NA,week_7,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_7,Detroit Lions,2014
+['Ezekiel Ansah'],Questionable: toe,week_8,Detroit Lions,2014
+['Joique Bell'],NA,week_8,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_8,Detroit Lions,2014
+['Reggie Bush'],Doubtful: ankle,week_8,Detroit Lions,2014
+['Josh Bynes'],NA,week_8,Detroit Lions,2014
+['Don Carey'],NA,week_8,Detroit Lions,2014
+['Jerome Couplin'],NA,week_8,Detroit Lions,2014
+['Eric Ebron'],Doubtful: hamstring,week_8,Detroit Lions,2014
+['Nick Fairley'],NA,week_8,Detroit Lions,2014
+['Joseph Fauria'],Doubtful: ankle,week_8,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_8,Detroit Lions,2014
+['James Ihedigbo'],NA,week_8,Detroit Lions,2014
+['Calvin Johnson'],Questionable: ankle,week_8,Detroit Lions,2014
+['George Johnson'],NA,week_8,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_8,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_8,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_8,Detroit Lions,2014
+['Rashean Mathis'],NA,week_8,Detroit Lions,2014
+['C.J. Mosley'],Suspended: ,week_8,Detroit Lions,2014
+['Don Muhlbach'],NA,week_8,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_8,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_8,Detroit Lions,2014
+['Brandon Pettigrew'],Doubtful: foot,week_8,Detroit Lions,2014
+['Glover Quin'],NA,week_8,Detroit Lions,2014
+['Dominic Raiola'],NA,week_8,Detroit Lions,2014
+['Caraun Reid'],NA,week_8,Detroit Lions,2014
+['Riley Reiff'],NA,week_8,Detroit Lions,2014
+['Theo Riddick'],Probable: hamstring,week_8,Detroit Lions,2014
+['Jeremy Ross'],NA,week_8,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_8,Detroit Lions,2014
+['Rob Sims'],NA,week_8,Detroit Lions,2014
+['Darius Slay'],NA,week_8,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_8,Detroit Lions,2014
+['Golden Tate'],NA,week_8,Detroit Lions,2014
+['Devin Taylor'],NA,week_8,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_8,Detroit Lions,2014
+['Kyle Van Noy'],Injured Reserve: abdominal,week_8,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_8,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: concussion,week_8,Detroit Lions,2014
+['Larry Warford'],NA,week_8,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_8,Detroit Lions,2014
+['Ezekiel Ansah'],Probable: toe,week_10,Detroit Lions,2014
+['Joique Bell'],NA,week_10,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_10,Detroit Lions,2014
+['Reggie Bush'],Probable: ankle,week_10,Detroit Lions,2014
+['Josh Bynes'],NA,week_10,Detroit Lions,2014
+['Don Carey'],NA,week_10,Detroit Lions,2014
+['Jerome Couplin'],NA,week_10,Detroit Lions,2014
+['Eric Ebron'],Probable: hamstring,week_10,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_10,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_10,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_10,Detroit Lions,2014
+['James Ihedigbo'],NA,week_10,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_10,Detroit Lions,2014
+['George Johnson'],Probable: hamstring,week_10,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_10,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_10,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_10,Detroit Lions,2014
+['Rashean Mathis'],NA,week_10,Detroit Lions,2014
+['C.J. Mosley'],Probable: two-game suspension served,week_10,Detroit Lions,2014
+['Don Muhlbach'],NA,week_10,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_10,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_10,Detroit Lions,2014
+['Brandon Pettigrew'],Probable: foot,week_10,Detroit Lions,2014
+['Glover Quin'],NA,week_10,Detroit Lions,2014
+['Dominic Raiola'],NA,week_10,Detroit Lions,2014
+['Caraun Reid'],NA,week_10,Detroit Lions,2014
+['Riley Reiff'],NA,week_10,Detroit Lions,2014
+['Theo Riddick'],NA,week_10,Detroit Lions,2014
+['Jeremy Ross'],NA,week_10,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_10,Detroit Lions,2014
+['Rob Sims'],NA,week_10,Detroit Lions,2014
+['Darius Slay'],NA,week_10,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_10,Detroit Lions,2014
+['Golden Tate'],NA,week_10,Detroit Lions,2014
+['Devin Taylor'],NA,week_10,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_10,Detroit Lions,2014
+['Kyle Van Noy'],Probable: abdominal,week_10,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_10,Detroit Lions,2014
+['LaAdrian Waddle'],Probable: concussion,week_10,Detroit Lions,2014
+['Larry Warford'],NA,week_10,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_10,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_11,Detroit Lions,2014
+['Joique Bell'],NA,week_11,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_11,Detroit Lions,2014
+['Reggie Bush'],Questionable: ankle,week_11,Detroit Lions,2014
+['Josh Bynes'],NA,week_11,Detroit Lions,2014
+['Don Carey'],NA,week_11,Detroit Lions,2014
+['Jerome Couplin'],NA,week_11,Detroit Lions,2014
+['Eric Ebron'],Questionable: hamstring,week_11,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_11,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_11,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_11,Detroit Lions,2014
+['James Ihedigbo'],Questionable: back,week_11,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_11,Detroit Lions,2014
+['George Johnson'],NA,week_11,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_11,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_11,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_11,Detroit Lions,2014
+['Rashean Mathis'],NA,week_11,Detroit Lions,2014
+['C.J. Mosley'],NA,week_11,Detroit Lions,2014
+['Don Muhlbach'],Questionable: ankle,week_11,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_11,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_11,Detroit Lions,2014
+['Brandon Pettigrew'],Probable: foot,week_11,Detroit Lions,2014
+['Glover Quin'],NA,week_11,Detroit Lions,2014
+['Dominic Raiola'],NA,week_11,Detroit Lions,2014
+['Caraun Reid'],NA,week_11,Detroit Lions,2014
+['Riley Reiff'],NA,week_11,Detroit Lions,2014
+['Theo Riddick'],NA,week_11,Detroit Lions,2014
+['Jeremy Ross'],NA,week_11,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_11,Detroit Lions,2014
+['Rob Sims'],NA,week_11,Detroit Lions,2014
+['Darius Slay'],NA,week_11,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_11,Detroit Lions,2014
+['Golden Tate'],NA,week_11,Detroit Lions,2014
+['Devin Taylor'],Questionable: knee,week_11,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_11,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_11,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_11,Detroit Lions,2014
+['LaAdrian Waddle'],Probable: knee,week_11,Detroit Lions,2014
+['Larry Warford'],Out: knee,week_11,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_11,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_12,Detroit Lions,2014
+['Joique Bell'],Questionable: ankle,week_12,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_12,Detroit Lions,2014
+['Reggie Bush'],Questionable: ankle,week_12,Detroit Lions,2014
+['Josh Bynes'],NA,week_12,Detroit Lions,2014
+['Don Carey'],NA,week_12,Detroit Lions,2014
+['Jerome Couplin'],NA,week_12,Detroit Lions,2014
+['Eric Ebron'],Probable: hamstring,week_12,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_12,Detroit Lions,2014
+['Joseph Fauria'],NA,week_12,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_12,Detroit Lions,2014
+['James Ihedigbo'],NA,week_12,Detroit Lions,2014
+['Calvin Johnson'],Probable: elbow,week_12,Detroit Lions,2014
+['George Johnson'],NA,week_12,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_12,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_12,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_12,Detroit Lions,2014
+['Rashean Mathis'],NA,week_12,Detroit Lions,2014
+['C.J. Mosley'],NA,week_12,Detroit Lions,2014
+['Don Muhlbach'],NA,week_12,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_12,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_12,Detroit Lions,2014
+['Brandon Pettigrew'],Questionable: foot,week_12,Detroit Lions,2014
+['Glover Quin'],NA,week_12,Detroit Lions,2014
+['Dominic Raiola'],NA,week_12,Detroit Lions,2014
+['Caraun Reid'],NA,week_12,Detroit Lions,2014
+['Riley Reiff'],NA,week_12,Detroit Lions,2014
+['Theo Riddick'],NA,week_12,Detroit Lions,2014
+['Jeremy Ross'],NA,week_12,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_12,Detroit Lions,2014
+['Rob Sims'],NA,week_12,Detroit Lions,2014
+['Darius Slay'],NA,week_12,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_12,Detroit Lions,2014
+['Golden Tate'],NA,week_12,Detroit Lions,2014
+['Devin Taylor'],NA,week_12,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_12,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_12,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_12,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: ankle,week_12,Detroit Lions,2014
+['Larry Warford'],Out: knee,week_12,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_12,Detroit Lions,2014
+['Ezekiel Ansah'],Probable: elbow,week_13,Detroit Lions,2014
+['Joique Bell'],NA,week_13,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_13,Detroit Lions,2014
+['Reggie Bush'],Questionable: ankle,week_13,Detroit Lions,2014
+['Josh Bynes'],NA,week_13,Detroit Lions,2014
+['Don Carey'],NA,week_13,Detroit Lions,2014
+['Jerome Couplin'],NA,week_13,Detroit Lions,2014
+['Eric Ebron'],NA,week_13,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_13,Detroit Lions,2014
+['Joseph Fauria'],NA,week_13,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_13,Detroit Lions,2014
+['James Ihedigbo'],Questionable: knee,week_13,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_13,Detroit Lions,2014
+['George Johnson'],Probable: foot,week_13,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_13,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_13,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_13,Detroit Lions,2014
+['Rashean Mathis'],Probable: ankle,week_13,Detroit Lions,2014
+['C.J. Mosley'],NA,week_13,Detroit Lions,2014
+['Don Muhlbach'],NA,week_13,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_13,Detroit Lions,2014
+['Ashlee Palmer'],Questionable: concussion,week_13,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_13,Detroit Lions,2014
+['Glover Quin'],Probable: back,week_13,Detroit Lions,2014
+['Dominic Raiola'],NA,week_13,Detroit Lions,2014
+['Caraun Reid'],NA,week_13,Detroit Lions,2014
+['Riley Reiff'],Doubtful: knee,week_13,Detroit Lions,2014
+['Theo Riddick'],NA,week_13,Detroit Lions,2014
+['Jeremy Ross'],NA,week_13,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_13,Detroit Lions,2014
+['Rob Sims'],NA,week_13,Detroit Lions,2014
+['Darius Slay'],NA,week_13,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_13,Detroit Lions,2014
+['Golden Tate'],NA,week_13,Detroit Lions,2014
+['Devin Taylor'],NA,week_13,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_13,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_13,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_13,Detroit Lions,2014
+['LaAdrian Waddle'],NA,week_13,Detroit Lions,2014
+['Larry Warford'],Out: knee,week_13,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_13,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_14,Detroit Lions,2014
+['Joique Bell'],NA,week_14,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_14,Detroit Lions,2014
+['Reggie Bush'],Probable: ankle/back,week_14,Detroit Lions,2014
+['Josh Bynes'],NA,week_14,Detroit Lions,2014
+['Don Carey'],NA,week_14,Detroit Lions,2014
+['Jerome Couplin'],NA,week_14,Detroit Lions,2014
+['Eric Ebron'],NA,week_14,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_14,Detroit Lions,2014
+['Joseph Fauria'],Questionable: ankle,week_14,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_14,Detroit Lions,2014
+['James Ihedigbo'],NA,week_14,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_14,Detroit Lions,2014
+['George Johnson'],NA,week_14,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_14,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_14,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_14,Detroit Lions,2014
+['Rashean Mathis'],NA,week_14,Detroit Lions,2014
+['C.J. Mosley'],NA,week_14,Detroit Lions,2014
+['Don Muhlbach'],NA,week_14,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_14,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_14,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_14,Detroit Lions,2014
+['Glover Quin'],NA,week_14,Detroit Lions,2014
+['Dominic Raiola'],NA,week_14,Detroit Lions,2014
+['Caraun Reid'],NA,week_14,Detroit Lions,2014
+['Riley Reiff'],Probable: knee,week_14,Detroit Lions,2014
+['Theo Riddick'],Probable: toe,week_14,Detroit Lions,2014
+['Jeremy Ross'],NA,week_14,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_14,Detroit Lions,2014
+['Rob Sims'],NA,week_14,Detroit Lions,2014
+['Darius Slay'],NA,week_14,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_14,Detroit Lions,2014
+['Golden Tate'],NA,week_14,Detroit Lions,2014
+['Devin Taylor'],NA,week_14,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_14,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_14,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_14,Detroit Lions,2014
+['LaAdrian Waddle'],NA,week_14,Detroit Lions,2014
+['Larry Warford'],Probable: knee,week_14,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_14,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_15,Detroit Lions,2014
+['Joique Bell'],NA,week_15,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_15,Detroit Lions,2014
+['Reggie Bush'],Probable: ankle,week_15,Detroit Lions,2014
+['Josh Bynes'],Questionable: illness,week_15,Detroit Lions,2014
+['Don Carey'],NA,week_15,Detroit Lions,2014
+['Jerome Couplin'],NA,week_15,Detroit Lions,2014
+['Eric Ebron'],NA,week_15,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_15,Detroit Lions,2014
+['Joseph Fauria'],Injured Reserve: ankle,week_15,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_15,Detroit Lions,2014
+['James Ihedigbo'],NA,week_15,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_15,Detroit Lions,2014
+['George Johnson'],NA,week_15,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_15,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_15,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_15,Detroit Lions,2014
+['Rashean Mathis'],NA,week_15,Detroit Lions,2014
+['C.J. Mosley'],NA,week_15,Detroit Lions,2014
+['Don Muhlbach'],NA,week_15,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_15,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_15,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_15,Detroit Lions,2014
+['Glover Quin'],NA,week_15,Detroit Lions,2014
+['Dominic Raiola'],NA,week_15,Detroit Lions,2014
+['Caraun Reid'],NA,week_15,Detroit Lions,2014
+['Riley Reiff'],NA,week_15,Detroit Lions,2014
+['Theo Riddick'],NA,week_15,Detroit Lions,2014
+['Jeremy Ross'],NA,week_15,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_15,Detroit Lions,2014
+['Rob Sims'],NA,week_15,Detroit Lions,2014
+['Darius Slay'],Questionable: shoulder,week_15,Detroit Lions,2014
+['Ndamukong Suh'],Probable: illness,week_15,Detroit Lions,2014
+['Golden Tate'],NA,week_15,Detroit Lions,2014
+['Devin Taylor'],NA,week_15,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_15,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_15,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_15,Detroit Lions,2014
+['LaAdrian Waddle'],Questionable: head,week_15,Detroit Lions,2014
+['Larry Warford'],NA,week_15,Detroit Lions,2014
+['Tahir Whitehead'],Questionable: shoulder,week_15,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_16,Detroit Lions,2014
+['Joique Bell'],NA,week_16,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_16,Detroit Lions,2014
+['Reggie Bush'],NA,week_16,Detroit Lions,2014
+['Josh Bynes'],NA,week_16,Detroit Lions,2014
+['Don Carey'],Probable: ankle,week_16,Detroit Lions,2014
+['Jerome Couplin'],NA,week_16,Detroit Lions,2014
+['Eric Ebron'],NA,week_16,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_16,Detroit Lions,2014
+['Joseph Fauria'],Injured Reserve: ankle,week_16,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_16,Detroit Lions,2014
+['James Ihedigbo'],NA,week_16,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_16,Detroit Lions,2014
+['George Johnson'],Probable: illness,week_16,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_16,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_16,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_16,Detroit Lions,2014
+['Rashean Mathis'],NA,week_16,Detroit Lions,2014
+['C.J. Mosley'],NA,week_16,Detroit Lions,2014
+['Don Muhlbach'],NA,week_16,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_16,Detroit Lions,2014
+['Ashlee Palmer'],Probable: quadricep,week_16,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_16,Detroit Lions,2014
+['Glover Quin'],NA,week_16,Detroit Lions,2014
+['Dominic Raiola'],NA,week_16,Detroit Lions,2014
+['Caraun Reid'],NA,week_16,Detroit Lions,2014
+['Riley Reiff'],NA,week_16,Detroit Lions,2014
+['Theo Riddick'],NA,week_16,Detroit Lions,2014
+['Jeremy Ross'],NA,week_16,Detroit Lions,2014
+['Mohammed Seisay'],Questionable: hamstring,week_16,Detroit Lions,2014
+['Rob Sims'],Questionable: illness,week_16,Detroit Lions,2014
+['Darius Slay'],NA,week_16,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_16,Detroit Lions,2014
+['Golden Tate'],NA,week_16,Detroit Lions,2014
+['Devin Taylor'],NA,week_16,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_16,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_16,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_16,Detroit Lions,2014
+['LaAdrian Waddle'],Injured Reserve: knee,week_16,Detroit Lions,2014
+['Larry Warford'],NA,week_16,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_16,Detroit Lions,2014
+['Ezekiel Ansah'],NA,week_17,Detroit Lions,2014
+['Joique Bell'],Probable: Achilles,week_17,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_17,Detroit Lions,2014
+['Reggie Bush'],NA,week_17,Detroit Lions,2014
+['Josh Bynes'],NA,week_17,Detroit Lions,2014
+['Don Carey'],NA,week_17,Detroit Lions,2014
+['Jerome Couplin'],NA,week_17,Detroit Lions,2014
+['Eric Ebron'],NA,week_17,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_17,Detroit Lions,2014
+['Joseph Fauria'],Injured Reserve: ankle,week_17,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_17,Detroit Lions,2014
+['James Ihedigbo'],NA,week_17,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_17,Detroit Lions,2014
+['George Johnson'],NA,week_17,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_17,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_17,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_17,Detroit Lions,2014
+['Rashean Mathis'],NA,week_17,Detroit Lions,2014
+['C.J. Mosley'],NA,week_17,Detroit Lions,2014
+['Don Muhlbach'],NA,week_17,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_17,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_17,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_17,Detroit Lions,2014
+['Glover Quin'],NA,week_17,Detroit Lions,2014
+['Dominic Raiola'],Out: one-game suspension,week_17,Detroit Lions,2014
+['Caraun Reid'],NA,week_17,Detroit Lions,2014
+['Riley Reiff'],NA,week_17,Detroit Lions,2014
+['Theo Riddick'],NA,week_17,Detroit Lions,2014
+['Jeremy Ross'],NA,week_17,Detroit Lions,2014
+['Mohammed Seisay'],Probable: hamstring,week_17,Detroit Lions,2014
+['Rob Sims'],NA,week_17,Detroit Lions,2014
+['Darius Slay'],NA,week_17,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_17,Detroit Lions,2014
+['Golden Tate'],NA,week_17,Detroit Lions,2014
+['Devin Taylor'],NA,week_17,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_17,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_17,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_17,Detroit Lions,2014
+['LaAdrian Waddle'],Injured Reserve: knee,week_17,Detroit Lions,2014
+['Larry Warford'],NA,week_17,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_17,Detroit Lions,2014
+['Ezekiel Ansah'],Probable: toe,week_18,Detroit Lions,2014
+['Joique Bell'],NA,week_18,Detroit Lions,2014
+['Bill Bentley'],Injured Reserve: knee,week_18,Detroit Lions,2014
+['Reggie Bush'],NA,week_18,Detroit Lions,2014
+['Josh Bynes'],NA,week_18,Detroit Lions,2014
+['Don Carey'],NA,week_18,Detroit Lions,2014
+['Jerome Couplin'],NA,week_18,Detroit Lions,2014
+['Eric Ebron'],NA,week_18,Detroit Lions,2014
+['Nick Fairley'],Out: knee,week_18,Detroit Lions,2014
+['Joseph Fauria'],Injured Reserve: ankle,week_18,Detroit Lions,2014
+['Corey Hilliard'],Injured Reserve: foot,week_18,Detroit Lions,2014
+['James Ihedigbo'],NA,week_18,Detroit Lions,2014
+['Calvin Johnson'],Probable: ankle,week_18,Detroit Lions,2014
+['George Johnson'],NA,week_18,Detroit Lions,2014
+['T.J. Jones'],Physically Unable to Perform: shoulder,week_18,Detroit Lions,2014
+['Nevin Lawson'],Injured Reserve: ankle,week_18,Detroit Lions,2014
+['Travis Lewis'],Injured Reserve: quadriceps,week_18,Detroit Lions,2014
+['Rashean Mathis'],NA,week_18,Detroit Lions,2014
+['C.J. Mosley'],NA,week_18,Detroit Lions,2014
+['Don Muhlbach'],NA,week_18,Detroit Lions,2014
+['Montell Owens'],Injured Reserve: hamstring,week_18,Detroit Lions,2014
+['Ashlee Palmer'],NA,week_18,Detroit Lions,2014
+['Brandon Pettigrew'],NA,week_18,Detroit Lions,2014
+['Glover Quin'],NA,week_18,Detroit Lions,2014
+['Dominic Raiola'],Probable: one-game suspension served,week_18,Detroit Lions,2014
+['Caraun Reid'],NA,week_18,Detroit Lions,2014
+['Riley Reiff'],NA,week_18,Detroit Lions,2014
+['Theo Riddick'],NA,week_18,Detroit Lions,2014
+['Jeremy Ross'],NA,week_18,Detroit Lions,2014
+['Mohammed Seisay'],NA,week_18,Detroit Lions,2014
+['Rob Sims'],NA,week_18,Detroit Lions,2014
+['Darius Slay'],NA,week_18,Detroit Lions,2014
+['Ndamukong Suh'],NA,week_18,Detroit Lions,2014
+['Golden Tate'],NA,week_18,Detroit Lions,2014
+['Devin Taylor'],NA,week_18,Detroit Lions,2014
+['Stephen Tulloch'],Injured Reserve: knee,week_18,Detroit Lions,2014
+['Kyle Van Noy'],NA,week_18,Detroit Lions,2014
+['Cassius Vaughn'],NA,week_18,Detroit Lions,2014
+['LaAdrian Waddle'],Injured Reserve: knee,week_18,Detroit Lions,2014
+['Larry Warford'],Doubtful: knee,week_18,Detroit Lions,2014
+['Tahir Whitehead'],NA,week_18,Detroit Lions,2014
