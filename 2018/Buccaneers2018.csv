@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Kwon Alexander'],NA,week_1,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_1,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_1,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_1,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_1,Tampa Bay Buccaneers,2018
+['Devante Bond'],Injured Reserve: Foot,week_1,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_1,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_1,Tampa Bay Buccaneers,2018
+['Chris Conte'],NA,week_1,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_1,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_1,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_1,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_1,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_1,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_1,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_1,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],NA,week_1,Tampa Bay Buccaneers,2018
+['Cole Gardner'],NA,week_1,Tampa Bay Buccaneers,2018
+['Brent Grimes'],Doubtful: Groin,week_1,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],NA,week_1,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Doubtful: Hamstring,week_1,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_1,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_1,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_1,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_1,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_1,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_1,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_1,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_1,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_1,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_1,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_1,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_1,Tampa Bay Buccaneers,2018
+['Donovan Smith'],Questionable: Knee,week_1,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_1,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_1,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Undisclosed,week_1,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_1,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_1,Tampa Bay Buccaneers,2018
+['Marcus Williams'],NA,week_1,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_1,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],NA,week_2,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_2,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_2,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_2,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_2,Tampa Bay Buccaneers,2018
+['Devante Bond'],Injured Reserve: Foot,week_2,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_2,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_2,Tampa Bay Buccaneers,2018
+['Chris Conte'],NA,week_2,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_2,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_2,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_2,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_2,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_2,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_2,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_2,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_2,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_2,Tampa Bay Buccaneers,2018
+['Brent Grimes'],Out: Groin,week_2,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_2,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Injured Reserve: Hamstring,week_2,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_2,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Questionable: Shoulder,week_2,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_2,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_2,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_2,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_2,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_2,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_2,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_2,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],Questionable: Knee,week_2,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_2,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_2,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_2,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_2,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_2,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_2,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_2,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_2,Tampa Bay Buccaneers,2018
+['Marcus Williams'],NA,week_2,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_2,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],NA,week_3,Tampa Bay Buccaneers,2018
+['Beau Allen'],Out: Foot,week_3,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_3,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_3,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_3,Tampa Bay Buccaneers,2018
+['Devante Bond'],Injured Reserve: Foot,week_3,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_3,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_3,Tampa Bay Buccaneers,2018
+['Chris Conte'],Questionable: Knee,week_3,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_3,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_3,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_3,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_3,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_3,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_3,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_3,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_3,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_3,Tampa Bay Buccaneers,2018
+['Brent Grimes'],Questionable: Groin,week_3,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_3,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Injured Reserve: Hamstring,week_3,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_3,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_3,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],Questionable: Illness,week_3,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_3,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_3,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_3,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_3,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_3,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_3,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_3,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_3,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_3,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_3,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_3,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_3,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_3,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_3,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_3,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Out: Hamstring,week_3,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_3,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],NA,week_4,Tampa Bay Buccaneers,2018
+['Beau Allen'],Out: Foot,week_4,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_4,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_4,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_4,Tampa Bay Buccaneers,2018
+['Devante Bond'],Injured Reserve: Foot,week_4,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_4,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_4,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_4,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_4,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_4,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_4,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Questionable: Groin,week_4,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_4,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_4,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_4,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_4,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_4,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_4,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_4,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Injured Reserve: Hamstring,week_4,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_4,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_4,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_4,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_4,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_4,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_4,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_4,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_4,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_4,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_4,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_4,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_4,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_4,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_4,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_4,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_4,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_4,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],Questionable: Shoulder,week_4,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Questionable: Hamstring,week_4,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_4,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],NA,week_6,Tampa Bay Buccaneers,2018
+['Beau Allen'],Questionable: Foot,week_6,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_6,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_6,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_6,Tampa Bay Buccaneers,2018
+['Devante Bond'],Injured Reserve: Foot,week_6,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_6,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_6,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_6,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_6,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_6,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_6,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Questionable: Groin,week_6,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_6,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_6,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_6,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_6,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_6,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_6,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_6,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Injured Reserve: Hamstring,week_6,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Questionable: Knee,week_6,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_6,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_6,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_6,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_6,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_6,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_6,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_6,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_6,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_6,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_6,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_6,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_6,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_6,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_6,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_6,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_6,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],Questionable: Hamstring,week_6,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Out: Hamstring,week_6,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_6,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],NA,week_7,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_7,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_7,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_7,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_7,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_7,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_7,Tampa Bay Buccaneers,2018
+['Jack Cichy'],NA,week_7,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_7,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_7,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Out: Ankle,week_7,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_7,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Questionable: Back,week_7,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_7,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_7,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_7,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_7,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_7,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_7,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_7,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",Injured Reserve: Hamstring,week_7,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_7,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_7,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_7,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_7,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_7,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],Out: Calf,week_7,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_7,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_7,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_7,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_7,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_7,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_7,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_7,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_7,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_7,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_7,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_7,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],Questionable: Hamstring,week_7,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_7,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_7,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_8,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_8,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_8,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_8,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_8,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_8,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_8,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_8,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_8,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_8,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Out: Ankle,week_8,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_8,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_8,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],NA,week_8,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_8,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_8,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_8,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_8,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_8,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_8,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_8,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_8,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_8,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_8,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_8,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_8,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],Out: Calf,week_8,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_8,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_8,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_8,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_8,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_8,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_8,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_8,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_8,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_8,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_8,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_8,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_8,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_8,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_8,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_9,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_9,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_9,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_9,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_9,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_9,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_9,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_9,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_9,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_9,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Questionable: Ankle,week_9,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_9,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_9,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_9,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_9,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_9,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_9,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_9,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_9,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_9,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_9,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_9,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_9,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_9,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_9,Tampa Bay Buccaneers,2018
+['Ronald Jones'],Out: Hamstring,week_9,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],Questionable: Calf,week_9,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_9,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_9,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_9,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_9,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_9,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_9,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_9,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Out: Foot,week_9,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_9,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_9,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_9,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_9,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_9,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_9,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_10,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_10,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_10,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_10,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_10,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_10,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_10,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_10,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_10,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_10,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Out: Ankle,week_10,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_10,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_10,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_10,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_10,Tampa Bay Buccaneers,2018
+['Justin Evans'],NA,week_10,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_10,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_10,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_10,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_10,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_10,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_10,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_10,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_10,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_10,Tampa Bay Buccaneers,2018
+['Ronald Jones'],Out: Hamstring,week_10,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_10,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_10,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_10,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_10,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_10,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_10,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_10,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_10,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Out: Foot,week_10,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_10,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_10,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_10,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_10,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_10,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],NA,week_10,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_11,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_11,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_11,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_11,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_11,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_11,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_11,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_11,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_11,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_11,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Out: Ankle,week_11,Tampa Bay Buccaneers,2018
+['Lavonte David'],Out: Knee,week_11,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_11,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_11,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_11,Tampa Bay Buccaneers,2018
+['Justin Evans'],Out: Toe,week_11,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_11,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_11,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_11,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_11,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_11,Tampa Bay Buccaneers,2018
+['O.J. Howard'],NA,week_11,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],NA,week_11,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],Questionable: Hamstring,week_11,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_11,Tampa Bay Buccaneers,2018
+['Ronald Jones'],Out: Hamstring,week_11,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_11,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_11,Tampa Bay Buccaneers,2018
+['Carl Nassib'],Questionable: Elbow,week_11,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_11,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_11,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_11,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_11,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_11,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Out: Foot,week_11,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_11,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_11,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_11,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_11,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_11,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_11,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_12,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_12,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_12,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_12,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_12,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_12,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_12,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_12,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_12,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_12,Tampa Bay Buccaneers,2018
+['Vinny Curry'],Questionable: Ankle,week_12,Tampa Bay Buccaneers,2018
+['Lavonte David'],Out: Knee,week_12,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_12,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_12,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_12,Tampa Bay Buccaneers,2018
+['Justin Evans'],Out: Toe,week_12,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_12,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_12,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_12,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_12,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_12,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_12,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Questionable: Thumb,week_12,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],Questionable: Hamstring,week_12,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_12,Tampa Bay Buccaneers,2018
+['Ronald Jones'],Questionable: Hamstring,week_12,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_12,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_12,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_12,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_12,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],Questionable: Knee,week_12,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],Questionable: Knee,week_12,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_12,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_12,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Out: Foot,week_12,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_12,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_12,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_12,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],Questionable: Concussion,week_12,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_12,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_12,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_13,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_13,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_13,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_13,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_13,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_13,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_13,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_13,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_13,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_13,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_13,Tampa Bay Buccaneers,2018
+['Lavonte David'],Questionable: Knee,week_13,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Out: Knee,week_13,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_13,Tampa Bay Buccaneers,2018
+['Demar Dotson'],Doubtful: Knee,week_13,Tampa Bay Buccaneers,2018
+['Justin Evans'],Questionable: Toe,week_13,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_13,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_13,Tampa Bay Buccaneers,2018
+['Brent Grimes'],Questionable: Knee,week_13,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_13,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_13,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_13,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Out: Thumb,week_13,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_13,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_13,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_13,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_13,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_13,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_13,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],Questionable: Knee,week_13,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_13,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_13,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_13,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_13,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Out: Foot,week_13,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_13,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_13,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_13,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_13,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_13,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_13,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_14,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_14,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_14,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_14,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_14,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_14,Tampa Bay Buccaneers,2018
+['Riley Bullough'],Injured Reserve: Foot,week_14,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_14,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_14,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_14,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_14,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_14,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Doubtful: Knee,week_14,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_14,Tampa Bay Buccaneers,2018
+['Demar Dotson'],Questionable: Hamstring,week_14,Tampa Bay Buccaneers,2018
+['Justin Evans'],Injured Reserve: Toe,week_14,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_14,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_14,Tampa Bay Buccaneers,2018
+['Brent Grimes'],Questionable: Knee,week_14,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_14,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_14,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_14,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Out: Thumb,week_14,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_14,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],Out: Concussion,week_14,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_14,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_14,Tampa Bay Buccaneers,2018
+['Kevin Minter'],NA,week_14,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_14,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_14,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],Questionable: Knee,week_14,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_14,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_14,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_14,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],Questionable: Foot,week_14,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_14,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_14,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_14,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_14,Tampa Bay Buccaneers,2018
+['Marcus Williams'],Injured Reserve: Hamstring,week_14,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_14,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_15,Tampa Bay Buccaneers,2018
+['Beau Allen'],Questionable: Wrist,week_15,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_15,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_15,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_15,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_15,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_15,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_15,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_15,Tampa Bay Buccaneers,2018
+['Alan Cross'],NA,week_15,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_15,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_15,Tampa Bay Buccaneers,2018
+['Carlton Davis'],Questionable: Knee,week_15,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_15,Tampa Bay Buccaneers,2018
+['Demar Dotson'],Questionable: Knee,week_15,Tampa Bay Buccaneers,2018
+['Justin Evans'],Injured Reserve: Toe,week_15,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_15,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_15,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_15,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_15,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_15,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_15,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Out: Thumb,week_15,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_15,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],Questionable: Concussion,week_15,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_15,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_15,Tampa Bay Buccaneers,2018
+['Kevin Minter'],Injured Reserve: Calf,week_15,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_15,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_15,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],Questionable: Knee,week_15,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_15,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_15,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_15,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_15,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],Questionable: NotInjuryRelated,week_15,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_15,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_15,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_15,Tampa Bay Buccaneers,2018
+['Marcus Williams'],NA,week_15,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_15,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_16,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_16,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_16,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_16,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_16,Tampa Bay Buccaneers,2018
+['Devante Bond'],NA,week_16,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_16,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_16,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_16,Tampa Bay Buccaneers,2018
+['Alan Cross'],Injured Reserve: Shoulder,week_16,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_16,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_16,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_16,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_16,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_16,Tampa Bay Buccaneers,2018
+['Justin Evans'],Injured Reserve: Toe,week_16,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_16,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_16,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_16,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_16,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_16,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_16,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Questionable: Thumb,week_16,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_16,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_16,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_16,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_16,Tampa Bay Buccaneers,2018
+['Kevin Minter'],Injured Reserve: Calf,week_16,Tampa Bay Buccaneers,2018
+['Carl Nassib'],NA,week_16,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_16,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],NA,week_16,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_16,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_16,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_16,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_16,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_16,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_16,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_16,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_16,Tampa Bay Buccaneers,2018
+['Marcus Williams'],NA,week_16,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_16,Tampa Bay Buccaneers,2018
+['Kwon Alexander'],Injured Reserve: Knee,week_17,Tampa Bay Buccaneers,2018
+['Beau Allen'],NA,week_17,Tampa Bay Buccaneers,2018
+['Sergio Bailey'],Injured Reserve: Ankle,week_17,Tampa Bay Buccaneers,2018
+['Tavaris Barnes'],Injured Reserve: Undisclosed,week_17,Tampa Bay Buccaneers,2018
+['Kendell Beckwith'],Injured Reserve: Ankle,week_17,Tampa Bay Buccaneers,2018
+['Devante Bond'],Questionable: Illness,week_17,Tampa Bay Buccaneers,2018
+['Riley Bullough'],NA,week_17,Tampa Bay Buccaneers,2018
+['Jack Cichy'],Injured Reserve: Knee,week_17,Tampa Bay Buccaneers,2018
+['Chris Conte'],Injured Reserve: Knee,week_17,Tampa Bay Buccaneers,2018
+['Alan Cross'],Injured Reserve: Shoulder,week_17,Tampa Bay Buccaneers,2018
+['Vinny Curry'],NA,week_17,Tampa Bay Buccaneers,2018
+['Lavonte David'],NA,week_17,Tampa Bay Buccaneers,2018
+['Carlton Davis'],NA,week_17,Tampa Bay Buccaneers,2018
+['Evan Dietrich-Smith'],Injured Reserve: Hip,week_17,Tampa Bay Buccaneers,2018
+['Demar Dotson'],NA,week_17,Tampa Bay Buccaneers,2018
+['Justin Evans'],Injured Reserve: Toe,week_17,Tampa Bay Buccaneers,2018
+['Maurice Fleming'],Injured Reserve: Knee,week_17,Tampa Bay Buccaneers,2018
+['Cole Gardner'],Injured Reserve: Undisclosed,week_17,Tampa Bay Buccaneers,2018
+['Brent Grimes'],NA,week_17,Tampa Bay Buccaneers,2018
+['Vernon Hargreaves'],Injured Reserve: Shoulder,week_17,Tampa Bay Buccaneers,2018
+"[""De'Vante Harris""]",NA,week_17,Tampa Bay Buccaneers,2018
+['O.J. Howard'],Injured Reserve: Ankle,week_17,Tampa Bay Buccaneers,2018
+['DeSean Jackson'],Doubtful: Achilles,week_17,Tampa Bay Buccaneers,2018
+['Ryan Jensen'],NA,week_17,Tampa Bay Buccaneers,2018
+['Isaiah Johnson'],NA,week_17,Tampa Bay Buccaneers,2018
+['Ronald Jones'],NA,week_17,Tampa Bay Buccaneers,2018
+['Gerald McCoy'],NA,week_17,Tampa Bay Buccaneers,2018
+['Kevin Minter'],Injured Reserve: Calf,week_17,Tampa Bay Buccaneers,2018
+['Carl Nassib'],Doubtful: Shoulder,week_17,Tampa Bay Buccaneers,2018
+['Rakeem Nunez-Roches'],NA,week_17,Tampa Bay Buccaneers,2018
+['Jason Pierre-Paul'],Questionable: Knee,week_17,Tampa Bay Buccaneers,2018
+['Garrison Sanborn'],NA,week_17,Tampa Bay Buccaneers,2018
+['Charles Sims'],Injured Reserve: Knee,week_17,Tampa Bay Buccaneers,2018
+['Donovan Smith'],NA,week_17,Tampa Bay Buccaneers,2018
+['M.J. Stewart'],NA,week_17,Tampa Bay Buccaneers,2018
+['Adarius Taylor'],NA,week_17,Tampa Bay Buccaneers,2018
+"[""Stevie Tu'ikolovatu""]",Injured Reserve: Tricep,week_17,Tampa Bay Buccaneers,2018
+['Mitch Unrein'],Injured Reserve: Concussion,week_17,Tampa Bay Buccaneers,2018
+['Jordan Whitehead'],NA,week_17,Tampa Bay Buccaneers,2018
+['Marcus Williams'],NA,week_17,Tampa Bay Buccaneers,2018
+['Shaun Wilson'],Injured Reserve: Shoulder,week_17,Tampa Bay Buccaneers,2018

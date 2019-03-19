@@ -1,0 +1,625 @@
+﻿name,injury,week,team,year
+['Davante Adams'],NA,week_1,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_1,Green Bay Packers,2018
+['Geronimo Allison'],NA,week_1,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_1,Green Bay Packers,2018
+['Byron Bell'],NA,week_1,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_1,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_1,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_1,Green Bay Packers,2018
+['Fadol Brown'],NA,week_1,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_1,Green Bay Packers,2018
+['Oren Burks'],Questionable: Shoulder,week_1,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_1,Green Bay Packers,2018
+['Tra Carson'],NA,week_1,Green Bay Packers,2018
+['Kenny Clark'],NA,week_1,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_1,Green Bay Packers,2018
+['Randall Cobb'],NA,week_1,Green Bay Packers,2018
+['James Crawford'],Questionable: Hamstring,week_1,Green Bay Packers,2018
+['Mike Daniels'],NA,week_1,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_1,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_1,Green Bay Packers,2018
+['Raven Greene'],NA,week_1,Green Bay Packers,2018
+['Davon House'],NA,week_1,Green Bay Packers,2018
+['Aaron Jones'],NA,week_1,Green Bay Packers,2018
+['Josh Jones'],Out: Ankle,week_1,Green Bay Packers,2018
+['Kevin King'],NA,week_1,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_1,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_1,Green Bay Packers,2018
+['Blake Martinez'],NA,week_1,Green Bay Packers,2018
+['Justin McCray'],NA,week_1,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_1,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_1,Green Bay Packers,2018
+['Nick Perry'],NA,week_1,Green Bay Packers,2018
+['Will Redmond'],NA,week_1,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_1,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_1,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_1,Green Bay Packers,2018
+['Lane Taylor'],NA,week_1,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_1,Green Bay Packers,2018
+['Muhammad Wilkerson'],NA,week_1,Green Bay Packers,2018
+['Davante Adams'],Questionable: Shoulder,week_2,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_2,Green Bay Packers,2018
+['Geronimo Allison'],NA,week_2,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_2,Green Bay Packers,2018
+['Byron Bell'],NA,week_2,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_2,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_2,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_2,Green Bay Packers,2018
+['Fadol Brown'],NA,week_2,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_2,Green Bay Packers,2018
+['Oren Burks'],Questionable: Shoulder,week_2,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_2,Green Bay Packers,2018
+['Tra Carson'],NA,week_2,Green Bay Packers,2018
+['Kenny Clark'],NA,week_2,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_2,Green Bay Packers,2018
+['Randall Cobb'],NA,week_2,Green Bay Packers,2018
+['James Crawford'],NA,week_2,Green Bay Packers,2018
+['Mike Daniels'],NA,week_2,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_2,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_2,Green Bay Packers,2018
+['Raven Greene'],NA,week_2,Green Bay Packers,2018
+['Davon House'],NA,week_2,Green Bay Packers,2018
+['Aaron Jones'],NA,week_2,Green Bay Packers,2018
+['Josh Jones'],Out: Ankle,week_2,Green Bay Packers,2018
+['Kevin King'],NA,week_2,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_2,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_2,Green Bay Packers,2018
+['Blake Martinez'],NA,week_2,Green Bay Packers,2018
+['Justin McCray'],NA,week_2,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_2,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_2,Green Bay Packers,2018
+['Nick Perry'],NA,week_2,Green Bay Packers,2018
+['Will Redmond'],NA,week_2,Green Bay Packers,2018
+['Aaron Rodgers'],Questionable: Knee,week_2,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_2,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_2,Green Bay Packers,2018
+['Lane Taylor'],NA,week_2,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_2,Green Bay Packers,2018
+['Muhammad Wilkerson'],NA,week_2,Green Bay Packers,2018
+['Davante Adams'],NA,week_3,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_3,Green Bay Packers,2018
+['Geronimo Allison'],NA,week_3,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_3,Green Bay Packers,2018
+['Byron Bell'],NA,week_3,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_3,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_3,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_3,Green Bay Packers,2018
+['Fadol Brown'],NA,week_3,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_3,Green Bay Packers,2018
+['Oren Burks'],Questionable: Shoulder,week_3,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_3,Green Bay Packers,2018
+['Tra Carson'],NA,week_3,Green Bay Packers,2018
+['Kenny Clark'],NA,week_3,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_3,Green Bay Packers,2018
+['Randall Cobb'],NA,week_3,Green Bay Packers,2018
+['James Crawford'],NA,week_3,Green Bay Packers,2018
+['Mike Daniels'],NA,week_3,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_3,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_3,Green Bay Packers,2018
+['Raven Greene'],NA,week_3,Green Bay Packers,2018
+['Davon House'],Questionable: Biceps,week_3,Green Bay Packers,2018
+['Aaron Jones'],NA,week_3,Green Bay Packers,2018
+['Josh Jones'],Questionable: Ankle,week_3,Green Bay Packers,2018
+['Kevin King'],Out: Groin,week_3,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_3,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_3,Green Bay Packers,2018
+['Blake Martinez'],NA,week_3,Green Bay Packers,2018
+['Justin McCray'],NA,week_3,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_3,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_3,Green Bay Packers,2018
+['Nick Perry'],NA,week_3,Green Bay Packers,2018
+['Will Redmond'],NA,week_3,Green Bay Packers,2018
+['Aaron Rodgers'],Questionable: Knee,week_3,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_3,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_3,Green Bay Packers,2018
+['Lane Taylor'],NA,week_3,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_3,Green Bay Packers,2018
+['Muhammad Wilkerson'],NA,week_3,Green Bay Packers,2018
+['Davante Adams'],NA,week_4,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_4,Green Bay Packers,2018
+['Geronimo Allison'],NA,week_4,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_4,Green Bay Packers,2018
+['Byron Bell'],NA,week_4,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_4,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_4,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_4,Green Bay Packers,2018
+['Fadol Brown'],NA,week_4,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_4,Green Bay Packers,2018
+['Oren Burks'],NA,week_4,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_4,Green Bay Packers,2018
+['Tra Carson'],NA,week_4,Green Bay Packers,2018
+['Kenny Clark'],NA,week_4,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_4,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_4,Green Bay Packers,2018
+['James Crawford'],NA,week_4,Green Bay Packers,2018
+['Mike Daniels'],NA,week_4,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_4,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_4,Green Bay Packers,2018
+['Raven Greene'],NA,week_4,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_4,Green Bay Packers,2018
+['Aaron Jones'],NA,week_4,Green Bay Packers,2018
+['Josh Jones'],Questionable: Ankle,week_4,Green Bay Packers,2018
+['Kevin King'],Questionable: Groin,week_4,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_4,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_4,Green Bay Packers,2018
+['Blake Martinez'],NA,week_4,Green Bay Packers,2018
+['Justin McCray'],Doubtful: Shoulder,week_4,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_4,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_4,Green Bay Packers,2018
+['Nick Perry'],Questionable: Concussion,week_4,Green Bay Packers,2018
+['Will Redmond'],NA,week_4,Green Bay Packers,2018
+['Aaron Rodgers'],Questionable: Knee,week_4,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_4,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_4,Green Bay Packers,2018
+['Lane Taylor'],NA,week_4,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_4,Green Bay Packers,2018
+['Muhammad Wilkerson'],Out: Ankle,week_4,Green Bay Packers,2018
+['Davante Adams'],Questionable: Calf,week_5,Green Bay Packers,2018
+['Jaire Alexander'],Questionable: Groin,week_5,Green Bay Packers,2018
+['Geronimo Allison'],Questionable: Concussion,week_5,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_5,Green Bay Packers,2018
+['Byron Bell'],NA,week_5,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_5,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Hamstring,week_5,Green Bay Packers,2018
+['Kentrell Brice'],Questionable: Ankle,week_5,Green Bay Packers,2018
+['Fadol Brown'],NA,week_5,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_5,Green Bay Packers,2018
+['Oren Burks'],NA,week_5,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_5,Green Bay Packers,2018
+['Tra Carson'],NA,week_5,Green Bay Packers,2018
+['Kenny Clark'],NA,week_5,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_5,Green Bay Packers,2018
+['Randall Cobb'],Out: Hamstring,week_5,Green Bay Packers,2018
+['James Crawford'],NA,week_5,Green Bay Packers,2018
+['Mike Daniels'],NA,week_5,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_5,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_5,Green Bay Packers,2018
+['Raven Greene'],NA,week_5,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_5,Green Bay Packers,2018
+['Aaron Jones'],NA,week_5,Green Bay Packers,2018
+['Josh Jones'],NA,week_5,Green Bay Packers,2018
+['Kevin King'],NA,week_5,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_5,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_5,Green Bay Packers,2018
+['Blake Martinez'],NA,week_5,Green Bay Packers,2018
+['Justin McCray'],Questionable: Shoulder,week_5,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_5,Green Bay Packers,2018
+['Lucas Patrick'],Questionable: Back,week_5,Green Bay Packers,2018
+['Nick Perry'],NA,week_5,Green Bay Packers,2018
+['Will Redmond'],NA,week_5,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_5,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_5,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_5,Green Bay Packers,2018
+['Lane Taylor'],NA,week_5,Green Bay Packers,2018
+['Jermaine Whitehead'],Questionable: Back,week_5,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_5,Green Bay Packers,2018
+['Davante Adams'],NA,week_6,Green Bay Packers,2018
+['Jaire Alexander'],Questionable: Groin,week_6,Green Bay Packers,2018
+['Geronimo Allison'],Questionable: Hamstring,week_6,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_6,Green Bay Packers,2018
+['Byron Bell'],NA,week_6,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_6,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Hamstring,week_6,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_6,Green Bay Packers,2018
+['Fadol Brown'],NA,week_6,Green Bay Packers,2018
+['Bryan Bulaga'],Questionable: Knee,week_6,Green Bay Packers,2018
+['Oren Burks'],NA,week_6,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_6,Green Bay Packers,2018
+['Tra Carson'],NA,week_6,Green Bay Packers,2018
+['Kenny Clark'],NA,week_6,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_6,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_6,Green Bay Packers,2018
+['James Crawford'],NA,week_6,Green Bay Packers,2018
+['Mike Daniels'],NA,week_6,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_6,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_6,Green Bay Packers,2018
+['Raven Greene'],NA,week_6,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_6,Green Bay Packers,2018
+['Aaron Jones'],NA,week_6,Green Bay Packers,2018
+['Josh Jones'],NA,week_6,Green Bay Packers,2018
+['Kevin King'],NA,week_6,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_6,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_6,Green Bay Packers,2018
+['Blake Martinez'],NA,week_6,Green Bay Packers,2018
+['Justin McCray'],Questionable: Shoulder,week_6,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_6,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_6,Green Bay Packers,2018
+['Nick Perry'],NA,week_6,Green Bay Packers,2018
+['Will Redmond'],NA,week_6,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_6,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_6,Green Bay Packers,2018
+['Jason Spriggs'],Questionable: Ankle,week_6,Green Bay Packers,2018
+['Lane Taylor'],NA,week_6,Green Bay Packers,2018
+['Jermaine Whitehead'],Questionable: Back,week_6,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_6,Green Bay Packers,2018
+['Davante Adams'],NA,week_8,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_8,Green Bay Packers,2018
+['Geronimo Allison'],NA,week_8,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_8,Green Bay Packers,2018
+['Byron Bell'],NA,week_8,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_8,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_8,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_8,Green Bay Packers,2018
+['Fadol Brown'],NA,week_8,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_8,Green Bay Packers,2018
+['Oren Burks'],NA,week_8,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_8,Green Bay Packers,2018
+['Tra Carson'],NA,week_8,Green Bay Packers,2018
+['Kenny Clark'],NA,week_8,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_8,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_8,Green Bay Packers,2018
+['James Crawford'],NA,week_8,Green Bay Packers,2018
+['Mike Daniels'],NA,week_8,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_8,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_8,Green Bay Packers,2018
+['Raven Greene'],NA,week_8,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_8,Green Bay Packers,2018
+['Aaron Jones'],NA,week_8,Green Bay Packers,2018
+['Josh Jones'],NA,week_8,Green Bay Packers,2018
+['Kevin King'],NA,week_8,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_8,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_8,Green Bay Packers,2018
+['Blake Martinez'],NA,week_8,Green Bay Packers,2018
+['Justin McCray'],NA,week_8,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_8,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_8,Green Bay Packers,2018
+['Nick Perry'],NA,week_8,Green Bay Packers,2018
+['Will Redmond'],NA,week_8,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_8,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_8,Green Bay Packers,2018
+['Jason Spriggs'],Questionable: Ankle,week_8,Green Bay Packers,2018
+['Lane Taylor'],NA,week_8,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_8,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_8,Green Bay Packers,2018
+['Davante Adams'],NA,week_9,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_9,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_9,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_9,Green Bay Packers,2018
+['Byron Bell'],NA,week_9,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_9,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_9,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_9,Green Bay Packers,2018
+['Fadol Brown'],NA,week_9,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_9,Green Bay Packers,2018
+['Oren Burks'],NA,week_9,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_9,Green Bay Packers,2018
+['Tra Carson'],NA,week_9,Green Bay Packers,2018
+['Kenny Clark'],NA,week_9,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_9,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_9,Green Bay Packers,2018
+['James Crawford'],NA,week_9,Green Bay Packers,2018
+['Mike Daniels'],NA,week_9,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_9,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_9,Green Bay Packers,2018
+['Raven Greene'],NA,week_9,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_9,Green Bay Packers,2018
+['Aaron Jones'],NA,week_9,Green Bay Packers,2018
+['Josh Jones'],NA,week_9,Green Bay Packers,2018
+['Kevin King'],NA,week_9,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_9,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_9,Green Bay Packers,2018
+['Blake Martinez'],NA,week_9,Green Bay Packers,2018
+['Justin McCray'],NA,week_9,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_9,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_9,Green Bay Packers,2018
+['Nick Perry'],Questionable: Ankle,week_9,Green Bay Packers,2018
+['Will Redmond'],NA,week_9,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_9,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_9,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_9,Green Bay Packers,2018
+['Lane Taylor'],NA,week_9,Green Bay Packers,2018
+['Jermaine Whitehead'],Questionable: Back,week_9,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_9,Green Bay Packers,2018
+['Davante Adams'],NA,week_10,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_10,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_10,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_10,Green Bay Packers,2018
+['Byron Bell'],NA,week_10,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_10,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_10,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_10,Green Bay Packers,2018
+['Fadol Brown'],NA,week_10,Green Bay Packers,2018
+['Bryan Bulaga'],Questionable: Knee,week_10,Green Bay Packers,2018
+['Oren Burks'],NA,week_10,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_10,Green Bay Packers,2018
+['Tra Carson'],NA,week_10,Green Bay Packers,2018
+['Kenny Clark'],NA,week_10,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_10,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_10,Green Bay Packers,2018
+['James Crawford'],NA,week_10,Green Bay Packers,2018
+['Mike Daniels'],NA,week_10,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_10,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_10,Green Bay Packers,2018
+['Raven Greene'],NA,week_10,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_10,Green Bay Packers,2018
+['Aaron Jones'],NA,week_10,Green Bay Packers,2018
+['Josh Jones'],NA,week_10,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_10,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_10,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_10,Green Bay Packers,2018
+['Blake Martinez'],Questionable: Ankle,week_10,Green Bay Packers,2018
+['Justin McCray'],NA,week_10,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_10,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_10,Green Bay Packers,2018
+['Nick Perry'],NA,week_10,Green Bay Packers,2018
+['Will Redmond'],NA,week_10,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_10,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_10,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_10,Green Bay Packers,2018
+['Lane Taylor'],NA,week_10,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_10,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_10,Green Bay Packers,2018
+['Davante Adams'],NA,week_11,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_11,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_11,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_11,Green Bay Packers,2018
+['Byron Bell'],NA,week_11,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_11,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Groin,week_11,Green Bay Packers,2018
+['Kentrell Brice'],Out: Ankle,week_11,Green Bay Packers,2018
+['Fadol Brown'],NA,week_11,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_11,Green Bay Packers,2018
+['Oren Burks'],NA,week_11,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_11,Green Bay Packers,2018
+['Tra Carson'],NA,week_11,Green Bay Packers,2018
+['Kenny Clark'],NA,week_11,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_11,Green Bay Packers,2018
+['Randall Cobb'],Out: Hamstring,week_11,Green Bay Packers,2018
+['James Crawford'],NA,week_11,Green Bay Packers,2018
+['Mike Daniels'],NA,week_11,Green Bay Packers,2018
+['Trevor Davis'],NA,week_11,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_11,Green Bay Packers,2018
+['Raven Greene'],NA,week_11,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_11,Green Bay Packers,2018
+['Aaron Jones'],NA,week_11,Green Bay Packers,2018
+['Josh Jones'],NA,week_11,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_11,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_11,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_11,Green Bay Packers,2018
+['Blake Martinez'],Questionable: Ankle,week_11,Green Bay Packers,2018
+['Justin McCray'],NA,week_11,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_11,Green Bay Packers,2018
+['Lucas Patrick'],Doubtful: Concussion,week_11,Green Bay Packers,2018
+['Nick Perry'],Out: Knee,week_11,Green Bay Packers,2018
+['Will Redmond'],NA,week_11,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_11,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_11,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_11,Green Bay Packers,2018
+['Lane Taylor'],NA,week_11,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_11,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_11,Green Bay Packers,2018
+['Davante Adams'],NA,week_12,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_12,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_12,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_12,Green Bay Packers,2018
+['Byron Bell'],NA,week_12,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_12,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Groin,week_12,Green Bay Packers,2018
+['Kentrell Brice'],Questionable: Ankle,week_12,Green Bay Packers,2018
+['Fadol Brown'],NA,week_12,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_12,Green Bay Packers,2018
+['Oren Burks'],NA,week_12,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_12,Green Bay Packers,2018
+['Tra Carson'],NA,week_12,Green Bay Packers,2018
+['Kenny Clark'],NA,week_12,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_12,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_12,Green Bay Packers,2018
+['James Crawford'],NA,week_12,Green Bay Packers,2018
+['Mike Daniels'],Injured Reserve: Foot,week_12,Green Bay Packers,2018
+['Trevor Davis'],NA,week_12,Green Bay Packers,2018
+['Jimmy Graham'],Questionable: Knee,week_12,Green Bay Packers,2018
+['Raven Greene'],Injured Reserve: Ankle,week_12,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_12,Green Bay Packers,2018
+['Aaron Jones'],NA,week_12,Green Bay Packers,2018
+['Josh Jones'],NA,week_12,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_12,Green Bay Packers,2018
+['Jake Kumerow'],Injured Reserve: Shoulder,week_12,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_12,Green Bay Packers,2018
+['Blake Martinez'],NA,week_12,Green Bay Packers,2018
+['Justin McCray'],NA,week_12,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_12,Green Bay Packers,2018
+['Lucas Patrick'],Questionable: Concussion,week_12,Green Bay Packers,2018
+['Nick Perry'],Out: Knee,week_12,Green Bay Packers,2018
+['Will Redmond'],NA,week_12,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_12,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_12,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_12,Green Bay Packers,2018
+['Lane Taylor'],NA,week_12,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_12,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_12,Green Bay Packers,2018
+['Davante Adams'],NA,week_13,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_13,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_13,Green Bay Packers,2018
+['David Bakhtiari'],Questionable: Knee,week_13,Green Bay Packers,2018
+['Byron Bell'],NA,week_13,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_13,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Groin,week_13,Green Bay Packers,2018
+['Kentrell Brice'],Out: Ankle,week_13,Green Bay Packers,2018
+['Fadol Brown'],NA,week_13,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_13,Green Bay Packers,2018
+['Oren Burks'],NA,week_13,Green Bay Packers,2018
+['Ibraheim Campbell'],NA,week_13,Green Bay Packers,2018
+['Tra Carson'],Injured Reserve: Ribs,week_13,Green Bay Packers,2018
+['Kenny Clark'],NA,week_13,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_13,Green Bay Packers,2018
+['Randall Cobb'],Questionable: Hamstring,week_13,Green Bay Packers,2018
+['James Crawford'],NA,week_13,Green Bay Packers,2018
+['Mike Daniels'],Out: Foot,week_13,Green Bay Packers,2018
+['Trevor Davis'],Out: Hamstring,week_13,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_13,Green Bay Packers,2018
+['Raven Greene'],Injured Reserve: Ankle,week_13,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_13,Green Bay Packers,2018
+['Aaron Jones'],NA,week_13,Green Bay Packers,2018
+['Josh Jones'],NA,week_13,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_13,Green Bay Packers,2018
+['Jake Kumerow'],NA,week_13,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_13,Green Bay Packers,2018
+['Blake Martinez'],NA,week_13,Green Bay Packers,2018
+['Justin McCray'],NA,week_13,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_13,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_13,Green Bay Packers,2018
+['Nick Perry'],Injured Reserve: Ankle,week_13,Green Bay Packers,2018
+['Will Redmond'],NA,week_13,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_13,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_13,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_13,Green Bay Packers,2018
+['Lane Taylor'],Questionable: Quadricep,week_13,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_13,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_13,Green Bay Packers,2018
+['Davante Adams'],NA,week_14,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_14,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_14,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_14,Green Bay Packers,2018
+['Byron Bell'],Injured Reserve: Knee,week_14,Green Bay Packers,2018
+['Hunter Bradley'],Questionable: Ankle,week_14,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Groin,week_14,Green Bay Packers,2018
+['Kentrell Brice'],Questionable: Ankle,week_14,Green Bay Packers,2018
+['Fadol Brown'],NA,week_14,Green Bay Packers,2018
+['Bryan Bulaga'],Doubtful: Knee,week_14,Green Bay Packers,2018
+['Oren Burks'],NA,week_14,Green Bay Packers,2018
+['Ibraheim Campbell'],Injured Reserve: Undisclosed,week_14,Green Bay Packers,2018
+['Tra Carson'],Injured Reserve: Ribs,week_14,Green Bay Packers,2018
+['Kenny Clark'],NA,week_14,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_14,Green Bay Packers,2018
+['Randall Cobb'],NA,week_14,Green Bay Packers,2018
+['James Crawford'],NA,week_14,Green Bay Packers,2018
+['Mike Daniels'],Injured Reserve: Foot,week_14,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_14,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_14,Green Bay Packers,2018
+['Raven Greene'],Out: Ankle,week_14,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_14,Green Bay Packers,2018
+['Aaron Jones'],NA,week_14,Green Bay Packers,2018
+['Josh Jones'],NA,week_14,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_14,Green Bay Packers,2018
+['Jake Kumerow'],NA,week_14,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_14,Green Bay Packers,2018
+['Blake Martinez'],NA,week_14,Green Bay Packers,2018
+['Justin McCray'],NA,week_14,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_14,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_14,Green Bay Packers,2018
+['Nick Perry'],Injured Reserve: Ankle,week_14,Green Bay Packers,2018
+['Will Redmond'],NA,week_14,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_14,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_14,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_14,Green Bay Packers,2018
+['Lane Taylor'],Questionable: Foot,week_14,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_14,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_14,Green Bay Packers,2018
+['Davante Adams'],NA,week_15,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_15,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_15,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_15,Green Bay Packers,2018
+['Byron Bell'],Injured Reserve: Knee,week_15,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_15,Green Bay Packers,2018
+['Bashaud Breeland'],Questionable: Groin,week_15,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_15,Green Bay Packers,2018
+['Fadol Brown'],NA,week_15,Green Bay Packers,2018
+['Bryan Bulaga'],Doubtful: Knee,week_15,Green Bay Packers,2018
+['Oren Burks'],NA,week_15,Green Bay Packers,2018
+['Ibraheim Campbell'],Injured Reserve: Undisclosed,week_15,Green Bay Packers,2018
+['Tra Carson'],Injured Reserve: Ribs,week_15,Green Bay Packers,2018
+['Kenny Clark'],Injured Reserve: Elbow,week_15,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_15,Green Bay Packers,2018
+['Randall Cobb'],NA,week_15,Green Bay Packers,2018
+['James Crawford'],NA,week_15,Green Bay Packers,2018
+['Mike Daniels'],Injured Reserve: Foot,week_15,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_15,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_15,Green Bay Packers,2018
+['Raven Greene'],Injured Reserve: Ankle,week_15,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_15,Green Bay Packers,2018
+['Aaron Jones'],NA,week_15,Green Bay Packers,2018
+['Josh Jones'],NA,week_15,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_15,Green Bay Packers,2018
+['Jake Kumerow'],NA,week_15,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_15,Green Bay Packers,2018
+['Blake Martinez'],NA,week_15,Green Bay Packers,2018
+['Justin McCray'],NA,week_15,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_15,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_15,Green Bay Packers,2018
+['Nick Perry'],Injured Reserve: Ankle,week_15,Green Bay Packers,2018
+['Will Redmond'],NA,week_15,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_15,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_15,Green Bay Packers,2018
+['Jason Spriggs'],NA,week_15,Green Bay Packers,2018
+['Lane Taylor'],NA,week_15,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_15,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_15,Green Bay Packers,2018
+['Davante Adams'],NA,week_16,Green Bay Packers,2018
+['Jaire Alexander'],NA,week_16,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_16,Green Bay Packers,2018
+['David Bakhtiari'],NA,week_16,Green Bay Packers,2018
+['Byron Bell'],Injured Reserve: Knee,week_16,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_16,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_16,Green Bay Packers,2018
+['Kentrell Brice'],NA,week_16,Green Bay Packers,2018
+['Fadol Brown'],NA,week_16,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_16,Green Bay Packers,2018
+['Oren Burks'],NA,week_16,Green Bay Packers,2018
+['Ibraheim Campbell'],Injured Reserve: Undisclosed,week_16,Green Bay Packers,2018
+['Tra Carson'],Injured Reserve: Ribs,week_16,Green Bay Packers,2018
+['Kenny Clark'],Out: Elbow,week_16,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_16,Green Bay Packers,2018
+['Randall Cobb'],Doubtful: Concussion,week_16,Green Bay Packers,2018
+['James Crawford'],NA,week_16,Green Bay Packers,2018
+['Mike Daniels'],Injured Reserve: Foot,week_16,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_16,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_16,Green Bay Packers,2018
+['Raven Greene'],Injured Reserve: Ankle,week_16,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_16,Green Bay Packers,2018
+['Aaron Jones'],Injured Reserve: Knee,week_16,Green Bay Packers,2018
+['Josh Jones'],NA,week_16,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_16,Green Bay Packers,2018
+['Jake Kumerow'],Questionable: Hand,week_16,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_16,Green Bay Packers,2018
+['Blake Martinez'],NA,week_16,Green Bay Packers,2018
+['Justin McCray'],NA,week_16,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_16,Green Bay Packers,2018
+['Lucas Patrick'],NA,week_16,Green Bay Packers,2018
+['Nick Perry'],Injured Reserve: Ankle,week_16,Green Bay Packers,2018
+['Will Redmond'],Out: Shoulder,week_16,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_16,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_16,Green Bay Packers,2018
+['Jason Spriggs'],Doubtful: Concussion,week_16,Green Bay Packers,2018
+['Lane Taylor'],NA,week_16,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_16,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_16,Green Bay Packers,2018
+['Davante Adams'],Questionable: Knee,week_17,Green Bay Packers,2018
+['Jaire Alexander'],Questionable: Groin,week_17,Green Bay Packers,2018
+['Geronimo Allison'],Injured Reserve: Groin,week_17,Green Bay Packers,2018
+['David Bakhtiari'],Questionable: Hip,week_17,Green Bay Packers,2018
+['Byron Bell'],Injured Reserve: Knee,week_17,Green Bay Packers,2018
+['Hunter Bradley'],NA,week_17,Green Bay Packers,2018
+['Bashaud Breeland'],NA,week_17,Green Bay Packers,2018
+['Kentrell Brice'],Questionable: Ankle,week_17,Green Bay Packers,2018
+['Fadol Brown'],Questionable: Toe,week_17,Green Bay Packers,2018
+['Bryan Bulaga'],NA,week_17,Green Bay Packers,2018
+['Oren Burks'],NA,week_17,Green Bay Packers,2018
+['Ibraheim Campbell'],Injured Reserve: Undisclosed,week_17,Green Bay Packers,2018
+['Tra Carson'],Injured Reserve: Ribs,week_17,Green Bay Packers,2018
+['Kenny Clark'],Injured Reserve: Elbow,week_17,Green Bay Packers,2018
+['Michael Clark'],Injured Reserve: Personal,week_17,Green Bay Packers,2018
+['Randall Cobb'],NA,week_17,Green Bay Packers,2018
+['James Crawford'],NA,week_17,Green Bay Packers,2018
+['Mike Daniels'],Injured Reserve: Foot,week_17,Green Bay Packers,2018
+['Trevor Davis'],Injured Reserve: Hamstring,week_17,Green Bay Packers,2018
+['Jimmy Graham'],NA,week_17,Green Bay Packers,2018
+['Raven Greene'],Injured Reserve: Ankle,week_17,Green Bay Packers,2018
+['Davon House'],Injured Reserve: Shoulder,week_17,Green Bay Packers,2018
+['Aaron Jones'],Injured Reserve: Knee,week_17,Green Bay Packers,2018
+['Josh Jones'],NA,week_17,Green Bay Packers,2018
+['Kevin King'],Injured Reserve: Hamstring,week_17,Green Bay Packers,2018
+['Jake Kumerow'],NA,week_17,Green Bay Packers,2018
+['Cole Madison'],Injured Reserve: Personal,week_17,Green Bay Packers,2018
+['Blake Martinez'],NA,week_17,Green Bay Packers,2018
+['Justin McCray'],NA,week_17,Green Bay Packers,2018
+['Kyle Murphy'],Injured Reserve: Ankle,week_17,Green Bay Packers,2018
+['Lucas Patrick'],Questionable: Abdomen,week_17,Green Bay Packers,2018
+['Nick Perry'],Injured Reserve: Ankle,week_17,Green Bay Packers,2018
+['Will Redmond'],Injured Reserve: Shoulder,week_17,Green Bay Packers,2018
+['Aaron Rodgers'],NA,week_17,Green Bay Packers,2018
+['Jake Ryan'],Injured Reserve: Knee,week_17,Green Bay Packers,2018
+['Jason Spriggs'],Doubtful: Concussion,week_17,Green Bay Packers,2018
+['Lane Taylor'],Questionable: Knee,week_17,Green Bay Packers,2018
+['Jermaine Whitehead'],NA,week_17,Green Bay Packers,2018
+['Muhammad Wilkerson'],Injured Reserve: Ankle,week_17,Green Bay Packers,2018

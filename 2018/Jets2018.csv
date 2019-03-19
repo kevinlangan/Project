@@ -1,0 +1,561 @@
+﻿name,injury,week,team,year
+['Robby Anderson'],NA,week_1,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_1,New York Jets,2018
+['Kelvin Beachum'],NA,week_1,New York Jets,2018
+['Trenton Cannon'],NA,week_1,New York Jets,2018
+['James Carpenter'],NA,week_1,New York Jets,2018
+['Morris Claiborne'],NA,week_1,New York Jets,2018
+['Brandon Copeland'],NA,week_1,New York Jets,2018
+['Isaiah Crowell'],NA,week_1,New York Jets,2018
+['Sam Darnold'],NA,week_1,New York Jets,2018
+['Quincy Enunwa'],NA,week_1,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_1,New York Jets,2018
+['Jordan Jenkins'],NA,week_1,New York Jets,2018
+['Trumaine Johnson'],NA,week_1,New York Jets,2018
+['Jermaine Kearse'],Doubtful: Abdomen,week_1,New York Jets,2018
+['Jordan Leggett'],NA,week_1,New York Jets,2018
+['Spencer Long'],NA,week_1,New York Jets,2018
+['Frankie Luvu'],NA,week_1,New York Jets,2018
+['Josh Martin'],Out: Concussion,week_1,New York Jets,2018
+['Rishard Matthews'],NA,week_1,New York Jets,2018
+['Marcus Maye'],Doubtful: Foot,week_1,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_1,New York Jets,2018
+['Steve McLendon'],NA,week_1,New York Jets,2018
+['Doug Middleton'],NA,week_1,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_1,New York Jets,2018
+['Charone Peake'],NA,week_1,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_1,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_1,New York Jets,2018
+['Bilal Powell'],NA,week_1,New York Jets,2018
+['Terrelle Pryor'],NA,week_1,New York Jets,2018
+['Andre Roberts'],NA,week_1,New York Jets,2018
+['Darryl Roberts'],NA,week_1,New York Jets,2018
+['Brandon Shell'],NA,week_1,New York Jets,2018
+['Buster Skrine'],NA,week_1,New York Jets,2018
+['Neal Sterling'],NA,week_1,New York Jets,2018
+['Eric Tomlinson'],NA,week_1,New York Jets,2018
+['Robby Anderson'],NA,week_2,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_2,New York Jets,2018
+['Kelvin Beachum'],NA,week_2,New York Jets,2018
+['Trenton Cannon'],NA,week_2,New York Jets,2018
+['James Carpenter'],NA,week_2,New York Jets,2018
+['Morris Claiborne'],NA,week_2,New York Jets,2018
+['Brandon Copeland'],NA,week_2,New York Jets,2018
+['Isaiah Crowell'],NA,week_2,New York Jets,2018
+['Sam Darnold'],NA,week_2,New York Jets,2018
+['Quincy Enunwa'],NA,week_2,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_2,New York Jets,2018
+['Jordan Jenkins'],NA,week_2,New York Jets,2018
+['Trumaine Johnson'],NA,week_2,New York Jets,2018
+['Jermaine Kearse'],NA,week_2,New York Jets,2018
+['Jordan Leggett'],NA,week_2,New York Jets,2018
+['Spencer Long'],NA,week_2,New York Jets,2018
+['Frankie Luvu'],NA,week_2,New York Jets,2018
+['Josh Martin'],Out: Concussion,week_2,New York Jets,2018
+['Rishard Matthews'],NA,week_2,New York Jets,2018
+['Marcus Maye'],Doubtful: Foot,week_2,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_2,New York Jets,2018
+['Steve McLendon'],NA,week_2,New York Jets,2018
+['Doug Middleton'],Questionable: Finger,week_2,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_2,New York Jets,2018
+['Charone Peake'],NA,week_2,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_2,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_2,New York Jets,2018
+['Bilal Powell'],NA,week_2,New York Jets,2018
+['Terrelle Pryor'],NA,week_2,New York Jets,2018
+['Andre Roberts'],NA,week_2,New York Jets,2018
+['Darryl Roberts'],NA,week_2,New York Jets,2018
+['Brandon Shell'],NA,week_2,New York Jets,2018
+['Buster Skrine'],NA,week_2,New York Jets,2018
+['Neal Sterling'],NA,week_2,New York Jets,2018
+['Eric Tomlinson'],NA,week_2,New York Jets,2018
+['Robby Anderson'],NA,week_3,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_3,New York Jets,2018
+['Kelvin Beachum'],NA,week_3,New York Jets,2018
+['Trenton Cannon'],NA,week_3,New York Jets,2018
+['James Carpenter'],NA,week_3,New York Jets,2018
+['Morris Claiborne'],NA,week_3,New York Jets,2018
+['Brandon Copeland'],NA,week_3,New York Jets,2018
+['Isaiah Crowell'],NA,week_3,New York Jets,2018
+['Sam Darnold'],NA,week_3,New York Jets,2018
+['Quincy Enunwa'],NA,week_3,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_3,New York Jets,2018
+['Jordan Jenkins'],NA,week_3,New York Jets,2018
+['Trumaine Johnson'],NA,week_3,New York Jets,2018
+['Jermaine Kearse'],NA,week_3,New York Jets,2018
+['Jordan Leggett'],NA,week_3,New York Jets,2018
+['Spencer Long'],NA,week_3,New York Jets,2018
+['Frankie Luvu'],NA,week_3,New York Jets,2018
+['Josh Martin'],Out: Concussion,week_3,New York Jets,2018
+['Rishard Matthews'],NA,week_3,New York Jets,2018
+['Marcus Maye'],Doubtful: Foot,week_3,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_3,New York Jets,2018
+['Steve McLendon'],NA,week_3,New York Jets,2018
+['Doug Middleton'],NA,week_3,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_3,New York Jets,2018
+['Charone Peake'],NA,week_3,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_3,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_3,New York Jets,2018
+['Bilal Powell'],NA,week_3,New York Jets,2018
+['Terrelle Pryor'],NA,week_3,New York Jets,2018
+['Andre Roberts'],NA,week_3,New York Jets,2018
+['Darryl Roberts'],NA,week_3,New York Jets,2018
+['Brandon Shell'],NA,week_3,New York Jets,2018
+['Buster Skrine'],NA,week_3,New York Jets,2018
+['Neal Sterling'],Out: Concussion,week_3,New York Jets,2018
+['Eric Tomlinson'],NA,week_3,New York Jets,2018
+['Robby Anderson'],NA,week_4,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_4,New York Jets,2018
+['Kelvin Beachum'],NA,week_4,New York Jets,2018
+['Trenton Cannon'],NA,week_4,New York Jets,2018
+['James Carpenter'],NA,week_4,New York Jets,2018
+['Morris Claiborne'],NA,week_4,New York Jets,2018
+['Brandon Copeland'],NA,week_4,New York Jets,2018
+['Isaiah Crowell'],NA,week_4,New York Jets,2018
+['Sam Darnold'],NA,week_4,New York Jets,2018
+['Quincy Enunwa'],NA,week_4,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_4,New York Jets,2018
+['Jordan Jenkins'],NA,week_4,New York Jets,2018
+['Trumaine Johnson'],NA,week_4,New York Jets,2018
+['Jermaine Kearse'],NA,week_4,New York Jets,2018
+['Jordan Leggett'],NA,week_4,New York Jets,2018
+['Spencer Long'],NA,week_4,New York Jets,2018
+['Frankie Luvu'],NA,week_4,New York Jets,2018
+['Josh Martin'],NA,week_4,New York Jets,2018
+['Rishard Matthews'],NA,week_4,New York Jets,2018
+['Marcus Maye'],Questionable: Ankle,week_4,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_4,New York Jets,2018
+['Steve McLendon'],NA,week_4,New York Jets,2018
+['Doug Middleton'],Questionable: Knee,week_4,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_4,New York Jets,2018
+['Charone Peake'],Out: Hamstring,week_4,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_4,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_4,New York Jets,2018
+['Bilal Powell'],NA,week_4,New York Jets,2018
+['Terrelle Pryor'],NA,week_4,New York Jets,2018
+['Andre Roberts'],NA,week_4,New York Jets,2018
+['Darryl Roberts'],NA,week_4,New York Jets,2018
+['Brandon Shell'],NA,week_4,New York Jets,2018
+['Buster Skrine'],Questionable: Knee,week_4,New York Jets,2018
+['Neal Sterling'],Out: Concussion,week_4,New York Jets,2018
+['Eric Tomlinson'],NA,week_4,New York Jets,2018
+['Robby Anderson'],NA,week_5,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_5,New York Jets,2018
+['Kelvin Beachum'],NA,week_5,New York Jets,2018
+['Trenton Cannon'],NA,week_5,New York Jets,2018
+['James Carpenter'],NA,week_5,New York Jets,2018
+['Morris Claiborne'],NA,week_5,New York Jets,2018
+['Brandon Copeland'],NA,week_5,New York Jets,2018
+['Isaiah Crowell'],NA,week_5,New York Jets,2018
+['Sam Darnold'],NA,week_5,New York Jets,2018
+['Quincy Enunwa'],NA,week_5,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_5,New York Jets,2018
+['Jordan Jenkins'],NA,week_5,New York Jets,2018
+['Trumaine Johnson'],Out: Quadricep,week_5,New York Jets,2018
+['Jermaine Kearse'],NA,week_5,New York Jets,2018
+['Jordan Leggett'],NA,week_5,New York Jets,2018
+['Spencer Long'],NA,week_5,New York Jets,2018
+['Frankie Luvu'],NA,week_5,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_5,New York Jets,2018
+['Rishard Matthews'],NA,week_5,New York Jets,2018
+['Marcus Maye'],Questionable: Ankle,week_5,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_5,New York Jets,2018
+['Steve McLendon'],NA,week_5,New York Jets,2018
+['Doug Middleton'],NA,week_5,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_5,New York Jets,2018
+['Charone Peake'],Out: Hamstring,week_5,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_5,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_5,New York Jets,2018
+['Bilal Powell'],NA,week_5,New York Jets,2018
+['Terrelle Pryor'],NA,week_5,New York Jets,2018
+['Andre Roberts'],NA,week_5,New York Jets,2018
+['Darryl Roberts'],NA,week_5,New York Jets,2018
+['Brandon Shell'],NA,week_5,New York Jets,2018
+['Buster Skrine'],NA,week_5,New York Jets,2018
+['Neal Sterling'],Out: Concussion,week_5,New York Jets,2018
+['Eric Tomlinson'],NA,week_5,New York Jets,2018
+['Robby Anderson'],NA,week_6,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_6,New York Jets,2018
+['Kelvin Beachum'],NA,week_6,New York Jets,2018
+['Trenton Cannon'],NA,week_6,New York Jets,2018
+['James Carpenter'],NA,week_6,New York Jets,2018
+['Morris Claiborne'],NA,week_6,New York Jets,2018
+['Brandon Copeland'],NA,week_6,New York Jets,2018
+['Isaiah Crowell'],Questionable: Ankle,week_6,New York Jets,2018
+['Sam Darnold'],NA,week_6,New York Jets,2018
+['Quincy Enunwa'],NA,week_6,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_6,New York Jets,2018
+['Jordan Jenkins'],NA,week_6,New York Jets,2018
+['Trumaine Johnson'],Doubtful: Quadricep,week_6,New York Jets,2018
+['Jermaine Kearse'],NA,week_6,New York Jets,2018
+['Jordan Leggett'],NA,week_6,New York Jets,2018
+['Spencer Long'],NA,week_6,New York Jets,2018
+['Frankie Luvu'],NA,week_6,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_6,New York Jets,2018
+['Rishard Matthews'],NA,week_6,New York Jets,2018
+['Marcus Maye'],Questionable: Ankle,week_6,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_6,New York Jets,2018
+['Steve McLendon'],NA,week_6,New York Jets,2018
+['Doug Middleton'],Questionable: Hamstring,week_6,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_6,New York Jets,2018
+['Charone Peake'],Out: Hamstring,week_6,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_6,New York Jets,2018
+['Kevin Pierre-Louis'],Doubtful: Foot,week_6,New York Jets,2018
+['Bilal Powell'],NA,week_6,New York Jets,2018
+['Terrelle Pryor'],NA,week_6,New York Jets,2018
+['Andre Roberts'],NA,week_6,New York Jets,2018
+['Darryl Roberts'],NA,week_6,New York Jets,2018
+['Brandon Shell'],NA,week_6,New York Jets,2018
+['Buster Skrine'],Out: Concussion,week_6,New York Jets,2018
+['Neal Sterling'],NA,week_6,New York Jets,2018
+['Eric Tomlinson'],NA,week_6,New York Jets,2018
+['Robby Anderson'],NA,week_7,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_7,New York Jets,2018
+['Kelvin Beachum'],NA,week_7,New York Jets,2018
+['Trenton Cannon'],NA,week_7,New York Jets,2018
+['James Carpenter'],NA,week_7,New York Jets,2018
+['Morris Claiborne'],NA,week_7,New York Jets,2018
+['Brandon Copeland'],NA,week_7,New York Jets,2018
+['Isaiah Crowell'],Questionable: Foot,week_7,New York Jets,2018
+['Sam Darnold'],NA,week_7,New York Jets,2018
+['Quincy Enunwa'],Out: Ankle,week_7,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_7,New York Jets,2018
+['Jordan Jenkins'],NA,week_7,New York Jets,2018
+['Trumaine Johnson'],Doubtful: Quadricep,week_7,New York Jets,2018
+['Jermaine Kearse'],NA,week_7,New York Jets,2018
+['Jordan Leggett'],NA,week_7,New York Jets,2018
+['Spencer Long'],NA,week_7,New York Jets,2018
+['Frankie Luvu'],NA,week_7,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_7,New York Jets,2018
+['Rishard Matthews'],NA,week_7,New York Jets,2018
+['Marcus Maye'],Out: Thumb,week_7,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_7,New York Jets,2018
+['Steve McLendon'],NA,week_7,New York Jets,2018
+['Doug Middleton'],NA,week_7,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_7,New York Jets,2018
+['Charone Peake'],NA,week_7,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_7,New York Jets,2018
+['Kevin Pierre-Louis'],Doubtful: Foot,week_7,New York Jets,2018
+['Bilal Powell'],NA,week_7,New York Jets,2018
+['Terrelle Pryor'],Doubtful: Groin,week_7,New York Jets,2018
+['Andre Roberts'],NA,week_7,New York Jets,2018
+['Darryl Roberts'],NA,week_7,New York Jets,2018
+['Brandon Shell'],NA,week_7,New York Jets,2018
+['Buster Skrine'],Out: Concussion,week_7,New York Jets,2018
+['Neal Sterling'],NA,week_7,New York Jets,2018
+['Eric Tomlinson'],NA,week_7,New York Jets,2018
+['Robby Anderson'],Doubtful: Ankle,week_8,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_8,New York Jets,2018
+['Kelvin Beachum'],Questionable: Back,week_8,New York Jets,2018
+['Trenton Cannon'],NA,week_8,New York Jets,2018
+['James Carpenter'],NA,week_8,New York Jets,2018
+['Morris Claiborne'],Questionable: Shoulder,week_8,New York Jets,2018
+['Brandon Copeland'],NA,week_8,New York Jets,2018
+['Isaiah Crowell'],NA,week_8,New York Jets,2018
+['Sam Darnold'],NA,week_8,New York Jets,2018
+['Quincy Enunwa'],Out: Ankle,week_8,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_8,New York Jets,2018
+['Jordan Jenkins'],NA,week_8,New York Jets,2018
+['Trumaine Johnson'],Doubtful: Quadricep,week_8,New York Jets,2018
+['Jermaine Kearse'],NA,week_8,New York Jets,2018
+['Jordan Leggett'],NA,week_8,New York Jets,2018
+['Spencer Long'],Questionable: Knee,week_8,New York Jets,2018
+['Frankie Luvu'],NA,week_8,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_8,New York Jets,2018
+['Rishard Matthews'],NA,week_8,New York Jets,2018
+['Marcus Maye'],Questionable: Thumb,week_8,New York Jets,2018
+['Elijah McGuire'],Injured Reserve: Foot,week_8,New York Jets,2018
+['Steve McLendon'],NA,week_8,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_8,New York Jets,2018
+['Rontez Miles'],Injured Reserve: Knee,week_8,New York Jets,2018
+['Charone Peake'],NA,week_8,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_8,New York Jets,2018
+['Kevin Pierre-Louis'],Questionable: Foot,week_8,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_8,New York Jets,2018
+['Terrelle Pryor'],NA,week_8,New York Jets,2018
+['Andre Roberts'],NA,week_8,New York Jets,2018
+['Darryl Roberts'],NA,week_8,New York Jets,2018
+['Brandon Shell'],NA,week_8,New York Jets,2018
+['Buster Skrine'],NA,week_8,New York Jets,2018
+['Neal Sterling'],NA,week_8,New York Jets,2018
+['Eric Tomlinson'],NA,week_8,New York Jets,2018
+['Robby Anderson'],Questionable: Ankle,week_9,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_9,New York Jets,2018
+['Kelvin Beachum'],NA,week_9,New York Jets,2018
+['Trenton Cannon'],NA,week_9,New York Jets,2018
+['James Carpenter'],NA,week_9,New York Jets,2018
+['Morris Claiborne'],NA,week_9,New York Jets,2018
+['Brandon Copeland'],NA,week_9,New York Jets,2018
+['Isaiah Crowell'],NA,week_9,New York Jets,2018
+['Sam Darnold'],NA,week_9,New York Jets,2018
+['Quincy Enunwa'],Questionable: Ankle,week_9,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_9,New York Jets,2018
+['Jordan Jenkins'],NA,week_9,New York Jets,2018
+['Trumaine Johnson'],Doubtful: Quadricep,week_9,New York Jets,2018
+['Jermaine Kearse'],NA,week_9,New York Jets,2018
+['Jordan Leggett'],NA,week_9,New York Jets,2018
+['Spencer Long'],NA,week_9,New York Jets,2018
+['Frankie Luvu'],Questionable: Neck,week_9,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_9,New York Jets,2018
+['Rishard Matthews'],NA,week_9,New York Jets,2018
+['Marcus Maye'],NA,week_9,New York Jets,2018
+['Elijah McGuire'],NA,week_9,New York Jets,2018
+['Steve McLendon'],Questionable: Ankle,week_9,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_9,New York Jets,2018
+['Rontez Miles'],NA,week_9,New York Jets,2018
+['Charone Peake'],NA,week_9,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_9,New York Jets,2018
+['Kevin Pierre-Louis'],Doubtful: Foot,week_9,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_9,New York Jets,2018
+['Terrelle Pryor'],NA,week_9,New York Jets,2018
+['Andre Roberts'],Questionable: Back,week_9,New York Jets,2018
+['Darryl Roberts'],NA,week_9,New York Jets,2018
+['Brandon Shell'],NA,week_9,New York Jets,2018
+['Buster Skrine'],NA,week_9,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_9,New York Jets,2018
+['Eric Tomlinson'],NA,week_9,New York Jets,2018
+['Robby Anderson'],Doubtful: Ankle,week_10,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_10,New York Jets,2018
+['Kelvin Beachum'],NA,week_10,New York Jets,2018
+['Trenton Cannon'],NA,week_10,New York Jets,2018
+['James Carpenter'],NA,week_10,New York Jets,2018
+['Morris Claiborne'],NA,week_10,New York Jets,2018
+['Brandon Copeland'],NA,week_10,New York Jets,2018
+['Isaiah Crowell'],NA,week_10,New York Jets,2018
+['Sam Darnold'],Doubtful: Foot,week_10,New York Jets,2018
+['Quincy Enunwa'],NA,week_10,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_10,New York Jets,2018
+['Jordan Jenkins'],NA,week_10,New York Jets,2018
+['Trumaine Johnson'],NA,week_10,New York Jets,2018
+['Jermaine Kearse'],NA,week_10,New York Jets,2018
+['Jordan Leggett'],NA,week_10,New York Jets,2018
+['Spencer Long'],Doubtful: Knee,week_10,New York Jets,2018
+['Frankie Luvu'],NA,week_10,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_10,New York Jets,2018
+['Rishard Matthews'],NA,week_10,New York Jets,2018
+['Marcus Maye'],NA,week_10,New York Jets,2018
+['Elijah McGuire'],NA,week_10,New York Jets,2018
+['Steve McLendon'],Questionable: Ankle,week_10,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_10,New York Jets,2018
+['Rontez Miles'],NA,week_10,New York Jets,2018
+['Charone Peake'],NA,week_10,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_10,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_10,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_10,New York Jets,2018
+['Terrelle Pryor'],NA,week_10,New York Jets,2018
+['Andre Roberts'],NA,week_10,New York Jets,2018
+['Darryl Roberts'],NA,week_10,New York Jets,2018
+['Brandon Shell'],NA,week_10,New York Jets,2018
+['Buster Skrine'],NA,week_10,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_10,New York Jets,2018
+['Eric Tomlinson'],NA,week_10,New York Jets,2018
+['Robby Anderson'],Questionable: Ankle,week_12,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_12,New York Jets,2018
+['Kelvin Beachum'],NA,week_12,New York Jets,2018
+['Trenton Cannon'],NA,week_12,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_12,New York Jets,2018
+['Morris Claiborne'],NA,week_12,New York Jets,2018
+['Brandon Copeland'],Questionable: Elbow,week_12,New York Jets,2018
+['Isaiah Crowell'],NA,week_12,New York Jets,2018
+['Sam Darnold'],Out: Foot,week_12,New York Jets,2018
+['Quincy Enunwa'],NA,week_12,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_12,New York Jets,2018
+['Jordan Jenkins'],NA,week_12,New York Jets,2018
+['Trumaine Johnson'],NA,week_12,New York Jets,2018
+['Jermaine Kearse'],NA,week_12,New York Jets,2018
+['Jordan Leggett'],NA,week_12,New York Jets,2018
+['Spencer Long'],NA,week_12,New York Jets,2018
+['Frankie Luvu'],NA,week_12,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_12,New York Jets,2018
+['Rishard Matthews'],NA,week_12,New York Jets,2018
+['Marcus Maye'],Injured Reserve: Shoulder,week_12,New York Jets,2018
+['Elijah McGuire'],NA,week_12,New York Jets,2018
+['Steve McLendon'],NA,week_12,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_12,New York Jets,2018
+['Rontez Miles'],NA,week_12,New York Jets,2018
+['Charone Peake'],NA,week_12,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_12,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_12,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_12,New York Jets,2018
+['Terrelle Pryor'],NA,week_12,New York Jets,2018
+['Andre Roberts'],NA,week_12,New York Jets,2018
+['Darryl Roberts'],NA,week_12,New York Jets,2018
+['Brandon Shell'],NA,week_12,New York Jets,2018
+['Buster Skrine'],NA,week_12,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_12,New York Jets,2018
+['Eric Tomlinson'],NA,week_12,New York Jets,2018
+['Robby Anderson'],Questionable: Ankle,week_13,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_13,New York Jets,2018
+['Kelvin Beachum'],NA,week_13,New York Jets,2018
+['Trenton Cannon'],NA,week_13,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_13,New York Jets,2018
+['Morris Claiborne'],NA,week_13,New York Jets,2018
+['Brandon Copeland'],NA,week_13,New York Jets,2018
+['Isaiah Crowell'],NA,week_13,New York Jets,2018
+['Sam Darnold'],Questionable: Foot,week_13,New York Jets,2018
+['Quincy Enunwa'],NA,week_13,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_13,New York Jets,2018
+['Jordan Jenkins'],NA,week_13,New York Jets,2018
+['Trumaine Johnson'],NA,week_13,New York Jets,2018
+['Jermaine Kearse'],NA,week_13,New York Jets,2018
+['Jordan Leggett'],NA,week_13,New York Jets,2018
+['Spencer Long'],NA,week_13,New York Jets,2018
+['Frankie Luvu'],NA,week_13,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_13,New York Jets,2018
+['Rishard Matthews'],NA,week_13,New York Jets,2018
+['Marcus Maye'],Out: Shoulder,week_13,New York Jets,2018
+['Elijah McGuire'],NA,week_13,New York Jets,2018
+['Steve McLendon'],NA,week_13,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_13,New York Jets,2018
+['Rontez Miles'],NA,week_13,New York Jets,2018
+['Charone Peake'],NA,week_13,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_13,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_13,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_13,New York Jets,2018
+['Terrelle Pryor'],NA,week_13,New York Jets,2018
+['Andre Roberts'],NA,week_13,New York Jets,2018
+['Darryl Roberts'],NA,week_13,New York Jets,2018
+['Brandon Shell'],NA,week_13,New York Jets,2018
+['Buster Skrine'],NA,week_13,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_13,New York Jets,2018
+['Eric Tomlinson'],NA,week_13,New York Jets,2018
+['Robby Anderson'],Questionable: Ankle,week_14,New York Jets,2018
+['Jeremiah Attaochu'],NA,week_14,New York Jets,2018
+['Kelvin Beachum'],NA,week_14,New York Jets,2018
+['Trenton Cannon'],NA,week_14,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_14,New York Jets,2018
+['Morris Claiborne'],NA,week_14,New York Jets,2018
+['Brandon Copeland'],NA,week_14,New York Jets,2018
+['Isaiah Crowell'],Questionable: Toe,week_14,New York Jets,2018
+['Sam Darnold'],NA,week_14,New York Jets,2018
+['Quincy Enunwa'],NA,week_14,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_14,New York Jets,2018
+['Jordan Jenkins'],NA,week_14,New York Jets,2018
+['Trumaine Johnson'],NA,week_14,New York Jets,2018
+['Jermaine Kearse'],NA,week_14,New York Jets,2018
+['Jordan Leggett'],Questionable: Knee,week_14,New York Jets,2018
+['Spencer Long'],NA,week_14,New York Jets,2018
+['Frankie Luvu'],NA,week_14,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_14,New York Jets,2018
+['Rishard Matthews'],NA,week_14,New York Jets,2018
+['Marcus Maye'],Injured Reserve: Shoulder,week_14,New York Jets,2018
+['Elijah McGuire'],NA,week_14,New York Jets,2018
+['Steve McLendon'],NA,week_14,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_14,New York Jets,2018
+['Rontez Miles'],NA,week_14,New York Jets,2018
+['Charone Peake'],NA,week_14,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_14,New York Jets,2018
+['Kevin Pierre-Louis'],NA,week_14,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_14,New York Jets,2018
+['Terrelle Pryor'],NA,week_14,New York Jets,2018
+['Andre Roberts'],NA,week_14,New York Jets,2018
+['Darryl Roberts'],NA,week_14,New York Jets,2018
+['Brandon Shell'],NA,week_14,New York Jets,2018
+['Buster Skrine'],Questionable: Shoulder,week_14,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_14,New York Jets,2018
+['Eric Tomlinson'],NA,week_14,New York Jets,2018
+['Robby Anderson'],NA,week_15,New York Jets,2018
+['Jeremiah Attaochu'],Injured Reserve: Concussion,week_15,New York Jets,2018
+['Kelvin Beachum'],NA,week_15,New York Jets,2018
+['Trenton Cannon'],Questionable: Toe,week_15,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_15,New York Jets,2018
+['Morris Claiborne'],NA,week_15,New York Jets,2018
+['Brandon Copeland'],NA,week_15,New York Jets,2018
+['Isaiah Crowell'],Out: Toe,week_15,New York Jets,2018
+['Sam Darnold'],NA,week_15,New York Jets,2018
+['Quincy Enunwa'],Injured Reserve: Ankle,week_15,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_15,New York Jets,2018
+['Jordan Jenkins'],Questionable: Shoulder,week_15,New York Jets,2018
+['Trumaine Johnson'],Questionable: Foot,week_15,New York Jets,2018
+['Jermaine Kearse'],NA,week_15,New York Jets,2018
+['Jordan Leggett'],NA,week_15,New York Jets,2018
+['Spencer Long'],NA,week_15,New York Jets,2018
+['Frankie Luvu'],NA,week_15,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_15,New York Jets,2018
+['Rishard Matthews'],NA,week_15,New York Jets,2018
+['Marcus Maye'],Injured Reserve: Shoulder,week_15,New York Jets,2018
+['Elijah McGuire'],NA,week_15,New York Jets,2018
+['Steve McLendon'],NA,week_15,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_15,New York Jets,2018
+['Rontez Miles'],NA,week_15,New York Jets,2018
+['Charone Peake'],NA,week_15,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_15,New York Jets,2018
+['Kevin Pierre-Louis'],Questionable: Shoulder,week_15,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_15,New York Jets,2018
+['Terrelle Pryor'],NA,week_15,New York Jets,2018
+['Andre Roberts'],NA,week_15,New York Jets,2018
+['Darryl Roberts'],NA,week_15,New York Jets,2018
+['Brandon Shell'],NA,week_15,New York Jets,2018
+['Buster Skrine'],NA,week_15,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_15,New York Jets,2018
+['Eric Tomlinson'],NA,week_15,New York Jets,2018
+['Robby Anderson'],NA,week_16,New York Jets,2018
+['Jeremiah Attaochu'],Injured Reserve: Concussion,week_16,New York Jets,2018
+['Kelvin Beachum'],NA,week_16,New York Jets,2018
+['Trenton Cannon'],NA,week_16,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_16,New York Jets,2018
+['Morris Claiborne'],NA,week_16,New York Jets,2018
+['Brandon Copeland'],NA,week_16,New York Jets,2018
+['Isaiah Crowell'],Injured Reserve: Toe,week_16,New York Jets,2018
+['Sam Darnold'],NA,week_16,New York Jets,2018
+['Quincy Enunwa'],Injured Reserve: Ankle,week_16,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_16,New York Jets,2018
+['Jordan Jenkins'],Questionable: Ankle,week_16,New York Jets,2018
+['Trumaine Johnson'],NA,week_16,New York Jets,2018
+['Jermaine Kearse'],NA,week_16,New York Jets,2018
+['Jordan Leggett'],NA,week_16,New York Jets,2018
+['Spencer Long'],NA,week_16,New York Jets,2018
+['Frankie Luvu'],NA,week_16,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_16,New York Jets,2018
+['Rishard Matthews'],Injured Reserve: Hamstring,week_16,New York Jets,2018
+['Marcus Maye'],Injured Reserve: Shoulder,week_16,New York Jets,2018
+['Elijah McGuire'],NA,week_16,New York Jets,2018
+['Steve McLendon'],NA,week_16,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_16,New York Jets,2018
+['Rontez Miles'],NA,week_16,New York Jets,2018
+['Charone Peake'],NA,week_16,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_16,New York Jets,2018
+['Kevin Pierre-Louis'],Injured Reserve: Shoulder,week_16,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_16,New York Jets,2018
+['Terrelle Pryor'],NA,week_16,New York Jets,2018
+['Andre Roberts'],NA,week_16,New York Jets,2018
+['Darryl Roberts'],Questionable: Toe,week_16,New York Jets,2018
+['Brandon Shell'],Injured Reserve: Knee,week_16,New York Jets,2018
+['Buster Skrine'],NA,week_16,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_16,New York Jets,2018
+['Eric Tomlinson'],NA,week_16,New York Jets,2018
+['Robby Anderson'],NA,week_17,New York Jets,2018
+['Jeremiah Attaochu'],Injured Reserve: Concussion,week_17,New York Jets,2018
+['Kelvin Beachum'],NA,week_17,New York Jets,2018
+['Trenton Cannon'],NA,week_17,New York Jets,2018
+['James Carpenter'],Injured Reserve: Shoulder,week_17,New York Jets,2018
+['Morris Claiborne'],Out: Shoulder,week_17,New York Jets,2018
+['Brandon Copeland'],NA,week_17,New York Jets,2018
+['Isaiah Crowell'],Injured Reserve: Toe,week_17,New York Jets,2018
+['Sam Darnold'],NA,week_17,New York Jets,2018
+['Quincy Enunwa'],Out: Ankle,week_17,New York Jets,2018
+['Ben Ijalana'],Injured Reserve: Shoulder,week_17,New York Jets,2018
+['Jordan Jenkins'],Questionable: Ankle,week_17,New York Jets,2018
+['Trumaine Johnson'],NA,week_17,New York Jets,2018
+['Jermaine Kearse'],Out: Achilles,week_17,New York Jets,2018
+['Jordan Leggett'],NA,week_17,New York Jets,2018
+['Spencer Long'],NA,week_17,New York Jets,2018
+['Frankie Luvu'],NA,week_17,New York Jets,2018
+['Josh Martin'],Injured Reserve: Concussion,week_17,New York Jets,2018
+['Rishard Matthews'],Injured Reserve: Hamstring,week_17,New York Jets,2018
+['Marcus Maye'],Injured Reserve: Shoulder,week_17,New York Jets,2018
+['Elijah McGuire'],NA,week_17,New York Jets,2018
+['Steve McLendon'],NA,week_17,New York Jets,2018
+['Doug Middleton'],Injured Reserve: Pectoral,week_17,New York Jets,2018
+['Rontez Miles'],NA,week_17,New York Jets,2018
+['Charone Peake'],NA,week_17,New York Jets,2018
+['Claude Pelon'],Injured Reserve: Undisclosed,week_17,New York Jets,2018
+['Kevin Pierre-Louis'],Out: Shoulder,week_17,New York Jets,2018
+['Bilal Powell'],Injured Reserve: Neck,week_17,New York Jets,2018
+['Terrelle Pryor'],NA,week_17,New York Jets,2018
+['Andre Roberts'],NA,week_17,New York Jets,2018
+['Darryl Roberts'],NA,week_17,New York Jets,2018
+['Brandon Shell'],Injured Reserve: Knee,week_17,New York Jets,2018
+['Buster Skrine'],NA,week_17,New York Jets,2018
+['Neal Sterling'],Injured Reserve: Concussion,week_17,New York Jets,2018
+['Eric Tomlinson'],Injured Reserve: Undisclosed,week_17,New York Jets,2018

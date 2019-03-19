@@ -1,0 +1,449 @@
+﻿name,injury,week,team,year
+['Josh Allen'],NA,week_1,Buffalo Bills,2018
+['Derek Anderson'],NA,week_1,Buffalo Bills,2018
+['Russell Bodine'],NA,week_1,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_1,Buffalo Bills,2018
+['Rafael Bush'],NA,week_1,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_1,Buffalo Bills,2018
+['Charles Clay'],NA,week_1,Buffalo Bills,2018
+['Jason Croom'],NA,week_1,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_1,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_1,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_1,Buffalo Bills,2018
+['Andre Holmes'],NA,week_1,Buffalo Bills,2018
+['Micah Hyde'],NA,week_1,Buffalo Bills,2018
+['Chris Ivory'],NA,week_1,Buffalo Bills,2018
+['Taron Johnson'],NA,week_1,Buffalo Bills,2018
+['Taiwan Jones'],NA,week_1,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_1,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_1,Buffalo Bills,2018
+['Ray-Ray McCloud'],Out: Knee,week_1,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_1,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_1,Buffalo Bills,2018
+['Matt Milano'],NA,week_1,Buffalo Bills,2018
+['John Miller'],NA,week_1,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_1,Buffalo Bills,2018
+['Trent Murphy'],NA,week_1,Buffalo Bills,2018
+['Julian Stanford'],Questionable: Nose,week_1,Buffalo Bills,2018
+['Logan Thomas'],NA,week_1,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_1,Buffalo Bills,2018
+['Josh Allen'],NA,week_2,Buffalo Bills,2018
+['Derek Anderson'],NA,week_2,Buffalo Bills,2018
+['Russell Bodine'],NA,week_2,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_2,Buffalo Bills,2018
+['Rafael Bush'],NA,week_2,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_2,Buffalo Bills,2018
+['Charles Clay'],NA,week_2,Buffalo Bills,2018
+['Jason Croom'],NA,week_2,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_2,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_2,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_2,Buffalo Bills,2018
+['Andre Holmes'],NA,week_2,Buffalo Bills,2018
+['Micah Hyde'],NA,week_2,Buffalo Bills,2018
+['Chris Ivory'],NA,week_2,Buffalo Bills,2018
+['Taron Johnson'],Out: Shoulder,week_2,Buffalo Bills,2018
+['Taiwan Jones'],NA,week_2,Buffalo Bills,2018
+['Shaq Lawson'],Out: Hamstring,week_2,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_2,Buffalo Bills,2018
+['Ray-Ray McCloud'],Questionable: Knee,week_2,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_2,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_2,Buffalo Bills,2018
+['Matt Milano'],NA,week_2,Buffalo Bills,2018
+['John Miller'],NA,week_2,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_2,Buffalo Bills,2018
+['Trent Murphy'],NA,week_2,Buffalo Bills,2018
+['Julian Stanford'],NA,week_2,Buffalo Bills,2018
+['Logan Thomas'],NA,week_2,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_2,Buffalo Bills,2018
+['Josh Allen'],NA,week_3,Buffalo Bills,2018
+['Derek Anderson'],NA,week_3,Buffalo Bills,2018
+['Russell Bodine'],NA,week_3,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_3,Buffalo Bills,2018
+['Rafael Bush'],NA,week_3,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_3,Buffalo Bills,2018
+['Charles Clay'],NA,week_3,Buffalo Bills,2018
+['Jason Croom'],NA,week_3,Buffalo Bills,2018
+['Phillip Gaines'],Questionable: Elbow,week_3,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_3,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_3,Buffalo Bills,2018
+['Andre Holmes'],NA,week_3,Buffalo Bills,2018
+['Micah Hyde'],NA,week_3,Buffalo Bills,2018
+['Chris Ivory'],NA,week_3,Buffalo Bills,2018
+['Taron Johnson'],Questionable: Shoulder,week_3,Buffalo Bills,2018
+['Taiwan Jones'],Questionable: Head,week_3,Buffalo Bills,2018
+['Shaq Lawson'],Out: Hamstring,week_3,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_3,Buffalo Bills,2018
+['Ray-Ray McCloud'],Questionable: Knee,week_3,Buffalo Bills,2018
+['LeSean McCoy'],Questionable: Rib,week_3,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_3,Buffalo Bills,2018
+['Matt Milano'],NA,week_3,Buffalo Bills,2018
+['John Miller'],NA,week_3,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_3,Buffalo Bills,2018
+['Trent Murphy'],NA,week_3,Buffalo Bills,2018
+['Julian Stanford'],NA,week_3,Buffalo Bills,2018
+['Logan Thomas'],NA,week_3,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_3,Buffalo Bills,2018
+['Josh Allen'],NA,week_4,Buffalo Bills,2018
+['Derek Anderson'],NA,week_4,Buffalo Bills,2018
+['Russell Bodine'],NA,week_4,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_4,Buffalo Bills,2018
+['Rafael Bush'],NA,week_4,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_4,Buffalo Bills,2018
+['Charles Clay'],Questionable: Shoulder,week_4,Buffalo Bills,2018
+['Jason Croom'],Questionable: Knee,week_4,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_4,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_4,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_4,Buffalo Bills,2018
+['Andre Holmes'],NA,week_4,Buffalo Bills,2018
+['Micah Hyde'],NA,week_4,Buffalo Bills,2018
+['Chris Ivory'],NA,week_4,Buffalo Bills,2018
+['Taron Johnson'],NA,week_4,Buffalo Bills,2018
+['Taiwan Jones'],NA,week_4,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_4,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_4,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_4,Buffalo Bills,2018
+['LeSean McCoy'],Questionable: Rib,week_4,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_4,Buffalo Bills,2018
+['Matt Milano'],NA,week_4,Buffalo Bills,2018
+['John Miller'],NA,week_4,Buffalo Bills,2018
+['Marcus Murphy'],Questionable: Rib,week_4,Buffalo Bills,2018
+['Trent Murphy'],NA,week_4,Buffalo Bills,2018
+['Julian Stanford'],NA,week_4,Buffalo Bills,2018
+['Logan Thomas'],NA,week_4,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_4,Buffalo Bills,2018
+['Josh Allen'],NA,week_5,Buffalo Bills,2018
+['Derek Anderson'],NA,week_5,Buffalo Bills,2018
+['Russell Bodine'],NA,week_5,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_5,Buffalo Bills,2018
+['Rafael Bush'],Questionable: Shoulder,week_5,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_5,Buffalo Bills,2018
+['Charles Clay'],Questionable: Ankle,week_5,Buffalo Bills,2018
+['Jason Croom'],NA,week_5,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_5,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_5,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_5,Buffalo Bills,2018
+['Andre Holmes'],NA,week_5,Buffalo Bills,2018
+['Micah Hyde'],Questionable: Groin,week_5,Buffalo Bills,2018
+['Chris Ivory'],NA,week_5,Buffalo Bills,2018
+['Taron Johnson'],NA,week_5,Buffalo Bills,2018
+['Taiwan Jones'],NA,week_5,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_5,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_5,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_5,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_5,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_5,Buffalo Bills,2018
+['Matt Milano'],NA,week_5,Buffalo Bills,2018
+['John Miller'],NA,week_5,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_5,Buffalo Bills,2018
+['Trent Murphy'],NA,week_5,Buffalo Bills,2018
+['Julian Stanford'],NA,week_5,Buffalo Bills,2018
+['Logan Thomas'],NA,week_5,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_5,Buffalo Bills,2018
+['Josh Allen'],NA,week_6,Buffalo Bills,2018
+['Derek Anderson'],NA,week_6,Buffalo Bills,2018
+['Russell Bodine'],NA,week_6,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_6,Buffalo Bills,2018
+['Rafael Bush'],NA,week_6,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_6,Buffalo Bills,2018
+['Charles Clay'],NA,week_6,Buffalo Bills,2018
+['Jason Croom'],NA,week_6,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_6,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_6,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_6,Buffalo Bills,2018
+['Andre Holmes'],NA,week_6,Buffalo Bills,2018
+['Micah Hyde'],NA,week_6,Buffalo Bills,2018
+['Chris Ivory'],NA,week_6,Buffalo Bills,2018
+['Taron Johnson'],NA,week_6,Buffalo Bills,2018
+['Taiwan Jones'],NA,week_6,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_6,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_6,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_6,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_6,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_6,Buffalo Bills,2018
+['Matt Milano'],NA,week_6,Buffalo Bills,2018
+['John Miller'],NA,week_6,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_6,Buffalo Bills,2018
+['Trent Murphy'],NA,week_6,Buffalo Bills,2018
+['Julian Stanford'],NA,week_6,Buffalo Bills,2018
+['Logan Thomas'],NA,week_6,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_6,Buffalo Bills,2018
+['Josh Allen'],Out: rightElbow,week_7,Buffalo Bills,2018
+['Derek Anderson'],NA,week_7,Buffalo Bills,2018
+['Russell Bodine'],NA,week_7,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_7,Buffalo Bills,2018
+['Rafael Bush'],NA,week_7,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_7,Buffalo Bills,2018
+['Charles Clay'],NA,week_7,Buffalo Bills,2018
+['Jason Croom'],NA,week_7,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_7,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_7,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_7,Buffalo Bills,2018
+['Andre Holmes'],NA,week_7,Buffalo Bills,2018
+['Micah Hyde'],NA,week_7,Buffalo Bills,2018
+['Chris Ivory'],NA,week_7,Buffalo Bills,2018
+['Taron Johnson'],NA,week_7,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_7,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_7,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_7,Buffalo Bills,2018
+['Ray-Ray McCloud'],Out: NotInjuryRelated,week_7,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_7,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_7,Buffalo Bills,2018
+['Matt Milano'],NA,week_7,Buffalo Bills,2018
+['John Miller'],NA,week_7,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_7,Buffalo Bills,2018
+['Trent Murphy'],NA,week_7,Buffalo Bills,2018
+['Julian Stanford'],NA,week_7,Buffalo Bills,2018
+['Logan Thomas'],NA,week_7,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_7,Buffalo Bills,2018
+['Josh Allen'],Out: rightElbow,week_8,Buffalo Bills,2018
+['Derek Anderson'],NA,week_8,Buffalo Bills,2018
+['Russell Bodine'],NA,week_8,Buffalo Bills,2018
+['Corey Bojorquez'],NA,week_8,Buffalo Bills,2018
+['Rafael Bush'],NA,week_8,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_8,Buffalo Bills,2018
+['Charles Clay'],NA,week_8,Buffalo Bills,2018
+['Jason Croom'],NA,week_8,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_8,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_8,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_8,Buffalo Bills,2018
+['Andre Holmes'],NA,week_8,Buffalo Bills,2018
+['Micah Hyde'],NA,week_8,Buffalo Bills,2018
+['Chris Ivory'],NA,week_8,Buffalo Bills,2018
+['Taron Johnson'],NA,week_8,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_8,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_8,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_8,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_8,Buffalo Bills,2018
+['LeSean McCoy'],Questionable: Concussion,week_8,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_8,Buffalo Bills,2018
+['Matt Milano'],NA,week_8,Buffalo Bills,2018
+['John Miller'],NA,week_8,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_8,Buffalo Bills,2018
+['Trent Murphy'],Out: Knee,week_8,Buffalo Bills,2018
+['Julian Stanford'],NA,week_8,Buffalo Bills,2018
+['Logan Thomas'],NA,week_8,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_8,Buffalo Bills,2018
+['Josh Allen'],Out: rightElbow,week_9,Buffalo Bills,2018
+['Derek Anderson'],Questionable: Concussion,week_9,Buffalo Bills,2018
+['Russell Bodine'],NA,week_9,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_9,Buffalo Bills,2018
+['Rafael Bush'],NA,week_9,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_9,Buffalo Bills,2018
+['Charles Clay'],NA,week_9,Buffalo Bills,2018
+['Jason Croom'],NA,week_9,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_9,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_9,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_9,Buffalo Bills,2018
+['Andre Holmes'],NA,week_9,Buffalo Bills,2018
+['Micah Hyde'],NA,week_9,Buffalo Bills,2018
+['Chris Ivory'],NA,week_9,Buffalo Bills,2018
+['Taron Johnson'],NA,week_9,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_9,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_9,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_9,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_9,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_9,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_9,Buffalo Bills,2018
+['Matt Milano'],NA,week_9,Buffalo Bills,2018
+['John Miller'],NA,week_9,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_9,Buffalo Bills,2018
+['Trent Murphy'],Out: Knee,week_9,Buffalo Bills,2018
+['Julian Stanford'],NA,week_9,Buffalo Bills,2018
+['Logan Thomas'],NA,week_9,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_9,Buffalo Bills,2018
+['Josh Allen'],Questionable: rightElbow,week_10,Buffalo Bills,2018
+['Derek Anderson'],Out: Concussion,week_10,Buffalo Bills,2018
+['Russell Bodine'],NA,week_10,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_10,Buffalo Bills,2018
+['Rafael Bush'],NA,week_10,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_10,Buffalo Bills,2018
+['Charles Clay'],Out: Hamstring,week_10,Buffalo Bills,2018
+['Jason Croom'],NA,week_10,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_10,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_10,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_10,Buffalo Bills,2018
+['Andre Holmes'],Questionable: Neck,week_10,Buffalo Bills,2018
+['Micah Hyde'],NA,week_10,Buffalo Bills,2018
+['Chris Ivory'],Questionable: Shoulder,week_10,Buffalo Bills,2018
+['Taron Johnson'],NA,week_10,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_10,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_10,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_10,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_10,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_10,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_10,Buffalo Bills,2018
+['Matt Milano'],NA,week_10,Buffalo Bills,2018
+['John Miller'],NA,week_10,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_10,Buffalo Bills,2018
+['Trent Murphy'],Out: Knee,week_10,Buffalo Bills,2018
+['Julian Stanford'],NA,week_10,Buffalo Bills,2018
+['Logan Thomas'],NA,week_10,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_10,Buffalo Bills,2018
+['Josh Allen'],NA,week_12,Buffalo Bills,2018
+['Derek Anderson'],Out: Concussion,week_12,Buffalo Bills,2018
+['Russell Bodine'],Questionable: Shoulder,week_12,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_12,Buffalo Bills,2018
+['Rafael Bush'],NA,week_12,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_12,Buffalo Bills,2018
+['Charles Clay'],Doubtful: Hamstring,week_12,Buffalo Bills,2018
+['Jason Croom'],NA,week_12,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_12,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_12,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_12,Buffalo Bills,2018
+['Andre Holmes'],NA,week_12,Buffalo Bills,2018
+['Micah Hyde'],NA,week_12,Buffalo Bills,2018
+['Chris Ivory'],NA,week_12,Buffalo Bills,2018
+['Taron Johnson'],Questionable: Shoulder,week_12,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_12,Buffalo Bills,2018
+['Shaq Lawson'],Questionable: Elbow,week_12,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_12,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_12,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_12,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_12,Buffalo Bills,2018
+['Matt Milano'],NA,week_12,Buffalo Bills,2018
+['John Miller'],NA,week_12,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_12,Buffalo Bills,2018
+['Trent Murphy'],Questionable: Knee,week_12,Buffalo Bills,2018
+['Julian Stanford'],NA,week_12,Buffalo Bills,2018
+['Logan Thomas'],NA,week_12,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_12,Buffalo Bills,2018
+['Josh Allen'],NA,week_13,Buffalo Bills,2018
+['Derek Anderson'],Out: Concussion,week_13,Buffalo Bills,2018
+['Russell Bodine'],NA,week_13,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_13,Buffalo Bills,2018
+['Rafael Bush'],NA,week_13,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_13,Buffalo Bills,2018
+['Charles Clay'],Questionable: Hamstring,week_13,Buffalo Bills,2018
+['Jason Croom'],NA,week_13,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_13,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_13,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_13,Buffalo Bills,2018
+['Andre Holmes'],NA,week_13,Buffalo Bills,2018
+['Micah Hyde'],NA,week_13,Buffalo Bills,2018
+['Chris Ivory'],NA,week_13,Buffalo Bills,2018
+['Taron Johnson'],NA,week_13,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_13,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_13,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_13,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_13,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_13,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_13,Buffalo Bills,2018
+['Matt Milano'],NA,week_13,Buffalo Bills,2018
+['John Miller'],Out: Oblique,week_13,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_13,Buffalo Bills,2018
+['Trent Murphy'],NA,week_13,Buffalo Bills,2018
+['Julian Stanford'],NA,week_13,Buffalo Bills,2018
+['Logan Thomas'],NA,week_13,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_13,Buffalo Bills,2018
+['Josh Allen'],NA,week_14,Buffalo Bills,2018
+['Derek Anderson'],Out: Concussion,week_14,Buffalo Bills,2018
+['Russell Bodine'],Injured Reserve: Shin,week_14,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_14,Buffalo Bills,2018
+['Rafael Bush'],NA,week_14,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_14,Buffalo Bills,2018
+['Charles Clay'],NA,week_14,Buffalo Bills,2018
+['Jason Croom'],Doubtful: Groin,week_14,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_14,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_14,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_14,Buffalo Bills,2018
+['Andre Holmes'],NA,week_14,Buffalo Bills,2018
+['Micah Hyde'],NA,week_14,Buffalo Bills,2018
+['Chris Ivory'],NA,week_14,Buffalo Bills,2018
+['Taron Johnson'],Injured Reserve: Shoulder,week_14,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_14,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_14,Buffalo Bills,2018
+['Ryan Lewis'],NA,week_14,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_14,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_14,Buffalo Bills,2018
+['Isaiah McKenzie'],Questionable: Toe,week_14,Buffalo Bills,2018
+['Matt Milano'],NA,week_14,Buffalo Bills,2018
+['John Miller'],NA,week_14,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_14,Buffalo Bills,2018
+['Trent Murphy'],NA,week_14,Buffalo Bills,2018
+['Julian Stanford'],NA,week_14,Buffalo Bills,2018
+['Logan Thomas'],NA,week_14,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_14,Buffalo Bills,2018
+['Josh Allen'],NA,week_15,Buffalo Bills,2018
+['Derek Anderson'],NA,week_15,Buffalo Bills,2018
+['Russell Bodine'],Injured Reserve: Shin,week_15,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_15,Buffalo Bills,2018
+['Rafael Bush'],NA,week_15,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_15,Buffalo Bills,2018
+['Charles Clay'],NA,week_15,Buffalo Bills,2018
+['Jason Croom'],NA,week_15,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_15,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_15,Buffalo Bills,2018
+['Stephen Hauschka'],Questionable: rightHip,week_15,Buffalo Bills,2018
+['Andre Holmes'],NA,week_15,Buffalo Bills,2018
+['Micah Hyde'],NA,week_15,Buffalo Bills,2018
+['Chris Ivory'],Questionable: Shoulder,week_15,Buffalo Bills,2018
+['Taron Johnson'],Injured Reserve: Shoulder,week_15,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_15,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_15,Buffalo Bills,2018
+['Ryan Lewis'],Out: Concussion,week_15,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_15,Buffalo Bills,2018
+['LeSean McCoy'],Questionable: Hamstring,week_15,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_15,Buffalo Bills,2018
+['Matt Milano'],Injured Reserve: Shin,week_15,Buffalo Bills,2018
+['John Miller'],NA,week_15,Buffalo Bills,2018
+['Marcus Murphy'],NA,week_15,Buffalo Bills,2018
+['Trent Murphy'],NA,week_15,Buffalo Bills,2018
+['Julian Stanford'],NA,week_15,Buffalo Bills,2018
+['Logan Thomas'],Questionable: Hamstring,week_15,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_15,Buffalo Bills,2018
+['Josh Allen'],NA,week_16,Buffalo Bills,2018
+['Derek Anderson'],NA,week_16,Buffalo Bills,2018
+['Russell Bodine'],Injured Reserve: Shin,week_16,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_16,Buffalo Bills,2018
+['Rafael Bush'],NA,week_16,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_16,Buffalo Bills,2018
+['Charles Clay'],NA,week_16,Buffalo Bills,2018
+['Jason Croom'],NA,week_16,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_16,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_16,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_16,Buffalo Bills,2018
+['Andre Holmes'],NA,week_16,Buffalo Bills,2018
+['Micah Hyde'],NA,week_16,Buffalo Bills,2018
+['Chris Ivory'],Questionable: Shoulder,week_16,Buffalo Bills,2018
+['Taron Johnson'],Injured Reserve: Shoulder,week_16,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_16,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_16,Buffalo Bills,2018
+['Ryan Lewis'],Out: Concussion,week_16,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_16,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_16,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_16,Buffalo Bills,2018
+['Matt Milano'],Injured Reserve: Shin,week_16,Buffalo Bills,2018
+['John Miller'],NA,week_16,Buffalo Bills,2018
+['Marcus Murphy'],Injured Reserve: Elbow,week_16,Buffalo Bills,2018
+['Trent Murphy'],NA,week_16,Buffalo Bills,2018
+['Julian Stanford'],NA,week_16,Buffalo Bills,2018
+['Logan Thomas'],NA,week_16,Buffalo Bills,2018
+['Deonte Thompson'],NA,week_16,Buffalo Bills,2018
+['Josh Allen'],NA,week_17,Buffalo Bills,2018
+['Derek Anderson'],NA,week_17,Buffalo Bills,2018
+['Russell Bodine'],Injured Reserve: Shin,week_17,Buffalo Bills,2018
+['Corey Bojorquez'],Injured Reserve: Shoulder,week_17,Buffalo Bills,2018
+['Rafael Bush'],NA,week_17,Buffalo Bills,2018
+['Cory Carter'],Injured Reserve: Knee,week_17,Buffalo Bills,2018
+['Charles Clay'],NA,week_17,Buffalo Bills,2018
+['Jason Croom'],NA,week_17,Buffalo Bills,2018
+['Phillip Gaines'],NA,week_17,Buffalo Bills,2018
+['Aaron Green'],Injured Reserve: Undisclosed,week_17,Buffalo Bills,2018
+['Stephen Hauschka'],NA,week_17,Buffalo Bills,2018
+['Andre Holmes'],NA,week_17,Buffalo Bills,2018
+['Micah Hyde'],NA,week_17,Buffalo Bills,2018
+['Chris Ivory'],Questionable: Shoulder,week_17,Buffalo Bills,2018
+['Taron Johnson'],Injured Reserve: Shoulder,week_17,Buffalo Bills,2018
+['Taiwan Jones'],Injured Reserve: Neck,week_17,Buffalo Bills,2018
+['Shaq Lawson'],NA,week_17,Buffalo Bills,2018
+['Ryan Lewis'],Questionable: Concussion,week_17,Buffalo Bills,2018
+['Ray-Ray McCloud'],NA,week_17,Buffalo Bills,2018
+['LeSean McCoy'],NA,week_17,Buffalo Bills,2018
+['Isaiah McKenzie'],NA,week_17,Buffalo Bills,2018
+['Matt Milano'],Injured Reserve: Shin,week_17,Buffalo Bills,2018
+['John Miller'],NA,week_17,Buffalo Bills,2018
+['Marcus Murphy'],Injured Reserve: Elbow,week_17,Buffalo Bills,2018
+['Trent Murphy'],NA,week_17,Buffalo Bills,2018
+['Julian Stanford'],Out: Ankle,week_17,Buffalo Bills,2018
+['Logan Thomas'],NA,week_17,Buffalo Bills,2018
+['Deonte Thompson'],Out: Toe,week_17,Buffalo Bills,2018

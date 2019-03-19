@@ -1,0 +1,609 @@
+﻿name,injury,week,team,year
+['Shaquil Barrett'],NA,week_1,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_1,Denver Broncos,2018
+['Tramaine Brock'],NA,week_1,Denver Broncos,2018
+['Jake Butt'],NA,week_1,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_1,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_1,Denver Broncos,2018
+['Todd Davis'],NA,week_1,Denver Broncos,2018
+['Nico Falah'],NA,week_1,Denver Broncos,2018
+['Royce Freeman'],NA,week_1,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_1,Denver Broncos,2018
+['Max Garcia'],NA,week_1,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_1,Denver Broncos,2018
+['Adam Gotsis'],NA,week_1,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_1,Denver Broncos,2018
+['Chris Harris'],NA,week_1,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_1,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_1,Denver Broncos,2018
+['Andre Holmes'],NA,week_1,Denver Broncos,2018
+['Adam Jones'],NA,week_1,Denver Broncos,2018
+['Marquette King'],NA,week_1,Denver Broncos,2018
+['Matt LaCosse'],NA,week_1,Denver Broncos,2018
+['Brendan Langley'],NA,week_1,Denver Broncos,2018
+['Ronald Leary'],NA,week_1,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_1,Denver Broncos,2018
+['Brandon Marshall'],NA,week_1,Denver Broncos,2018
+['Von Miller'],NA,week_1,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_1,Denver Broncos,2018
+['Matt Paradis'],NA,week_1,Denver Broncos,2018
+['Shane Ray'],NA,week_1,Denver Broncos,2018
+['Bradley Roby'],NA,week_1,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_1,Denver Broncos,2018
+['Darian Stewart'],NA,week_1,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_1,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_1,Denver Broncos,2018
+['Jared Veldheer'],NA,week_1,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_1,Denver Broncos,2018
+['Derek Wolfe'],NA,week_1,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_1,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_2,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_2,Denver Broncos,2018
+['Tramaine Brock'],NA,week_2,Denver Broncos,2018
+['Jake Butt'],NA,week_2,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_2,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_2,Denver Broncos,2018
+['Todd Davis'],NA,week_2,Denver Broncos,2018
+['Nico Falah'],NA,week_2,Denver Broncos,2018
+['Royce Freeman'],NA,week_2,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_2,Denver Broncos,2018
+['Max Garcia'],NA,week_2,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_2,Denver Broncos,2018
+['Adam Gotsis'],NA,week_2,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_2,Denver Broncos,2018
+['Chris Harris'],NA,week_2,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_2,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_2,Denver Broncos,2018
+['Andre Holmes'],NA,week_2,Denver Broncos,2018
+['Adam Jones'],NA,week_2,Denver Broncos,2018
+['Marquette King'],NA,week_2,Denver Broncos,2018
+['Matt LaCosse'],NA,week_2,Denver Broncos,2018
+['Brendan Langley'],NA,week_2,Denver Broncos,2018
+['Ronald Leary'],NA,week_2,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_2,Denver Broncos,2018
+['Brandon Marshall'],NA,week_2,Denver Broncos,2018
+['Von Miller'],NA,week_2,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_2,Denver Broncos,2018
+['Matt Paradis'],NA,week_2,Denver Broncos,2018
+['Shane Ray'],NA,week_2,Denver Broncos,2018
+['Bradley Roby'],NA,week_2,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_2,Denver Broncos,2018
+['Darian Stewart'],NA,week_2,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_2,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_2,Denver Broncos,2018
+['Jared Veldheer'],NA,week_2,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_2,Denver Broncos,2018
+['Derek Wolfe'],NA,week_2,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_2,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_3,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_3,Denver Broncos,2018
+['Tramaine Brock'],NA,week_3,Denver Broncos,2018
+['Jake Butt'],NA,week_3,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_3,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_3,Denver Broncos,2018
+['Todd Davis'],NA,week_3,Denver Broncos,2018
+['Nico Falah'],NA,week_3,Denver Broncos,2018
+['Royce Freeman'],NA,week_3,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_3,Denver Broncos,2018
+['Max Garcia'],NA,week_3,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_3,Denver Broncos,2018
+['Adam Gotsis'],NA,week_3,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_3,Denver Broncos,2018
+['Chris Harris'],NA,week_3,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_3,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_3,Denver Broncos,2018
+['Andre Holmes'],NA,week_3,Denver Broncos,2018
+['Adam Jones'],Questionable: Thigh,week_3,Denver Broncos,2018
+['Marquette King'],NA,week_3,Denver Broncos,2018
+['Matt LaCosse'],NA,week_3,Denver Broncos,2018
+['Brendan Langley'],NA,week_3,Denver Broncos,2018
+['Ronald Leary'],NA,week_3,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_3,Denver Broncos,2018
+['Brandon Marshall'],Questionable: Knee,week_3,Denver Broncos,2018
+['Von Miller'],NA,week_3,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_3,Denver Broncos,2018
+['Matt Paradis'],NA,week_3,Denver Broncos,2018
+['Shane Ray'],NA,week_3,Denver Broncos,2018
+['Bradley Roby'],NA,week_3,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_3,Denver Broncos,2018
+['Darian Stewart'],NA,week_3,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_3,Denver Broncos,2018
+['Dymonte Thomas'],Questionable: Abdomen,week_3,Denver Broncos,2018
+['Jared Veldheer'],Questionable: Concussion,week_3,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_3,Denver Broncos,2018
+['Derek Wolfe'],NA,week_3,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_3,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_4,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_4,Denver Broncos,2018
+['Tramaine Brock'],Doubtful: Thigh,week_4,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_4,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_4,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_4,Denver Broncos,2018
+['Todd Davis'],NA,week_4,Denver Broncos,2018
+['Nico Falah'],NA,week_4,Denver Broncos,2018
+['Royce Freeman'],NA,week_4,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_4,Denver Broncos,2018
+['Max Garcia'],NA,week_4,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_4,Denver Broncos,2018
+['Adam Gotsis'],NA,week_4,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_4,Denver Broncos,2018
+['Chris Harris'],NA,week_4,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_4,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_4,Denver Broncos,2018
+['Andre Holmes'],NA,week_4,Denver Broncos,2018
+['Adam Jones'],Questionable: Thigh,week_4,Denver Broncos,2018
+['Marquette King'],NA,week_4,Denver Broncos,2018
+['Matt LaCosse'],NA,week_4,Denver Broncos,2018
+['Brendan Langley'],NA,week_4,Denver Broncos,2018
+['Ronald Leary'],NA,week_4,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_4,Denver Broncos,2018
+['Brandon Marshall'],Questionable: Knee,week_4,Denver Broncos,2018
+['Von Miller'],NA,week_4,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_4,Denver Broncos,2018
+['Matt Paradis'],NA,week_4,Denver Broncos,2018
+['Shane Ray'],NA,week_4,Denver Broncos,2018
+['Bradley Roby'],NA,week_4,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_4,Denver Broncos,2018
+['Darian Stewart'],NA,week_4,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_4,Denver Broncos,2018
+['Dymonte Thomas'],Questionable: Abdomen,week_4,Denver Broncos,2018
+['Jared Veldheer'],NA,week_4,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_4,Denver Broncos,2018
+['Derek Wolfe'],NA,week_4,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_4,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_5,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_5,Denver Broncos,2018
+['Tramaine Brock'],NA,week_5,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_5,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_5,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_5,Denver Broncos,2018
+['Todd Davis'],Questionable: Shoulder,week_5,Denver Broncos,2018
+['Nico Falah'],NA,week_5,Denver Broncos,2018
+['Royce Freeman'],NA,week_5,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_5,Denver Broncos,2018
+['Max Garcia'],NA,week_5,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_5,Denver Broncos,2018
+['Adam Gotsis'],Questionable: Knee,week_5,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_5,Denver Broncos,2018
+['Chris Harris'],NA,week_5,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_5,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_5,Denver Broncos,2018
+['Andre Holmes'],NA,week_5,Denver Broncos,2018
+['Adam Jones'],NA,week_5,Denver Broncos,2018
+['Marquette King'],Doubtful: rightThigh,week_5,Denver Broncos,2018
+['Matt LaCosse'],NA,week_5,Denver Broncos,2018
+['Brendan Langley'],NA,week_5,Denver Broncos,2018
+['Ronald Leary'],NA,week_5,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_5,Denver Broncos,2018
+['Brandon Marshall'],NA,week_5,Denver Broncos,2018
+['Von Miller'],NA,week_5,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_5,Denver Broncos,2018
+['Matt Paradis'],NA,week_5,Denver Broncos,2018
+['Shane Ray'],NA,week_5,Denver Broncos,2018
+['Bradley Roby'],NA,week_5,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_5,Denver Broncos,2018
+['Darian Stewart'],NA,week_5,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_5,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_5,Denver Broncos,2018
+['Jared Veldheer'],Out: Knee,week_5,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_5,Denver Broncos,2018
+['Derek Wolfe'],NA,week_5,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_5,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_6,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_6,Denver Broncos,2018
+['Tramaine Brock'],NA,week_6,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_6,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_6,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_6,Denver Broncos,2018
+['Todd Davis'],NA,week_6,Denver Broncos,2018
+['Nico Falah'],NA,week_6,Denver Broncos,2018
+['Royce Freeman'],NA,week_6,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_6,Denver Broncos,2018
+['Max Garcia'],NA,week_6,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_6,Denver Broncos,2018
+['Adam Gotsis'],NA,week_6,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_6,Denver Broncos,2018
+['Chris Harris'],NA,week_6,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_6,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_6,Denver Broncos,2018
+['Andre Holmes'],NA,week_6,Denver Broncos,2018
+['Adam Jones'],Questionable: Thigh,week_6,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_6,Denver Broncos,2018
+['Matt LaCosse'],NA,week_6,Denver Broncos,2018
+['Brendan Langley'],NA,week_6,Denver Broncos,2018
+['Ronald Leary'],NA,week_6,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_6,Denver Broncos,2018
+['Brandon Marshall'],NA,week_6,Denver Broncos,2018
+['Von Miller'],NA,week_6,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_6,Denver Broncos,2018
+['Matt Paradis'],NA,week_6,Denver Broncos,2018
+['Shane Ray'],NA,week_6,Denver Broncos,2018
+['Bradley Roby'],NA,week_6,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_6,Denver Broncos,2018
+['Darian Stewart'],NA,week_6,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_6,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_6,Denver Broncos,2018
+['Jared Veldheer'],Questionable: Knee,week_6,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_6,Denver Broncos,2018
+['Derek Wolfe'],NA,week_6,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_6,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_7,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_7,Denver Broncos,2018
+['Tramaine Brock'],NA,week_7,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_7,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_7,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_7,Denver Broncos,2018
+['Todd Davis'],NA,week_7,Denver Broncos,2018
+['Nico Falah'],NA,week_7,Denver Broncos,2018
+['Royce Freeman'],NA,week_7,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_7,Denver Broncos,2018
+['Max Garcia'],NA,week_7,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_7,Denver Broncos,2018
+['Adam Gotsis'],NA,week_7,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_7,Denver Broncos,2018
+['Chris Harris'],NA,week_7,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_7,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_7,Denver Broncos,2018
+['Andre Holmes'],NA,week_7,Denver Broncos,2018
+['Adam Jones'],Out: Thigh,week_7,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_7,Denver Broncos,2018
+['Matt LaCosse'],NA,week_7,Denver Broncos,2018
+['Brendan Langley'],NA,week_7,Denver Broncos,2018
+['Ronald Leary'],Out: Achilles,week_7,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_7,Denver Broncos,2018
+['Brandon Marshall'],NA,week_7,Denver Broncos,2018
+['Von Miller'],NA,week_7,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_7,Denver Broncos,2018
+['Matt Paradis'],NA,week_7,Denver Broncos,2018
+['Shane Ray'],Out: Ankle,week_7,Denver Broncos,2018
+['Bradley Roby'],NA,week_7,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_7,Denver Broncos,2018
+['Darian Stewart'],NA,week_7,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_7,Denver Broncos,2018
+['Dymonte Thomas'],Out: Chest,week_7,Denver Broncos,2018
+['Jared Veldheer'],Out: Knee,week_7,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_7,Denver Broncos,2018
+['Derek Wolfe'],NA,week_7,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_7,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_8,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_8,Denver Broncos,2018
+['Tramaine Brock'],NA,week_8,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_8,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_8,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_8,Denver Broncos,2018
+['Todd Davis'],NA,week_8,Denver Broncos,2018
+['Nico Falah'],Questionable: Concussion,week_8,Denver Broncos,2018
+['Royce Freeman'],Out: Ankle,week_8,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_8,Denver Broncos,2018
+['Max Garcia'],NA,week_8,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_8,Denver Broncos,2018
+['Adam Gotsis'],NA,week_8,Denver Broncos,2018
+['DaeSean Hamilton'],Out: Knee,week_8,Denver Broncos,2018
+['Chris Harris'],NA,week_8,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_8,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_8,Denver Broncos,2018
+['Andre Holmes'],NA,week_8,Denver Broncos,2018
+['Adam Jones'],NA,week_8,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_8,Denver Broncos,2018
+['Matt LaCosse'],NA,week_8,Denver Broncos,2018
+['Brendan Langley'],NA,week_8,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_8,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_8,Denver Broncos,2018
+['Brandon Marshall'],Questionable: Knee,week_8,Denver Broncos,2018
+['Von Miller'],Questionable: Ankle,week_8,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_8,Denver Broncos,2018
+['Matt Paradis'],NA,week_8,Denver Broncos,2018
+['Shane Ray'],Doubtful: Ankle,week_8,Denver Broncos,2018
+['Bradley Roby'],NA,week_8,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_8,Denver Broncos,2018
+['Darian Stewart'],Out: Neck,week_8,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_8,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_8,Denver Broncos,2018
+['Jared Veldheer'],Out: Knee,week_8,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_8,Denver Broncos,2018
+['Derek Wolfe'],NA,week_8,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_8,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_9,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_9,Denver Broncos,2018
+['Tramaine Brock'],NA,week_9,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_9,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_9,Denver Broncos,2018
+"[""Su'a Cravens""]",NA,week_9,Denver Broncos,2018
+['Todd Davis'],NA,week_9,Denver Broncos,2018
+['Nico Falah'],NA,week_9,Denver Broncos,2018
+['Royce Freeman'],Questionable: Ankle,week_9,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_9,Denver Broncos,2018
+['Max Garcia'],NA,week_9,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_9,Denver Broncos,2018
+['Adam Gotsis'],NA,week_9,Denver Broncos,2018
+['DaeSean Hamilton'],Out: Knee,week_9,Denver Broncos,2018
+['Chris Harris'],NA,week_9,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_9,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_9,Denver Broncos,2018
+['Andre Holmes'],NA,week_9,Denver Broncos,2018
+['Adam Jones'],NA,week_9,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_9,Denver Broncos,2018
+['Matt LaCosse'],NA,week_9,Denver Broncos,2018
+['Brendan Langley'],NA,week_9,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_9,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_9,Denver Broncos,2018
+['Brandon Marshall'],Out: Knee,week_9,Denver Broncos,2018
+['Von Miller'],NA,week_9,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_9,Denver Broncos,2018
+['Matt Paradis'],NA,week_9,Denver Broncos,2018
+['Shane Ray'],NA,week_9,Denver Broncos,2018
+['Bradley Roby'],Out: Ankle,week_9,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_9,Denver Broncos,2018
+['Darian Stewart'],Out: Neck,week_9,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_9,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_9,Denver Broncos,2018
+['Jared Veldheer'],NA,week_9,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_9,Denver Broncos,2018
+['Derek Wolfe'],NA,week_9,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_9,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_11,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_11,Denver Broncos,2018
+['Tramaine Brock'],NA,week_11,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_11,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_11,Denver Broncos,2018
+"[""Su'a Cravens""]",NA,week_11,Denver Broncos,2018
+['Todd Davis'],NA,week_11,Denver Broncos,2018
+['Nico Falah'],NA,week_11,Denver Broncos,2018
+['Royce Freeman'],NA,week_11,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_11,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_11,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_11,Denver Broncos,2018
+['Adam Gotsis'],NA,week_11,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_11,Denver Broncos,2018
+['Chris Harris'],NA,week_11,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_11,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_11,Denver Broncos,2018
+['Andre Holmes'],NA,week_11,Denver Broncos,2018
+['Adam Jones'],NA,week_11,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_11,Denver Broncos,2018
+['Matt LaCosse'],NA,week_11,Denver Broncos,2018
+['Brendan Langley'],NA,week_11,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_11,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_11,Denver Broncos,2018
+['Brandon Marshall'],Out: Knee,week_11,Denver Broncos,2018
+['Von Miller'],NA,week_11,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_11,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_11,Denver Broncos,2018
+['Shane Ray'],NA,week_11,Denver Broncos,2018
+['Bradley Roby'],NA,week_11,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_11,Denver Broncos,2018
+['Darian Stewart'],NA,week_11,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_11,Denver Broncos,2018
+['Dymonte Thomas'],Out: Ankle,week_11,Denver Broncos,2018
+['Jared Veldheer'],NA,week_11,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_11,Denver Broncos,2018
+['Derek Wolfe'],NA,week_11,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_11,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_12,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_12,Denver Broncos,2018
+['Tramaine Brock'],NA,week_12,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_12,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_12,Denver Broncos,2018
+"[""Su'a Cravens""]",NA,week_12,Denver Broncos,2018
+['Todd Davis'],NA,week_12,Denver Broncos,2018
+['Nico Falah'],NA,week_12,Denver Broncos,2018
+['Royce Freeman'],NA,week_12,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_12,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_12,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_12,Denver Broncos,2018
+['Adam Gotsis'],NA,week_12,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_12,Denver Broncos,2018
+['Chris Harris'],NA,week_12,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_12,Denver Broncos,2018
+['Jeff Heuerman'],NA,week_12,Denver Broncos,2018
+['Andre Holmes'],NA,week_12,Denver Broncos,2018
+['Adam Jones'],NA,week_12,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_12,Denver Broncos,2018
+['Matt LaCosse'],NA,week_12,Denver Broncos,2018
+['Brendan Langley'],NA,week_12,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_12,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_12,Denver Broncos,2018
+['Brandon Marshall'],Out: Knee,week_12,Denver Broncos,2018
+['Von Miller'],NA,week_12,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_12,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_12,Denver Broncos,2018
+['Shane Ray'],NA,week_12,Denver Broncos,2018
+['Bradley Roby'],Questionable: Concussion,week_12,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_12,Denver Broncos,2018
+['Darian Stewart'],NA,week_12,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_12,Denver Broncos,2018
+['Dymonte Thomas'],Out: Ankle,week_12,Denver Broncos,2018
+['Jared Veldheer'],NA,week_12,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_12,Denver Broncos,2018
+['Derek Wolfe'],NA,week_12,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_12,Denver Broncos,2018
+['Shaquil Barrett'],Out: Hip,week_13,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_13,Denver Broncos,2018
+['Tramaine Brock'],Out: Ribs,week_13,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_13,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_13,Denver Broncos,2018
+"[""Su'a Cravens""]",NA,week_13,Denver Broncos,2018
+['Todd Davis'],NA,week_13,Denver Broncos,2018
+['Nico Falah'],NA,week_13,Denver Broncos,2018
+['Royce Freeman'],NA,week_13,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_13,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_13,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_13,Denver Broncos,2018
+['Adam Gotsis'],NA,week_13,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_13,Denver Broncos,2018
+['Chris Harris'],NA,week_13,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_13,Denver Broncos,2018
+['Jeff Heuerman'],Injured Reserve: Ribs,week_13,Denver Broncos,2018
+['Andre Holmes'],NA,week_13,Denver Broncos,2018
+['Adam Jones'],NA,week_13,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_13,Denver Broncos,2018
+['Matt LaCosse'],NA,week_13,Denver Broncos,2018
+['Brendan Langley'],NA,week_13,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_13,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_13,Denver Broncos,2018
+['Brandon Marshall'],Questionable: Knee,week_13,Denver Broncos,2018
+['Von Miller'],NA,week_13,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_13,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_13,Denver Broncos,2018
+['Shane Ray'],NA,week_13,Denver Broncos,2018
+['Bradley Roby'],NA,week_13,Denver Broncos,2018
+['Emmanuel Sanders'],NA,week_13,Denver Broncos,2018
+['Darian Stewart'],NA,week_13,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_13,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_13,Denver Broncos,2018
+['Jared Veldheer'],NA,week_13,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_13,Denver Broncos,2018
+['Derek Wolfe'],NA,week_13,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_13,Denver Broncos,2018
+['Shaquil Barrett'],Out: Hip,week_14,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_14,Denver Broncos,2018
+['Tramaine Brock'],Out: Ribs,week_14,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_14,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_14,Denver Broncos,2018
+"[""Su'a Cravens""]",NA,week_14,Denver Broncos,2018
+['Todd Davis'],NA,week_14,Denver Broncos,2018
+['Nico Falah'],NA,week_14,Denver Broncos,2018
+['Royce Freeman'],NA,week_14,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_14,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_14,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_14,Denver Broncos,2018
+['Adam Gotsis'],NA,week_14,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_14,Denver Broncos,2018
+['Chris Harris'],Injured Reserve: Shin,week_14,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_14,Denver Broncos,2018
+['Jeff Heuerman'],Injured Reserve: Ribs,week_14,Denver Broncos,2018
+['Andre Holmes'],NA,week_14,Denver Broncos,2018
+['Adam Jones'],NA,week_14,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_14,Denver Broncos,2018
+['Matt LaCosse'],NA,week_14,Denver Broncos,2018
+['Brendan Langley'],NA,week_14,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_14,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_14,Denver Broncos,2018
+['Brandon Marshall'],Questionable: Knee,week_14,Denver Broncos,2018
+['Von Miller'],NA,week_14,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_14,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_14,Denver Broncos,2018
+['Shane Ray'],NA,week_14,Denver Broncos,2018
+['Bradley Roby'],NA,week_14,Denver Broncos,2018
+['Emmanuel Sanders'],Injured Reserve: Achilles,week_14,Denver Broncos,2018
+['Darian Stewart'],NA,week_14,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_14,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_14,Denver Broncos,2018
+['Jared Veldheer'],NA,week_14,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_14,Denver Broncos,2018
+['Derek Wolfe'],NA,week_14,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_14,Denver Broncos,2018
+['Shaquil Barrett'],Out: Hip,week_15,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_15,Denver Broncos,2018
+['Tramaine Brock'],NA,week_15,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_15,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_15,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_15,Denver Broncos,2018
+['Todd Davis'],NA,week_15,Denver Broncos,2018
+['Nico Falah'],NA,week_15,Denver Broncos,2018
+['Royce Freeman'],NA,week_15,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_15,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_15,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_15,Denver Broncos,2018
+['Adam Gotsis'],NA,week_15,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_15,Denver Broncos,2018
+['Chris Harris'],Injured Reserve: Shin,week_15,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_15,Denver Broncos,2018
+['Jeff Heuerman'],Injured Reserve: Ribs,week_15,Denver Broncos,2018
+['Andre Holmes'],NA,week_15,Denver Broncos,2018
+['Adam Jones'],NA,week_15,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_15,Denver Broncos,2018
+['Matt LaCosse'],NA,week_15,Denver Broncos,2018
+['Brendan Langley'],NA,week_15,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_15,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_15,Denver Broncos,2018
+['Brandon Marshall'],NA,week_15,Denver Broncos,2018
+['Von Miller'],NA,week_15,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_15,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_15,Denver Broncos,2018
+['Shane Ray'],NA,week_15,Denver Broncos,2018
+['Bradley Roby'],NA,week_15,Denver Broncos,2018
+['Emmanuel Sanders'],Injured Reserve: Achilles,week_15,Denver Broncos,2018
+['Darian Stewart'],NA,week_15,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_15,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_15,Denver Broncos,2018
+['Jared Veldheer'],NA,week_15,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_15,Denver Broncos,2018
+['Derek Wolfe'],Questionable: Concussion,week_15,Denver Broncos,2018
+['Isaac Yiadom'],Out: Shoulder,week_15,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_16,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_16,Denver Broncos,2018
+['Tramaine Brock'],NA,week_16,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_16,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_16,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_16,Denver Broncos,2018
+['Todd Davis'],NA,week_16,Denver Broncos,2018
+['Nico Falah'],NA,week_16,Denver Broncos,2018
+['Royce Freeman'],NA,week_16,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_16,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_16,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_16,Denver Broncos,2018
+['Adam Gotsis'],NA,week_16,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_16,Denver Broncos,2018
+['Chris Harris'],Injured Reserve: Shin,week_16,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_16,Denver Broncos,2018
+['Jeff Heuerman'],Injured Reserve: Ribs,week_16,Denver Broncos,2018
+['Andre Holmes'],NA,week_16,Denver Broncos,2018
+['Adam Jones'],NA,week_16,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_16,Denver Broncos,2018
+['Matt LaCosse'],Questionable: Ankle,week_16,Denver Broncos,2018
+['Brendan Langley'],Out: Concussion,week_16,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_16,Denver Broncos,2018
+['Phillip Lindsay'],NA,week_16,Denver Broncos,2018
+['Brandon Marshall'],NA,week_16,Denver Broncos,2018
+['Von Miller'],NA,week_16,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_16,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_16,Denver Broncos,2018
+['Shane Ray'],Questionable: Illness,week_16,Denver Broncos,2018
+['Bradley Roby'],NA,week_16,Denver Broncos,2018
+['Emmanuel Sanders'],Injured Reserve: Achilles,week_16,Denver Broncos,2018
+['Darian Stewart'],NA,week_16,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_16,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_16,Denver Broncos,2018
+['Jared Veldheer'],NA,week_16,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_16,Denver Broncos,2018
+['Derek Wolfe'],NA,week_16,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_16,Denver Broncos,2018
+['Shaquil Barrett'],NA,week_17,Denver Broncos,2018
+['Kenny Bell'],Injured Reserve: Hamstring,week_17,Denver Broncos,2018
+['Tramaine Brock'],NA,week_17,Denver Broncos,2018
+['Jake Butt'],Injured Reserve: Knee,week_17,Denver Broncos,2018
+['Jamal Carter'],Injured Reserve: Hamstring,week_17,Denver Broncos,2018
+"[""Su'a Cravens""]",Injured Reserve: Knee,week_17,Denver Broncos,2018
+['Todd Davis'],NA,week_17,Denver Broncos,2018
+['Nico Falah'],NA,week_17,Denver Broncos,2018
+['Royce Freeman'],NA,week_17,Denver Broncos,2018
+['Troy Fumagalli'],Injured Reserve: Groin,week_17,Denver Broncos,2018
+['Max Garcia'],Injured Reserve: Knee,week_17,Denver Broncos,2018
+['Jerrol Garcia-Williams'],Injured Reserve: Knee,week_17,Denver Broncos,2018
+['Adam Gotsis'],NA,week_17,Denver Broncos,2018
+['DaeSean Hamilton'],NA,week_17,Denver Broncos,2018
+['Chris Harris'],Injured Reserve: Shin,week_17,Denver Broncos,2018
+['Carlos Henderson'],Injured Reserve: Personal,week_17,Denver Broncos,2018
+['Jeff Heuerman'],Injured Reserve: Ribs,week_17,Denver Broncos,2018
+['Andre Holmes'],Injured Reserve: Ankle,week_17,Denver Broncos,2018
+['Adam Jones'],NA,week_17,Denver Broncos,2018
+['Marquette King'],Injured Reserve: Groin,week_17,Denver Broncos,2018
+['Matt LaCosse'],NA,week_17,Denver Broncos,2018
+['Brendan Langley'],NA,week_17,Denver Broncos,2018
+['Ronald Leary'],Injured Reserve: Achilles,week_17,Denver Broncos,2018
+['Phillip Lindsay'],Injured Reserve: Wrist,week_17,Denver Broncos,2018
+['Brandon Marshall'],NA,week_17,Denver Broncos,2018
+['Von Miller'],NA,week_17,Denver Broncos,2018
+['Deiontrez Mount'],Injured Reserve: Achilles,week_17,Denver Broncos,2018
+['Matt Paradis'],Injured Reserve: Shin,week_17,Denver Broncos,2018
+['Shane Ray'],NA,week_17,Denver Broncos,2018
+['Bradley Roby'],NA,week_17,Denver Broncos,2018
+['Emmanuel Sanders'],Injured Reserve: Achilles,week_17,Denver Broncos,2018
+['Darian Stewart'],NA,week_17,Denver Broncos,2018
+['Jordan Taylor'],Injured Reserve: Hip,week_17,Denver Broncos,2018
+['Dymonte Thomas'],NA,week_17,Denver Broncos,2018
+['Jared Veldheer'],NA,week_17,Denver Broncos,2018
+['Menelik Watson'],Injured Reserve: Pectoral,week_17,Denver Broncos,2018
+['Derek Wolfe'],NA,week_17,Denver Broncos,2018
+['Isaac Yiadom'],NA,week_17,Denver Broncos,2018

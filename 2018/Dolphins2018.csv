@@ -1,0 +1,641 @@
+﻿name,injury,week,team,year
+['Chase Allen'],NA,week_1,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_1,Miami Dolphins,2018
+['Danny Amendola'],NA,week_1,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_1,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_1,Miami Dolphins,2018
+['Andre Branch'],NA,week_1,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_1,Miami Dolphins,2018
+['John Denney'],NA,week_1,Miami Dolphins,2018
+['A.J. Derby'],NA,week_1,Miami Dolphins,2018
+['Luke Falk'],NA,week_1,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_1,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_1,Miami Dolphins,2018
+['Frank Gore'],NA,week_1,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_1,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_1,Miami Dolphins,2018
+['Charles Harris'],NA,week_1,Miami Dolphins,2018
+['William Hayes'],NA,week_1,Miami Dolphins,2018
+['Evander Hood'],NA,week_1,Miami Dolphins,2018
+['Xavien Howard'],NA,week_1,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_1,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_1,Miami Dolphins,2018
+['Reshad Jones'],NA,week_1,Miami Dolphins,2018
+['Daniel Kilgore'],NA,week_1,Miami Dolphins,2018
+['Ted Larsen'],NA,week_1,Miami Dolphins,2018
+['Bobby McCain'],NA,week_1,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_1,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_1,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_1,Miami Dolphins,2018
+['DeVante Parker'],Doubtful: Finger,week_1,Miami Dolphins,2018
+['Josh Sitton'],NA,week_1,Miami Dolphins,2018
+['Kenny Stills'],NA,week_1,Miami Dolphins,2018
+['Travis Swanson'],NA,week_1,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_1,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_1,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_1,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_1,Miami Dolphins,2018
+['Cameron Wake'],NA,week_1,Miami Dolphins,2018
+['Albert Wilson'],NA,week_1,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_1,Miami Dolphins,2018
+['Sam Young'],NA,week_1,Miami Dolphins,2018
+['Chase Allen'],NA,week_2,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_2,Miami Dolphins,2018
+['Danny Amendola'],NA,week_2,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_2,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_2,Miami Dolphins,2018
+['Andre Branch'],NA,week_2,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_2,Miami Dolphins,2018
+['John Denney'],Questionable: Shoulder,week_2,Miami Dolphins,2018
+['A.J. Derby'],NA,week_2,Miami Dolphins,2018
+['Luke Falk'],NA,week_2,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_2,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_2,Miami Dolphins,2018
+['Frank Gore'],NA,week_2,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_2,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_2,Miami Dolphins,2018
+['Charles Harris'],NA,week_2,Miami Dolphins,2018
+['William Hayes'],Questionable: Finger,week_2,Miami Dolphins,2018
+['Evander Hood'],NA,week_2,Miami Dolphins,2018
+['Xavien Howard'],NA,week_2,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_2,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_2,Miami Dolphins,2018
+['Reshad Jones'],NA,week_2,Miami Dolphins,2018
+['Daniel Kilgore'],NA,week_2,Miami Dolphins,2018
+['Ted Larsen'],NA,week_2,Miami Dolphins,2018
+['Bobby McCain'],NA,week_2,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_2,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_2,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_2,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Finger,week_2,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_2,Miami Dolphins,2018
+['Kenny Stills'],NA,week_2,Miami Dolphins,2018
+['Travis Swanson'],NA,week_2,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_2,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_2,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_2,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_2,Miami Dolphins,2018
+['Cameron Wake'],NA,week_2,Miami Dolphins,2018
+['Albert Wilson'],NA,week_2,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_2,Miami Dolphins,2018
+['Sam Young'],NA,week_2,Miami Dolphins,2018
+['Chase Allen'],NA,week_3,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_3,Miami Dolphins,2018
+['Danny Amendola'],NA,week_3,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_3,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_3,Miami Dolphins,2018
+['Andre Branch'],NA,week_3,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_3,Miami Dolphins,2018
+['John Denney'],NA,week_3,Miami Dolphins,2018
+['A.J. Derby'],NA,week_3,Miami Dolphins,2018
+['Luke Falk'],NA,week_3,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_3,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_3,Miami Dolphins,2018
+['Frank Gore'],NA,week_3,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_3,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_3,Miami Dolphins,2018
+['Charles Harris'],NA,week_3,Miami Dolphins,2018
+['William Hayes'],NA,week_3,Miami Dolphins,2018
+['Evander Hood'],NA,week_3,Miami Dolphins,2018
+['Xavien Howard'],NA,week_3,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_3,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_3,Miami Dolphins,2018
+['Reshad Jones'],Questionable: Shoulder,week_3,Miami Dolphins,2018
+['Daniel Kilgore'],NA,week_3,Miami Dolphins,2018
+['Ted Larsen'],NA,week_3,Miami Dolphins,2018
+['Bobby McCain'],NA,week_3,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_3,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_3,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_3,Miami Dolphins,2018
+['DeVante Parker'],NA,week_3,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_3,Miami Dolphins,2018
+['Kenny Stills'],NA,week_3,Miami Dolphins,2018
+['Travis Swanson'],NA,week_3,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_3,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_3,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_3,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_3,Miami Dolphins,2018
+['Cameron Wake'],NA,week_3,Miami Dolphins,2018
+['Albert Wilson'],NA,week_3,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_3,Miami Dolphins,2018
+['Sam Young'],NA,week_3,Miami Dolphins,2018
+['Chase Allen'],Out: Foot,week_4,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_4,Miami Dolphins,2018
+['Danny Amendola'],NA,week_4,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_4,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_4,Miami Dolphins,2018
+['Andre Branch'],Out: Knee,week_4,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_4,Miami Dolphins,2018
+['John Denney'],NA,week_4,Miami Dolphins,2018
+['A.J. Derby'],Out: Foot,week_4,Miami Dolphins,2018
+['Luke Falk'],NA,week_4,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_4,Miami Dolphins,2018
+['Davon Godchaux'],Questionable: Ankle,week_4,Miami Dolphins,2018
+['Frank Gore'],NA,week_4,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_4,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_4,Miami Dolphins,2018
+['Charles Harris'],NA,week_4,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_4,Miami Dolphins,2018
+['Evander Hood'],NA,week_4,Miami Dolphins,2018
+['Xavien Howard'],NA,week_4,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_4,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_4,Miami Dolphins,2018
+['Reshad Jones'],Questionable: Shoulder,week_4,Miami Dolphins,2018
+['Daniel Kilgore'],NA,week_4,Miami Dolphins,2018
+['Ted Larsen'],NA,week_4,Miami Dolphins,2018
+['Bobby McCain'],NA,week_4,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_4,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_4,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_4,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Quadricep,week_4,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_4,Miami Dolphins,2018
+['Kenny Stills'],NA,week_4,Miami Dolphins,2018
+['Travis Swanson'],NA,week_4,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_4,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_4,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_4,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_4,Miami Dolphins,2018
+['Cameron Wake'],Questionable: Knee,week_4,Miami Dolphins,2018
+['Albert Wilson'],NA,week_4,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_4,Miami Dolphins,2018
+['Sam Young'],Questionable: Shoulder,week_4,Miami Dolphins,2018
+['Chase Allen'],Questionable: Foot,week_5,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_5,Miami Dolphins,2018
+['Danny Amendola'],NA,week_5,Miami Dolphins,2018
+['Stephone Anthony'],Questionable: Hamstring,week_5,Miami Dolphins,2018
+['Brandon Bolden'],Questionable: Hamstring,week_5,Miami Dolphins,2018
+['Andre Branch'],Questionable: Knee,week_5,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_5,Miami Dolphins,2018
+['John Denney'],NA,week_5,Miami Dolphins,2018
+['A.J. Derby'],Out: Foot,week_5,Miami Dolphins,2018
+['Luke Falk'],Out: leftWrist,week_5,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_5,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_5,Miami Dolphins,2018
+['Frank Gore'],NA,week_5,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_5,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_5,Miami Dolphins,2018
+['Charles Harris'],NA,week_5,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_5,Miami Dolphins,2018
+['Evander Hood'],NA,week_5,Miami Dolphins,2018
+['Xavien Howard'],NA,week_5,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_5,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_5,Miami Dolphins,2018
+['Reshad Jones'],Questionable: Shoulder,week_5,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_5,Miami Dolphins,2018
+['Ted Larsen'],NA,week_5,Miami Dolphins,2018
+['Bobby McCain'],Out: Knee,week_5,Miami Dolphins,2018
+['T.J. McDonald'],Questionable: Foot,week_5,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_5,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_5,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Quadricep,week_5,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_5,Miami Dolphins,2018
+['Kenny Stills'],NA,week_5,Miami Dolphins,2018
+['Travis Swanson'],NA,week_5,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_5,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_5,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_5,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_5,Miami Dolphins,2018
+['Cameron Wake'],Doubtful: Knee,week_5,Miami Dolphins,2018
+['Albert Wilson'],NA,week_5,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_5,Miami Dolphins,2018
+['Sam Young'],NA,week_5,Miami Dolphins,2018
+['Chase Allen'],Questionable: Foot,week_6,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_6,Miami Dolphins,2018
+['Danny Amendola'],NA,week_6,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_6,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_6,Miami Dolphins,2018
+['Andre Branch'],Questionable: Knee,week_6,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_6,Miami Dolphins,2018
+['John Denney'],NA,week_6,Miami Dolphins,2018
+['A.J. Derby'],Questionable: Foot,week_6,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_6,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_6,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_6,Miami Dolphins,2018
+['Frank Gore'],NA,week_6,Miami Dolphins,2018
+['Jakeem Grant'],Questionable: Shoulder,week_6,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_6,Miami Dolphins,2018
+['Charles Harris'],Questionable: Calf,week_6,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_6,Miami Dolphins,2018
+['Evander Hood'],NA,week_6,Miami Dolphins,2018
+['Xavien Howard'],NA,week_6,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_6,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_6,Miami Dolphins,2018
+['Reshad Jones'],NA,week_6,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_6,Miami Dolphins,2018
+['Ted Larsen'],NA,week_6,Miami Dolphins,2018
+['Bobby McCain'],Questionable: Knee,week_6,Miami Dolphins,2018
+['T.J. McDonald'],Questionable: Foot,week_6,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_6,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_6,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Quadricep,week_6,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_6,Miami Dolphins,2018
+['Kenny Stills'],NA,week_6,Miami Dolphins,2018
+['Travis Swanson'],NA,week_6,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_6,Miami Dolphins,2018
+['Ryan Tannehill'],Questionable: rightShoulder,week_6,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_6,Miami Dolphins,2018
+['Laremy Tunsil'],Questionable: Concussion,week_6,Miami Dolphins,2018
+['Cameron Wake'],Doubtful: Knee,week_6,Miami Dolphins,2018
+['Albert Wilson'],NA,week_6,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_6,Miami Dolphins,2018
+['Sam Young'],NA,week_6,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_7,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_7,Miami Dolphins,2018
+['Danny Amendola'],NA,week_7,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_7,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_7,Miami Dolphins,2018
+['Andre Branch'],NA,week_7,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_7,Miami Dolphins,2018
+['John Denney'],NA,week_7,Miami Dolphins,2018
+['A.J. Derby'],Questionable: Foot,week_7,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_7,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_7,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_7,Miami Dolphins,2018
+['Frank Gore'],NA,week_7,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_7,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_7,Miami Dolphins,2018
+['Charles Harris'],Out: Calf,week_7,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_7,Miami Dolphins,2018
+['Evander Hood'],NA,week_7,Miami Dolphins,2018
+['Xavien Howard'],NA,week_7,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_7,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_7,Miami Dolphins,2018
+['Reshad Jones'],NA,week_7,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_7,Miami Dolphins,2018
+['Ted Larsen'],NA,week_7,Miami Dolphins,2018
+['Bobby McCain'],Questionable: Knee,week_7,Miami Dolphins,2018
+['T.J. McDonald'],Questionable: Knee,week_7,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_7,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_7,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Quadricep,week_7,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_7,Miami Dolphins,2018
+['Kenny Stills'],NA,week_7,Miami Dolphins,2018
+['Travis Swanson'],NA,week_7,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_7,Miami Dolphins,2018
+['Ryan Tannehill'],Out: rightShoulder,week_7,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_7,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_7,Miami Dolphins,2018
+['Cameron Wake'],Questionable: Knee,week_7,Miami Dolphins,2018
+['Albert Wilson'],NA,week_7,Miami Dolphins,2018
+['Jonathan Woodard'],Out: Concussion,week_7,Miami Dolphins,2018
+['Sam Young'],NA,week_7,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_8,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_8,Miami Dolphins,2018
+['Danny Amendola'],NA,week_8,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_8,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_8,Miami Dolphins,2018
+['Andre Branch'],NA,week_8,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_8,Miami Dolphins,2018
+['John Denney'],NA,week_8,Miami Dolphins,2018
+['A.J. Derby'],Questionable: Foot,week_8,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_8,Miami Dolphins,2018
+['Mike Gesicki'],Questionable: Shoulder,week_8,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_8,Miami Dolphins,2018
+['Frank Gore'],NA,week_8,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_8,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_8,Miami Dolphins,2018
+['Charles Harris'],Out: Calf,week_8,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_8,Miami Dolphins,2018
+['Evander Hood'],NA,week_8,Miami Dolphins,2018
+['Xavien Howard'],NA,week_8,Miami Dolphins,2018
+['Mike Hull'],Injured Reserve: Knee,week_8,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_8,Miami Dolphins,2018
+['Reshad Jones'],NA,week_8,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_8,Miami Dolphins,2018
+['Ted Larsen'],NA,week_8,Miami Dolphins,2018
+['Bobby McCain'],NA,week_8,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_8,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_8,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_8,Miami Dolphins,2018
+['DeVante Parker'],NA,week_8,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_8,Miami Dolphins,2018
+['Kenny Stills'],Out: Groin,week_8,Miami Dolphins,2018
+['Travis Swanson'],NA,week_8,Miami Dolphins,2018
+['Cordrea Tankersley'],NA,week_8,Miami Dolphins,2018
+['Ryan Tannehill'],Out: rightShoulder,week_8,Miami Dolphins,2018
+['Vincent Taylor'],NA,week_8,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_8,Miami Dolphins,2018
+['Cameron Wake'],NA,week_8,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_8,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_8,Miami Dolphins,2018
+['Sam Young'],NA,week_8,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_9,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_9,Miami Dolphins,2018
+['Danny Amendola'],NA,week_9,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_9,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_9,Miami Dolphins,2018
+['Andre Branch'],NA,week_9,Miami Dolphins,2018
+['Jake Brendel'],NA,week_9,Miami Dolphins,2018
+['John Denney'],NA,week_9,Miami Dolphins,2018
+['A.J. Derby'],Questionable: Foot,week_9,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_9,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_9,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_9,Miami Dolphins,2018
+['Frank Gore'],NA,week_9,Miami Dolphins,2018
+['Jakeem Grant'],NA,week_9,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_9,Miami Dolphins,2018
+['Charles Harris'],Out: Calf,week_9,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_9,Miami Dolphins,2018
+['Evander Hood'],NA,week_9,Miami Dolphins,2018
+['Xavien Howard'],Questionable: Ankle,week_9,Miami Dolphins,2018
+['Mike Hull'],NA,week_9,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_9,Miami Dolphins,2018
+['Reshad Jones'],NA,week_9,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_9,Miami Dolphins,2018
+['Ted Larsen'],NA,week_9,Miami Dolphins,2018
+['Bobby McCain'],NA,week_9,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_9,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_9,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_9,Miami Dolphins,2018
+['DeVante Parker'],NA,week_9,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_9,Miami Dolphins,2018
+['Kenny Stills'],Questionable: Groin,week_9,Miami Dolphins,2018
+['Travis Swanson'],NA,week_9,Miami Dolphins,2018
+['Cordrea Tankersley'],Out: Knee,week_9,Miami Dolphins,2018
+['Ryan Tannehill'],Out: rightShoulder,week_9,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_9,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_9,Miami Dolphins,2018
+['Cameron Wake'],NA,week_9,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_9,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_9,Miami Dolphins,2018
+['Sam Young'],NA,week_9,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_10,Miami Dolphins,2018
+['Kiko Alonso'],Questionable: Ankle,week_10,Miami Dolphins,2018
+['Danny Amendola'],NA,week_10,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_10,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_10,Miami Dolphins,2018
+['Andre Branch'],NA,week_10,Miami Dolphins,2018
+['Jake Brendel'],NA,week_10,Miami Dolphins,2018
+['John Denney'],NA,week_10,Miami Dolphins,2018
+['A.J. Derby'],Questionable: Foot,week_10,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_10,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_10,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_10,Miami Dolphins,2018
+['Frank Gore'],NA,week_10,Miami Dolphins,2018
+['Jakeem Grant'],Questionable: Achilles,week_10,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_10,Miami Dolphins,2018
+['Charles Harris'],Out: Calf,week_10,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_10,Miami Dolphins,2018
+['Evander Hood'],NA,week_10,Miami Dolphins,2018
+['Xavien Howard'],NA,week_10,Miami Dolphins,2018
+['Mike Hull'],NA,week_10,Miami Dolphins,2018
+"[""Ja'Wuan James""]",Questionable: Knee,week_10,Miami Dolphins,2018
+['Reshad Jones'],NA,week_10,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_10,Miami Dolphins,2018
+['Ted Larsen'],Doubtful: Neck,week_10,Miami Dolphins,2018
+['Bobby McCain'],NA,week_10,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_10,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_10,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_10,Miami Dolphins,2018
+['DeVante Parker'],NA,week_10,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_10,Miami Dolphins,2018
+['Kenny Stills'],NA,week_10,Miami Dolphins,2018
+['Travis Swanson'],NA,week_10,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_10,Miami Dolphins,2018
+['Ryan Tannehill'],Out: rightShoulder,week_10,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_10,Miami Dolphins,2018
+['Laremy Tunsil'],Questionable: Knee,week_10,Miami Dolphins,2018
+['Cameron Wake'],NA,week_10,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_10,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_10,Miami Dolphins,2018
+['Sam Young'],NA,week_10,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_12,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_12,Miami Dolphins,2018
+['Danny Amendola'],Questionable: Hamstring,week_12,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_12,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_12,Miami Dolphins,2018
+['Andre Branch'],NA,week_12,Miami Dolphins,2018
+['Jake Brendel'],NA,week_12,Miami Dolphins,2018
+['John Denney'],NA,week_12,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_12,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_12,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_12,Miami Dolphins,2018
+['Davon Godchaux'],Questionable: Shin,week_12,Miami Dolphins,2018
+['Frank Gore'],NA,week_12,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_12,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_12,Miami Dolphins,2018
+['Charles Harris'],NA,week_12,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_12,Miami Dolphins,2018
+['Evander Hood'],NA,week_12,Miami Dolphins,2018
+['Xavien Howard'],NA,week_12,Miami Dolphins,2018
+['Mike Hull'],NA,week_12,Miami Dolphins,2018
+"[""Ja'Wuan James""]",Questionable: Knee,week_12,Miami Dolphins,2018
+['Reshad Jones'],NA,week_12,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_12,Miami Dolphins,2018
+['Ted Larsen'],Questionable: Neck,week_12,Miami Dolphins,2018
+['Bobby McCain'],NA,week_12,Miami Dolphins,2018
+['T.J. McDonald'],Questionable: Knee,week_12,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_12,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_12,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Shoulder,week_12,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_12,Miami Dolphins,2018
+['Kenny Stills'],NA,week_12,Miami Dolphins,2018
+['Travis Swanson'],NA,week_12,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_12,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_12,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_12,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_12,Miami Dolphins,2018
+['Cameron Wake'],NA,week_12,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_12,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_12,Miami Dolphins,2018
+['Sam Young'],NA,week_12,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_13,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_13,Miami Dolphins,2018
+['Danny Amendola'],Doubtful: Knee,week_13,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_13,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_13,Miami Dolphins,2018
+['Andre Branch'],NA,week_13,Miami Dolphins,2018
+['Jake Brendel'],NA,week_13,Miami Dolphins,2018
+['John Denney'],NA,week_13,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_13,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_13,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_13,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_13,Miami Dolphins,2018
+['Frank Gore'],NA,week_13,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_13,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_13,Miami Dolphins,2018
+['Charles Harris'],NA,week_13,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_13,Miami Dolphins,2018
+['Evander Hood'],NA,week_13,Miami Dolphins,2018
+['Xavien Howard'],NA,week_13,Miami Dolphins,2018
+['Mike Hull'],NA,week_13,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_13,Miami Dolphins,2018
+['Reshad Jones'],NA,week_13,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_13,Miami Dolphins,2018
+['Ted Larsen'],NA,week_13,Miami Dolphins,2018
+['Bobby McCain'],NA,week_13,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_13,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_13,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_13,Miami Dolphins,2018
+['DeVante Parker'],Questionable: Shoulder,week_13,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_13,Miami Dolphins,2018
+['Kenny Stills'],NA,week_13,Miami Dolphins,2018
+['Travis Swanson'],Doubtful: Ankle,week_13,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_13,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_13,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_13,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_13,Miami Dolphins,2018
+['Cameron Wake'],NA,week_13,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_13,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_13,Miami Dolphins,2018
+['Sam Young'],NA,week_13,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_14,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_14,Miami Dolphins,2018
+['Danny Amendola'],Questionable: Knee,week_14,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_14,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_14,Miami Dolphins,2018
+['Andre Branch'],NA,week_14,Miami Dolphins,2018
+['Jake Brendel'],Out: Calf,week_14,Miami Dolphins,2018
+['John Denney'],NA,week_14,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_14,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_14,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_14,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_14,Miami Dolphins,2018
+['Frank Gore'],NA,week_14,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_14,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_14,Miami Dolphins,2018
+['Charles Harris'],NA,week_14,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_14,Miami Dolphins,2018
+['Evander Hood'],NA,week_14,Miami Dolphins,2018
+['Xavien Howard'],Out: Knee,week_14,Miami Dolphins,2018
+['Mike Hull'],NA,week_14,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_14,Miami Dolphins,2018
+['Reshad Jones'],NA,week_14,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_14,Miami Dolphins,2018
+['Ted Larsen'],NA,week_14,Miami Dolphins,2018
+['Bobby McCain'],NA,week_14,Miami Dolphins,2018
+['T.J. McDonald'],NA,week_14,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_14,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_14,Miami Dolphins,2018
+['DeVante Parker'],NA,week_14,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_14,Miami Dolphins,2018
+['Kenny Stills'],NA,week_14,Miami Dolphins,2018
+['Travis Swanson'],Questionable: Ankle,week_14,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_14,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_14,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_14,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_14,Miami Dolphins,2018
+['Cameron Wake'],NA,week_14,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_14,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_14,Miami Dolphins,2018
+['Sam Young'],NA,week_14,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_15,Miami Dolphins,2018
+['Kiko Alonso'],NA,week_15,Miami Dolphins,2018
+['Danny Amendola'],NA,week_15,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_15,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_15,Miami Dolphins,2018
+['Andre Branch'],NA,week_15,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_15,Miami Dolphins,2018
+['John Denney'],NA,week_15,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_15,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_15,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_15,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_15,Miami Dolphins,2018
+['Frank Gore'],NA,week_15,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_15,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_15,Miami Dolphins,2018
+['Charles Harris'],NA,week_15,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_15,Miami Dolphins,2018
+['Evander Hood'],NA,week_15,Miami Dolphins,2018
+['Xavien Howard'],Doubtful: Knee,week_15,Miami Dolphins,2018
+['Mike Hull'],NA,week_15,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_15,Miami Dolphins,2018
+['Reshad Jones'],NA,week_15,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_15,Miami Dolphins,2018
+['Ted Larsen'],NA,week_15,Miami Dolphins,2018
+['Bobby McCain'],NA,week_15,Miami Dolphins,2018
+['T.J. McDonald'],Questionable: Ankle,week_15,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_15,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_15,Miami Dolphins,2018
+['DeVante Parker'],NA,week_15,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_15,Miami Dolphins,2018
+['Kenny Stills'],NA,week_15,Miami Dolphins,2018
+['Travis Swanson'],NA,week_15,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_15,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_15,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_15,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_15,Miami Dolphins,2018
+['Cameron Wake'],NA,week_15,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_15,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_15,Miami Dolphins,2018
+['Sam Young'],NA,week_15,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_16,Miami Dolphins,2018
+['Kiko Alonso'],Questionable: Knee,week_16,Miami Dolphins,2018
+['Danny Amendola'],NA,week_16,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_16,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_16,Miami Dolphins,2018
+['Andre Branch'],NA,week_16,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_16,Miami Dolphins,2018
+['John Denney'],NA,week_16,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_16,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_16,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_16,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_16,Miami Dolphins,2018
+['Frank Gore'],Injured Reserve: Foot,week_16,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_16,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_16,Miami Dolphins,2018
+['Charles Harris'],NA,week_16,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_16,Miami Dolphins,2018
+['Evander Hood'],Questionable: Hamstring,week_16,Miami Dolphins,2018
+['Xavien Howard'],Questionable: Knee,week_16,Miami Dolphins,2018
+['Mike Hull'],NA,week_16,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_16,Miami Dolphins,2018
+['Reshad Jones'],NA,week_16,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_16,Miami Dolphins,2018
+['Ted Larsen'],NA,week_16,Miami Dolphins,2018
+['Bobby McCain'],NA,week_16,Miami Dolphins,2018
+['T.J. McDonald'],Doubtful: Ankle,week_16,Miami Dolphins,2018
+['Kendrick Norton'],Questionable: Ankle,week_16,Miami Dolphins,2018
+['Brock Osweiler'],Questionable: Back,week_16,Miami Dolphins,2018
+['DeVante Parker'],NA,week_16,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_16,Miami Dolphins,2018
+['Kenny Stills'],NA,week_16,Miami Dolphins,2018
+['Travis Swanson'],NA,week_16,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_16,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_16,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_16,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_16,Miami Dolphins,2018
+['Cameron Wake'],NA,week_16,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_16,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_16,Miami Dolphins,2018
+['Sam Young'],NA,week_16,Miami Dolphins,2018
+['Chase Allen'],Injured Reserve: Foot,week_17,Miami Dolphins,2018
+['Kiko Alonso'],Questionable: Knee,week_17,Miami Dolphins,2018
+['Danny Amendola'],NA,week_17,Miami Dolphins,2018
+['Stephone Anthony'],NA,week_17,Miami Dolphins,2018
+['Brandon Bolden'],NA,week_17,Miami Dolphins,2018
+['Andre Branch'],Questionable: Knee,week_17,Miami Dolphins,2018
+['Jake Brendel'],Injured Reserve: Calf,week_17,Miami Dolphins,2018
+['John Denney'],NA,week_17,Miami Dolphins,2018
+['A.J. Derby'],Injured Reserve: Foot,week_17,Miami Dolphins,2018
+['Luke Falk'],Injured Reserve: Wrist,week_17,Miami Dolphins,2018
+['Mike Gesicki'],NA,week_17,Miami Dolphins,2018
+['Davon Godchaux'],NA,week_17,Miami Dolphins,2018
+['Frank Gore'],Injured Reserve: Foot,week_17,Miami Dolphins,2018
+['Jakeem Grant'],Injured Reserve: Achilles,week_17,Miami Dolphins,2018
+['MarQueis Gray'],Injured Reserve: Achilles,week_17,Miami Dolphins,2018
+['Charles Harris'],NA,week_17,Miami Dolphins,2018
+['William Hayes'],Injured Reserve: Knee,week_17,Miami Dolphins,2018
+['Evander Hood'],Questionable: Hamstring,week_17,Miami Dolphins,2018
+['Xavien Howard'],Questionable: Knee,week_17,Miami Dolphins,2018
+['Mike Hull'],NA,week_17,Miami Dolphins,2018
+"[""Ja'Wuan James""]",NA,week_17,Miami Dolphins,2018
+['Reshad Jones'],NA,week_17,Miami Dolphins,2018
+['Daniel Kilgore'],Injured Reserve: Arm,week_17,Miami Dolphins,2018
+['Ted Larsen'],NA,week_17,Miami Dolphins,2018
+['Bobby McCain'],NA,week_17,Miami Dolphins,2018
+['T.J. McDonald'],Doubtful: Ankle,week_17,Miami Dolphins,2018
+['Kendrick Norton'],NA,week_17,Miami Dolphins,2018
+['Brock Osweiler'],NA,week_17,Miami Dolphins,2018
+['DeVante Parker'],NA,week_17,Miami Dolphins,2018
+['Josh Sitton'],Injured Reserve: Shoulder,week_17,Miami Dolphins,2018
+['Kenny Stills'],NA,week_17,Miami Dolphins,2018
+['Travis Swanson'],NA,week_17,Miami Dolphins,2018
+['Cordrea Tankersley'],Injured Reserve: Knee,week_17,Miami Dolphins,2018
+['Ryan Tannehill'],NA,week_17,Miami Dolphins,2018
+['Vincent Taylor'],Injured Reserve: Foot,week_17,Miami Dolphins,2018
+['Laremy Tunsil'],NA,week_17,Miami Dolphins,2018
+['Cameron Wake'],NA,week_17,Miami Dolphins,2018
+['Albert Wilson'],Injured Reserve: Hip,week_17,Miami Dolphins,2018
+['Jonathan Woodard'],NA,week_17,Miami Dolphins,2018
+['Sam Young'],NA,week_17,Miami Dolphins,2018

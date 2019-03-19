@@ -1,0 +1,596 @@
+﻿name,injury,week,team,year
+['Tyrell Adams'],NA,week_1,Houston Texans,2018
+['Johnson Bademosi'],NA,week_1,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_1,Houston Texans,2018
+['Sammie Coates'],Questionable: Hamstring,week_1,Houston Texans,2018
+['Dylan Cole'],NA,week_1,Houston Texans,2018
+['Aaron Colvin'],NA,week_1,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_1,Houston Texans,2018
+['Christian Covington'],NA,week_1,Houston Texans,2018
+['Zach Cunningham'],NA,week_1,Houston Texans,2018
+['Brandon Dunn'],NA,week_1,Houston Texans,2018
+['Duke Ejiofor'],Questionable: Hamstring,week_1,Houston Texans,2018
+['Bruce Ellington'],NA,week_1,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_1,Houston Texans,2018
+['Will Fuller'],Questionable: Hamstring,week_1,Houston Texans,2018
+['Zach Fulton'],NA,week_1,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_1,Houston Texans,2018
+['Ryan Griffin'],NA,week_1,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_1,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_1,Houston Texans,2018
+['Seantrel Henderson'],NA,week_1,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_1,Houston Texans,2018
+['Kevin Johnson'],NA,week_1,Houston Texans,2018
+['Johnathan Joseph'],NA,week_1,Houston Texans,2018
+['Senio Kelemete'],NA,week_1,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_1,Houston Texans,2018
+['Lamar Miller'],NA,week_1,Houston Texans,2018
+['Brian Peters'],NA,week_1,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_1,Houston Texans,2018
+['Brennan Scarlett'],NA,week_1,Houston Texans,2018
+['Jordan Thomas'],NA,week_1,Houston Texans,2018
+['Michael Tyson'],NA,week_1,Houston Texans,2018
+['Deshaun Watson'],NA,week_1,Houston Texans,2018
+['J.J. Watt'],NA,week_1,Houston Texans,2018
+['Kayvon Webster'],Out: Achilles,week_1,Houston Texans,2018
+['Shareece Wright'],NA,week_1,Houston Texans,2018
+['Tyrell Adams'],NA,week_2,Houston Texans,2018
+['Johnson Bademosi'],Questionable: Knee,week_2,Houston Texans,2018
+['Jadeveon Clowney'],Questionable: Back,week_2,Houston Texans,2018
+['Sammie Coates'],Questionable: Hamstring,week_2,Houston Texans,2018
+['Dylan Cole'],NA,week_2,Houston Texans,2018
+['Aaron Colvin'],NA,week_2,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_2,Houston Texans,2018
+['Christian Covington'],Questionable: Thigh,week_2,Houston Texans,2018
+['Zach Cunningham'],NA,week_2,Houston Texans,2018
+['Brandon Dunn'],NA,week_2,Houston Texans,2018
+['Duke Ejiofor'],Questionable: Hamstring,week_2,Houston Texans,2018
+['Bruce Ellington'],NA,week_2,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_2,Houston Texans,2018
+['Will Fuller'],Questionable: Hamstring,week_2,Houston Texans,2018
+['Zach Fulton'],NA,week_2,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_2,Houston Texans,2018
+['Ryan Griffin'],NA,week_2,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_2,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_2,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_2,Houston Texans,2018
+['DeAndre Hopkins'],Questionable: Foot,week_2,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_2,Houston Texans,2018
+['Johnathan Joseph'],NA,week_2,Houston Texans,2018
+['Senio Kelemete'],NA,week_2,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_2,Houston Texans,2018
+['Lamar Miller'],NA,week_2,Houston Texans,2018
+['Brian Peters'],NA,week_2,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_2,Houston Texans,2018
+['Brennan Scarlett'],NA,week_2,Houston Texans,2018
+['Jordan Thomas'],NA,week_2,Houston Texans,2018
+['Michael Tyson'],NA,week_2,Houston Texans,2018
+['Deshaun Watson'],NA,week_2,Houston Texans,2018
+['J.J. Watt'],NA,week_2,Houston Texans,2018
+['Kayvon Webster'],Out: Achilles,week_2,Houston Texans,2018
+['Shareece Wright'],NA,week_2,Houston Texans,2018
+['Tyrell Adams'],NA,week_3,Houston Texans,2018
+['Johnson Bademosi'],NA,week_3,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_3,Houston Texans,2018
+['Sammie Coates'],Questionable: Hamstring,week_3,Houston Texans,2018
+['Dylan Cole'],NA,week_3,Houston Texans,2018
+['Aaron Colvin'],NA,week_3,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_3,Houston Texans,2018
+['Christian Covington'],NA,week_3,Houston Texans,2018
+['Zach Cunningham'],NA,week_3,Houston Texans,2018
+['Brandon Dunn'],NA,week_3,Houston Texans,2018
+['Duke Ejiofor'],NA,week_3,Houston Texans,2018
+['Bruce Ellington'],NA,week_3,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_3,Houston Texans,2018
+['Will Fuller'],NA,week_3,Houston Texans,2018
+['Zach Fulton'],NA,week_3,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_3,Houston Texans,2018
+['Ryan Griffin'],NA,week_3,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_3,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_3,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_3,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_3,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_3,Houston Texans,2018
+['Johnathan Joseph'],NA,week_3,Houston Texans,2018
+['Senio Kelemete'],NA,week_3,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_3,Houston Texans,2018
+['Lamar Miller'],NA,week_3,Houston Texans,2018
+['Brian Peters'],NA,week_3,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_3,Houston Texans,2018
+['Brennan Scarlett'],NA,week_3,Houston Texans,2018
+['Jordan Thomas'],Questionable: Hip,week_3,Houston Texans,2018
+['Michael Tyson'],NA,week_3,Houston Texans,2018
+['Deshaun Watson'],NA,week_3,Houston Texans,2018
+['J.J. Watt'],NA,week_3,Houston Texans,2018
+['Kayvon Webster'],Out: Achilles,week_3,Houston Texans,2018
+['Shareece Wright'],NA,week_3,Houston Texans,2018
+['Tyrell Adams'],NA,week_4,Houston Texans,2018
+['Johnson Bademosi'],NA,week_4,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_4,Houston Texans,2018
+['Sammie Coates'],NA,week_4,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_4,Houston Texans,2018
+['Aaron Colvin'],NA,week_4,Houston Texans,2018
+['Keke Coutee'],NA,week_4,Houston Texans,2018
+['Christian Covington'],NA,week_4,Houston Texans,2018
+['Zach Cunningham'],NA,week_4,Houston Texans,2018
+['Brandon Dunn'],NA,week_4,Houston Texans,2018
+['Duke Ejiofor'],NA,week_4,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_4,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_4,Houston Texans,2018
+['Will Fuller'],NA,week_4,Houston Texans,2018
+['Zach Fulton'],NA,week_4,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_4,Houston Texans,2018
+['Ryan Griffin'],NA,week_4,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_4,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_4,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_4,Houston Texans,2018
+['DeAndre Hopkins'],Questionable: Thumb,week_4,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_4,Houston Texans,2018
+['Johnathan Joseph'],NA,week_4,Houston Texans,2018
+['Senio Kelemete'],NA,week_4,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_4,Houston Texans,2018
+['Lamar Miller'],NA,week_4,Houston Texans,2018
+['Brian Peters'],NA,week_4,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_4,Houston Texans,2018
+['Brennan Scarlett'],NA,week_4,Houston Texans,2018
+['Jordan Thomas'],NA,week_4,Houston Texans,2018
+['Michael Tyson'],NA,week_4,Houston Texans,2018
+['Deshaun Watson'],NA,week_4,Houston Texans,2018
+['J.J. Watt'],NA,week_4,Houston Texans,2018
+['Kayvon Webster'],Questionable: Achilles,week_4,Houston Texans,2018
+['Shareece Wright'],Questionable: Shoulder,week_4,Houston Texans,2018
+['Tyrell Adams'],NA,week_5,Houston Texans,2018
+['Johnson Bademosi'],NA,week_5,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_5,Houston Texans,2018
+['Sammie Coates'],NA,week_5,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_5,Houston Texans,2018
+['Aaron Colvin'],Out: Ankle,week_5,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_5,Houston Texans,2018
+['Christian Covington'],NA,week_5,Houston Texans,2018
+['Zach Cunningham'],NA,week_5,Houston Texans,2018
+['Brandon Dunn'],NA,week_5,Houston Texans,2018
+['Duke Ejiofor'],NA,week_5,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_5,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_5,Houston Texans,2018
+['Will Fuller'],Questionable: Hamstring,week_5,Houston Texans,2018
+['Zach Fulton'],NA,week_5,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_5,Houston Texans,2018
+['Ryan Griffin'],NA,week_5,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_5,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_5,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_5,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_5,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_5,Houston Texans,2018
+['Johnathan Joseph'],NA,week_5,Houston Texans,2018
+['Senio Kelemete'],NA,week_5,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_5,Houston Texans,2018
+['Lamar Miller'],Questionable: Chest,week_5,Houston Texans,2018
+['Brian Peters'],Out: Ankle,week_5,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_5,Houston Texans,2018
+['Brennan Scarlett'],NA,week_5,Houston Texans,2018
+['Jordan Thomas'],NA,week_5,Houston Texans,2018
+['Michael Tyson'],NA,week_5,Houston Texans,2018
+['Deshaun Watson'],NA,week_5,Houston Texans,2018
+['J.J. Watt'],NA,week_5,Houston Texans,2018
+['Kayvon Webster'],NA,week_5,Houston Texans,2018
+['Shareece Wright'],NA,week_5,Houston Texans,2018
+['Tyrell Adams'],NA,week_6,Houston Texans,2018
+['Johnson Bademosi'],NA,week_6,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_6,Houston Texans,2018
+['Sammie Coates'],NA,week_6,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_6,Houston Texans,2018
+['Aaron Colvin'],Out: Ankle,week_6,Houston Texans,2018
+['Keke Coutee'],NA,week_6,Houston Texans,2018
+['Christian Covington'],NA,week_6,Houston Texans,2018
+['Zach Cunningham'],NA,week_6,Houston Texans,2018
+['Brandon Dunn'],NA,week_6,Houston Texans,2018
+['Duke Ejiofor'],NA,week_6,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_6,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_6,Houston Texans,2018
+['Will Fuller'],NA,week_6,Houston Texans,2018
+['Zach Fulton'],NA,week_6,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_6,Houston Texans,2018
+['Ryan Griffin'],NA,week_6,Houston Texans,2018
+['Andre Hal'],Injured Reserve: Illness,week_6,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_6,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_6,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_6,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_6,Houston Texans,2018
+['Johnathan Joseph'],NA,week_6,Houston Texans,2018
+['Senio Kelemete'],NA,week_6,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_6,Houston Texans,2018
+['Lamar Miller'],NA,week_6,Houston Texans,2018
+['Brian Peters'],Out: Ankle,week_6,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_6,Houston Texans,2018
+['Brennan Scarlett'],NA,week_6,Houston Texans,2018
+['Jordan Thomas'],NA,week_6,Houston Texans,2018
+['Michael Tyson'],NA,week_6,Houston Texans,2018
+['Deshaun Watson'],Questionable: Chest,week_6,Houston Texans,2018
+['J.J. Watt'],NA,week_6,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_6,Houston Texans,2018
+['Shareece Wright'],NA,week_6,Houston Texans,2018
+['Tyrell Adams'],NA,week_7,Houston Texans,2018
+['Johnson Bademosi'],NA,week_7,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_7,Houston Texans,2018
+['Sammie Coates'],NA,week_7,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_7,Houston Texans,2018
+['Aaron Colvin'],Out: Ankle,week_7,Houston Texans,2018
+['Keke Coutee'],NA,week_7,Houston Texans,2018
+['Christian Covington'],NA,week_7,Houston Texans,2018
+['Zach Cunningham'],NA,week_7,Houston Texans,2018
+['Brandon Dunn'],NA,week_7,Houston Texans,2018
+['Duke Ejiofor'],NA,week_7,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_7,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_7,Houston Texans,2018
+['Will Fuller'],NA,week_7,Houston Texans,2018
+['Zach Fulton'],Questionable: Ankle,week_7,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_7,Houston Texans,2018
+['Ryan Griffin'],Out: Illness,week_7,Houston Texans,2018
+['Andre Hal'],NA,week_7,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_7,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_7,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_7,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_7,Houston Texans,2018
+['Johnathan Joseph'],NA,week_7,Houston Texans,2018
+['Senio Kelemete'],NA,week_7,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_7,Houston Texans,2018
+['Lamar Miller'],NA,week_7,Houston Texans,2018
+['Brian Peters'],Out: Ankle,week_7,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_7,Houston Texans,2018
+['Brennan Scarlett'],NA,week_7,Houston Texans,2018
+['Jordan Thomas'],NA,week_7,Houston Texans,2018
+['Michael Tyson'],NA,week_7,Houston Texans,2018
+['Deshaun Watson'],NA,week_7,Houston Texans,2018
+['J.J. Watt'],NA,week_7,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_7,Houston Texans,2018
+['Shareece Wright'],Out: Shoulder,week_7,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_8,Houston Texans,2018
+['Johnson Bademosi'],NA,week_8,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_8,Houston Texans,2018
+['Sammie Coates'],NA,week_8,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_8,Houston Texans,2018
+['Aaron Colvin'],Out: Ankle,week_8,Houston Texans,2018
+['Keke Coutee'],Out: Hamstring,week_8,Houston Texans,2018
+['Christian Covington'],NA,week_8,Houston Texans,2018
+['Zach Cunningham'],NA,week_8,Houston Texans,2018
+['Brandon Dunn'],NA,week_8,Houston Texans,2018
+['Duke Ejiofor'],NA,week_8,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_8,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_8,Houston Texans,2018
+['Will Fuller'],NA,week_8,Houston Texans,2018
+['Zach Fulton'],Out: Ankle,week_8,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_8,Houston Texans,2018
+['Ryan Griffin'],Out: Illness,week_8,Houston Texans,2018
+['Andre Hal'],Out: Shoulder,week_8,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_8,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_8,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_8,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_8,Houston Texans,2018
+['Johnathan Joseph'],NA,week_8,Houston Texans,2018
+['Senio Kelemete'],NA,week_8,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_8,Houston Texans,2018
+['Lamar Miller'],NA,week_8,Houston Texans,2018
+['Brian Peters'],Out: Ankle,week_8,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_8,Houston Texans,2018
+['Brennan Scarlett'],NA,week_8,Houston Texans,2018
+['Jordan Thomas'],NA,week_8,Houston Texans,2018
+['Michael Tyson'],NA,week_8,Houston Texans,2018
+['Deshaun Watson'],NA,week_8,Houston Texans,2018
+['J.J. Watt'],NA,week_8,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_8,Houston Texans,2018
+['Shareece Wright'],Out: Shoulder,week_8,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_9,Houston Texans,2018
+['Johnson Bademosi'],NA,week_9,Houston Texans,2018
+['Jadeveon Clowney'],Questionable: Groin,week_9,Houston Texans,2018
+['Sammie Coates'],NA,week_9,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_9,Houston Texans,2018
+['Aaron Colvin'],Questionable: Ankle,week_9,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_9,Houston Texans,2018
+['Christian Covington'],NA,week_9,Houston Texans,2018
+['Zach Cunningham'],Out: Knee,week_9,Houston Texans,2018
+['Brandon Dunn'],NA,week_9,Houston Texans,2018
+['Duke Ejiofor'],NA,week_9,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_9,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_9,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_9,Houston Texans,2018
+['Zach Fulton'],NA,week_9,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_9,Houston Texans,2018
+['Ryan Griffin'],NA,week_9,Houston Texans,2018
+['Andre Hal'],Questionable: Shoulder,week_9,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_9,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_9,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_9,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_9,Houston Texans,2018
+['Johnathan Joseph'],Questionable: Ankle,week_9,Houston Texans,2018
+['Senio Kelemete'],NA,week_9,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_9,Houston Texans,2018
+['Lamar Miller'],NA,week_9,Houston Texans,2018
+['Brian Peters'],NA,week_9,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_9,Houston Texans,2018
+['Brennan Scarlett'],NA,week_9,Houston Texans,2018
+['Jordan Thomas'],NA,week_9,Houston Texans,2018
+['Michael Tyson'],NA,week_9,Houston Texans,2018
+['Deshaun Watson'],NA,week_9,Houston Texans,2018
+['J.J. Watt'],NA,week_9,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_9,Houston Texans,2018
+['Shareece Wright'],NA,week_9,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_11,Houston Texans,2018
+['Johnson Bademosi'],NA,week_11,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_11,Houston Texans,2018
+['Sammie Coates'],NA,week_11,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_11,Houston Texans,2018
+['Aaron Colvin'],Questionable: Ankle,week_11,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_11,Houston Texans,2018
+['Christian Covington'],NA,week_11,Houston Texans,2018
+['Zach Cunningham'],Questionable: Knee,week_11,Houston Texans,2018
+['Brandon Dunn'],NA,week_11,Houston Texans,2018
+['Duke Ejiofor'],Questionable: Shoulder,week_11,Houston Texans,2018
+['Bruce Ellington'],NA,week_11,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_11,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_11,Houston Texans,2018
+['Zach Fulton'],NA,week_11,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_11,Houston Texans,2018
+['Ryan Griffin'],NA,week_11,Houston Texans,2018
+['Andre Hal'],NA,week_11,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_11,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_11,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_11,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_11,Houston Texans,2018
+['Johnathan Joseph'],Questionable: Ankle,week_11,Houston Texans,2018
+['Senio Kelemete'],NA,week_11,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_11,Houston Texans,2018
+['Lamar Miller'],NA,week_11,Houston Texans,2018
+['Brian Peters'],NA,week_11,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_11,Houston Texans,2018
+['Brennan Scarlett'],NA,week_11,Houston Texans,2018
+['Jordan Thomas'],NA,week_11,Houston Texans,2018
+['Michael Tyson'],NA,week_11,Houston Texans,2018
+['Deshaun Watson'],NA,week_11,Houston Texans,2018
+['J.J. Watt'],NA,week_11,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_11,Houston Texans,2018
+['Shareece Wright'],NA,week_11,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_12,Houston Texans,2018
+['Johnson Bademosi'],NA,week_12,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_12,Houston Texans,2018
+['Sammie Coates'],Questionable: Illness,week_12,Houston Texans,2018
+['Dylan Cole'],Injured Reserve: Wrist,week_12,Houston Texans,2018
+['Aaron Colvin'],NA,week_12,Houston Texans,2018
+['Keke Coutee'],NA,week_12,Houston Texans,2018
+['Christian Covington'],NA,week_12,Houston Texans,2018
+['Zach Cunningham'],NA,week_12,Houston Texans,2018
+['Brandon Dunn'],NA,week_12,Houston Texans,2018
+['Duke Ejiofor'],Questionable: Shoulder,week_12,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_12,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_12,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_12,Houston Texans,2018
+['Zach Fulton'],Questionable: Shoulder,week_12,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_12,Houston Texans,2018
+['Ryan Griffin'],NA,week_12,Houston Texans,2018
+['Andre Hal'],NA,week_12,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_12,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_12,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_12,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_12,Houston Texans,2018
+['Johnathan Joseph'],NA,week_12,Houston Texans,2018
+['Senio Kelemete'],Questionable: Ankle,week_12,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_12,Houston Texans,2018
+['Lamar Miller'],NA,week_12,Houston Texans,2018
+['Brian Peters'],NA,week_12,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_12,Houston Texans,2018
+['Brennan Scarlett'],NA,week_12,Houston Texans,2018
+['Jordan Thomas'],NA,week_12,Houston Texans,2018
+['Michael Tyson'],NA,week_12,Houston Texans,2018
+['Deshaun Watson'],NA,week_12,Houston Texans,2018
+['J.J. Watt'],NA,week_12,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_12,Houston Texans,2018
+['Shareece Wright'],NA,week_12,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_13,Houston Texans,2018
+['Johnson Bademosi'],NA,week_13,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_13,Houston Texans,2018
+['Sammie Coates'],NA,week_13,Houston Texans,2018
+['Dylan Cole'],NA,week_13,Houston Texans,2018
+['Aaron Colvin'],NA,week_13,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_13,Houston Texans,2018
+['Christian Covington'],NA,week_13,Houston Texans,2018
+['Zach Cunningham'],NA,week_13,Houston Texans,2018
+['Brandon Dunn'],NA,week_13,Houston Texans,2018
+['Duke Ejiofor'],NA,week_13,Houston Texans,2018
+['Bruce Ellington'],NA,week_13,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_13,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_13,Houston Texans,2018
+['Zach Fulton'],NA,week_13,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_13,Houston Texans,2018
+['Ryan Griffin'],NA,week_13,Houston Texans,2018
+['Andre Hal'],NA,week_13,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_13,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_13,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_13,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_13,Houston Texans,2018
+['Johnathan Joseph'],NA,week_13,Houston Texans,2018
+['Senio Kelemete'],NA,week_13,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_13,Houston Texans,2018
+['Lamar Miller'],NA,week_13,Houston Texans,2018
+['Brian Peters'],NA,week_13,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_13,Houston Texans,2018
+['Brennan Scarlett'],NA,week_13,Houston Texans,2018
+['Jordan Thomas'],NA,week_13,Houston Texans,2018
+['Michael Tyson'],NA,week_13,Houston Texans,2018
+['Deshaun Watson'],NA,week_13,Houston Texans,2018
+['J.J. Watt'],Questionable: Knee,week_13,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_13,Houston Texans,2018
+['Shareece Wright'],NA,week_13,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_14,Houston Texans,2018
+['Johnson Bademosi'],NA,week_14,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_14,Houston Texans,2018
+['Sammie Coates'],NA,week_14,Houston Texans,2018
+['Dylan Cole'],NA,week_14,Houston Texans,2018
+['Aaron Colvin'],NA,week_14,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_14,Houston Texans,2018
+['Christian Covington'],NA,week_14,Houston Texans,2018
+['Zach Cunningham'],NA,week_14,Houston Texans,2018
+['Brandon Dunn'],NA,week_14,Houston Texans,2018
+['Duke Ejiofor'],NA,week_14,Houston Texans,2018
+['Bruce Ellington'],NA,week_14,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_14,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_14,Houston Texans,2018
+['Zach Fulton'],Out: Hand,week_14,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_14,Houston Texans,2018
+['Ryan Griffin'],NA,week_14,Houston Texans,2018
+['Andre Hal'],NA,week_14,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_14,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_14,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_14,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_14,Houston Texans,2018
+['Johnathan Joseph'],Questionable: Neck,week_14,Houston Texans,2018
+['Senio Kelemete'],NA,week_14,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_14,Houston Texans,2018
+['Lamar Miller'],NA,week_14,Houston Texans,2018
+['Brian Peters'],NA,week_14,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_14,Houston Texans,2018
+['Brennan Scarlett'],Questionable: Ankle,week_14,Houston Texans,2018
+['Jordan Thomas'],NA,week_14,Houston Texans,2018
+['Michael Tyson'],NA,week_14,Houston Texans,2018
+['Deshaun Watson'],NA,week_14,Houston Texans,2018
+['J.J. Watt'],NA,week_14,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_14,Houston Texans,2018
+['Shareece Wright'],NA,week_14,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_15,Houston Texans,2018
+['Johnson Bademosi'],NA,week_15,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_15,Houston Texans,2018
+['Sammie Coates'],NA,week_15,Houston Texans,2018
+['Dylan Cole'],NA,week_15,Houston Texans,2018
+['Aaron Colvin'],NA,week_15,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_15,Houston Texans,2018
+['Christian Covington'],NA,week_15,Houston Texans,2018
+['Zach Cunningham'],NA,week_15,Houston Texans,2018
+['Brandon Dunn'],NA,week_15,Houston Texans,2018
+['Duke Ejiofor'],NA,week_15,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_15,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_15,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_15,Houston Texans,2018
+['Zach Fulton'],Questionable: Hand,week_15,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_15,Houston Texans,2018
+['Ryan Griffin'],NA,week_15,Houston Texans,2018
+['Andre Hal'],Questionable: Ankle,week_15,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_15,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_15,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_15,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_15,Houston Texans,2018
+['Johnathan Joseph'],NA,week_15,Houston Texans,2018
+['Senio Kelemete'],NA,week_15,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_15,Houston Texans,2018
+['Lamar Miller'],NA,week_15,Houston Texans,2018
+['Brian Peters'],NA,week_15,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_15,Houston Texans,2018
+['Brennan Scarlett'],Injured Reserve: Ankle,week_15,Houston Texans,2018
+['Jordan Thomas'],NA,week_15,Houston Texans,2018
+['Michael Tyson'],NA,week_15,Houston Texans,2018
+['Deshaun Watson'],NA,week_15,Houston Texans,2018
+['J.J. Watt'],NA,week_15,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_15,Houston Texans,2018
+['Shareece Wright'],NA,week_15,Houston Texans,2018
+['Tyrell Adams'],Injured Reserve: Undisclosed,week_16,Houston Texans,2018
+['Johnson Bademosi'],NA,week_16,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_16,Houston Texans,2018
+['Sammie Coates'],NA,week_16,Houston Texans,2018
+['Dylan Cole'],NA,week_16,Houston Texans,2018
+['Aaron Colvin'],NA,week_16,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_16,Houston Texans,2018
+['Christian Covington'],NA,week_16,Houston Texans,2018
+['Zach Cunningham'],NA,week_16,Houston Texans,2018
+['Brandon Dunn'],Questionable: Ankle,week_16,Houston Texans,2018
+['Duke Ejiofor'],NA,week_16,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_16,Houston Texans,2018
+"[""D'Onta Foreman""]",NA,week_16,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_16,Houston Texans,2018
+['Zach Fulton'],NA,week_16,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_16,Houston Texans,2018
+['Ryan Griffin'],NA,week_16,Houston Texans,2018
+['Andre Hal'],NA,week_16,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_16,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_16,Houston Texans,2018
+['DeAndre Hopkins'],Questionable: Ankle,week_16,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_16,Houston Texans,2018
+['Johnathan Joseph'],Questionable: Hip,week_16,Houston Texans,2018
+['Senio Kelemete'],Questionable: Elbow,week_16,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_16,Houston Texans,2018
+['Lamar Miller'],Questionable: Ankle,week_16,Houston Texans,2018
+['Brian Peters'],NA,week_16,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_16,Houston Texans,2018
+['Brennan Scarlett'],Injured Reserve: Ankle,week_16,Houston Texans,2018
+['Jordan Thomas'],NA,week_16,Houston Texans,2018
+['Michael Tyson'],Out: Concussion,week_16,Houston Texans,2018
+['Deshaun Watson'],NA,week_16,Houston Texans,2018
+['J.J. Watt'],NA,week_16,Houston Texans,2018
+['Kayvon Webster'],NA,week_16,Houston Texans,2018
+['Shareece Wright'],NA,week_16,Houston Texans,2018
+['Tyrell Adams'],NA,week_17,Houston Texans,2018
+['Johnson Bademosi'],NA,week_17,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_17,Houston Texans,2018
+['Sammie Coates'],NA,week_17,Houston Texans,2018
+['Dylan Cole'],NA,week_17,Houston Texans,2018
+['Aaron Colvin'],NA,week_17,Houston Texans,2018
+['Keke Coutee'],Questionable: Hamstring,week_17,Houston Texans,2018
+['Christian Covington'],NA,week_17,Houston Texans,2018
+['Zach Cunningham'],NA,week_17,Houston Texans,2018
+['Brandon Dunn'],Questionable: Ankle,week_17,Houston Texans,2018
+['Duke Ejiofor'],NA,week_17,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_17,Houston Texans,2018
+"[""D'Onta Foreman""]",Injured Reserve: Achilles,week_17,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_17,Houston Texans,2018
+['Zach Fulton'],NA,week_17,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_17,Houston Texans,2018
+['Ryan Griffin'],NA,week_17,Houston Texans,2018
+['Andre Hal'],NA,week_17,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_17,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_17,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_17,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_17,Houston Texans,2018
+['Johnathan Joseph'],Questionable: Neck,week_17,Houston Texans,2018
+['Senio Kelemete'],NA,week_17,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_17,Houston Texans,2018
+['Lamar Miller'],NA,week_17,Houston Texans,2018
+['Brian Peters'],NA,week_17,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_17,Houston Texans,2018
+['Brennan Scarlett'],Injured Reserve: Ankle,week_17,Houston Texans,2018
+['Jordan Thomas'],NA,week_17,Houston Texans,2018
+['Michael Tyson'],NA,week_17,Houston Texans,2018
+['Deshaun Watson'],NA,week_17,Houston Texans,2018
+['J.J. Watt'],NA,week_17,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_17,Houston Texans,2018
+['Shareece Wright'],NA,week_17,Houston Texans,2018
+['Tyrell Adams'],NA,week_18,Houston Texans,2018
+['Johnson Bademosi'],NA,week_18,Houston Texans,2018
+['Jadeveon Clowney'],NA,week_18,Houston Texans,2018
+['Sammie Coates'],NA,week_18,Houston Texans,2018
+['Dylan Cole'],NA,week_18,Houston Texans,2018
+['Aaron Colvin'],NA,week_18,Houston Texans,2018
+['Keke Coutee'],NA,week_18,Houston Texans,2018
+['Christian Covington'],NA,week_18,Houston Texans,2018
+['Zach Cunningham'],NA,week_18,Houston Texans,2018
+['Brandon Dunn'],NA,week_18,Houston Texans,2018
+['Duke Ejiofor'],NA,week_18,Houston Texans,2018
+['Bruce Ellington'],Injured Reserve: Hamstring,week_18,Houston Texans,2018
+"[""D'Onta Foreman""]",NA,week_18,Houston Texans,2018
+['Will Fuller'],Injured Reserve: Knee,week_18,Houston Texans,2018
+['Zach Fulton'],NA,week_18,Houston Texans,2018
+['Matthew Godin'],Injured Reserve: Knee,week_18,Houston Texans,2018
+['Ryan Griffin'],NA,week_18,Houston Texans,2018
+['Andre Hal'],NA,week_18,Houston Texans,2018
+['Ben Heeney'],Injured Reserve: Ankle,week_18,Houston Texans,2018
+['Seantrel Henderson'],Injured Reserve: Ankle,week_18,Houston Texans,2018
+['DeAndre Hopkins'],NA,week_18,Houston Texans,2018
+['Kevin Johnson'],Injured Reserve: Concussion,week_18,Houston Texans,2018
+['Johnathan Joseph'],NA,week_18,Houston Texans,2018
+['Senio Kelemete'],NA,week_18,Houston Texans,2018
+['Jermaine Kelly'],Injured Reserve: Undisclosed,week_18,Houston Texans,2018
+['Lamar Miller'],NA,week_18,Houston Texans,2018
+['Brian Peters'],NA,week_18,Houston Texans,2018
+['Jevoni Robinson'],Injured Reserve: Undisclosed,week_18,Houston Texans,2018
+['Brennan Scarlett'],Injured Reserve: Ankle,week_18,Houston Texans,2018
+['Jordan Thomas'],NA,week_18,Houston Texans,2018
+['Michael Tyson'],Injured Reserve: Knee,week_18,Houston Texans,2018
+['Deshaun Watson'],NA,week_18,Houston Texans,2018
+['J.J. Watt'],NA,week_18,Houston Texans,2018
+['Kayvon Webster'],Injured Reserve: Quadricep,week_18,Houston Texans,2018
+['Shareece Wright'],NA,week_18,Houston Texans,2018

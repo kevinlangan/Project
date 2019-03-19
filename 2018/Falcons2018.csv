@@ -1,0 +1,353 @@
+﻿name,injury,week,team,year
+['Robert Alford'],NA,week_1,Atlanta Falcons,2018
+['Ricardo Allen'],NA,week_1,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_1,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_1,Atlanta Falcons,2018
+['Devonta Freeman'],NA,week_1,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_1,Atlanta Falcons,2018
+['Russell Gage'],NA,week_1,Atlanta Falcons,2018
+['Ben Garland'],Out: Calf,week_1,Atlanta Falcons,2018
+['Josh Harris'],Questionable: Hip,week_1,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_1,Atlanta Falcons,2018
+['Deion Jones'],NA,week_1,Atlanta Falcons,2018
+['Julio Jones'],NA,week_1,Atlanta Falcons,2018
+['Andy Levitre'],NA,week_1,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_1,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_1,Atlanta Falcons,2018
+['Keanu Neal'],NA,week_1,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_1,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_1,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_1,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_1,Atlanta Falcons,2018
+['Ito Smith'],NA,week_1,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],Out: Shoulder,week_1,Atlanta Falcons,2018
+['Robert Alford'],NA,week_2,Atlanta Falcons,2018
+['Ricardo Allen'],NA,week_2,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_2,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2018
+['Devonta Freeman'],Out: Knee,week_2,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_2,Atlanta Falcons,2018
+['Russell Gage'],Out: Knee,week_2,Atlanta Falcons,2018
+['Ben Garland'],Out: Calf,week_2,Atlanta Falcons,2018
+['Josh Harris'],NA,week_2,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_2,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_2,Atlanta Falcons,2018
+['Julio Jones'],NA,week_2,Atlanta Falcons,2018
+['Andy Levitre'],NA,week_2,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_2,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_2,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_2,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_2,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_2,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_2,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_2,Atlanta Falcons,2018
+['Ito Smith'],NA,week_2,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_2,Atlanta Falcons,2018
+['Robert Alford'],NA,week_3,Atlanta Falcons,2018
+['Ricardo Allen'],NA,week_3,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_3,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2018
+['Devonta Freeman'],Out: Knee,week_3,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_3,Atlanta Falcons,2018
+['Russell Gage'],NA,week_3,Atlanta Falcons,2018
+['Ben Garland'],NA,week_3,Atlanta Falcons,2018
+['Josh Harris'],NA,week_3,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_3,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_3,Atlanta Falcons,2018
+['Julio Jones'],NA,week_3,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_3,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_3,Atlanta Falcons,2018
+['Takkarist McKinley'],Out: Groin,week_3,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_3,Atlanta Falcons,2018
+['Corey Nelson'],Out: Calf,week_3,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_3,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_3,Atlanta Falcons,2018
+['Derrick Shelby'],Out: Groin,week_3,Atlanta Falcons,2018
+['Ito Smith'],NA,week_3,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_3,Atlanta Falcons,2018
+['Robert Alford'],NA,week_4,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_4,Atlanta Falcons,2018
+['Justin Bethel'],Out: Knee,week_4,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2018
+['Devonta Freeman'],Out: Knee,week_4,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_4,Atlanta Falcons,2018
+['Russell Gage'],NA,week_4,Atlanta Falcons,2018
+['Ben Garland'],NA,week_4,Atlanta Falcons,2018
+['Josh Harris'],NA,week_4,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_4,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_4,Atlanta Falcons,2018
+['Julio Jones'],NA,week_4,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_4,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_4,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_4,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_4,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_4,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_4,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_4,Atlanta Falcons,2018
+['Derrick Shelby'],Out: Groin,week_4,Atlanta Falcons,2018
+['Ito Smith'],NA,week_4,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_4,Atlanta Falcons,2018
+['Robert Alford'],NA,week_5,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_5,Atlanta Falcons,2018
+['Justin Bethel'],Out: Knee,week_5,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_5,Atlanta Falcons,2018
+['Devonta Freeman'],NA,week_5,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_5,Atlanta Falcons,2018
+['Russell Gage'],NA,week_5,Atlanta Falcons,2018
+['Ben Garland'],NA,week_5,Atlanta Falcons,2018
+['Josh Harris'],NA,week_5,Atlanta Falcons,2018
+['Grady Jarrett'],Out: Ankle,week_5,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_5,Atlanta Falcons,2018
+['Julio Jones'],NA,week_5,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_5,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_5,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_5,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_5,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_5,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_5,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_5,Atlanta Falcons,2018
+['Derrick Shelby'],Out: Groin,week_5,Atlanta Falcons,2018
+['Ito Smith'],NA,week_5,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_5,Atlanta Falcons,2018
+['Robert Alford'],NA,week_6,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_6,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_6,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_6,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_6,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_6,Atlanta Falcons,2018
+['Russell Gage'],NA,week_6,Atlanta Falcons,2018
+['Ben Garland'],NA,week_6,Atlanta Falcons,2018
+['Josh Harris'],NA,week_6,Atlanta Falcons,2018
+['Grady Jarrett'],Out: Ankle,week_6,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_6,Atlanta Falcons,2018
+['Julio Jones'],NA,week_6,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_6,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_6,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_6,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_6,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_6,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_6,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_6,Atlanta Falcons,2018
+['Derrick Shelby'],Out: Groin,week_6,Atlanta Falcons,2018
+['Ito Smith'],NA,week_6,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_6,Atlanta Falcons,2018
+['Robert Alford'],NA,week_7,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_7,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_7,Atlanta Falcons,2018
+['Matt Bryant'],Out: rightHamstring,week_7,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_7,Atlanta Falcons,2018
+['Brandon Fusco'],NA,week_7,Atlanta Falcons,2018
+['Russell Gage'],NA,week_7,Atlanta Falcons,2018
+['Ben Garland'],NA,week_7,Atlanta Falcons,2018
+['Josh Harris'],NA,week_7,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_7,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_7,Atlanta Falcons,2018
+['Julio Jones'],NA,week_7,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_7,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_7,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_7,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_7,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_7,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_7,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_7,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_7,Atlanta Falcons,2018
+['Ito Smith'],NA,week_7,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_7,Atlanta Falcons,2018
+['Robert Alford'],Out: Ankle,week_9,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_9,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_9,Atlanta Falcons,2018
+['Matt Bryant'],Out: rightHamstring,week_9,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_9,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_9,Atlanta Falcons,2018
+['Russell Gage'],NA,week_9,Atlanta Falcons,2018
+['Ben Garland'],NA,week_9,Atlanta Falcons,2018
+['Josh Harris'],NA,week_9,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_9,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_9,Atlanta Falcons,2018
+['Julio Jones'],NA,week_9,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_9,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_9,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_9,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_9,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_9,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_9,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_9,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_9,Atlanta Falcons,2018
+['Ito Smith'],NA,week_9,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_9,Atlanta Falcons,2018
+['Robert Alford'],NA,week_10,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_10,Atlanta Falcons,2018
+['Matt Bryant'],Out: rightHamstring,week_10,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_10,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_10,Atlanta Falcons,2018
+['Russell Gage'],NA,week_10,Atlanta Falcons,2018
+['Ben Garland'],NA,week_10,Atlanta Falcons,2018
+['Josh Harris'],NA,week_10,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_10,Atlanta Falcons,2018
+['Deion Jones'],Injured Reserve: Foot,week_10,Atlanta Falcons,2018
+['Julio Jones'],NA,week_10,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_10,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_10,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_10,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_10,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_10,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_10,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_10,Atlanta Falcons,2018
+['Derrick Shelby'],Questionable: Groin,week_10,Atlanta Falcons,2018
+['Ito Smith'],NA,week_10,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_10,Atlanta Falcons,2018
+['Robert Alford'],NA,week_11,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_11,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_11,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_11,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_11,Atlanta Falcons,2018
+['Russell Gage'],NA,week_11,Atlanta Falcons,2018
+['Ben Garland'],NA,week_11,Atlanta Falcons,2018
+['Josh Harris'],NA,week_11,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_11,Atlanta Falcons,2018
+['Deion Jones'],Out: Foot,week_11,Atlanta Falcons,2018
+['Julio Jones'],NA,week_11,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_11,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_11,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_11,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_11,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_11,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_11,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_11,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_11,Atlanta Falcons,2018
+['Ito Smith'],NA,week_11,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_11,Atlanta Falcons,2018
+['Robert Alford'],NA,week_12,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_12,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_12,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_12,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_12,Atlanta Falcons,2018
+['Russell Gage'],NA,week_12,Atlanta Falcons,2018
+['Ben Garland'],NA,week_12,Atlanta Falcons,2018
+['Josh Harris'],NA,week_12,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_12,Atlanta Falcons,2018
+['Deion Jones'],Out: Foot,week_12,Atlanta Falcons,2018
+['Julio Jones'],NA,week_12,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_12,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_12,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_12,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_12,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_12,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_12,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_12,Atlanta Falcons,2018
+['Derrick Shelby'],NA,week_12,Atlanta Falcons,2018
+['Ito Smith'],NA,week_12,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_12,Atlanta Falcons,2018
+['Robert Alford'],NA,week_13,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_13,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_13,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_13,Atlanta Falcons,2018
+['Russell Gage'],NA,week_13,Atlanta Falcons,2018
+['Ben Garland'],NA,week_13,Atlanta Falcons,2018
+['Josh Harris'],NA,week_13,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_13,Atlanta Falcons,2018
+['Deion Jones'],NA,week_13,Atlanta Falcons,2018
+['Julio Jones'],NA,week_13,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_13,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_13,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_13,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_13,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_13,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_13,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_13,Atlanta Falcons,2018
+['Derrick Shelby'],Injured Reserve: Groin,week_13,Atlanta Falcons,2018
+['Ito Smith'],NA,week_13,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_13,Atlanta Falcons,2018
+['Robert Alford'],NA,week_14,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_14,Atlanta Falcons,2018
+['Matt Bryant'],Questionable: Back,week_14,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_14,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_14,Atlanta Falcons,2018
+['Russell Gage'],NA,week_14,Atlanta Falcons,2018
+['Ben Garland'],NA,week_14,Atlanta Falcons,2018
+['Josh Harris'],Injured Reserve: Knee,week_14,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_14,Atlanta Falcons,2018
+['Deion Jones'],NA,week_14,Atlanta Falcons,2018
+['Julio Jones'],NA,week_14,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_14,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_14,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_14,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_14,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_14,Atlanta Falcons,2018
+['Logan Paulsen'],Out: Knee,week_14,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_14,Atlanta Falcons,2018
+['Derrick Shelby'],Injured Reserve: Groin,week_14,Atlanta Falcons,2018
+['Ito Smith'],NA,week_14,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_14,Atlanta Falcons,2018
+['Robert Alford'],NA,week_15,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_15,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_15,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_15,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_15,Atlanta Falcons,2018
+['Russell Gage'],NA,week_15,Atlanta Falcons,2018
+['Ben Garland'],NA,week_15,Atlanta Falcons,2018
+['Josh Harris'],Injured Reserve: Knee,week_15,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_15,Atlanta Falcons,2018
+['Deion Jones'],NA,week_15,Atlanta Falcons,2018
+['Julio Jones'],NA,week_15,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_15,Atlanta Falcons,2018
+['Terrell McClain'],Out: Toe,week_15,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_15,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_15,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_15,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_15,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_15,Atlanta Falcons,2018
+['Derrick Shelby'],Injured Reserve: Groin,week_15,Atlanta Falcons,2018
+['Ito Smith'],NA,week_15,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_15,Atlanta Falcons,2018
+['Robert Alford'],NA,week_16,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_16,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_16,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_16,Atlanta Falcons,2018
+['Russell Gage'],NA,week_16,Atlanta Falcons,2018
+['Ben Garland'],NA,week_16,Atlanta Falcons,2018
+['Josh Harris'],Injured Reserve: Knee,week_16,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_16,Atlanta Falcons,2018
+['Deion Jones'],NA,week_16,Atlanta Falcons,2018
+['Julio Jones'],Questionable: Hip,week_16,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_16,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_16,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_16,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_16,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_16,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_16,Atlanta Falcons,2018
+['Wes Schweitzer'],NA,week_16,Atlanta Falcons,2018
+['Derrick Shelby'],Injured Reserve: Groin,week_16,Atlanta Falcons,2018
+['Ito Smith'],Injured Reserve: Knee,week_16,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_16,Atlanta Falcons,2018
+['Robert Alford'],NA,week_17,Atlanta Falcons,2018
+['Ricardo Allen'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2018
+['Justin Bethel'],NA,week_17,Atlanta Falcons,2018
+['Matt Bryant'],NA,week_17,Atlanta Falcons,2018
+['Devonta Freeman'],Injured Reserve: Foot,week_17,Atlanta Falcons,2018
+['Brandon Fusco'],Injured Reserve: Ankle,week_17,Atlanta Falcons,2018
+['Russell Gage'],NA,week_17,Atlanta Falcons,2018
+['Ben Garland'],NA,week_17,Atlanta Falcons,2018
+['Josh Harris'],Injured Reserve: Knee,week_17,Atlanta Falcons,2018
+['Grady Jarrett'],NA,week_17,Atlanta Falcons,2018
+['Deion Jones'],NA,week_17,Atlanta Falcons,2018
+['Julio Jones'],NA,week_17,Atlanta Falcons,2018
+['Andy Levitre'],Injured Reserve: Tricep,week_17,Atlanta Falcons,2018
+['Terrell McClain'],NA,week_17,Atlanta Falcons,2018
+['Takkarist McKinley'],NA,week_17,Atlanta Falcons,2018
+['Keanu Neal'],Injured Reserve: Knee,week_17,Atlanta Falcons,2018
+['Corey Nelson'],NA,week_17,Atlanta Falcons,2018
+['Logan Paulsen'],NA,week_17,Atlanta Falcons,2018
+['Wes Schweitzer'],Out: Back,week_17,Atlanta Falcons,2018
+['Derrick Shelby'],Injured Reserve: Groin,week_17,Atlanta Falcons,2018
+['Ito Smith'],Injured Reserve: Knee,week_17,Atlanta Falcons,2018
+['Blidi Wreh-Wilson'],NA,week_17,Atlanta Falcons,2018

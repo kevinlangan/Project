@@ -1,0 +1,497 @@
+﻿name,injury,week,team,year
+['Eli Apple'],NA,week_1,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_1,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_1,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_1,New York Giants,2018
+['Odell Beckham'],NA,week_1,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_1,New York Giants,2018
+['Lorenzo Carter'],NA,week_1,New York Giants,2018
+['Kaelin Clay'],NA,week_1,New York Giants,2018
+['Stacy Coley'],NA,week_1,New York Giants,2018
+['Landon Collins'],NA,week_1,New York Giants,2018
+['Jawill Davis'],NA,week_1,New York Giants,2018
+['Mario Edwards'],NA,week_1,New York Giants,2018
+['Rhett Ellison'],NA,week_1,New York Giants,2018
+['Evan Engram'],NA,week_1,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_1,New York Giants,2018
+['B.J. Goodson'],NA,week_1,New York Giants,2018
+['Jon Halapio'],NA,week_1,New York Giants,2018
+['Antonio Hamilton'],NA,week_1,New York Giants,2018
+['Quadree Henderson'],NA,week_1,New York Giants,2018
+['Cody Latimer'],NA,week_1,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_1,New York Giants,2018
+['Alec Ogletree'],NA,week_1,New York Giants,2018
+['Patrick Omameh'],NA,week_1,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_1,New York Giants,2018
+['Spencer Pulley'],NA,week_1,New York Giants,2018
+['Russell Shepard'],NA,week_1,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_1,New York Giants,2018
+['Jonathan Stewart'],NA,week_1,New York Giants,2018
+['Olivier Vernon'],Out: Ankle,week_1,New York Giants,2018
+['Jordan Williams'],NA,week_1,New York Giants,2018
+['Kerry Wynn'],NA,week_1,New York Giants,2018
+['Eli Apple'],NA,week_2,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_2,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_2,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_2,New York Giants,2018
+['Odell Beckham'],NA,week_2,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_2,New York Giants,2018
+['Lorenzo Carter'],NA,week_2,New York Giants,2018
+['Kaelin Clay'],NA,week_2,New York Giants,2018
+['Stacy Coley'],NA,week_2,New York Giants,2018
+['Landon Collins'],NA,week_2,New York Giants,2018
+['Jawill Davis'],NA,week_2,New York Giants,2018
+['Mario Edwards'],NA,week_2,New York Giants,2018
+['Rhett Ellison'],NA,week_2,New York Giants,2018
+['Evan Engram'],NA,week_2,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_2,New York Giants,2018
+['B.J. Goodson'],NA,week_2,New York Giants,2018
+['Jon Halapio'],NA,week_2,New York Giants,2018
+['Antonio Hamilton'],NA,week_2,New York Giants,2018
+['Quadree Henderson'],NA,week_2,New York Giants,2018
+['Cody Latimer'],NA,week_2,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_2,New York Giants,2018
+['Alec Ogletree'],NA,week_2,New York Giants,2018
+['Patrick Omameh'],NA,week_2,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_2,New York Giants,2018
+['Spencer Pulley'],NA,week_2,New York Giants,2018
+['Russell Shepard'],NA,week_2,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_2,New York Giants,2018
+['Jonathan Stewart'],NA,week_2,New York Giants,2018
+['Olivier Vernon'],Out: Ankle,week_2,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_2,New York Giants,2018
+['Kerry Wynn'],NA,week_2,New York Giants,2018
+['Eli Apple'],Out: Groin,week_3,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_3,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_3,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_3,New York Giants,2018
+['Odell Beckham'],NA,week_3,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_3,New York Giants,2018
+['Lorenzo Carter'],NA,week_3,New York Giants,2018
+['Kaelin Clay'],NA,week_3,New York Giants,2018
+['Stacy Coley'],NA,week_3,New York Giants,2018
+['Landon Collins'],NA,week_3,New York Giants,2018
+['Jawill Davis'],NA,week_3,New York Giants,2018
+['Mario Edwards'],NA,week_3,New York Giants,2018
+['Rhett Ellison'],NA,week_3,New York Giants,2018
+['Evan Engram'],NA,week_3,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_3,New York Giants,2018
+['B.J. Goodson'],NA,week_3,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_3,New York Giants,2018
+['Antonio Hamilton'],NA,week_3,New York Giants,2018
+['Quadree Henderson'],NA,week_3,New York Giants,2018
+['Cody Latimer'],NA,week_3,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_3,New York Giants,2018
+['Alec Ogletree'],NA,week_3,New York Giants,2018
+['Patrick Omameh'],NA,week_3,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_3,New York Giants,2018
+['Spencer Pulley'],NA,week_3,New York Giants,2018
+['Russell Shepard'],NA,week_3,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_3,New York Giants,2018
+['Jonathan Stewart'],NA,week_3,New York Giants,2018
+['Olivier Vernon'],Out: Ankle,week_3,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_3,New York Giants,2018
+['Kerry Wynn'],NA,week_3,New York Giants,2018
+['Eli Apple'],Out: Groin,week_4,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_4,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_4,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_4,New York Giants,2018
+['Odell Beckham'],NA,week_4,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_4,New York Giants,2018
+['Lorenzo Carter'],NA,week_4,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_4,New York Giants,2018
+['Stacy Coley'],Questionable: Hamstring,week_4,New York Giants,2018
+['Landon Collins'],NA,week_4,New York Giants,2018
+['Jawill Davis'],NA,week_4,New York Giants,2018
+['Mario Edwards'],NA,week_4,New York Giants,2018
+['Rhett Ellison'],NA,week_4,New York Giants,2018
+['Evan Engram'],Out: Knee,week_4,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_4,New York Giants,2018
+['B.J. Goodson'],NA,week_4,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_4,New York Giants,2018
+['Antonio Hamilton'],Questionable: Groin,week_4,New York Giants,2018
+['Quadree Henderson'],NA,week_4,New York Giants,2018
+['Cody Latimer'],Out: Knee,week_4,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_4,New York Giants,2018
+['Alec Ogletree'],NA,week_4,New York Giants,2018
+['Patrick Omameh'],NA,week_4,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_4,New York Giants,2018
+['Spencer Pulley'],NA,week_4,New York Giants,2018
+['Russell Shepard'],NA,week_4,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_4,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_4,New York Giants,2018
+['Olivier Vernon'],Out: Ankle,week_4,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_4,New York Giants,2018
+['Kerry Wynn'],NA,week_4,New York Giants,2018
+['Eli Apple'],NA,week_5,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_5,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_5,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_5,New York Giants,2018
+['Odell Beckham'],NA,week_5,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_5,New York Giants,2018
+['Lorenzo Carter'],NA,week_5,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_5,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_5,New York Giants,2018
+['Landon Collins'],NA,week_5,New York Giants,2018
+['Jawill Davis'],NA,week_5,New York Giants,2018
+['Mario Edwards'],NA,week_5,New York Giants,2018
+['Rhett Ellison'],NA,week_5,New York Giants,2018
+['Evan Engram'],Out: Knee,week_5,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_5,New York Giants,2018
+['B.J. Goodson'],NA,week_5,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_5,New York Giants,2018
+['Antonio Hamilton'],NA,week_5,New York Giants,2018
+['Quadree Henderson'],NA,week_5,New York Giants,2018
+['Cody Latimer'],NA,week_5,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_5,New York Giants,2018
+['Alec Ogletree'],NA,week_5,New York Giants,2018
+['Patrick Omameh'],NA,week_5,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_5,New York Giants,2018
+['Spencer Pulley'],NA,week_5,New York Giants,2018
+['Russell Shepard'],NA,week_5,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_5,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_5,New York Giants,2018
+['Olivier Vernon'],Out: Ankle,week_5,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_5,New York Giants,2018
+['Kerry Wynn'],NA,week_5,New York Giants,2018
+['Eli Apple'],NA,week_6,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_6,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_6,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_6,New York Giants,2018
+['Odell Beckham'],NA,week_6,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_6,New York Giants,2018
+['Lorenzo Carter'],NA,week_6,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_6,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_6,New York Giants,2018
+['Landon Collins'],NA,week_6,New York Giants,2018
+['Jawill Davis'],NA,week_6,New York Giants,2018
+['Mario Edwards'],NA,week_6,New York Giants,2018
+['Rhett Ellison'],Questionable: Foot,week_6,New York Giants,2018
+['Evan Engram'],Out: Knee,week_6,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_6,New York Giants,2018
+['B.J. Goodson'],NA,week_6,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_6,New York Giants,2018
+['Antonio Hamilton'],NA,week_6,New York Giants,2018
+['Quadree Henderson'],NA,week_6,New York Giants,2018
+['Cody Latimer'],NA,week_6,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_6,New York Giants,2018
+['Alec Ogletree'],NA,week_6,New York Giants,2018
+['Patrick Omameh'],NA,week_6,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_6,New York Giants,2018
+['Spencer Pulley'],NA,week_6,New York Giants,2018
+['Russell Shepard'],Out: Neck,week_6,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_6,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_6,New York Giants,2018
+['Olivier Vernon'],NA,week_6,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_6,New York Giants,2018
+['Kerry Wynn'],NA,week_6,New York Giants,2018
+['Eli Apple'],NA,week_7,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_7,New York Giants,2018
+['Ray-Ray Armstrong'],Injured Reserve: Concussion,week_7,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_7,New York Giants,2018
+['Odell Beckham'],NA,week_7,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_7,New York Giants,2018
+['Lorenzo Carter'],NA,week_7,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_7,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_7,New York Giants,2018
+['Landon Collins'],NA,week_7,New York Giants,2018
+['Jawill Davis'],Out: Concussion,week_7,New York Giants,2018
+['Mario Edwards'],NA,week_7,New York Giants,2018
+['Rhett Ellison'],NA,week_7,New York Giants,2018
+['Evan Engram'],NA,week_7,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_7,New York Giants,2018
+['B.J. Goodson'],NA,week_7,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_7,New York Giants,2018
+['Antonio Hamilton'],NA,week_7,New York Giants,2018
+['Quadree Henderson'],NA,week_7,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_7,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_7,New York Giants,2018
+['Alec Ogletree'],NA,week_7,New York Giants,2018
+['Patrick Omameh'],Questionable: Knee,week_7,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_7,New York Giants,2018
+['Spencer Pulley'],NA,week_7,New York Giants,2018
+['Russell Shepard'],Questionable: Neck,week_7,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_7,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_7,New York Giants,2018
+['Olivier Vernon'],NA,week_7,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_7,New York Giants,2018
+['Kerry Wynn'],NA,week_7,New York Giants,2018
+['Eli Apple'],NA,week_8,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_8,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_8,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_8,New York Giants,2018
+['Odell Beckham'],NA,week_8,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_8,New York Giants,2018
+['Lorenzo Carter'],NA,week_8,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_8,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_8,New York Giants,2018
+['Landon Collins'],NA,week_8,New York Giants,2018
+['Jawill Davis'],Out: Concussion,week_8,New York Giants,2018
+['Mario Edwards'],NA,week_8,New York Giants,2018
+['Rhett Ellison'],NA,week_8,New York Giants,2018
+['Evan Engram'],NA,week_8,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_8,New York Giants,2018
+['B.J. Goodson'],NA,week_8,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_8,New York Giants,2018
+['Antonio Hamilton'],NA,week_8,New York Giants,2018
+['Quadree Henderson'],NA,week_8,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_8,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_8,New York Giants,2018
+['Alec Ogletree'],Out: Hamstring,week_8,New York Giants,2018
+['Patrick Omameh'],NA,week_8,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_8,New York Giants,2018
+['Spencer Pulley'],NA,week_8,New York Giants,2018
+['Russell Shepard'],NA,week_8,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_8,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_8,New York Giants,2018
+['Olivier Vernon'],NA,week_8,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_8,New York Giants,2018
+['Kerry Wynn'],NA,week_8,New York Giants,2018
+['Eli Apple'],NA,week_10,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_10,New York Giants,2018
+['Ray-Ray Armstrong'],Injured Reserve: Concussion,week_10,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_10,New York Giants,2018
+['Odell Beckham'],NA,week_10,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_10,New York Giants,2018
+['Lorenzo Carter'],NA,week_10,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_10,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_10,New York Giants,2018
+['Landon Collins'],NA,week_10,New York Giants,2018
+['Jawill Davis'],NA,week_10,New York Giants,2018
+['Mario Edwards'],NA,week_10,New York Giants,2018
+['Rhett Ellison'],NA,week_10,New York Giants,2018
+['Evan Engram'],NA,week_10,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_10,New York Giants,2018
+['B.J. Goodson'],NA,week_10,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_10,New York Giants,2018
+['Antonio Hamilton'],NA,week_10,New York Giants,2018
+['Quadree Henderson'],NA,week_10,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_10,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_10,New York Giants,2018
+['Alec Ogletree'],NA,week_10,New York Giants,2018
+['Patrick Omameh'],NA,week_10,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_10,New York Giants,2018
+['Spencer Pulley'],NA,week_10,New York Giants,2018
+['Russell Shepard'],NA,week_10,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_10,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_10,New York Giants,2018
+['Olivier Vernon'],NA,week_10,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_10,New York Giants,2018
+['Kerry Wynn'],NA,week_10,New York Giants,2018
+['Eli Apple'],NA,week_11,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_11,New York Giants,2018
+['Ray-Ray Armstrong'],Injured Reserve: Concussion,week_11,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_11,New York Giants,2018
+['Odell Beckham'],NA,week_11,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_11,New York Giants,2018
+['Lorenzo Carter'],NA,week_11,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_11,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_11,New York Giants,2018
+['Landon Collins'],NA,week_11,New York Giants,2018
+['Jawill Davis'],NA,week_11,New York Giants,2018
+['Mario Edwards'],NA,week_11,New York Giants,2018
+['Rhett Ellison'],NA,week_11,New York Giants,2018
+['Evan Engram'],NA,week_11,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_11,New York Giants,2018
+['B.J. Goodson'],NA,week_11,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_11,New York Giants,2018
+['Antonio Hamilton'],NA,week_11,New York Giants,2018
+['Quadree Henderson'],NA,week_11,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_11,New York Giants,2018
+['R.J. McIntosh'],Injured Reserve: Illness,week_11,New York Giants,2018
+['Alec Ogletree'],NA,week_11,New York Giants,2018
+['Patrick Omameh'],NA,week_11,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_11,New York Giants,2018
+['Spencer Pulley'],NA,week_11,New York Giants,2018
+['Russell Shepard'],NA,week_11,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_11,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_11,New York Giants,2018
+['Olivier Vernon'],NA,week_11,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_11,New York Giants,2018
+['Kerry Wynn'],NA,week_11,New York Giants,2018
+['Eli Apple'],NA,week_12,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_12,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_12,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_12,New York Giants,2018
+['Odell Beckham'],NA,week_12,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_12,New York Giants,2018
+['Lorenzo Carter'],NA,week_12,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_12,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_12,New York Giants,2018
+['Landon Collins'],NA,week_12,New York Giants,2018
+['Jawill Davis'],NA,week_12,New York Giants,2018
+['Mario Edwards'],NA,week_12,New York Giants,2018
+['Rhett Ellison'],NA,week_12,New York Giants,2018
+['Evan Engram'],NA,week_12,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_12,New York Giants,2018
+['B.J. Goodson'],NA,week_12,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_12,New York Giants,2018
+['Antonio Hamilton'],NA,week_12,New York Giants,2018
+['Quadree Henderson'],NA,week_12,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_12,New York Giants,2018
+['R.J. McIntosh'],NA,week_12,New York Giants,2018
+['Alec Ogletree'],NA,week_12,New York Giants,2018
+['Patrick Omameh'],NA,week_12,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_12,New York Giants,2018
+['Spencer Pulley'],NA,week_12,New York Giants,2018
+['Russell Shepard'],NA,week_12,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_12,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_12,New York Giants,2018
+['Olivier Vernon'],NA,week_12,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_12,New York Giants,2018
+['Kerry Wynn'],Out: Concussion,week_12,New York Giants,2018
+['Eli Apple'],NA,week_13,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_13,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_13,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_13,New York Giants,2018
+['Odell Beckham'],NA,week_13,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_13,New York Giants,2018
+['Lorenzo Carter'],Questionable: Hip,week_13,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_13,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_13,New York Giants,2018
+['Landon Collins'],NA,week_13,New York Giants,2018
+['Jawill Davis'],NA,week_13,New York Giants,2018
+['Mario Edwards'],NA,week_13,New York Giants,2018
+['Rhett Ellison'],NA,week_13,New York Giants,2018
+['Evan Engram'],Out: Hamstring,week_13,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_13,New York Giants,2018
+['B.J. Goodson'],Out: Neck,week_13,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_13,New York Giants,2018
+['Antonio Hamilton'],NA,week_13,New York Giants,2018
+['Quadree Henderson'],Injured Reserve: Shoulder,week_13,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_13,New York Giants,2018
+['R.J. McIntosh'],NA,week_13,New York Giants,2018
+['Alec Ogletree'],NA,week_13,New York Giants,2018
+['Patrick Omameh'],NA,week_13,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_13,New York Giants,2018
+['Spencer Pulley'],NA,week_13,New York Giants,2018
+['Russell Shepard'],NA,week_13,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_13,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_13,New York Giants,2018
+['Olivier Vernon'],NA,week_13,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_13,New York Giants,2018
+['Kerry Wynn'],NA,week_13,New York Giants,2018
+['Eli Apple'],NA,week_14,New York Giants,2018
+['Thurston Armbrister'],NA,week_14,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_14,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_14,New York Giants,2018
+['Odell Beckham'],NA,week_14,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_14,New York Giants,2018
+['Lorenzo Carter'],NA,week_14,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_14,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_14,New York Giants,2018
+['Landon Collins'],Injured Reserve: Shoulder,week_14,New York Giants,2018
+['Jawill Davis'],NA,week_14,New York Giants,2018
+['Mario Edwards'],NA,week_14,New York Giants,2018
+['Rhett Ellison'],NA,week_14,New York Giants,2018
+['Evan Engram'],NA,week_14,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_14,New York Giants,2018
+['B.J. Goodson'],Questionable: Neck,week_14,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_14,New York Giants,2018
+['Antonio Hamilton'],NA,week_14,New York Giants,2018
+['Quadree Henderson'],Injured Reserve: Shoulder,week_14,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_14,New York Giants,2018
+['R.J. McIntosh'],NA,week_14,New York Giants,2018
+['Alec Ogletree'],NA,week_14,New York Giants,2018
+['Patrick Omameh'],NA,week_14,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_14,New York Giants,2018
+['Spencer Pulley'],NA,week_14,New York Giants,2018
+['Russell Shepard'],NA,week_14,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_14,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_14,New York Giants,2018
+['Olivier Vernon'],NA,week_14,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_14,New York Giants,2018
+['Kerry Wynn'],NA,week_14,New York Giants,2018
+['Eli Apple'],NA,week_15,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_15,New York Giants,2018
+['Ray-Ray Armstrong'],Injured Reserve: Concussion,week_15,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_15,New York Giants,2018
+['Odell Beckham'],Out: Quadricep,week_15,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_15,New York Giants,2018
+['Lorenzo Carter'],NA,week_15,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_15,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_15,New York Giants,2018
+['Landon Collins'],Injured Reserve: Shoulder,week_15,New York Giants,2018
+['Jawill Davis'],NA,week_15,New York Giants,2018
+['Mario Edwards'],NA,week_15,New York Giants,2018
+['Rhett Ellison'],NA,week_15,New York Giants,2018
+['Evan Engram'],NA,week_15,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_15,New York Giants,2018
+['B.J. Goodson'],NA,week_15,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_15,New York Giants,2018
+['Antonio Hamilton'],NA,week_15,New York Giants,2018
+['Quadree Henderson'],Injured Reserve: Shoulder,week_15,New York Giants,2018
+['Cody Latimer'],Injured Reserve: Hamstring,week_15,New York Giants,2018
+['R.J. McIntosh'],NA,week_15,New York Giants,2018
+['Alec Ogletree'],NA,week_15,New York Giants,2018
+['Patrick Omameh'],NA,week_15,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_15,New York Giants,2018
+['Spencer Pulley'],NA,week_15,New York Giants,2018
+['Russell Shepard'],NA,week_15,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_15,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_15,New York Giants,2018
+['Olivier Vernon'],NA,week_15,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_15,New York Giants,2018
+['Kerry Wynn'],NA,week_15,New York Giants,2018
+['Eli Apple'],NA,week_16,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_16,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_16,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_16,New York Giants,2018
+['Odell Beckham'],Out: Quadricep,week_16,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_16,New York Giants,2018
+['Lorenzo Carter'],NA,week_16,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_16,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_16,New York Giants,2018
+['Landon Collins'],Injured Reserve: Shoulder,week_16,New York Giants,2018
+['Jawill Davis'],NA,week_16,New York Giants,2018
+['Mario Edwards'],NA,week_16,New York Giants,2018
+['Rhett Ellison'],NA,week_16,New York Giants,2018
+['Evan Engram'],NA,week_16,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_16,New York Giants,2018
+['B.J. Goodson'],NA,week_16,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_16,New York Giants,2018
+['Antonio Hamilton'],Injured Reserve: Quadricep,week_16,New York Giants,2018
+['Quadree Henderson'],Injured Reserve: Shoulder,week_16,New York Giants,2018
+['Cody Latimer'],NA,week_16,New York Giants,2018
+['R.J. McIntosh'],NA,week_16,New York Giants,2018
+['Alec Ogletree'],Out: Concussion,week_16,New York Giants,2018
+['Patrick Omameh'],NA,week_16,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_16,New York Giants,2018
+['Spencer Pulley'],Out: Calf,week_16,New York Giants,2018
+['Russell Shepard'],Out: Ankle,week_16,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_16,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_16,New York Giants,2018
+['Olivier Vernon'],NA,week_16,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_16,New York Giants,2018
+['Kerry Wynn'],Questionable: Thumb,week_16,New York Giants,2018
+['Eli Apple'],NA,week_17,New York Giants,2018
+['Thurston Armbrister'],Injured Reserve: Hamstring,week_17,New York Giants,2018
+['Ray-Ray Armstrong'],NA,week_17,New York Giants,2018
+['Sam Beal'],Injured Reserve: Shoulder,week_17,New York Giants,2018
+['Odell Beckham'],Out: Quadricep,week_17,New York Giants,2018
+['Nick Becton'],Injured Reserve: Ankle,week_17,New York Giants,2018
+['Lorenzo Carter'],NA,week_17,New York Giants,2018
+['Kaelin Clay'],Injured Reserve: Ankle,week_17,New York Giants,2018
+['Stacy Coley'],Injured Reserve: Hamstring,week_17,New York Giants,2018
+['Landon Collins'],Injured Reserve: Shoulder,week_17,New York Giants,2018
+['Jawill Davis'],Injured Reserve: Knee,week_17,New York Giants,2018
+['Mario Edwards'],Out: Calf,week_17,New York Giants,2018
+['Rhett Ellison'],Out: Concussion,week_17,New York Giants,2018
+['Evan Engram'],NA,week_17,New York Giants,2018
+['Nick Gates'],Injured Reserve: Foot,week_17,New York Giants,2018
+['B.J. Goodson'],NA,week_17,New York Giants,2018
+['Jon Halapio'],Injured Reserve: Ankle,week_17,New York Giants,2018
+['Antonio Hamilton'],Injured Reserve: Quadricep,week_17,New York Giants,2018
+['Quadree Henderson'],Injured Reserve: Shoulder,week_17,New York Giants,2018
+['Cody Latimer'],NA,week_17,New York Giants,2018
+['R.J. McIntosh'],NA,week_17,New York Giants,2018
+['Alec Ogletree'],Out: Concussion,week_17,New York Giants,2018
+['Patrick Omameh'],NA,week_17,New York Giants,2018
+['Paul Perkins'],Injured Reserve: Pectoral,week_17,New York Giants,2018
+['Spencer Pulley'],NA,week_17,New York Giants,2018
+['Russell Shepard'],Out: Ankle,week_17,New York Giants,2018
+['Kristjan Sokoli'],Injured Reserve: Knee,week_17,New York Giants,2018
+['Jonathan Stewart'],Injured Reserve: Foot,week_17,New York Giants,2018
+['Olivier Vernon'],NA,week_17,New York Giants,2018
+['Jordan Williams'],Injured Reserve: Hip,week_17,New York Giants,2018
+['Kerry Wynn'],NA,week_17,New York Giants,2018

@@ -1,0 +1,559 @@
+﻿name,injury,week,team,year
+['Terron Armstead'],NA,week_1,New Orleans Saints,2018
+['Jay Bromley'],NA,week_1,New Orleans Saints,2018
+['Dez Bryant'],NA,week_1,New Orleans Saints,2018
+['Jermon Bushrod'],Questionable: NotInjuryRelated,week_1,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_1,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_1,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_1,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_1,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_1,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_1,New Orleans Saints,2018
+['Ted Ginn'],NA,week_1,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_1,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_1,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_1,New Orleans Saints,2018
+['Daniel Lasco'],NA,week_1,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_1,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_1,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_1,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_1,New Orleans Saints,2018
+['Michael Ola'],NA,week_1,New Orleans Saints,2018
+['Andrus Peat'],Questionable: Quadricep,week_1,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_1,New Orleans Saints,2018
+['Patrick Robinson'],NA,week_1,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_1,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_1,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_1,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_1,New Orleans Saints,2018
+['Cameron Tom'],NA,week_1,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_1,New Orleans Saints,2018
+['Larry Warford'],NA,week_1,New Orleans Saints,2018
+['Ben Watson'],NA,week_1,New Orleans Saints,2018
+['Terron Armstead'],NA,week_2,New Orleans Saints,2018
+['Jay Bromley'],NA,week_2,New Orleans Saints,2018
+['Dez Bryant'],NA,week_2,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_2,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_2,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_2,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_2,New Orleans Saints,2018
+['Tyeler Davison'],Out: Foot,week_2,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_2,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_2,New Orleans Saints,2018
+['Ted Ginn'],NA,week_2,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_2,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_2,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_2,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_2,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_2,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_2,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_2,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_2,New Orleans Saints,2018
+['Michael Ola'],NA,week_2,New Orleans Saints,2018
+['Andrus Peat'],NA,week_2,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_2,New Orleans Saints,2018
+['Patrick Robinson'],NA,week_2,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_2,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_2,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_2,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_2,New Orleans Saints,2018
+['Cameron Tom'],NA,week_2,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_2,New Orleans Saints,2018
+['Larry Warford'],NA,week_2,New Orleans Saints,2018
+['Ben Watson'],NA,week_2,New Orleans Saints,2018
+['Terron Armstead'],NA,week_3,New Orleans Saints,2018
+['Jay Bromley'],NA,week_3,New Orleans Saints,2018
+['Dez Bryant'],NA,week_3,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_3,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_3,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_3,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_3,New Orleans Saints,2018
+['Tyeler Davison'],Out: Foot,week_3,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_3,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_3,New Orleans Saints,2018
+['Ted Ginn'],NA,week_3,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_3,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_3,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_3,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_3,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_3,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_3,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_3,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_3,New Orleans Saints,2018
+['Michael Ola'],NA,week_3,New Orleans Saints,2018
+['Andrus Peat'],Questionable: Ankle,week_3,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_3,New Orleans Saints,2018
+['Patrick Robinson'],NA,week_3,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_3,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_3,New Orleans Saints,2018
+"[""Manti Te'o""]",Out: Knee,week_3,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_3,New Orleans Saints,2018
+['Cameron Tom'],NA,week_3,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_3,New Orleans Saints,2018
+['Larry Warford'],NA,week_3,New Orleans Saints,2018
+['Ben Watson'],NA,week_3,New Orleans Saints,2018
+['Terron Armstead'],NA,week_4,New Orleans Saints,2018
+['Jay Bromley'],NA,week_4,New Orleans Saints,2018
+['Dez Bryant'],NA,week_4,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_4,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_4,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_4,New Orleans Saints,2018
+['Marcus Davenport'],Questionable: Hip,week_4,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_4,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_4,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_4,New Orleans Saints,2018
+['Ted Ginn'],NA,week_4,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_4,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_4,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_4,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_4,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_4,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_4,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_4,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_4,New Orleans Saints,2018
+['Michael Ola'],NA,week_4,New Orleans Saints,2018
+['Andrus Peat'],NA,week_4,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_4,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_4,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_4,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_4,New Orleans Saints,2018
+"[""Manti Te'o""]",Out: Knee,week_4,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_4,New Orleans Saints,2018
+['Cameron Tom'],NA,week_4,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_4,New Orleans Saints,2018
+['Larry Warford'],NA,week_4,New Orleans Saints,2018
+['Ben Watson'],NA,week_4,New Orleans Saints,2018
+['Terron Armstead'],NA,week_5,New Orleans Saints,2018
+['Jay Bromley'],NA,week_5,New Orleans Saints,2018
+['Dez Bryant'],NA,week_5,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_5,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_5,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_5,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_5,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_5,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_5,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_5,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_5,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_5,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_5,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_5,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_5,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_5,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_5,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_5,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_5,New Orleans Saints,2018
+['Michael Ola'],NA,week_5,New Orleans Saints,2018
+['Andrus Peat'],NA,week_5,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_5,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_5,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_5,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_5,New Orleans Saints,2018
+"[""Manti Te'o""]",Questionable: Knee,week_5,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_5,New Orleans Saints,2018
+['Cameron Tom'],Questionable: Knee,week_5,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_5,New Orleans Saints,2018
+['Larry Warford'],NA,week_5,New Orleans Saints,2018
+['Ben Watson'],NA,week_5,New Orleans Saints,2018
+['Terron Armstead'],NA,week_7,New Orleans Saints,2018
+['Jay Bromley'],NA,week_7,New Orleans Saints,2018
+['Dez Bryant'],NA,week_7,New Orleans Saints,2018
+['Jermon Bushrod'],Questionable: NotInjuryRelated,week_7,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_7,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_7,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_7,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_7,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_7,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_7,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_7,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_7,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_7,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_7,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_7,New Orleans Saints,2018
+['Josh LeRibeus'],NA,week_7,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_7,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_7,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_7,New Orleans Saints,2018
+['Michael Ola'],NA,week_7,New Orleans Saints,2018
+['Andrus Peat'],Out: Concussion,week_7,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_7,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_7,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_7,New Orleans Saints,2018
+['Taylor Stallworth'],Out: Ankle,week_7,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_7,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_7,New Orleans Saints,2018
+['Cameron Tom'],NA,week_7,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_7,New Orleans Saints,2018
+['Larry Warford'],Questionable: Back,week_7,New Orleans Saints,2018
+['Ben Watson'],NA,week_7,New Orleans Saints,2018
+['Terron Armstead'],NA,week_8,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_8,New Orleans Saints,2018
+['Dez Bryant'],NA,week_8,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_8,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_8,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_8,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_8,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_8,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_8,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_8,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_8,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_8,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_8,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_8,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_8,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_8,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_8,New Orleans Saints,2018
+['Mitchell Loewen'],Out: Neck,week_8,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_8,New Orleans Saints,2018
+['Michael Ola'],NA,week_8,New Orleans Saints,2018
+['Andrus Peat'],NA,week_8,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_8,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_8,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_8,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_8,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_8,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_8,New Orleans Saints,2018
+['Cameron Tom'],NA,week_8,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_8,New Orleans Saints,2018
+['Larry Warford'],NA,week_8,New Orleans Saints,2018
+['Ben Watson'],NA,week_8,New Orleans Saints,2018
+['Terron Armstead'],NA,week_9,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_9,New Orleans Saints,2018
+['Dez Bryant'],NA,week_9,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_9,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_9,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_9,New Orleans Saints,2018
+['Marcus Davenport'],Out: Toe,week_9,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_9,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_9,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_9,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_9,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_9,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_9,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_9,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_9,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_9,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_9,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_9,New Orleans Saints,2018
+['Cameron Meredith'],NA,week_9,New Orleans Saints,2018
+['Michael Ola'],NA,week_9,New Orleans Saints,2018
+['Andrus Peat'],NA,week_9,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_9,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_9,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_9,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_9,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_9,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_9,New Orleans Saints,2018
+['Cameron Tom'],NA,week_9,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_9,New Orleans Saints,2018
+['Larry Warford'],NA,week_9,New Orleans Saints,2018
+['Ben Watson'],NA,week_9,New Orleans Saints,2018
+['Terron Armstead'],NA,week_10,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_10,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_10,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_10,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_10,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_10,New Orleans Saints,2018
+['Marcus Davenport'],Out: Toe,week_10,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_10,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_10,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_10,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_10,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_10,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_10,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_10,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_10,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_10,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_10,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_10,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_10,New Orleans Saints,2018
+['Michael Ola'],NA,week_10,New Orleans Saints,2018
+['Andrus Peat'],NA,week_10,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_10,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_10,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_10,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_10,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_10,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_10,New Orleans Saints,2018
+['Cameron Tom'],NA,week_10,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_10,New Orleans Saints,2018
+['Larry Warford'],NA,week_10,New Orleans Saints,2018
+['Ben Watson'],NA,week_10,New Orleans Saints,2018
+['Terron Armstead'],Out: Shoulder,week_11,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_11,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_11,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_11,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_11,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_11,New Orleans Saints,2018
+['Marcus Davenport'],Out: Toe,week_11,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_11,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_11,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_11,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_11,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_11,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_11,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_11,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_11,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_11,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_11,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_11,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_11,New Orleans Saints,2018
+['Michael Ola'],NA,week_11,New Orleans Saints,2018
+['Andrus Peat'],NA,week_11,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_11,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_11,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_11,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_11,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_11,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_11,New Orleans Saints,2018
+['Cameron Tom'],NA,week_11,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_11,New Orleans Saints,2018
+['Larry Warford'],NA,week_11,New Orleans Saints,2018
+['Ben Watson'],NA,week_11,New Orleans Saints,2018
+['Terron Armstead'],Out: Pectoral,week_12,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_12,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_12,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_12,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_12,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_12,New Orleans Saints,2018
+['Marcus Davenport'],Questionable: Toe,week_12,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_12,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_12,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_12,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_12,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_12,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_12,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_12,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_12,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_12,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_12,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_12,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_12,New Orleans Saints,2018
+['Michael Ola'],NA,week_12,New Orleans Saints,2018
+['Andrus Peat'],NA,week_12,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_12,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_12,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",Questionable: Foot,week_12,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_12,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_12,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_12,New Orleans Saints,2018
+['Cameron Tom'],NA,week_12,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_12,New Orleans Saints,2018
+['Larry Warford'],NA,week_12,New Orleans Saints,2018
+['Ben Watson'],NA,week_12,New Orleans Saints,2018
+['Terron Armstead'],Out: Pectoral,week_13,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_13,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_13,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_13,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_13,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_13,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_13,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_13,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_13,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_13,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_13,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_13,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_13,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_13,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_13,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_13,New Orleans Saints,2018
+['Tommylee Lewis'],Injured Reserve: Knee,week_13,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_13,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_13,New Orleans Saints,2018
+['Michael Ola'],NA,week_13,New Orleans Saints,2018
+['Andrus Peat'],NA,week_13,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_13,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_13,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_13,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_13,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_13,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_13,New Orleans Saints,2018
+['Cameron Tom'],NA,week_13,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_13,New Orleans Saints,2018
+['Larry Warford'],NA,week_13,New Orleans Saints,2018
+['Ben Watson'],NA,week_13,New Orleans Saints,2018
+['Terron Armstead'],Out: Pectoral,week_14,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_14,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_14,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_14,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_14,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_14,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_14,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_14,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_14,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_14,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_14,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_14,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_14,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_14,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_14,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_14,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_14,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_14,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_14,New Orleans Saints,2018
+['Michael Ola'],NA,week_14,New Orleans Saints,2018
+['Andrus Peat'],NA,week_14,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_14,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_14,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_14,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_14,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_14,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_14,New Orleans Saints,2018
+['Cameron Tom'],NA,week_14,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_14,New Orleans Saints,2018
+['Larry Warford'],NA,week_14,New Orleans Saints,2018
+['Ben Watson'],NA,week_14,New Orleans Saints,2018
+['Terron Armstead'],Out: Pectoral,week_15,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_15,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_15,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_15,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_15,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_15,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_15,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_15,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_15,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_15,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_15,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_15,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_15,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_15,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_15,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_15,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_15,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_15,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_15,New Orleans Saints,2018
+['Michael Ola'],Injured Reserve: Ankle,week_15,New Orleans Saints,2018
+['Andrus Peat'],NA,week_15,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_15,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_15,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_15,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_15,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_15,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_15,New Orleans Saints,2018
+['Cameron Tom'],NA,week_15,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_15,New Orleans Saints,2018
+['Larry Warford'],NA,week_15,New Orleans Saints,2018
+['Ben Watson'],NA,week_15,New Orleans Saints,2018
+['Terron Armstead'],NA,week_16,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_16,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_16,New Orleans Saints,2018
+['Jermon Bushrod'],Out: Hamstring,week_16,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_16,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_16,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_16,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_16,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_16,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_16,New Orleans Saints,2018
+['Ted Ginn'],NA,week_16,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_16,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_16,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_16,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_16,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_16,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_16,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_16,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_16,New Orleans Saints,2018
+['Michael Ola'],Injured Reserve: Ankle,week_16,New Orleans Saints,2018
+['Andrus Peat'],NA,week_16,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_16,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_16,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_16,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_16,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_16,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_16,New Orleans Saints,2018
+['Cameron Tom'],NA,week_16,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_16,New Orleans Saints,2018
+['Larry Warford'],NA,week_16,New Orleans Saints,2018
+['Ben Watson'],NA,week_16,New Orleans Saints,2018
+['Terron Armstead'],Out: Pectoral,week_17,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_17,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_17,New Orleans Saints,2018
+['Jermon Bushrod'],Out: Hamstring,week_17,New Orleans Saints,2018
+['Simmie Cobbs'],NA,week_17,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_17,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_17,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_17,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_17,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_17,New Orleans Saints,2018
+['Ted Ginn'],Injured Reserve: Knee,week_17,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_17,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_17,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_17,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_17,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_17,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_17,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_17,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_17,New Orleans Saints,2018
+['Michael Ola'],Injured Reserve: Ankle,week_17,New Orleans Saints,2018
+['Andrus Peat'],NA,week_17,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_17,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_17,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_17,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_17,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_17,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_17,New Orleans Saints,2018
+['Cameron Tom'],NA,week_17,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_17,New Orleans Saints,2018
+['Larry Warford'],Out: Knee,week_17,New Orleans Saints,2018
+['Ben Watson'],NA,week_17,New Orleans Saints,2018
+['Terron Armstead'],NA,week_19,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_19,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_19,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_19,New Orleans Saints,2018
+['Simmie Cobbs'],Out: Knee,week_19,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_19,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_19,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_19,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_19,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_19,New Orleans Saints,2018
+['Ted Ginn'],NA,week_19,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_19,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_19,New Orleans Saints,2018
+['Keith Kirkwood'],NA,week_19,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_19,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_19,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_19,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_19,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_19,New Orleans Saints,2018
+['Michael Ola'],Injured Reserve: Ankle,week_19,New Orleans Saints,2018
+['Andrus Peat'],NA,week_19,New Orleans Saints,2018
+['Sheldon Rankins'],NA,week_19,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_19,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_19,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_19,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_19,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_19,New Orleans Saints,2018
+['Cameron Tom'],NA,week_19,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_19,New Orleans Saints,2018
+['Larry Warford'],NA,week_19,New Orleans Saints,2018
+['Ben Watson'],NA,week_19,New Orleans Saints,2018
+['Terron Armstead'],NA,week_20,New Orleans Saints,2018
+['Jay Bromley'],Injured Reserve: Bicep,week_20,New Orleans Saints,2018
+['Dez Bryant'],Injured Reserve: Achilles,week_20,New Orleans Saints,2018
+['Jermon Bushrod'],NA,week_20,New Orleans Saints,2018
+['Simmie Cobbs'],Injured Reserve: Knee,week_20,New Orleans Saints,2018
+['Brandon Coleman'],Injured Reserve: Neck,week_20,New Orleans Saints,2018
+['Marcus Davenport'],NA,week_20,New Orleans Saints,2018
+['Tyeler Davison'],NA,week_20,New Orleans Saints,2018
+['Travin Dural'],Injured Reserve: Arm,week_20,New Orleans Saints,2018
+['John Fullington'],Injured Reserve: Neck,week_20,New Orleans Saints,2018
+['Ted Ginn'],NA,week_20,New Orleans Saints,2018
+['Michael Hoomanawanui'],Injured Reserve: Neck,week_20,New Orleans Saints,2018
+['Rickey Jefferson'],Injured Reserve: Knee,week_20,New Orleans Saints,2018
+['Keith Kirkwood'],Out: Calf,week_20,New Orleans Saints,2018
+['Daniel Lasco'],Injured Reserve: Neck,week_20,New Orleans Saints,2018
+['Josh LeRibeus'],Injured Reserve: Ankle,week_20,New Orleans Saints,2018
+['Tommylee Lewis'],NA,week_20,New Orleans Saints,2018
+['Mitchell Loewen'],NA,week_20,New Orleans Saints,2018
+['Cameron Meredith'],Injured Reserve: Knee,week_20,New Orleans Saints,2018
+['Michael Ola'],Injured Reserve: Ankle,week_20,New Orleans Saints,2018
+['Andrus Peat'],NA,week_20,New Orleans Saints,2018
+['Sheldon Rankins'],Injured Reserve: Achilles,week_20,New Orleans Saints,2018
+['Patrick Robinson'],Injured Reserve: Ankle,week_20,New Orleans Saints,2018
+"[""Tre'Quan Smith""]",NA,week_20,New Orleans Saints,2018
+['Taylor Stallworth'],NA,week_20,New Orleans Saints,2018
+"[""Manti Te'o""]",NA,week_20,New Orleans Saints,2018
+['John Theus'],Injured Reserve: Illness,week_20,New Orleans Saints,2018
+['Cameron Tom'],NA,week_20,New Orleans Saints,2018
+['Shane Vereen'],Injured Reserve: Hand,week_20,New Orleans Saints,2018
+['Larry Warford'],NA,week_20,New Orleans Saints,2018
+['Ben Watson'],Questionable: Illness,week_20,New Orleans Saints,2018

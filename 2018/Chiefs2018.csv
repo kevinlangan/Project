@@ -1,0 +1,559 @@
+﻿name,injury,week,team,year
+['Eric Berry'],Doubtful: Heel,week_1,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_1,Kansas City Chiefs,2018
+['Step Durham'],NA,week_1,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],NA,week_1,Kansas City Chiefs,2018
+['Alex Ellis'],NA,week_1,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_1,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_1,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_1,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_1,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_1,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_1,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_1,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_1,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_1,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_1,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_1,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_1,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_1,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_1,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_1,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_1,Kansas City Chiefs,2018
+['Keith Reaser'],NA,week_1,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_1,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_1,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",NA,week_1,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_1,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_1,Kansas City Chiefs,2018
+['Armani Watts'],NA,week_1,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_1,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_1,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_2,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_2,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_2,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],NA,week_2,Kansas City Chiefs,2018
+['Alex Ellis'],NA,week_2,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_2,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_2,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_2,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_2,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_2,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_2,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_2,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_2,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_2,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_2,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_2,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_2,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_2,Kansas City Chiefs,2018
+['Ben Niemann'],Out: Hamstring,week_2,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_2,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_2,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_2,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_2,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_2,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",NA,week_2,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_2,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_2,Kansas City Chiefs,2018
+['Armani Watts'],NA,week_2,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_2,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_2,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_3,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_3,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_3,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],NA,week_3,Kansas City Chiefs,2018
+['Alex Ellis'],NA,week_3,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_3,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_3,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_3,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_3,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_3,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_3,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_3,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_3,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_3,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_3,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_3,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_3,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_3,Kansas City Chiefs,2018
+['Ben Niemann'],Doubtful: Hamstring,week_3,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_3,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_3,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_3,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_3,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_3,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",NA,week_3,Kansas City Chiefs,2018
+['Spencer Ware'],Questionable: Knee,week_3,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_3,Kansas City Chiefs,2018
+['Armani Watts'],NA,week_3,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_3,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_3,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_4,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_4,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_4,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],NA,week_4,Kansas City Chiefs,2018
+['Alex Ellis'],NA,week_4,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_4,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_4,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_4,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_4,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_4,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_4,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_4,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_4,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_4,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_4,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_4,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_4,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_4,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_4,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_4,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_4,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_4,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_4,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_4,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",NA,week_4,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_4,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_4,Kansas City Chiefs,2018
+['Armani Watts'],NA,week_4,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_4,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_4,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_5,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_5,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_5,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],NA,week_5,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_5,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_5,Kansas City Chiefs,2018
+['Dee Ford'],Questionable: Groin,week_5,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_5,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_5,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_5,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_5,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_5,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_5,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_5,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_5,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_5,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_5,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_5,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_5,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_5,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_5,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_5,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_5,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_5,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",NA,week_5,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_5,Kansas City Chiefs,2018
+['Sammy Watkins'],Questionable: Hamstring,week_5,Kansas City Chiefs,2018
+['Armani Watts'],Questionable: Groin,week_5,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_5,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_5,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_6,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_6,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_6,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_6,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_6,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_6,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_6,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_6,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_6,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_6,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_6,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_6,Kansas City Chiefs,2018
+['Justin Houston'],Doubtful: Hamstring,week_6,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_6,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],Questionable: Ankle,week_6,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_6,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_6,Kansas City Chiefs,2018
+['Eric Murray'],Out: Ankle,week_6,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_6,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_6,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_6,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_6,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_6,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_6,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Out: Tibia,week_6,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_6,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_6,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_6,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_6,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_6,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_7,Kansas City Chiefs,2018
+['Jordan Devey'],NA,week_7,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_7,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_7,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_7,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_7,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_7,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_7,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_7,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_7,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_7,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_7,Kansas City Chiefs,2018
+['Justin Houston'],Doubtful: Hamstring,week_7,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_7,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],Questionable: Ankle,week_7,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_7,Kansas City Chiefs,2018
+['Mitch Morse'],Out: Concussion,week_7,Kansas City Chiefs,2018
+['Eric Murray'],Questionable: Ankle,week_7,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_7,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_7,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_7,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_7,Kansas City Chiefs,2018
+['Terrance Smith'],NA,week_7,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_7,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_7,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_7,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_7,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_7,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_7,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_7,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_8,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_8,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_8,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_8,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_8,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_8,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_8,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_8,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_8,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_8,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_8,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_8,Kansas City Chiefs,2018
+['Justin Houston'],Doubtful: Hamstring,week_8,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_8,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_8,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_8,Kansas City Chiefs,2018
+['Mitch Morse'],Out: Concussion,week_8,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_8,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_8,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_8,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_8,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_8,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_8,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_8,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_8,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_8,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_8,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_8,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_8,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_9,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_9,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_9,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_9,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_9,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_9,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_9,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_9,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_9,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_9,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_9,Kansas City Chiefs,2018
+['Anthony Hitchens'],Questionable: Rib,week_9,Kansas City Chiefs,2018
+['Justin Houston'],Questionable: Hamstring,week_9,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_9,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_9,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_9,Kansas City Chiefs,2018
+['Mitch Morse'],Out: Concussion,week_9,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_9,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_9,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_9,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_9,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_9,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2018
+['Daniel Sorensen'],Injured Reserve: Knee,week_9,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_9,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_9,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_9,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_9,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_9,Kansas City Chiefs,2018
+['Frank Zombo'],Out: Hamstring,week_9,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_10,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_10,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_10,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_10,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_10,Kansas City Chiefs,2018
+['Cameron Erving'],Questionable: Illness,week_10,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_10,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_10,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_10,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_10,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_10,Kansas City Chiefs,2018
+['Anthony Hitchens'],Questionable: Rib,week_10,Kansas City Chiefs,2018
+['Justin Houston'],Questionable: Hamstring,week_10,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_10,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_10,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_10,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_10,Kansas City Chiefs,2018
+['Mitch Morse'],Out: Concussion,week_10,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_10,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_10,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_10,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_10,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_10,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_10,Kansas City Chiefs,2018
+['Daniel Sorensen'],Questionable: Knee,week_10,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_10,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_10,Kansas City Chiefs,2018
+['Sammy Watkins'],Questionable: Foot,week_10,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_10,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_10,Kansas City Chiefs,2018
+['Frank Zombo'],Questionable: Hamstring,week_10,Kansas City Chiefs,2018
+['Eric Berry'],Doubtful: Heel,week_11,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_11,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_11,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_11,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_11,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_11,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_11,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_11,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_11,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_11,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_11,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_11,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_11,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_11,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_11,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_11,Kansas City Chiefs,2018
+['Mitch Morse'],Out: Concussion,week_11,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_11,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_11,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_11,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_11,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_11,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_11,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_11,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_11,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_11,Kansas City Chiefs,2018
+['Sammy Watkins'],Questionable: Foot,week_11,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_11,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_11,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_11,Kansas City Chiefs,2018
+['Eric Berry'],Questionable: Heel,week_13,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_13,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_13,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_13,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_13,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_13,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_13,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_13,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_13,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_13,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_13,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_13,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_13,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_13,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_13,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_13,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_13,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_13,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_13,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_13,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_13,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_13,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_13,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_13,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_13,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_13,Kansas City Chiefs,2018
+['Sammy Watkins'],Out: Foot,week_13,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_13,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_13,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_13,Kansas City Chiefs,2018
+['Eric Berry'],Questionable: Heel,week_14,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_14,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_14,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_14,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_14,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_14,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_14,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_14,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_14,Kansas City Chiefs,2018
+['Demetrius Harris'],Questionable: Knee,week_14,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_14,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_14,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_14,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_14,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_14,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_14,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_14,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_14,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_14,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_14,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_14,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_14,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_14,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_14,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_14,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_14,Kansas City Chiefs,2018
+['Sammy Watkins'],Doubtful: Foot,week_14,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_14,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_14,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_14,Kansas City Chiefs,2018
+['Eric Berry'],Questionable: Heel,week_15,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_15,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_15,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_15,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_15,Kansas City Chiefs,2018
+['Cameron Erving'],Doubtful: Knee,week_15,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_15,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_15,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_15,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_15,Kansas City Chiefs,2018
+['Tyreek Hill'],Questionable: Heel,week_15,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_15,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_15,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_15,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_15,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_15,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_15,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_15,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_15,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_15,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_15,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_15,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_15,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_15,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_15,Kansas City Chiefs,2018
+['Spencer Ware'],Doubtful: Shoulder,week_15,Kansas City Chiefs,2018
+['Sammy Watkins'],Out: Foot,week_15,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_15,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_15,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_15,Kansas City Chiefs,2018
+['Eric Berry'],NA,week_16,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_16,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_16,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_16,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_16,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_16,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_16,Kansas City Chiefs,2018
+['Kendall Fuller'],Questionable: Thumb,week_16,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_16,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_16,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_16,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_16,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_16,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_16,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_16,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_16,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_16,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_16,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_16,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_16,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_16,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_16,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_16,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_16,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_16,Kansas City Chiefs,2018
+['Spencer Ware'],Doubtful: Hamstring,week_16,Kansas City Chiefs,2018
+['Sammy Watkins'],Out: Heel,week_16,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_16,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_16,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_16,Kansas City Chiefs,2018
+['Eric Berry'],Questionable: Heel,week_17,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_17,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_17,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_17,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_17,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_17,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_17,Kansas City Chiefs,2018
+['Kendall Fuller'],Questionable: Thumb,week_17,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_17,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_17,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_17,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_17,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_17,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_17,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_17,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_17,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_17,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_17,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_17,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",NA,week_17,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_17,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_17,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_17,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_17,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_17,Kansas City Chiefs,2018
+['Spencer Ware'],Questionable: Hamstring,week_17,Kansas City Chiefs,2018
+['Sammy Watkins'],Out: Foot,week_17,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_17,Kansas City Chiefs,2018
+['Darrel Williams'],Questionable: Hamstring,week_17,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_17,Kansas City Chiefs,2018
+['Eric Berry'],Questionable: Heel,week_19,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_19,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_19,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_19,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_19,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_19,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_19,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_19,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_19,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_19,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_19,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_19,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_19,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_19,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_19,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_19,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_19,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_19,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_19,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",Doubtful: Calf,week_19,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_19,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_19,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_19,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_19,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_19,Kansas City Chiefs,2018
+['Spencer Ware'],Questionable: Hamstring,week_19,Kansas City Chiefs,2018
+['Sammy Watkins'],Questionable: Foot,week_19,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_19,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_19,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_19,Kansas City Chiefs,2018
+['Eric Berry'],NA,week_20,Kansas City Chiefs,2018
+['Jordan Devey'],Injured Reserve: Pectoral,week_20,Kansas City Chiefs,2018
+['Step Durham'],Injured Reserve: Undisclosed,week_20,Kansas City Chiefs,2018
+['Laurent Duvernay-Tardif'],Injured Reserve: Shin,week_20,Kansas City Chiefs,2018
+['Alex Ellis'],Injured Reserve: Undisclosed,week_20,Kansas City Chiefs,2018
+['Cameron Erving'],NA,week_20,Kansas City Chiefs,2018
+['Dee Ford'],NA,week_20,Kansas City Chiefs,2018
+['Kendall Fuller'],NA,week_20,Kansas City Chiefs,2018
+['Dillon Gordon'],Injured Reserve: Shoulder,week_20,Kansas City Chiefs,2018
+['Demetrius Harris'],NA,week_20,Kansas City Chiefs,2018
+['Tyreek Hill'],NA,week_20,Kansas City Chiefs,2018
+['Anthony Hitchens'],NA,week_20,Kansas City Chiefs,2018
+['Justin Houston'],NA,week_20,Kansas City Chiefs,2018
+['Akeem Hunt'],Injured Reserve: Ankle,week_20,Kansas City Chiefs,2018
+['Tejan Koroma'],Injured Reserve: Knee,week_20,Kansas City Chiefs,2018
+['Tanoh Kpassagnon'],NA,week_20,Kansas City Chiefs,2018
+['J.D. Moore'],Injured Reserve: Undisclosed,week_20,Kansas City Chiefs,2018
+['Mitch Morse'],NA,week_20,Kansas City Chiefs,2018
+['Eric Murray'],NA,week_20,Kansas City Chiefs,2018
+['Ben Niemann'],NA,week_20,Kansas City Chiefs,2018
+"[""Dorian O'Daniel""]",Out: Ankle,week_20,Kansas City Chiefs,2018
+['Byron Pringle'],Injured Reserve: Hamstring,week_20,Kansas City Chiefs,2018
+['Keith Reaser'],Injured Reserve: Quadricep,week_20,Kansas City Chiefs,2018
+['Terrance Smith'],Injured Reserve: Knee,week_20,Kansas City Chiefs,2018
+['Daniel Sorensen'],NA,week_20,Kansas City Chiefs,2018
+"[""De'Anthony Thomas""]",Injured Reserve: Leg,week_20,Kansas City Chiefs,2018
+['Spencer Ware'],NA,week_20,Kansas City Chiefs,2018
+['Sammy Watkins'],NA,week_20,Kansas City Chiefs,2018
+['Armani Watts'],Injured Reserve: Groin,week_20,Kansas City Chiefs,2018
+['Darrel Williams'],NA,week_20,Kansas City Chiefs,2018
+['Frank Zombo'],NA,week_20,Kansas City Chiefs,2018

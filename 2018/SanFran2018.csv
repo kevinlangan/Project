@@ -1,0 +1,625 @@
+﻿name,injury,week,team,year
+['C.J. Beathard'],NA,week_1,San Francisco 49ers,2018
+['Matt Breida'],NA,week_1,San Francisco 49ers,2018
+['Aaron Burbridge'],NA,week_1,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_1,San Francisco 49ers,2018
+['Adrian Colbert'],NA,week_1,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_1,San Francisco 49ers,2018
+['Brock Coyle'],NA,week_1,San Francisco 49ers,2018
+['Antone Exum'],NA,week_1,San Francisco 49ers,2018
+['JP Flynn'],NA,week_1,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_1,San Francisco 49ers,2018
+['Pierre Garcon'],NA,week_1,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_1,San Francisco 49ers,2018
+['Jimmy Garoppolo'],NA,week_1,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_1,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_1,San Francisco 49ers,2018
+['George Kittle'],NA,week_1,San Francisco 49ers,2018
+['Erik Magnuson'],Out: Hamstring,week_1,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_1,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_1,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_1,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_1,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_1,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_1,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_1,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_1,San Francisco 49ers,2018
+['Michael Person'],NA,week_1,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_1,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_1,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_1,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_1,San Francisco 49ers,2018
+['Malcolm Smith'],Doubtful: Hamstring,week_1,San Francisco 49ers,2018
+['Joe Staley'],NA,week_1,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_1,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_1,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_1,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_1,San Francisco 49ers,2018
+['Dekoda Watson'],Out: Hamstring,week_1,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_1,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_1,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_2,San Francisco 49ers,2018
+['Matt Breida'],NA,week_2,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_2,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_2,San Francisco 49ers,2018
+['Adrian Colbert'],Questionable: Hamstring,week_2,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_2,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_2,San Francisco 49ers,2018
+['Antone Exum'],NA,week_2,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_2,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_2,San Francisco 49ers,2018
+['Pierre Garcon'],NA,week_2,San Francisco 49ers,2018
+['Joshua Garnett'],Out: Toe,week_2,San Francisco 49ers,2018
+['Jimmy Garoppolo'],NA,week_2,San Francisco 49ers,2018
+['Marquise Goodwin'],Out: Quadricep,week_2,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_2,San Francisco 49ers,2018
+['George Kittle'],NA,week_2,San Francisco 49ers,2018
+['Erik Magnuson'],Out: Hamstring,week_2,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_2,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_2,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_2,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_2,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_2,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_2,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_2,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_2,San Francisco 49ers,2018
+['Michael Person'],Questionable: Foot,week_2,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_2,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_2,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_2,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_2,San Francisco 49ers,2018
+['Malcolm Smith'],Questionable: Hamstring,week_2,San Francisco 49ers,2018
+['Joe Staley'],NA,week_2,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_2,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_2,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_2,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_2,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_2,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_2,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_2,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_3,San Francisco 49ers,2018
+['Matt Breida'],NA,week_3,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_3,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_3,San Francisco 49ers,2018
+['Adrian Colbert'],NA,week_3,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_3,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_3,San Francisco 49ers,2018
+['Antone Exum'],NA,week_3,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_3,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_3,San Francisco 49ers,2018
+['Pierre Garcon'],NA,week_3,San Francisco 49ers,2018
+['Joshua Garnett'],Out: Toe,week_3,San Francisco 49ers,2018
+['Jimmy Garoppolo'],NA,week_3,San Francisco 49ers,2018
+['Marquise Goodwin'],Questionable: Quadricep,week_3,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_3,San Francisco 49ers,2018
+['George Kittle'],NA,week_3,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_3,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_3,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_3,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_3,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_3,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_3,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_3,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_3,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_3,San Francisco 49ers,2018
+['Michael Person'],NA,week_3,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_3,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_3,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_3,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_3,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_3,San Francisco 49ers,2018
+['Joe Staley'],NA,week_3,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_3,San Francisco 49ers,2018
+['Jaquiski Tartt'],Questionable: Shoulder,week_3,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_3,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_3,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_3,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_3,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_3,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_4,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Knee,week_4,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_4,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_4,San Francisco 49ers,2018
+['Adrian Colbert'],Questionable: Hip,week_4,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_4,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_4,San Francisco 49ers,2018
+['Antone Exum'],Questionable: Quadricep,week_4,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_4,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_4,San Francisco 49ers,2018
+['Pierre Garcon'],NA,week_4,San Francisco 49ers,2018
+['Joshua Garnett'],Out: Toe,week_4,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_4,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_4,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_4,San Francisco 49ers,2018
+['George Kittle'],NA,week_4,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_4,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_4,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_4,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_4,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_4,San Francisco 49ers,2018
+['Alfred Morris'],Questionable: Knee,week_4,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_4,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_4,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_4,San Francisco 49ers,2018
+['Michael Person'],NA,week_4,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_4,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_4,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_4,San Francisco 49ers,2018
+['Richard Sherman'],Out: Calf,week_4,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_4,San Francisco 49ers,2018
+['Joe Staley'],NA,week_4,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_4,San Francisco 49ers,2018
+['Jaquiski Tartt'],Doubtful: Shoulder,week_4,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_4,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_4,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_4,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_4,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_4,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_5,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Shoulder,week_5,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_5,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_5,San Francisco 49ers,2018
+['Adrian Colbert'],NA,week_5,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_5,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_5,San Francisco 49ers,2018
+['Antone Exum'],NA,week_5,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_5,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_5,San Francisco 49ers,2018
+['Pierre Garcon'],NA,week_5,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_5,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_5,San Francisco 49ers,2018
+['Marquise Goodwin'],Questionable: Hamstring,week_5,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_5,San Francisco 49ers,2018
+['George Kittle'],NA,week_5,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_5,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_5,San Francisco 49ers,2018
+['Mike McGlinchey'],Questionable: Knee,week_5,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_5,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_5,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_5,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_5,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_5,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_5,San Francisco 49ers,2018
+['Michael Person'],NA,week_5,San Francisco 49ers,2018
+['Dante Pettis'],Out: Knee,week_5,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_5,San Francisco 49ers,2018
+['Weston Richburg'],Questionable: Knee,week_5,San Francisco 49ers,2018
+['Richard Sherman'],Questionable: Calf,week_5,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_5,San Francisco 49ers,2018
+['Joe Staley'],Questionable: Knee,week_5,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_5,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_5,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_5,San Francisco 49ers,2018
+['Jimmie Ward'],Questionable: Hamstring,week_5,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_5,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_5,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_5,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_6,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Shoulder,week_6,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_6,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_6,San Francisco 49ers,2018
+['Adrian Colbert'],NA,week_6,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_6,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_6,San Francisco 49ers,2018
+['Antone Exum'],NA,week_6,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_6,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_6,San Francisco 49ers,2018
+['Pierre Garcon'],Questionable: Shoulder,week_6,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_6,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_6,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_6,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_6,San Francisco 49ers,2018
+['George Kittle'],Questionable: Knee,week_6,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_6,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_6,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_6,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_6,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_6,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_6,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_6,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_6,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_6,San Francisco 49ers,2018
+['Michael Person'],Questionable: Knee,week_6,San Francisco 49ers,2018
+['Dante Pettis'],Out: Knee,week_6,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_6,San Francisco 49ers,2018
+['Weston Richburg'],Questionable: Knee,week_6,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_6,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_6,San Francisco 49ers,2018
+['Joe Staley'],Questionable: Knee,week_6,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_6,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_6,San Francisco 49ers,2018
+['Trent Taylor'],Doubtful: Back,week_6,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_6,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_6,San Francisco 49ers,2018
+"[""K'Waun Williams""]",Questionable: Illness,week_6,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_6,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_7,San Francisco 49ers,2018
+['Matt Breida'],NA,week_7,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_7,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_7,San Francisco 49ers,2018
+['Adrian Colbert'],NA,week_7,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_7,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_7,San Francisco 49ers,2018
+['Antone Exum'],NA,week_7,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_7,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_7,San Francisco 49ers,2018
+['Pierre Garcon'],Questionable: Shoulder,week_7,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_7,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_7,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_7,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_7,San Francisco 49ers,2018
+['George Kittle'],NA,week_7,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_7,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_7,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_7,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_7,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_7,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_7,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_7,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_7,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_7,San Francisco 49ers,2018
+['Michael Person'],NA,week_7,San Francisco 49ers,2018
+['Dante Pettis'],Out: Knee,week_7,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_7,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_7,San Francisco 49ers,2018
+['Richard Sherman'],Questionable: Calf,week_7,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_7,San Francisco 49ers,2018
+['Joe Staley'],NA,week_7,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_7,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_7,San Francisco 49ers,2018
+['Trent Taylor'],Questionable: Back,week_7,San Francisco 49ers,2018
+['Jimmie Ward'],Doubtful: Hamstring,week_7,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_7,San Francisco 49ers,2018
+"[""K'Waun Williams""]",Questionable: Shoulder,week_7,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_7,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_8,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Ankle,week_8,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_8,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_8,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_8,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_8,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_8,San Francisco 49ers,2018
+['Antone Exum'],NA,week_8,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_8,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_8,San Francisco 49ers,2018
+['Pierre Garcon'],Doubtful: Shoulder,week_8,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_8,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_8,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_8,San Francisco 49ers,2018
+['Marcell Harris'],Injured Reserve: Achilles,week_8,San Francisco 49ers,2018
+['George Kittle'],NA,week_8,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_8,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_8,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_8,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_8,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_8,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_8,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_8,San Francisco 49ers,2018
+['Raheem Mostert'],NA,week_8,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_8,San Francisco 49ers,2018
+['Michael Person'],NA,week_8,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_8,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_8,San Francisco 49ers,2018
+['Weston Richburg'],Questionable: Knee,week_8,San Francisco 49ers,2018
+['Richard Sherman'],Questionable: Calf,week_8,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_8,San Francisco 49ers,2018
+['Joe Staley'],NA,week_8,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_8,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_8,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_8,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_8,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_8,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_8,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_8,San Francisco 49ers,2018
+['C.J. Beathard'],Questionable: rightWrist,week_9,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Ankle,week_9,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_9,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_9,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_9,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_9,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_9,San Francisco 49ers,2018
+['Antone Exum'],Out: Concussion,week_9,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_9,San Francisco 49ers,2018
+['Reuben Foster'],Out: Hamstring,week_9,San Francisco 49ers,2018
+['Pierre Garcon'],Questionable: Shoulder,week_9,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_9,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_9,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_9,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_9,San Francisco 49ers,2018
+['George Kittle'],NA,week_9,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_9,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_9,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_9,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_9,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_9,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_9,San Francisco 49ers,2018
+['Emmanuel Moseley'],NA,week_9,San Francisco 49ers,2018
+['Raheem Mostert'],Questionable: Ankle,week_9,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_9,San Francisco 49ers,2018
+['Michael Person'],NA,week_9,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_9,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_9,San Francisco 49ers,2018
+['Weston Richburg'],Questionable: Knee,week_9,San Francisco 49ers,2018
+['Richard Sherman'],Questionable: Calf,week_9,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_9,San Francisco 49ers,2018
+['Joe Staley'],NA,week_9,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_9,San Francisco 49ers,2018
+['Jaquiski Tartt'],Out: Shoulder,week_9,San Francisco 49ers,2018
+['Trent Taylor'],Injured Reserve: Back,week_9,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_9,San Francisco 49ers,2018
+['Dekoda Watson'],NA,week_9,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_9,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_9,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_10,San Francisco 49ers,2018
+['Matt Breida'],NA,week_10,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_10,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_10,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_10,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_10,San Francisco 49ers,2018
+['Antone Exum'],NA,week_10,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Reuben Foster'],Out: Hamstring,week_10,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_10,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_10,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_10,San Francisco 49ers,2018
+['George Kittle'],NA,week_10,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_10,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_10,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_10,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_10,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_10,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_10,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_10,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_10,San Francisco 49ers,2018
+['Michael Person'],NA,week_10,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_10,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_10,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_10,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_10,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_10,San Francisco 49ers,2018
+['Joe Staley'],NA,week_10,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_10,San Francisco 49ers,2018
+['Jaquiski Tartt'],Out: Shoulder,week_10,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_10,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_10,San Francisco 49ers,2018
+['Dekoda Watson'],NA,week_10,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_10,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_10,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_12,San Francisco 49ers,2018
+['Matt Breida'],NA,week_12,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_12,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_12,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_12,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_12,San Francisco 49ers,2018
+['Antone Exum'],NA,week_12,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Reuben Foster'],Questionable: Hamstring,week_12,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Joshua Garnett'],Out: Thumb,week_12,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_12,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_12,San Francisco 49ers,2018
+['George Kittle'],NA,week_12,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_12,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_12,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_12,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_12,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_12,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_12,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_12,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_12,San Francisco 49ers,2018
+['Michael Person'],NA,week_12,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_12,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_12,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_12,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_12,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_12,San Francisco 49ers,2018
+['Joe Staley'],NA,week_12,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_12,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_12,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_12,San Francisco 49ers,2018
+['Jimmie Ward'],NA,week_12,San Francisco 49ers,2018
+['Dekoda Watson'],NA,week_12,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_12,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_12,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_13,San Francisco 49ers,2018
+['Matt Breida'],NA,week_13,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_13,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_13,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_13,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_13,San Francisco 49ers,2018
+['Antone Exum'],NA,week_13,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_13,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Joshua Garnett'],Out: Thumb,week_13,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Marquise Goodwin'],Out: NotInjuryRelated,week_13,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_13,San Francisco 49ers,2018
+['George Kittle'],NA,week_13,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_13,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_13,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_13,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_13,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_13,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_13,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_13,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_13,San Francisco 49ers,2018
+['Michael Person'],NA,week_13,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_13,San Francisco 49ers,2018
+['D.J. Reed'],Out: Heel,week_13,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_13,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_13,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_13,San Francisco 49ers,2018
+['Joe Staley'],NA,week_13,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_13,San Francisco 49ers,2018
+['Jaquiski Tartt'],NA,week_13,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_13,San Francisco 49ers,2018
+['Jimmie Ward'],Injured Reserve: Forearm,week_13,San Francisco 49ers,2018
+['Dekoda Watson'],NA,week_13,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_13,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_13,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_14,San Francisco 49ers,2018
+['Matt Breida'],Out: Ankle,week_14,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_14,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_14,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_14,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_14,San Francisco 49ers,2018
+['Antone Exum'],NA,week_14,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_14,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_14,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_14,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_14,San Francisco 49ers,2018
+['George Kittle'],NA,week_14,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_14,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_14,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_14,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_14,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_14,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_14,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_14,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_14,San Francisco 49ers,2018
+['Michael Person'],NA,week_14,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_14,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_14,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_14,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_14,San Francisco 49ers,2018
+['Malcolm Smith'],Injured Reserve: Leg,week_14,San Francisco 49ers,2018
+['Joe Staley'],NA,week_14,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_14,San Francisco 49ers,2018
+['Jaquiski Tartt'],Injured Reserve: Shoulder,week_14,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_14,San Francisco 49ers,2018
+['Jimmie Ward'],Injured Reserve: Forearm,week_14,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_14,San Francisco 49ers,2018
+"[""K'Waun Williams""]",Questionable: Knee,week_14,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_14,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_15,San Francisco 49ers,2018
+['Matt Breida'],Questionable: Ankle,week_15,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_15,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_15,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_15,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_15,San Francisco 49ers,2018
+['Antone Exum'],NA,week_15,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_15,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_15,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Marquise Goodwin'],Questionable: Calf,week_15,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_15,San Francisco 49ers,2018
+['George Kittle'],NA,week_15,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_15,San Francisco 49ers,2018
+['Cassius Marsh'],Questionable: Concussion,week_15,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_15,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_15,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_15,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_15,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_15,San Francisco 49ers,2018
+['Mark Nzeocha'],Questionable: Groin,week_15,San Francisco 49ers,2018
+['Michael Person'],NA,week_15,San Francisco 49ers,2018
+['Dante Pettis'],Questionable: Foot,week_15,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_15,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_15,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_15,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_15,San Francisco 49ers,2018
+['Joe Staley'],NA,week_15,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_15,San Francisco 49ers,2018
+['Jaquiski Tartt'],Injured Reserve: Shoulder,week_15,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_15,San Francisco 49ers,2018
+['Jimmie Ward'],Injured Reserve: Forearm,week_15,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_15,San Francisco 49ers,2018
+"[""K'Waun Williams""]",Questionable: Knee,week_15,San Francisco 49ers,2018
+['Ahkello Witherspoon'],NA,week_15,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_16,San Francisco 49ers,2018
+['Matt Breida'],NA,week_16,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_16,San Francisco 49ers,2018
+['Garrett Celek'],NA,week_16,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_16,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_16,San Francisco 49ers,2018
+['Antone Exum'],NA,week_16,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_16,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_16,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Marquise Goodwin'],NA,week_16,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_16,San Francisco 49ers,2018
+['George Kittle'],NA,week_16,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_16,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_16,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_16,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Tarvarius Moore'],NA,week_16,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_16,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_16,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_16,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_16,San Francisco 49ers,2018
+['Michael Person'],NA,week_16,San Francisco 49ers,2018
+['Dante Pettis'],NA,week_16,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_16,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_16,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_16,San Francisco 49ers,2018
+['Malcolm Smith'],Injured Reserve: Leg,week_16,San Francisco 49ers,2018
+['Joe Staley'],NA,week_16,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['Jaquiski Tartt'],Out: Shoulder,week_16,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_16,San Francisco 49ers,2018
+['Jimmie Ward'],Injured Reserve: Forearm,week_16,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_16,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_16,San Francisco 49ers,2018
+['Ahkello Witherspoon'],Injured Reserve: Knee,week_16,San Francisco 49ers,2018
+['C.J. Beathard'],NA,week_17,San Francisco 49ers,2018
+['Matt Breida'],Out: Ankle,week_17,San Francisco 49ers,2018
+['Aaron Burbridge'],Injured Reserve: Hamstring,week_17,San Francisco 49ers,2018
+['Garrett Celek'],Out: Concussion,week_17,San Francisco 49ers,2018
+['Adrian Colbert'],Injured Reserve: Ankle,week_17,San Francisco 49ers,2018
+['Jonathan Cooper'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Brock Coyle'],Injured Reserve: Concussion,week_17,San Francisco 49ers,2018
+['Antone Exum'],NA,week_17,San Francisco 49ers,2018
+['JP Flynn'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Reuben Foster'],NA,week_17,San Francisco 49ers,2018
+['Pierre Garcon'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Joshua Garnett'],NA,week_17,San Francisco 49ers,2018
+['Jimmy Garoppolo'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Marquise Goodwin'],Out: Calf,week_17,San Francisco 49ers,2018
+['Marcell Harris'],NA,week_17,San Francisco 49ers,2018
+['George Kittle'],NA,week_17,San Francisco 49ers,2018
+['Erik Magnuson'],NA,week_17,San Francisco 49ers,2018
+['Cassius Marsh'],NA,week_17,San Francisco 49ers,2018
+['Mike McGlinchey'],NA,week_17,San Francisco 49ers,2018
+['Jerick McKinnon'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Tarvarius Moore'],Questionable: Shoulder,week_17,San Francisco 49ers,2018
+['Alfred Morris'],NA,week_17,San Francisco 49ers,2018
+['Emmanuel Moseley'],Injured Reserve: Arm,week_17,San Francisco 49ers,2018
+['Raheem Mostert'],Injured Reserve: Forearm,week_17,San Francisco 49ers,2018
+['Mark Nzeocha'],NA,week_17,San Francisco 49ers,2018
+['Michael Person'],NA,week_17,San Francisco 49ers,2018
+['Dante Pettis'],Out: Knee,week_17,San Francisco 49ers,2018
+['D.J. Reed'],NA,week_17,San Francisco 49ers,2018
+['Weston Richburg'],NA,week_17,San Francisco 49ers,2018
+['Richard Sherman'],NA,week_17,San Francisco 49ers,2018
+['Malcolm Smith'],NA,week_17,San Francisco 49ers,2018
+['Joe Staley'],NA,week_17,San Francisco 49ers,2018
+['Kentavius Street'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
+['Jaquiski Tartt'],Injured Reserve: Shoulder,week_17,San Francisco 49ers,2018
+['Trent Taylor'],NA,week_17,San Francisco 49ers,2018
+['Jimmie Ward'],Injured Reserve: Forearm,week_17,San Francisco 49ers,2018
+['Dekoda Watson'],Injured Reserve: Calf,week_17,San Francisco 49ers,2018
+"[""K'Waun Williams""]",NA,week_17,San Francisco 49ers,2018
+['Ahkello Witherspoon'],Injured Reserve: Knee,week_17,San Francisco 49ers,2018
