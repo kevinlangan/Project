@@ -1,0 +1,833 @@
+﻿name,injury,week,team,year
+['Prince Amukamara'],NA,week_1,New York Giants,2013
+['David Baas'],Questionable: knee,week_1,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_1,New York Giants,2013
+['Will Beatty'],NA,week_1,New York Giants,2013
+['James Brewer'],NA,week_1,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_1,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_1,New York Giants,2013
+['Selvish Capers'],Injured Reserve: knee,week_1,New York Giants,2013
+['John Conner'],NA,week_1,New York Giants,2013
+['Dan Connor'],Questionable: neck,week_1,New York Giants,2013
+['Jim Cordle'],NA,week_1,New York Giants,2013
+['Victor Cruz'],Questionable: heel,week_1,New York Giants,2013
+['Zak DeOssie'],NA,week_1,New York Giants,2013
+['David Diehl'],Out: hand,week_1,New York Giants,2013
+['Mark Herzlich'],NA,week_1,New York Giants,2013
+['Will Hill'],NA,week_1,New York Giants,2013
+['Peyton Hillis'],NA,week_1,New York Giants,2013
+['Jayron Hosley'],Probable: ankle,week_1,New York Giants,2013
+['Henry Hynoski'],Probable: knee,week_1,New York Giants,2013
+['Brandon Jacobs'],NA,week_1,New York Giants,2013
+['Cullen Jenkins'],NA,week_1,New York Giants,2013
+['Jerrel Jernigan'],NA,week_1,New York Giants,2013
+['Linval Joseph'],NA,week_1,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_1,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_1,New York Giants,2013
+['Eli Manning'],NA,week_1,New York Giants,2013
+['Trumaine McBride'],NA,week_1,New York Giants,2013
+['Damontre Moore'],Questionable: shoulder,week_1,New York Giants,2013
+['Brandon Mosley'],NA,week_1,New York Giants,2013
+['Ryan Mundy'],NA,week_1,New York Giants,2013
+['Louis Murphy'],NA,week_1,New York Giants,2013
+['Brandon Myers'],NA,week_1,New York Giants,2013
+['Ryan Nassib'],NA,week_1,New York Giants,2013
+['Hakeem Nicks'],NA,week_1,New York Giants,2013
+['Bear Pascoe'],NA,week_1,New York Giants,2013
+['Spencer Paysinger'],NA,week_1,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: back,week_1,New York Giants,2013
+['Rueben Randle'],NA,week_1,New York Giants,2013
+['Adrien Robinson'],Out: foot,week_1,New York Giants,2013
+['Shaun Rogers'],NA,week_1,New York Giants,2013
+['Antrel Rolle'],NA,week_1,New York Giants,2013
+['Aaron Ross'],NA,week_1,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_1,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_1,New York Giants,2013
+['Chris Snee'],NA,week_1,New York Giants,2013
+['Cooper Taylor'],NA,week_1,New York Giants,2013
+['Terrell Thomas'],NA,week_1,New York Giants,2013
+['Justin Trattou'],NA,week_1,New York Giants,2013
+['Justin Tuck'],NA,week_1,New York Giants,2013
+['Corey Webster'],NA,week_1,New York Giants,2013
+['Jacquian Williams'],NA,week_1,New York Giants,2013
+['David Wilson'],NA,week_1,New York Giants,2013
+['Prince Amukamara'],Doubtful: concussion,week_2,New York Giants,2013
+['David Baas'],Questionable: knee,week_2,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_2,New York Giants,2013
+['Will Beatty'],NA,week_2,New York Giants,2013
+['James Brewer'],NA,week_2,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_2,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_2,New York Giants,2013
+['Selvish Capers'],NA,week_2,New York Giants,2013
+['John Conner'],NA,week_2,New York Giants,2013
+['Dan Connor'],Questionable: neck,week_2,New York Giants,2013
+['Jim Cordle'],NA,week_2,New York Giants,2013
+['Victor Cruz'],NA,week_2,New York Giants,2013
+['Zak DeOssie'],NA,week_2,New York Giants,2013
+['David Diehl'],Out: hand,week_2,New York Giants,2013
+['Mark Herzlich'],NA,week_2,New York Giants,2013
+['Will Hill'],NA,week_2,New York Giants,2013
+['Peyton Hillis'],NA,week_2,New York Giants,2013
+['Jayron Hosley'],NA,week_2,New York Giants,2013
+['Henry Hynoski'],NA,week_2,New York Giants,2013
+['Brandon Jacobs'],NA,week_2,New York Giants,2013
+['Cullen Jenkins'],NA,week_2,New York Giants,2013
+['Jerrel Jernigan'],NA,week_2,New York Giants,2013
+['Linval Joseph'],NA,week_2,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_2,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_2,New York Giants,2013
+['Eli Manning'],NA,week_2,New York Giants,2013
+['Trumaine McBride'],NA,week_2,New York Giants,2013
+['Damontre Moore'],Questionable: shoulder,week_2,New York Giants,2013
+['Brandon Mosley'],NA,week_2,New York Giants,2013
+['Ryan Mundy'],NA,week_2,New York Giants,2013
+['Louis Murphy'],NA,week_2,New York Giants,2013
+['Brandon Myers'],NA,week_2,New York Giants,2013
+['Ryan Nassib'],NA,week_2,New York Giants,2013
+['Hakeem Nicks'],NA,week_2,New York Giants,2013
+['Bear Pascoe'],NA,week_2,New York Giants,2013
+['Spencer Paysinger'],NA,week_2,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_2,New York Giants,2013
+['Rueben Randle'],NA,week_2,New York Giants,2013
+['Adrien Robinson'],Out: foot,week_2,New York Giants,2013
+['Shaun Rogers'],NA,week_2,New York Giants,2013
+['Antrel Rolle'],Questionable: groin,week_2,New York Giants,2013
+['Aaron Ross'],NA,week_2,New York Giants,2013
+"[""Da'Rel Scott""]",Questionable: knee,week_2,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_2,New York Giants,2013
+['Chris Snee'],NA,week_2,New York Giants,2013
+['Cooper Taylor'],NA,week_2,New York Giants,2013
+['Terrell Thomas'],NA,week_2,New York Giants,2013
+['Justin Trattou'],NA,week_2,New York Giants,2013
+['Justin Tuck'],NA,week_2,New York Giants,2013
+['Corey Webster'],NA,week_2,New York Giants,2013
+['Jacquian Williams'],NA,week_2,New York Giants,2013
+['David Wilson'],NA,week_2,New York Giants,2013
+['Prince Amukamara'],NA,week_3,New York Giants,2013
+['David Baas'],NA,week_3,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_3,New York Giants,2013
+['Will Beatty'],NA,week_3,New York Giants,2013
+['James Brewer'],NA,week_3,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_3,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_3,New York Giants,2013
+['Selvish Capers'],NA,week_3,New York Giants,2013
+['John Conner'],NA,week_3,New York Giants,2013
+['Dan Connor'],Out: neck,week_3,New York Giants,2013
+['Jim Cordle'],NA,week_3,New York Giants,2013
+['Victor Cruz'],NA,week_3,New York Giants,2013
+['Zak DeOssie'],NA,week_3,New York Giants,2013
+['David Diehl'],Questionable: thumb,week_3,New York Giants,2013
+['Mark Herzlich'],NA,week_3,New York Giants,2013
+['Will Hill'],NA,week_3,New York Giants,2013
+['Peyton Hillis'],NA,week_3,New York Giants,2013
+['Jayron Hosley'],NA,week_3,New York Giants,2013
+['Henry Hynoski'],Questionable: shoulder,week_3,New York Giants,2013
+['Brandon Jacobs'],NA,week_3,New York Giants,2013
+['Cullen Jenkins'],NA,week_3,New York Giants,2013
+['Jerrel Jernigan'],NA,week_3,New York Giants,2013
+['Linval Joseph'],NA,week_3,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_3,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_3,New York Giants,2013
+['Eli Manning'],NA,week_3,New York Giants,2013
+['Trumaine McBride'],NA,week_3,New York Giants,2013
+['Damontre Moore'],NA,week_3,New York Giants,2013
+['Brandon Mosley'],Questionable: back,week_3,New York Giants,2013
+['Ryan Mundy'],NA,week_3,New York Giants,2013
+['Louis Murphy'],NA,week_3,New York Giants,2013
+['Brandon Myers'],NA,week_3,New York Giants,2013
+['Ryan Nassib'],Questionable: ankle,week_3,New York Giants,2013
+['Hakeem Nicks'],NA,week_3,New York Giants,2013
+['Bear Pascoe'],NA,week_3,New York Giants,2013
+['Spencer Paysinger'],NA,week_3,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_3,New York Giants,2013
+['Rueben Randle'],NA,week_3,New York Giants,2013
+['Adrien Robinson'],Out: foot,week_3,New York Giants,2013
+['Shaun Rogers'],NA,week_3,New York Giants,2013
+['Antrel Rolle'],NA,week_3,New York Giants,2013
+['Aaron Ross'],NA,week_3,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_3,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_3,New York Giants,2013
+['Chris Snee'],NA,week_3,New York Giants,2013
+['Cooper Taylor'],NA,week_3,New York Giants,2013
+['Terrell Thomas'],NA,week_3,New York Giants,2013
+['Justin Trattou'],NA,week_3,New York Giants,2013
+['Justin Tuck'],NA,week_3,New York Giants,2013
+['Corey Webster'],Questionable: hip,week_3,New York Giants,2013
+['Jacquian Williams'],NA,week_3,New York Giants,2013
+['David Wilson'],NA,week_3,New York Giants,2013
+['Prince Amukamara'],NA,week_4,New York Giants,2013
+['David Baas'],Questionable: neck,week_4,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_4,New York Giants,2013
+['Will Beatty'],NA,week_4,New York Giants,2013
+['James Brewer'],NA,week_4,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_4,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_4,New York Giants,2013
+['Selvish Capers'],NA,week_4,New York Giants,2013
+['John Conner'],NA,week_4,New York Giants,2013
+['Dan Connor'],Out: neck,week_4,New York Giants,2013
+['Jim Cordle'],NA,week_4,New York Giants,2013
+['Victor Cruz'],NA,week_4,New York Giants,2013
+['Zak DeOssie'],NA,week_4,New York Giants,2013
+['David Diehl'],Out: hand,week_4,New York Giants,2013
+['Mark Herzlich'],NA,week_4,New York Giants,2013
+['Will Hill'],NA,week_4,New York Giants,2013
+['Peyton Hillis'],NA,week_4,New York Giants,2013
+['Jayron Hosley'],NA,week_4,New York Giants,2013
+['Henry Hynoski'],Out: shoulder,week_4,New York Giants,2013
+['Brandon Jacobs'],NA,week_4,New York Giants,2013
+['Cullen Jenkins'],NA,week_4,New York Giants,2013
+['Jerrel Jernigan'],NA,week_4,New York Giants,2013
+['Linval Joseph'],NA,week_4,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_4,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_4,New York Giants,2013
+['Eli Manning'],NA,week_4,New York Giants,2013
+['Trumaine McBride'],NA,week_4,New York Giants,2013
+['Damontre Moore'],NA,week_4,New York Giants,2013
+['Brandon Mosley'],Questionable: back,week_4,New York Giants,2013
+['Ryan Mundy'],NA,week_4,New York Giants,2013
+['Louis Murphy'],NA,week_4,New York Giants,2013
+['Brandon Myers'],NA,week_4,New York Giants,2013
+['Ryan Nassib'],Questionable: ankle,week_4,New York Giants,2013
+['Hakeem Nicks'],NA,week_4,New York Giants,2013
+['Bear Pascoe'],NA,week_4,New York Giants,2013
+['Spencer Paysinger'],Questionable: hip,week_4,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_4,New York Giants,2013
+['Rueben Randle'],NA,week_4,New York Giants,2013
+['Adrien Robinson'],Questionable: foot,week_4,New York Giants,2013
+['Shaun Rogers'],NA,week_4,New York Giants,2013
+['Antrel Rolle'],NA,week_4,New York Giants,2013
+['Aaron Ross'],NA,week_4,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_4,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_4,New York Giants,2013
+['Chris Snee'],Questionable: hip,week_4,New York Giants,2013
+['Cooper Taylor'],Questionable: shoulder,week_4,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_4,New York Giants,2013
+['Justin Trattou'],Questionable: ankle,week_4,New York Giants,2013
+['Justin Tuck'],NA,week_4,New York Giants,2013
+['Corey Webster'],Questionable: hip,week_4,New York Giants,2013
+['Jacquian Williams'],Questionable: knee,week_4,New York Giants,2013
+['David Wilson'],NA,week_4,New York Giants,2013
+['Prince Amukamara'],NA,week_5,New York Giants,2013
+['David Baas'],Questionable: neck,week_5,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_5,New York Giants,2013
+['Will Beatty'],NA,week_5,New York Giants,2013
+['James Brewer'],NA,week_5,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_5,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_5,New York Giants,2013
+['Selvish Capers'],NA,week_5,New York Giants,2013
+['John Conner'],NA,week_5,New York Giants,2013
+['Dan Connor'],Out: neck,week_5,New York Giants,2013
+['Jim Cordle'],NA,week_5,New York Giants,2013
+['Victor Cruz'],NA,week_5,New York Giants,2013
+['Zak DeOssie'],NA,week_5,New York Giants,2013
+['David Diehl'],Probable: hand,week_5,New York Giants,2013
+['Mark Herzlich'],Questionable: toe,week_5,New York Giants,2013
+['Will Hill'],Probable: four-game suspension served,week_5,New York Giants,2013
+['Peyton Hillis'],NA,week_5,New York Giants,2013
+['Jayron Hosley'],Questionable: hamstring,week_5,New York Giants,2013
+['Henry Hynoski'],Out: shoulder,week_5,New York Giants,2013
+['Brandon Jacobs'],NA,week_5,New York Giants,2013
+['Cullen Jenkins'],Questionable: knee/achilles,week_5,New York Giants,2013
+['Jerrel Jernigan'],NA,week_5,New York Giants,2013
+['Linval Joseph'],Questionable: ankle/knee,week_5,New York Giants,2013
+['Mathias Kiwanuka'],Questionable: ribs,week_5,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_5,New York Giants,2013
+['Eli Manning'],NA,week_5,New York Giants,2013
+['Trumaine McBride'],NA,week_5,New York Giants,2013
+['Damontre Moore'],NA,week_5,New York Giants,2013
+['Brandon Mosley'],NA,week_5,New York Giants,2013
+['Ryan Mundy'],NA,week_5,New York Giants,2013
+['Louis Murphy'],NA,week_5,New York Giants,2013
+['Brandon Myers'],NA,week_5,New York Giants,2013
+['Ryan Nassib'],NA,week_5,New York Giants,2013
+['Hakeem Nicks'],NA,week_5,New York Giants,2013
+['Bear Pascoe'],NA,week_5,New York Giants,2013
+['Spencer Paysinger'],NA,week_5,New York Giants,2013
+['Jason Pierre-Paul'],Probable: knee,week_5,New York Giants,2013
+['Rueben Randle'],NA,week_5,New York Giants,2013
+['Adrien Robinson'],Questionable: foot,week_5,New York Giants,2013
+['Shaun Rogers'],Questionable: back,week_5,New York Giants,2013
+['Antrel Rolle'],NA,week_5,New York Giants,2013
+['Aaron Ross'],Questionable: back,week_5,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_5,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_5,New York Giants,2013
+['Chris Snee'],Questionable: hip,week_5,New York Giants,2013
+['Cooper Taylor'],Probable: shoulder,week_5,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_5,New York Giants,2013
+['Justin Trattou'],NA,week_5,New York Giants,2013
+['Justin Tuck'],Questionable: hand,week_5,New York Giants,2013
+['Corey Webster'],Questionable: hip,week_5,New York Giants,2013
+['Jacquian Williams'],Probable: knee,week_5,New York Giants,2013
+['David Wilson'],NA,week_5,New York Giants,2013
+['Prince Amukamara'],NA,week_6,New York Giants,2013
+['David Baas'],Out: neck,week_6,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_6,New York Giants,2013
+['Will Beatty'],NA,week_6,New York Giants,2013
+['James Brewer'],NA,week_6,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_6,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_6,New York Giants,2013
+['Selvish Capers'],NA,week_6,New York Giants,2013
+['John Conner'],NA,week_6,New York Giants,2013
+['Dan Connor'],Out: neck,week_6,New York Giants,2013
+['Jim Cordle'],NA,week_6,New York Giants,2013
+['Victor Cruz'],NA,week_6,New York Giants,2013
+['Zak DeOssie'],Questionable: back,week_6,New York Giants,2013
+['David Diehl'],NA,week_6,New York Giants,2013
+['Mark Herzlich'],Questionable: toe,week_6,New York Giants,2013
+['Will Hill'],NA,week_6,New York Giants,2013
+['Peyton Hillis'],NA,week_6,New York Giants,2013
+['Jayron Hosley'],Out: hamstring,week_6,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_6,New York Giants,2013
+['Brandon Jacobs'],NA,week_6,New York Giants,2013
+['Cullen Jenkins'],NA,week_6,New York Giants,2013
+['Jerrel Jernigan'],NA,week_6,New York Giants,2013
+['Linval Joseph'],NA,week_6,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_6,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_6,New York Giants,2013
+['Eli Manning'],NA,week_6,New York Giants,2013
+['Trumaine McBride'],NA,week_6,New York Giants,2013
+['Damontre Moore'],Questionable: hamstring,week_6,New York Giants,2013
+['Brandon Mosley'],NA,week_6,New York Giants,2013
+['Ryan Mundy'],NA,week_6,New York Giants,2013
+['Louis Murphy'],Questionable: ankle,week_6,New York Giants,2013
+['Brandon Myers'],Questionable: ankle,week_6,New York Giants,2013
+['Ryan Nassib'],NA,week_6,New York Giants,2013
+['Hakeem Nicks'],NA,week_6,New York Giants,2013
+['Bear Pascoe'],NA,week_6,New York Giants,2013
+['Spencer Paysinger'],NA,week_6,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_6,New York Giants,2013
+['Rueben Randle'],NA,week_6,New York Giants,2013
+['Adrien Robinson'],Out: foot,week_6,New York Giants,2013
+['Shaun Rogers'],NA,week_6,New York Giants,2013
+['Antrel Rolle'],NA,week_6,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_6,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_6,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_6,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_6,New York Giants,2013
+['Cooper Taylor'],Questionable: shoulder,week_6,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_6,New York Giants,2013
+['Justin Trattou'],NA,week_6,New York Giants,2013
+['Justin Tuck'],NA,week_6,New York Giants,2013
+['Corey Webster'],Out: hip,week_6,New York Giants,2013
+['Jacquian Williams'],NA,week_6,New York Giants,2013
+['David Wilson'],Out: neck,week_6,New York Giants,2013
+['Prince Amukamara'],NA,week_7,New York Giants,2013
+['David Baas'],Questionable: neck,week_7,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_7,New York Giants,2013
+['Will Beatty'],NA,week_7,New York Giants,2013
+['James Brewer'],NA,week_7,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_7,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_7,New York Giants,2013
+['Selvish Capers'],NA,week_7,New York Giants,2013
+['John Conner'],NA,week_7,New York Giants,2013
+['Dan Connor'],Out: neck,week_7,New York Giants,2013
+['Jim Cordle'],NA,week_7,New York Giants,2013
+['Victor Cruz'],NA,week_7,New York Giants,2013
+['Zak DeOssie'],NA,week_7,New York Giants,2013
+['David Diehl'],NA,week_7,New York Giants,2013
+['Mark Herzlich'],NA,week_7,New York Giants,2013
+['Will Hill'],NA,week_7,New York Giants,2013
+['Peyton Hillis'],NA,week_7,New York Giants,2013
+['Jayron Hosley'],Questionable: hamstring,week_7,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_7,New York Giants,2013
+['Brandon Jacobs'],Questionable: hamstring,week_7,New York Giants,2013
+['Cullen Jenkins'],NA,week_7,New York Giants,2013
+['Jerrel Jernigan'],NA,week_7,New York Giants,2013
+['Linval Joseph'],NA,week_7,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_7,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_7,New York Giants,2013
+['Eli Manning'],NA,week_7,New York Giants,2013
+['Trumaine McBride'],NA,week_7,New York Giants,2013
+['Damontre Moore'],NA,week_7,New York Giants,2013
+['Brandon Mosley'],NA,week_7,New York Giants,2013
+['Ryan Mundy'],NA,week_7,New York Giants,2013
+['Louis Murphy'],NA,week_7,New York Giants,2013
+['Brandon Myers'],NA,week_7,New York Giants,2013
+['Ryan Nassib'],NA,week_7,New York Giants,2013
+['Hakeem Nicks'],NA,week_7,New York Giants,2013
+['Bear Pascoe'],NA,week_7,New York Giants,2013
+['Spencer Paysinger'],NA,week_7,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: illness,week_7,New York Giants,2013
+['Rueben Randle'],NA,week_7,New York Giants,2013
+['Adrien Robinson'],Questionable: foot,week_7,New York Giants,2013
+['Shaun Rogers'],NA,week_7,New York Giants,2013
+['Antrel Rolle'],NA,week_7,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_7,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_7,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_7,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_7,New York Giants,2013
+['Cooper Taylor'],Questionable: shoulder,week_7,New York Giants,2013
+['Terrell Thomas'],Probable: knee,week_7,New York Giants,2013
+['Justin Trattou'],NA,week_7,New York Giants,2013
+['Justin Tuck'],NA,week_7,New York Giants,2013
+['Corey Webster'],Questionable: groin,week_7,New York Giants,2013
+['Jacquian Williams'],NA,week_7,New York Giants,2013
+['David Wilson'],Out: neck,week_7,New York Giants,2013
+['Prince Amukamara'],NA,week_8,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_8,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_8,New York Giants,2013
+['Will Beatty'],NA,week_8,New York Giants,2013
+['James Brewer'],NA,week_8,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_8,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_8,New York Giants,2013
+['Selvish Capers'],NA,week_8,New York Giants,2013
+['John Conner'],NA,week_8,New York Giants,2013
+['Dan Connor'],Out: neck,week_8,New York Giants,2013
+['Jim Cordle'],NA,week_8,New York Giants,2013
+['Victor Cruz'],NA,week_8,New York Giants,2013
+['Zak DeOssie'],NA,week_8,New York Giants,2013
+['David Diehl'],NA,week_8,New York Giants,2013
+['Mark Herzlich'],NA,week_8,New York Giants,2013
+['Will Hill'],NA,week_8,New York Giants,2013
+['Peyton Hillis'],NA,week_8,New York Giants,2013
+['Jayron Hosley'],Questionable: hamstring,week_8,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_8,New York Giants,2013
+['Brandon Jacobs'],Questionable: hamstring,week_8,New York Giants,2013
+['Cullen Jenkins'],NA,week_8,New York Giants,2013
+['Jerrel Jernigan'],NA,week_8,New York Giants,2013
+['Linval Joseph'],NA,week_8,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_8,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_8,New York Giants,2013
+['Eli Manning'],NA,week_8,New York Giants,2013
+['Trumaine McBride'],NA,week_8,New York Giants,2013
+['Damontre Moore'],NA,week_8,New York Giants,2013
+['Brandon Mosley'],NA,week_8,New York Giants,2013
+['Ryan Mundy'],NA,week_8,New York Giants,2013
+['Louis Murphy'],NA,week_8,New York Giants,2013
+['Brandon Myers'],NA,week_8,New York Giants,2013
+['Ryan Nassib'],NA,week_8,New York Giants,2013
+['Hakeem Nicks'],NA,week_8,New York Giants,2013
+['Bear Pascoe'],NA,week_8,New York Giants,2013
+['Spencer Paysinger'],Questionable: ankle,week_8,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_8,New York Giants,2013
+['Rueben Randle'],NA,week_8,New York Giants,2013
+['Adrien Robinson'],Questionable: foot,week_8,New York Giants,2013
+['Shaun Rogers'],Questionable: knee,week_8,New York Giants,2013
+['Antrel Rolle'],NA,week_8,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_8,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_8,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_8,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_8,New York Giants,2013
+['Cooper Taylor'],Probable: shoulder,week_8,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_8,New York Giants,2013
+['Justin Trattou'],NA,week_8,New York Giants,2013
+['Justin Tuck'],NA,week_8,New York Giants,2013
+['Corey Webster'],Questionable: groin,week_8,New York Giants,2013
+['Jacquian Williams'],NA,week_8,New York Giants,2013
+['David Wilson'],Out: neck,week_8,New York Giants,2013
+['Prince Amukamara'],NA,week_10,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_10,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_10,New York Giants,2013
+['Will Beatty'],NA,week_10,New York Giants,2013
+['James Brewer'],NA,week_10,New York Giants,2013
+['Andre Brown'],Injured Reserve: leg,week_10,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_10,New York Giants,2013
+['Selvish Capers'],NA,week_10,New York Giants,2013
+['John Conner'],NA,week_10,New York Giants,2013
+['Dan Connor'],Out: neck,week_10,New York Giants,2013
+['Jim Cordle'],NA,week_10,New York Giants,2013
+['Victor Cruz'],Questionable: neck,week_10,New York Giants,2013
+['Zak DeOssie'],NA,week_10,New York Giants,2013
+['David Diehl'],NA,week_10,New York Giants,2013
+['Mark Herzlich'],NA,week_10,New York Giants,2013
+['Will Hill'],NA,week_10,New York Giants,2013
+['Peyton Hillis'],NA,week_10,New York Giants,2013
+['Jayron Hosley'],Questionable: hamstring,week_10,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_10,New York Giants,2013
+['Brandon Jacobs'],Probable: hamstring,week_10,New York Giants,2013
+['Cullen Jenkins'],NA,week_10,New York Giants,2013
+['Jerrel Jernigan'],NA,week_10,New York Giants,2013
+['Linval Joseph'],NA,week_10,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_10,New York Giants,2013
+['Markus Kuhn'],Physically Unable to Perform: knee,week_10,New York Giants,2013
+['Eli Manning'],NA,week_10,New York Giants,2013
+['Trumaine McBride'],Questionable: groin,week_10,New York Giants,2013
+['Damontre Moore'],NA,week_10,New York Giants,2013
+['Brandon Mosley'],NA,week_10,New York Giants,2013
+['Ryan Mundy'],NA,week_10,New York Giants,2013
+['Louis Murphy'],NA,week_10,New York Giants,2013
+['Brandon Myers'],NA,week_10,New York Giants,2013
+['Ryan Nassib'],NA,week_10,New York Giants,2013
+['Hakeem Nicks'],NA,week_10,New York Giants,2013
+['Bear Pascoe'],NA,week_10,New York Giants,2013
+['Spencer Paysinger'],NA,week_10,New York Giants,2013
+['Jason Pierre-Paul'],NA,week_10,New York Giants,2013
+['Rueben Randle'],NA,week_10,New York Giants,2013
+['Adrien Robinson'],Probable: foot,week_10,New York Giants,2013
+['Shaun Rogers'],Questionable: knee,week_10,New York Giants,2013
+['Antrel Rolle'],NA,week_10,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_10,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_10,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_10,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_10,New York Giants,2013
+['Cooper Taylor'],NA,week_10,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_10,New York Giants,2013
+['Justin Trattou'],NA,week_10,New York Giants,2013
+['Justin Tuck'],NA,week_10,New York Giants,2013
+['Corey Webster'],Questionable: groin,week_10,New York Giants,2013
+['Jacquian Williams'],NA,week_10,New York Giants,2013
+['David Wilson'],Out: neck,week_10,New York Giants,2013
+['Prince Amukamara'],NA,week_11,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_11,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_11,New York Giants,2013
+['Will Beatty'],NA,week_11,New York Giants,2013
+['James Brewer'],NA,week_11,New York Giants,2013
+['Andre Brown'],NA,week_11,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_11,New York Giants,2013
+['Selvish Capers'],NA,week_11,New York Giants,2013
+['John Conner'],NA,week_11,New York Giants,2013
+['Dan Connor'],Out: neck,week_11,New York Giants,2013
+['Jim Cordle'],NA,week_11,New York Giants,2013
+['Victor Cruz'],NA,week_11,New York Giants,2013
+['Zak DeOssie'],NA,week_11,New York Giants,2013
+['David Diehl'],NA,week_11,New York Giants,2013
+['Mark Herzlich'],NA,week_11,New York Giants,2013
+['Will Hill'],NA,week_11,New York Giants,2013
+['Peyton Hillis'],NA,week_11,New York Giants,2013
+['Jayron Hosley'],NA,week_11,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_11,New York Giants,2013
+['Brandon Jacobs'],Questionable: hamstring,week_11,New York Giants,2013
+['Cullen Jenkins'],NA,week_11,New York Giants,2013
+['Jerrel Jernigan'],NA,week_11,New York Giants,2013
+['Linval Joseph'],NA,week_11,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_11,New York Giants,2013
+['Markus Kuhn'],NA,week_11,New York Giants,2013
+['Eli Manning'],NA,week_11,New York Giants,2013
+['Trumaine McBride'],NA,week_11,New York Giants,2013
+['Damontre Moore'],NA,week_11,New York Giants,2013
+['Brandon Mosley'],NA,week_11,New York Giants,2013
+['Ryan Mundy'],NA,week_11,New York Giants,2013
+['Louis Murphy'],NA,week_11,New York Giants,2013
+['Brandon Myers'],NA,week_11,New York Giants,2013
+['Ryan Nassib'],NA,week_11,New York Giants,2013
+['Hakeem Nicks'],NA,week_11,New York Giants,2013
+['Bear Pascoe'],Questionable: ankle,week_11,New York Giants,2013
+['Spencer Paysinger'],NA,week_11,New York Giants,2013
+['Jason Pierre-Paul'],Probable: shoulder,week_11,New York Giants,2013
+['Rueben Randle'],NA,week_11,New York Giants,2013
+['Adrien Robinson'],NA,week_11,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_11,New York Giants,2013
+['Antrel Rolle'],NA,week_11,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_11,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_11,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_11,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_11,New York Giants,2013
+['Cooper Taylor'],NA,week_11,New York Giants,2013
+['Terrell Thomas'],Probable: knee,week_11,New York Giants,2013
+['Justin Trattou'],NA,week_11,New York Giants,2013
+['Justin Tuck'],NA,week_11,New York Giants,2013
+['Corey Webster'],"Questionable: groin, ankle",week_11,New York Giants,2013
+['Jacquian Williams'],NA,week_11,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_11,New York Giants,2013
+['Prince Amukamara'],NA,week_12,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_12,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_12,New York Giants,2013
+['Will Beatty'],NA,week_12,New York Giants,2013
+['James Brewer'],NA,week_12,New York Giants,2013
+['Andre Brown'],NA,week_12,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_12,New York Giants,2013
+['Selvish Capers'],NA,week_12,New York Giants,2013
+['John Conner'],Questionable: hip,week_12,New York Giants,2013
+['Dan Connor'],NA,week_12,New York Giants,2013
+['Jim Cordle'],Questionable: knee,week_12,New York Giants,2013
+['Victor Cruz'],NA,week_12,New York Giants,2013
+['Zak DeOssie'],NA,week_12,New York Giants,2013
+['David Diehl'],NA,week_12,New York Giants,2013
+['Mark Herzlich'],NA,week_12,New York Giants,2013
+['Will Hill'],NA,week_12,New York Giants,2013
+['Peyton Hillis'],NA,week_12,New York Giants,2013
+['Jayron Hosley'],NA,week_12,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_12,New York Giants,2013
+['Brandon Jacobs'],Questionable: knee,week_12,New York Giants,2013
+['Cullen Jenkins'],NA,week_12,New York Giants,2013
+['Jerrel Jernigan'],NA,week_12,New York Giants,2013
+['Linval Joseph'],NA,week_12,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_12,New York Giants,2013
+['Markus Kuhn'],NA,week_12,New York Giants,2013
+['Eli Manning'],NA,week_12,New York Giants,2013
+['Trumaine McBride'],Questionable: hip,week_12,New York Giants,2013
+['Damontre Moore'],NA,week_12,New York Giants,2013
+['Brandon Mosley'],NA,week_12,New York Giants,2013
+['Ryan Mundy'],NA,week_12,New York Giants,2013
+['Louis Murphy'],NA,week_12,New York Giants,2013
+['Brandon Myers'],NA,week_12,New York Giants,2013
+['Ryan Nassib'],NA,week_12,New York Giants,2013
+['Hakeem Nicks'],Questionable: groin,week_12,New York Giants,2013
+['Bear Pascoe'],NA,week_12,New York Giants,2013
+['Spencer Paysinger'],NA,week_12,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_12,New York Giants,2013
+['Rueben Randle'],NA,week_12,New York Giants,2013
+['Adrien Robinson'],NA,week_12,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_12,New York Giants,2013
+['Antrel Rolle'],NA,week_12,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_12,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_12,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_12,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_12,New York Giants,2013
+['Cooper Taylor'],NA,week_12,New York Giants,2013
+['Terrell Thomas'],NA,week_12,New York Giants,2013
+['Justin Trattou'],NA,week_12,New York Giants,2013
+['Justin Tuck'],NA,week_12,New York Giants,2013
+['Corey Webster'],Questionable: groin/ankle,week_12,New York Giants,2013
+['Jacquian Williams'],NA,week_12,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_12,New York Giants,2013
+['Prince Amukamara'],NA,week_13,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_13,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_13,New York Giants,2013
+['Will Beatty'],NA,week_13,New York Giants,2013
+['James Brewer'],NA,week_13,New York Giants,2013
+['Andre Brown'],NA,week_13,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_13,New York Giants,2013
+['Selvish Capers'],NA,week_13,New York Giants,2013
+['John Conner'],NA,week_13,New York Giants,2013
+['Dan Connor'],NA,week_13,New York Giants,2013
+['Jim Cordle'],Injured Reserve: knee,week_13,New York Giants,2013
+['Victor Cruz'],NA,week_13,New York Giants,2013
+['Zak DeOssie'],NA,week_13,New York Giants,2013
+['David Diehl'],NA,week_13,New York Giants,2013
+['Mark Herzlich'],NA,week_13,New York Giants,2013
+['Will Hill'],NA,week_13,New York Giants,2013
+['Peyton Hillis'],NA,week_13,New York Giants,2013
+['Jayron Hosley'],NA,week_13,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_13,New York Giants,2013
+['Brandon Jacobs'],Questionable: knee,week_13,New York Giants,2013
+['Cullen Jenkins'],NA,week_13,New York Giants,2013
+['Jerrel Jernigan'],NA,week_13,New York Giants,2013
+['Linval Joseph'],NA,week_13,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_13,New York Giants,2013
+['Markus Kuhn'],NA,week_13,New York Giants,2013
+['Eli Manning'],NA,week_13,New York Giants,2013
+['Trumaine McBride'],Questionable: groin,week_13,New York Giants,2013
+['Damontre Moore'],NA,week_13,New York Giants,2013
+['Brandon Mosley'],NA,week_13,New York Giants,2013
+['Ryan Mundy'],NA,week_13,New York Giants,2013
+['Louis Murphy'],NA,week_13,New York Giants,2013
+['Brandon Myers'],NA,week_13,New York Giants,2013
+['Ryan Nassib'],NA,week_13,New York Giants,2013
+['Hakeem Nicks'],Probable: groin,week_13,New York Giants,2013
+['Bear Pascoe'],NA,week_13,New York Giants,2013
+['Spencer Paysinger'],NA,week_13,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_13,New York Giants,2013
+['Rueben Randle'],NA,week_13,New York Giants,2013
+['Adrien Robinson'],NA,week_13,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_13,New York Giants,2013
+['Antrel Rolle'],NA,week_13,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_13,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_13,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_13,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_13,New York Giants,2013
+['Cooper Taylor'],NA,week_13,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_13,New York Giants,2013
+['Justin Trattou'],NA,week_13,New York Giants,2013
+['Justin Tuck'],NA,week_13,New York Giants,2013
+['Corey Webster'],Questionable: groin/ankle,week_13,New York Giants,2013
+['Jacquian Williams'],NA,week_13,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_13,New York Giants,2013
+['Prince Amukamara'],NA,week_14,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_14,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_14,New York Giants,2013
+['Will Beatty'],NA,week_14,New York Giants,2013
+['James Brewer'],NA,week_14,New York Giants,2013
+['Andre Brown'],NA,week_14,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_14,New York Giants,2013
+['Selvish Capers'],NA,week_14,New York Giants,2013
+['John Conner'],NA,week_14,New York Giants,2013
+['Dan Connor'],NA,week_14,New York Giants,2013
+['Jim Cordle'],Injured Reserve: knee,week_14,New York Giants,2013
+['Victor Cruz'],NA,week_14,New York Giants,2013
+['Zak DeOssie'],NA,week_14,New York Giants,2013
+['David Diehl'],NA,week_14,New York Giants,2013
+['Mark Herzlich'],NA,week_14,New York Giants,2013
+['Will Hill'],NA,week_14,New York Giants,2013
+['Peyton Hillis'],NA,week_14,New York Giants,2013
+['Jayron Hosley'],NA,week_14,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_14,New York Giants,2013
+['Brandon Jacobs'],Questionable: knee,week_14,New York Giants,2013
+['Cullen Jenkins'],NA,week_14,New York Giants,2013
+['Jerrel Jernigan'],NA,week_14,New York Giants,2013
+['Linval Joseph'],NA,week_14,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_14,New York Giants,2013
+['Markus Kuhn'],NA,week_14,New York Giants,2013
+['Eli Manning'],NA,week_14,New York Giants,2013
+['Trumaine McBride'],Questionable: groin,week_14,New York Giants,2013
+['Damontre Moore'],NA,week_14,New York Giants,2013
+['Brandon Mosley'],NA,week_14,New York Giants,2013
+['Ryan Mundy'],NA,week_14,New York Giants,2013
+['Louis Murphy'],NA,week_14,New York Giants,2013
+['Brandon Myers'],Questionable: groin,week_14,New York Giants,2013
+['Ryan Nassib'],NA,week_14,New York Giants,2013
+['Hakeem Nicks'],NA,week_14,New York Giants,2013
+['Bear Pascoe'],NA,week_14,New York Giants,2013
+['Spencer Paysinger'],NA,week_14,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_14,New York Giants,2013
+['Rueben Randle'],NA,week_14,New York Giants,2013
+['Adrien Robinson'],NA,week_14,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_14,New York Giants,2013
+['Antrel Rolle'],NA,week_14,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_14,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_14,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_14,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_14,New York Giants,2013
+['Cooper Taylor'],NA,week_14,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_14,New York Giants,2013
+['Justin Trattou'],NA,week_14,New York Giants,2013
+['Justin Tuck'],NA,week_14,New York Giants,2013
+['Corey Webster'],Questionable: groin/ankle,week_14,New York Giants,2013
+['Jacquian Williams'],NA,week_14,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_14,New York Giants,2013
+['Prince Amukamara'],NA,week_15,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_15,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_15,New York Giants,2013
+['Will Beatty'],NA,week_15,New York Giants,2013
+['James Brewer'],NA,week_15,New York Giants,2013
+['Andre Brown'],NA,week_15,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_15,New York Giants,2013
+['Selvish Capers'],NA,week_15,New York Giants,2013
+['John Conner'],NA,week_15,New York Giants,2013
+['Dan Connor'],NA,week_15,New York Giants,2013
+['Jim Cordle'],Injured Reserve: knee,week_15,New York Giants,2013
+['Victor Cruz'],NA,week_15,New York Giants,2013
+['Zak DeOssie'],NA,week_15,New York Giants,2013
+['David Diehl'],NA,week_15,New York Giants,2013
+['Mark Herzlich'],NA,week_15,New York Giants,2013
+['Will Hill'],NA,week_15,New York Giants,2013
+['Peyton Hillis'],NA,week_15,New York Giants,2013
+['Jayron Hosley'],NA,week_15,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_15,New York Giants,2013
+['Brandon Jacobs'],Injured Reserve: knee,week_15,New York Giants,2013
+['Cullen Jenkins'],Questionable: shin/quadriceps,week_15,New York Giants,2013
+['Jerrel Jernigan'],NA,week_15,New York Giants,2013
+['Linval Joseph'],NA,week_15,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_15,New York Giants,2013
+['Markus Kuhn'],NA,week_15,New York Giants,2013
+['Eli Manning'],NA,week_15,New York Giants,2013
+['Trumaine McBride'],NA,week_15,New York Giants,2013
+['Damontre Moore'],NA,week_15,New York Giants,2013
+['Brandon Mosley'],NA,week_15,New York Giants,2013
+['Ryan Mundy'],NA,week_15,New York Giants,2013
+['Louis Murphy'],NA,week_15,New York Giants,2013
+['Brandon Myers'],NA,week_15,New York Giants,2013
+['Ryan Nassib'],NA,week_15,New York Giants,2013
+['Hakeem Nicks'],NA,week_15,New York Giants,2013
+['Bear Pascoe'],NA,week_15,New York Giants,2013
+['Spencer Paysinger'],NA,week_15,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_15,New York Giants,2013
+['Rueben Randle'],NA,week_15,New York Giants,2013
+['Adrien Robinson'],NA,week_15,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_15,New York Giants,2013
+['Antrel Rolle'],NA,week_15,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_15,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_15,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_15,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_15,New York Giants,2013
+['Cooper Taylor'],Questionable: groin,week_15,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_15,New York Giants,2013
+['Justin Trattou'],NA,week_15,New York Giants,2013
+['Justin Tuck'],NA,week_15,New York Giants,2013
+['Corey Webster'],Questionable: groin/ankle,week_15,New York Giants,2013
+['Jacquian Williams'],NA,week_15,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_15,New York Giants,2013
+['Prince Amukamara'],NA,week_16,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_16,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_16,New York Giants,2013
+['Will Beatty'],NA,week_16,New York Giants,2013
+['James Brewer'],Questionable: ankle,week_16,New York Giants,2013
+['Andre Brown'],NA,week_16,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_16,New York Giants,2013
+['Selvish Capers'],NA,week_16,New York Giants,2013
+['John Conner'],NA,week_16,New York Giants,2013
+['Dan Connor'],NA,week_16,New York Giants,2013
+['Jim Cordle'],Injured Reserve: knee,week_16,New York Giants,2013
+['Victor Cruz'],Out: concussion/knee,week_16,New York Giants,2013
+['Zak DeOssie'],NA,week_16,New York Giants,2013
+['David Diehl'],Questionable: knee,week_16,New York Giants,2013
+['Mark Herzlich'],NA,week_16,New York Giants,2013
+['Will Hill'],NA,week_16,New York Giants,2013
+['Peyton Hillis'],Questionable: concussion,week_16,New York Giants,2013
+['Jayron Hosley'],NA,week_16,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_16,New York Giants,2013
+['Brandon Jacobs'],Injured Reserve: knee,week_16,New York Giants,2013
+['Cullen Jenkins'],Questionable: shin/quadriceps,week_16,New York Giants,2013
+['Jerrel Jernigan'],Questionable: knee,week_16,New York Giants,2013
+['Linval Joseph'],NA,week_16,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_16,New York Giants,2013
+['Markus Kuhn'],NA,week_16,New York Giants,2013
+['Eli Manning'],NA,week_16,New York Giants,2013
+['Trumaine McBride'],Questionable: groin,week_16,New York Giants,2013
+['Damontre Moore'],NA,week_16,New York Giants,2013
+['Brandon Mosley'],NA,week_16,New York Giants,2013
+['Ryan Mundy'],NA,week_16,New York Giants,2013
+['Louis Murphy'],NA,week_16,New York Giants,2013
+['Brandon Myers'],NA,week_16,New York Giants,2013
+['Ryan Nassib'],NA,week_16,New York Giants,2013
+['Hakeem Nicks'],NA,week_16,New York Giants,2013
+['Bear Pascoe'],NA,week_16,New York Giants,2013
+['Spencer Paysinger'],NA,week_16,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_16,New York Giants,2013
+['Rueben Randle'],NA,week_16,New York Giants,2013
+['Adrien Robinson'],NA,week_16,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_16,New York Giants,2013
+['Antrel Rolle'],NA,week_16,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_16,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_16,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_16,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_16,New York Giants,2013
+['Cooper Taylor'],Questionable: groin,week_16,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_16,New York Giants,2013
+['Justin Trattou'],NA,week_16,New York Giants,2013
+['Justin Tuck'],NA,week_16,New York Giants,2013
+['Corey Webster'],Injured Reserve: groin/ankle,week_16,New York Giants,2013
+['Jacquian Williams'],NA,week_16,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_16,New York Giants,2013
+['Prince Amukamara'],NA,week_17,New York Giants,2013
+['David Baas'],Injured Reserve: knee,week_17,New York Giants,2013
+['Ramses Barden'],Injured Reserve: knee,week_17,New York Giants,2013
+['Will Beatty'],NA,week_17,New York Giants,2013
+['James Brewer'],NA,week_17,New York Giants,2013
+['Andre Brown'],Questionable: concussion,week_17,New York Giants,2013
+['Stevie Brown'],Injured Reserve: knee,week_17,New York Giants,2013
+['Selvish Capers'],NA,week_17,New York Giants,2013
+['John Conner'],NA,week_17,New York Giants,2013
+['Dan Connor'],NA,week_17,New York Giants,2013
+['Jim Cordle'],Injured Reserve: knee,week_17,New York Giants,2013
+['Victor Cruz'],Out: concussion/knee,week_17,New York Giants,2013
+['Zak DeOssie'],NA,week_17,New York Giants,2013
+['David Diehl'],Questionable: knee,week_17,New York Giants,2013
+['Mark Herzlich'],NA,week_17,New York Giants,2013
+['Will Hill'],NA,week_17,New York Giants,2013
+['Peyton Hillis'],Questionable: concussion,week_17,New York Giants,2013
+['Jayron Hosley'],Questionable: illness,week_17,New York Giants,2013
+['Henry Hynoski'],Injured Reserve: shoulder,week_17,New York Giants,2013
+['Brandon Jacobs'],Injured Reserve: knee,week_17,New York Giants,2013
+['Cullen Jenkins'],Questionable: shin/quadriceps,week_17,New York Giants,2013
+['Jerrel Jernigan'],NA,week_17,New York Giants,2013
+['Linval Joseph'],NA,week_17,New York Giants,2013
+['Mathias Kiwanuka'],NA,week_17,New York Giants,2013
+['Markus Kuhn'],NA,week_17,New York Giants,2013
+['Eli Manning'],Questionable: knee,week_17,New York Giants,2013
+['Trumaine McBride'],Questionable: groin,week_17,New York Giants,2013
+['Damontre Moore'],NA,week_17,New York Giants,2013
+['Brandon Mosley'],Questionable: hand,week_17,New York Giants,2013
+['Ryan Mundy'],NA,week_17,New York Giants,2013
+['Louis Murphy'],NA,week_17,New York Giants,2013
+['Brandon Myers'],NA,week_17,New York Giants,2013
+['Ryan Nassib'],NA,week_17,New York Giants,2013
+['Hakeem Nicks'],NA,week_17,New York Giants,2013
+['Bear Pascoe'],NA,week_17,New York Giants,2013
+['Spencer Paysinger'],NA,week_17,New York Giants,2013
+['Jason Pierre-Paul'],Questionable: shoulder,week_17,New York Giants,2013
+['Rueben Randle'],Questionable: undisclosed,week_17,New York Giants,2013
+['Adrien Robinson'],Doubtful: knee,week_17,New York Giants,2013
+['Shaun Rogers'],Injured Reserve: knee,week_17,New York Giants,2013
+['Antrel Rolle'],NA,week_17,New York Giants,2013
+['Aaron Ross'],Injured Reserve: back,week_17,New York Giants,2013
+"[""Da'Rel Scott""]",NA,week_17,New York Giants,2013
+['Laron Scott'],Injured Reserve: hamstring,week_17,New York Giants,2013
+['Chris Snee'],Injured Reserve: hip,week_17,New York Giants,2013
+['Cooper Taylor'],Injured Reserve: hamstring,week_17,New York Giants,2013
+['Terrell Thomas'],Questionable: knee,week_17,New York Giants,2013
+['Justin Trattou'],NA,week_17,New York Giants,2013
+['Justin Tuck'],NA,week_17,New York Giants,2013
+['Corey Webster'],Injured Reserve: groin/ankle,week_17,New York Giants,2013
+['Jacquian Williams'],NA,week_17,New York Giants,2013
+['David Wilson'],Injured Reserve: neck,week_17,New York Giants,2013

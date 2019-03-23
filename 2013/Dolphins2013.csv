@@ -1,0 +1,833 @@
+﻿name,injury,week,team,year
+['Armon Binns'],NA,week_1,Miami Dolphins,2013
+['Sam Brenner'],NA,week_1,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_1,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_1,Miami Dolphins,2013
+['Chris Clemons'],NA,week_1,Miami Dolphins,2013
+['Will Davis'],Doubtful: ankle,week_1,Miami Dolphins,2013
+['John Denney'],NA,week_1,Miami Dolphins,2013
+['Pat Devlin'],Doubtful: ankle,week_1,Miami Dolphins,2013
+['Michael Egnew'],NA,week_1,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_1,Miami Dolphins,2013
+['Brandon Fields'],NA,week_1,Miami Dolphins,2013
+['Jonathan Freeny'],Probable: shoulder,week_1,Miami Dolphins,2013
+['Nate Garner'],NA,week_1,Miami Dolphins,2013
+['Brandon Gibson'],NA,week_1,Miami Dolphins,2013
+['Brent Grimes'],NA,week_1,Miami Dolphins,2013
+['Brian Hartline'],NA,week_1,Miami Dolphins,2013
+['Richie Incognito'],NA,week_1,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_1,Miami Dolphins,2013
+['John Jerry'],NA,week_1,Miami Dolphins,2013
+['Don Jones'],NA,week_1,Miami Dolphins,2013
+['Reshad Jones'],NA,week_1,Miami Dolphins,2013
+['Dion Jordan'],Probable: shoulder,week_1,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_1,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_1,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_1,Miami Dolphins,2013
+['Vaughn Martin'],Probable: ankle,week_1,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_1,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_1,Miami Dolphins,2013
+['Lamar Miller'],NA,week_1,Miami Dolphins,2013
+['Koa Misi'],NA,week_1,Miami Dolphins,2013
+['Marlon Moore'],NA,week_1,Miami Dolphins,2013
+['Jared Odrick'],NA,week_1,Miami Dolphins,2013
+['Dimitri Patterson'],Probable: ankle,week_1,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_1,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_1,Miami Dolphins,2013
+['Dion Sims'],Questionable: groin,week_1,Miami Dolphins,2013
+['Paul Soliai'],NA,week_1,Miami Dolphins,2013
+['Austin Spitler'],NA,week_1,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_1,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_1,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_1,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: groin,week_1,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_1,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_1,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_1,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_1,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_1,Miami Dolphins,2013
+['Cameron Wake'],NA,week_1,Miami Dolphins,2013
+['Mike Wallace'],NA,week_1,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_1,Miami Dolphins,2013
+['Jimmy Wilson'],Probable: hamstring,week_1,Miami Dolphins,2013
+['Will Yeatman'],NA,week_1,Miami Dolphins,2013
+['Armon Binns'],NA,week_2,Miami Dolphins,2013
+['Sam Brenner'],NA,week_2,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_2,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_2,Miami Dolphins,2013
+['Chris Clemons'],NA,week_2,Miami Dolphins,2013
+['Will Davis'],Questionable: ankle,week_2,Miami Dolphins,2013
+['John Denney'],NA,week_2,Miami Dolphins,2013
+['Pat Devlin'],Questionable: ankle,week_2,Miami Dolphins,2013
+['Michael Egnew'],NA,week_2,Miami Dolphins,2013
+['Dannell Ellerbe'],Probable: pectoral,week_2,Miami Dolphins,2013
+['Brandon Fields'],NA,week_2,Miami Dolphins,2013
+['Jonathan Freeny'],Probable: shoulder,week_2,Miami Dolphins,2013
+['Nate Garner'],NA,week_2,Miami Dolphins,2013
+['Brandon Gibson'],Probable: wrist,week_2,Miami Dolphins,2013
+['Brent Grimes'],NA,week_2,Miami Dolphins,2013
+['Brian Hartline'],NA,week_2,Miami Dolphins,2013
+['Richie Incognito'],NA,week_2,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_2,Miami Dolphins,2013
+['John Jerry'],NA,week_2,Miami Dolphins,2013
+['Don Jones'],NA,week_2,Miami Dolphins,2013
+['Reshad Jones'],Probable: thumb,week_2,Miami Dolphins,2013
+['Dion Jordan'],Probable: shoulder,week_2,Miami Dolphins,2013
+['Josh Kaddu'],Probable: illness,week_2,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_2,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_2,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_2,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_2,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_2,Miami Dolphins,2013
+['Lamar Miller'],NA,week_2,Miami Dolphins,2013
+['Koa Misi'],NA,week_2,Miami Dolphins,2013
+['Marlon Moore'],NA,week_2,Miami Dolphins,2013
+['Jared Odrick'],NA,week_2,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_2,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_2,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_2,Miami Dolphins,2013
+['Dion Sims'],Probable: groin,week_2,Miami Dolphins,2013
+['Paul Soliai'],NA,week_2,Miami Dolphins,2013
+['Austin Spitler'],NA,week_2,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_2,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_2,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_2,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: groin,week_2,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_2,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_2,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_2,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_2,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_2,Miami Dolphins,2013
+['Cameron Wake'],NA,week_2,Miami Dolphins,2013
+['Mike Wallace'],NA,week_2,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_2,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_2,Miami Dolphins,2013
+['Will Yeatman'],NA,week_2,Miami Dolphins,2013
+['Armon Binns'],NA,week_3,Miami Dolphins,2013
+['Sam Brenner'],NA,week_3,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_3,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_3,Miami Dolphins,2013
+['Chris Clemons'],Questionable: hamstring,week_3,Miami Dolphins,2013
+['Will Davis'],Questionable: toe,week_3,Miami Dolphins,2013
+['John Denney'],NA,week_3,Miami Dolphins,2013
+['Pat Devlin'],Questionable: ankle,week_3,Miami Dolphins,2013
+['Michael Egnew'],NA,week_3,Miami Dolphins,2013
+['Dannell Ellerbe'],Probable: ribs,week_3,Miami Dolphins,2013
+['Brandon Fields'],NA,week_3,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_3,Miami Dolphins,2013
+['Nate Garner'],Probable: shoulder,week_3,Miami Dolphins,2013
+['Brandon Gibson'],NA,week_3,Miami Dolphins,2013
+['Brent Grimes'],NA,week_3,Miami Dolphins,2013
+['Brian Hartline'],NA,week_3,Miami Dolphins,2013
+['Richie Incognito'],NA,week_3,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_3,Miami Dolphins,2013
+['John Jerry'],Probable: knee,week_3,Miami Dolphins,2013
+['Don Jones'],NA,week_3,Miami Dolphins,2013
+['Reshad Jones'],NA,week_3,Miami Dolphins,2013
+['Dion Jordan'],Probable: shoulder,week_3,Miami Dolphins,2013
+['Josh Kaddu'],Questionable: illness,week_3,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_3,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_3,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_3,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_3,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_3,Miami Dolphins,2013
+['Lamar Miller'],NA,week_3,Miami Dolphins,2013
+['Koa Misi'],Questionable: knee,week_3,Miami Dolphins,2013
+['Marlon Moore'],NA,week_3,Miami Dolphins,2013
+['Jared Odrick'],NA,week_3,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_3,Miami Dolphins,2013
+['Mike Pouncey'],Questionable: ankle,week_3,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_3,Miami Dolphins,2013
+['Dion Sims'],NA,week_3,Miami Dolphins,2013
+['Paul Soliai'],Doubtful: knee,week_3,Miami Dolphins,2013
+['Austin Spitler'],NA,week_3,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_3,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_3,Miami Dolphins,2013
+['Ryan Tannehill'],Probable: shoulder,week_3,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: groin,week_3,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_3,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_3,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_3,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_3,Miami Dolphins,2013
+['Olivier Vernon'],Probable: thumb,week_3,Miami Dolphins,2013
+['Cameron Wake'],Questionable: knee,week_3,Miami Dolphins,2013
+['Mike Wallace'],Probable: groin,week_3,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_3,Miami Dolphins,2013
+['Jimmy Wilson'],Questionable: groin,week_3,Miami Dolphins,2013
+['Will Yeatman'],NA,week_3,Miami Dolphins,2013
+['Armon Binns'],NA,week_4,Miami Dolphins,2013
+['Sam Brenner'],NA,week_4,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_4,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_4,Miami Dolphins,2013
+['Chris Clemons'],Questionable: hamstring,week_4,Miami Dolphins,2013
+['Will Davis'],NA,week_4,Miami Dolphins,2013
+['John Denney'],NA,week_4,Miami Dolphins,2013
+['Pat Devlin'],NA,week_4,Miami Dolphins,2013
+['Michael Egnew'],NA,week_4,Miami Dolphins,2013
+['Dannell Ellerbe'],Questionable: ribs,week_4,Miami Dolphins,2013
+['Brandon Fields'],NA,week_4,Miami Dolphins,2013
+['Jonathan Freeny'],Questionable: shoulder,week_4,Miami Dolphins,2013
+['Nate Garner'],NA,week_4,Miami Dolphins,2013
+['Brandon Gibson'],Probable: knee,week_4,Miami Dolphins,2013
+['Brent Grimes'],NA,week_4,Miami Dolphins,2013
+['Brian Hartline'],NA,week_4,Miami Dolphins,2013
+['Richie Incognito'],NA,week_4,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_4,Miami Dolphins,2013
+['John Jerry'],NA,week_4,Miami Dolphins,2013
+['Don Jones'],NA,week_4,Miami Dolphins,2013
+['Reshad Jones'],NA,week_4,Miami Dolphins,2013
+['Dion Jordan'],NA,week_4,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_4,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_4,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_4,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_4,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_4,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_4,Miami Dolphins,2013
+['Lamar Miller'],NA,week_4,Miami Dolphins,2013
+['Koa Misi'],Questionable: shoulder,week_4,Miami Dolphins,2013
+['Marlon Moore'],NA,week_4,Miami Dolphins,2013
+['Jared Odrick'],NA,week_4,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_4,Miami Dolphins,2013
+['Mike Pouncey'],Probable: ankle,week_4,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_4,Miami Dolphins,2013
+['Dion Sims'],NA,week_4,Miami Dolphins,2013
+['Paul Soliai'],Questionable: knee,week_4,Miami Dolphins,2013
+['Austin Spitler'],NA,week_4,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_4,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_4,Miami Dolphins,2013
+['Ryan Tannehill'],Probable: right shoulder,week_4,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_4,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_4,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_4,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_4,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_4,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_4,Miami Dolphins,2013
+['Cameron Wake'],Out: knee,week_4,Miami Dolphins,2013
+['Mike Wallace'],NA,week_4,Miami Dolphins,2013
+['Philip Wheeler'],Probable: thumb,week_4,Miami Dolphins,2013
+['Jimmy Wilson'],Probable: groin,week_4,Miami Dolphins,2013
+['Will Yeatman'],NA,week_4,Miami Dolphins,2013
+['Armon Binns'],NA,week_5,Miami Dolphins,2013
+['Sam Brenner'],NA,week_5,Miami Dolphins,2013
+['Nolan Carroll'],Questionable: ankle,week_5,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_5,Miami Dolphins,2013
+['Chris Clemons'],Questionable: gluteus,week_5,Miami Dolphins,2013
+['Will Davis'],NA,week_5,Miami Dolphins,2013
+['John Denney'],NA,week_5,Miami Dolphins,2013
+['Pat Devlin'],NA,week_5,Miami Dolphins,2013
+['Michael Egnew'],NA,week_5,Miami Dolphins,2013
+['Dannell Ellerbe'],Questionable: knee,week_5,Miami Dolphins,2013
+['Brandon Fields'],NA,week_5,Miami Dolphins,2013
+['Jonathan Freeny'],Probable: shoulder,week_5,Miami Dolphins,2013
+['Nate Garner'],NA,week_5,Miami Dolphins,2013
+['Brandon Gibson'],Questionable: ankle,week_5,Miami Dolphins,2013
+['Brent Grimes'],NA,week_5,Miami Dolphins,2013
+['Brian Hartline'],NA,week_5,Miami Dolphins,2013
+['Richie Incognito'],NA,week_5,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_5,Miami Dolphins,2013
+['John Jerry'],NA,week_5,Miami Dolphins,2013
+['Don Jones'],Questionable: elbow,week_5,Miami Dolphins,2013
+['Reshad Jones'],NA,week_5,Miami Dolphins,2013
+['Dion Jordan'],NA,week_5,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_5,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_5,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_5,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_5,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_5,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_5,Miami Dolphins,2013
+['Lamar Miller'],NA,week_5,Miami Dolphins,2013
+['Koa Misi'],Questionable: shoulder,week_5,Miami Dolphins,2013
+['Marlon Moore'],NA,week_5,Miami Dolphins,2013
+['Jared Odrick'],NA,week_5,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_5,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_5,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_5,Miami Dolphins,2013
+['Dion Sims'],NA,week_5,Miami Dolphins,2013
+['Paul Soliai'],Probable: knee,week_5,Miami Dolphins,2013
+['Austin Spitler'],NA,week_5,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_5,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_5,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_5,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_5,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_5,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_5,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_5,Miami Dolphins,2013
+['Jason Trusnik'],Questionable: ribs,week_5,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_5,Miami Dolphins,2013
+['Cameron Wake'],NA,week_5,Miami Dolphins,2013
+['Mike Wallace'],NA,week_5,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_5,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_5,Miami Dolphins,2013
+['Will Yeatman'],NA,week_5,Miami Dolphins,2013
+['Armon Binns'],NA,week_7,Miami Dolphins,2013
+['Sam Brenner'],NA,week_7,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_7,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_7,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee,week_7,Miami Dolphins,2013
+['Will Davis'],NA,week_7,Miami Dolphins,2013
+['John Denney'],NA,week_7,Miami Dolphins,2013
+['Pat Devlin'],NA,week_7,Miami Dolphins,2013
+['Michael Egnew'],NA,week_7,Miami Dolphins,2013
+['Dannell Ellerbe'],Questionable: shoulder,week_7,Miami Dolphins,2013
+['Brandon Fields'],Probable: back,week_7,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_7,Miami Dolphins,2013
+['Nate Garner'],Probable: knee,week_7,Miami Dolphins,2013
+['Brandon Gibson'],Questionable: hip,week_7,Miami Dolphins,2013
+['Brent Grimes'],NA,week_7,Miami Dolphins,2013
+['Brian Hartline'],NA,week_7,Miami Dolphins,2013
+['Richie Incognito'],NA,week_7,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_7,Miami Dolphins,2013
+['John Jerry'],NA,week_7,Miami Dolphins,2013
+['Don Jones'],NA,week_7,Miami Dolphins,2013
+['Reshad Jones'],NA,week_7,Miami Dolphins,2013
+['Dion Jordan'],Probable: ankle,week_7,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_7,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_7,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_7,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_7,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_7,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_7,Miami Dolphins,2013
+['Lamar Miller'],NA,week_7,Miami Dolphins,2013
+['Koa Misi'],Questionable: shoulder/knee,week_7,Miami Dolphins,2013
+['Marlon Moore'],NA,week_7,Miami Dolphins,2013
+['Jared Odrick'],NA,week_7,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_7,Miami Dolphins,2013
+['Mike Pouncey'],Questionable: ankle,week_7,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_7,Miami Dolphins,2013
+['Dion Sims'],NA,week_7,Miami Dolphins,2013
+['Paul Soliai'],NA,week_7,Miami Dolphins,2013
+['Austin Spitler'],NA,week_7,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_7,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_7,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_7,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_7,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_7,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_7,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_7,Miami Dolphins,2013
+['Jason Trusnik'],Probable: rib,week_7,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_7,Miami Dolphins,2013
+['Cameron Wake'],Questionable: knee,week_7,Miami Dolphins,2013
+['Mike Wallace'],NA,week_7,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_7,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_7,Miami Dolphins,2013
+['Will Yeatman'],Probable: shoulder,week_7,Miami Dolphins,2013
+['Armon Binns'],NA,week_8,Miami Dolphins,2013
+['Sam Brenner'],NA,week_8,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_8,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_8,Miami Dolphins,2013
+['Chris Clemons'],NA,week_8,Miami Dolphins,2013
+['Will Davis'],NA,week_8,Miami Dolphins,2013
+['John Denney'],NA,week_8,Miami Dolphins,2013
+['Pat Devlin'],NA,week_8,Miami Dolphins,2013
+['Michael Egnew'],NA,week_8,Miami Dolphins,2013
+['Dannell Ellerbe'],Questionable: shoulder,week_8,Miami Dolphins,2013
+['Brandon Fields'],NA,week_8,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_8,Miami Dolphins,2013
+['Nate Garner'],NA,week_8,Miami Dolphins,2013
+['Brandon Gibson'],Questionable: shoulder,week_8,Miami Dolphins,2013
+['Brent Grimes'],Probable: back,week_8,Miami Dolphins,2013
+['Brian Hartline'],NA,week_8,Miami Dolphins,2013
+['Richie Incognito'],NA,week_8,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_8,Miami Dolphins,2013
+['John Jerry'],NA,week_8,Miami Dolphins,2013
+['Don Jones'],NA,week_8,Miami Dolphins,2013
+['Reshad Jones'],NA,week_8,Miami Dolphins,2013
+['Dion Jordan'],NA,week_8,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_8,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_8,Miami Dolphins,2013
+['Jonathan Martin'],NA,week_8,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_8,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_8,Miami Dolphins,2013
+['Bryant McKinnie'],Questionable: knee,week_8,Miami Dolphins,2013
+['Lamar Miller'],NA,week_8,Miami Dolphins,2013
+['Koa Misi'],Probable: knee,week_8,Miami Dolphins,2013
+['Marlon Moore'],NA,week_8,Miami Dolphins,2013
+['Jared Odrick'],NA,week_8,Miami Dolphins,2013
+['Dimitri Patterson'],Probable: groin,week_8,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_8,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_8,Miami Dolphins,2013
+['Dion Sims'],NA,week_8,Miami Dolphins,2013
+['Paul Soliai'],NA,week_8,Miami Dolphins,2013
+['Austin Spitler'],NA,week_8,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_8,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_8,Miami Dolphins,2013
+['Ryan Tannehill'],Probable: shoulder,week_8,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_8,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_8,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_8,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_8,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_8,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_8,Miami Dolphins,2013
+['Cameron Wake'],Probable: knee,week_8,Miami Dolphins,2013
+['Mike Wallace'],NA,week_8,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_8,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_8,Miami Dolphins,2013
+['Will Yeatman'],NA,week_8,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_9,Miami Dolphins,2013
+['Sam Brenner'],NA,week_9,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_9,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_9,Miami Dolphins,2013
+['Chris Clemons'],NA,week_9,Miami Dolphins,2013
+['Will Davis'],NA,week_9,Miami Dolphins,2013
+['John Denney'],NA,week_9,Miami Dolphins,2013
+['Pat Devlin'],NA,week_9,Miami Dolphins,2013
+['Michael Egnew'],NA,week_9,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_9,Miami Dolphins,2013
+['Brandon Fields'],NA,week_9,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_9,Miami Dolphins,2013
+['Nate Garner'],NA,week_9,Miami Dolphins,2013
+['Brandon Gibson'],Out: knee,week_9,Miami Dolphins,2013
+['Brent Grimes'],Probable: quadricep,week_9,Miami Dolphins,2013
+['Brian Hartline'],NA,week_9,Miami Dolphins,2013
+['Richie Incognito'],Questionable: neck,week_9,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_9,Miami Dolphins,2013
+['John Jerry'],NA,week_9,Miami Dolphins,2013
+['Don Jones'],NA,week_9,Miami Dolphins,2013
+['Reshad Jones'],NA,week_9,Miami Dolphins,2013
+['Dion Jordan'],NA,week_9,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_9,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_9,Miami Dolphins,2013
+['Jonathan Martin'],Questionable: illness,week_9,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_9,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_9,Miami Dolphins,2013
+['Bryant McKinnie'],Probable: knee,week_9,Miami Dolphins,2013
+['Lamar Miller'],NA,week_9,Miami Dolphins,2013
+['Koa Misi'],NA,week_9,Miami Dolphins,2013
+['Marlon Moore'],NA,week_9,Miami Dolphins,2013
+['Jared Odrick'],NA,week_9,Miami Dolphins,2013
+['Dimitri Patterson'],NA,week_9,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_9,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_9,Miami Dolphins,2013
+['Dion Sims'],Questionable: toe,week_9,Miami Dolphins,2013
+['Paul Soliai'],NA,week_9,Miami Dolphins,2013
+['Austin Spitler'],NA,week_9,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_9,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_9,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_9,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_9,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_9,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_9,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_9,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_9,Miami Dolphins,2013
+['Olivier Vernon'],Probable: knee,week_9,Miami Dolphins,2013
+['Cameron Wake'],NA,week_9,Miami Dolphins,2013
+['Mike Wallace'],NA,week_9,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_9,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_9,Miami Dolphins,2013
+['Will Yeatman'],NA,week_9,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_10,Miami Dolphins,2013
+['Sam Brenner'],NA,week_10,Miami Dolphins,2013
+['Nolan Carroll'],Probable: concussion,week_10,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_10,Miami Dolphins,2013
+['Chris Clemons'],Probable: hamstring,week_10,Miami Dolphins,2013
+['Will Davis'],NA,week_10,Miami Dolphins,2013
+['John Denney'],NA,week_10,Miami Dolphins,2013
+['Pat Devlin'],NA,week_10,Miami Dolphins,2013
+['Michael Egnew'],NA,week_10,Miami Dolphins,2013
+['Dannell Ellerbe'],Probable: calf,week_10,Miami Dolphins,2013
+['Brandon Fields'],NA,week_10,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_10,Miami Dolphins,2013
+['Nate Garner'],Probable: knee,week_10,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_10,Miami Dolphins,2013
+['Brent Grimes'],NA,week_10,Miami Dolphins,2013
+['Brian Hartline'],NA,week_10,Miami Dolphins,2013
+['Richie Incognito'],NA,week_10,Miami Dolphins,2013
+['Jelani Jenkins'],Questionable: foot,week_10,Miami Dolphins,2013
+['John Jerry'],NA,week_10,Miami Dolphins,2013
+['Don Jones'],NA,week_10,Miami Dolphins,2013
+['Reshad Jones'],NA,week_10,Miami Dolphins,2013
+['Dion Jordan'],NA,week_10,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_10,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_10,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_10,Miami Dolphins,2013
+['Vaughn Martin'],Injured Reserve: undisclosed,week_10,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_10,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_10,Miami Dolphins,2013
+['Lamar Miller'],NA,week_10,Miami Dolphins,2013
+['Koa Misi'],Questionable: knee,week_10,Miami Dolphins,2013
+['Marlon Moore'],NA,week_10,Miami Dolphins,2013
+['Jared Odrick'],NA,week_10,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_10,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_10,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_10,Miami Dolphins,2013
+['Dion Sims'],Questionable: toe,week_10,Miami Dolphins,2013
+['Paul Soliai'],NA,week_10,Miami Dolphins,2013
+['Austin Spitler'],NA,week_10,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_10,Miami Dolphins,2013
+['Caleb Sturgis'],Questionable: right groin,week_10,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_10,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_10,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_10,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_10,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_10,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_10,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_10,Miami Dolphins,2013
+['Cameron Wake'],NA,week_10,Miami Dolphins,2013
+['Mike Wallace'],NA,week_10,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_10,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_10,Miami Dolphins,2013
+['Will Yeatman'],NA,week_10,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_11,Miami Dolphins,2013
+['Sam Brenner'],NA,week_11,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_11,Miami Dolphins,2013
+['Tyson Clabo'],Probable: knee,week_11,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/hamstring,week_11,Miami Dolphins,2013
+['Will Davis'],NA,week_11,Miami Dolphins,2013
+['John Denney'],NA,week_11,Miami Dolphins,2013
+['Pat Devlin'],NA,week_11,Miami Dolphins,2013
+['Michael Egnew'],Probable: neck,week_11,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_11,Miami Dolphins,2013
+['Brandon Fields'],Probable: shoulder,week_11,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_11,Miami Dolphins,2013
+['Nate Garner'],NA,week_11,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_11,Miami Dolphins,2013
+['Brent Grimes'],NA,week_11,Miami Dolphins,2013
+['Brian Hartline'],NA,week_11,Miami Dolphins,2013
+['Richie Incognito'],NA,week_11,Miami Dolphins,2013
+['Jelani Jenkins'],Questionable: foot,week_11,Miami Dolphins,2013
+['John Jerry'],NA,week_11,Miami Dolphins,2013
+['Don Jones'],NA,week_11,Miami Dolphins,2013
+['Reshad Jones'],Questionable: groin,week_11,Miami Dolphins,2013
+['Dion Jordan'],NA,week_11,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_11,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_11,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_11,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_11,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_11,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_11,Miami Dolphins,2013
+['Lamar Miller'],NA,week_11,Miami Dolphins,2013
+['Koa Misi'],Questionable: knee,week_11,Miami Dolphins,2013
+['Marlon Moore'],NA,week_11,Miami Dolphins,2013
+['Jared Odrick'],NA,week_11,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_11,Miami Dolphins,2013
+['Mike Pouncey'],Questionable: illness,week_11,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_11,Miami Dolphins,2013
+['Dion Sims'],NA,week_11,Miami Dolphins,2013
+['Paul Soliai'],NA,week_11,Miami Dolphins,2013
+['Austin Spitler'],NA,week_11,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_11,Miami Dolphins,2013
+['Caleb Sturgis'],Questionable: right groin,week_11,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_11,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_11,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_11,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_11,Miami Dolphins,2013
+['Daniel Thomas'],Questionable: ankle,week_11,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_11,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_11,Miami Dolphins,2013
+['Cameron Wake'],NA,week_11,Miami Dolphins,2013
+['Mike Wallace'],Questionable: hamstring,week_11,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_11,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_11,Miami Dolphins,2013
+['Will Yeatman'],Questionable: knee,week_11,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_12,Miami Dolphins,2013
+['Sam Brenner'],NA,week_12,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_12,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_12,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/shoulder,week_12,Miami Dolphins,2013
+['Will Davis'],NA,week_12,Miami Dolphins,2013
+['John Denney'],NA,week_12,Miami Dolphins,2013
+['Pat Devlin'],NA,week_12,Miami Dolphins,2013
+['Michael Egnew'],NA,week_12,Miami Dolphins,2013
+['Dannell Ellerbe'],Questionable: knee,week_12,Miami Dolphins,2013
+['Brandon Fields'],NA,week_12,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_12,Miami Dolphins,2013
+['Nate Garner'],NA,week_12,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_12,Miami Dolphins,2013
+['Brent Grimes'],NA,week_12,Miami Dolphins,2013
+['Brian Hartline'],NA,week_12,Miami Dolphins,2013
+['Richie Incognito'],NA,week_12,Miami Dolphins,2013
+['Jelani Jenkins'],Questionable: foot,week_12,Miami Dolphins,2013
+['John Jerry'],NA,week_12,Miami Dolphins,2013
+['Don Jones'],NA,week_12,Miami Dolphins,2013
+['Reshad Jones'],Questionable: groin,week_12,Miami Dolphins,2013
+['Dion Jordan'],NA,week_12,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_12,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_12,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_12,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_12,Miami Dolphins,2013
+['Rishard Matthews'],Probable: back,week_12,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_12,Miami Dolphins,2013
+['Lamar Miller'],NA,week_12,Miami Dolphins,2013
+['Koa Misi'],Probable: knee,week_12,Miami Dolphins,2013
+['Marlon Moore'],NA,week_12,Miami Dolphins,2013
+['Jared Odrick'],NA,week_12,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_12,Miami Dolphins,2013
+['Mike Pouncey'],Questionable: illness,week_12,Miami Dolphins,2013
+['Derrick Shelby'],Probable: ankle,week_12,Miami Dolphins,2013
+['Dion Sims'],NA,week_12,Miami Dolphins,2013
+['Paul Soliai'],NA,week_12,Miami Dolphins,2013
+['Austin Spitler'],NA,week_12,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_12,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_12,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_12,Miami Dolphins,2013
+['Jamar Taylor'],NA,week_12,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_12,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_12,Miami Dolphins,2013
+['Daniel Thomas'],Probable: ribs,week_12,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_12,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_12,Miami Dolphins,2013
+['Cameron Wake'],NA,week_12,Miami Dolphins,2013
+['Mike Wallace'],Probable: hamstring,week_12,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_12,Miami Dolphins,2013
+['Jimmy Wilson'],Probable: abdomen,week_12,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_12,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_13,Miami Dolphins,2013
+['Sam Brenner'],Questionable: knee,week_13,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_13,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_13,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/hamstring,week_13,Miami Dolphins,2013
+['Will Davis'],NA,week_13,Miami Dolphins,2013
+['John Denney'],NA,week_13,Miami Dolphins,2013
+['Pat Devlin'],NA,week_13,Miami Dolphins,2013
+['Michael Egnew'],NA,week_13,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_13,Miami Dolphins,2013
+['Brandon Fields'],NA,week_13,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_13,Miami Dolphins,2013
+['Nate Garner'],NA,week_13,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_13,Miami Dolphins,2013
+['Brent Grimes'],NA,week_13,Miami Dolphins,2013
+['Brian Hartline'],NA,week_13,Miami Dolphins,2013
+['Richie Incognito'],NA,week_13,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_13,Miami Dolphins,2013
+['John Jerry'],NA,week_13,Miami Dolphins,2013
+['Don Jones'],NA,week_13,Miami Dolphins,2013
+['Reshad Jones'],NA,week_13,Miami Dolphins,2013
+['Dion Jordan'],NA,week_13,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_13,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_13,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_13,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_13,Miami Dolphins,2013
+['Rishard Matthews'],Probable: back,week_13,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_13,Miami Dolphins,2013
+['Lamar Miller'],NA,week_13,Miami Dolphins,2013
+['Koa Misi'],Probable: knee,week_13,Miami Dolphins,2013
+['Marlon Moore'],Probable: hamstring,week_13,Miami Dolphins,2013
+['Jared Odrick'],Probable: knee,week_13,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_13,Miami Dolphins,2013
+['Mike Pouncey'],Probable: illness,week_13,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_13,Miami Dolphins,2013
+['Dion Sims'],NA,week_13,Miami Dolphins,2013
+['Paul Soliai'],NA,week_13,Miami Dolphins,2013
+['Austin Spitler'],NA,week_13,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_13,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_13,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_13,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: hamstring,week_13,Miami Dolphins,2013
+['Marcus Thigpen'],Probable: wrist,week_13,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_13,Miami Dolphins,2013
+['Daniel Thomas'],Out: ankle,week_13,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_13,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_13,Miami Dolphins,2013
+['Cameron Wake'],NA,week_13,Miami Dolphins,2013
+['Mike Wallace'],NA,week_13,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_13,Miami Dolphins,2013
+['Jimmy Wilson'],Probable: abdomen,week_13,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_13,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_14,Miami Dolphins,2013
+['Sam Brenner'],NA,week_14,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_14,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_14,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/hamstring,week_14,Miami Dolphins,2013
+['Will Davis'],NA,week_14,Miami Dolphins,2013
+['John Denney'],NA,week_14,Miami Dolphins,2013
+['Pat Devlin'],NA,week_14,Miami Dolphins,2013
+['Michael Egnew'],Questionable: neck,week_14,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_14,Miami Dolphins,2013
+['Brandon Fields'],NA,week_14,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_14,Miami Dolphins,2013
+['Nate Garner'],NA,week_14,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_14,Miami Dolphins,2013
+['Brent Grimes'],NA,week_14,Miami Dolphins,2013
+['Brian Hartline'],NA,week_14,Miami Dolphins,2013
+['Richie Incognito'],NA,week_14,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_14,Miami Dolphins,2013
+['John Jerry'],Questionable: concussion,week_14,Miami Dolphins,2013
+['Don Jones'],NA,week_14,Miami Dolphins,2013
+['Reshad Jones'],NA,week_14,Miami Dolphins,2013
+['Dion Jordan'],NA,week_14,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_14,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_14,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_14,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_14,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_14,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_14,Miami Dolphins,2013
+['Lamar Miller'],Questionable: pectoral,week_14,Miami Dolphins,2013
+['Koa Misi'],NA,week_14,Miami Dolphins,2013
+['Marlon Moore'],NA,week_14,Miami Dolphins,2013
+['Jared Odrick'],NA,week_14,Miami Dolphins,2013
+['Dimitri Patterson'],Questionable: groin,week_14,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_14,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_14,Miami Dolphins,2013
+['Dion Sims'],NA,week_14,Miami Dolphins,2013
+['Paul Soliai'],NA,week_14,Miami Dolphins,2013
+['Austin Spitler'],Probable: knee,week_14,Miami Dolphins,2013
+['R.J. Stanford'],NA,week_14,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_14,Miami Dolphins,2013
+['Ryan Tannehill'],Probable: thumb,week_14,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: hamstring,week_14,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_14,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_14,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_14,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_14,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_14,Miami Dolphins,2013
+['Cameron Wake'],NA,week_14,Miami Dolphins,2013
+['Mike Wallace'],NA,week_14,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_14,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_14,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_14,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_15,Miami Dolphins,2013
+['Sam Brenner'],NA,week_15,Miami Dolphins,2013
+['Nolan Carroll'],Questionable: hamstring,week_15,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_15,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/hamstring,week_15,Miami Dolphins,2013
+['Will Davis'],NA,week_15,Miami Dolphins,2013
+['John Denney'],NA,week_15,Miami Dolphins,2013
+['Pat Devlin'],NA,week_15,Miami Dolphins,2013
+['Michael Egnew'],NA,week_15,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_15,Miami Dolphins,2013
+['Brandon Fields'],NA,week_15,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_15,Miami Dolphins,2013
+['Nate Garner'],Probable: ribs,week_15,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_15,Miami Dolphins,2013
+['Brent Grimes'],NA,week_15,Miami Dolphins,2013
+['Brian Hartline'],NA,week_15,Miami Dolphins,2013
+['Richie Incognito'],NA,week_15,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_15,Miami Dolphins,2013
+['John Jerry'],NA,week_15,Miami Dolphins,2013
+['Don Jones'],NA,week_15,Miami Dolphins,2013
+['Reshad Jones'],Questionable: groin,week_15,Miami Dolphins,2013
+['Dion Jordan'],NA,week_15,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_15,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_15,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_15,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_15,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_15,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_15,Miami Dolphins,2013
+['Lamar Miller'],Questionable: concussion,week_15,Miami Dolphins,2013
+['Koa Misi'],NA,week_15,Miami Dolphins,2013
+['Marlon Moore'],NA,week_15,Miami Dolphins,2013
+['Jared Odrick'],NA,week_15,Miami Dolphins,2013
+['Dimitri Patterson'],Injured Reserve: groin,week_15,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_15,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_15,Miami Dolphins,2013
+['Dion Sims'],NA,week_15,Miami Dolphins,2013
+['Paul Soliai'],Questionable: ankle,week_15,Miami Dolphins,2013
+['Austin Spitler'],NA,week_15,Miami Dolphins,2013
+['R.J. Stanford'],Injured Reserve: leg,week_15,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_15,Miami Dolphins,2013
+['Ryan Tannehill'],NA,week_15,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: hamstring,week_15,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_15,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_15,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_15,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_15,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_15,Miami Dolphins,2013
+['Cameron Wake'],NA,week_15,Miami Dolphins,2013
+['Mike Wallace'],NA,week_15,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_15,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_15,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_15,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_16,Miami Dolphins,2013
+['Sam Brenner'],NA,week_16,Miami Dolphins,2013
+['Nolan Carroll'],Questionable: knee,week_16,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_16,Miami Dolphins,2013
+['Chris Clemons'],Probable: knee/hamstring,week_16,Miami Dolphins,2013
+['Will Davis'],NA,week_16,Miami Dolphins,2013
+['John Denney'],Probable: illness,week_16,Miami Dolphins,2013
+['Pat Devlin'],NA,week_16,Miami Dolphins,2013
+['Michael Egnew'],NA,week_16,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_16,Miami Dolphins,2013
+['Brandon Fields'],NA,week_16,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_16,Miami Dolphins,2013
+['Nate Garner'],NA,week_16,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_16,Miami Dolphins,2013
+['Brent Grimes'],Probable: groin,week_16,Miami Dolphins,2013
+['Brian Hartline'],NA,week_16,Miami Dolphins,2013
+['Richie Incognito'],NA,week_16,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_16,Miami Dolphins,2013
+['John Jerry'],NA,week_16,Miami Dolphins,2013
+['Don Jones'],NA,week_16,Miami Dolphins,2013
+['Reshad Jones'],Probable: groin,week_16,Miami Dolphins,2013
+['Dion Jordan'],NA,week_16,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_16,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_16,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_16,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_16,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_16,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_16,Miami Dolphins,2013
+['Lamar Miller'],NA,week_16,Miami Dolphins,2013
+['Koa Misi'],NA,week_16,Miami Dolphins,2013
+['Marlon Moore'],NA,week_16,Miami Dolphins,2013
+['Jared Odrick'],NA,week_16,Miami Dolphins,2013
+['Dimitri Patterson'],Injured Reserve: groin,week_16,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_16,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_16,Miami Dolphins,2013
+['Dion Sims'],NA,week_16,Miami Dolphins,2013
+['Paul Soliai'],Probable: ankle,week_16,Miami Dolphins,2013
+['Austin Spitler'],NA,week_16,Miami Dolphins,2013
+['R.J. Stanford'],Injured Reserve: leg,week_16,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_16,Miami Dolphins,2013
+['Ryan Tannehill'],Questionable: knee,week_16,Miami Dolphins,2013
+['Jamar Taylor'],Questionable: hamstring,week_16,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_16,Miami Dolphins,2013
+['Dallas Thomas'],Questionable: ankle,week_16,Miami Dolphins,2013
+['Daniel Thomas'],NA,week_16,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_16,Miami Dolphins,2013
+['Olivier Vernon'],Probable: ankle,week_16,Miami Dolphins,2013
+['Cameron Wake'],NA,week_16,Miami Dolphins,2013
+['Mike Wallace'],NA,week_16,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_16,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_16,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_16,Miami Dolphins,2013
+['Armon Binns'],Injured Reserve: knee,week_17,Miami Dolphins,2013
+['Sam Brenner'],NA,week_17,Miami Dolphins,2013
+['Nolan Carroll'],NA,week_17,Miami Dolphins,2013
+['Tyson Clabo'],NA,week_17,Miami Dolphins,2013
+['Chris Clemons'],Questionable: knee/hamstring,week_17,Miami Dolphins,2013
+['Will Davis'],NA,week_17,Miami Dolphins,2013
+['John Denney'],NA,week_17,Miami Dolphins,2013
+['Pat Devlin'],NA,week_17,Miami Dolphins,2013
+['Michael Egnew'],NA,week_17,Miami Dolphins,2013
+['Dannell Ellerbe'],NA,week_17,Miami Dolphins,2013
+['Brandon Fields'],NA,week_17,Miami Dolphins,2013
+['Jonathan Freeny'],NA,week_17,Miami Dolphins,2013
+['Nate Garner'],NA,week_17,Miami Dolphins,2013
+['Brandon Gibson'],Injured Reserve: knee,week_17,Miami Dolphins,2013
+['Brent Grimes'],NA,week_17,Miami Dolphins,2013
+['Brian Hartline'],Questionable: knee,week_17,Miami Dolphins,2013
+['Richie Incognito'],NA,week_17,Miami Dolphins,2013
+['Jelani Jenkins'],NA,week_17,Miami Dolphins,2013
+['John Jerry'],NA,week_17,Miami Dolphins,2013
+['Don Jones'],Probable: elbow,week_17,Miami Dolphins,2013
+['Reshad Jones'],NA,week_17,Miami Dolphins,2013
+['Dion Jordan'],NA,week_17,Miami Dolphins,2013
+['Josh Kaddu'],NA,week_17,Miami Dolphins,2013
+['Dustin Keller'],Injured Reserve: knee,week_17,Miami Dolphins,2013
+['Jonathan Martin'],Out: illness/personal,week_17,Miami Dolphins,2013
+['Vaughn Martin'],NA,week_17,Miami Dolphins,2013
+['Rishard Matthews'],NA,week_17,Miami Dolphins,2013
+['Bryant McKinnie'],NA,week_17,Miami Dolphins,2013
+['Lamar Miller'],NA,week_17,Miami Dolphins,2013
+['Koa Misi'],Questionable: triceps,week_17,Miami Dolphins,2013
+['Marlon Moore'],Questionable: wrist,week_17,Miami Dolphins,2013
+['Jared Odrick'],Questionable: wrist,week_17,Miami Dolphins,2013
+['Dimitri Patterson'],Injured Reserve: groin,week_17,Miami Dolphins,2013
+['Mike Pouncey'],NA,week_17,Miami Dolphins,2013
+['Derrick Shelby'],NA,week_17,Miami Dolphins,2013
+['Dion Sims'],NA,week_17,Miami Dolphins,2013
+['Paul Soliai'],Questionable: ankle,week_17,Miami Dolphins,2013
+['Austin Spitler'],NA,week_17,Miami Dolphins,2013
+['R.J. Stanford'],Injured Reserve: leg,week_17,Miami Dolphins,2013
+['Caleb Sturgis'],NA,week_17,Miami Dolphins,2013
+['Ryan Tannehill'],Probable: knee,week_17,Miami Dolphins,2013
+['Jamar Taylor'],Probable: hamstring,week_17,Miami Dolphins,2013
+['Marcus Thigpen'],NA,week_17,Miami Dolphins,2013
+['Dallas Thomas'],NA,week_17,Miami Dolphins,2013
+['Daniel Thomas'],Questionable: ankle,week_17,Miami Dolphins,2013
+['Jason Trusnik'],NA,week_17,Miami Dolphins,2013
+['Olivier Vernon'],NA,week_17,Miami Dolphins,2013
+['Cameron Wake'],NA,week_17,Miami Dolphins,2013
+['Mike Wallace'],NA,week_17,Miami Dolphins,2013
+['Philip Wheeler'],NA,week_17,Miami Dolphins,2013
+['Jimmy Wilson'],NA,week_17,Miami Dolphins,2013
+['Will Yeatman'],Injured Reserve: knee,week_17,Miami Dolphins,2013

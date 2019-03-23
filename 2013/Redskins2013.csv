@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['David Amerson'],NA,week_1,Washington Redskins,2013
+['Nick Barnett'],NA,week_1,Washington Redskins,2013
+['E.J. Biggers'],NA,week_1,Washington Redskins,2013
+['Stephen Bowen'],NA,week_1,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_1,Washington Redskins,2013
+['Barry Cofield'],Probable: hand,week_1,Washington Redskins,2013
+['Kirk Cousins'],Probable: foot,week_1,Washington Redskins,2013
+['Fred Davis'],NA,week_1,Washington Redskins,2013
+['Reed Doughty'],NA,week_1,Washington Redskins,2013
+['London Fletcher'],NA,week_1,Washington Redskins,2013
+['Kai Forbath'],NA,week_1,Washington Redskins,2013
+['Pierre Garcon'],NA,week_1,Washington Redskins,2013
+['Kedric Golston'],NA,week_1,Washington Redskins,2013
+['Robert Griffin'],NA,week_1,Washington Redskins,2013
+['Jose Gumbs'],NA,week_1,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_1,Washington Redskins,2013
+['Leonard Hankerson'],NA,week_1,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_1,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_1,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_1,Washington Redskins,2013
+['Bryan Kehl'],NA,week_1,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_1,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_1,Washington Redskins,2013
+['Brandon Meriweather'],Questionable: groin,week_1,Washington Redskins,2013
+['Will Montgomery'],NA,week_1,Washington Redskins,2013
+['Josh Morgan'],NA,week_1,Washington Redskins,2013
+['Alfred Morris'],NA,week_1,Washington Redskins,2013
+['Jerome Murphy'],NA,week_1,Washington Redskins,2013
+['Chris Neild'],NA,week_1,Washington Redskins,2013
+['Brian Orakpo'],NA,week_1,Washington Redskins,2013
+['Niles Paul'],NA,week_1,Washington Redskins,2013
+['Logan Paulsen'],NA,week_1,Washington Redskins,2013
+['Jordan Reed'],NA,week_1,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_1,Washington Redskins,2013
+['Trent Robinson'],NA,week_1,Washington Redskins,2013
+['Evan Royster'],NA,week_1,Washington Redskins,2013
+['Nick Sundberg'],NA,week_1,Washington Redskins,2013
+['Chris Thompson'],NA,week_1,Washington Redskins,2013
+['Trent Williams'],NA,week_1,Washington Redskins,2013
+['Josh Wilson'],NA,week_1,Washington Redskins,2013
+['Darrel Young'],NA,week_1,Washington Redskins,2013
+['David Amerson'],Questionable: back,week_2,Washington Redskins,2013
+['Nick Barnett'],NA,week_2,Washington Redskins,2013
+['E.J. Biggers'],NA,week_2,Washington Redskins,2013
+['Stephen Bowen'],NA,week_2,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_2,Washington Redskins,2013
+['Barry Cofield'],Probable: hand,week_2,Washington Redskins,2013
+['Kirk Cousins'],NA,week_2,Washington Redskins,2013
+['Fred Davis'],NA,week_2,Washington Redskins,2013
+['Reed Doughty'],NA,week_2,Washington Redskins,2013
+['London Fletcher'],NA,week_2,Washington Redskins,2013
+['Kai Forbath'],Questionable: right groin,week_2,Washington Redskins,2013
+['Pierre Garcon'],NA,week_2,Washington Redskins,2013
+['Kedric Golston'],NA,week_2,Washington Redskins,2013
+['Robert Griffin'],NA,week_2,Washington Redskins,2013
+['Jose Gumbs'],NA,week_2,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_2,Washington Redskins,2013
+['Leonard Hankerson'],NA,week_2,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_2,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_2,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_2,Washington Redskins,2013
+['Bryan Kehl'],NA,week_2,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_2,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_2,Washington Redskins,2013
+['Brandon Meriweather'],Probable: groin,week_2,Washington Redskins,2013
+['Will Montgomery'],NA,week_2,Washington Redskins,2013
+['Josh Morgan'],NA,week_2,Washington Redskins,2013
+['Alfred Morris'],NA,week_2,Washington Redskins,2013
+['Jerome Murphy'],NA,week_2,Washington Redskins,2013
+['Chris Neild'],NA,week_2,Washington Redskins,2013
+['Brian Orakpo'],NA,week_2,Washington Redskins,2013
+['Niles Paul'],NA,week_2,Washington Redskins,2013
+['Logan Paulsen'],NA,week_2,Washington Redskins,2013
+['Jordan Reed'],NA,week_2,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_2,Washington Redskins,2013
+['Trent Robinson'],NA,week_2,Washington Redskins,2013
+['Evan Royster'],NA,week_2,Washington Redskins,2013
+['Nick Sundberg'],NA,week_2,Washington Redskins,2013
+['Chris Thompson'],Probable: ankle,week_2,Washington Redskins,2013
+['Trent Williams'],NA,week_2,Washington Redskins,2013
+['Josh Wilson'],NA,week_2,Washington Redskins,2013
+['Darrel Young'],NA,week_2,Washington Redskins,2013
+['David Amerson'],NA,week_3,Washington Redskins,2013
+['Nick Barnett'],NA,week_3,Washington Redskins,2013
+['E.J. Biggers'],NA,week_3,Washington Redskins,2013
+['Stephen Bowen'],Questionable: knee,week_3,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_3,Washington Redskins,2013
+['Barry Cofield'],Probable: hand,week_3,Washington Redskins,2013
+['Kirk Cousins'],NA,week_3,Washington Redskins,2013
+['Fred Davis'],Questionable: ankle,week_3,Washington Redskins,2013
+['Reed Doughty'],NA,week_3,Washington Redskins,2013
+['London Fletcher'],NA,week_3,Washington Redskins,2013
+['Kai Forbath'],Questionable: right groin,week_3,Washington Redskins,2013
+['Pierre Garcon'],NA,week_3,Washington Redskins,2013
+['Kedric Golston'],Questionable: abdomen,week_3,Washington Redskins,2013
+['Robert Griffin'],NA,week_3,Washington Redskins,2013
+['Jose Gumbs'],NA,week_3,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_3,Washington Redskins,2013
+['Leonard Hankerson'],Questionable: hip/hamstring,week_3,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_3,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_3,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_3,Washington Redskins,2013
+['Bryan Kehl'],NA,week_3,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_3,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_3,Washington Redskins,2013
+['Brandon Meriweather'],Doubtful: concussion,week_3,Washington Redskins,2013
+['Will Montgomery'],NA,week_3,Washington Redskins,2013
+['Josh Morgan'],NA,week_3,Washington Redskins,2013
+['Alfred Morris'],NA,week_3,Washington Redskins,2013
+['Jerome Murphy'],NA,week_3,Washington Redskins,2013
+['Chris Neild'],NA,week_3,Washington Redskins,2013
+['Brian Orakpo'],Questionable: head,week_3,Washington Redskins,2013
+['Niles Paul'],NA,week_3,Washington Redskins,2013
+['Logan Paulsen'],NA,week_3,Washington Redskins,2013
+['Jordan Reed'],NA,week_3,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_3,Washington Redskins,2013
+['Trent Robinson'],NA,week_3,Washington Redskins,2013
+['Evan Royster'],NA,week_3,Washington Redskins,2013
+['Nick Sundberg'],NA,week_3,Washington Redskins,2013
+['Chris Thompson'],NA,week_3,Washington Redskins,2013
+['Trent Williams'],NA,week_3,Washington Redskins,2013
+['Josh Wilson'],NA,week_3,Washington Redskins,2013
+['Darrel Young'],NA,week_3,Washington Redskins,2013
+['David Amerson'],NA,week_4,Washington Redskins,2013
+['Nick Barnett'],NA,week_4,Washington Redskins,2013
+['E.J. Biggers'],NA,week_4,Washington Redskins,2013
+['Stephen Bowen'],NA,week_4,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_4,Washington Redskins,2013
+['Barry Cofield'],NA,week_4,Washington Redskins,2013
+['Kirk Cousins'],NA,week_4,Washington Redskins,2013
+['Fred Davis'],Probable: ankle,week_4,Washington Redskins,2013
+['Reed Doughty'],NA,week_4,Washington Redskins,2013
+['London Fletcher'],NA,week_4,Washington Redskins,2013
+['Kai Forbath'],Questionable: right groin,week_4,Washington Redskins,2013
+['Pierre Garcon'],NA,week_4,Washington Redskins,2013
+['Kedric Golston'],NA,week_4,Washington Redskins,2013
+['Robert Griffin'],NA,week_4,Washington Redskins,2013
+['Jose Gumbs'],NA,week_4,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_4,Washington Redskins,2013
+['Leonard Hankerson'],Probable: hamstring,week_4,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_4,Washington Redskins,2013
+['Brandon Jenkins'],Questionable: ankle,week_4,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_4,Washington Redskins,2013
+['Bryan Kehl'],NA,week_4,Washington Redskins,2013
+['Ryan Kerrigan'],Probable: knee,week_4,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_4,Washington Redskins,2013
+['Brandon Meriweather'],Probable: shoulder,week_4,Washington Redskins,2013
+['Will Montgomery'],NA,week_4,Washington Redskins,2013
+['Josh Morgan'],Questionable: hamstring,week_4,Washington Redskins,2013
+['Alfred Morris'],Questionable: ribs,week_4,Washington Redskins,2013
+['Jerome Murphy'],NA,week_4,Washington Redskins,2013
+['Chris Neild'],NA,week_4,Washington Redskins,2013
+['Brian Orakpo'],NA,week_4,Washington Redskins,2013
+['Niles Paul'],NA,week_4,Washington Redskins,2013
+['Logan Paulsen'],NA,week_4,Washington Redskins,2013
+['Jordan Reed'],Questionable: knee,week_4,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_4,Washington Redskins,2013
+['Trent Robinson'],NA,week_4,Washington Redskins,2013
+['Evan Royster'],NA,week_4,Washington Redskins,2013
+['Nick Sundberg'],NA,week_4,Washington Redskins,2013
+['Chris Thompson'],NA,week_4,Washington Redskins,2013
+['Trent Williams'],NA,week_4,Washington Redskins,2013
+['Josh Wilson'],NA,week_4,Washington Redskins,2013
+['Darrel Young'],NA,week_4,Washington Redskins,2013
+['David Amerson'],NA,week_6,Washington Redskins,2013
+['Nick Barnett'],NA,week_6,Washington Redskins,2013
+['E.J. Biggers'],NA,week_6,Washington Redskins,2013
+['Stephen Bowen'],NA,week_6,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_6,Washington Redskins,2013
+['Barry Cofield'],NA,week_6,Washington Redskins,2013
+['Kirk Cousins'],NA,week_6,Washington Redskins,2013
+['Fred Davis'],Probable: ankle,week_6,Washington Redskins,2013
+['Reed Doughty'],NA,week_6,Washington Redskins,2013
+['London Fletcher'],NA,week_6,Washington Redskins,2013
+['Kai Forbath'],Probable: right groin,week_6,Washington Redskins,2013
+['Pierre Garcon'],NA,week_6,Washington Redskins,2013
+['Kedric Golston'],NA,week_6,Washington Redskins,2013
+['Robert Griffin'],NA,week_6,Washington Redskins,2013
+['Jose Gumbs'],NA,week_6,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_6,Washington Redskins,2013
+['Leonard Hankerson'],NA,week_6,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_6,Washington Redskins,2013
+['Brandon Jenkins'],Questionable: ankle,week_6,Washington Redskins,2013
+['Jarvis Jenkins'],Probable: four-game suspension served,week_6,Washington Redskins,2013
+['Bryan Kehl'],NA,week_6,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_6,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_6,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_6,Washington Redskins,2013
+['Will Montgomery'],NA,week_6,Washington Redskins,2013
+['Josh Morgan'],NA,week_6,Washington Redskins,2013
+['Alfred Morris'],Probable: ribs,week_6,Washington Redskins,2013
+['Jerome Murphy'],NA,week_6,Washington Redskins,2013
+['Chris Neild'],Questionable: calf,week_6,Washington Redskins,2013
+['Brian Orakpo'],NA,week_6,Washington Redskins,2013
+['Niles Paul'],NA,week_6,Washington Redskins,2013
+['Logan Paulsen'],Questionable: knee,week_6,Washington Redskins,2013
+['Jordan Reed'],Probable: knee,week_6,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_6,Washington Redskins,2013
+['Trent Robinson'],NA,week_6,Washington Redskins,2013
+['Evan Royster'],NA,week_6,Washington Redskins,2013
+['Nick Sundberg'],NA,week_6,Washington Redskins,2013
+['Chris Thompson'],NA,week_6,Washington Redskins,2013
+['Trent Williams'],NA,week_6,Washington Redskins,2013
+['Josh Wilson'],NA,week_6,Washington Redskins,2013
+['Darrel Young'],NA,week_6,Washington Redskins,2013
+['David Amerson'],Questionable: head,week_7,Washington Redskins,2013
+['Nick Barnett'],NA,week_7,Washington Redskins,2013
+['E.J. Biggers'],NA,week_7,Washington Redskins,2013
+['Stephen Bowen'],NA,week_7,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_7,Washington Redskins,2013
+['Barry Cofield'],NA,week_7,Washington Redskins,2013
+['Kirk Cousins'],NA,week_7,Washington Redskins,2013
+['Fred Davis'],Probable: ankle,week_7,Washington Redskins,2013
+['Reed Doughty'],NA,week_7,Washington Redskins,2013
+['London Fletcher'],NA,week_7,Washington Redskins,2013
+['Kai Forbath'],NA,week_7,Washington Redskins,2013
+['Pierre Garcon'],NA,week_7,Washington Redskins,2013
+['Kedric Golston'],NA,week_7,Washington Redskins,2013
+['Robert Griffin'],NA,week_7,Washington Redskins,2013
+['Jose Gumbs'],NA,week_7,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_7,Washington Redskins,2013
+['Leonard Hankerson'],NA,week_7,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_7,Washington Redskins,2013
+['Brandon Jenkins'],Probable: ankle,week_7,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_7,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_7,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_7,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_7,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_7,Washington Redskins,2013
+['Will Montgomery'],Probable: knee,week_7,Washington Redskins,2013
+['Josh Morgan'],NA,week_7,Washington Redskins,2013
+['Alfred Morris'],NA,week_7,Washington Redskins,2013
+['Jerome Murphy'],Probable: ankle,week_7,Washington Redskins,2013
+['Chris Neild'],Questionable: calf,week_7,Washington Redskins,2013
+['Brian Orakpo'],NA,week_7,Washington Redskins,2013
+['Niles Paul'],NA,week_7,Washington Redskins,2013
+['Logan Paulsen'],Probable: knee,week_7,Washington Redskins,2013
+['Jordan Reed'],NA,week_7,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_7,Washington Redskins,2013
+['Trent Robinson'],NA,week_7,Washington Redskins,2013
+['Evan Royster'],NA,week_7,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_7,Washington Redskins,2013
+['Chris Thompson'],NA,week_7,Washington Redskins,2013
+['Trent Williams'],NA,week_7,Washington Redskins,2013
+['Josh Wilson'],NA,week_7,Washington Redskins,2013
+['Darrel Young'],NA,week_7,Washington Redskins,2013
+['David Amerson'],NA,week_8,Washington Redskins,2013
+['Nick Barnett'],NA,week_8,Washington Redskins,2013
+['E.J. Biggers'],NA,week_8,Washington Redskins,2013
+['Stephen Bowen'],Questionable: knee,week_8,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_8,Washington Redskins,2013
+['Barry Cofield'],NA,week_8,Washington Redskins,2013
+['Kirk Cousins'],NA,week_8,Washington Redskins,2013
+['Fred Davis'],NA,week_8,Washington Redskins,2013
+['Reed Doughty'],Questionable: concussion,week_8,Washington Redskins,2013
+['London Fletcher'],NA,week_8,Washington Redskins,2013
+['Kai Forbath'],NA,week_8,Washington Redskins,2013
+['Pierre Garcon'],NA,week_8,Washington Redskins,2013
+['Kedric Golston'],NA,week_8,Washington Redskins,2013
+['Robert Griffin'],NA,week_8,Washington Redskins,2013
+['Jose Gumbs'],NA,week_8,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_8,Washington Redskins,2013
+['Leonard Hankerson'],Questionable: foot,week_8,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_8,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_8,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_8,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_8,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_8,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_8,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_8,Washington Redskins,2013
+['Will Montgomery'],Probable: knee,week_8,Washington Redskins,2013
+['Josh Morgan'],NA,week_8,Washington Redskins,2013
+['Alfred Morris'],NA,week_8,Washington Redskins,2013
+['Jerome Murphy'],NA,week_8,Washington Redskins,2013
+['Chris Neild'],Questionable: calf,week_8,Washington Redskins,2013
+['Brian Orakpo'],NA,week_8,Washington Redskins,2013
+['Niles Paul'],NA,week_8,Washington Redskins,2013
+['Logan Paulsen'],Probable: knee,week_8,Washington Redskins,2013
+['Jordan Reed'],Probable: hip,week_8,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_8,Washington Redskins,2013
+['Trent Robinson'],NA,week_8,Washington Redskins,2013
+['Evan Royster'],NA,week_8,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_8,Washington Redskins,2013
+['Chris Thompson'],NA,week_8,Washington Redskins,2013
+['Trent Williams'],NA,week_8,Washington Redskins,2013
+['Josh Wilson'],NA,week_8,Washington Redskins,2013
+['Darrel Young'],NA,week_8,Washington Redskins,2013
+['David Amerson'],NA,week_9,Washington Redskins,2013
+['Nick Barnett'],NA,week_9,Washington Redskins,2013
+['E.J. Biggers'],NA,week_9,Washington Redskins,2013
+['Stephen Bowen'],Probable: shoulder/knee,week_9,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_9,Washington Redskins,2013
+['Barry Cofield'],NA,week_9,Washington Redskins,2013
+['Kirk Cousins'],NA,week_9,Washington Redskins,2013
+['Fred Davis'],NA,week_9,Washington Redskins,2013
+['Reed Doughty'],Probable: concussion,week_9,Washington Redskins,2013
+['London Fletcher'],NA,week_9,Washington Redskins,2013
+['Kai Forbath'],NA,week_9,Washington Redskins,2013
+['Pierre Garcon'],Probable: calf,week_9,Washington Redskins,2013
+['Kedric Golston'],NA,week_9,Washington Redskins,2013
+['Robert Griffin'],Probable: knee,week_9,Washington Redskins,2013
+['Jose Gumbs'],Questionable: ankle,week_9,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_9,Washington Redskins,2013
+['Leonard Hankerson'],Probable: foot,week_9,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_9,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_9,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_9,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_9,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_9,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_9,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_9,Washington Redskins,2013
+['Will Montgomery'],NA,week_9,Washington Redskins,2013
+['Josh Morgan'],NA,week_9,Washington Redskins,2013
+['Alfred Morris'],NA,week_9,Washington Redskins,2013
+['Jerome Murphy'],NA,week_9,Washington Redskins,2013
+['Chris Neild'],Probable: calf,week_9,Washington Redskins,2013
+['Brian Orakpo'],NA,week_9,Washington Redskins,2013
+['Niles Paul'],NA,week_9,Washington Redskins,2013
+['Logan Paulsen'],Probable: knee,week_9,Washington Redskins,2013
+['Jordan Reed'],NA,week_9,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_9,Washington Redskins,2013
+['Trent Robinson'],NA,week_9,Washington Redskins,2013
+['Evan Royster'],NA,week_9,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_9,Washington Redskins,2013
+['Chris Thompson'],Probable: shoulder,week_9,Washington Redskins,2013
+['Trent Williams'],NA,week_9,Washington Redskins,2013
+['Josh Wilson'],NA,week_9,Washington Redskins,2013
+['Darrel Young'],NA,week_9,Washington Redskins,2013
+['David Amerson'],NA,week_10,Washington Redskins,2013
+['Nick Barnett'],NA,week_10,Washington Redskins,2013
+['E.J. Biggers'],NA,week_10,Washington Redskins,2013
+['Stephen Bowen'],Probable: shoulder,week_10,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_10,Washington Redskins,2013
+['Barry Cofield'],NA,week_10,Washington Redskins,2013
+['Kirk Cousins'],NA,week_10,Washington Redskins,2013
+['Fred Davis'],NA,week_10,Washington Redskins,2013
+['Reed Doughty'],NA,week_10,Washington Redskins,2013
+['London Fletcher'],Probable: knee,week_10,Washington Redskins,2013
+['Kai Forbath'],NA,week_10,Washington Redskins,2013
+['Pierre Garcon'],NA,week_10,Washington Redskins,2013
+['Kedric Golston'],NA,week_10,Washington Redskins,2013
+['Robert Griffin'],NA,week_10,Washington Redskins,2013
+['Jose Gumbs'],Questionable: ankle,week_10,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_10,Washington Redskins,2013
+['Leonard Hankerson'],Questionable: hamstring,week_10,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_10,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_10,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_10,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_10,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_10,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_10,Washington Redskins,2013
+['Brandon Meriweather'],Probable: two-game suspension served,week_10,Washington Redskins,2013
+['Will Montgomery'],NA,week_10,Washington Redskins,2013
+['Josh Morgan'],NA,week_10,Washington Redskins,2013
+['Alfred Morris'],NA,week_10,Washington Redskins,2013
+['Jerome Murphy'],NA,week_10,Washington Redskins,2013
+['Chris Neild'],Questionable: calf,week_10,Washington Redskins,2013
+['Brian Orakpo'],NA,week_10,Washington Redskins,2013
+['Niles Paul'],NA,week_10,Washington Redskins,2013
+['Logan Paulsen'],Questionable: knee,week_10,Washington Redskins,2013
+['Jordan Reed'],NA,week_10,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_10,Washington Redskins,2013
+['Trent Robinson'],NA,week_10,Washington Redskins,2013
+['Evan Royster'],NA,week_10,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_10,Washington Redskins,2013
+['Chris Thompson'],Questionable: shoulder,week_10,Washington Redskins,2013
+['Trent Williams'],NA,week_10,Washington Redskins,2013
+['Josh Wilson'],NA,week_10,Washington Redskins,2013
+['Darrel Young'],NA,week_10,Washington Redskins,2013
+['David Amerson'],NA,week_11,Washington Redskins,2013
+['Nick Barnett'],NA,week_11,Washington Redskins,2013
+['E.J. Biggers'],Questionable: knee,week_11,Washington Redskins,2013
+['Stephen Bowen'],Questionable: knee,week_11,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_11,Washington Redskins,2013
+['Barry Cofield'],NA,week_11,Washington Redskins,2013
+['Kirk Cousins'],NA,week_11,Washington Redskins,2013
+['Fred Davis'],NA,week_11,Washington Redskins,2013
+['Reed Doughty'],NA,week_11,Washington Redskins,2013
+['London Fletcher'],NA,week_11,Washington Redskins,2013
+['Kai Forbath'],NA,week_11,Washington Redskins,2013
+['Pierre Garcon'],NA,week_11,Washington Redskins,2013
+['Kedric Golston'],NA,week_11,Washington Redskins,2013
+['Robert Griffin'],NA,week_11,Washington Redskins,2013
+['Jose Gumbs'],Probable: ankle,week_11,Washington Redskins,2013
+['DeAngelo Hall'],Questionable: foot,week_11,Washington Redskins,2013
+['Leonard Hankerson'],Probable: hamstring,week_11,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_11,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_11,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_11,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_11,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_11,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_11,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_11,Washington Redskins,2013
+['Will Montgomery'],NA,week_11,Washington Redskins,2013
+['Josh Morgan'],NA,week_11,Washington Redskins,2013
+['Alfred Morris'],NA,week_11,Washington Redskins,2013
+['Jerome Murphy'],NA,week_11,Washington Redskins,2013
+['Chris Neild'],NA,week_11,Washington Redskins,2013
+['Brian Orakpo'],NA,week_11,Washington Redskins,2013
+['Niles Paul'],NA,week_11,Washington Redskins,2013
+['Logan Paulsen'],Probable: knee,week_11,Washington Redskins,2013
+['Jordan Reed'],NA,week_11,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_11,Washington Redskins,2013
+['Trent Robinson'],NA,week_11,Washington Redskins,2013
+['Evan Royster'],Probable: back,week_11,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_11,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_11,Washington Redskins,2013
+['Trent Williams'],NA,week_11,Washington Redskins,2013
+['Josh Wilson'],NA,week_11,Washington Redskins,2013
+['Darrel Young'],NA,week_11,Washington Redskins,2013
+['David Amerson'],NA,week_12,Washington Redskins,2013
+['Nick Barnett'],NA,week_12,Washington Redskins,2013
+['E.J. Biggers'],Probable: knee,week_12,Washington Redskins,2013
+['Stephen Bowen'],Questionable: knee,week_12,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_12,Washington Redskins,2013
+['Barry Cofield'],NA,week_12,Washington Redskins,2013
+['Kirk Cousins'],NA,week_12,Washington Redskins,2013
+['Fred Davis'],NA,week_12,Washington Redskins,2013
+['Reed Doughty'],NA,week_12,Washington Redskins,2013
+['London Fletcher'],NA,week_12,Washington Redskins,2013
+['Kai Forbath'],NA,week_12,Washington Redskins,2013
+['Pierre Garcon'],NA,week_12,Washington Redskins,2013
+['Kedric Golston'],NA,week_12,Washington Redskins,2013
+['Robert Griffin'],NA,week_12,Washington Redskins,2013
+['Jose Gumbs'],Questionable: ankle,week_12,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_12,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_12,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_12,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_12,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_12,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_12,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_12,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_12,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_12,Washington Redskins,2013
+['Will Montgomery'],NA,week_12,Washington Redskins,2013
+['Josh Morgan'],NA,week_12,Washington Redskins,2013
+['Alfred Morris'],NA,week_12,Washington Redskins,2013
+['Jerome Murphy'],NA,week_12,Washington Redskins,2013
+['Chris Neild'],NA,week_12,Washington Redskins,2013
+['Brian Orakpo'],NA,week_12,Washington Redskins,2013
+['Niles Paul'],NA,week_12,Washington Redskins,2013
+['Logan Paulsen'],NA,week_12,Washington Redskins,2013
+['Jordan Reed'],Questionable: concussion,week_12,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_12,Washington Redskins,2013
+['Trent Robinson'],NA,week_12,Washington Redskins,2013
+['Evan Royster'],NA,week_12,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_12,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_12,Washington Redskins,2013
+['Trent Williams'],NA,week_12,Washington Redskins,2013
+['Josh Wilson'],Probable: toe,week_12,Washington Redskins,2013
+['Darrel Young'],Probable: hamstring,week_12,Washington Redskins,2013
+['David Amerson'],NA,week_13,Washington Redskins,2013
+['Nick Barnett'],NA,week_13,Washington Redskins,2013
+['E.J. Biggers'],NA,week_13,Washington Redskins,2013
+['Stephen Bowen'],Injured Reserve: knee,week_13,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_13,Washington Redskins,2013
+['Barry Cofield'],NA,week_13,Washington Redskins,2013
+['Kirk Cousins'],NA,week_13,Washington Redskins,2013
+['Fred Davis'],NA,week_13,Washington Redskins,2013
+['Reed Doughty'],NA,week_13,Washington Redskins,2013
+['London Fletcher'],NA,week_13,Washington Redskins,2013
+['Kai Forbath'],NA,week_13,Washington Redskins,2013
+['Pierre Garcon'],NA,week_13,Washington Redskins,2013
+['Kedric Golston'],NA,week_13,Washington Redskins,2013
+['Robert Griffin'],NA,week_13,Washington Redskins,2013
+['Jose Gumbs'],Questionable: ankle,week_13,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_13,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_13,Washington Redskins,2013
+['Maurice Hurt'],Physically Unable to Perform: knee,week_13,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_13,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_13,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_13,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_13,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_13,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_13,Washington Redskins,2013
+['Will Montgomery'],NA,week_13,Washington Redskins,2013
+['Josh Morgan'],NA,week_13,Washington Redskins,2013
+['Alfred Morris'],NA,week_13,Washington Redskins,2013
+['Jerome Murphy'],NA,week_13,Washington Redskins,2013
+['Chris Neild'],NA,week_13,Washington Redskins,2013
+['Brian Orakpo'],NA,week_13,Washington Redskins,2013
+['Niles Paul'],Questionable: illness,week_13,Washington Redskins,2013
+['Logan Paulsen'],NA,week_13,Washington Redskins,2013
+['Jordan Reed'],Questionable: concussion,week_13,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_13,Washington Redskins,2013
+['Trent Robinson'],NA,week_13,Washington Redskins,2013
+['Evan Royster'],NA,week_13,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_13,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_13,Washington Redskins,2013
+['Trent Williams'],NA,week_13,Washington Redskins,2013
+['Josh Wilson'],NA,week_13,Washington Redskins,2013
+['Darrel Young'],Questionable: hamstring,week_13,Washington Redskins,2013
+['David Amerson'],NA,week_14,Washington Redskins,2013
+['Nick Barnett'],NA,week_14,Washington Redskins,2013
+['E.J. Biggers'],NA,week_14,Washington Redskins,2013
+['Stephen Bowen'],Injured Reserve: knee,week_14,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_14,Washington Redskins,2013
+['Barry Cofield'],NA,week_14,Washington Redskins,2013
+['Kirk Cousins'],NA,week_14,Washington Redskins,2013
+['Fred Davis'],NA,week_14,Washington Redskins,2013
+['Reed Doughty'],Questionable: concussion/shoulder,week_14,Washington Redskins,2013
+['London Fletcher'],Questionable: ankle,week_14,Washington Redskins,2013
+['Kai Forbath'],NA,week_14,Washington Redskins,2013
+['Pierre Garcon'],NA,week_14,Washington Redskins,2013
+['Kedric Golston'],NA,week_14,Washington Redskins,2013
+['Robert Griffin'],NA,week_14,Washington Redskins,2013
+['Jose Gumbs'],NA,week_14,Washington Redskins,2013
+['DeAngelo Hall'],Questionable: hip/back,week_14,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_14,Washington Redskins,2013
+['Maurice Hurt'],Injured Reserve: knee,week_14,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_14,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_14,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_14,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_14,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_14,Washington Redskins,2013
+['Brandon Meriweather'],Questionable: chest,week_14,Washington Redskins,2013
+['Will Montgomery'],NA,week_14,Washington Redskins,2013
+['Josh Morgan'],NA,week_14,Washington Redskins,2013
+['Alfred Morris'],NA,week_14,Washington Redskins,2013
+['Jerome Murphy'],NA,week_14,Washington Redskins,2013
+['Chris Neild'],NA,week_14,Washington Redskins,2013
+['Brian Orakpo'],NA,week_14,Washington Redskins,2013
+['Niles Paul'],Probable: illness,week_14,Washington Redskins,2013
+['Logan Paulsen'],NA,week_14,Washington Redskins,2013
+['Jordan Reed'],Questionable: concussion,week_14,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_14,Washington Redskins,2013
+['Trent Robinson'],NA,week_14,Washington Redskins,2013
+['Evan Royster'],NA,week_14,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_14,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_14,Washington Redskins,2013
+['Trent Williams'],Questionable: foot,week_14,Washington Redskins,2013
+['Josh Wilson'],NA,week_14,Washington Redskins,2013
+['Darrel Young'],Questionable: hamstring,week_14,Washington Redskins,2013
+['David Amerson'],NA,week_15,Washington Redskins,2013
+['Nick Barnett'],NA,week_15,Washington Redskins,2013
+['E.J. Biggers'],NA,week_15,Washington Redskins,2013
+['Stephen Bowen'],Injured Reserve: knee,week_15,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_15,Washington Redskins,2013
+['Barry Cofield'],NA,week_15,Washington Redskins,2013
+['Kirk Cousins'],NA,week_15,Washington Redskins,2013
+['Fred Davis'],NA,week_15,Washington Redskins,2013
+['Reed Doughty'],NA,week_15,Washington Redskins,2013
+['London Fletcher'],NA,week_15,Washington Redskins,2013
+['Kai Forbath'],NA,week_15,Washington Redskins,2013
+['Pierre Garcon'],NA,week_15,Washington Redskins,2013
+['Kedric Golston'],NA,week_15,Washington Redskins,2013
+['Robert Griffin'],NA,week_15,Washington Redskins,2013
+['Jose Gumbs'],NA,week_15,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_15,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_15,Washington Redskins,2013
+['Maurice Hurt'],Injured Reserve: knee,week_15,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_15,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_15,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_15,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_15,Washington Redskins,2013
+['Kory Lichtensteiger'],Probable: stinger,week_15,Washington Redskins,2013
+['Brandon Meriweather'],Probable: chest,week_15,Washington Redskins,2013
+['Will Montgomery'],NA,week_15,Washington Redskins,2013
+['Josh Morgan'],NA,week_15,Washington Redskins,2013
+['Alfred Morris'],NA,week_15,Washington Redskins,2013
+['Jerome Murphy'],NA,week_15,Washington Redskins,2013
+['Chris Neild'],NA,week_15,Washington Redskins,2013
+['Brian Orakpo'],NA,week_15,Washington Redskins,2013
+['Niles Paul'],NA,week_15,Washington Redskins,2013
+['Logan Paulsen'],NA,week_15,Washington Redskins,2013
+['Jordan Reed'],Questionable: concussion,week_15,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_15,Washington Redskins,2013
+['Trent Robinson'],Questionable: ankle,week_15,Washington Redskins,2013
+['Evan Royster'],Injured Reserve: ankle,week_15,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_15,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_15,Washington Redskins,2013
+['Trent Williams'],NA,week_15,Washington Redskins,2013
+['Josh Wilson'],NA,week_15,Washington Redskins,2013
+['Darrel Young'],Probable: hamstring,week_15,Washington Redskins,2013
+['David Amerson'],NA,week_16,Washington Redskins,2013
+['Nick Barnett'],NA,week_16,Washington Redskins,2013
+['E.J. Biggers'],Probable: knee,week_16,Washington Redskins,2013
+['Stephen Bowen'],Injured Reserve: knee,week_16,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_16,Washington Redskins,2013
+['Barry Cofield'],NA,week_16,Washington Redskins,2013
+['Kirk Cousins'],NA,week_16,Washington Redskins,2013
+['Fred Davis'],NA,week_16,Washington Redskins,2013
+['Reed Doughty'],NA,week_16,Washington Redskins,2013
+['London Fletcher'],NA,week_16,Washington Redskins,2013
+['Kai Forbath'],NA,week_16,Washington Redskins,2013
+['Pierre Garcon'],NA,week_16,Washington Redskins,2013
+['Kedric Golston'],NA,week_16,Washington Redskins,2013
+['Robert Griffin'],NA,week_16,Washington Redskins,2013
+['Jose Gumbs'],NA,week_16,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_16,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_16,Washington Redskins,2013
+['Maurice Hurt'],Injured Reserve: knee,week_16,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_16,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_16,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_16,Washington Redskins,2013
+['Ryan Kerrigan'],NA,week_16,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_16,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_16,Washington Redskins,2013
+['Will Montgomery'],NA,week_16,Washington Redskins,2013
+['Josh Morgan'],NA,week_16,Washington Redskins,2013
+['Alfred Morris'],NA,week_16,Washington Redskins,2013
+['Jerome Murphy'],NA,week_16,Washington Redskins,2013
+['Chris Neild'],NA,week_16,Washington Redskins,2013
+['Brian Orakpo'],NA,week_16,Washington Redskins,2013
+['Niles Paul'],NA,week_16,Washington Redskins,2013
+['Logan Paulsen'],NA,week_16,Washington Redskins,2013
+['Jordan Reed'],Questionable: concussion,week_16,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_16,Washington Redskins,2013
+['Trent Robinson'],NA,week_16,Washington Redskins,2013
+['Evan Royster'],Injured Reserve: ankle,week_16,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_16,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_16,Washington Redskins,2013
+['Trent Williams'],Questionable: knee,week_16,Washington Redskins,2013
+['Josh Wilson'],NA,week_16,Washington Redskins,2013
+['Darrel Young'],Questionable: hamstring,week_16,Washington Redskins,2013
+['David Amerson'],NA,week_17,Washington Redskins,2013
+['Nick Barnett'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['E.J. Biggers'],NA,week_17,Washington Redskins,2013
+['Stephen Bowen'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['Adam Carriker'],Physically Unable to Perform: quadriceps,week_17,Washington Redskins,2013
+['Barry Cofield'],NA,week_17,Washington Redskins,2013
+['Kirk Cousins'],NA,week_17,Washington Redskins,2013
+['Fred Davis'],NA,week_17,Washington Redskins,2013
+['Reed Doughty'],NA,week_17,Washington Redskins,2013
+['London Fletcher'],NA,week_17,Washington Redskins,2013
+['Kai Forbath'],NA,week_17,Washington Redskins,2013
+['Pierre Garcon'],NA,week_17,Washington Redskins,2013
+['Kedric Golston'],NA,week_17,Washington Redskins,2013
+['Robert Griffin'],NA,week_17,Washington Redskins,2013
+['Jose Gumbs'],NA,week_17,Washington Redskins,2013
+['DeAngelo Hall'],NA,week_17,Washington Redskins,2013
+['Leonard Hankerson'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['Maurice Hurt'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['Brandon Jenkins'],NA,week_17,Washington Redskins,2013
+['Jarvis Jenkins'],NA,week_17,Washington Redskins,2013
+['Bryan Kehl'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['Ryan Kerrigan'],Probable: wrist,week_17,Washington Redskins,2013
+['Kory Lichtensteiger'],NA,week_17,Washington Redskins,2013
+['Brandon Meriweather'],NA,week_17,Washington Redskins,2013
+['Will Montgomery'],NA,week_17,Washington Redskins,2013
+['Josh Morgan'],NA,week_17,Washington Redskins,2013
+['Alfred Morris'],NA,week_17,Washington Redskins,2013
+['Jerome Murphy'],NA,week_17,Washington Redskins,2013
+['Chris Neild'],NA,week_17,Washington Redskins,2013
+['Brian Orakpo'],Questionable: groin,week_17,Washington Redskins,2013
+['Niles Paul'],NA,week_17,Washington Redskins,2013
+['Logan Paulsen'],NA,week_17,Washington Redskins,2013
+['Jordan Reed'],Injured Reserve: concussion,week_17,Washington Redskins,2013
+['Keenan Robinson'],Injured Reserve: pectoral,week_17,Washington Redskins,2013
+['Trent Robinson'],NA,week_17,Washington Redskins,2013
+['Evan Royster'],Injured Reserve: ankle,week_17,Washington Redskins,2013
+['Nick Sundberg'],Injured Reserve: knee,week_17,Washington Redskins,2013
+['Chris Thompson'],Injured Reserve: shoulder,week_17,Washington Redskins,2013
+['Trent Williams'],NA,week_17,Washington Redskins,2013
+['Josh Wilson'],NA,week_17,Washington Redskins,2013
+['Darrel Young'],Probable: hamstring,week_17,Washington Redskins,2013

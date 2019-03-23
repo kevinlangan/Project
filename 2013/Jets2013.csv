@@ -1,0 +1,833 @@
+﻿name,injury,week,team,year
+['Oday Aboushi'],NA,week_1,New York Jets,2013
+['Antonio Allen'],NA,week_1,New York Jets,2013
+['Antwan Barnes'],NA,week_1,New York Jets,2013
+['Nick Bellore'],Probable: oblique,week_1,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_1,New York Jets,2013
+['Willie Colon'],Probable: knee/shoulder ,week_1,New York Jets,2013
+['Quinton Coples'],Out: ankle,week_1,New York Jets,2013
+['Josh Cribbs'],NA,week_1,New York Jets,2013
+['Antonio Cromartie'],Questionable: hip,week_1,New York Jets,2013
+['Jeff Cumberland'],NA,week_1,New York Jets,2013
+['Demario Davis'],NA,week_1,New York Jets,2013
+['Troy Davis'],NA,week_1,New York Jets,2013
+['Leger Douzable'],Questionable: illness,week_1,New York Jets,2013
+['Vlad Ducasse'],Probable: calf,week_1,New York Jets,2013
+['Kenrick Ellis'],Questionable: back,week_1,New York Jets,2013
+['David Garrard'],NA,week_1,New York Jets,2013
+['Clyde Gates'],Probable: shoulder,week_1,New York Jets,2013
+['Mike Goodson'],NA,week_1,New York Jets,2013
+['Alex Green'],NA,week_1,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_1,New York Jets,2013
+['David Harris'],Probable: hip,week_1,New York Jets,2013
+['Damon Harrison'],Probable: knee,week_1,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_1,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_1,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_1,New York Jets,2013
+['Santonio Holmes'],Probable: foot,week_1,New York Jets,2013
+['Austin Howard'],NA,week_1,New York Jets,2013
+['Ben Ijalana'],Probable: knee,week_1,New York Jets,2013
+['Chris Ivory'],NA,week_1,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_1,New York Jets,2013
+['Jeremy Kerley'],Probable: finger,week_1,New York Jets,2013
+['Dawan Landry'],NA,week_1,New York Jets,2013
+['Ellis Lankster'],Probable: foot/hamstring,week_1,New York Jets,2013
+['Nick Mangold'],Questionable: arm,week_1,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_1,New York Jets,2013
+['Garrett McIntyre'],NA,week_1,New York Jets,2013
+['Dee Milliner'],Probable: achilles,week_1,New York Jets,2013
+['David Nelson'],NA,week_1,New York Jets,2013
+['Calvin Pace'],NA,week_1,New York Jets,2013
+['Bilal Powell'],NA,week_1,New York Jets,2013
+['Konrad Reuland'],NA,week_1,New York Jets,2013
+['Sheldon Richardson'],NA,week_1,New York Jets,2013
+['Greg Salas'],NA,week_1,New York Jets,2013
+['Mark Sanchez'],Out: shoulder,week_1,New York Jets,2013
+['Matt Simms'],Probable: calf/oblique,week_1,New York Jets,2013
+['Geno Smith'],Probable: ankle,week_1,New York Jets,2013
+['Zach Sudfeld'],NA,week_1,New York Jets,2013
+['Darrin Walls'],NA,week_1,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_1,New York Jets,2013
+['Kyle Wilson'],NA,week_1,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_1,New York Jets,2013
+['Brian Winters'],Probable: ankle,week_1,New York Jets,2013
+['Oday Aboushi'],NA,week_2,New York Jets,2013
+['Antonio Allen'],NA,week_2,New York Jets,2013
+['Antwan Barnes'],NA,week_2,New York Jets,2013
+['Nick Bellore'],Probable: oblique,week_2,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_2,New York Jets,2013
+['Willie Colon'],Probable: knee,week_2,New York Jets,2013
+['Quinton Coples'],Questionable: ankle,week_2,New York Jets,2013
+['Josh Cribbs'],NA,week_2,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_2,New York Jets,2013
+['Jeff Cumberland'],Probable: chin,week_2,New York Jets,2013
+['Demario Davis'],NA,week_2,New York Jets,2013
+['Troy Davis'],NA,week_2,New York Jets,2013
+['Leger Douzable'],NA,week_2,New York Jets,2013
+['Vlad Ducasse'],NA,week_2,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_2,New York Jets,2013
+['David Garrard'],NA,week_2,New York Jets,2013
+['Clyde Gates'],Probable: knee,week_2,New York Jets,2013
+['Mike Goodson'],NA,week_2,New York Jets,2013
+['Alex Green'],NA,week_2,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_2,New York Jets,2013
+['David Harris'],NA,week_2,New York Jets,2013
+['Damon Harrison'],Probable: knee,week_2,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_2,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_2,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_2,New York Jets,2013
+['Santonio Holmes'],Probable: foot,week_2,New York Jets,2013
+['Austin Howard'],NA,week_2,New York Jets,2013
+['Ben Ijalana'],Questionable: knee,week_2,New York Jets,2013
+['Chris Ivory'],Probable: thumb,week_2,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_2,New York Jets,2013
+['Jeremy Kerley'],Questionable: head,week_2,New York Jets,2013
+['Dawan Landry'],NA,week_2,New York Jets,2013
+['Ellis Lankster'],NA,week_2,New York Jets,2013
+['Nick Mangold'],Probable: elbow,week_2,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_2,New York Jets,2013
+['Garrett McIntyre'],Probable: ribs,week_2,New York Jets,2013
+['Dee Milliner'],Probable: hip,week_2,New York Jets,2013
+['David Nelson'],NA,week_2,New York Jets,2013
+['Calvin Pace'],NA,week_2,New York Jets,2013
+['Bilal Powell'],Probable: shoulder,week_2,New York Jets,2013
+['Konrad Reuland'],NA,week_2,New York Jets,2013
+['Sheldon Richardson'],Probable: shoulder,week_2,New York Jets,2013
+['Greg Salas'],NA,week_2,New York Jets,2013
+['Mark Sanchez'],Questionable: shoulder,week_2,New York Jets,2013
+['Matt Simms'],NA,week_2,New York Jets,2013
+['Geno Smith'],Probable: ankle,week_2,New York Jets,2013
+['Zach Sudfeld'],NA,week_2,New York Jets,2013
+['Darrin Walls'],NA,week_2,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_2,New York Jets,2013
+['Kyle Wilson'],NA,week_2,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_2,New York Jets,2013
+['Brian Winters'],NA,week_2,New York Jets,2013
+['Oday Aboushi'],Questionable: knee,week_3,New York Jets,2013
+['Antonio Allen'],NA,week_3,New York Jets,2013
+['Antwan Barnes'],NA,week_3,New York Jets,2013
+['Nick Bellore'],NA,week_3,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_3,New York Jets,2013
+['Willie Colon'],Probable: knee,week_3,New York Jets,2013
+['Quinton Coples'],Questionable: ankle,week_3,New York Jets,2013
+['Josh Cribbs'],NA,week_3,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_3,New York Jets,2013
+['Jeff Cumberland'],NA,week_3,New York Jets,2013
+['Demario Davis'],NA,week_3,New York Jets,2013
+['Troy Davis'],NA,week_3,New York Jets,2013
+['Leger Douzable'],NA,week_3,New York Jets,2013
+['Vlad Ducasse'],NA,week_3,New York Jets,2013
+['Kenrick Ellis'],Questionable: back,week_3,New York Jets,2013
+['David Garrard'],NA,week_3,New York Jets,2013
+['Clyde Gates'],Probable: knee,week_3,New York Jets,2013
+['Mike Goodson'],NA,week_3,New York Jets,2013
+['Alex Green'],NA,week_3,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_3,New York Jets,2013
+['David Harris'],NA,week_3,New York Jets,2013
+['Damon Harrison'],NA,week_3,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_3,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_3,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_3,New York Jets,2013
+['Santonio Holmes'],Questionable: foot,week_3,New York Jets,2013
+['Austin Howard'],Probable: ribs,week_3,New York Jets,2013
+['Ben Ijalana'],NA,week_3,New York Jets,2013
+['Chris Ivory'],NA,week_3,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_3,New York Jets,2013
+['Jeremy Kerley'],Probable: head,week_3,New York Jets,2013
+['Dawan Landry'],NA,week_3,New York Jets,2013
+['Ellis Lankster'],NA,week_3,New York Jets,2013
+['Nick Mangold'],NA,week_3,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_3,New York Jets,2013
+['Garrett McIntyre'],Probable: knee,week_3,New York Jets,2013
+['Dee Milliner'],NA,week_3,New York Jets,2013
+['David Nelson'],NA,week_3,New York Jets,2013
+['Calvin Pace'],NA,week_3,New York Jets,2013
+['Bilal Powell'],Questionable: illness,week_3,New York Jets,2013
+['Konrad Reuland'],NA,week_3,New York Jets,2013
+['Sheldon Richardson'],Questionable: shoulder,week_3,New York Jets,2013
+['Greg Salas'],NA,week_3,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_3,New York Jets,2013
+['Matt Simms'],NA,week_3,New York Jets,2013
+['Geno Smith'],Probable: ankle,week_3,New York Jets,2013
+['Zach Sudfeld'],NA,week_3,New York Jets,2013
+['Darrin Walls'],NA,week_3,New York Jets,2013
+['Muhammad Wilkerson'],Probable: ankle,week_3,New York Jets,2013
+['Kyle Wilson'],NA,week_3,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_3,New York Jets,2013
+['Brian Winters'],NA,week_3,New York Jets,2013
+['Oday Aboushi'],Questionable: knee,week_4,New York Jets,2013
+['Antonio Allen'],NA,week_4,New York Jets,2013
+['Antwan Barnes'],NA,week_4,New York Jets,2013
+['Nick Bellore'],NA,week_4,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_4,New York Jets,2013
+['Willie Colon'],Probable: elbow,week_4,New York Jets,2013
+['Quinton Coples'],Questionable: ankle,week_4,New York Jets,2013
+['Josh Cribbs'],NA,week_4,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_4,New York Jets,2013
+['Jeff Cumberland'],NA,week_4,New York Jets,2013
+['Demario Davis'],NA,week_4,New York Jets,2013
+['Troy Davis'],NA,week_4,New York Jets,2013
+['Leger Douzable'],NA,week_4,New York Jets,2013
+['Vlad Ducasse'],NA,week_4,New York Jets,2013
+['Kenrick Ellis'],Questionable: back,week_4,New York Jets,2013
+['David Garrard'],NA,week_4,New York Jets,2013
+['Clyde Gates'],Questionable: knee,week_4,New York Jets,2013
+['Mike Goodson'],NA,week_4,New York Jets,2013
+['Alex Green'],NA,week_4,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_4,New York Jets,2013
+['David Harris'],NA,week_4,New York Jets,2013
+['Damon Harrison'],NA,week_4,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_4,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_4,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_4,New York Jets,2013
+['Santonio Holmes'],Probable: foot,week_4,New York Jets,2013
+['Austin Howard'],NA,week_4,New York Jets,2013
+['Ben Ijalana'],NA,week_4,New York Jets,2013
+['Chris Ivory'],Out: hamstring,week_4,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_4,New York Jets,2013
+['Jeremy Kerley'],NA,week_4,New York Jets,2013
+['Dawan Landry'],NA,week_4,New York Jets,2013
+['Ellis Lankster'],NA,week_4,New York Jets,2013
+['Nick Mangold'],NA,week_4,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_4,New York Jets,2013
+['Garrett McIntyre'],Probable: shoulder,week_4,New York Jets,2013
+['Dee Milliner'],Probable: hamstring,week_4,New York Jets,2013
+['David Nelson'],NA,week_4,New York Jets,2013
+['Calvin Pace'],NA,week_4,New York Jets,2013
+['Bilal Powell'],NA,week_4,New York Jets,2013
+['Konrad Reuland'],NA,week_4,New York Jets,2013
+['Sheldon Richardson'],Questionable: shoulder,week_4,New York Jets,2013
+['Greg Salas'],NA,week_4,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_4,New York Jets,2013
+['Matt Simms'],NA,week_4,New York Jets,2013
+['Geno Smith'],Probable: ankle,week_4,New York Jets,2013
+['Zach Sudfeld'],NA,week_4,New York Jets,2013
+['Darrin Walls'],NA,week_4,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_4,New York Jets,2013
+['Kyle Wilson'],NA,week_4,New York Jets,2013
+['Kellen Winslow'],Probable: knee,week_4,New York Jets,2013
+['Brian Winters'],NA,week_4,New York Jets,2013
+['Oday Aboushi'],Questionable: knee,week_5,New York Jets,2013
+['Antonio Allen'],Probable: finger,week_5,New York Jets,2013
+['Antwan Barnes'],NA,week_5,New York Jets,2013
+['Nick Bellore'],NA,week_5,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_5,New York Jets,2013
+['Willie Colon'],Probable: elbow,week_5,New York Jets,2013
+['Quinton Coples'],Probable: ankle,week_5,New York Jets,2013
+['Josh Cribbs'],NA,week_5,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_5,New York Jets,2013
+['Jeff Cumberland'],NA,week_5,New York Jets,2013
+['Demario Davis'],NA,week_5,New York Jets,2013
+['Troy Davis'],NA,week_5,New York Jets,2013
+['Leger Douzable'],NA,week_5,New York Jets,2013
+['Vlad Ducasse'],NA,week_5,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_5,New York Jets,2013
+['David Garrard'],NA,week_5,New York Jets,2013
+['Clyde Gates'],Questionable: knee,week_5,New York Jets,2013
+['Mike Goodson'],Probable: four-game suspension served,week_5,New York Jets,2013
+['Alex Green'],NA,week_5,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_5,New York Jets,2013
+['David Harris'],NA,week_5,New York Jets,2013
+['Damon Harrison'],NA,week_5,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_5,New York Jets,2013
+['Stephen Hill'],Questionable: concussion,week_5,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_5,New York Jets,2013
+['Santonio Holmes'],Out: hamstring,week_5,New York Jets,2013
+['Austin Howard'],NA,week_5,New York Jets,2013
+['Ben Ijalana'],NA,week_5,New York Jets,2013
+['Chris Ivory'],Questionable: hamstring,week_5,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_5,New York Jets,2013
+['Jeremy Kerley'],NA,week_5,New York Jets,2013
+['Dawan Landry'],NA,week_5,New York Jets,2013
+['Ellis Lankster'],NA,week_5,New York Jets,2013
+['Nick Mangold'],NA,week_5,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_5,New York Jets,2013
+['Garrett McIntyre'],Probable: shoulder,week_5,New York Jets,2013
+['Dee Milliner'],Questionable: hamstring,week_5,New York Jets,2013
+['David Nelson'],NA,week_5,New York Jets,2013
+['Calvin Pace'],NA,week_5,New York Jets,2013
+['Bilal Powell'],NA,week_5,New York Jets,2013
+['Konrad Reuland'],NA,week_5,New York Jets,2013
+['Sheldon Richardson'],Probable: shoulder,week_5,New York Jets,2013
+['Greg Salas'],NA,week_5,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_5,New York Jets,2013
+['Matt Simms'],NA,week_5,New York Jets,2013
+['Geno Smith'],Probable: ankle,week_5,New York Jets,2013
+['Zach Sudfeld'],NA,week_5,New York Jets,2013
+['Darrin Walls'],Questionable: shoulder,week_5,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_5,New York Jets,2013
+['Kyle Wilson'],NA,week_5,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_5,New York Jets,2013
+['Brian Winters'],NA,week_5,New York Jets,2013
+['Oday Aboushi'],Questionable: knee,week_6,New York Jets,2013
+['Antonio Allen'],Probable: finger,week_6,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_6,New York Jets,2013
+['Nick Bellore'],NA,week_6,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_6,New York Jets,2013
+['Willie Colon'],Probable: knee,week_6,New York Jets,2013
+['Quinton Coples'],Questionable: ankle,week_6,New York Jets,2013
+['Josh Cribbs'],NA,week_6,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_6,New York Jets,2013
+['Jeff Cumberland'],NA,week_6,New York Jets,2013
+['Demario Davis'],NA,week_6,New York Jets,2013
+['Troy Davis'],NA,week_6,New York Jets,2013
+['Leger Douzable'],NA,week_6,New York Jets,2013
+['Vlad Ducasse'],NA,week_6,New York Jets,2013
+['Kenrick Ellis'],Questionable: back,week_6,New York Jets,2013
+['David Garrard'],NA,week_6,New York Jets,2013
+['Clyde Gates'],Questionable: knee,week_6,New York Jets,2013
+['Mike Goodson'],Questionable: illness,week_6,New York Jets,2013
+['Alex Green'],NA,week_6,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_6,New York Jets,2013
+['David Harris'],NA,week_6,New York Jets,2013
+['Damon Harrison'],NA,week_6,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_6,New York Jets,2013
+['Stephen Hill'],NA,week_6,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_6,New York Jets,2013
+['Santonio Holmes'],Out: hamstring,week_6,New York Jets,2013
+['Austin Howard'],NA,week_6,New York Jets,2013
+['Ben Ijalana'],NA,week_6,New York Jets,2013
+['Chris Ivory'],Probable: hamstring,week_6,New York Jets,2013
+['Jaiquawn Jarrett'],Questionable: knee,week_6,New York Jets,2013
+['Jeremy Kerley'],NA,week_6,New York Jets,2013
+['Dawan Landry'],NA,week_6,New York Jets,2013
+['Ellis Lankster'],NA,week_6,New York Jets,2013
+['Nick Mangold'],NA,week_6,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_6,New York Jets,2013
+['Garrett McIntyre'],NA,week_6,New York Jets,2013
+['Dee Milliner'],Questionable: hamstring,week_6,New York Jets,2013
+['David Nelson'],NA,week_6,New York Jets,2013
+['Calvin Pace'],NA,week_6,New York Jets,2013
+['Bilal Powell'],NA,week_6,New York Jets,2013
+['Konrad Reuland'],NA,week_6,New York Jets,2013
+['Sheldon Richardson'],Probable: shoulder,week_6,New York Jets,2013
+['Greg Salas'],NA,week_6,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_6,New York Jets,2013
+['Matt Simms'],NA,week_6,New York Jets,2013
+['Geno Smith'],NA,week_6,New York Jets,2013
+['Zach Sudfeld'],NA,week_6,New York Jets,2013
+['Darrin Walls'],Questionable: shoulder,week_6,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_6,New York Jets,2013
+['Kyle Wilson'],NA,week_6,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_6,New York Jets,2013
+['Brian Winters'],NA,week_6,New York Jets,2013
+['Oday Aboushi'],NA,week_7,New York Jets,2013
+['Antonio Allen'],NA,week_7,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_7,New York Jets,2013
+['Nick Bellore'],NA,week_7,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_7,New York Jets,2013
+['Willie Colon'],NA,week_7,New York Jets,2013
+['Quinton Coples'],Probable: ankle,week_7,New York Jets,2013
+['Josh Cribbs'],NA,week_7,New York Jets,2013
+['Antonio Cromartie'],Probable: hip/knee,week_7,New York Jets,2013
+['Jeff Cumberland'],NA,week_7,New York Jets,2013
+['Demario Davis'],NA,week_7,New York Jets,2013
+['Troy Davis'],NA,week_7,New York Jets,2013
+['Leger Douzable'],NA,week_7,New York Jets,2013
+['Vlad Ducasse'],NA,week_7,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_7,New York Jets,2013
+['David Garrard'],NA,week_7,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_7,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_7,New York Jets,2013
+['Alex Green'],NA,week_7,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_7,New York Jets,2013
+['David Harris'],NA,week_7,New York Jets,2013
+['Damon Harrison'],NA,week_7,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_7,New York Jets,2013
+['Stephen Hill'],NA,week_7,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_7,New York Jets,2013
+['Santonio Holmes'],Out: hamstring,week_7,New York Jets,2013
+['Austin Howard'],NA,week_7,New York Jets,2013
+['Ben Ijalana'],NA,week_7,New York Jets,2013
+['Chris Ivory'],Probable: hamstring,week_7,New York Jets,2013
+['Jaiquawn Jarrett'],Probable: knee,week_7,New York Jets,2013
+['Jeremy Kerley'],Probable: back,week_7,New York Jets,2013
+['Dawan Landry'],NA,week_7,New York Jets,2013
+['Ellis Lankster'],NA,week_7,New York Jets,2013
+['Nick Mangold'],NA,week_7,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_7,New York Jets,2013
+['Garrett McIntyre'],NA,week_7,New York Jets,2013
+['Dee Milliner'],Questionable: hamstring,week_7,New York Jets,2013
+['David Nelson'],Questionable: hamstring,week_7,New York Jets,2013
+['Calvin Pace'],NA,week_7,New York Jets,2013
+['Bilal Powell'],Probable: neck,week_7,New York Jets,2013
+['Konrad Reuland'],NA,week_7,New York Jets,2013
+['Sheldon Richardson'],NA,week_7,New York Jets,2013
+['Greg Salas'],Questionable: knee,week_7,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_7,New York Jets,2013
+['Matt Simms'],NA,week_7,New York Jets,2013
+['Geno Smith'],NA,week_7,New York Jets,2013
+['Zach Sudfeld'],NA,week_7,New York Jets,2013
+['Darrin Walls'],Probable: shoulder,week_7,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_7,New York Jets,2013
+['Kyle Wilson'],Questionable: head,week_7,New York Jets,2013
+['Kellen Winslow'],NA,week_7,New York Jets,2013
+['Brian Winters'],NA,week_7,New York Jets,2013
+['Oday Aboushi'],NA,week_8,New York Jets,2013
+['Antonio Allen'],Questionable: groin/finger,week_8,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_8,New York Jets,2013
+['Nick Bellore'],Probable: thumb,week_8,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_8,New York Jets,2013
+['Willie Colon'],NA,week_8,New York Jets,2013
+['Quinton Coples'],Probable: ankle,week_8,New York Jets,2013
+['Josh Cribbs'],Probable: knee,week_8,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_8,New York Jets,2013
+['Jeff Cumberland'],Questionable: hamstring,week_8,New York Jets,2013
+['Demario Davis'],NA,week_8,New York Jets,2013
+['Troy Davis'],NA,week_8,New York Jets,2013
+['Leger Douzable'],NA,week_8,New York Jets,2013
+['Vlad Ducasse'],NA,week_8,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_8,New York Jets,2013
+['David Garrard'],NA,week_8,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_8,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_8,New York Jets,2013
+['Alex Green'],NA,week_8,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_8,New York Jets,2013
+['David Harris'],NA,week_8,New York Jets,2013
+['Damon Harrison'],NA,week_8,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_8,New York Jets,2013
+['Stephen Hill'],NA,week_8,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_8,New York Jets,2013
+['Santonio Holmes'],Out: hamstring,week_8,New York Jets,2013
+['Austin Howard'],NA,week_8,New York Jets,2013
+['Ben Ijalana'],NA,week_8,New York Jets,2013
+['Chris Ivory'],NA,week_8,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_8,New York Jets,2013
+['Jeremy Kerley'],Probable: hamstring,week_8,New York Jets,2013
+['Dawan Landry'],NA,week_8,New York Jets,2013
+['Ellis Lankster'],NA,week_8,New York Jets,2013
+['Nick Mangold'],Questionable: ribs,week_8,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_8,New York Jets,2013
+['Garrett McIntyre'],Questionable: knee,week_8,New York Jets,2013
+['Dee Milliner'],Probable: hamstring,week_8,New York Jets,2013
+['David Nelson'],Probable: hamstring,week_8,New York Jets,2013
+['Calvin Pace'],NA,week_8,New York Jets,2013
+['Bilal Powell'],NA,week_8,New York Jets,2013
+['Konrad Reuland'],Questionable: knee,week_8,New York Jets,2013
+['Sheldon Richardson'],NA,week_8,New York Jets,2013
+['Greg Salas'],Questionable: knee,week_8,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_8,New York Jets,2013
+['Matt Simms'],NA,week_8,New York Jets,2013
+['Geno Smith'],NA,week_8,New York Jets,2013
+['Zach Sudfeld'],NA,week_8,New York Jets,2013
+['Darrin Walls'],Probable: hamstring,week_8,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_8,New York Jets,2013
+['Kyle Wilson'],NA,week_8,New York Jets,2013
+['Kellen Winslow'],NA,week_8,New York Jets,2013
+['Brian Winters'],NA,week_8,New York Jets,2013
+['Oday Aboushi'],NA,week_9,New York Jets,2013
+['Antonio Allen'],Probable: finger,week_9,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_9,New York Jets,2013
+['Nick Bellore'],NA,week_9,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_9,New York Jets,2013
+['Willie Colon'],Questionable: calf,week_9,New York Jets,2013
+['Quinton Coples'],NA,week_9,New York Jets,2013
+['Josh Cribbs'],Probable: knee,week_9,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_9,New York Jets,2013
+['Jeff Cumberland'],Doubtful: concussion,week_9,New York Jets,2013
+['Demario Davis'],NA,week_9,New York Jets,2013
+['Troy Davis'],NA,week_9,New York Jets,2013
+['Leger Douzable'],NA,week_9,New York Jets,2013
+['Vlad Ducasse'],NA,week_9,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_9,New York Jets,2013
+['David Garrard'],NA,week_9,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_9,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_9,New York Jets,2013
+['Alex Green'],Questionable: hamstring,week_9,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_9,New York Jets,2013
+['David Harris'],NA,week_9,New York Jets,2013
+['Damon Harrison'],NA,week_9,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_9,New York Jets,2013
+['Stephen Hill'],Questionable: foot,week_9,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_9,New York Jets,2013
+['Santonio Holmes'],Out: hamstring,week_9,New York Jets,2013
+['Austin Howard'],NA,week_9,New York Jets,2013
+['Ben Ijalana'],NA,week_9,New York Jets,2013
+['Chris Ivory'],NA,week_9,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_9,New York Jets,2013
+['Jeremy Kerley'],Probable: illness,week_9,New York Jets,2013
+['Dawan Landry'],NA,week_9,New York Jets,2013
+['Ellis Lankster'],NA,week_9,New York Jets,2013
+['Nick Mangold'],Probable: ribs,week_9,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_9,New York Jets,2013
+['Garrett McIntyre'],Probable: knee,week_9,New York Jets,2013
+['Dee Milliner'],NA,week_9,New York Jets,2013
+['David Nelson'],Questionable: quadricep,week_9,New York Jets,2013
+['Calvin Pace'],NA,week_9,New York Jets,2013
+['Bilal Powell'],NA,week_9,New York Jets,2013
+['Konrad Reuland'],Probable: knee,week_9,New York Jets,2013
+['Sheldon Richardson'],NA,week_9,New York Jets,2013
+['Greg Salas'],Probable: knee,week_9,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_9,New York Jets,2013
+['Matt Simms'],NA,week_9,New York Jets,2013
+['Geno Smith'],NA,week_9,New York Jets,2013
+['Zach Sudfeld'],NA,week_9,New York Jets,2013
+['Darrin Walls'],Probable: shoulder,week_9,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_9,New York Jets,2013
+['Kyle Wilson'],NA,week_9,New York Jets,2013
+['Kellen Winslow'],NA,week_9,New York Jets,2013
+['Brian Winters'],Probable: ankle,week_9,New York Jets,2013
+['Oday Aboushi'],NA,week_11,New York Jets,2013
+['Antonio Allen'],Probable: concussion,week_11,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_11,New York Jets,2013
+['Nick Bellore'],NA,week_11,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_11,New York Jets,2013
+['Willie Colon'],Probable: calf,week_11,New York Jets,2013
+['Quinton Coples'],NA,week_11,New York Jets,2013
+['Josh Cribbs'],Probable: knee,week_11,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_11,New York Jets,2013
+['Jeff Cumberland'],Probable: concussion,week_11,New York Jets,2013
+['Demario Davis'],NA,week_11,New York Jets,2013
+['Troy Davis'],NA,week_11,New York Jets,2013
+['Leger Douzable'],Questionable: illness,week_11,New York Jets,2013
+['Vlad Ducasse'],NA,week_11,New York Jets,2013
+['Kenrick Ellis'],Questionable: back,week_11,New York Jets,2013
+['David Garrard'],NA,week_11,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_11,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_11,New York Jets,2013
+['Alex Green'],Questionable: hamstring,week_11,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_11,New York Jets,2013
+['David Harris'],NA,week_11,New York Jets,2013
+['Damon Harrison'],NA,week_11,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_11,New York Jets,2013
+['Stephen Hill'],Questionable: foot/knee,week_11,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_11,New York Jets,2013
+['Santonio Holmes'],Probable: hamstring/foot,week_11,New York Jets,2013
+['Austin Howard'],NA,week_11,New York Jets,2013
+['Ben Ijalana'],NA,week_11,New York Jets,2013
+['Chris Ivory'],Probable: knee,week_11,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_11,New York Jets,2013
+['Jeremy Kerley'],Out: elbow,week_11,New York Jets,2013
+['Dawan Landry'],NA,week_11,New York Jets,2013
+['Ellis Lankster'],NA,week_11,New York Jets,2013
+['Nick Mangold'],NA,week_11,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_11,New York Jets,2013
+['Garrett McIntyre'],Questionable: knee,week_11,New York Jets,2013
+['Dee Milliner'],NA,week_11,New York Jets,2013
+['David Nelson'],NA,week_11,New York Jets,2013
+['Calvin Pace'],Probable: hip,week_11,New York Jets,2013
+['Bilal Powell'],NA,week_11,New York Jets,2013
+['Konrad Reuland'],NA,week_11,New York Jets,2013
+['Sheldon Richardson'],NA,week_11,New York Jets,2013
+['Greg Salas'],Probable: knee,week_11,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_11,New York Jets,2013
+['Matt Simms'],NA,week_11,New York Jets,2013
+['Geno Smith'],NA,week_11,New York Jets,2013
+['Zach Sudfeld'],Probable: knee,week_11,New York Jets,2013
+['Darrin Walls'],Probable: shoulder,week_11,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_11,New York Jets,2013
+['Kyle Wilson'],NA,week_11,New York Jets,2013
+['Kellen Winslow'],Probable: four-game suspension served/knee,week_11,New York Jets,2013
+['Brian Winters'],NA,week_11,New York Jets,2013
+['Oday Aboushi'],NA,week_12,New York Jets,2013
+['Antonio Allen'],NA,week_12,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_12,New York Jets,2013
+['Nick Bellore'],NA,week_12,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_12,New York Jets,2013
+['Willie Colon'],Probable: calf,week_12,New York Jets,2013
+['Quinton Coples'],NA,week_12,New York Jets,2013
+['Josh Cribbs'],NA,week_12,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_12,New York Jets,2013
+['Jeff Cumberland'],NA,week_12,New York Jets,2013
+['Demario Davis'],NA,week_12,New York Jets,2013
+['Troy Davis'],NA,week_12,New York Jets,2013
+['Leger Douzable'],NA,week_12,New York Jets,2013
+['Vlad Ducasse'],NA,week_12,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_12,New York Jets,2013
+['David Garrard'],Probable: knee,week_12,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_12,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_12,New York Jets,2013
+['Alex Green'],NA,week_12,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_12,New York Jets,2013
+['David Harris'],NA,week_12,New York Jets,2013
+['Damon Harrison'],NA,week_12,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_12,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_12,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_12,New York Jets,2013
+['Santonio Holmes'],Probable: hamstring,week_12,New York Jets,2013
+['Austin Howard'],NA,week_12,New York Jets,2013
+['Ben Ijalana'],NA,week_12,New York Jets,2013
+['Chris Ivory'],NA,week_12,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_12,New York Jets,2013
+['Jeremy Kerley'],Out: elbow,week_12,New York Jets,2013
+['Dawan Landry'],NA,week_12,New York Jets,2013
+['Ellis Lankster'],NA,week_12,New York Jets,2013
+['Nick Mangold'],NA,week_12,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_12,New York Jets,2013
+['Garrett McIntyre'],Doubtful: knee,week_12,New York Jets,2013
+['Dee Milliner'],NA,week_12,New York Jets,2013
+['David Nelson'],Questionable: illness,week_12,New York Jets,2013
+['Calvin Pace'],NA,week_12,New York Jets,2013
+['Bilal Powell'],NA,week_12,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_12,New York Jets,2013
+['Sheldon Richardson'],NA,week_12,New York Jets,2013
+['Greg Salas'],Probable: finger,week_12,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_12,New York Jets,2013
+['Matt Simms'],NA,week_12,New York Jets,2013
+['Geno Smith'],NA,week_12,New York Jets,2013
+['Zach Sudfeld'],NA,week_12,New York Jets,2013
+['Darrin Walls'],NA,week_12,New York Jets,2013
+['Muhammad Wilkerson'],NA,week_12,New York Jets,2013
+['Kyle Wilson'],NA,week_12,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_12,New York Jets,2013
+['Brian Winters'],NA,week_12,New York Jets,2013
+['Oday Aboushi'],NA,week_13,New York Jets,2013
+['Antonio Allen'],Questionable: illness,week_13,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_13,New York Jets,2013
+['Nick Bellore'],NA,week_13,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_13,New York Jets,2013
+['Willie Colon'],Probable: calf,week_13,New York Jets,2013
+['Quinton Coples'],NA,week_13,New York Jets,2013
+['Josh Cribbs'],NA,week_13,New York Jets,2013
+['Antonio Cromartie'],Questionable: hip,week_13,New York Jets,2013
+['Jeff Cumberland'],NA,week_13,New York Jets,2013
+['Demario Davis'],NA,week_13,New York Jets,2013
+['Troy Davis'],Injured Reserve: chest,week_13,New York Jets,2013
+['Leger Douzable'],NA,week_13,New York Jets,2013
+['Vlad Ducasse'],NA,week_13,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_13,New York Jets,2013
+['David Garrard'],Questionable: knee,week_13,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_13,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_13,New York Jets,2013
+['Alex Green'],NA,week_13,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_13,New York Jets,2013
+['David Harris'],NA,week_13,New York Jets,2013
+['Damon Harrison'],NA,week_13,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_13,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_13,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_13,New York Jets,2013
+['Santonio Holmes'],Probable: foot/hamstring,week_13,New York Jets,2013
+['Austin Howard'],NA,week_13,New York Jets,2013
+['Ben Ijalana'],NA,week_13,New York Jets,2013
+['Chris Ivory'],Probable: ankle,week_13,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_13,New York Jets,2013
+['Jeremy Kerley'],Out: elbow,week_13,New York Jets,2013
+['Dawan Landry'],NA,week_13,New York Jets,2013
+['Ellis Lankster'],NA,week_13,New York Jets,2013
+['Nick Mangold'],Probable: wrist,week_13,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_13,New York Jets,2013
+['Garrett McIntyre'],Questionable: knee,week_13,New York Jets,2013
+['Dee Milliner'],Probable: wrist,week_13,New York Jets,2013
+['David Nelson'],NA,week_13,New York Jets,2013
+['Calvin Pace'],NA,week_13,New York Jets,2013
+['Bilal Powell'],NA,week_13,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_13,New York Jets,2013
+['Sheldon Richardson'],NA,week_13,New York Jets,2013
+['Greg Salas'],Probable: finger,week_13,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_13,New York Jets,2013
+['Matt Simms'],NA,week_13,New York Jets,2013
+['Geno Smith'],NA,week_13,New York Jets,2013
+['Zach Sudfeld'],NA,week_13,New York Jets,2013
+['Darrin Walls'],NA,week_13,New York Jets,2013
+['Muhammad Wilkerson'],Probable: wrist,week_13,New York Jets,2013
+['Kyle Wilson'],NA,week_13,New York Jets,2013
+['Kellen Winslow'],Probable: knee,week_13,New York Jets,2013
+['Brian Winters'],NA,week_13,New York Jets,2013
+['Oday Aboushi'],NA,week_14,New York Jets,2013
+['Antonio Allen'],NA,week_14,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_14,New York Jets,2013
+['Nick Bellore'],NA,week_14,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_14,New York Jets,2013
+['Willie Colon'],Probable: calf,week_14,New York Jets,2013
+['Quinton Coples'],NA,week_14,New York Jets,2013
+['Josh Cribbs'],Injured Reserve: pectoral,week_14,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_14,New York Jets,2013
+['Jeff Cumberland'],NA,week_14,New York Jets,2013
+['Demario Davis'],NA,week_14,New York Jets,2013
+['Troy Davis'],Injured Reserve: chest,week_14,New York Jets,2013
+['Leger Douzable'],NA,week_14,New York Jets,2013
+['Vlad Ducasse'],NA,week_14,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_14,New York Jets,2013
+['David Garrard'],Questionable: knee,week_14,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_14,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_14,New York Jets,2013
+['Alex Green'],NA,week_14,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_14,New York Jets,2013
+['David Harris'],NA,week_14,New York Jets,2013
+['Damon Harrison'],NA,week_14,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_14,New York Jets,2013
+['Stephen Hill'],Probable: knee,week_14,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_14,New York Jets,2013
+['Santonio Holmes'],Questionable: hamstring,week_14,New York Jets,2013
+['Austin Howard'],NA,week_14,New York Jets,2013
+['Ben Ijalana'],NA,week_14,New York Jets,2013
+['Chris Ivory'],Probable: ankle,week_14,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_14,New York Jets,2013
+['Jeremy Kerley'],Questionable: elbow,week_14,New York Jets,2013
+['Dawan Landry'],NA,week_14,New York Jets,2013
+['Ellis Lankster'],NA,week_14,New York Jets,2013
+['Nick Mangold'],Probable: wrist,week_14,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_14,New York Jets,2013
+['Garrett McIntyre'],Questionable: knee,week_14,New York Jets,2013
+['Dee Milliner'],Probable: wrist,week_14,New York Jets,2013
+['David Nelson'],NA,week_14,New York Jets,2013
+['Calvin Pace'],NA,week_14,New York Jets,2013
+['Bilal Powell'],NA,week_14,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_14,New York Jets,2013
+['Sheldon Richardson'],NA,week_14,New York Jets,2013
+['Greg Salas'],Probable: finger,week_14,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_14,New York Jets,2013
+['Matt Simms'],NA,week_14,New York Jets,2013
+['Geno Smith'],Probable: right wrist,week_14,New York Jets,2013
+['Zach Sudfeld'],NA,week_14,New York Jets,2013
+['Darrin Walls'],NA,week_14,New York Jets,2013
+['Muhammad Wilkerson'],Questionable: wrist,week_14,New York Jets,2013
+['Kyle Wilson'],NA,week_14,New York Jets,2013
+['Kellen Winslow'],Probable: knee,week_14,New York Jets,2013
+['Brian Winters'],NA,week_14,New York Jets,2013
+['Oday Aboushi'],NA,week_15,New York Jets,2013
+['Antonio Allen'],NA,week_15,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_15,New York Jets,2013
+['Nick Bellore'],NA,week_15,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_15,New York Jets,2013
+['Willie Colon'],NA,week_15,New York Jets,2013
+['Quinton Coples'],NA,week_15,New York Jets,2013
+['Josh Cribbs'],Injured Reserve: pectoral,week_15,New York Jets,2013
+['Antonio Cromartie'],Questionable: hip/concussion,week_15,New York Jets,2013
+['Jeff Cumberland'],NA,week_15,New York Jets,2013
+['Demario Davis'],Probable: thumb,week_15,New York Jets,2013
+['Troy Davis'],Injured Reserve: chest,week_15,New York Jets,2013
+['Leger Douzable'],NA,week_15,New York Jets,2013
+['Vlad Ducasse'],NA,week_15,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_15,New York Jets,2013
+['David Garrard'],NA,week_15,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_15,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_15,New York Jets,2013
+['Alex Green'],NA,week_15,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_15,New York Jets,2013
+['David Harris'],NA,week_15,New York Jets,2013
+['Damon Harrison'],NA,week_15,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_15,New York Jets,2013
+['Stephen Hill'],Questionable: knee,week_15,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_15,New York Jets,2013
+['Santonio Holmes'],Questionable: foot/hamstring,week_15,New York Jets,2013
+['Austin Howard'],NA,week_15,New York Jets,2013
+['Ben Ijalana'],NA,week_15,New York Jets,2013
+['Chris Ivory'],NA,week_15,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_15,New York Jets,2013
+['Jeremy Kerley'],Probable: elbow,week_15,New York Jets,2013
+['Dawan Landry'],NA,week_15,New York Jets,2013
+['Ellis Lankster'],NA,week_15,New York Jets,2013
+['Nick Mangold'],NA,week_15,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_15,New York Jets,2013
+['Garrett McIntyre'],Questionable: knee,week_15,New York Jets,2013
+['Dee Milliner'],NA,week_15,New York Jets,2013
+['David Nelson'],Probable: ribs,week_15,New York Jets,2013
+['Calvin Pace'],NA,week_15,New York Jets,2013
+['Bilal Powell'],NA,week_15,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_15,New York Jets,2013
+['Sheldon Richardson'],NA,week_15,New York Jets,2013
+['Greg Salas'],Probable: finger,week_15,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_15,New York Jets,2013
+['Matt Simms'],NA,week_15,New York Jets,2013
+['Geno Smith'],NA,week_15,New York Jets,2013
+['Zach Sudfeld'],NA,week_15,New York Jets,2013
+['Darrin Walls'],NA,week_15,New York Jets,2013
+['Muhammad Wilkerson'],Probable: wrist,week_15,New York Jets,2013
+['Kyle Wilson'],NA,week_15,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_15,New York Jets,2013
+['Brian Winters'],NA,week_15,New York Jets,2013
+['Oday Aboushi'],NA,week_16,New York Jets,2013
+['Antonio Allen'],NA,week_16,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_16,New York Jets,2013
+['Nick Bellore'],NA,week_16,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_16,New York Jets,2013
+['Willie Colon'],NA,week_16,New York Jets,2013
+['Quinton Coples'],Probable: shoulder,week_16,New York Jets,2013
+['Josh Cribbs'],Injured Reserve: pectoral,week_16,New York Jets,2013
+['Antonio Cromartie'],Questionable: hip,week_16,New York Jets,2013
+['Jeff Cumberland'],NA,week_16,New York Jets,2013
+['Demario Davis'],NA,week_16,New York Jets,2013
+['Troy Davis'],Injured Reserve: chest,week_16,New York Jets,2013
+['Leger Douzable'],NA,week_16,New York Jets,2013
+['Vlad Ducasse'],NA,week_16,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_16,New York Jets,2013
+['David Garrard'],NA,week_16,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_16,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_16,New York Jets,2013
+['Alex Green'],NA,week_16,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_16,New York Jets,2013
+['David Harris'],NA,week_16,New York Jets,2013
+['Damon Harrison'],NA,week_16,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_16,New York Jets,2013
+['Stephen Hill'],Injured Reserve: knee,week_16,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_16,New York Jets,2013
+['Santonio Holmes'],Questionable: foot/hamstring,week_16,New York Jets,2013
+['Austin Howard'],Probable: knee,week_16,New York Jets,2013
+['Ben Ijalana'],NA,week_16,New York Jets,2013
+['Chris Ivory'],NA,week_16,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_16,New York Jets,2013
+['Jeremy Kerley'],Probable: elbow,week_16,New York Jets,2013
+['Dawan Landry'],NA,week_16,New York Jets,2013
+['Ellis Lankster'],Questionable: jaw,week_16,New York Jets,2013
+['Nick Mangold'],NA,week_16,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_16,New York Jets,2013
+['Garrett McIntyre'],Probable: knee/elbow,week_16,New York Jets,2013
+['Dee Milliner'],NA,week_16,New York Jets,2013
+['David Nelson'],Probable: ribs,week_16,New York Jets,2013
+['Calvin Pace'],NA,week_16,New York Jets,2013
+['Bilal Powell'],NA,week_16,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_16,New York Jets,2013
+['Sheldon Richardson'],Questionable: wrist/finger,week_16,New York Jets,2013
+['Greg Salas'],NA,week_16,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_16,New York Jets,2013
+['Matt Simms'],NA,week_16,New York Jets,2013
+['Geno Smith'],NA,week_16,New York Jets,2013
+['Zach Sudfeld'],NA,week_16,New York Jets,2013
+['Darrin Walls'],NA,week_16,New York Jets,2013
+['Muhammad Wilkerson'],Probable: wrist,week_16,New York Jets,2013
+['Kyle Wilson'],NA,week_16,New York Jets,2013
+['Kellen Winslow'],Questionable: knee,week_16,New York Jets,2013
+['Brian Winters'],NA,week_16,New York Jets,2013
+['Oday Aboushi'],NA,week_17,New York Jets,2013
+['Antonio Allen'],NA,week_17,New York Jets,2013
+['Antwan Barnes'],Injured Reserve: knee,week_17,New York Jets,2013
+['Nick Bellore'],NA,week_17,New York Jets,2013
+['Aaron Berry'],Injured Reserve: knee,week_17,New York Jets,2013
+['Willie Colon'],NA,week_17,New York Jets,2013
+['Quinton Coples'],Questionable: shoulder,week_17,New York Jets,2013
+['Josh Cribbs'],Injured Reserve: pectoral,week_17,New York Jets,2013
+['Antonio Cromartie'],Probable: hip,week_17,New York Jets,2013
+['Jeff Cumberland'],NA,week_17,New York Jets,2013
+['Demario Davis'],Probable: thumb,week_17,New York Jets,2013
+['Troy Davis'],Injured Reserve: chest,week_17,New York Jets,2013
+['Leger Douzable'],NA,week_17,New York Jets,2013
+['Vlad Ducasse'],NA,week_17,New York Jets,2013
+['Kenrick Ellis'],Probable: back,week_17,New York Jets,2013
+['David Garrard'],NA,week_17,New York Jets,2013
+['Clyde Gates'],Injured Reserve: shoulder,week_17,New York Jets,2013
+['Mike Goodson'],Injured Reserve: knee,week_17,New York Jets,2013
+['Alex Green'],NA,week_17,New York Jets,2013
+['John Griffin'],Injured Reserve: undisclosed,week_17,New York Jets,2013
+['David Harris'],NA,week_17,New York Jets,2013
+['Damon Harrison'],NA,week_17,New York Jets,2013
+['Vidal Hazelton'],Injured Reserve: knee,week_17,New York Jets,2013
+['Stephen Hill'],Injured Reserve: knee,week_17,New York Jets,2013
+['Lex Hilliard'],Injured Reserve: shoulder,week_17,New York Jets,2013
+['Santonio Holmes'],Probable: foot/hamstring,week_17,New York Jets,2013
+['Austin Howard'],Probable: knee,week_17,New York Jets,2013
+['Ben Ijalana'],NA,week_17,New York Jets,2013
+['Chris Ivory'],Probable: quadriceps/ankle,week_17,New York Jets,2013
+['Jaiquawn Jarrett'],NA,week_17,New York Jets,2013
+['Jeremy Kerley'],Probable: elbow,week_17,New York Jets,2013
+['Dawan Landry'],Probable: hand,week_17,New York Jets,2013
+['Ellis Lankster'],Questionable: jaw,week_17,New York Jets,2013
+['Nick Mangold'],Probable: toe,week_17,New York Jets,2013
+['Josh Mauga'],Injured Reserve: back,week_17,New York Jets,2013
+['Garrett McIntyre'],Probable: knee,week_17,New York Jets,2013
+['Dee Milliner'],NA,week_17,New York Jets,2013
+['David Nelson'],NA,week_17,New York Jets,2013
+['Calvin Pace'],NA,week_17,New York Jets,2013
+['Bilal Powell'],NA,week_17,New York Jets,2013
+['Konrad Reuland'],Injured Reserve: knee,week_17,New York Jets,2013
+['Sheldon Richardson'],Probable: finger/shoulder,week_17,New York Jets,2013
+['Greg Salas'],NA,week_17,New York Jets,2013
+['Mark Sanchez'],Injured Reserve: shoulder,week_17,New York Jets,2013
+['Matt Simms'],NA,week_17,New York Jets,2013
+['Geno Smith'],NA,week_17,New York Jets,2013
+['Zach Sudfeld'],NA,week_17,New York Jets,2013
+['Darrin Walls'],NA,week_17,New York Jets,2013
+['Muhammad Wilkerson'],Probable: knee,week_17,New York Jets,2013
+['Kyle Wilson'],NA,week_17,New York Jets,2013
+['Kellen Winslow'],Questionable: knee/illness,week_17,New York Jets,2013
+['Brian Winters'],NA,week_17,New York Jets,2013

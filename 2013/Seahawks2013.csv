@@ -1,0 +1,875 @@
+﻿name,injury,week,team,year
+['Cliff Avril'],Out: hamstring,week_1,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_1,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_1,Seattle Seahawks,2013
+['Michael Bowie'],Questionable: shoulder,week_1,Seattle Seahawks,2013
+['Brandon Browner'],Questionable: hamstring,week_1,Seattle Seahawks,2013
+['Red Bryant'],NA,week_1,Seattle Seahawks,2013
+['James Carpenter'],NA,week_1,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_1,Seattle Seahawks,2013
+['Chris Clemons'],Doubtful: knee,week_1,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_1,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_1,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_1,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_1,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_1,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_1,Seattle Seahawks,2013
+['Jordan Hill'],Out: biceps,week_1,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_1,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_1,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_1,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_1,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_1,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_1,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_1,Seattle Seahawks,2013
+['Tony McDaniel'],Questionable: groin,week_1,Seattle Seahawks,2013
+['Brandon Mebane'],Questionable: groin,week_1,Seattle Seahawks,2013
+['Christine Michael'],NA,week_1,Seattle Seahawks,2013
+['Zach Miller'],Questionable: foot,week_1,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_1,Seattle Seahawks,2013
+['Russell Okung'],NA,week_1,Seattle Seahawks,2013
+['Sidney Rice'],Probable: knee,week_1,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_1,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_1,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_1,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_1,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_1,Seattle Seahawks,2013
+['Golden Tate'],NA,week_1,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_1,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_1,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_1,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_1,Seattle Seahawks,2013
+['Max Unger'],NA,week_1,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_1,Seattle Seahawks,2013
+['Spencer Ware'],NA,week_1,Seattle Seahawks,2013
+['Stephen Williams'],Probable: head,week_1,Seattle Seahawks,2013
+['Luke Willson'],NA,week_1,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_1,Seattle Seahawks,2013
+['Cliff Avril'],Questionable: hamstring,week_2,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_2,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_2,Seattle Seahawks,2013
+['Michael Bowie'],Questionable: shoulder,week_2,Seattle Seahawks,2013
+['Brandon Browner'],Questionable: hamstring,week_2,Seattle Seahawks,2013
+['Red Bryant'],NA,week_2,Seattle Seahawks,2013
+['James Carpenter'],NA,week_2,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_2,Seattle Seahawks,2013
+['Chris Clemons'],Questionable: knee,week_2,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_2,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_2,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_2,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_2,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_2,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_2,Seattle Seahawks,2013
+['Jordan Hill'],Out: biceps,week_2,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_2,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_2,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_2,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_2,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_2,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_2,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_2,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_2,Seattle Seahawks,2013
+['Brandon Mebane'],Questionable: ankle,week_2,Seattle Seahawks,2013
+['Christine Michael'],NA,week_2,Seattle Seahawks,2013
+['Zach Miller'],NA,week_2,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_2,Seattle Seahawks,2013
+['Russell Okung'],Questionable: toe,week_2,Seattle Seahawks,2013
+['Sidney Rice'],Probable: knee,week_2,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_2,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_2,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_2,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_2,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_2,Seattle Seahawks,2013
+['Golden Tate'],NA,week_2,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_2,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_2,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_2,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_2,Seattle Seahawks,2013
+['Max Unger'],NA,week_2,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_2,Seattle Seahawks,2013
+['Spencer Ware'],NA,week_2,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_2,Seattle Seahawks,2013
+['Luke Willson'],Probable: oblique,week_2,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_2,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_3,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_3,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_3,Seattle Seahawks,2013
+['Michael Bowie'],Questionable: shoulder,week_3,Seattle Seahawks,2013
+['Brandon Browner'],Questionable: hamstring,week_3,Seattle Seahawks,2013
+['Red Bryant'],NA,week_3,Seattle Seahawks,2013
+['James Carpenter'],NA,week_3,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_3,Seattle Seahawks,2013
+['Chris Clemons'],Probable: knee,week_3,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_3,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_3,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_3,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_3,Seattle Seahawks,2013
+['Breno Giacomini'],Questionable: knee,week_3,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_3,Seattle Seahawks,2013
+['Jordan Hill'],Out: biceps,week_3,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_3,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_3,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_3,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_3,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_3,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_3,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_3,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_3,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_3,Seattle Seahawks,2013
+['Christine Michael'],NA,week_3,Seattle Seahawks,2013
+['Zach Miller'],NA,week_3,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_3,Seattle Seahawks,2013
+['Russell Okung'],Out: toe,week_3,Seattle Seahawks,2013
+['Sidney Rice'],NA,week_3,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_3,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_3,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_3,Seattle Seahawks,2013
+['Malcolm Smith'],Questionable: hamstring,week_3,Seattle Seahawks,2013
+['J.R. Sweezy'],Questionable: back,week_3,Seattle Seahawks,2013
+['Golden Tate'],NA,week_3,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_3,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_3,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_3,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_3,Seattle Seahawks,2013
+['Max Unger'],NA,week_3,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_3,Seattle Seahawks,2013
+['Spencer Ware'],Out: ankle,week_3,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_3,Seattle Seahawks,2013
+['Luke Willson'],NA,week_3,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_3,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_4,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_4,Seattle Seahawks,2013
+['Michael Bennett'],Questionable: groin,week_4,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_4,Seattle Seahawks,2013
+['Brandon Browner'],Probable: hamstring,week_4,Seattle Seahawks,2013
+['Red Bryant'],Questionable: back,week_4,Seattle Seahawks,2013
+['James Carpenter'],NA,week_4,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_4,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_4,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_4,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_4,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_4,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_4,Seattle Seahawks,2013
+['Breno Giacomini'],Questionable: knee,week_4,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_4,Seattle Seahawks,2013
+['Jordan Hill'],Questionable: biceps,week_4,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_4,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_4,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_4,Seattle Seahawks,2013
+['Jermaine Kearse'],Questionable: ankle,week_4,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_4,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_4,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_4,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_4,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_4,Seattle Seahawks,2013
+['Christine Michael'],NA,week_4,Seattle Seahawks,2013
+['Zach Miller'],NA,week_4,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_4,Seattle Seahawks,2013
+['Russell Okung'],Out: toe,week_4,Seattle Seahawks,2013
+['Sidney Rice'],NA,week_4,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_4,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_4,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_4,Seattle Seahawks,2013
+['Malcolm Smith'],Probable: hamstring,week_4,Seattle Seahawks,2013
+['J.R. Sweezy'],Questionable: back,week_4,Seattle Seahawks,2013
+['Golden Tate'],NA,week_4,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_4,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_4,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_4,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_4,Seattle Seahawks,2013
+['Max Unger'],Questionable: ankle,week_4,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_4,Seattle Seahawks,2013
+['Spencer Ware'],Questionable: ankle,week_4,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_4,Seattle Seahawks,2013
+['Luke Willson'],NA,week_4,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_4,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_5,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_5,Seattle Seahawks,2013
+['Michael Bennett'],Probable: back,week_5,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_5,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_5,Seattle Seahawks,2013
+['Red Bryant'],NA,week_5,Seattle Seahawks,2013
+['James Carpenter'],NA,week_5,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_5,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_5,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_5,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_5,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_5,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_5,Seattle Seahawks,2013
+['Breno Giacomini'],Out: knee,week_5,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_5,Seattle Seahawks,2013
+['Jordan Hill'],Probable: biceps,week_5,Seattle Seahawks,2013
+['Bruce Irvin'],Probable: four-game suspension served,week_5,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_5,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_5,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_5,Seattle Seahawks,2013
+['Jeremy Lane'],Questionable: hamstring,week_5,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_5,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_5,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_5,Seattle Seahawks,2013
+['Brandon Mebane'],Questionable: knee,week_5,Seattle Seahawks,2013
+['Christine Michael'],NA,week_5,Seattle Seahawks,2013
+['Zach Miller'],Questionable: hamstring,week_5,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_5,Seattle Seahawks,2013
+['Russell Okung'],Out: toe,week_5,Seattle Seahawks,2013
+['Sidney Rice'],NA,week_5,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_5,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_5,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_5,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_5,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_5,Seattle Seahawks,2013
+['Golden Tate'],NA,week_5,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_5,Seattle Seahawks,2013
+['Walter Thurmond'],Probable: shoulder,week_5,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_5,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_5,Seattle Seahawks,2013
+['Max Unger'],Questionable: ankle,week_5,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_5,Seattle Seahawks,2013
+['Spencer Ware'],Questionable: ankle,week_5,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_5,Seattle Seahawks,2013
+['Luke Willson'],NA,week_5,Seattle Seahawks,2013
+['K.J. Wright'],Probable: shoulder,week_5,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_6,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_6,Seattle Seahawks,2013
+['Michael Bennett'],Questionable: quadriceps,week_6,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_6,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_6,Seattle Seahawks,2013
+['Red Bryant'],NA,week_6,Seattle Seahawks,2013
+['James Carpenter'],NA,week_6,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_6,Seattle Seahawks,2013
+['Chris Clemons'],Questionable: elbow,week_6,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_6,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_6,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_6,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_6,Seattle Seahawks,2013
+['Breno Giacomini'],Questionable: knee,week_6,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_6,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_6,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_6,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_6,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_6,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_6,Seattle Seahawks,2013
+['Jeremy Lane'],Questionable: hamstring,week_6,Seattle Seahawks,2013
+['Marshawn Lynch'],Questionable: hip,week_6,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_6,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_6,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_6,Seattle Seahawks,2013
+['Christine Michael'],NA,week_6,Seattle Seahawks,2013
+['Zach Miller'],Questionable: hamstring,week_6,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_6,Seattle Seahawks,2013
+['Russell Okung'],Out: toe,week_6,Seattle Seahawks,2013
+['Sidney Rice'],Probable: knee,week_6,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_6,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_6,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_6,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_6,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_6,Seattle Seahawks,2013
+['Golden Tate'],NA,week_6,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_6,Seattle Seahawks,2013
+['Walter Thurmond'],Questionable: knee,week_6,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_6,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_6,Seattle Seahawks,2013
+['Max Unger'],Probable: ankle,week_6,Seattle Seahawks,2013
+['Bobby Wagner'],Questionable: ankle,week_6,Seattle Seahawks,2013
+['Spencer Ware'],Questionable: ankle,week_6,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_6,Seattle Seahawks,2013
+['Luke Willson'],NA,week_6,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_6,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_7,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_7,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_7,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_7,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_7,Seattle Seahawks,2013
+['Red Bryant'],NA,week_7,Seattle Seahawks,2013
+['James Carpenter'],NA,week_7,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_7,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_7,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_7,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_7,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_7,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_7,Seattle Seahawks,2013
+['Breno Giacomini'],Out: knee,week_7,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_7,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_7,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_7,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_7,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_7,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_7,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_7,Seattle Seahawks,2013
+['Marshawn Lynch'],Probable: hip,week_7,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_7,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_7,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_7,Seattle Seahawks,2013
+['Christine Michael'],NA,week_7,Seattle Seahawks,2013
+['Zach Miller'],NA,week_7,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_7,Seattle Seahawks,2013
+['Russell Okung'],Out: toe,week_7,Seattle Seahawks,2013
+['Sidney Rice'],NA,week_7,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_7,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_7,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_7,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_7,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_7,Seattle Seahawks,2013
+['Golden Tate'],NA,week_7,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_7,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_7,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_7,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_7,Seattle Seahawks,2013
+['Max Unger'],NA,week_7,Seattle Seahawks,2013
+['Bobby Wagner'],Out: ankle,week_7,Seattle Seahawks,2013
+['Spencer Ware'],Out: ankle,week_7,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_7,Seattle Seahawks,2013
+['Luke Willson'],NA,week_7,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_7,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_8,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_8,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_8,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_8,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_8,Seattle Seahawks,2013
+['Red Bryant'],NA,week_8,Seattle Seahawks,2013
+['James Carpenter'],NA,week_8,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_8,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_8,Seattle Seahawks,2013
+['Derrick Coleman'],Out: hamstring,week_8,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_8,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_8,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_8,Seattle Seahawks,2013
+['Breno Giacomini'],Out: knee,week_8,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_8,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_8,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_8,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_8,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_8,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_8,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_8,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_8,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_8,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_8,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_8,Seattle Seahawks,2013
+['Christine Michael'],Questionable: illness,week_8,Seattle Seahawks,2013
+['Zach Miller'],NA,week_8,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_8,Seattle Seahawks,2013
+['Russell Okung'],Injured Reserve: toe,week_8,Seattle Seahawks,2013
+['Sidney Rice'],NA,week_8,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_8,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_8,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_8,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_8,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_8,Seattle Seahawks,2013
+['Golden Tate'],Questionable: shoulder,week_8,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_8,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_8,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_8,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_8,Seattle Seahawks,2013
+['Max Unger'],NA,week_8,Seattle Seahawks,2013
+['Bobby Wagner'],Questionable: ankle,week_8,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_8,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_8,Seattle Seahawks,2013
+['Luke Willson'],NA,week_8,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_8,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_9,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_9,Seattle Seahawks,2013
+['Michael Bennett'],Questionable: illness,week_9,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_9,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_9,Seattle Seahawks,2013
+['Red Bryant'],NA,week_9,Seattle Seahawks,2013
+['James Carpenter'],NA,week_9,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_9,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_9,Seattle Seahawks,2013
+['Derrick Coleman'],Out: hamstring,week_9,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_9,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_9,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_9,Seattle Seahawks,2013
+['Breno Giacomini'],Out: knee,week_9,Seattle Seahawks,2013
+['Percy Harvin'],Questionable: hip,week_9,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_9,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_9,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_9,Seattle Seahawks,2013
+['Jeron Johnson'],Questionable: hamstring,week_9,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_9,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_9,Seattle Seahawks,2013
+['Marshawn Lynch'],Probable: knee,week_9,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_9,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_9,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_9,Seattle Seahawks,2013
+['Christine Michael'],NA,week_9,Seattle Seahawks,2013
+['Zach Miller'],NA,week_9,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_9,Seattle Seahawks,2013
+['Russell Okung'],Injured Reserve: toe,week_9,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_9,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_9,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_9,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_9,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_9,Seattle Seahawks,2013
+['J.R. Sweezy'],Probable: elbow,week_9,Seattle Seahawks,2013
+['Golden Tate'],NA,week_9,Seattle Seahawks,2013
+['Earl Thomas'],Probable: illness,week_9,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_9,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_9,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_9,Seattle Seahawks,2013
+['Max Unger'],NA,week_9,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_9,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_9,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_9,Seattle Seahawks,2013
+['Luke Willson'],NA,week_9,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_9,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_10,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_10,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_10,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_10,Seattle Seahawks,2013
+['Brandon Browner'],Doubtful: groin,week_10,Seattle Seahawks,2013
+['Red Bryant'],Questionable: concussion,week_10,Seattle Seahawks,2013
+['James Carpenter'],NA,week_10,Seattle Seahawks,2013
+['Kam Chancellor'],Probable: ankle,week_10,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_10,Seattle Seahawks,2013
+['Derrick Coleman'],Out: hamstring,week_10,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_10,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_10,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_10,Seattle Seahawks,2013
+['Breno Giacomini'],Doubtful: knee,week_10,Seattle Seahawks,2013
+['Percy Harvin'],Physically Unable to Perform: hip,week_10,Seattle Seahawks,2013
+['Jordan Hill'],Questionable: biceps,week_10,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_10,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_10,Seattle Seahawks,2013
+['Jeron Johnson'],Probable: hamstring,week_10,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_10,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_10,Seattle Seahawks,2013
+['Marshawn Lynch'],Questionable: knee,week_10,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_10,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_10,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_10,Seattle Seahawks,2013
+['Christine Michael'],NA,week_10,Seattle Seahawks,2013
+['Zach Miller'],NA,week_10,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_10,Seattle Seahawks,2013
+['Russell Okung'],Injured Reserve: toe,week_10,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_10,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_10,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_10,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_10,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_10,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_10,Seattle Seahawks,2013
+['Golden Tate'],NA,week_10,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_10,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_10,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_10,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_10,Seattle Seahawks,2013
+['Max Unger'],Questionable: concussion,week_10,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_10,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_10,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_10,Seattle Seahawks,2013
+['Luke Willson'],NA,week_10,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_10,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_11,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_11,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_11,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_11,Seattle Seahawks,2013
+['Brandon Browner'],Out: groin,week_11,Seattle Seahawks,2013
+['Red Bryant'],Questionable: concussion,week_11,Seattle Seahawks,2013
+['James Carpenter'],NA,week_11,Seattle Seahawks,2013
+['Kam Chancellor'],Questionable: hip,week_11,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_11,Seattle Seahawks,2013
+['Derrick Coleman'],Out: hamstring,week_11,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_11,Seattle Seahawks,2013
+['Heath Farwell'],Questionable: knee,week_11,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_11,Seattle Seahawks,2013
+['Breno Giacomini'],Probable: knee,week_11,Seattle Seahawks,2013
+['Percy Harvin'],Probable: hip,week_11,Seattle Seahawks,2013
+['Jordan Hill'],Questionable: biceps,week_11,Seattle Seahawks,2013
+['Bruce Irvin'],Probable: shoulder,week_11,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_11,Seattle Seahawks,2013
+['Jeron Johnson'],Probable: hamstring,week_11,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_11,Seattle Seahawks,2013
+['Jeremy Lane'],Questionable: thigh,week_11,Seattle Seahawks,2013
+['Marshawn Lynch'],Questionable: knee,week_11,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_11,Seattle Seahawks,2013
+['Tony McDaniel'],Questionable: hamstring,week_11,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_11,Seattle Seahawks,2013
+['Christine Michael'],NA,week_11,Seattle Seahawks,2013
+['Zach Miller'],NA,week_11,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_11,Seattle Seahawks,2013
+['Russell Okung'],Injured Reserve: toe,week_11,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_11,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_11,Seattle Seahawks,2013
+['Richard Sherman'],Questionable: hip,week_11,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_11,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_11,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_11,Seattle Seahawks,2013
+['Golden Tate'],NA,week_11,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_11,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_11,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_11,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_11,Seattle Seahawks,2013
+['Max Unger'],Questionable: concussion,week_11,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_11,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_11,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_11,Seattle Seahawks,2013
+['Luke Willson'],NA,week_11,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_11,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_13,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_13,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_13,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_13,Seattle Seahawks,2013
+['Brandon Browner'],Out: groin,week_13,Seattle Seahawks,2013
+['Red Bryant'],NA,week_13,Seattle Seahawks,2013
+['James Carpenter'],NA,week_13,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_13,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_13,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_13,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_13,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_13,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_13,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_13,Seattle Seahawks,2013
+['Percy Harvin'],Questionable: hip,week_13,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_13,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_13,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_13,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_13,Seattle Seahawks,2013
+['Jermaine Kearse'],Probable: concussion,week_13,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_13,Seattle Seahawks,2013
+['Marshawn Lynch'],Probable: knee,week_13,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_13,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_13,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_13,Seattle Seahawks,2013
+['Christine Michael'],NA,week_13,Seattle Seahawks,2013
+['Zach Miller'],NA,week_13,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_13,Seattle Seahawks,2013
+['Russell Okung'],NA,week_13,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_13,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_13,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_13,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_13,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_13,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_13,Seattle Seahawks,2013
+['Golden Tate'],NA,week_13,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_13,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_13,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_13,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_13,Seattle Seahawks,2013
+['Max Unger'],NA,week_13,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_13,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_13,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_13,Seattle Seahawks,2013
+['Luke Willson'],NA,week_13,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_13,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_14,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_14,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_14,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_14,Seattle Seahawks,2013
+['Brandon Browner'],Out: groin,week_14,Seattle Seahawks,2013
+['Red Bryant'],NA,week_14,Seattle Seahawks,2013
+['James Carpenter'],NA,week_14,Seattle Seahawks,2013
+['Kam Chancellor'],Probable: hip,week_14,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_14,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_14,Seattle Seahawks,2013
+['Kellen Davis'],Probable: neck,week_14,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_14,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_14,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_14,Seattle Seahawks,2013
+['Percy Harvin'],Doubtful: hip,week_14,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_14,Seattle Seahawks,2013
+['Bruce Irvin'],Questionable: thigh,week_14,Seattle Seahawks,2013
+['Tarvaris Jackson'],Questionable: illness,week_14,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_14,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_14,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_14,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_14,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_14,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_14,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_14,Seattle Seahawks,2013
+['Christine Michael'],NA,week_14,Seattle Seahawks,2013
+['Zach Miller'],NA,week_14,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_14,Seattle Seahawks,2013
+['Russell Okung'],NA,week_14,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_14,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_14,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_14,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_14,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_14,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_14,Seattle Seahawks,2013
+['Golden Tate'],Questionable: hip,week_14,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_14,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_14,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_14,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_14,Seattle Seahawks,2013
+['Max Unger'],NA,week_14,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_14,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_14,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_14,Seattle Seahawks,2013
+['Luke Willson'],NA,week_14,Seattle Seahawks,2013
+['K.J. Wright'],Questionable: foot,week_14,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_15,Seattle Seahawks,2013
+['Doug Baldwin'],Questionable: neck,week_15,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_15,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_15,Seattle Seahawks,2013
+['Brandon Browner'],Out: groin,week_15,Seattle Seahawks,2013
+['Red Bryant'],NA,week_15,Seattle Seahawks,2013
+['James Carpenter'],NA,week_15,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_15,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_15,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_15,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_15,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_15,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_15,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_15,Seattle Seahawks,2013
+['Percy Harvin'],Questionable: hip,week_15,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_15,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_15,Seattle Seahawks,2013
+['Tarvaris Jackson'],Questionable: illness,week_15,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_15,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_15,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_15,Seattle Seahawks,2013
+['Marshawn Lynch'],Probable: shoulder,week_15,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_15,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_15,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_15,Seattle Seahawks,2013
+['Christine Michael'],NA,week_15,Seattle Seahawks,2013
+['Zach Miller'],Probable: ribs,week_15,Seattle Seahawks,2013
+['Mike Morgan'],Questionable: knee,week_15,Seattle Seahawks,2013
+['Russell Okung'],NA,week_15,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_15,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_15,Seattle Seahawks,2013
+['Richard Sherman'],Probable: foot,week_15,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_15,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_15,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_15,Seattle Seahawks,2013
+['Golden Tate'],NA,week_15,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_15,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_15,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_15,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_15,Seattle Seahawks,2013
+['Max Unger'],Questionable: chest,week_15,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_15,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_15,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_15,Seattle Seahawks,2013
+['Luke Willson'],NA,week_15,Seattle Seahawks,2013
+['K.J. Wright'],Out: broken foot,week_15,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_16,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_16,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_16,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_16,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_16,Seattle Seahawks,2013
+['Red Bryant'],NA,week_16,Seattle Seahawks,2013
+['James Carpenter'],NA,week_16,Seattle Seahawks,2013
+['Kam Chancellor'],Questionable: quadriceps,week_16,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_16,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_16,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_16,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_16,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_16,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_16,Seattle Seahawks,2013
+['Percy Harvin'],Out: hip,week_16,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_16,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_16,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_16,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_16,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_16,Seattle Seahawks,2013
+['Jeremy Lane'],Probable: ankle,week_16,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_16,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_16,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_16,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_16,Seattle Seahawks,2013
+['Christine Michael'],NA,week_16,Seattle Seahawks,2013
+['Zach Miller'],Questionable: ribs,week_16,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_16,Seattle Seahawks,2013
+['Russell Okung'],NA,week_16,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_16,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_16,Seattle Seahawks,2013
+['Richard Sherman'],Probable: hip,week_16,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_16,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_16,Seattle Seahawks,2013
+['J.R. Sweezy'],Out: concussion,week_16,Seattle Seahawks,2013
+['Golden Tate'],NA,week_16,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_16,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_16,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_16,Seattle Seahawks,2013
+['Robert Turbin'],Probable: groin,week_16,Seattle Seahawks,2013
+['Max Unger'],NA,week_16,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_16,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_16,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_16,Seattle Seahawks,2013
+['Luke Willson'],NA,week_16,Seattle Seahawks,2013
+['K.J. Wright'],Out: broken foot,week_16,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_17,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_17,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_17,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_17,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_17,Seattle Seahawks,2013
+['Red Bryant'],Questionable: knee,week_17,Seattle Seahawks,2013
+['James Carpenter'],NA,week_17,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_17,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_17,Seattle Seahawks,2013
+['Derrick Coleman'],Probable: shoulder,week_17,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_17,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_17,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_17,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_17,Seattle Seahawks,2013
+['Percy Harvin'],Questionable: hip,week_17,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_17,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_17,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_17,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_17,Seattle Seahawks,2013
+['Jermaine Kearse'],Questionable: ankle,week_17,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_17,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_17,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_17,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_17,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_17,Seattle Seahawks,2013
+['Christine Michael'],NA,week_17,Seattle Seahawks,2013
+['Zach Miller'],NA,week_17,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_17,Seattle Seahawks,2013
+['Russell Okung'],Probable: toe,week_17,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_17,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_17,Seattle Seahawks,2013
+['Richard Sherman'],Probable: hip,week_17,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_17,Seattle Seahawks,2013
+['Malcolm Smith'],Probable: ankle,week_17,Seattle Seahawks,2013
+['J.R. Sweezy'],Questionable: concussion,week_17,Seattle Seahawks,2013
+['Golden Tate'],NA,week_17,Seattle Seahawks,2013
+['Earl Thomas'],Probable: thigh,week_17,Seattle Seahawks,2013
+['Walter Thurmond'],Probable: four-game suspension served,week_17,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_17,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_17,Seattle Seahawks,2013
+['Max Unger'],NA,week_17,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_17,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_17,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_17,Seattle Seahawks,2013
+['Luke Willson'],NA,week_17,Seattle Seahawks,2013
+['K.J. Wright'],Out: broken foot,week_17,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_19,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_19,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_19,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_19,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_19,Seattle Seahawks,2013
+['Red Bryant'],NA,week_19,Seattle Seahawks,2013
+['James Carpenter'],NA,week_19,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_19,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_19,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_19,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_19,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_19,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_19,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_19,Seattle Seahawks,2013
+['Percy Harvin'],NA,week_19,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_19,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_19,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_19,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_19,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_19,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_19,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_19,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_19,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_19,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_19,Seattle Seahawks,2013
+['Christine Michael'],NA,week_19,Seattle Seahawks,2013
+['Zach Miller'],NA,week_19,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_19,Seattle Seahawks,2013
+['Russell Okung'],NA,week_19,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_19,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_19,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_19,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_19,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_19,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_19,Seattle Seahawks,2013
+['Golden Tate'],NA,week_19,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_19,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_19,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_19,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_19,Seattle Seahawks,2013
+['Max Unger'],NA,week_19,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_19,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_19,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_19,Seattle Seahawks,2013
+['Luke Willson'],NA,week_19,Seattle Seahawks,2013
+['K.J. Wright'],Out: broken foot,week_19,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_20,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_20,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_20,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_20,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_20,Seattle Seahawks,2013
+['Red Bryant'],NA,week_20,Seattle Seahawks,2013
+['James Carpenter'],NA,week_20,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_20,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_20,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_20,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_20,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_20,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_20,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_20,Seattle Seahawks,2013
+['Percy Harvin'],NA,week_20,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_20,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_20,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_20,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_20,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_20,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_20,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_20,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_20,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_20,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_20,Seattle Seahawks,2013
+['Christine Michael'],NA,week_20,Seattle Seahawks,2013
+['Zach Miller'],NA,week_20,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_20,Seattle Seahawks,2013
+['Russell Okung'],NA,week_20,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_20,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_20,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_20,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_20,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_20,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_20,Seattle Seahawks,2013
+['Golden Tate'],NA,week_20,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_20,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_20,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_20,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_20,Seattle Seahawks,2013
+['Max Unger'],NA,week_20,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_20,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_20,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_20,Seattle Seahawks,2013
+['Luke Willson'],NA,week_20,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_20,Seattle Seahawks,2013
+['Cliff Avril'],NA,week_21,Seattle Seahawks,2013
+['Doug Baldwin'],NA,week_21,Seattle Seahawks,2013
+['Michael Bennett'],NA,week_21,Seattle Seahawks,2013
+['Michael Bowie'],NA,week_21,Seattle Seahawks,2013
+['Brandon Browner'],NA,week_21,Seattle Seahawks,2013
+['Red Bryant'],NA,week_21,Seattle Seahawks,2013
+['James Carpenter'],NA,week_21,Seattle Seahawks,2013
+['Kam Chancellor'],NA,week_21,Seattle Seahawks,2013
+['Chris Clemons'],NA,week_21,Seattle Seahawks,2013
+['Derrick Coleman'],NA,week_21,Seattle Seahawks,2013
+['Kellen Davis'],NA,week_21,Seattle Seahawks,2013
+['Heath Farwell'],NA,week_21,Seattle Seahawks,2013
+['Chandler Fenner'],Injured Reserve: knee,week_21,Seattle Seahawks,2013
+['Breno Giacomini'],NA,week_21,Seattle Seahawks,2013
+['Percy Harvin'],NA,week_21,Seattle Seahawks,2013
+['Jordan Hill'],NA,week_21,Seattle Seahawks,2013
+['Bruce Irvin'],NA,week_21,Seattle Seahawks,2013
+['Tarvaris Jackson'],NA,week_21,Seattle Seahawks,2013
+['Jeron Johnson'],NA,week_21,Seattle Seahawks,2013
+['Jermaine Kearse'],NA,week_21,Seattle Seahawks,2013
+['Jeremy Lane'],NA,week_21,Seattle Seahawks,2013
+['Marshawn Lynch'],NA,week_21,Seattle Seahawks,2013
+['Anthony McCoy'],Injured Reserve: Achilles,week_21,Seattle Seahawks,2013
+['Tony McDaniel'],NA,week_21,Seattle Seahawks,2013
+['Brandon Mebane'],NA,week_21,Seattle Seahawks,2013
+['Christine Michael'],NA,week_21,Seattle Seahawks,2013
+['Zach Miller'],NA,week_21,Seattle Seahawks,2013
+['Mike Morgan'],NA,week_21,Seattle Seahawks,2013
+['Russell Okung'],NA,week_21,Seattle Seahawks,2013
+['Sidney Rice'],Injured Reserve: concussion/knee,week_21,Seattle Seahawks,2013
+['Greg Scruggs'],Physically Unable to Perform: knee,week_21,Seattle Seahawks,2013
+['Richard Sherman'],NA,week_21,Seattle Seahawks,2013
+['Tharold Simon'],Physically Unable to Perform: foot,week_21,Seattle Seahawks,2013
+['Malcolm Smith'],NA,week_21,Seattle Seahawks,2013
+['J.R. Sweezy'],NA,week_21,Seattle Seahawks,2013
+['Golden Tate'],NA,week_21,Seattle Seahawks,2013
+['Earl Thomas'],NA,week_21,Seattle Seahawks,2013
+['Walter Thurmond'],NA,week_21,Seattle Seahawks,2013
+['Korey Toomer'],Out: knee,week_21,Seattle Seahawks,2013
+['Robert Turbin'],NA,week_21,Seattle Seahawks,2013
+['Max Unger'],NA,week_21,Seattle Seahawks,2013
+['Bobby Wagner'],NA,week_21,Seattle Seahawks,2013
+['Spencer Ware'],Injured Reserve: ankle,week_21,Seattle Seahawks,2013
+['Stephen Williams'],NA,week_21,Seattle Seahawks,2013
+['Luke Willson'],NA,week_21,Seattle Seahawks,2013
+['K.J. Wright'],NA,week_21,Seattle Seahawks,2013

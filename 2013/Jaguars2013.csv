@@ -1,0 +1,785 @@
+﻿name,injury,week,team,year
+['Russell Allen'],NA,week_1,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_1,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_1,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_1,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_1,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_1,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_1,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_1,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_1,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: illness,week_1,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_1,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_1,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_1,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_1,Jacksonville Jaguars,2013
+['Justin Forsett'],Questionable: toe,week_1,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Questionable: right hand,week_1,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Questionable: shin,week_1,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_1,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_1,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_1,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_1,Jacksonville Jaguars,2013
+['Luke Joeckel'],NA,week_1,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_1,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_1,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: ankle,week_1,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_1,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_1,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_1,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_1,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: knee,week_1,Jacksonville Jaguars,2013
+['Jeremy Mincey'],Questionable: illness,week_1,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_1,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_1,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_1,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_1,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_1,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_1,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: ankle,week_1,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_1,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_1,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_1,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_1,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_1,Jacksonville Jaguars,2013
+['Cecil Shorts'],NA,week_1,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_1,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_1,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_1,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_1,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_1,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_2,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_2,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: groin,week_2,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_2,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_2,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_2,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_2,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_2,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: back,week_2,Jacksonville Jaguars,2013
+['Stephen Burton'],NA,week_2,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_2,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_2,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_2,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_2,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_2,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Out: hand,week_2,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Out: shin,week_2,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_2,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_2,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_2,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_2,Jacksonville Jaguars,2013
+['Luke Joeckel'],NA,week_2,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_2,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Questionable: ankle,week_2,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: calf,week_2,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_2,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_2,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_2,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_2,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: knee,week_2,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_2,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_2,Jacksonville Jaguars,2013
+['Uche Nwaneri'],Questionable: knee,week_2,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_2,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_2,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_2,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_2,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: knee,week_2,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_2,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_2,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_2,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_2,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_2,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: groin,week_2,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_2,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_2,Jacksonville Jaguars,2013
+['J.T. Thomas'],Questionable: hamstring,week_2,Jacksonville Jaguars,2013
+['Jordan Todman'],Questionable: shoulder,week_2,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_2,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_3,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_3,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: groin,week_3,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_3,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_3,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_3,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_3,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_3,Jacksonville Jaguars,2013
+['Mike Brown'],Doubtful: back,week_3,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: hip,week_3,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_3,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_3,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_3,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_3,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_3,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Doubtful: hand,week_3,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Out: shin,week_3,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_3,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_3,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_3,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_3,Jacksonville Jaguars,2013
+['Luke Joeckel'],NA,week_3,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_3,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Probable: ankle,week_3,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: calf,week_3,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_3,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_3,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_3,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_3,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: knee,week_3,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_3,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_3,Jacksonville Jaguars,2013
+['Uche Nwaneri'],Questionable: knee,week_3,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_3,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_3,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_3,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_3,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: knee,week_3,Jacksonville Jaguars,2013
+['Allen Reisner'],Questionable: toe,week_3,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_3,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_3,Jacksonville Jaguars,2013
+['Ace Sanders'],Questionable: ribs,week_3,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_3,Jacksonville Jaguars,2013
+['Cecil Shorts'],NA,week_3,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_3,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_3,Jacksonville Jaguars,2013
+['J.T. Thomas'],Questionable: hamstring,week_3,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_3,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_3,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_4,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_4,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: groin,week_4,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_4,Jacksonville Jaguars,2013
+['Will Blackmon'],Questionable: head,week_4,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_4,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_4,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_4,Jacksonville Jaguars,2013
+['Mike Brown'],Doubtful: back,week_4,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: head,week_4,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_4,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_4,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_4,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_4,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_4,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Probable: right hand,week_4,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Out: shin,week_4,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_4,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_4,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_4,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_4,Jacksonville Jaguars,2013
+['Luke Joeckel'],NA,week_4,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_4,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Questionable: ankle,week_4,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: calf,week_4,Jacksonville Jaguars,2013
+['Dwight Lowery'],Doubtful: concussion,week_4,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_4,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_4,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_4,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: elbow/knee,week_4,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_4,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_4,Jacksonville Jaguars,2013
+['Uche Nwaneri'],Questionable: knee,week_4,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_4,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_4,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_4,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_4,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: knee,week_4,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_4,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_4,Jacksonville Jaguars,2013
+['Denard Robinson'],Questionable: hamstring,week_4,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_4,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_4,Jacksonville Jaguars,2013
+['Cecil Shorts'],NA,week_4,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_4,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_4,Jacksonville Jaguars,2013
+['J.T. Thomas'],Questionable: hmastring,week_4,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_4,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_4,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_5,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_5,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: groin,week_5,Jacksonville Jaguars,2013
+['Justin Blackmon'],Probable: four-game suspension served,week_5,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_5,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_5,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_5,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_5,Jacksonville Jaguars,2013
+['Mike Brown'],Out: back,week_5,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_5,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_5,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_5,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_5,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_5,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_5,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_5,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Out: shin,week_5,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_5,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_5,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_5,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: hip,week_5,Jacksonville Jaguars,2013
+['Luke Joeckel'],NA,week_5,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_5,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_5,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Out: calf,week_5,Jacksonville Jaguars,2013
+['Dwight Lowery'],Questionable: concussion,week_5,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_5,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_5,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_5,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_5,Jacksonville Jaguars,2013
+['Jeremy Mincey'],Questionable: concussion,week_5,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_5,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_5,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_5,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_5,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_5,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_5,Jacksonville Jaguars,2013
+['Will Rackley'],NA,week_5,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_5,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_5,Jacksonville Jaguars,2013
+['Denard Robinson'],Questionable: hamstring,week_5,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_5,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_5,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: groin,week_5,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_5,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_5,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_5,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_5,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_5,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_6,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_6,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_6,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_6,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_6,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_6,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_6,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_6,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: back,week_6,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_6,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_6,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_6,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_6,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_6,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_6,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Out: hamstring,week_6,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Out: shin,week_6,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_6,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_6,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_6,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: hip,week_6,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_6,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_6,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_6,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Out: calf,week_6,Jacksonville Jaguars,2013
+['Dwight Lowery'],Injured Reserve: concussion,week_6,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",Questionable: knee,week_6,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_6,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_6,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_6,Jacksonville Jaguars,2013
+['Jeremy Mincey'],Questionable: concussion,week_6,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_6,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_6,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_6,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_6,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_6,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_6,Jacksonville Jaguars,2013
+['Will Rackley'],NA,week_6,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_6,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_6,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_6,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_6,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_6,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: groin,week_6,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_6,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_6,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_6,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_6,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_6,Jacksonville Jaguars,2013
+['Russell Allen'],Questionable: ribs,week_7,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_7,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_7,Jacksonville Jaguars,2013
+['Justin Blackmon'],Questionable: groin/hamstring,week_7,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_7,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_7,Jacksonville Jaguars,2013
+['Andre Branch'],Questionable: knee,week_7,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_7,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_7,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_7,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],Questionable: calf,week_7,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_7,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_7,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_7,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_7,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Questionable: hamstring,week_7,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_7,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_7,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_7,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_7,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_7,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_7,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_7,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_7,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Probable: calf,week_7,Jacksonville Jaguars,2013
+['Dwight Lowery'],Injured Reserve: concussion,week_7,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_7,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_7,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_7,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_7,Jacksonville Jaguars,2013
+['Jeremy Mincey'],Questionable: concussion,week_7,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_7,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_7,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_7,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_7,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_7,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_7,Jacksonville Jaguars,2013
+['Will Rackley'],NA,week_7,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_7,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_7,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_7,Jacksonville Jaguars,2013
+['Ace Sanders'],Questionable: concussion,week_7,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_7,Jacksonville Jaguars,2013
+['Cecil Shorts'],Doubtful: shoulder,week_7,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_7,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_7,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_7,Jacksonville Jaguars,2013
+['Jordan Todman'],Questionable: thigh,week_7,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_7,Jacksonville Jaguars,2013
+['Russell Allen'],Questionable: ribs,week_8,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_8,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_8,Jacksonville Jaguars,2013
+['Justin Blackmon'],Probable: hamstring,week_8,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_8,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_8,Jacksonville Jaguars,2013
+['Andre Branch'],Questionable: knee,week_8,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_8,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_8,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_8,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],Questionable: calf,week_8,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_8,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_8,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_8,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_8,Jacksonville Jaguars,2013
+['Blaine Gabbert'],Probable: hamstring,week_8,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Questionable: ankle,week_8,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_8,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_8,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_8,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_8,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_8,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_8,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_8,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_8,Jacksonville Jaguars,2013
+['Dwight Lowery'],Injured Reserve: concussion,week_8,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",Questionable: knee,week_8,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_8,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_8,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_8,Jacksonville Jaguars,2013
+['Jeremy Mincey'],Questionable: concussion,week_8,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_8,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_8,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_8,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_8,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_8,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_8,Jacksonville Jaguars,2013
+['Will Rackley'],NA,week_8,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_8,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_8,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_8,Jacksonville Jaguars,2013
+['Ace Sanders'],Questionable: concussion,week_8,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_8,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: shoulder,week_8,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_8,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_8,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_8,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_8,Jacksonville Jaguars,2013
+['Stephen Williams'],NA,week_8,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_10,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_10,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_10,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_10,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_10,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_10,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_10,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_10,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_10,Jacksonville Jaguars,2013
+['Stephen Burton'],NA,week_10,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_10,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_10,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_10,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_10,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_10,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_10,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_10,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_10,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_10,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_10,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_10,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_10,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_10,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Probable: knee,week_10,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_10,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_10,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",Probable: ankle,week_10,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_10,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_10,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_10,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_10,Jacksonville Jaguars,2013
+['Danny Noble'],Questionable: knee,week_10,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_10,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_10,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_10,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_10,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_10,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: concussion,week_10,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_10,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_10,Jacksonville Jaguars,2013
+['Denard Robinson'],Questionable: concussion,week_10,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_10,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_10,Jacksonville Jaguars,2013
+['Cecil Shorts'],Questionable: concussion,week_10,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_10,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_10,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_10,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_10,Jacksonville Jaguars,2013
+['Stephen Williams'],Questionable: Achilles,week_10,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_11,Jacksonville Jaguars,2013
+['Tyson Alualu'],Questionable: elbow,week_11,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_11,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_11,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_11,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_11,Jacksonville Jaguars,2013
+['Andre Branch'],Questionable: neck,week_11,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_11,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: ankle,week_11,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_11,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_11,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_11,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_11,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_11,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_11,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_11,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_11,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_11,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_11,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_11,Jacksonville Jaguars,2013
+['Geno Hayes'],NA,week_11,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_11,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_11,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Probable: knee,week_11,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_11,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_11,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",Questionable: ankle,week_11,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_11,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_11,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_11,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_11,Jacksonville Jaguars,2013
+['Danny Noble'],Questionable: hamstring,week_11,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_11,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_11,Jacksonville Jaguars,2013
+['Paul Posluszny'],Questionable: concussion,week_11,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_11,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_11,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: concussion,week_11,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_11,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_11,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_11,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_11,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_11,Jacksonville Jaguars,2013
+['Cecil Shorts'],Questionable: groin,week_11,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_11,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_11,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_11,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_11,Jacksonville Jaguars,2013
+['Stephen Williams'],Questionable: Achilles,week_11,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_12,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_12,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_12,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_12,Jacksonville Jaguars,2013
+['Will Blackmon'],Probable: shoulder,week_12,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_12,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_12,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_12,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: shoulder,week_12,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_12,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_12,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_12,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_12,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_12,Jacksonville Jaguars,2013
+['Justin Forsett'],NA,week_12,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_12,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Probable: hip,week_12,Jacksonville Jaguars,2013
+['Winston Guy'],Probable: hamstring,week_12,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_12,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_12,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: knee,week_12,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_12,Jacksonville Jaguars,2013
+['Abry Jones'],Questionable: back,week_12,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_12,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_12,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_12,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_12,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_12,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_12,Jacksonville Jaguars,2013
+['Roy Miller'],NA,week_12,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_12,Jacksonville Jaguars,2013
+['Danny Noble'],Probable: hamstring,week_12,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_12,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_12,Jacksonville Jaguars,2013
+['Paul Posluszny'],Questionable: concussion,week_12,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_12,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_12,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: concussion,week_12,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_12,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_12,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_12,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_12,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_12,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: groin,week_12,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_12,Jacksonville Jaguars,2013
+['Kerry Taylor'],Probable: toe,week_12,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_12,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_12,Jacksonville Jaguars,2013
+['Stephen Williams'],Questionable: Achilles,week_12,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_13,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_13,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_13,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_13,Jacksonville Jaguars,2013
+['Will Blackmon'],Probable: shoulder,week_13,Jacksonville Jaguars,2013
+['Cameron Bradfield'],Probable: bicep,week_13,Jacksonville Jaguars,2013
+['Andre Branch'],Doubtful: knee,week_13,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_13,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: shoulder,week_13,Jacksonville Jaguars,2013
+['Stephen Burton'],Doubtful: concussion,week_13,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_13,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_13,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_13,Jacksonville Jaguars,2013
+['Josh Evans'],NA,week_13,Jacksonville Jaguars,2013
+['Justin Forsett'],Out: foot,week_13,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_13,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_13,Jacksonville Jaguars,2013
+['Winston Guy'],Questionable: shoulder,week_13,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_13,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_13,Jacksonville Jaguars,2013
+['Geno Hayes'],Doubtful: knee,week_13,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_13,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_13,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_13,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_13,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_13,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_13,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_13,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_13,Jacksonville Jaguars,2013
+['Roy Miller'],Doubtful: shoulder,week_13,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_13,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_13,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_13,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_13,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_13,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_13,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_13,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: illness,week_13,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_13,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_13,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_13,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_13,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_13,Jacksonville Jaguars,2013
+['Cecil Shorts'],Questionable: groin,week_13,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_13,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_13,Jacksonville Jaguars,2013
+['J.T. Thomas'],Questionable: ankle,week_13,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_13,Jacksonville Jaguars,2013
+['Stephen Williams'],Injured Reserve: Achilles,week_13,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_14,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_14,Jacksonville Jaguars,2013
+['Alan Ball'],NA,week_14,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_14,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_14,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_14,Jacksonville Jaguars,2013
+['Andre Branch'],Questionable: knee,week_14,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_14,Jacksonville Jaguars,2013
+['Mike Brown'],Questionable: shoulder,week_14,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_14,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],NA,week_14,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_14,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_14,Jacksonville Jaguars,2013
+['Josh Evans'],Questionable: shoulder,week_14,Jacksonville Jaguars,2013
+['Justin Forsett'],Out: foot,week_14,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_14,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_14,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_14,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_14,Jacksonville Jaguars,2013
+['Mike Harris'],Questionable: hip,week_14,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: knee,week_14,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_14,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_14,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],NA,week_14,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: knee,week_14,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_14,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_14,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_14,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_14,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_14,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_14,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_14,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_14,Jacksonville Jaguars,2013
+['Austin Pasztor'],Questionable: shoulder,week_14,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_14,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_14,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_14,Jacksonville Jaguars,2013
+['Will Rackley'],Questionable: elbow,week_14,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_14,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_14,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_14,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_14,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_14,Jacksonville Jaguars,2013
+['Cecil Shorts'],Probable: groin,week_14,Jacksonville Jaguars,2013
+['Nathan Stupar'],Questionable: chest,week_14,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_14,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_14,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_14,Jacksonville Jaguars,2013
+['Stephen Williams'],Injured Reserve: Achilles,week_14,Jacksonville Jaguars,2013
+['Russell Allen'],NA,week_15,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_15,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: neck,week_15,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_15,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_15,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_15,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_15,Jacksonville Jaguars,2013
+['Mike Brewster'],NA,week_15,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_15,Jacksonville Jaguars,2013
+['Stephen Burton'],Questionable: concussion,week_15,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],Questionable: thigh,week_15,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_15,Jacksonville Jaguars,2013
+['Jeremy Ebert'],NA,week_15,Jacksonville Jaguars,2013
+['Josh Evans'],Questionable: shoulder,week_15,Jacksonville Jaguars,2013
+['Justin Forsett'],Out: foot,week_15,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_15,Jacksonville Jaguars,2013
+['Dwayne Gratz'],NA,week_15,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_15,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_15,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_15,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: knee,week_15,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_15,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_15,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Questionable: hamstring,week_15,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_15,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_15,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_15,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_15,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_15,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_15,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_15,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_15,Jacksonville Jaguars,2013
+['Uche Nwaneri'],Questionable: shoulder,week_15,Jacksonville Jaguars,2013
+['Austin Pasztor'],Questionable: shoulder,week_15,Jacksonville Jaguars,2013
+['Paul Posluszny'],NA,week_15,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_15,Jacksonville Jaguars,2013
+['Chris Prosinski'],Questionable: concussion,week_15,Jacksonville Jaguars,2013
+['Will Rackley'],NA,week_15,Jacksonville Jaguars,2013
+['Allen Reisner'],Injured Reserve: knee,week_15,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],Probable: four-game suspension served,week_15,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_15,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_15,Jacksonville Jaguars,2013
+['Josh Scobee'],Probable: left hip,week_15,Jacksonville Jaguars,2013
+['Cecil Shorts'],Questionable: groin,week_15,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_15,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_15,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_15,Jacksonville Jaguars,2013
+['Jordan Todman'],Probable: leg,week_15,Jacksonville Jaguars,2013
+['Stephen Williams'],Injured Reserve: Achilles,week_15,Jacksonville Jaguars,2013
+['Russell Allen'],Injured Reserve: concussion,week_16,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_16,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: shoulder,week_16,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_16,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_16,Jacksonville Jaguars,2013
+['Cameron Bradfield'],NA,week_16,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_16,Jacksonville Jaguars,2013
+['Mike Brewster'],Injured Reserve: ankle,week_16,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_16,Jacksonville Jaguars,2013
+['Stephen Burton'],Injured Reserve: concussion,week_16,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],Questionable: thigh,week_16,Jacksonville Jaguars,2013
+['Brandon Deaderick'],NA,week_16,Jacksonville Jaguars,2013
+['Jeremy Ebert'],Questionable: ankle,week_16,Jacksonville Jaguars,2013
+['Josh Evans'],Questionable: shoulder,week_16,Jacksonville Jaguars,2013
+['Justin Forsett'],Injured Reserve: foot,week_16,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_16,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Questionable: ankle,week_16,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_16,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_16,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_16,Jacksonville Jaguars,2013
+['Geno Hayes'],Questionable: kneeLB,week_16,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_16,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_16,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Questionable: hamstring,week_16,Jacksonville Jaguars,2013
+['Marcedes Lewis'],Questionable: thigh,week_16,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_16,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_16,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_16,Jacksonville Jaguars,2013
+['Jordan Miller'],NA,week_16,Jacksonville Jaguars,2013
+['Roy Miller'],Questionable: shoulder,week_16,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_16,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_16,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_16,Jacksonville Jaguars,2013
+['Austin Pasztor'],Questionable: shoulder,week_16,Jacksonville Jaguars,2013
+['Paul Posluszny'],Questionable: groin,week_16,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_16,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_16,Jacksonville Jaguars,2013
+['Will Rackley'],Injured Reserve: concussion,week_16,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_16,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_16,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_16,Jacksonville Jaguars,2013
+['Ace Sanders'],NA,week_16,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_16,Jacksonville Jaguars,2013
+['Cecil Shorts'],Injured Reserve: groin,week_16,Jacksonville Jaguars,2013
+['Nathan Stupar'],Questionable: neck,week_16,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_16,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_16,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_16,Jacksonville Jaguars,2013
+['Stephen Williams'],Injured Reserve: Achilles,week_16,Jacksonville Jaguars,2013
+['Russell Allen'],Injured Reserve: concussion,week_17,Jacksonville Jaguars,2013
+['Tyson Alualu'],NA,week_17,Jacksonville Jaguars,2013
+['Alan Ball'],Questionable: ankle/shoulder,week_17,Jacksonville Jaguars,2013
+['Justin Blackmon'],NA,week_17,Jacksonville Jaguars,2013
+['Will Blackmon'],NA,week_17,Jacksonville Jaguars,2013
+['Cameron Bradfield'],Questionable: ankle,week_17,Jacksonville Jaguars,2013
+['Andre Branch'],NA,week_17,Jacksonville Jaguars,2013
+['Mike Brewster'],Injured Reserve: ankle,week_17,Jacksonville Jaguars,2013
+['Mike Brown'],NA,week_17,Jacksonville Jaguars,2013
+['Stephen Burton'],Injured Reserve: concussion,week_17,Jacksonville Jaguars,2013
+['Johnathan Cyprien'],Questionable: thigh/foot,week_17,Jacksonville Jaguars,2013
+['Brandon Deaderick'],Injured Reserve: elbow,week_17,Jacksonville Jaguars,2013
+['Jeremy Ebert'],Injured Reserve: ankle,week_17,Jacksonville Jaguars,2013
+['Josh Evans'],Questionable: shoulder,week_17,Jacksonville Jaguars,2013
+['Justin Forsett'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2013
+['Blaine Gabbert'],NA,week_17,Jacksonville Jaguars,2013
+['Dwayne Gratz'],Questionable: ankle,week_17,Jacksonville Jaguars,2013
+['Winston Guy'],NA,week_17,Jacksonville Jaguars,2013
+['Jeremy Harris'],Injured Reserve: back,week_17,Jacksonville Jaguars,2013
+['Mike Harris'],NA,week_17,Jacksonville Jaguars,2013
+['Geno Hayes'],Out: knee,week_17,Jacksonville Jaguars,2013
+['Luke Joeckel'],Injured Reserve: ankle,week_17,Jacksonville Jaguars,2013
+['Abry Jones'],NA,week_17,Jacksonville Jaguars,2013
+['Maurice Jones-Drew'],Questionable: hamstring,week_17,Jacksonville Jaguars,2013
+['Marcedes Lewis'],NA,week_17,Jacksonville Jaguars,2013
+['Dwight Lowery'],NA,week_17,Jacksonville Jaguars,2013
+"[""Sen'Derrick Marks""]",NA,week_17,Jacksonville Jaguars,2013
+['Stephane Milhim'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2013
+['Jordan Miller'],Questionable: shoulder,week_17,Jacksonville Jaguars,2013
+['Roy Miller'],Injured Reserve: shoulder,week_17,Jacksonville Jaguars,2013
+['Jeremy Mincey'],NA,week_17,Jacksonville Jaguars,2013
+['Danny Noble'],NA,week_17,Jacksonville Jaguars,2013
+['Uche Nwaneri'],NA,week_17,Jacksonville Jaguars,2013
+['Austin Pasztor'],NA,week_17,Jacksonville Jaguars,2013
+['Paul Posluszny'],Questionable: groin,week_17,Jacksonville Jaguars,2013
+['Taylor Price'],Injured Reserve: foot,week_17,Jacksonville Jaguars,2013
+['Chris Prosinski'],NA,week_17,Jacksonville Jaguars,2013
+['Will Rackley'],Injured Reserve: concussion,week_17,Jacksonville Jaguars,2013
+['Allen Reisner'],NA,week_17,Jacksonville Jaguars,2013
+['LaRoy Reynolds'],NA,week_17,Jacksonville Jaguars,2013
+['Denard Robinson'],NA,week_17,Jacksonville Jaguars,2013
+['Ace Sanders'],Probable: finger,week_17,Jacksonville Jaguars,2013
+['Josh Scobee'],NA,week_17,Jacksonville Jaguars,2013
+['Cecil Shorts'],Injured Reserve: groin,week_17,Jacksonville Jaguars,2013
+['Nathan Stupar'],NA,week_17,Jacksonville Jaguars,2013
+['Kerry Taylor'],NA,week_17,Jacksonville Jaguars,2013
+['J.T. Thomas'],NA,week_17,Jacksonville Jaguars,2013
+['Jordan Todman'],NA,week_17,Jacksonville Jaguars,2013
+['Stephen Williams'],Injured Reserve: Achilles,week_17,Jacksonville Jaguars,2013

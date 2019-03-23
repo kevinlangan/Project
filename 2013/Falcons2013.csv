@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Robert Alford'],NA,week_1,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_1,Atlanta Falcons,2013
+['Sam Baker'],NA,week_1,Atlanta Falcons,2013
+['Kroy Biermann'],NA,week_1,Atlanta Falcons,2013
+['Matt Bryant'],Probable: back,week_1,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_1,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_1,Atlanta Falcons,2013
+['Drew Davis'],NA,week_1,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_1,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_1,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_1,Atlanta Falcons,2013
+['Bradie Ewing'],NA,week_1,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_1,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_1,Atlanta Falcons,2013
+['Joe Hawley'],Probable: illness,week_1,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_1,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_1,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_1,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_1,Atlanta Falcons,2013
+['Julio Jones'],NA,week_1,Atlanta Falcons,2013
+['Peter Konz'],NA,week_1,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_1,Atlanta Falcons,2013
+['Robert McClain'],NA,week_1,Atlanta Falcons,2013
+['William Moore'],NA,week_1,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_1,Atlanta Falcons,2013
+['Stephen Nicholas'],Questionable: thigh,week_1,Atlanta Falcons,2013
+['Corey Peters'],NA,week_1,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_1,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_1,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_1,Atlanta Falcons,2013
+['Asante Samuel'],Questionable: thigh,week_1,Atlanta Falcons,2013
+['Antone Smith'],NA,week_1,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_1,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_1,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_1,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_1,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_1,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_1,Atlanta Falcons,2013
+['Sean Weatherspoon'],NA,week_1,Atlanta Falcons,2013
+['Roddy White'],Probable: knee,week_1,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_1,Atlanta Falcons,2013
+['Robert Alford'],NA,week_2,Atlanta Falcons,2013
+['Jonathan Babineaux'],Questionable: knee,week_2,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee,week_2,Atlanta Falcons,2013
+['Kroy Biermann'],NA,week_2,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_2,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_2,Atlanta Falcons,2013
+['Drew Davis'],NA,week_2,Atlanta Falcons,2013
+['Thomas DeCoud'],Questionable: knee,week_2,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_2,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_2,Atlanta Falcons,2013
+['Bradie Ewing'],NA,week_2,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_2,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_2,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_2,Atlanta Falcons,2013
+['Steven Jackson'],Questionable: thigh,week_2,Atlanta Falcons,2013
+['Peria Jerry'],Questionable: knee,week_2,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_2,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_2,Atlanta Falcons,2013
+['Julio Jones'],Probable: knee,week_2,Atlanta Falcons,2013
+['Peter Konz'],NA,week_2,Atlanta Falcons,2013
+['Cliff Matthews'],Questionable: neck,week_2,Atlanta Falcons,2013
+['Robert McClain'],NA,week_2,Atlanta Falcons,2013
+['William Moore'],NA,week_2,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_2,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_2,Atlanta Falcons,2013
+['Corey Peters'],NA,week_2,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_2,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_2,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_2,Atlanta Falcons,2013
+['Asante Samuel'],Questionable: thigh,week_2,Atlanta Falcons,2013
+['Antone Smith'],NA,week_2,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_2,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_2,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_2,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_2,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_2,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_2,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: knee,week_2,Atlanta Falcons,2013
+['Roddy White'],Probable: ankle,week_2,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_2,Atlanta Falcons,2013
+['Robert Alford'],NA,week_3,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_3,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee/foot,week_3,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_3,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_3,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_3,Atlanta Falcons,2013
+['Drew Davis'],NA,week_3,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_3,Atlanta Falcons,2013
+['Akeem Dent'],Questionable: shoulder,week_3,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_3,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_3,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_3,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_3,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_3,Atlanta Falcons,2013
+['Steven Jackson'],Out: thigh,week_3,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_3,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_3,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_3,Atlanta Falcons,2013
+['Julio Jones'],Questionable: knee,week_3,Atlanta Falcons,2013
+['Peter Konz'],Questionable: knee,week_3,Atlanta Falcons,2013
+['Cliff Matthews'],Questionable: neck,week_3,Atlanta Falcons,2013
+['Robert McClain'],NA,week_3,Atlanta Falcons,2013
+['William Moore'],NA,week_3,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_3,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_3,Atlanta Falcons,2013
+['Corey Peters'],NA,week_3,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_3,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_3,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_3,Atlanta Falcons,2013
+['Asante Samuel'],Questionable: thigh,week_3,Atlanta Falcons,2013
+['Antone Smith'],NA,week_3,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_3,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_3,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_3,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_3,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_3,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_3,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_3,Atlanta Falcons,2013
+['Roddy White'],Questionable: ankle,week_3,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_3,Atlanta Falcons,2013
+['Robert Alford'],NA,week_4,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_4,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee/foot,week_4,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_4,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_4,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_4,Atlanta Falcons,2013
+['Drew Davis'],NA,week_4,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_4,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_4,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_4,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_4,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_4,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_4,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_4,Atlanta Falcons,2013
+['Steven Jackson'],Out: thigh,week_4,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_4,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_4,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_4,Atlanta Falcons,2013
+['Julio Jones'],Probable: knee,week_4,Atlanta Falcons,2013
+['Peter Konz'],Questionable: knee,week_4,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_4,Atlanta Falcons,2013
+['Robert McClain'],Probable: ankle,week_4,Atlanta Falcons,2013
+['William Moore'],NA,week_4,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_4,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_4,Atlanta Falcons,2013
+['Corey Peters'],NA,week_4,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_4,Atlanta Falcons,2013
+['Garrett Reynolds'],Questionable: knee,week_4,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_4,Atlanta Falcons,2013
+['Asante Samuel'],Questionable: thigh,week_4,Atlanta Falcons,2013
+['Antone Smith'],NA,week_4,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_4,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_4,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_4,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_4,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_4,Atlanta Falcons,2013
+['Josh Vaughan'],Probable: ankle,week_4,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_4,Atlanta Falcons,2013
+['Roddy White'],Probable: ankle,week_4,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_4,Atlanta Falcons,2013
+['Robert Alford'],NA,week_5,Atlanta Falcons,2013
+['Jonathan Babineaux'],Probable: foot,week_5,Atlanta Falcons,2013
+['Sam Baker'],Out: knee,week_5,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_5,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_5,Atlanta Falcons,2013
+['Chase Coffman'],Questionable: knee,week_5,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_5,Atlanta Falcons,2013
+['Drew Davis'],Probable: ankle,week_5,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_5,Atlanta Falcons,2013
+['Akeem Dent'],Out: ankle,week_5,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_5,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_5,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_5,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_5,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_5,Atlanta Falcons,2013
+['Steven Jackson'],Out: thigh,week_5,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_5,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_5,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_5,Atlanta Falcons,2013
+['Julio Jones'],Probable: knee,week_5,Atlanta Falcons,2013
+['Peter Konz'],NA,week_5,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_5,Atlanta Falcons,2013
+['Robert McClain'],NA,week_5,Atlanta Falcons,2013
+['William Moore'],NA,week_5,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_5,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_5,Atlanta Falcons,2013
+['Corey Peters'],NA,week_5,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_5,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_5,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_5,Atlanta Falcons,2013
+['Asante Samuel'],Questionable: thigh,week_5,Atlanta Falcons,2013
+['Antone Smith'],NA,week_5,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_5,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_5,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_5,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_5,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_5,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_5,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_5,Atlanta Falcons,2013
+['Roddy White'],Probable: ankle,week_5,Atlanta Falcons,2013
+['Paul Worrilow'],Questionable: knee,week_5,Atlanta Falcons,2013
+['Robert Alford'],NA,week_7,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_7,Atlanta Falcons,2013
+['Sam Baker'],Doubtful: knee,week_7,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_7,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_7,Atlanta Falcons,2013
+['Chase Coffman'],Questionable: knee,week_7,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_7,Atlanta Falcons,2013
+['Drew Davis'],NA,week_7,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_7,Atlanta Falcons,2013
+['Akeem Dent'],Questionable: ankle,week_7,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_7,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_7,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_7,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_7,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_7,Atlanta Falcons,2013
+['Steven Jackson'],Out: thigh,week_7,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_7,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_7,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_7,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_7,Atlanta Falcons,2013
+['Peter Konz'],NA,week_7,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_7,Atlanta Falcons,2013
+['Robert McClain'],NA,week_7,Atlanta Falcons,2013
+['William Moore'],NA,week_7,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_7,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_7,Atlanta Falcons,2013
+['Corey Peters'],NA,week_7,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_7,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_7,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_7,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_7,Atlanta Falcons,2013
+['Antone Smith'],NA,week_7,Atlanta Falcons,2013
+['Jason Snelling'],Probable: concussion,week_7,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_7,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_7,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_7,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_7,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_7,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_7,Atlanta Falcons,2013
+['Roddy White'],Doubtful: hamstring,week_7,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_7,Atlanta Falcons,2013
+['Robert Alford'],Questionable: ankle,week_8,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_8,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee,week_8,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_8,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_8,Atlanta Falcons,2013
+['Chase Coffman'],Questionable: knee,week_8,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_8,Atlanta Falcons,2013
+['Drew Davis'],NA,week_8,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_8,Atlanta Falcons,2013
+['Akeem Dent'],Questionable: ankle,week_8,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_8,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_8,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_8,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_8,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_8,Atlanta Falcons,2013
+['Steven Jackson'],Questionable: thigh,week_8,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_8,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_8,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_8,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_8,Atlanta Falcons,2013
+['Peter Konz'],NA,week_8,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_8,Atlanta Falcons,2013
+['Robert McClain'],NA,week_8,Atlanta Falcons,2013
+['William Moore'],NA,week_8,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_8,Atlanta Falcons,2013
+['Stephen Nicholas'],Questionable: thigh,week_8,Atlanta Falcons,2013
+['Corey Peters'],Questionable: shoulder,week_8,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_8,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_8,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_8,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_8,Atlanta Falcons,2013
+['Antone Smith'],NA,week_8,Atlanta Falcons,2013
+['Jason Snelling'],Questionable: ankle,week_8,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_8,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_8,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_8,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_8,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_8,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_8,Atlanta Falcons,2013
+['Roddy White'],Questionable: hamstring,week_8,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_8,Atlanta Falcons,2013
+['Robert Alford'],NA,week_9,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_9,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee,week_9,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_9,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_9,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_9,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_9,Atlanta Falcons,2013
+['Drew Davis'],NA,week_9,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_9,Atlanta Falcons,2013
+['Akeem Dent'],Probable: ankle,week_9,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_9,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_9,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_9,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_9,Atlanta Falcons,2013
+['Joe Hawley'],Questionable: elbow,week_9,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_9,Atlanta Falcons,2013
+['Peria Jerry'],Questionable: toe,week_9,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_9,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_9,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_9,Atlanta Falcons,2013
+['Peter Konz'],NA,week_9,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_9,Atlanta Falcons,2013
+['Robert McClain'],NA,week_9,Atlanta Falcons,2013
+['William Moore'],Questionable: hip,week_9,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_9,Atlanta Falcons,2013
+['Stephen Nicholas'],Questionable: thigh,week_9,Atlanta Falcons,2013
+['Corey Peters'],NA,week_9,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_9,Atlanta Falcons,2013
+['Garrett Reynolds'],Probable: knee,week_9,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_9,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_9,Atlanta Falcons,2013
+['Antone Smith'],NA,week_9,Atlanta Falcons,2013
+['Jason Snelling'],Questionable: ankle,week_9,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_9,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_9,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_9,Atlanta Falcons,2013
+['Osi Umenyiora'],Questionable: knee,week_9,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_9,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_9,Atlanta Falcons,2013
+['Roddy White'],Questionable: hamstring,week_9,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_9,Atlanta Falcons,2013
+['Robert Alford'],NA,week_10,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_10,Atlanta Falcons,2013
+['Sam Baker'],Questionable: knee,week_10,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_10,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_10,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_10,Atlanta Falcons,2013
+['Drew Davis'],NA,week_10,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_10,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_10,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_10,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_10,Atlanta Falcons,2013
+['Tony Gonzalez'],NA,week_10,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_10,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_10,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_10,Atlanta Falcons,2013
+['Peria Jerry'],Questionable: toe,week_10,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_10,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_10,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_10,Atlanta Falcons,2013
+['Peter Konz'],NA,week_10,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_10,Atlanta Falcons,2013
+['Robert McClain'],NA,week_10,Atlanta Falcons,2013
+['William Moore'],NA,week_10,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_10,Atlanta Falcons,2013
+['Stephen Nicholas'],Questionable: thigh,week_10,Atlanta Falcons,2013
+['Corey Peters'],Questionable: knee,week_10,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_10,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_10,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_10,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_10,Atlanta Falcons,2013
+['Antone Smith'],NA,week_10,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_10,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_10,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_10,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_10,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_10,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_10,Atlanta Falcons,2013
+['Sean Weatherspoon'],Injured Reserve: foot,week_10,Atlanta Falcons,2013
+['Roddy White'],Questionable: hamstring,week_10,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_10,Atlanta Falcons,2013
+['Robert Alford'],NA,week_11,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_11,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_11,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_11,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_11,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_11,Atlanta Falcons,2013
+['Drew Davis'],NA,week_11,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_11,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_11,Atlanta Falcons,2013
+['Harry Douglas'],Questionable: knee,week_11,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_11,Atlanta Falcons,2013
+['Tony Gonzalez'],Questionable: toe,week_11,Atlanta Falcons,2013
+['Malliciah Goodman'],Questionable: calf,week_11,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_11,Atlanta Falcons,2013
+['Steven Jackson'],Probable: toe,week_11,Atlanta Falcons,2013
+['Peria Jerry'],Probable: toe,week_11,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_11,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_11,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_11,Atlanta Falcons,2013
+['Peter Konz'],NA,week_11,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_11,Atlanta Falcons,2013
+['Robert McClain'],NA,week_11,Atlanta Falcons,2013
+['William Moore'],NA,week_11,Atlanta Falcons,2013
+['Zeke Motta'],NA,week_11,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_11,Atlanta Falcons,2013
+['Corey Peters'],Questionable: knee,week_11,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_11,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_11,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_11,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_11,Atlanta Falcons,2013
+['Antone Smith'],NA,week_11,Atlanta Falcons,2013
+['Jason Snelling'],Questionable: knee,week_11,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_11,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_11,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_11,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_11,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_11,Atlanta Falcons,2013
+['Sean Weatherspoon'],Probable: foot,week_11,Atlanta Falcons,2013
+['Roddy White'],Probable: shoulder,week_11,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_11,Atlanta Falcons,2013
+['Robert Alford'],NA,week_12,Atlanta Falcons,2013
+['Jonathan Babineaux'],Probable: triceps,week_12,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_12,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_12,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_12,Atlanta Falcons,2013
+['Dominique Davis'],Questionable: knee,week_12,Atlanta Falcons,2013
+['Drew Davis'],NA,week_12,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_12,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_12,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_12,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_12,Atlanta Falcons,2013
+['Tony Gonzalez'],Questionable: toe,week_12,Atlanta Falcons,2013
+['Malliciah Goodman'],Out: calf,week_12,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_12,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_12,Atlanta Falcons,2013
+['Peria Jerry'],Probable: shoulder,week_12,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_12,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_12,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_12,Atlanta Falcons,2013
+['Peter Konz'],NA,week_12,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_12,Atlanta Falcons,2013
+['Robert McClain'],NA,week_12,Atlanta Falcons,2013
+['William Moore'],NA,week_12,Atlanta Falcons,2013
+['Zeke Motta'],Probable: hand,week_12,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_12,Atlanta Falcons,2013
+['Corey Peters'],NA,week_12,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_12,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_12,Atlanta Falcons,2013
+['Jacquizz Rodgers'],Probable: ankle,week_12,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_12,Atlanta Falcons,2013
+['Antone Smith'],NA,week_12,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_12,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_12,Atlanta Falcons,2013
+['Jeremy Trueblood'],Probable: knee/hip,week_12,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_12,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_12,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_12,Atlanta Falcons,2013
+['Sean Weatherspoon'],NA,week_12,Atlanta Falcons,2013
+['Roddy White'],NA,week_12,Atlanta Falcons,2013
+['Paul Worrilow'],Probable: shoulder,week_12,Atlanta Falcons,2013
+['Robert Alford'],NA,week_13,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_13,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_13,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_13,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_13,Atlanta Falcons,2013
+['Drew Davis'],NA,week_13,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_13,Atlanta Falcons,2013
+['Akeem Dent'],Questionable: ankle,week_13,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_13,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_13,Atlanta Falcons,2013
+['Tony Gonzalez'],Probable: toe,week_13,Atlanta Falcons,2013
+['Malliciah Goodman'],Questionable: calf,week_13,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_13,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_13,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_13,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_13,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_13,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_13,Atlanta Falcons,2013
+['Peter Konz'],NA,week_13,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_13,Atlanta Falcons,2013
+['Robert McClain'],NA,week_13,Atlanta Falcons,2013
+['William Moore'],NA,week_13,Atlanta Falcons,2013
+['Zeke Motta'],Questionable: hand,week_13,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_13,Atlanta Falcons,2013
+['Corey Peters'],NA,week_13,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_13,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_13,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_13,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_13,Atlanta Falcons,2013
+['Antone Smith'],NA,week_13,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_13,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_13,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_13,Atlanta Falcons,2013
+['Desmond Trufant'],Questionable: thigh,week_13,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_13,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_13,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: shoulder,week_13,Atlanta Falcons,2013
+['Roddy White'],NA,week_13,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_13,Atlanta Falcons,2013
+['Robert Alford'],NA,week_14,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_14,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_14,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_14,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_14,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_14,Atlanta Falcons,2013
+['Drew Davis'],NA,week_14,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_14,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_14,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_14,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_14,Atlanta Falcons,2013
+['Tony Gonzalez'],Questionable: toe,week_14,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_14,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_14,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_14,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_14,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_14,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_14,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_14,Atlanta Falcons,2013
+['Peter Konz'],Questionable: ankle,week_14,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_14,Atlanta Falcons,2013
+['Robert McClain'],NA,week_14,Atlanta Falcons,2013
+['William Moore'],NA,week_14,Atlanta Falcons,2013
+['Zeke Motta'],Questionable: hand,week_14,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_14,Atlanta Falcons,2013
+['Corey Peters'],NA,week_14,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_14,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_14,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_14,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_14,Atlanta Falcons,2013
+['Antone Smith'],NA,week_14,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_14,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_14,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_14,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_14,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_14,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_14,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: knee,week_14,Atlanta Falcons,2013
+['Roddy White'],NA,week_14,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_14,Atlanta Falcons,2013
+['Robert Alford'],NA,week_15,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_15,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_15,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_15,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_15,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_15,Atlanta Falcons,2013
+['Drew Davis'],NA,week_15,Atlanta Falcons,2013
+['Thomas DeCoud'],Doubtful: concussion,week_15,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_15,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_15,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_15,Atlanta Falcons,2013
+['Tony Gonzalez'],Questionable: toe,week_15,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_15,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_15,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_15,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_15,Atlanta Falcons,2013
+['Darius Johnson'],NA,week_15,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_15,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_15,Atlanta Falcons,2013
+['Peter Konz'],NA,week_15,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_15,Atlanta Falcons,2013
+['Robert McClain'],NA,week_15,Atlanta Falcons,2013
+['William Moore'],NA,week_15,Atlanta Falcons,2013
+['Zeke Motta'],Questionable: hand,week_15,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_15,Atlanta Falcons,2013
+['Corey Peters'],NA,week_15,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_15,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_15,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_15,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_15,Atlanta Falcons,2013
+['Antone Smith'],Questionable: knee,week_15,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_15,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_15,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_15,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_15,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_15,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_15,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: shoulder,week_15,Atlanta Falcons,2013
+['Roddy White'],Questionable: knee,week_15,Atlanta Falcons,2013
+['Paul Worrilow'],Questionable: shoulder,week_15,Atlanta Falcons,2013
+['Robert Alford'],NA,week_16,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_16,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_16,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_16,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_16,Atlanta Falcons,2013
+['Drew Davis'],NA,week_16,Atlanta Falcons,2013
+['Thomas DeCoud'],Probable: concussion,week_16,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_16,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_16,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_16,Atlanta Falcons,2013
+['Tony Gonzalez'],Questionable: toe,week_16,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_16,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_16,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_16,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_16,Atlanta Falcons,2013
+['Darius Johnson'],Out: ankle,week_16,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_16,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_16,Atlanta Falcons,2013
+['Peter Konz'],NA,week_16,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_16,Atlanta Falcons,2013
+['Robert McClain'],NA,week_16,Atlanta Falcons,2013
+['William Moore'],NA,week_16,Atlanta Falcons,2013
+['Zeke Motta'],Questionable: hand,week_16,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_16,Atlanta Falcons,2013
+['Corey Peters'],NA,week_16,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_16,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_16,Atlanta Falcons,2013
+['Jacquizz Rodgers'],NA,week_16,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_16,Atlanta Falcons,2013
+['Antone Smith'],Questionable: knee,week_16,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_16,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_16,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_16,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_16,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_16,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_16,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: knee,week_16,Atlanta Falcons,2013
+['Roddy White'],NA,week_16,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_16,Atlanta Falcons,2013
+['Robert Alford'],Questionable: ankle,week_17,Atlanta Falcons,2013
+['Jonathan Babineaux'],NA,week_17,Atlanta Falcons,2013
+['Sam Baker'],Injured Reserve: knee,week_17,Atlanta Falcons,2013
+['Kroy Biermann'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2013
+['Matt Bryant'],NA,week_17,Atlanta Falcons,2013
+['Chase Coffman'],NA,week_17,Atlanta Falcons,2013
+['Dominique Davis'],NA,week_17,Atlanta Falcons,2013
+['Drew Davis'],NA,week_17,Atlanta Falcons,2013
+['Thomas DeCoud'],NA,week_17,Atlanta Falcons,2013
+['Akeem Dent'],NA,week_17,Atlanta Falcons,2013
+['Harry Douglas'],NA,week_17,Atlanta Falcons,2013
+['Bradie Ewing'],Injured Reserve: shoulder,week_17,Atlanta Falcons,2013
+['Tony Gonzalez'],Probable: toe,week_17,Atlanta Falcons,2013
+['Malliciah Goodman'],NA,week_17,Atlanta Falcons,2013
+['Joe Hawley'],NA,week_17,Atlanta Falcons,2013
+['Steven Jackson'],NA,week_17,Atlanta Falcons,2013
+['Peria Jerry'],NA,week_17,Atlanta Falcons,2013
+['Darius Johnson'],Questionable: ankle,week_17,Atlanta Falcons,2013
+['Mike Johnson'],Injured Reserve: ankle/fibula,week_17,Atlanta Falcons,2013
+['Julio Jones'],Injured Reserve: foot,week_17,Atlanta Falcons,2013
+['Peter Konz'],Probable: ankle,week_17,Atlanta Falcons,2013
+['Cliff Matthews'],NA,week_17,Atlanta Falcons,2013
+['Robert McClain'],NA,week_17,Atlanta Falcons,2013
+['William Moore'],NA,week_17,Atlanta Falcons,2013
+['Zeke Motta'],Injured Reserve: neck,week_17,Atlanta Falcons,2013
+['Stephen Nicholas'],NA,week_17,Atlanta Falcons,2013
+['Corey Peters'],Out: Achilles,week_17,Atlanta Falcons,2013
+['Sean Renfree'],Injured Reserve: undisclosed,week_17,Atlanta Falcons,2013
+['Garrett Reynolds'],NA,week_17,Atlanta Falcons,2013
+['Jacquizz Rodgers'],Doubtful: concussion,week_17,Atlanta Falcons,2013
+['Asante Samuel'],NA,week_17,Atlanta Falcons,2013
+['Antone Smith'],NA,week_17,Atlanta Falcons,2013
+['Jason Snelling'],NA,week_17,Atlanta Falcons,2013
+['Andrew Szczerba'],Injured Reserve: undisclosed,week_17,Atlanta Falcons,2013
+['Jeremy Trueblood'],NA,week_17,Atlanta Falcons,2013
+['Desmond Trufant'],NA,week_17,Atlanta Falcons,2013
+['Osi Umenyiora'],NA,week_17,Atlanta Falcons,2013
+['Josh Vaughan'],NA,week_17,Atlanta Falcons,2013
+['Sean Weatherspoon'],Questionable: knee,week_17,Atlanta Falcons,2013
+['Roddy White'],NA,week_17,Atlanta Falcons,2013
+['Paul Worrilow'],NA,week_17,Atlanta Falcons,2013

@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Mike Adams'],NA,week_1,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_1,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_1,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",Out: foot,week_1,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_1,Pittsburgh Steelers,2013
+['Levi Brown'],NA,week_1,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_1,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_1,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_1,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_1,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_1,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_1,Pittsburgh Steelers,2013
+['Larry Foote'],NA,week_1,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_1,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_1,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_1,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_1,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_1,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_1,Pittsburgh Steelers,2013
+['David Johnson'],NA,week_1,Pittsburgh Steelers,2013
+['Will Johnson'],Questionable: hamstring,week_1,Pittsburgh Steelers,2013
+['Jarvis Jones'],Questionable: chest,week_1,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_1,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_1,Pittsburgh Steelers,2013
+['Heath Miller'],Questionable: knee,week_1,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_1,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Questionable: knee,week_1,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_1,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_1,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_1,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_1,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],NA,week_1,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_1,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_1,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_1,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_1,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_1,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_1,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_1,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_1,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_1,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_1,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_1,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_2,Pittsburgh Steelers,2013
+['Cortez Allen'],Questionable: ankle,week_2,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_2,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",Out: foot,week_2,Pittsburgh Steelers,2013
+['Curtis Brown'],Probable: illness,week_2,Pittsburgh Steelers,2013
+['Levi Brown'],NA,week_2,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_2,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_2,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_2,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_2,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_2,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_2,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_2,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_2,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_2,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_2,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_2,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_2,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_2,Pittsburgh Steelers,2013
+['David Johnson'],NA,week_2,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_2,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_2,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_2,Pittsburgh Steelers,2013
+['Steve McLendon'],Probable: hamstring,week_2,Pittsburgh Steelers,2013
+['Heath Miller'],Questionable: knee,week_2,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_2,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_2,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_2,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_2,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_2,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_2,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_2,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_2,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_2,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_2,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_2,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_2,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_2,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_2,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_2,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_2,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_2,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_2,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_3,Pittsburgh Steelers,2013
+['Cortez Allen'],Questionable: ankle,week_3,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_3,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",Out: foot,week_3,Pittsburgh Steelers,2013
+['Curtis Brown'],Probable: illness,week_3,Pittsburgh Steelers,2013
+['Levi Brown'],NA,week_3,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_3,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_3,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_3,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_3,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_3,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_3,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_3,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_3,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_3,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_3,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_3,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_3,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_3,Pittsburgh Steelers,2013
+['David Johnson'],NA,week_3,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_3,Pittsburgh Steelers,2013
+['Jarvis Jones'],Questionable: heel,week_3,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: calf,week_3,Pittsburgh Steelers,2013
+['Steve McLendon'],Probable: hamstring,week_3,Pittsburgh Steelers,2013
+['Heath Miller'],Questionable: knee,week_3,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_3,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_3,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_3,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_3,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_3,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_3,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_3,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_3,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_3,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_3,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_3,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_3,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_3,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_3,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_3,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_3,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_3,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_3,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_4,Pittsburgh Steelers,2013
+['Cortez Allen'],Probable: ankle,week_4,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_4,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",Questionable: foot,week_4,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_4,Pittsburgh Steelers,2013
+['Levi Brown'],NA,week_4,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_4,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_4,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_4,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_4,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_4,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_4,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_4,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_4,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_4,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_4,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_4,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_4,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_4,Pittsburgh Steelers,2013
+['David Johnson'],NA,week_4,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_4,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_4,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: hamstring,week_4,Pittsburgh Steelers,2013
+['Steve McLendon'],Probable: hamstring,week_4,Pittsburgh Steelers,2013
+['Heath Miller'],Questionable: knee,week_4,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_4,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_4,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_4,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_4,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_4,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_4,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_4,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_4,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_4,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_4,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_4,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_4,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_4,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_4,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_4,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_4,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_4,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_4,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_6,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_6,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_6,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_6,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_6,Pittsburgh Steelers,2013
+['Levi Brown'],Out: triceps,week_6,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_6,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_6,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_6,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",Questionable: hip,week_6,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_6,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_6,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_6,Pittsburgh Steelers,2013
+['Ramon Foster'],Questionable: chest,week_6,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_6,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_6,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_6,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_6,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_6,Pittsburgh Steelers,2013
+['David Johnson'],Doubtful: wrist,week_6,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_6,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_6,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_6,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_6,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_6,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_6,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_6,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],Probable: finger,week_6,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_6,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_6,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_6,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_6,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_6,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_6,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_6,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_6,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_6,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_6,Pittsburgh Steelers,2013
+['Markus Wheaton'],Out: finger,week_6,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_6,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_6,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_6,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_6,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_7,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_7,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_7,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_7,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_7,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_7,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_7,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_7,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_7,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_7,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_7,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_7,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_7,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_7,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_7,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: quadricep,week_7,Pittsburgh Steelers,2013
+['Richard Gordon'],Questionable: toe,week_7,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_7,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_7,Pittsburgh Steelers,2013
+['David Johnson'],Out: wrist,week_7,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_7,Pittsburgh Steelers,2013
+['Jarvis Jones'],Questionable: head,week_7,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: abdomen,week_7,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_7,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_7,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_7,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_7,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_7,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_7,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_7,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_7,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_7,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_7,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_7,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_7,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_7,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_7,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_7,Pittsburgh Steelers,2013
+['Markus Wheaton'],Out: finger,week_7,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_7,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_7,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Questionable: knee,week_7,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_7,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_8,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_8,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Probable: ribs,week_8,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_8,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_8,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_8,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_8,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_8,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],Probable: abdomen,week_8,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_8,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_8,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_8,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_8,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_8,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_8,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: quadriceps,week_8,Pittsburgh Steelers,2013
+['Richard Gordon'],Questionable: toe,week_8,Pittsburgh Steelers,2013
+['Cameron Heyward'],Probable: illness,week_8,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_8,Pittsburgh Steelers,2013
+['David Johnson'],Out: wrist,week_8,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_8,Pittsburgh Steelers,2013
+['Jarvis Jones'],Questionable: concussion,week_8,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: ribs,week_8,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_8,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_8,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_8,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_8,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_8,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_8,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_8,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_8,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_8,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_8,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_8,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_8,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_8,Pittsburgh Steelers,2013
+['Lawrence Timmons'],Questionable: hand,week_8,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_8,Pittsburgh Steelers,2013
+['Markus Wheaton'],Out: finger,week_8,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_8,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_8,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Probable: knee,week_8,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_8,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_9,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_9,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_9,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_9,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_9,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_9,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_9,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_9,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_9,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_9,Pittsburgh Steelers,2013
+['David DeCastro'],Questionable: ankle,week_9,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_9,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_9,Pittsburgh Steelers,2013
+['Ramon Foster'],Questionable: concussion,week_9,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_9,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_9,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_9,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_9,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_9,Pittsburgh Steelers,2013
+['David Johnson'],Out: wrist,week_9,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_9,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_9,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_9,Pittsburgh Steelers,2013
+['Steve McLendon'],Questionable: illness,week_9,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_9,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_9,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_9,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_9,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_9,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_9,Pittsburgh Steelers,2013
+['Sean Spence'],Physically Unable to Perform: knee,week_9,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_9,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_9,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_9,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_9,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_9,Pittsburgh Steelers,2013
+['Lawrence Timmons'],Probable: hand,week_9,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_9,Pittsburgh Steelers,2013
+['Markus Wheaton'],Questionable: finger,week_9,Pittsburgh Steelers,2013
+['Guy Whimper'],Probable: knee,week_9,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_9,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_9,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_9,Pittsburgh Steelers,2013
+['Mike Adams'],Questionable: ribs,week_10,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_10,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Questionable: knee,week_10,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_10,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_10,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_10,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_10,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_10,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_10,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_10,Pittsburgh Steelers,2013
+['David DeCastro'],Probable: ankle,week_10,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_10,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_10,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_10,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_10,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: ankle,week_10,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_10,Pittsburgh Steelers,2013
+['Cameron Heyward'],Questionable: knee,week_10,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_10,Pittsburgh Steelers,2013
+['David Johnson'],Out: wrist,week_10,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_10,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_10,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_10,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_10,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_10,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_10,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_10,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_10,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_10,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_10,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_10,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_10,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_10,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_10,Pittsburgh Steelers,2013
+['Ike Taylor'],Questionable: concussion,week_10,Pittsburgh Steelers,2013
+['Shamarko Thomas'],Questionable: ankle,week_10,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_10,Pittsburgh Steelers,2013
+['Fernando Velasco'],Questionable: thigh,week_10,Pittsburgh Steelers,2013
+['Markus Wheaton'],Probable: finger,week_10,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_10,Pittsburgh Steelers,2013
+['Vince Williams'],Questionable: concussion,week_10,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_10,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_10,Pittsburgh Steelers,2013
+['Mike Adams'],Probable: ribs,week_11,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_11,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Questionable: hip,week_11,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_11,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_11,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_11,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_11,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_11,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_11,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_11,Pittsburgh Steelers,2013
+['David DeCastro'],Questionable: ankle,week_11,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_11,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_11,Pittsburgh Steelers,2013
+['Ramon Foster'],Out: ankle,week_11,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_11,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: ankle,week_11,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_11,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_11,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_11,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_11,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_11,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_11,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: foot,week_11,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_11,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_11,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_11,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_11,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_11,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],Questionable: foot,week_11,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_11,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_11,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_11,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_11,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_11,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_11,Pittsburgh Steelers,2013
+['Shamarko Thomas'],Out: ankle,week_11,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_11,Pittsburgh Steelers,2013
+['Fernando Velasco'],Questionable: knee,week_11,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_11,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_11,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_11,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Questionable: calf,week_11,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_11,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_12,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_12,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Probable: hip,week_12,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_12,Pittsburgh Steelers,2013
+['Curtis Brown'],NA,week_12,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_12,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_12,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_12,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_12,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_12,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_12,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_12,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_12,Pittsburgh Steelers,2013
+['Ramon Foster'],Questionable: ankle,week_12,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_12,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_12,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_12,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_12,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_12,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_12,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_12,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_12,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: foot,week_12,Pittsburgh Steelers,2013
+['Steve McLendon'],Doubtful: ankle,week_12,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_12,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_12,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_12,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_12,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],Probable: foot,week_12,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_12,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_12,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_12,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_12,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],Questionable: hamstring,week_12,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_12,Pittsburgh Steelers,2013
+['Shamarko Thomas'],Questionable: ankle,week_12,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_12,Pittsburgh Steelers,2013
+['Fernando Velasco'],Questionable: knee,week_12,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_12,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_12,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_12,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Questionable: calf,week_12,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_12,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_13,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_13,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_13,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_13,Pittsburgh Steelers,2013
+['Curtis Brown'],Out: knee,week_13,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_13,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_13,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_13,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_13,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_13,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_13,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_13,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_13,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_13,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_13,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: ankle,week_13,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_13,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_13,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_13,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_13,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_13,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_13,Pittsburgh Steelers,2013
+['Brett Keisel'],NA,week_13,Pittsburgh Steelers,2013
+['Steve McLendon'],Out: ankle,week_13,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_13,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_13,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_13,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_13,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_13,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_13,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_13,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_13,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_13,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],Out: hamstring,week_13,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_13,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_13,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_13,Pittsburgh Steelers,2013
+['Fernando Velasco'],NA,week_13,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_13,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_13,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_13,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Out: calf,week_13,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_13,Pittsburgh Steelers,2013
+['Mike Adams'],Probable: ankle,week_14,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_14,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Questionable: knee,week_14,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",Probable: head,week_14,Pittsburgh Steelers,2013
+['Curtis Brown'],Injured Reserve: knee,week_14,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_14,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_14,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_14,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_14,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_14,Pittsburgh Steelers,2013
+['David DeCastro'],Questionable: foot,week_14,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_14,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_14,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_14,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_14,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_14,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_14,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_14,Pittsburgh Steelers,2013
+['Evander Hood'],Questionable: ankle,week_14,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_14,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_14,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_14,Pittsburgh Steelers,2013
+['Brett Keisel'],Out: foot,week_14,Pittsburgh Steelers,2013
+['Steve McLendon'],Questionable: ankle,week_14,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_14,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_14,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_14,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_14,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],NA,week_14,Pittsburgh Steelers,2013
+['Matt Spaeth'],Injured Reserve: foot,week_14,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_14,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_14,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_14,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],Questionable: hamstring,week_14,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_14,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_14,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_14,Pittsburgh Steelers,2013
+['Fernando Velasco'],Injured Reserve: Achilles,week_14,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_14,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_14,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_14,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Questionable: calf,week_14,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_14,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_15,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_15,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Probable: knee,week_15,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_15,Pittsburgh Steelers,2013
+['Curtis Brown'],Injured Reserve: knee,week_15,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_15,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_15,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_15,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],Probable: shoulder,week_15,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_15,Pittsburgh Steelers,2013
+['David DeCastro'],Probable: foot,week_15,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_15,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_15,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_15,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_15,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: ankle,week_15,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_15,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_15,Pittsburgh Steelers,2013
+['Evander Hood'],Questionable: ankle,week_15,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_15,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_15,Pittsburgh Steelers,2013
+['Jarvis Jones'],NA,week_15,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: foot,week_15,Pittsburgh Steelers,2013
+['Steve McLendon'],Questionable: ankle,week_15,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_15,Pittsburgh Steelers,2013
+['Troy Polamalu'],Probable: shoulder,week_15,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_15,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_15,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],Probable: foot,week_15,Pittsburgh Steelers,2013
+['Matt Spaeth'],NA,week_15,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_15,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_15,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_15,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_15,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_15,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_15,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_15,Pittsburgh Steelers,2013
+['Fernando Velasco'],Injured Reserve: Achilles,week_15,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_15,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_15,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_15,Pittsburgh Steelers,2013
+['LaMarr Woodley'],NA,week_15,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_15,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_16,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_16,Pittsburgh Steelers,2013
+['Kelvin Beachum'],Probable: knee,week_16,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_16,Pittsburgh Steelers,2013
+['Curtis Brown'],Injured Reserve: knee,week_16,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_16,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_16,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_16,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],Questionable: shoulder,week_16,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_16,Pittsburgh Steelers,2013
+['David DeCastro'],NA,week_16,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_16,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_16,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_16,Pittsburgh Steelers,2013
+['Terence Garvin'],NA,week_16,Pittsburgh Steelers,2013
+['Marcus Gilbert'],Questionable: leg,week_16,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_16,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_16,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_16,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_16,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_16,Pittsburgh Steelers,2013
+['Jarvis Jones'],Out: flu-like symptoms,week_16,Pittsburgh Steelers,2013
+['Brett Keisel'],Questionable: foot,week_16,Pittsburgh Steelers,2013
+['Steve McLendon'],Questionable: ankle,week_16,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_16,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_16,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_16,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_16,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],Questionable: foot,week_16,Pittsburgh Steelers,2013
+['Matt Spaeth'],NA,week_16,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_16,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_16,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_16,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_16,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_16,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_16,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_16,Pittsburgh Steelers,2013
+['Fernando Velasco'],Injured Reserve: Achilles,week_16,Pittsburgh Steelers,2013
+['Markus Wheaton'],NA,week_16,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_16,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_16,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Injured Reserve: calf,week_16,Pittsburgh Steelers,2013
+['Jason Worilds'],NA,week_16,Pittsburgh Steelers,2013
+['Mike Adams'],NA,week_17,Pittsburgh Steelers,2013
+['Cortez Allen'],NA,week_17,Pittsburgh Steelers,2013
+['Kelvin Beachum'],NA,week_17,Pittsburgh Steelers,2013
+"[""Le'Veon Bell""]",NA,week_17,Pittsburgh Steelers,2013
+['Curtis Brown'],Injured Reserve: knee,week_17,Pittsburgh Steelers,2013
+['Levi Brown'],Injured Reserve: triceps,week_17,Pittsburgh Steelers,2013
+['Plaxico Burress'],Injured Reserve: shoulder,week_17,Pittsburgh Steelers,2013
+['Justin Cheadle'],Injured Reserve: hamstring,week_17,Pittsburgh Steelers,2013
+['Jerricho Cotchery'],NA,week_17,Pittsburgh Steelers,2013
+"[""Da'Mon Cromartie-Smith""]",NA,week_17,Pittsburgh Steelers,2013
+['David DeCastro'],Doubtful: back,week_17,Pittsburgh Steelers,2013
+['Nik Embernate'],Injured Reserve: knee,week_17,Pittsburgh Steelers,2013
+['Larry Foote'],Injured Reserve: biceps,week_17,Pittsburgh Steelers,2013
+['Ramon Foster'],NA,week_17,Pittsburgh Steelers,2013
+['Terence Garvin'],Doubtful: knee,week_17,Pittsburgh Steelers,2013
+['Marcus Gilbert'],NA,week_17,Pittsburgh Steelers,2013
+['Richard Gordon'],NA,week_17,Pittsburgh Steelers,2013
+['Cameron Heyward'],NA,week_17,Pittsburgh Steelers,2013
+['Evander Hood'],NA,week_17,Pittsburgh Steelers,2013
+['David Johnson'],Injured Reserve: wrist,week_17,Pittsburgh Steelers,2013
+['Will Johnson'],NA,week_17,Pittsburgh Steelers,2013
+['Jarvis Jones'],Questionable: flu-like symptoms,week_17,Pittsburgh Steelers,2013
+['Brett Keisel'],Probable: foot,week_17,Pittsburgh Steelers,2013
+['Steve McLendon'],NA,week_17,Pittsburgh Steelers,2013
+['Heath Miller'],NA,week_17,Pittsburgh Steelers,2013
+['Troy Polamalu'],NA,week_17,Pittsburgh Steelers,2013
+['Maurkice Pouncey'],Injured Reserve: knee,week_17,Pittsburgh Steelers,2013
+['Ben Roethlisberger'],NA,week_17,Pittsburgh Steelers,2013
+['Emmanuel Sanders'],Questionable: knee,week_17,Pittsburgh Steelers,2013
+['Matt Spaeth'],NA,week_17,Pittsburgh Steelers,2013
+['Sean Spence'],Injured Reserve: knee,week_17,Pittsburgh Steelers,2013
+['LaRod Stephens-Howling'],Injured Reserve: knee,week_17,Pittsburgh Steelers,2013
+['Shaun Suisham'],NA,week_17,Pittsburgh Steelers,2013
+['Stevenson Sylvester'],NA,week_17,Pittsburgh Steelers,2013
+['Ike Taylor'],NA,week_17,Pittsburgh Steelers,2013
+['Shamarko Thomas'],NA,week_17,Pittsburgh Steelers,2013
+['Lawrence Timmons'],NA,week_17,Pittsburgh Steelers,2013
+['Fernando Velasco'],Injured Reserve: Achilles,week_17,Pittsburgh Steelers,2013
+['Markus Wheaton'],Probable: finger,week_17,Pittsburgh Steelers,2013
+['Guy Whimper'],NA,week_17,Pittsburgh Steelers,2013
+['Vince Williams'],NA,week_17,Pittsburgh Steelers,2013
+['LaMarr Woodley'],Injured Reserve: calf,week_17,Pittsburgh Steelers,2013
+['Jason Worilds'],Doubtful: abdominal,week_17,Pittsburgh Steelers,2013

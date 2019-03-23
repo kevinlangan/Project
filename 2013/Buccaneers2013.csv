@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Michael Adams'],NA,week_1,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_1,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_1,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_1,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_1,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_1,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_1,Tampa Bay Buccaneers,2013
+['Nate Byham'],NA,week_1,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_1,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_1,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_1,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Out: ankle,week_1,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_1,Tampa Bay Buccaneers,2013
+['Jeff Demps'],NA,week_1,Tampa Bay Buccaneers,2013
+['Demar Dotson'],Probable: back,week_1,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_1,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_1,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_1,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_1,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_1,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_1,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_1,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_1,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_1,Tampa Bay Buccaneers,2013
+['Mike James'],Questionable: eye,week_1,Tampa Bay Buccaneers,2013
+['Davin Joseph'],NA,week_1,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_1,Tampa Bay Buccaneers,2013
+['Erik Lorig'],Questionable: calf,week_1,Tampa Bay Buccaneers,2013
+['Doug Martin'],NA,week_1,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_1,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Questionable: hamstring,week_1,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_1,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Questionable: foot,week_1,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_1,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_1,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],Probable: knee,week_1,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_1,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_1,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_1,Tampa Bay Buccaneers,2013
+['Luke Stocker'],NA,week_1,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_1,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_1,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_1,Tampa Bay Buccaneers,2013
+['Mike Williams'],NA,week_1,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_1,Tampa Bay Buccaneers,2013
+['Michael Adams'],Questionable: knee,week_2,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_2,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_2,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_2,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_2,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_2,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_2,Tampa Bay Buccaneers,2013
+['Nate Byham'],NA,week_2,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_2,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_2,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],Probable: hip,week_2,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Out: ankle,week_2,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_2,Tampa Bay Buccaneers,2013
+['Jeff Demps'],NA,week_2,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_2,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_2,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_2,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_2,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_2,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_2,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_2,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_2,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_2,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_2,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_2,Tampa Bay Buccaneers,2013
+['Davin Joseph'],NA,week_2,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_2,Tampa Bay Buccaneers,2013
+['Erik Lorig'],Probable: calf,week_2,Tampa Bay Buccaneers,2013
+['Doug Martin'],NA,week_2,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_2,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Questionable: hamstring,week_2,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_2,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Questionable: foot,week_2,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_2,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_2,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_2,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_2,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_2,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_2,Tampa Bay Buccaneers,2013
+['Luke Stocker'],NA,week_2,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_2,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_2,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_2,Tampa Bay Buccaneers,2013
+['Mike Williams'],NA,week_2,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_2,Tampa Bay Buccaneers,2013
+['Michael Adams'],Questionable: knee,week_3,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_3,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_3,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_3,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_3,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_3,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_3,Tampa Bay Buccaneers,2013
+['Nate Byham'],NA,week_3,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],Questionable: illness,week_3,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_3,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],Questionable: hip,week_3,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Out: ankle,week_3,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_3,Tampa Bay Buccaneers,2013
+['Jeff Demps'],NA,week_3,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_3,Tampa Bay Buccaneers,2013
+['Mason Foster'],Questionable: toe,week_3,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_3,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_3,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_3,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_3,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_3,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_3,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_3,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_3,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_3,Tampa Bay Buccaneers,2013
+['Davin Joseph'],NA,week_3,Tampa Bay Buccaneers,2013
+['Derek Landri'],Out: knee,week_3,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_3,Tampa Bay Buccaneers,2013
+['Doug Martin'],NA,week_3,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_3,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Questionable: hamstring,week_3,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_3,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Questionable: foot,week_3,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_3,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_3,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_3,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_3,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_3,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_3,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Questionable: hip,week_3,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_3,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_3,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_3,Tampa Bay Buccaneers,2013
+['Mike Williams'],NA,week_3,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_3,Tampa Bay Buccaneers,2013
+['Michael Adams'],Out: knee,week_4,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_4,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_4,Tampa Bay Buccaneers,2013
+['Mark Barron'],Probable: hamstring,week_4,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_4,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_4,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_4,Tampa Bay Buccaneers,2013
+['Nate Byham'],NA,week_4,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],Questionable: illness,week_4,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_4,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_4,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Questionable: ankle,week_4,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_4,Tampa Bay Buccaneers,2013
+['Jeff Demps'],NA,week_4,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_4,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_4,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_4,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_4,Tampa Bay Buccaneers,2013
+['Gary Gibson'],Questionable: back,week_4,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_4,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_4,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_4,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_4,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],Questionable: ribs,week_4,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_4,Tampa Bay Buccaneers,2013
+['Davin Joseph'],NA,week_4,Tampa Bay Buccaneers,2013
+['Derek Landri'],Out: knee,week_4,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_4,Tampa Bay Buccaneers,2013
+['Doug Martin'],NA,week_4,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],Probable: ankle,week_4,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Probable: hamstring,week_4,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_4,Tampa Bay Buccaneers,2013
+['Carl Nicks'],NA,week_4,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_4,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_4,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_4,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_4,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_4,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_4,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_4,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_4,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_4,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_4,Tampa Bay Buccaneers,2013
+['Mike Williams'],Questionable: hamstring,week_4,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_4,Tampa Bay Buccaneers,2013
+['Michael Adams'],Questionable: knee,week_6,Tampa Bay Buccaneers,2013
+['Sean Baker'],Probable: shoulder,week_6,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],Questionable: illness,week_6,Tampa Bay Buccaneers,2013
+['Mark Barron'],Probable: hamstring,week_6,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_6,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_6,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_6,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_6,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],Probable: illness,week_6,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_6,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_6,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Probable: ankle,week_6,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_6,Tampa Bay Buccaneers,2013
+['Jeff Demps'],NA,week_6,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_6,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_6,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_6,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_6,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_6,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_6,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Probable: foot,week_6,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_6,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_6,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_6,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_6,Tampa Bay Buccaneers,2013
+['Davin Joseph'],NA,week_6,Tampa Bay Buccaneers,2013
+['Derek Landri'],Probable: knee,week_6,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_6,Tampa Bay Buccaneers,2013
+['Doug Martin'],NA,week_6,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_6,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Probable: hamstring,week_6,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_6,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Probable: foot,week_6,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_6,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_6,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_6,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_6,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_6,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_6,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_6,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_6,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_6,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_6,Tampa Bay Buccaneers,2013
+['Mike Williams'],Probable: hamstring,week_6,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_6,Tampa Bay Buccaneers,2013
+['Michael Adams'],Probable: knee,week_7,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_7,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_7,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_7,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_7,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_7,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Questionable: toe,week_7,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_7,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_7,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_7,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_7,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],NA,week_7,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_7,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Questionable: groin,week_7,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_7,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_7,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_7,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_7,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_7,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_7,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Questionable: knee,week_7,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_7,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_7,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_7,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_7,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Questionable: knee,week_7,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_7,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_7,Tampa Bay Buccaneers,2013
+['Doug Martin'],Questionable: shoulder,week_7,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_7,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_7,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_7,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_7,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_7,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_7,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_7,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_7,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_7,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Questionable: head/neck,week_7,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_7,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_7,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_7,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_7,Tampa Bay Buccaneers,2013
+['Mike Williams'],Questionable: hamstring,week_7,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],Probable: knee,week_7,Tampa Bay Buccaneers,2013
+['Michael Adams'],Probable: knee,week_8,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_8,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_8,Tampa Bay Buccaneers,2013
+['Mark Barron'],Questionable: hip,week_8,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_8,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_8,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_8,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_8,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_8,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_8,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_8,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Probable: ankle,week_8,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_8,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Out: groin,week_8,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_8,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_8,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_8,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_8,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_8,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_8,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Questionable: knee,week_8,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_8,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_8,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_8,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_8,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_8,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_8,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_8,Tampa Bay Buccaneers,2013
+['Doug Martin'],Out: shoulder,week_8,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_8,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_8,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_8,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_8,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Questionable: foot,week_8,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_8,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_8,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_8,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_8,Tampa Bay Buccaneers,2013
+['Akeem Spence'],NA,week_8,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_8,Tampa Bay Buccaneers,2013
+['Keith Tandy'],Questionable: concussion,week_8,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_8,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_8,Tampa Bay Buccaneers,2013
+['Mike Williams'],Questionable: hamstring,week_8,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_8,Tampa Bay Buccaneers,2013
+['Michael Adams'],NA,week_9,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_9,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_9,Tampa Bay Buccaneers,2013
+['Mark Barron'],Questionable: hip,week_9,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_9,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_9,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_9,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_9,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_9,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_9,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_9,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],NA,week_9,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_9,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Out: groin,week_9,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_9,Tampa Bay Buccaneers,2013
+['Mason Foster'],Questionable: hamstring,week_9,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_9,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_9,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_9,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_9,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Questionable: knee,week_9,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_9,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_9,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_9,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_9,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_9,Tampa Bay Buccaneers,2013
+['Derek Landri'],Questionable: back,week_9,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_9,Tampa Bay Buccaneers,2013
+['Doug Martin'],Out: shoulder,week_9,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_9,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_9,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_9,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_9,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Probable: foot,week_9,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_9,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_9,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_9,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_9,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_9,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_9,Tampa Bay Buccaneers,2013
+['Keith Tandy'],Probable: ankle,week_9,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_9,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],Questionable: shoulder,week_9,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_9,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_9,Tampa Bay Buccaneers,2013
+['Michael Adams'],NA,week_10,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_10,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_10,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_10,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_10,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_10,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_10,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_10,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_10,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_10,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_10,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],NA,week_10,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_10,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_10,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_10,Tampa Bay Buccaneers,2013
+['Mason Foster'],Probable: elbow,week_10,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_10,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_10,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_10,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_10,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Questionable: knee,week_10,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Injured Reserve: groin,week_10,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_10,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_10,Tampa Bay Buccaneers,2013
+['Mike James'],NA,week_10,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_10,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_10,Tampa Bay Buccaneers,2013
+['Erik Lorig'],Questionable: toe,week_10,Tampa Bay Buccaneers,2013
+['Doug Martin'],Out: shoulder,week_10,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_10,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_10,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_10,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_10,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Questionable: foot,week_10,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_10,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_10,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_10,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_10,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_10,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_10,Tampa Bay Buccaneers,2013
+['Keith Tandy'],Probable: ankle,week_10,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_10,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],Probable: shoulder,week_10,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_10,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_10,Tampa Bay Buccaneers,2013
+['Michael Adams'],Questionable: knee,week_11,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_11,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_11,Tampa Bay Buccaneers,2013
+['Mark Barron'],Questionable: knee,week_11,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_11,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_11,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Questionable: concussion,week_11,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_11,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_11,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_11,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_11,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],NA,week_11,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_11,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_11,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_11,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_11,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_11,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_11,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_11,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_11,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_11,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],Probable: groin,week_11,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_11,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],Probable: knee,week_11,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_11,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Questionable: knee,week_11,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_11,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_11,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_11,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_11,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_11,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_11,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_11,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Questionable: foot,week_11,Tampa Bay Buccaneers,2013
+['Donald Penn'],Probable: calf,week_11,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_11,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_11,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_11,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_11,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_11,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_11,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_11,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_11,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_11,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_11,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_12,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_12,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],Questionable: shoulder,week_12,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_12,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_12,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_12,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Probable: concussion,week_12,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_12,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_12,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_12,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_12,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],NA,week_12,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_12,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_12,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_12,Tampa Bay Buccaneers,2013
+['Mason Foster'],Questionable: concussion,week_12,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_12,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_12,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_12,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_12,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_12,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_12,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_12,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_12,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_12,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_12,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_12,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_12,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_12,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_12,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_12,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],Probable: ankle,week_12,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_12,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Probable: foot,week_12,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_12,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],Questionable: groin,week_12,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_12,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_12,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_12,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_12,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_12,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_12,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_12,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_12,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_12,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_13,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_13,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_13,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_13,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_13,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_13,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",NA,week_13,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_13,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_13,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],NA,week_13,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_13,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Out: biceps,week_13,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_13,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_13,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_13,Tampa Bay Buccaneers,2013
+['Mason Foster'],Questionable: concussion,week_13,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_13,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_13,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_13,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_13,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],Probable: one-game suspension served,week_13,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_13,Tampa Bay Buccaneers,2013
+['Adam Hayward'],Probable: foot,week_13,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_13,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_13,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_13,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_13,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_13,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_13,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_13,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_13,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],Probable: ankle,week_13,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_13,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_13,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_13,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],Questionable: groin,week_13,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_13,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_13,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_13,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_13,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_13,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_13,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_13,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_13,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_13,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_14,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_14,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_14,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_14,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_14,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_14,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Questionable: knee,week_14,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_14,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_14,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],Injured Reserve: knee,week_14,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_14,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Injured Reserve: biceps,week_14,Tampa Bay Buccaneers,2013
+['Lavonte David'],NA,week_14,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_14,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_14,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_14,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_14,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_14,Tampa Bay Buccaneers,2013
+['Gary Gibson'],Questionable: calf,week_14,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_14,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_14,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_14,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_14,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],Probable: hamstring,week_14,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_14,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Questionable: knee,week_14,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_14,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_14,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_14,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_14,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_14,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_14,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_14,Tampa Bay Buccaneers,2013
+['Chris Owusu'],Questionable: hamstring,week_14,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_14,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],Probable: shoulder,week_14,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_14,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_14,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_14,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_14,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_14,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_14,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_14,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_14,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_14,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_15,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_15,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_15,Tampa Bay Buccaneers,2013
+['Mark Barron'],NA,week_15,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_15,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_15,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Questionable: knee,week_15,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_15,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_15,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],Injured Reserve: knee,week_15,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_15,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Injured Reserve: biceps,week_15,Tampa Bay Buccaneers,2013
+['Lavonte David'],Probable: back,week_15,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_15,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_15,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_15,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_15,Tampa Bay Buccaneers,2013
+['William Gholston'],Probable: head,week_15,Tampa Bay Buccaneers,2013
+['Gary Gibson'],Questionable: calf,week_15,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_15,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_15,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_15,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_15,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],Probable: hamstring,week_15,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_15,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Questionable: knee/shoulder,week_15,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_15,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_15,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_15,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_15,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_15,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_15,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_15,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_15,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_15,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_15,Tampa Bay Buccaneers,2013
+['Russell Shepard'],NA,week_15,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_15,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_15,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_15,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_15,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_15,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_15,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_15,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],Questionable: shoulder,week_15,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_16,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_16,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_16,Tampa Bay Buccaneers,2013
+['Mark Barron'],Questionable: hamstring,week_16,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_16,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_16,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Questionable: knee,week_16,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_16,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_16,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],Injured Reserve: knee,week_16,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_16,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Injured Reserve: biceps,week_16,Tampa Bay Buccaneers,2013
+['Lavonte David'],Probable: hamstring,week_16,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_16,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_16,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_16,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_16,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_16,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_16,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",NA,week_16,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_16,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_16,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_16,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],Questionable: hamstring,week_16,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_16,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Questionable: knee,week_16,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_16,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_16,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_16,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_16,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_16,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_16,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_16,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_16,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_16,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_16,Tampa Bay Buccaneers,2013
+['Russell Shepard'],Injured Reserve: toe,week_16,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_16,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_16,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_16,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_16,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_16,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],NA,week_16,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_16,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_16,Tampa Bay Buccaneers,2013
+['Michael Adams'],Injured Reserve: knee,week_17,Tampa Bay Buccaneers,2013
+['Sean Baker'],NA,week_17,Tampa Bay Buccaneers,2013
+['Johnthan Banks'],NA,week_17,Tampa Bay Buccaneers,2013
+['Mark Barron'],Questionable: hamstring,week_17,Tampa Bay Buccaneers,2013
+['Connor Barth'],Out: Achilles,week_17,Tampa Bay Buccaneers,2013
+['Marvin Booker'],Injured Reserve: undisclosed,week_17,Tampa Bay Buccaneers,2013
+"[""Da'Quan Bowers""]",Injured Reserve: knee,week_17,Tampa Bay Buccaneers,2013
+['Nate Byham'],Injured Reserve: knee,week_17,Tampa Bay Buccaneers,2013
+['Gabe Carimi'],NA,week_17,Tampa Bay Buccaneers,2013
+['Jonathan Casillas'],Injured Reserve: knee,week_17,Tampa Bay Buccaneers,2013
+['Adrian Clayborn'],NA,week_17,Tampa Bay Buccaneers,2013
+['Tom Crabtree'],Injured Reserve: biceps,week_17,Tampa Bay Buccaneers,2013
+['Lavonte David'],Probable: elbow,week_17,Tampa Bay Buccaneers,2013
+['Jeff Demps'],Injured Reserve: groin,week_17,Tampa Bay Buccaneers,2013
+['Demar Dotson'],NA,week_17,Tampa Bay Buccaneers,2013
+['Mason Foster'],NA,week_17,Tampa Bay Buccaneers,2013
+['Anthony Gaitor'],Injured Reserve: knee,week_17,Tampa Bay Buccaneers,2013
+['William Gholston'],NA,week_17,Tampa Bay Buccaneers,2013
+['Gary Gibson'],NA,week_17,Tampa Bay Buccaneers,2013
+"[""Ka'lial Glaud""]",Questionable: knee,week_17,Tampa Bay Buccaneers,2013
+['Dashon Goldson'],NA,week_17,Tampa Bay Buccaneers,2013
+['Danny Gorrer'],NA,week_17,Tampa Bay Buccaneers,2013
+['Adam Hayward'],NA,week_17,Tampa Bay Buccaneers,2013
+['Vincent Jackson'],NA,week_17,Tampa Bay Buccaneers,2013
+['Mike James'],Injured Reserve: ankle,week_17,Tampa Bay Buccaneers,2013
+['Davin Joseph'],Probable: knee,week_17,Tampa Bay Buccaneers,2013
+['Derek Landri'],NA,week_17,Tampa Bay Buccaneers,2013
+['Erik Lorig'],NA,week_17,Tampa Bay Buccaneers,2013
+['Doug Martin'],Injured Reserve: shoulder,week_17,Tampa Bay Buccaneers,2013
+['Gerald McCoy'],NA,week_17,Tampa Bay Buccaneers,2013
+['Rashaan Melvin'],Injured Reserve: hamstring,week_17,Tampa Bay Buccaneers,2013
+['Jamon Meredith'],NA,week_17,Tampa Bay Buccaneers,2013
+['Carl Nicks'],Out: foot,week_17,Tampa Bay Buccaneers,2013
+['Chris Owusu'],NA,week_17,Tampa Bay Buccaneers,2013
+['Donald Penn'],NA,week_17,Tampa Bay Buccaneers,2013
+['Darrelle Revis'],NA,week_17,Tampa Bay Buccaneers,2013
+['Russell Shepard'],Injured Reserve: toe,week_17,Tampa Bay Buccaneers,2013
+['Michael Smith'],Injured Reserve: foot,week_17,Tampa Bay Buccaneers,2013
+['Akeem Spence'],Probable: wrist,week_17,Tampa Bay Buccaneers,2013
+['Luke Stocker'],Injured Reserve: hip,week_17,Tampa Bay Buccaneers,2013
+['Keith Tandy'],NA,week_17,Tampa Bay Buccaneers,2013
+['Lawrence Tynes'],Out: toe,week_17,Tampa Bay Buccaneers,2013
+['Dekoda Watson'],Questionable: groin,week_17,Tampa Bay Buccaneers,2013
+['Mike Williams'],Injured Reserve: hamstring,week_17,Tampa Bay Buccaneers,2013
+['Jeremy Zuttah'],NA,week_17,Tampa Bay Buccaneers,2013

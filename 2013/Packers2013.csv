@@ -1,0 +1,817 @@
+﻿name,injury,week,team,year
+['David Bakhtiari'],NA,week_1,Green Bay Packers,2013
+['Don Barclay'],NA,week_1,Green Bay Packers,2013
+['Sam Barrington'],NA,week_1,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_1,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_1,Green Bay Packers,2013
+['Morgan Burnett'],Questionable: hamstring,week_1,Green Bay Packers,2013
+['Jarrett Bush'],Questionable: ankle,week_1,Green Bay Packers,2013
+['Randall Cobb'],NA,week_1,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_1,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_1,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_1,Green Bay Packers,2013
+['Jermichael Finley'],NA,week_1,Green Bay Packers,2013
+['Rob Francois'],NA,week_1,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_1,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_1,Green Bay Packers,2013
+['Casey Hayward'],Out: hamstring,week_1,Green Bay Packers,2013
+['Micah Hyde'],NA,week_1,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_1,Green Bay Packers,2013
+['Brad Jones'],Questionable: hamstring,week_1,Green Bay Packers,2013
+['James Jones'],NA,week_1,Green Bay Packers,2013
+['John Kuhn'],NA,week_1,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_1,Green Bay Packers,2013
+['T.J. Lang'],NA,week_1,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_1,Green Bay Packers,2013
+['Clay Matthews'],NA,week_1,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_1,Green Bay Packers,2013
+['Mike Neal'],NA,week_1,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_1,Green Bay Packers,2013
+['James Nixon'],NA,week_1,Green Bay Packers,2013
+['Nick Perry'],NA,week_1,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_1,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_1,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_1,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_1,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_1,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_1,Green Bay Packers,2013
+['Sam Shields'],NA,week_1,Green Bay Packers,2013
+['Josh Sitton'],NA,week_1,Green Bay Packers,2013
+['James Starks'],NA,week_1,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_1,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_1,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_1,Green Bay Packers,2013
+['Greg Van Roten'],NA,week_1,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_1,Green Bay Packers,2013
+['Myles White'],NA,week_1,Green Bay Packers,2013
+['Tramon Williams'],NA,week_1,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_1,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_1,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_2,Green Bay Packers,2013
+['Don Barclay'],NA,week_2,Green Bay Packers,2013
+['Sam Barrington'],NA,week_2,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_2,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_2,Green Bay Packers,2013
+['Morgan Burnett'],Questionable: hamstring,week_2,Green Bay Packers,2013
+['Jarrett Bush'],Questionable: hamstring,week_2,Green Bay Packers,2013
+['Randall Cobb'],NA,week_2,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_2,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_2,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_2,Green Bay Packers,2013
+['Jermichael Finley'],Questionable: toe,week_2,Green Bay Packers,2013
+['Rob Francois'],NA,week_2,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_2,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_2,Green Bay Packers,2013
+['Casey Hayward'],Out: hamstring,week_2,Green Bay Packers,2013
+['Micah Hyde'],NA,week_2,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_2,Green Bay Packers,2013
+['Brad Jones'],NA,week_2,Green Bay Packers,2013
+['James Jones'],NA,week_2,Green Bay Packers,2013
+['John Kuhn'],NA,week_2,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_2,Green Bay Packers,2013
+['T.J. Lang'],NA,week_2,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_2,Green Bay Packers,2013
+['Clay Matthews'],NA,week_2,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_2,Green Bay Packers,2013
+['Mike Neal'],NA,week_2,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_2,Green Bay Packers,2013
+['James Nixon'],NA,week_2,Green Bay Packers,2013
+['Nick Perry'],Probable: neck,week_2,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_2,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_2,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_2,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_2,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_2,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_2,Green Bay Packers,2013
+['Sam Shields'],NA,week_2,Green Bay Packers,2013
+['Josh Sitton'],Questionable: back,week_2,Green Bay Packers,2013
+['James Starks'],NA,week_2,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_2,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_2,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_2,Green Bay Packers,2013
+['Greg Van Roten'],NA,week_2,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_2,Green Bay Packers,2013
+['Myles White'],NA,week_2,Green Bay Packers,2013
+['Tramon Williams'],NA,week_2,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_2,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_2,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_3,Green Bay Packers,2013
+['Don Barclay'],NA,week_3,Green Bay Packers,2013
+['Sam Barrington'],NA,week_3,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_3,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_3,Green Bay Packers,2013
+['Morgan Burnett'],Questionable: hamstring,week_3,Green Bay Packers,2013
+['Jarrett Bush'],Questionable: hamstring,week_3,Green Bay Packers,2013
+['Randall Cobb'],NA,week_3,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_3,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_3,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_3,Green Bay Packers,2013
+['Jermichael Finley'],Questionable: toe,week_3,Green Bay Packers,2013
+['Rob Francois'],NA,week_3,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_3,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_3,Green Bay Packers,2013
+['Casey Hayward'],Out: hamstring,week_3,Green Bay Packers,2013
+['Micah Hyde'],NA,week_3,Green Bay Packers,2013
+['Johnny Jolly'],Probable: neck,week_3,Green Bay Packers,2013
+['Brad Jones'],NA,week_3,Green Bay Packers,2013
+['James Jones'],NA,week_3,Green Bay Packers,2013
+['John Kuhn'],Questionable: hamstring,week_3,Green Bay Packers,2013
+['Eddie Lacy'],Doubtful: concussion,week_3,Green Bay Packers,2013
+['T.J. Lang'],Questionable: back,week_3,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_3,Green Bay Packers,2013
+['Clay Matthews'],Questionable: hamstring,week_3,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_3,Green Bay Packers,2013
+['Mike Neal'],NA,week_3,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_3,Green Bay Packers,2013
+['James Nixon'],NA,week_3,Green Bay Packers,2013
+['Nick Perry'],NA,week_3,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_3,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_3,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_3,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_3,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_3,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_3,Green Bay Packers,2013
+['Sam Shields'],NA,week_3,Green Bay Packers,2013
+['Josh Sitton'],NA,week_3,Green Bay Packers,2013
+['James Starks'],Questionable: knee,week_3,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_3,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_3,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_3,Green Bay Packers,2013
+['Greg Van Roten'],NA,week_3,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_3,Green Bay Packers,2013
+['Myles White'],NA,week_3,Green Bay Packers,2013
+['Tramon Williams'],Probable: groin,week_3,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_3,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_3,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_5,Green Bay Packers,2013
+['Don Barclay'],NA,week_5,Green Bay Packers,2013
+['Sam Barrington'],NA,week_5,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_5,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_5,Green Bay Packers,2013
+['Morgan Burnett'],Probable: hamstring,week_5,Green Bay Packers,2013
+['Jarrett Bush'],Probable: hamstring,week_5,Green Bay Packers,2013
+['Randall Cobb'],NA,week_5,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_5,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_5,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_5,Green Bay Packers,2013
+['Jermichael Finley'],Probable: concussion,week_5,Green Bay Packers,2013
+['Rob Francois'],NA,week_5,Green Bay Packers,2013
+['Johnathan Franklin'],Probable: foot,week_5,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_5,Green Bay Packers,2013
+['Casey Hayward'],Out: hamstring,week_5,Green Bay Packers,2013
+['Micah Hyde'],NA,week_5,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_5,Green Bay Packers,2013
+['Brad Jones'],NA,week_5,Green Bay Packers,2013
+['James Jones'],NA,week_5,Green Bay Packers,2013
+['John Kuhn'],Probable: hamstring,week_5,Green Bay Packers,2013
+['Eddie Lacy'],Probable: concussion,week_5,Green Bay Packers,2013
+['T.J. Lang'],NA,week_5,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_5,Green Bay Packers,2013
+['Clay Matthews'],Probable: hamstring,week_5,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_5,Green Bay Packers,2013
+['Mike Neal'],NA,week_5,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_5,Green Bay Packers,2013
+['James Nixon'],NA,week_5,Green Bay Packers,2013
+['Nick Perry'],NA,week_5,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_5,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_5,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_5,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_5,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_5,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_5,Green Bay Packers,2013
+['Sam Shields'],NA,week_5,Green Bay Packers,2013
+['Josh Sitton'],NA,week_5,Green Bay Packers,2013
+['James Starks'],Out: knee,week_5,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_5,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_5,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_5,Green Bay Packers,2013
+['Greg Van Roten'],Out: foot,week_5,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_5,Green Bay Packers,2013
+['Myles White'],NA,week_5,Green Bay Packers,2013
+['Tramon Williams'],NA,week_5,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_5,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_5,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_6,Green Bay Packers,2013
+['Don Barclay'],NA,week_6,Green Bay Packers,2013
+['Sam Barrington'],Probable: hip,week_6,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_6,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_6,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_6,Green Bay Packers,2013
+['Jarrett Bush'],Questionable: hamstring,week_6,Green Bay Packers,2013
+['Randall Cobb'],NA,week_6,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_6,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_6,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_6,Green Bay Packers,2013
+['Jermichael Finley'],NA,week_6,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_6,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_6,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_6,Green Bay Packers,2013
+['Casey Hayward'],Out: hamstring,week_6,Green Bay Packers,2013
+['Micah Hyde'],NA,week_6,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_6,Green Bay Packers,2013
+['Brad Jones'],Out: hamstring,week_6,Green Bay Packers,2013
+['James Jones'],NA,week_6,Green Bay Packers,2013
+['John Kuhn'],NA,week_6,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_6,Green Bay Packers,2013
+['T.J. Lang'],NA,week_6,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_6,Green Bay Packers,2013
+['Clay Matthews'],Out: thumb,week_6,Green Bay Packers,2013
+['Andy Mulumba'],Questionable: ankle,week_6,Green Bay Packers,2013
+['Mike Neal'],NA,week_6,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_6,Green Bay Packers,2013
+['James Nixon'],NA,week_6,Green Bay Packers,2013
+['Nick Perry'],NA,week_6,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: hand,week_6,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_6,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_6,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_6,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_6,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_6,Green Bay Packers,2013
+['Sam Shields'],NA,week_6,Green Bay Packers,2013
+['Josh Sitton'],NA,week_6,Green Bay Packers,2013
+['James Starks'],Out: knee,week_6,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_6,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_6,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_6,Green Bay Packers,2013
+['Greg Van Roten'],Questionable: foot,week_6,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_6,Green Bay Packers,2013
+['Myles White'],NA,week_6,Green Bay Packers,2013
+['Tramon Williams'],NA,week_6,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_6,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_6,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_7,Green Bay Packers,2013
+['Don Barclay'],NA,week_7,Green Bay Packers,2013
+['Sam Barrington'],NA,week_7,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_7,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_7,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_7,Green Bay Packers,2013
+['Jarrett Bush'],Probable: hamstring,week_7,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_7,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_7,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_7,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_7,Green Bay Packers,2013
+['Jermichael Finley'],NA,week_7,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_7,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_7,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_7,Green Bay Packers,2013
+['Casey Hayward'],Questionable: hamstring,week_7,Green Bay Packers,2013
+['Micah Hyde'],NA,week_7,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_7,Green Bay Packers,2013
+['Brad Jones'],Questionable: hamstring,week_7,Green Bay Packers,2013
+['James Jones'],Doubtful: leg,week_7,Green Bay Packers,2013
+['John Kuhn'],NA,week_7,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_7,Green Bay Packers,2013
+['T.J. Lang'],NA,week_7,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_7,Green Bay Packers,2013
+['Clay Matthews'],Out: thumb,week_7,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_7,Green Bay Packers,2013
+['Mike Neal'],Questionable: shoulder,week_7,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_7,Green Bay Packers,2013
+['James Nixon'],NA,week_7,Green Bay Packers,2013
+['Nick Perry'],Out: foot,week_7,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_7,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_7,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_7,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_7,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_7,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_7,Green Bay Packers,2013
+['Sam Shields'],NA,week_7,Green Bay Packers,2013
+['Josh Sitton'],NA,week_7,Green Bay Packers,2013
+['James Starks'],Out: knee,week_7,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_7,Green Bay Packers,2013
+['Ryan Taylor'],Out: knee,week_7,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_7,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_7,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_7,Green Bay Packers,2013
+['Myles White'],NA,week_7,Green Bay Packers,2013
+['Tramon Williams'],NA,week_7,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_7,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_7,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_8,Green Bay Packers,2013
+['Don Barclay'],NA,week_8,Green Bay Packers,2013
+['Sam Barrington'],NA,week_8,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_8,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_8,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_8,Green Bay Packers,2013
+['Jarrett Bush'],Questionable: hamstring,week_8,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_8,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_8,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_8,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_8,Green Bay Packers,2013
+['Jermichael Finley'],Out: spine,week_8,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_8,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_8,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_8,Green Bay Packers,2013
+['Casey Hayward'],Probable: hamstring,week_8,Green Bay Packers,2013
+['Micah Hyde'],NA,week_8,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_8,Green Bay Packers,2013
+['Brad Jones'],Questionable: hamstring,week_8,Green Bay Packers,2013
+['James Jones'],Doubtful: leg,week_8,Green Bay Packers,2013
+['John Kuhn'],NA,week_8,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_8,Green Bay Packers,2013
+['T.J. Lang'],NA,week_8,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_8,Green Bay Packers,2013
+['Clay Matthews'],Out: thumb,week_8,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_8,Green Bay Packers,2013
+['Mike Neal'],NA,week_8,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_8,Green Bay Packers,2013
+['James Nixon'],NA,week_8,Green Bay Packers,2013
+['Nick Perry'],Out: foot,week_8,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_8,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_8,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_8,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_8,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_8,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_8,Green Bay Packers,2013
+['Sam Shields'],NA,week_8,Green Bay Packers,2013
+['Josh Sitton'],NA,week_8,Green Bay Packers,2013
+['James Starks'],Questionable: knee,week_8,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_8,Green Bay Packers,2013
+['Ryan Taylor'],Out: knee,week_8,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_8,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_8,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_8,Green Bay Packers,2013
+['Myles White'],NA,week_8,Green Bay Packers,2013
+['Tramon Williams'],NA,week_8,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_8,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_8,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_9,Green Bay Packers,2013
+['Don Barclay'],NA,week_9,Green Bay Packers,2013
+['Sam Barrington'],NA,week_9,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_9,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_9,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_9,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_9,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_9,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_9,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_9,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_9,Green Bay Packers,2013
+['Jermichael Finley'],Out: spine,week_9,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_9,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_9,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_9,Green Bay Packers,2013
+['Casey Hayward'],NA,week_9,Green Bay Packers,2013
+['Micah Hyde'],NA,week_9,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_9,Green Bay Packers,2013
+['Brad Jones'],Probable: hamstring,week_9,Green Bay Packers,2013
+['James Jones'],Doubtful: knee,week_9,Green Bay Packers,2013
+['John Kuhn'],NA,week_9,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_9,Green Bay Packers,2013
+['T.J. Lang'],NA,week_9,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_9,Green Bay Packers,2013
+['Clay Matthews'],Out: thumb,week_9,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_9,Green Bay Packers,2013
+['Mike Neal'],NA,week_9,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_9,Green Bay Packers,2013
+['James Nixon'],NA,week_9,Green Bay Packers,2013
+['Nick Perry'],Questionable: foot,week_9,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_9,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_9,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_9,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_9,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_9,Green Bay Packers,2013
+['Derek Sherrod'],Physically Unable to Perform: leg,week_9,Green Bay Packers,2013
+['Sam Shields'],Probable: toes,week_9,Green Bay Packers,2013
+['Josh Sitton'],NA,week_9,Green Bay Packers,2013
+['James Starks'],NA,week_9,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_9,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_9,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_9,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_9,Green Bay Packers,2013
+['Seneca Wallace'],NA,week_9,Green Bay Packers,2013
+['Myles White'],NA,week_9,Green Bay Packers,2013
+['Tramon Williams'],NA,week_9,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_9,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_9,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_10,Green Bay Packers,2013
+['Don Barclay'],NA,week_10,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_10,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_10,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_10,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_10,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_10,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_10,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_10,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_10,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_10,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_10,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_10,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_10,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_10,Green Bay Packers,2013
+['Casey Hayward'],Questionable: hamstring,week_10,Green Bay Packers,2013
+['Micah Hyde'],NA,week_10,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_10,Green Bay Packers,2013
+['Brad Jones'],Questionable: undisclosed,week_10,Green Bay Packers,2013
+['James Jones'],NA,week_10,Green Bay Packers,2013
+['John Kuhn'],NA,week_10,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_10,Green Bay Packers,2013
+['T.J. Lang'],Questionable: concussion,week_10,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_10,Green Bay Packers,2013
+['Clay Matthews'],Questionable: thumb,week_10,Green Bay Packers,2013
+['Andy Mulumba'],Questionable: ankle,week_10,Green Bay Packers,2013
+['Mike Neal'],Questionable: knee,week_10,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_10,Green Bay Packers,2013
+['James Nixon'],NA,week_10,Green Bay Packers,2013
+['Nick Perry'],Questionable: foot,week_10,Green Bay Packers,2013
+['Ryan Pickett'],Probable: knee,week_10,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_10,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_10,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_10,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_10,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_10,Green Bay Packers,2013
+['Sam Shields'],NA,week_10,Green Bay Packers,2013
+['Josh Sitton'],NA,week_10,Green Bay Packers,2013
+['James Starks'],NA,week_10,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_10,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_10,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_10,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_10,Green Bay Packers,2013
+['Seneca Wallace'],Questionable: groin,week_10,Green Bay Packers,2013
+['Myles White'],NA,week_10,Green Bay Packers,2013
+['Tramon Williams'],NA,week_10,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_10,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_10,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_11,Green Bay Packers,2013
+['Don Barclay'],Questionable: knee,week_11,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_11,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_11,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_11,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_11,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_11,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_11,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_11,Green Bay Packers,2013
+['Evan Dietrich-Smith'],Probable: knee,week_11,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_11,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_11,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_11,Green Bay Packers,2013
+['Johnathan Franklin'],NA,week_11,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_11,Green Bay Packers,2013
+['Casey Hayward'],Questionable: hamstring,week_11,Green Bay Packers,2013
+['Micah Hyde'],NA,week_11,Green Bay Packers,2013
+['Johnny Jolly'],Questionable: groin,week_11,Green Bay Packers,2013
+['Brad Jones'],NA,week_11,Green Bay Packers,2013
+['James Jones'],NA,week_11,Green Bay Packers,2013
+['John Kuhn'],NA,week_11,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_11,Green Bay Packers,2013
+['T.J. Lang'],NA,week_11,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_11,Green Bay Packers,2013
+['Clay Matthews'],Probable: thumb,week_11,Green Bay Packers,2013
+['Andy Mulumba'],Questionable: ankle,week_11,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_11,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_11,Green Bay Packers,2013
+['James Nixon'],NA,week_11,Green Bay Packers,2013
+['Nick Perry'],Doubtful: foot/ankle,week_11,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: knee,week_11,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_11,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_11,Green Bay Packers,2013
+['Sean Richardson'],Physically Unable to Perform: neck,week_11,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_11,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_11,Green Bay Packers,2013
+['Sam Shields'],NA,week_11,Green Bay Packers,2013
+['Josh Sitton'],NA,week_11,Green Bay Packers,2013
+['James Starks'],NA,week_11,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_11,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_11,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_11,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_11,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_11,Green Bay Packers,2013
+['Myles White'],NA,week_11,Green Bay Packers,2013
+['Tramon Williams'],NA,week_11,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_11,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_11,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_12,Green Bay Packers,2013
+['Don Barclay'],Questionable: knee,week_12,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_12,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_12,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_12,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_12,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_12,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_12,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_12,Green Bay Packers,2013
+['Evan Dietrich-Smith'],Questionable: knee,week_12,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_12,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_12,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_12,Green Bay Packers,2013
+['Johnathan Franklin'],Questionable: head,week_12,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_12,Green Bay Packers,2013
+['Casey Hayward'],Questionable: hamstring,week_12,Green Bay Packers,2013
+['Micah Hyde'],Probable: groin,week_12,Green Bay Packers,2013
+['Johnny Jolly'],Questionable: groin,week_12,Green Bay Packers,2013
+['Brad Jones'],NA,week_12,Green Bay Packers,2013
+['James Jones'],NA,week_12,Green Bay Packers,2013
+['John Kuhn'],NA,week_12,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_12,Green Bay Packers,2013
+['T.J. Lang'],NA,week_12,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_12,Green Bay Packers,2013
+['Clay Matthews'],Probable: thumb,week_12,Green Bay Packers,2013
+['Andy Mulumba'],Questionable: ankle,week_12,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_12,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_12,Green Bay Packers,2013
+['James Nixon'],Questionable: knee,week_12,Green Bay Packers,2013
+['Nick Perry'],Questionable: foot/ankle,week_12,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: knee,week_12,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_12,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_12,Green Bay Packers,2013
+['Sean Richardson'],NA,week_12,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_12,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_12,Green Bay Packers,2013
+['Sam Shields'],Questionable: hamstring,week_12,Green Bay Packers,2013
+['Josh Sitton'],NA,week_12,Green Bay Packers,2013
+['James Starks'],NA,week_12,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_12,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_12,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_12,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_12,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_12,Green Bay Packers,2013
+['Myles White'],NA,week_12,Green Bay Packers,2013
+['Tramon Williams'],NA,week_12,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_12,Green Bay Packers,2013
+['Jerel Worthy'],NA,week_12,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_13,Green Bay Packers,2013
+['Don Barclay'],NA,week_13,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_13,Green Bay Packers,2013
+['Brandon Bostick'],Doubtful: concussion,week_13,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_13,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_13,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_13,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_13,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_13,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_13,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_13,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_13,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_13,Green Bay Packers,2013
+['Johnathan Franklin'],Out: head,week_13,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_13,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_13,Green Bay Packers,2013
+['Micah Hyde'],NA,week_13,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_13,Green Bay Packers,2013
+['Brad Jones'],NA,week_13,Green Bay Packers,2013
+['James Jones'],NA,week_13,Green Bay Packers,2013
+['John Kuhn'],NA,week_13,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_13,Green Bay Packers,2013
+['T.J. Lang'],NA,week_13,Green Bay Packers,2013
+['Jamari Lattimore'],Questionable: quadriceps,week_13,Green Bay Packers,2013
+['Clay Matthews'],NA,week_13,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_13,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_13,Green Bay Packers,2013
+['Marshall Newhouse'],Questionable: shoulder,week_13,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_13,Green Bay Packers,2013
+['Nick Perry'],NA,week_13,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_13,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_13,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_13,Green Bay Packers,2013
+['Sean Richardson'],NA,week_13,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_13,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_13,Green Bay Packers,2013
+['Sam Shields'],NA,week_13,Green Bay Packers,2013
+['Josh Sitton'],Questionable: back,week_13,Green Bay Packers,2013
+['James Starks'],NA,week_13,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_13,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_13,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_13,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_13,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_13,Green Bay Packers,2013
+['Myles White'],NA,week_13,Green Bay Packers,2013
+['Tramon Williams'],NA,week_13,Green Bay Packers,2013
+['C.J. Wilson'],Questionable: ankle,week_13,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_13,Green Bay Packers,2013
+['David Bakhtiari'],Questionable: illness,week_14,Green Bay Packers,2013
+['Don Barclay'],NA,week_14,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_14,Green Bay Packers,2013
+['Brandon Bostick'],Probable: concussion,week_14,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_14,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_14,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_14,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_14,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_14,Green Bay Packers,2013
+['Evan Dietrich-Smith'],Questionable: knee,week_14,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_14,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_14,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_14,Green Bay Packers,2013
+['Johnathan Franklin'],Injured Reserve: concussion/neck,week_14,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_14,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_14,Green Bay Packers,2013
+['Micah Hyde'],NA,week_14,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_14,Green Bay Packers,2013
+['Brad Jones'],NA,week_14,Green Bay Packers,2013
+['James Jones'],NA,week_14,Green Bay Packers,2013
+['John Kuhn'],NA,week_14,Green Bay Packers,2013
+['Eddie Lacy'],Questionable: ankle,week_14,Green Bay Packers,2013
+['T.J. Lang'],NA,week_14,Green Bay Packers,2013
+['Jamari Lattimore'],Probable: quadriceps,week_14,Green Bay Packers,2013
+['Clay Matthews'],NA,week_14,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_14,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_14,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_14,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_14,Green Bay Packers,2013
+['Nick Perry'],Probable: foot,week_14,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: knee,week_14,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_14,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_14,Green Bay Packers,2013
+['Sean Richardson'],NA,week_14,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_14,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_14,Green Bay Packers,2013
+['Sam Shields'],NA,week_14,Green Bay Packers,2013
+['Josh Sitton'],NA,week_14,Green Bay Packers,2013
+['James Starks'],NA,week_14,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_14,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_14,Green Bay Packers,2013
+['J.C. Tretter'],Physically Unable to Perform: ankle,week_14,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_14,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_14,Green Bay Packers,2013
+['Myles White'],NA,week_14,Green Bay Packers,2013
+['Tramon Williams'],NA,week_14,Green Bay Packers,2013
+['C.J. Wilson'],Questionable: ankle,week_14,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_14,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_15,Green Bay Packers,2013
+['Don Barclay'],NA,week_15,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_15,Green Bay Packers,2013
+['Brandon Bostick'],NA,week_15,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_15,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_15,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_15,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_15,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_15,Green Bay Packers,2013
+['Evan Dietrich-Smith'],Questionable: knee/ankle,week_15,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_15,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_15,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_15,Green Bay Packers,2013
+['Johnathan Franklin'],Injured Reserve: concussion/neck,week_15,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_15,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_15,Green Bay Packers,2013
+['Micah Hyde'],NA,week_15,Green Bay Packers,2013
+['Johnny Jolly'],NA,week_15,Green Bay Packers,2013
+['Brad Jones'],Questionable: ankle,week_15,Green Bay Packers,2013
+['James Jones'],NA,week_15,Green Bay Packers,2013
+['John Kuhn'],NA,week_15,Green Bay Packers,2013
+['Eddie Lacy'],Questionable: ankle,week_15,Green Bay Packers,2013
+['T.J. Lang'],NA,week_15,Green Bay Packers,2013
+['Jamari Lattimore'],Questionable: knee,week_15,Green Bay Packers,2013
+['Clay Matthews'],NA,week_15,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_15,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_15,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_15,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_15,Green Bay Packers,2013
+['Nick Perry'],Questionable: foot,week_15,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_15,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_15,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_15,Green Bay Packers,2013
+['Sean Richardson'],NA,week_15,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_15,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_15,Green Bay Packers,2013
+['Sam Shields'],NA,week_15,Green Bay Packers,2013
+['Josh Sitton'],NA,week_15,Green Bay Packers,2013
+['James Starks'],NA,week_15,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_15,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_15,Green Bay Packers,2013
+['J.C. Tretter'],Probable: ankle,week_15,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_15,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_15,Green Bay Packers,2013
+['Myles White'],Injured Reserve: undisclosed,week_15,Green Bay Packers,2013
+['Tramon Williams'],NA,week_15,Green Bay Packers,2013
+['C.J. Wilson'],Questionable: ankle,week_15,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_15,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_16,Green Bay Packers,2013
+['Don Barclay'],NA,week_16,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_16,Green Bay Packers,2013
+['Brandon Bostick'],Questionable: foot,week_16,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_16,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_16,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_16,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_16,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_16,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_16,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_16,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_16,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_16,Green Bay Packers,2013
+['Johnathan Franklin'],Injured Reserve: concussion/neck,week_16,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_16,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_16,Green Bay Packers,2013
+['Micah Hyde'],NA,week_16,Green Bay Packers,2013
+['Johnny Jolly'],Questionable: shoulder,week_16,Green Bay Packers,2013
+['Brad Jones'],Questionable: ankle,week_16,Green Bay Packers,2013
+['James Jones'],NA,week_16,Green Bay Packers,2013
+['John Kuhn'],NA,week_16,Green Bay Packers,2013
+['Eddie Lacy'],Questionable: ankle,week_16,Green Bay Packers,2013
+['T.J. Lang'],NA,week_16,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_16,Green Bay Packers,2013
+['Clay Matthews'],Questionable: thumb,week_16,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_16,Green Bay Packers,2013
+['Mike Neal'],Questionable: abdomen,week_16,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_16,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_16,Green Bay Packers,2013
+['Nick Perry'],Questionable: foot,week_16,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: knee,week_16,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_16,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_16,Green Bay Packers,2013
+['Sean Richardson'],NA,week_16,Green Bay Packers,2013
+['Aaron Rodgers'],Out: collarbone,week_16,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_16,Green Bay Packers,2013
+['Sam Shields'],NA,week_16,Green Bay Packers,2013
+['Josh Sitton'],NA,week_16,Green Bay Packers,2013
+['James Starks'],NA,week_16,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_16,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_16,Green Bay Packers,2013
+['J.C. Tretter'],NA,week_16,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_16,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_16,Green Bay Packers,2013
+['Myles White'],Injured Reserve: undisclosed,week_16,Green Bay Packers,2013
+['Tramon Williams'],NA,week_16,Green Bay Packers,2013
+['C.J. Wilson'],Questionable: ankle,week_16,Green Bay Packers,2013
+['Jerel Worthy'],Physically Unable to Perform: knee,week_16,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_17,Green Bay Packers,2013
+['Don Barclay'],NA,week_17,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_17,Green Bay Packers,2013
+['Brandon Bostick'],Injured Reserve: foot,week_17,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_17,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_17,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_17,Green Bay Packers,2013
+['Randall Cobb'],Injured Reserve: knee,week_17,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_17,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_17,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_17,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_17,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_17,Green Bay Packers,2013
+['Johnathan Franklin'],Injured Reserve: concussion/neck,week_17,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_17,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_17,Green Bay Packers,2013
+['Micah Hyde'],Questionable: shoulder,week_17,Green Bay Packers,2013
+['Johnny Jolly'],Injured Reserve: neck,week_17,Green Bay Packers,2013
+['Brad Jones'],Questionable: ankle,week_17,Green Bay Packers,2013
+['James Jones'],NA,week_17,Green Bay Packers,2013
+['John Kuhn'],NA,week_17,Green Bay Packers,2013
+['Eddie Lacy'],Questionable: ankle,week_17,Green Bay Packers,2013
+['T.J. Lang'],NA,week_17,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_17,Green Bay Packers,2013
+['Clay Matthews'],Out: thumb,week_17,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_17,Green Bay Packers,2013
+['Mike Neal'],Probable: abdomen,week_17,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_17,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_17,Green Bay Packers,2013
+['Nick Perry'],Probable: foot,week_17,Green Bay Packers,2013
+['Ryan Pickett'],Questionable: knee,week_17,Green Bay Packers,2013
+['Andrew Quarless'],Probable: ankle,week_17,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_17,Green Bay Packers,2013
+['Sean Richardson'],NA,week_17,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_17,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_17,Green Bay Packers,2013
+['Sam Shields'],NA,week_17,Green Bay Packers,2013
+['Josh Sitton'],NA,week_17,Green Bay Packers,2013
+['James Starks'],NA,week_17,Green Bay Packers,2013
+['Jake Stoneburner'],Probable: illness,week_17,Green Bay Packers,2013
+['Ryan Taylor'],Questionable: illness,week_17,Green Bay Packers,2013
+['J.C. Tretter'],NA,week_17,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_17,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_17,Green Bay Packers,2013
+['Myles White'],Injured Reserve: undisclosed,week_17,Green Bay Packers,2013
+['Tramon Williams'],NA,week_17,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_17,Green Bay Packers,2013
+['Jerel Worthy'],NA,week_17,Green Bay Packers,2013
+['David Bakhtiari'],NA,week_18,Green Bay Packers,2013
+['Don Barclay'],NA,week_18,Green Bay Packers,2013
+['Sam Barrington'],Injured Reserve: hamstring,week_18,Green Bay Packers,2013
+['Brandon Bostick'],Injured Reserve: foot,week_18,Green Bay Packers,2013
+['Bryan Bulaga'],Injured Reserve: knee,week_18,Green Bay Packers,2013
+['Morgan Burnett'],NA,week_18,Green Bay Packers,2013
+['Jarrett Bush'],NA,week_18,Green Bay Packers,2013
+['Randall Cobb'],NA,week_18,Green Bay Packers,2013
+['Sederrik Cunningham'],Injured Reserve: wrist,week_18,Green Bay Packers,2013
+['Evan Dietrich-Smith'],NA,week_18,Green Bay Packers,2013
+['Kevin Dorsey'],Injured Reserve: toe,week_18,Green Bay Packers,2013
+['Jermichael Finley'],Injured Reserve: spine,week_18,Green Bay Packers,2013
+['Rob Francois'],Injured Reserve: Achilles,week_18,Green Bay Packers,2013
+['Johnathan Franklin'],Injured Reserve: concussion/neck,week_18,Green Bay Packers,2013
+['DuJuan Harris'],Injured Reserve: knee,week_18,Green Bay Packers,2013
+['Casey Hayward'],Injured Reserve: hamstring,week_18,Green Bay Packers,2013
+['Micah Hyde'],NA,week_18,Green Bay Packers,2013
+['Johnny Jolly'],Injured Reserve: neck,week_18,Green Bay Packers,2013
+['Brad Jones'],NA,week_18,Green Bay Packers,2013
+['James Jones'],NA,week_18,Green Bay Packers,2013
+['John Kuhn'],NA,week_18,Green Bay Packers,2013
+['Eddie Lacy'],NA,week_18,Green Bay Packers,2013
+['T.J. Lang'],NA,week_18,Green Bay Packers,2013
+['Jamari Lattimore'],NA,week_18,Green Bay Packers,2013
+['Clay Matthews'],NA,week_18,Green Bay Packers,2013
+['Andy Mulumba'],NA,week_18,Green Bay Packers,2013
+['Mike Neal'],NA,week_18,Green Bay Packers,2013
+['Marshall Newhouse'],NA,week_18,Green Bay Packers,2013
+['James Nixon'],Injured Reserve: knee,week_18,Green Bay Packers,2013
+['Nick Perry'],NA,week_18,Green Bay Packers,2013
+['Ryan Pickett'],NA,week_18,Green Bay Packers,2013
+['Andrew Quarless'],NA,week_18,Green Bay Packers,2013
+['Jarvis Reed'],Injured Reserve: ankle,week_18,Green Bay Packers,2013
+['Sean Richardson'],NA,week_18,Green Bay Packers,2013
+['Aaron Rodgers'],NA,week_18,Green Bay Packers,2013
+['Derek Sherrod'],NA,week_18,Green Bay Packers,2013
+['Sam Shields'],NA,week_18,Green Bay Packers,2013
+['Josh Sitton'],NA,week_18,Green Bay Packers,2013
+['James Starks'],NA,week_18,Green Bay Packers,2013
+['Jake Stoneburner'],NA,week_18,Green Bay Packers,2013
+['Ryan Taylor'],NA,week_18,Green Bay Packers,2013
+['J.C. Tretter'],NA,week_18,Green Bay Packers,2013
+['Greg Van Roten'],Injured Reserve: foot,week_18,Green Bay Packers,2013
+['Seneca Wallace'],Injured Reserve: groin,week_18,Green Bay Packers,2013
+['Myles White'],Injured Reserve: undisclosed,week_18,Green Bay Packers,2013
+['Tramon Williams'],NA,week_18,Green Bay Packers,2013
+['C.J. Wilson'],NA,week_18,Green Bay Packers,2013
+['Jerel Worthy'],NA,week_18,Green Bay Packers,2013

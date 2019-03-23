@@ -1,0 +1,783 @@
+﻿name,injury,week,team,year
+['Colt Anderson'],NA,week_1,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_1,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_1,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_1,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_1,Philadelphia Eagles,2013
+['James Casey'],NA,week_1,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_1,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_1,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_1,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_1,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_1,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_1,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_1,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_1,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_1,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_1,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_1,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_1,Philadelphia Eagles,2013
+['Brandon Hughes'],Out: hand,week_1,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_1,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_1,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_1,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_1,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_1,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_1,Philadelphia Eagles,2013
+['Dennis Kelly'],Out: back,week_1,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_1,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_1,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_1,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_1,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_1,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_1,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_1,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_1,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_1,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_1,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_1,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_1,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_1,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_1,Philadelphia Eagles,2013
+['Damion Square'],NA,week_1,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_1,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_1,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_1,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_1,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_1,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_2,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_2,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_2,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_2,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_2,Philadelphia Eagles,2013
+['James Casey'],NA,week_2,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_2,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_2,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_2,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_2,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_2,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_2,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_2,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_2,Philadelphia Eagles,2013
+['Bradley Fletcher'],Doubtful: concussion,week_2,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_2,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_2,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_2,Philadelphia Eagles,2013
+['Brandon Hughes'],Probable: hand,week_2,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_2,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_2,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_2,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_2,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_2,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_2,Philadelphia Eagles,2013
+['Dennis Kelly'],Doubtful: back,week_2,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_2,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_2,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_2,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_2,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_2,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_2,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_2,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_2,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_2,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_2,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_2,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_2,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_2,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_2,Philadelphia Eagles,2013
+['Damion Square'],NA,week_2,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_2,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_2,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_2,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_2,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_2,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_3,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_3,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_3,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: quadricep,week_3,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_3,Philadelphia Eagles,2013
+['James Casey'],NA,week_3,Philadelphia Eagles,2013
+['Brent Celek'],Probable: shoulder,week_3,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_3,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_3,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_3,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_3,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_3,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_3,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_3,Philadelphia Eagles,2013
+['Bradley Fletcher'],Questionable: concussion,week_3,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_3,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_3,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_3,Philadelphia Eagles,2013
+['Brandon Hughes'],Questionable: hamstring,week_3,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_3,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_3,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_3,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_3,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_3,Philadelphia Eagles,2013
+['Jason Kelce'],Probable: shoulder,week_3,Philadelphia Eagles,2013
+['Dennis Kelly'],Questionable: back,week_3,Philadelphia Eagles,2013
+['Mychal Kendricks'],Probable: groin,week_3,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_3,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_3,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_3,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_3,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_3,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_3,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_3,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_3,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_3,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_3,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_3,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_3,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_3,Philadelphia Eagles,2013
+['Damion Square'],NA,week_3,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_3,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_3,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_3,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_3,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_3,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_4,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_4,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_4,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_4,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_4,Philadelphia Eagles,2013
+['James Casey'],NA,week_4,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_4,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_4,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_4,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_4,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_4,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_4,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_4,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_4,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_4,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_4,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_4,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_4,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_4,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_4,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_4,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_4,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_4,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_4,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_4,Philadelphia Eagles,2013
+['Dennis Kelly'],Questionable: back,week_4,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_4,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_4,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_4,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_4,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_4,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_4,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_4,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_4,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_4,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_4,Philadelphia Eagles,2013
+['Jason Peters'],Probable: finger,week_4,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_4,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_4,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_4,Philadelphia Eagles,2013
+['Damion Square'],NA,week_4,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_4,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_4,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_4,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_4,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_4,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_5,Philadelphia Eagles,2013
+['Connor Barwin'],Questionable: leg,week_5,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_5,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: shoulder,week_5,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_5,Philadelphia Eagles,2013
+['James Casey'],NA,week_5,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_5,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_5,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_5,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_5,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_5,Philadelphia Eagles,2013
+['Fletcher Cox'],Probable: quadriceps,week_5,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_5,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_5,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_5,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_5,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_5,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_5,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_5,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_5,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_5,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_5,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_5,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_5,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_5,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_5,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_5,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_5,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_5,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_5,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_5,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_5,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_5,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_5,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_5,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_5,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_5,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_5,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_5,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_5,Philadelphia Eagles,2013
+['Damion Square'],NA,week_5,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_5,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_5,Philadelphia Eagles,2013
+['Michael Vick'],Questionable: hamstring,week_5,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_5,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_5,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_6,Philadelphia Eagles,2013
+['Connor Barwin'],Probable: knee,week_6,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_6,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: groin,week_6,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_6,Philadelphia Eagles,2013
+['James Casey'],Probable: groin,week_6,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_6,Philadelphia Eagles,2013
+['Patrick Chung'],Probable: shoulder,week_6,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_6,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_6,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_6,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_6,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_6,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_6,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_6,Philadelphia Eagles,2013
+['Nick Foles'],Probable: groin,week_6,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_6,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_6,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_6,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_6,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_6,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_6,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_6,Philadelphia Eagles,2013
+['Donnie Jones'],Probable: left foot,week_6,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_6,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_6,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_6,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_6,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_6,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_6,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_6,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_6,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_6,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_6,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_6,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_6,Philadelphia Eagles,2013
+['Jason Peters'],Probable: finger,week_6,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_6,Philadelphia Eagles,2013
+['Chris Polk'],Probable: ankle,week_6,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_6,Philadelphia Eagles,2013
+['Damion Square'],NA,week_6,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_6,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_6,Philadelphia Eagles,2013
+['Michael Vick'],Doubtful: hamstring,week_6,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_6,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_6,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_7,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_7,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_7,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_7,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_7,Philadelphia Eagles,2013
+['James Casey'],Probable: groin,week_7,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_7,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_7,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_7,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_7,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_7,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_7,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_7,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_7,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_7,Philadelphia Eagles,2013
+['Nick Foles'],Questionable: head,week_7,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_7,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_7,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_7,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_7,Philadelphia Eagles,2013
+['DeSean Jackson'],Questionable: foot/ankle,week_7,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_7,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_7,Philadelphia Eagles,2013
+['Donnie Jones'],Questionable: left foot,week_7,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_7,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_7,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_7,Philadelphia Eagles,2013
+['Jake Knott'],Questionable: hamstring,week_7,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_7,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_7,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_7,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_7,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_7,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_7,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_7,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_7,Philadelphia Eagles,2013
+['Jason Peters'],Questionable: shoulder,week_7,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_7,Philadelphia Eagles,2013
+['Chris Polk'],Questionable: shoulder,week_7,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_7,Philadelphia Eagles,2013
+['Damion Square'],NA,week_7,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_7,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_7,Philadelphia Eagles,2013
+['Michael Vick'],Doubtful: hamstring,week_7,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_7,Philadelphia Eagles,2013
+['Earl Wolff'],Questionable: head,week_7,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_8,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_8,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_8,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_8,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_8,Philadelphia Eagles,2013
+['James Casey'],NA,week_8,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_8,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_8,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_8,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_8,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_8,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_8,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_8,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_8,Philadelphia Eagles,2013
+['Bradley Fletcher'],Questionable: knee,week_8,Philadelphia Eagles,2013
+['Nick Foles'],Doubtful: concussion,week_8,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_8,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_8,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_8,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_8,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_8,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_8,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_8,Philadelphia Eagles,2013
+['Donnie Jones'],Probable: foot,week_8,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_8,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_8,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_8,Philadelphia Eagles,2013
+['Jake Knott'],Questionable: hamstring,week_8,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_8,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_8,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_8,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_8,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_8,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_8,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_8,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_8,Philadelphia Eagles,2013
+['Jason Peters'],Questionable: shoulder/finger,week_8,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_8,Philadelphia Eagles,2013
+['Chris Polk'],Questionable: shoulder,week_8,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_8,Philadelphia Eagles,2013
+['Damion Square'],NA,week_8,Philadelphia Eagles,2013
+['Cedric Thornton'],Questionable: knee,week_8,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_8,Philadelphia Eagles,2013
+['Michael Vick'],Questionable: hamstring,week_8,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_8,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_8,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_9,Philadelphia Eagles,2013
+['Connor Barwin'],Probable: back,week_9,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_9,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_9,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_9,Philadelphia Eagles,2013
+['James Casey'],NA,week_9,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_9,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_9,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_9,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_9,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_9,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_9,Philadelphia Eagles,2013
+['Jon Dorenbos'],Probable: groin,week_9,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_9,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_9,Philadelphia Eagles,2013
+['Nick Foles'],Probable: concussion,week_9,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_9,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_9,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_9,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_9,Philadelphia Eagles,2013
+['DeSean Jackson'],Probable: ankle,week_9,Philadelphia Eagles,2013
+['Damaris Johnson'],Questionable: ankle,week_9,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_9,Philadelphia Eagles,2013
+['Donnie Jones'],Probable: left foot,week_9,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_9,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_9,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_9,Philadelphia Eagles,2013
+['Jake Knott'],Questionable: hamstring,week_9,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_9,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_9,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_9,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_9,Philadelphia Eagles,2013
+['Curtis Marsh'],Injured Reserve: hand,week_9,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_9,Philadelphia Eagles,2013
+['Casey Matthews'],Questionable: hip,week_9,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_9,Philadelphia Eagles,2013
+['Jason Peters'],Probable: shoulder/finger,week_9,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_9,Philadelphia Eagles,2013
+['Chris Polk'],Questionable: shoulder,week_9,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_9,Philadelphia Eagles,2013
+['Damion Square'],NA,week_9,Philadelphia Eagles,2013
+['Cedric Thornton'],Questionable: knee,week_9,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_9,Philadelphia Eagles,2013
+['Michael Vick'],Out: hamstring,week_9,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_9,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_9,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_10,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_10,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_10,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_10,Philadelphia Eagles,2013
+['Roc Carmichael'],Probable: groin,week_10,Philadelphia Eagles,2013
+['James Casey'],NA,week_10,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_10,Philadelphia Eagles,2013
+['Patrick Chung'],Probable: shoulder,week_10,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_10,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_10,Philadelphia Eagles,2013
+['Riley Cooper'],Probable: illness,week_10,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_10,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_10,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_10,Philadelphia Eagles,2013
+['Bradley Fletcher'],Questionable: pectoral,week_10,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_10,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_10,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_10,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_10,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_10,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_10,Philadelphia Eagles,2013
+['Damaris Johnson'],Probable: ankle,week_10,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_10,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_10,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_10,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_10,Philadelphia Eagles,2013
+['Mychal Kendricks'],Probable: ankle,week_10,Philadelphia Eagles,2013
+['Jake Knott'],Questionable: hamstring,week_10,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_10,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_10,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_10,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_10,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_10,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_10,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_10,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_10,Philadelphia Eagles,2013
+['Jason Peters'],Probable: shoulder/pectoral,week_10,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_10,Philadelphia Eagles,2013
+['Chris Polk'],Probable: shoulder/knee,week_10,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_10,Philadelphia Eagles,2013
+['Damion Square'],NA,week_10,Philadelphia Eagles,2013
+['Cedric Thornton'],Probable: knee,week_10,Philadelphia Eagles,2013
+['Julian Vandervelde'],Probable: knee,week_10,Philadelphia Eagles,2013
+['Michael Vick'],Out: hamstring,week_10,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_10,Philadelphia Eagles,2013
+['Earl Wolff'],NA,week_10,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_11,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_11,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_11,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_11,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_11,Philadelphia Eagles,2013
+['James Casey'],NA,week_11,Philadelphia Eagles,2013
+['Brent Celek'],Probable: hip,week_11,Philadelphia Eagles,2013
+['Patrick Chung'],Questionable: shoulder,week_11,Philadelphia Eagles,2013
+['Trent Cole'],Probable: illness,week_11,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_11,Philadelphia Eagles,2013
+['Riley Cooper'],Probable: knee,week_11,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_11,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_11,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_11,Philadelphia Eagles,2013
+['Bradley Fletcher'],Questionable: pectoral,week_11,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_11,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_11,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_11,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_11,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_11,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_11,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_11,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_11,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_11,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_11,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_11,Philadelphia Eagles,2013
+['Mychal Kendricks'],Questionable: knee,week_11,Philadelphia Eagles,2013
+['Jake Knott'],Out: hamstring,week_11,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_11,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_11,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_11,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_11,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_11,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_11,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_11,Philadelphia Eagles,2013
+['LeSean McCoy'],Questionable: hamstring,week_11,Philadelphia Eagles,2013
+['Jason Peters'],Questionable: quadricep,week_11,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_11,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_11,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_11,Philadelphia Eagles,2013
+['Damion Square'],NA,week_11,Philadelphia Eagles,2013
+['Cedric Thornton'],Probable: knee,week_11,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_11,Philadelphia Eagles,2013
+['Michael Vick'],Out: hamstring,week_11,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_11,Philadelphia Eagles,2013
+['Earl Wolff'],Out: knee,week_11,Philadelphia Eagles,2013
+['Colt Anderson'],Probable: ankle,week_13,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_13,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_13,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_13,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_13,Philadelphia Eagles,2013
+['James Casey'],NA,week_13,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_13,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_13,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_13,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_13,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_13,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_13,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_13,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_13,Philadelphia Eagles,2013
+['Bradley Fletcher'],Probable: pectoral,week_13,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_13,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_13,Philadelphia Eagles,2013
+['Najee Goode'],Questionable: hamstring,week_13,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_13,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_13,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_13,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_13,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_13,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_13,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_13,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_13,Philadelphia Eagles,2013
+['Mychal Kendricks'],Probable: knee,week_13,Philadelphia Eagles,2013
+['Jake Knott'],Probable: hamstring,week_13,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_13,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_13,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_13,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_13,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_13,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_13,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_13,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_13,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_13,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_13,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_13,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_13,Philadelphia Eagles,2013
+['Damion Square'],NA,week_13,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_13,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_13,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_13,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_13,Philadelphia Eagles,2013
+['Earl Wolff'],Out: knee,week_13,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_14,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_14,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_14,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_14,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_14,Philadelphia Eagles,2013
+['James Casey'],NA,week_14,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_14,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_14,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_14,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_14,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_14,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_14,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_14,Philadelphia Eagles,2013
+['Zach Ertz'],Probable: shoulder,week_14,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_14,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_14,Philadelphia Eagles,2013
+['Clifton Geathers'],Questionable: personal,week_14,Philadelphia Eagles,2013
+['Najee Goode'],Questionable: hamstring,week_14,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_14,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_14,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_14,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_14,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_14,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_14,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_14,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_14,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_14,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_14,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_14,Philadelphia Eagles,2013
+['Bennie Logan'],Probable: neck,week_14,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_14,Philadelphia Eagles,2013
+['Jeff Maehl'],Questionable: concussion,week_14,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_14,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_14,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_14,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_14,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_14,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_14,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_14,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_14,Philadelphia Eagles,2013
+['Damion Square'],Probable: back,week_14,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_14,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_14,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_14,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_14,Philadelphia Eagles,2013
+['Earl Wolff'],Out: knee,week_14,Philadelphia Eagles,2013
+['Colt Anderson'],NA,week_15,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_15,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_15,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: hip,week_15,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_15,Philadelphia Eagles,2013
+['James Casey'],NA,week_15,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_15,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_15,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_15,Philadelphia Eagles,2013
+['Kurt Coleman'],Questionable: hamstring,week_15,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_15,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_15,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_15,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_15,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_15,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_15,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_15,Philadelphia Eagles,2013
+['Najee Goode'],Out: hamstring,week_15,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_15,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_15,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_15,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_15,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_15,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_15,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_15,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_15,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_15,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_15,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_15,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_15,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_15,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_15,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_15,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_15,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_15,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_15,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_15,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_15,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_15,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_15,Philadelphia Eagles,2013
+['Damion Square'],NA,week_15,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_15,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_15,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_15,Philadelphia Eagles,2013
+['Cary Williams'],Probable: hamstring,week_15,Philadelphia Eagles,2013
+['Earl Wolff'],Questionable: knee,week_15,Philadelphia Eagles,2013
+['Colt Anderson'],Questionable: knee,week_16,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_16,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_16,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: concussion,week_16,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_16,Philadelphia Eagles,2013
+['James Casey'],NA,week_16,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_16,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_16,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_16,Philadelphia Eagles,2013
+['Kurt Coleman'],Doubtful: hamstring,week_16,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_16,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_16,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_16,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_16,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_16,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_16,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_16,Philadelphia Eagles,2013
+['Najee Goode'],Probable: hamstring,week_16,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_16,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_16,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_16,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_16,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_16,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_16,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_16,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_16,Philadelphia Eagles,2013
+['Mychal Kendricks'],Probable: knee,week_16,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_16,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_16,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_16,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_16,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_16,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_16,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_16,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_16,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_16,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_16,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_16,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_16,Philadelphia Eagles,2013
+['Brad Smith'],Probable: hamstring,week_16,Philadelphia Eagles,2013
+['Damion Square'],NA,week_16,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_16,Philadelphia Eagles,2013
+['Julian Vandervelde'],NA,week_16,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_16,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_16,Philadelphia Eagles,2013
+['Earl Wolff'],Probable: knee,week_16,Philadelphia Eagles,2013
+['Colt Anderson'],Doubtful: knee,week_17,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_17,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_17,Philadelphia Eagles,2013
+['Brandon Boykin'],Probable: hip,week_17,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_17,Philadelphia Eagles,2013
+['James Casey'],NA,week_17,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_17,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_17,Philadelphia Eagles,2013
+['Trent Cole'],Probable: hand,week_17,Philadelphia Eagles,2013
+['Kurt Coleman'],Probable: hamstring,week_17,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_17,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_17,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_17,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_17,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_17,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_17,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_17,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_17,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_17,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_17,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_17,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_17,Philadelphia Eagles,2013
+['Lane Johnson'],Probable: back,week_17,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_17,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_17,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_17,Philadelphia Eagles,2013
+['Mychal Kendricks'],Probable: knee,week_17,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_17,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_17,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_17,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_17,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_17,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_17,Philadelphia Eagles,2013
+['Evan Mathis'],Questionable: illness,week_17,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_17,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_17,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_17,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_17,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_17,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_17,Philadelphia Eagles,2013
+['Damion Square'],NA,week_17,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_17,Philadelphia Eagles,2013
+['Julian Vandervelde'],Questionable: back,week_17,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_17,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_17,Philadelphia Eagles,2013
+['Earl Wolff'],Probable: knee,week_17,Philadelphia Eagles,2013
+['Colt Anderson'],Questionable: knee,week_18,Philadelphia Eagles,2013
+['Connor Barwin'],NA,week_18,Philadelphia Eagles,2013
+['Arrelious Benn'],Injured Reserve: knee,week_18,Philadelphia Eagles,2013
+['Brandon Boykin'],NA,week_18,Philadelphia Eagles,2013
+['Roc Carmichael'],NA,week_18,Philadelphia Eagles,2013
+['James Casey'],NA,week_18,Philadelphia Eagles,2013
+['Brent Celek'],NA,week_18,Philadelphia Eagles,2013
+['Patrick Chung'],NA,week_18,Philadelphia Eagles,2013
+['Trent Cole'],NA,week_18,Philadelphia Eagles,2013
+['Kurt Coleman'],NA,week_18,Philadelphia Eagles,2013
+['Riley Cooper'],NA,week_18,Philadelphia Eagles,2013
+['Fletcher Cox'],NA,week_18,Philadelphia Eagles,2013
+['Jon Dorenbos'],NA,week_18,Philadelphia Eagles,2013
+['Zach Ertz'],NA,week_18,Philadelphia Eagles,2013
+['Bradley Fletcher'],NA,week_18,Philadelphia Eagles,2013
+['Nick Foles'],NA,week_18,Philadelphia Eagles,2013
+['Clifton Geathers'],NA,week_18,Philadelphia Eagles,2013
+['Najee Goode'],NA,week_18,Philadelphia Eagles,2013
+['Brandon Hughes'],NA,week_18,Philadelphia Eagles,2013
+['Phillip Hunt'],Injured Reserve: knee,week_18,Philadelphia Eagles,2013
+['DeSean Jackson'],NA,week_18,Philadelphia Eagles,2013
+['Damaris Johnson'],NA,week_18,Philadelphia Eagles,2013
+['Lane Johnson'],NA,week_18,Philadelphia Eagles,2013
+['Donnie Jones'],NA,week_18,Philadelphia Eagles,2013
+['Jason Kelce'],NA,week_18,Philadelphia Eagles,2013
+['Dennis Kelly'],NA,week_18,Philadelphia Eagles,2013
+['Mychal Kendricks'],NA,week_18,Philadelphia Eagles,2013
+['Jake Knott'],NA,week_18,Philadelphia Eagles,2013
+['Joe Kruger'],Injured Reserve: shoulder,week_18,Philadelphia Eagles,2013
+['Bennie Logan'],NA,week_18,Philadelphia Eagles,2013
+['Jeremy Maclin'],Injured Reserve: knee,week_18,Philadelphia Eagles,2013
+['Jeff Maehl'],NA,week_18,Philadelphia Eagles,2013
+['Curtis Marsh'],NA,week_18,Philadelphia Eagles,2013
+['Evan Mathis'],NA,week_18,Philadelphia Eagles,2013
+['Casey Matthews'],NA,week_18,Philadelphia Eagles,2013
+['LeSean McCoy'],NA,week_18,Philadelphia Eagles,2013
+['Jason Peters'],NA,week_18,Philadelphia Eagles,2013
+['Jason Phillips'],Injured Reserve: knee,week_18,Philadelphia Eagles,2013
+['Chris Polk'],NA,week_18,Philadelphia Eagles,2013
+['Brad Smith'],NA,week_18,Philadelphia Eagles,2013
+['Damion Square'],NA,week_18,Philadelphia Eagles,2013
+['Cedric Thornton'],NA,week_18,Philadelphia Eagles,2013
+['Julian Vandervelde'],Questionable: back,week_18,Philadelphia Eagles,2013
+['Michael Vick'],NA,week_18,Philadelphia Eagles,2013
+['Cary Williams'],NA,week_18,Philadelphia Eagles,2013
+['Earl Wolff'],Questionable: knee,week_18,Philadelphia Eagles,2013

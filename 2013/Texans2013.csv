@@ -1,0 +1,945 @@
+﻿name,injury,week,team,year
+['Alan Bonner'],Injured Reserve: hamstring,week_1,Houston Texans,2013
+['A.J. Bouye'],Probable: knee,week_1,Houston Texans,2013
+['Bryan Braman'],NA,week_1,Houston Texans,2013
+['Brandon Brooks'],NA,week_1,Houston Texans,2013
+['Duane Brown'],NA,week_1,Houston Texans,2013
+['Jake Byrne'],NA,week_1,Houston Texans,2013
+['Brian Cushing'],Probable: knee,week_1,Houston Texans,2013
+['Owen Daniels'],NA,week_1,Houston Texans,2013
+['Tim Dobbins'],NA,week_1,Houston Texans,2013
+['Arian Foster'],Probable: calf,week_1,Houston Texans,2013
+['Andrew Gardner'],NA,week_1,Houston Texans,2013
+['Tavares Gooden'],NA,week_1,Houston Texans,2013
+['Garrett Graham'],Probable: hip,week_1,Houston Texans,2013
+['Ryan Griffin'],NA,week_1,Houston Texans,2013
+['Ryan Harris'],NA,week_1,Houston Texans,2013
+['DeAndre Hopkins'],Probable: concussion,week_1,Houston Texans,2013
+['Kareem Jackson'],NA,week_1,Houston Texans,2013
+['Tim Jamison'],NA,week_1,Houston Texans,2013
+['Andre Johnson'],NA,week_1,Houston Texans,2013
+['Dennis Johnson'],NA,week_1,Houston Texans,2013
+['Ben Jones'],NA,week_1,Houston Texans,2013
+['Greg Jones'],NA,week_1,Houston Texans,2013
+['Johnathan Joseph'],NA,week_1,Houston Texans,2013
+['Deji Karim'],NA,week_1,Houston Texans,2013
+['Case Keenum'],NA,week_1,Houston Texans,2013
+['Shiloh Keo'],NA,week_1,Houston Texans,2013
+['Shane Lechler'],NA,week_1,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_1,Houston Texans,2013
+['Elbert Mack'],NA,week_1,Houston Texans,2013
+['Danieal Manning'],NA,week_1,Houston Texans,2013
+['Keshawn Martin'],NA,week_1,Houston Texans,2013
+['Joe Mays'],NA,week_1,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_1,Houston Texans,2013
+['Whitney Mercilus'],Probable: hamstring,week_1,Houston Texans,2013
+['Earl Mitchell'],NA,week_1,Houston Texans,2013
+['Mike Mohamed'],NA,week_1,Houston Texans,2013
+['Sam Montgomery'],Probable: Achilles,week_1,Houston Texans,2013
+['Chris Myers'],NA,week_1,Houston Texans,2013
+['Derek Newton'],NA,week_1,Houston Texans,2013
+['Eddie Pleasant'],Probable: knee,week_1,Houston Texans,2013
+['DeVier Posey'],Probable: Achilles,week_1,Houston Texans,2013
+['David Quessenberry'],Out: foot,week_1,Houston Texans,2013
+['Brooks Reed'],Probable: back,week_1,Houston Texans,2013
+['Ed Reed'],Doubtful: hip,week_1,Houston Texans,2013
+['Matt Schaub'],NA,week_1,Houston Texans,2013
+['Darryl Sharpton'],Doubtful: concussion,week_1,Houston Texans,2013
+['Brad Smelley'],NA,week_1,Houston Texans,2013
+['Antonio Smith'],NA,week_1,Houston Texans,2013
+['Wade Smith'],Probable: knee,week_1,Houston Texans,2013
+['Jawanza Starling'],NA,week_1,Houston Texans,2013
+['D.J. Swearinger'],NA,week_1,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_1,Houston Texans,2013
+['Ben Tate'],NA,week_1,Houston Texans,2013
+['Justin Tuggle'],NA,week_1,Houston Texans,2013
+['Josh Victorian'],NA,week_1,Houston Texans,2013
+['J.J. Watt'],NA,week_1,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_1,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_1,Houston Texans,2013
+['T.J. Yates'],NA,week_1,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_2,Houston Texans,2013
+['A.J. Bouye'],NA,week_2,Houston Texans,2013
+['Bryan Braman'],NA,week_2,Houston Texans,2013
+['Brandon Brooks'],NA,week_2,Houston Texans,2013
+['Duane Brown'],Questionable: ankle,week_2,Houston Texans,2013
+['Jake Byrne'],NA,week_2,Houston Texans,2013
+['Brian Cushing'],Questionable: knee,week_2,Houston Texans,2013
+['Owen Daniels'],Questionable: back/groin,week_2,Houston Texans,2013
+['Tim Dobbins'],NA,week_2,Houston Texans,2013
+['Arian Foster'],Probable: calf,week_2,Houston Texans,2013
+['Andrew Gardner'],NA,week_2,Houston Texans,2013
+['Tavares Gooden'],NA,week_2,Houston Texans,2013
+['Garrett Graham'],Questionable: hip,week_2,Houston Texans,2013
+['Ryan Griffin'],NA,week_2,Houston Texans,2013
+['Ryan Harris'],NA,week_2,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_2,Houston Texans,2013
+['Kareem Jackson'],NA,week_2,Houston Texans,2013
+['Tim Jamison'],Probable: foot,week_2,Houston Texans,2013
+['Andre Johnson'],NA,week_2,Houston Texans,2013
+['Dennis Johnson'],NA,week_2,Houston Texans,2013
+['Ben Jones'],NA,week_2,Houston Texans,2013
+['Greg Jones'],NA,week_2,Houston Texans,2013
+['Johnathan Joseph'],NA,week_2,Houston Texans,2013
+['Deji Karim'],NA,week_2,Houston Texans,2013
+['Case Keenum'],NA,week_2,Houston Texans,2013
+['Shiloh Keo'],Questionable: Achilles,week_2,Houston Texans,2013
+['Shane Lechler'],NA,week_2,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_2,Houston Texans,2013
+['Elbert Mack'],NA,week_2,Houston Texans,2013
+['Danieal Manning'],NA,week_2,Houston Texans,2013
+['Keshawn Martin'],NA,week_2,Houston Texans,2013
+['Joe Mays'],Questionable: quadricep,week_2,Houston Texans,2013
+['Brice McCain'],Questionable: knee,week_2,Houston Texans,2013
+['Whitney Mercilus'],NA,week_2,Houston Texans,2013
+['Earl Mitchell'],NA,week_2,Houston Texans,2013
+['Mike Mohamed'],NA,week_2,Houston Texans,2013
+['Sam Montgomery'],NA,week_2,Houston Texans,2013
+['Chris Myers'],Questionable: back,week_2,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_2,Houston Texans,2013
+['Eddie Pleasant'],NA,week_2,Houston Texans,2013
+['DeVier Posey'],Questionable: Achilles,week_2,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_2,Houston Texans,2013
+['Brooks Reed'],Questionable: back,week_2,Houston Texans,2013
+['Ed Reed'],Questionable: hip,week_2,Houston Texans,2013
+['Matt Schaub'],NA,week_2,Houston Texans,2013
+['Darryl Sharpton'],Questionable: concussion,week_2,Houston Texans,2013
+['Brad Smelley'],NA,week_2,Houston Texans,2013
+['Antonio Smith'],Probable: one-game suspension served,week_2,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_2,Houston Texans,2013
+['Jawanza Starling'],NA,week_2,Houston Texans,2013
+['D.J. Swearinger'],NA,week_2,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_2,Houston Texans,2013
+['Ben Tate'],Probable: shoulder,week_2,Houston Texans,2013
+['Justin Tuggle'],NA,week_2,Houston Texans,2013
+['Josh Victorian'],NA,week_2,Houston Texans,2013
+['J.J. Watt'],Probable: quadricep,week_2,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_2,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_2,Houston Texans,2013
+['T.J. Yates'],NA,week_2,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_3,Houston Texans,2013
+['A.J. Bouye'],NA,week_3,Houston Texans,2013
+['Bryan Braman'],NA,week_3,Houston Texans,2013
+['Brandon Brooks'],NA,week_3,Houston Texans,2013
+['Duane Brown'],Questionable: toe,week_3,Houston Texans,2013
+['Jake Byrne'],NA,week_3,Houston Texans,2013
+['Brian Cushing'],Probable: knee,week_3,Houston Texans,2013
+['Owen Daniels'],Questionable: back/groin,week_3,Houston Texans,2013
+['Tim Dobbins'],Questionable: hamstring,week_3,Houston Texans,2013
+['Arian Foster'],Probable: calf/chest,week_3,Houston Texans,2013
+['Andrew Gardner'],NA,week_3,Houston Texans,2013
+['Tavares Gooden'],NA,week_3,Houston Texans,2013
+['Garrett Graham'],Probable: hip/groin,week_3,Houston Texans,2013
+['Ryan Griffin'],NA,week_3,Houston Texans,2013
+['Ryan Harris'],NA,week_3,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_3,Houston Texans,2013
+['Kareem Jackson'],NA,week_3,Houston Texans,2013
+['Tim Jamison'],NA,week_3,Houston Texans,2013
+['Andre Johnson'],Probable: head,week_3,Houston Texans,2013
+['Dennis Johnson'],NA,week_3,Houston Texans,2013
+['Ben Jones'],NA,week_3,Houston Texans,2013
+['Greg Jones'],NA,week_3,Houston Texans,2013
+['Johnathan Joseph'],NA,week_3,Houston Texans,2013
+['Deji Karim'],NA,week_3,Houston Texans,2013
+['Case Keenum'],NA,week_3,Houston Texans,2013
+['Shiloh Keo'],NA,week_3,Houston Texans,2013
+['Shane Lechler'],NA,week_3,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_3,Houston Texans,2013
+['Elbert Mack'],NA,week_3,Houston Texans,2013
+['Danieal Manning'],NA,week_3,Houston Texans,2013
+['Keshawn Martin'],NA,week_3,Houston Texans,2013
+['Joe Mays'],Probable: quadricep,week_3,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_3,Houston Texans,2013
+['Whitney Mercilus'],NA,week_3,Houston Texans,2013
+['Earl Mitchell'],NA,week_3,Houston Texans,2013
+['Mike Mohamed'],NA,week_3,Houston Texans,2013
+['Sam Montgomery'],NA,week_3,Houston Texans,2013
+['Chris Myers'],Probable: back,week_3,Houston Texans,2013
+['Derek Newton'],Probable: knee/calf,week_3,Houston Texans,2013
+['Eddie Pleasant'],NA,week_3,Houston Texans,2013
+['DeVier Posey'],Probable: achilles/foot,week_3,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_3,Houston Texans,2013
+['Brooks Reed'],NA,week_3,Houston Texans,2013
+['Ed Reed'],Questionable: hip,week_3,Houston Texans,2013
+['Matt Schaub'],NA,week_3,Houston Texans,2013
+['Darryl Sharpton'],Probable: hip,week_3,Houston Texans,2013
+['Brad Smelley'],NA,week_3,Houston Texans,2013
+['Antonio Smith'],NA,week_3,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_3,Houston Texans,2013
+['Jawanza Starling'],NA,week_3,Houston Texans,2013
+['D.J. Swearinger'],NA,week_3,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_3,Houston Texans,2013
+['Ben Tate'],Probable: shoulder,week_3,Houston Texans,2013
+['Justin Tuggle'],NA,week_3,Houston Texans,2013
+['Josh Victorian'],NA,week_3,Houston Texans,2013
+['J.J. Watt'],NA,week_3,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_3,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_3,Houston Texans,2013
+['T.J. Yates'],NA,week_3,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_4,Houston Texans,2013
+['A.J. Bouye'],NA,week_4,Houston Texans,2013
+['Bryan Braman'],NA,week_4,Houston Texans,2013
+['Brandon Brooks'],NA,week_4,Houston Texans,2013
+['Duane Brown'],Questionable: toe,week_4,Houston Texans,2013
+['Jake Byrne'],NA,week_4,Houston Texans,2013
+['Brian Cushing'],Probable: knee/ankle,week_4,Houston Texans,2013
+['Owen Daniels'],Probable: knee,week_4,Houston Texans,2013
+['Tim Dobbins'],Questionable: hamstring,week_4,Houston Texans,2013
+['Arian Foster'],Probable: thumb,week_4,Houston Texans,2013
+['Andrew Gardner'],NA,week_4,Houston Texans,2013
+['Tavares Gooden'],NA,week_4,Houston Texans,2013
+['Garrett Graham'],Questionable: hip/groin,week_4,Houston Texans,2013
+['Ryan Griffin'],NA,week_4,Houston Texans,2013
+['Ryan Harris'],NA,week_4,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_4,Houston Texans,2013
+['Kareem Jackson'],Questionable: illness,week_4,Houston Texans,2013
+['Tim Jamison'],NA,week_4,Houston Texans,2013
+['Andre Johnson'],Questionable: shin,week_4,Houston Texans,2013
+['Dennis Johnson'],NA,week_4,Houston Texans,2013
+['Ben Jones'],NA,week_4,Houston Texans,2013
+['Greg Jones'],NA,week_4,Houston Texans,2013
+['Johnathan Joseph'],Questionable: toe,week_4,Houston Texans,2013
+['Deji Karim'],NA,week_4,Houston Texans,2013
+['Case Keenum'],NA,week_4,Houston Texans,2013
+['Shiloh Keo'],NA,week_4,Houston Texans,2013
+['Shane Lechler'],NA,week_4,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_4,Houston Texans,2013
+['Elbert Mack'],NA,week_4,Houston Texans,2013
+['Danieal Manning'],NA,week_4,Houston Texans,2013
+['Keshawn Martin'],NA,week_4,Houston Texans,2013
+['Joe Mays'],NA,week_4,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_4,Houston Texans,2013
+['Whitney Mercilus'],NA,week_4,Houston Texans,2013
+['Earl Mitchell'],NA,week_4,Houston Texans,2013
+['Mike Mohamed'],NA,week_4,Houston Texans,2013
+['Sam Montgomery'],NA,week_4,Houston Texans,2013
+['Chris Myers'],Probable: back,week_4,Houston Texans,2013
+['Derek Newton'],Probable: knee/calf,week_4,Houston Texans,2013
+['Eddie Pleasant'],Probable: hamstring,week_4,Houston Texans,2013
+['DeVier Posey'],Probable: achilles,week_4,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_4,Houston Texans,2013
+['Brooks Reed'],NA,week_4,Houston Texans,2013
+['Ed Reed'],Questionable: hip,week_4,Houston Texans,2013
+['Matt Schaub'],Probable: knee,week_4,Houston Texans,2013
+['Darryl Sharpton'],Questionable: hip/foot,week_4,Houston Texans,2013
+['Brad Smelley'],NA,week_4,Houston Texans,2013
+['Antonio Smith'],NA,week_4,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_4,Houston Texans,2013
+['Jawanza Starling'],NA,week_4,Houston Texans,2013
+['D.J. Swearinger'],NA,week_4,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_4,Houston Texans,2013
+['Ben Tate'],Probable: shoulder,week_4,Houston Texans,2013
+['Justin Tuggle'],NA,week_4,Houston Texans,2013
+['Josh Victorian'],NA,week_4,Houston Texans,2013
+['J.J. Watt'],NA,week_4,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_4,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_4,Houston Texans,2013
+['T.J. Yates'],NA,week_4,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_5,Houston Texans,2013
+['A.J. Bouye'],NA,week_5,Houston Texans,2013
+['Bryan Braman'],Questionable: hamstring/shoulder,week_5,Houston Texans,2013
+['Brandon Brooks'],Questionable: toe,week_5,Houston Texans,2013
+['Duane Brown'],Questionable: toe,week_5,Houston Texans,2013
+['Jake Byrne'],NA,week_5,Houston Texans,2013
+['Brian Cushing'],Questionable: concussion,week_5,Houston Texans,2013
+['Owen Daniels'],Probable: knee,week_5,Houston Texans,2013
+['Tim Dobbins'],Questionable: hamstring,week_5,Houston Texans,2013
+['Arian Foster'],Probable: thumb/back,week_5,Houston Texans,2013
+['Andrew Gardner'],NA,week_5,Houston Texans,2013
+['Tavares Gooden'],NA,week_5,Houston Texans,2013
+['Garrett Graham'],Probable: hip/groin,week_5,Houston Texans,2013
+['Ryan Griffin'],NA,week_5,Houston Texans,2013
+['Ryan Harris'],NA,week_5,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_5,Houston Texans,2013
+['Kareem Jackson'],NA,week_5,Houston Texans,2013
+['Tim Jamison'],NA,week_5,Houston Texans,2013
+['Andre Johnson'],Probable: shin,week_5,Houston Texans,2013
+['Dennis Johnson'],NA,week_5,Houston Texans,2013
+['Ben Jones'],NA,week_5,Houston Texans,2013
+['Greg Jones'],Questionable: foot/groin,week_5,Houston Texans,2013
+['Johnathan Joseph'],NA,week_5,Houston Texans,2013
+['Deji Karim'],NA,week_5,Houston Texans,2013
+['Case Keenum'],NA,week_5,Houston Texans,2013
+['Shiloh Keo'],NA,week_5,Houston Texans,2013
+['Shane Lechler'],NA,week_5,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_5,Houston Texans,2013
+['Elbert Mack'],NA,week_5,Houston Texans,2013
+['Danieal Manning'],NA,week_5,Houston Texans,2013
+['Keshawn Martin'],NA,week_5,Houston Texans,2013
+['Joe Mays'],NA,week_5,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_5,Houston Texans,2013
+['Whitney Mercilus'],NA,week_5,Houston Texans,2013
+['Earl Mitchell'],NA,week_5,Houston Texans,2013
+['Mike Mohamed'],NA,week_5,Houston Texans,2013
+['Sam Montgomery'],NA,week_5,Houston Texans,2013
+['Chris Myers'],Questionable: biceps,week_5,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_5,Houston Texans,2013
+['Eddie Pleasant'],Probable: hamstring,week_5,Houston Texans,2013
+['DeVier Posey'],Probable: Achilles,week_5,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_5,Houston Texans,2013
+['Brooks Reed'],NA,week_5,Houston Texans,2013
+['Ed Reed'],Questionable: hip/abdomen,week_5,Houston Texans,2013
+['Matt Schaub'],NA,week_5,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot/hip,week_5,Houston Texans,2013
+['Brad Smelley'],NA,week_5,Houston Texans,2013
+['Antonio Smith'],NA,week_5,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_5,Houston Texans,2013
+['Jawanza Starling'],NA,week_5,Houston Texans,2013
+['D.J. Swearinger'],NA,week_5,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_5,Houston Texans,2013
+['Ben Tate'],Probable: shoulder,week_5,Houston Texans,2013
+['Justin Tuggle'],NA,week_5,Houston Texans,2013
+['Josh Victorian'],NA,week_5,Houston Texans,2013
+['J.J. Watt'],Questionable: groin/nose,week_5,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_5,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_5,Houston Texans,2013
+['T.J. Yates'],NA,week_5,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_6,Houston Texans,2013
+['A.J. Bouye'],NA,week_6,Houston Texans,2013
+['Bryan Braman'],Questionable: neck/knee,week_6,Houston Texans,2013
+['Brandon Brooks'],Questionable: toe,week_6,Houston Texans,2013
+['Duane Brown'],Probable: toe,week_6,Houston Texans,2013
+['Jake Byrne'],NA,week_6,Houston Texans,2013
+['Brian Cushing'],Probable: knee,week_6,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_6,Houston Texans,2013
+['Tim Dobbins'],Doubtful: hamstring,week_6,Houston Texans,2013
+['Arian Foster'],Probable: thumb/chest,week_6,Houston Texans,2013
+['Andrew Gardner'],NA,week_6,Houston Texans,2013
+['Tavares Gooden'],NA,week_6,Houston Texans,2013
+['Garrett Graham'],NA,week_6,Houston Texans,2013
+['Ryan Griffin'],NA,week_6,Houston Texans,2013
+['Ryan Harris'],Probable: elbow,week_6,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_6,Houston Texans,2013
+['Kareem Jackson'],NA,week_6,Houston Texans,2013
+['Tim Jamison'],NA,week_6,Houston Texans,2013
+['Andre Johnson'],Questionable: shin,week_6,Houston Texans,2013
+['Dennis Johnson'],NA,week_6,Houston Texans,2013
+['Ben Jones'],NA,week_6,Houston Texans,2013
+['Greg Jones'],NA,week_6,Houston Texans,2013
+['Johnathan Joseph'],NA,week_6,Houston Texans,2013
+['Deji Karim'],NA,week_6,Houston Texans,2013
+['Case Keenum'],NA,week_6,Houston Texans,2013
+['Shiloh Keo'],NA,week_6,Houston Texans,2013
+['Shane Lechler'],NA,week_6,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_6,Houston Texans,2013
+['Elbert Mack'],NA,week_6,Houston Texans,2013
+['Danieal Manning'],NA,week_6,Houston Texans,2013
+['Keshawn Martin'],Questionable: shoulder,week_6,Houston Texans,2013
+['Joe Mays'],NA,week_6,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_6,Houston Texans,2013
+['Whitney Mercilus'],NA,week_6,Houston Texans,2013
+['Earl Mitchell'],NA,week_6,Houston Texans,2013
+['Mike Mohamed'],NA,week_6,Houston Texans,2013
+['Sam Montgomery'],NA,week_6,Houston Texans,2013
+['Chris Myers'],Probable: biceps,week_6,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_6,Houston Texans,2013
+['Eddie Pleasant'],Probable: ankle,week_6,Houston Texans,2013
+['DeVier Posey'],Probable: Achilles,week_6,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_6,Houston Texans,2013
+['Brooks Reed'],NA,week_6,Houston Texans,2013
+['Ed Reed'],Probable: knee,week_6,Houston Texans,2013
+['Matt Schaub'],NA,week_6,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot,week_6,Houston Texans,2013
+['Brad Smelley'],NA,week_6,Houston Texans,2013
+['Antonio Smith'],Probable: quadriceps,week_6,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_6,Houston Texans,2013
+['Jawanza Starling'],NA,week_6,Houston Texans,2013
+['D.J. Swearinger'],NA,week_6,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_6,Houston Texans,2013
+['Ben Tate'],Probable: elbow,week_6,Houston Texans,2013
+['Justin Tuggle'],NA,week_6,Houston Texans,2013
+['Josh Victorian'],NA,week_6,Houston Texans,2013
+['J.J. Watt'],Probable: nose,week_6,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_6,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_6,Houston Texans,2013
+['T.J. Yates'],NA,week_6,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_7,Houston Texans,2013
+['A.J. Bouye'],NA,week_7,Houston Texans,2013
+['Bryan Braman'],NA,week_7,Houston Texans,2013
+['Brandon Brooks'],Questionable: toe,week_7,Houston Texans,2013
+['Duane Brown'],Questionable: toe,week_7,Houston Texans,2013
+['Jake Byrne'],NA,week_7,Houston Texans,2013
+['Brian Cushing'],Probable: knee,week_7,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_7,Houston Texans,2013
+['Tim Dobbins'],Questionable: hamstring,week_7,Houston Texans,2013
+['Arian Foster'],Probable: thumb/chest,week_7,Houston Texans,2013
+['Andrew Gardner'],NA,week_7,Houston Texans,2013
+['Tavares Gooden'],NA,week_7,Houston Texans,2013
+['Garrett Graham'],NA,week_7,Houston Texans,2013
+['Ryan Griffin'],NA,week_7,Houston Texans,2013
+['Ryan Harris'],NA,week_7,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_7,Houston Texans,2013
+['Kareem Jackson'],NA,week_7,Houston Texans,2013
+['Tim Jamison'],NA,week_7,Houston Texans,2013
+['Andre Johnson'],Probable: shin,week_7,Houston Texans,2013
+['Dennis Johnson'],NA,week_7,Houston Texans,2013
+['Ben Jones'],NA,week_7,Houston Texans,2013
+['Greg Jones'],Questionable: ankle,week_7,Houston Texans,2013
+['Johnathan Joseph'],NA,week_7,Houston Texans,2013
+['Deji Karim'],NA,week_7,Houston Texans,2013
+['Case Keenum'],NA,week_7,Houston Texans,2013
+['Shiloh Keo'],NA,week_7,Houston Texans,2013
+['Shane Lechler'],NA,week_7,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_7,Houston Texans,2013
+['Elbert Mack'],NA,week_7,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_7,Houston Texans,2013
+['Keshawn Martin'],Questionable: shoulder,week_7,Houston Texans,2013
+['Joe Mays'],NA,week_7,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_7,Houston Texans,2013
+['Whitney Mercilus'],NA,week_7,Houston Texans,2013
+['Earl Mitchell'],NA,week_7,Houston Texans,2013
+['Mike Mohamed'],NA,week_7,Houston Texans,2013
+['Sam Montgomery'],NA,week_7,Houston Texans,2013
+['Chris Myers'],Probable: biceps,week_7,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_7,Houston Texans,2013
+['Eddie Pleasant'],Probable: toe,week_7,Houston Texans,2013
+['DeVier Posey'],Probable: Achilles,week_7,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_7,Houston Texans,2013
+['Brooks Reed'],NA,week_7,Houston Texans,2013
+['Ed Reed'],NA,week_7,Houston Texans,2013
+['Matt Schaub'],Doubtful: ankle,week_7,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot,week_7,Houston Texans,2013
+['Brad Smelley'],NA,week_7,Houston Texans,2013
+['Antonio Smith'],NA,week_7,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_7,Houston Texans,2013
+['Jawanza Starling'],NA,week_7,Houston Texans,2013
+['D.J. Swearinger'],NA,week_7,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_7,Houston Texans,2013
+['Ben Tate'],Probable: elbow,week_7,Houston Texans,2013
+['Justin Tuggle'],NA,week_7,Houston Texans,2013
+['Josh Victorian'],NA,week_7,Houston Texans,2013
+['J.J. Watt'],NA,week_7,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_7,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_7,Houston Texans,2013
+['T.J. Yates'],NA,week_7,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_9,Houston Texans,2013
+['A.J. Bouye'],NA,week_9,Houston Texans,2013
+['Bryan Braman'],NA,week_9,Houston Texans,2013
+['Brandon Brooks'],Probable: toe,week_9,Houston Texans,2013
+['Duane Brown'],Probable: toe,week_9,Houston Texans,2013
+['Jake Byrne'],NA,week_9,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_9,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_9,Houston Texans,2013
+['Tim Dobbins'],NA,week_9,Houston Texans,2013
+['Arian Foster'],Questionable: hamstring,week_9,Houston Texans,2013
+['Andrew Gardner'],NA,week_9,Houston Texans,2013
+['Tavares Gooden'],NA,week_9,Houston Texans,2013
+['Garrett Graham'],NA,week_9,Houston Texans,2013
+['Ryan Griffin'],NA,week_9,Houston Texans,2013
+['Ryan Harris'],NA,week_9,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_9,Houston Texans,2013
+['Kareem Jackson'],NA,week_9,Houston Texans,2013
+['Tim Jamison'],NA,week_9,Houston Texans,2013
+['Andre Johnson'],NA,week_9,Houston Texans,2013
+['Dennis Johnson'],NA,week_9,Houston Texans,2013
+['Ben Jones'],NA,week_9,Houston Texans,2013
+['Greg Jones'],NA,week_9,Houston Texans,2013
+['Johnathan Joseph'],NA,week_9,Houston Texans,2013
+['Deji Karim'],NA,week_9,Houston Texans,2013
+['Case Keenum'],NA,week_9,Houston Texans,2013
+['Shiloh Keo'],Probable: achilles,week_9,Houston Texans,2013
+['Shane Lechler'],NA,week_9,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_9,Houston Texans,2013
+['Elbert Mack'],NA,week_9,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_9,Houston Texans,2013
+['Keshawn Martin'],Probable: shoulder,week_9,Houston Texans,2013
+['Joe Mays'],NA,week_9,Houston Texans,2013
+['Brice McCain'],Probable: knee,week_9,Houston Texans,2013
+['Whitney Mercilus'],NA,week_9,Houston Texans,2013
+['Earl Mitchell'],Probable: knee,week_9,Houston Texans,2013
+['Mike Mohamed'],NA,week_9,Houston Texans,2013
+['Sam Montgomery'],NA,week_9,Houston Texans,2013
+['Chris Myers'],NA,week_9,Houston Texans,2013
+['Derek Newton'],Probable: knee/elbow,week_9,Houston Texans,2013
+['Eddie Pleasant'],Probable: toe,week_9,Houston Texans,2013
+['DeVier Posey'],Probable: calf,week_9,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_9,Houston Texans,2013
+['Brooks Reed'],NA,week_9,Houston Texans,2013
+['Ed Reed'],NA,week_9,Houston Texans,2013
+['Matt Schaub'],Probable: ankle,week_9,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot/toe,week_9,Houston Texans,2013
+['Brad Smelley'],NA,week_9,Houston Texans,2013
+['Antonio Smith'],NA,week_9,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_9,Houston Texans,2013
+['Jawanza Starling'],NA,week_9,Houston Texans,2013
+['D.J. Swearinger'],NA,week_9,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_9,Houston Texans,2013
+['Ben Tate'],Questionable: ribs,week_9,Houston Texans,2013
+['Justin Tuggle'],NA,week_9,Houston Texans,2013
+['Josh Victorian'],NA,week_9,Houston Texans,2013
+['J.J. Watt'],NA,week_9,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_9,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_9,Houston Texans,2013
+['T.J. Yates'],NA,week_9,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_10,Houston Texans,2013
+['A.J. Bouye'],NA,week_10,Houston Texans,2013
+['Bryan Braman'],NA,week_10,Houston Texans,2013
+['Brandon Brooks'],Probable: foot,week_10,Houston Texans,2013
+['Duane Brown'],NA,week_10,Houston Texans,2013
+['Jake Byrne'],NA,week_10,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_10,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_10,Houston Texans,2013
+['Tim Dobbins'],NA,week_10,Houston Texans,2013
+['Arian Foster'],Questionable: back,week_10,Houston Texans,2013
+['Andrew Gardner'],Probable: knee,week_10,Houston Texans,2013
+['Tavares Gooden'],Questionable: back,week_10,Houston Texans,2013
+['Garrett Graham'],Probable: thigh,week_10,Houston Texans,2013
+['Ryan Griffin'],NA,week_10,Houston Texans,2013
+['Ryan Harris'],NA,week_10,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_10,Houston Texans,2013
+['Kareem Jackson'],NA,week_10,Houston Texans,2013
+['Tim Jamison'],NA,week_10,Houston Texans,2013
+['Andre Johnson'],NA,week_10,Houston Texans,2013
+['Dennis Johnson'],NA,week_10,Houston Texans,2013
+['Ben Jones'],NA,week_10,Houston Texans,2013
+['Greg Jones'],NA,week_10,Houston Texans,2013
+['Johnathan Joseph'],NA,week_10,Houston Texans,2013
+['Deji Karim'],NA,week_10,Houston Texans,2013
+['Case Keenum'],NA,week_10,Houston Texans,2013
+['Shiloh Keo'],Questionable: ankle,week_10,Houston Texans,2013
+['Shane Lechler'],NA,week_10,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_10,Houston Texans,2013
+['Elbert Mack'],NA,week_10,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_10,Houston Texans,2013
+['Keshawn Martin'],Probable: shoulder,week_10,Houston Texans,2013
+['Joe Mays'],NA,week_10,Houston Texans,2013
+['Brice McCain'],Probable: hip,week_10,Houston Texans,2013
+['Whitney Mercilus'],NA,week_10,Houston Texans,2013
+['Earl Mitchell'],Probable: knee,week_10,Houston Texans,2013
+['Mike Mohamed'],Questionable: hamstring,week_10,Houston Texans,2013
+['Sam Montgomery'],NA,week_10,Houston Texans,2013
+['Chris Myers'],NA,week_10,Houston Texans,2013
+['Derek Newton'],Probable: knee/elbow,week_10,Houston Texans,2013
+['Eddie Pleasant'],NA,week_10,Houston Texans,2013
+['DeVier Posey'],NA,week_10,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_10,Houston Texans,2013
+['Brooks Reed'],NA,week_10,Houston Texans,2013
+['Ed Reed'],NA,week_10,Houston Texans,2013
+['Matt Schaub'],NA,week_10,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot/toe,week_10,Houston Texans,2013
+['Brad Smelley'],NA,week_10,Houston Texans,2013
+['Antonio Smith'],NA,week_10,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_10,Houston Texans,2013
+['Jawanza Starling'],NA,week_10,Houston Texans,2013
+['D.J. Swearinger'],NA,week_10,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_10,Houston Texans,2013
+['Ben Tate'],Probable: ribs,week_10,Houston Texans,2013
+['Justin Tuggle'],NA,week_10,Houston Texans,2013
+['Josh Victorian'],NA,week_10,Houston Texans,2013
+['J.J. Watt'],NA,week_10,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_10,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_10,Houston Texans,2013
+['T.J. Yates'],NA,week_10,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_11,Houston Texans,2013
+['A.J. Bouye'],NA,week_11,Houston Texans,2013
+['Bryan Braman'],NA,week_11,Houston Texans,2013
+['Brandon Brooks'],Probable: toe/knee,week_11,Houston Texans,2013
+['Duane Brown'],NA,week_11,Houston Texans,2013
+['Jake Byrne'],NA,week_11,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_11,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_11,Houston Texans,2013
+['Tim Dobbins'],NA,week_11,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_11,Houston Texans,2013
+['Andrew Gardner'],Probable: knee,week_11,Houston Texans,2013
+['Tavares Gooden'],NA,week_11,Houston Texans,2013
+['Garrett Graham'],NA,week_11,Houston Texans,2013
+['Ryan Griffin'],Questionable: concussion,week_11,Houston Texans,2013
+['Ryan Harris'],NA,week_11,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_11,Houston Texans,2013
+['Kareem Jackson'],Doubtful: chest,week_11,Houston Texans,2013
+['Tim Jamison'],NA,week_11,Houston Texans,2013
+['Andre Johnson'],NA,week_11,Houston Texans,2013
+['Dennis Johnson'],NA,week_11,Houston Texans,2013
+['Ben Jones'],Probable: chest,week_11,Houston Texans,2013
+['Greg Jones'],NA,week_11,Houston Texans,2013
+['Johnathan Joseph'],NA,week_11,Houston Texans,2013
+['Deji Karim'],NA,week_11,Houston Texans,2013
+['Case Keenum'],NA,week_11,Houston Texans,2013
+['Shiloh Keo'],Questionable: Achilles/hamstring,week_11,Houston Texans,2013
+['Shane Lechler'],Questionable: illness,week_11,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_11,Houston Texans,2013
+['Elbert Mack'],Questionable: groin/hamstring,week_11,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_11,Houston Texans,2013
+['Keshawn Martin'],Probable: shoulder,week_11,Houston Texans,2013
+['Joe Mays'],Questionable: knee/abdomen,week_11,Houston Texans,2013
+['Brice McCain'],Probable: hip,week_11,Houston Texans,2013
+['Whitney Mercilus'],NA,week_11,Houston Texans,2013
+['Earl Mitchell'],NA,week_11,Houston Texans,2013
+['Mike Mohamed'],Questionable: hamstring,week_11,Houston Texans,2013
+['Sam Montgomery'],NA,week_11,Houston Texans,2013
+['Chris Myers'],NA,week_11,Houston Texans,2013
+['Derek Newton'],Probable: knee/elbow,week_11,Houston Texans,2013
+['Eddie Pleasant'],NA,week_11,Houston Texans,2013
+['DeVier Posey'],Probable: hip,week_11,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_11,Houston Texans,2013
+['Brooks Reed'],NA,week_11,Houston Texans,2013
+['Ed Reed'],NA,week_11,Houston Texans,2013
+['Matt Schaub'],NA,week_11,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot/toe,week_11,Houston Texans,2013
+['Brad Smelley'],NA,week_11,Houston Texans,2013
+['Antonio Smith'],NA,week_11,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_11,Houston Texans,2013
+['Jawanza Starling'],NA,week_11,Houston Texans,2013
+['D.J. Swearinger'],NA,week_11,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_11,Houston Texans,2013
+['Ben Tate'],Questionable: ribs,week_11,Houston Texans,2013
+['Justin Tuggle'],NA,week_11,Houston Texans,2013
+['Josh Victorian'],NA,week_11,Houston Texans,2013
+['J.J. Watt'],Probable: elbow,week_11,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_11,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_11,Houston Texans,2013
+['T.J. Yates'],NA,week_11,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_12,Houston Texans,2013
+['A.J. Bouye'],NA,week_12,Houston Texans,2013
+['Bryan Braman'],NA,week_12,Houston Texans,2013
+['Brandon Brooks'],NA,week_12,Houston Texans,2013
+['Duane Brown'],Probable: illness,week_12,Houston Texans,2013
+['Jake Byrne'],NA,week_12,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_12,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_12,Houston Texans,2013
+['Tim Dobbins'],NA,week_12,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_12,Houston Texans,2013
+['Andrew Gardner'],NA,week_12,Houston Texans,2013
+['Tavares Gooden'],NA,week_12,Houston Texans,2013
+['Garrett Graham'],NA,week_12,Houston Texans,2013
+['Ryan Griffin'],Probable: concussion,week_12,Houston Texans,2013
+['Ryan Harris'],NA,week_12,Houston Texans,2013
+['DeAndre Hopkins'],Questionable: illness,week_12,Houston Texans,2013
+['Kareem Jackson'],Questionable: ribs,week_12,Houston Texans,2013
+['Tim Jamison'],NA,week_12,Houston Texans,2013
+['Andre Johnson'],NA,week_12,Houston Texans,2013
+['Dennis Johnson'],NA,week_12,Houston Texans,2013
+['Ben Jones'],Probable: ankle,week_12,Houston Texans,2013
+['Greg Jones'],NA,week_12,Houston Texans,2013
+['Johnathan Joseph'],NA,week_12,Houston Texans,2013
+['Deji Karim'],NA,week_12,Houston Texans,2013
+['Case Keenum'],NA,week_12,Houston Texans,2013
+['Shiloh Keo'],Probable: Achilles/hamstring,week_12,Houston Texans,2013
+['Shane Lechler'],NA,week_12,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_12,Houston Texans,2013
+['Elbert Mack'],Questionable: hamstring,week_12,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_12,Houston Texans,2013
+['Keshawn Martin'],NA,week_12,Houston Texans,2013
+['Joe Mays'],Questionable: knee/abdomen,week_12,Houston Texans,2013
+['Brice McCain'],NA,week_12,Houston Texans,2013
+['Whitney Mercilus'],NA,week_12,Houston Texans,2013
+['Earl Mitchell'],NA,week_12,Houston Texans,2013
+['Mike Mohamed'],Questionable: hamstring,week_12,Houston Texans,2013
+['Sam Montgomery'],NA,week_12,Houston Texans,2013
+['Chris Myers'],Questionable: throat,week_12,Houston Texans,2013
+['Derek Newton'],Probable: knee/elbow,week_12,Houston Texans,2013
+['Eddie Pleasant'],NA,week_12,Houston Texans,2013
+['DeVier Posey'],NA,week_12,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_12,Houston Texans,2013
+['Brooks Reed'],NA,week_12,Houston Texans,2013
+['Ed Reed'],NA,week_12,Houston Texans,2013
+['Matt Schaub'],NA,week_12,Houston Texans,2013
+['Darryl Sharpton'],Questionable: foot/toe/back,week_12,Houston Texans,2013
+['Brad Smelley'],NA,week_12,Houston Texans,2013
+['Antonio Smith'],NA,week_12,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_12,Houston Texans,2013
+['Jawanza Starling'],Questionable: hamstring,week_12,Houston Texans,2013
+['D.J. Swearinger'],NA,week_12,Houston Texans,2013
+['Jeff Tarpinian'],Questionable: groin,week_12,Houston Texans,2013
+['Ben Tate'],Probable: ribs,week_12,Houston Texans,2013
+['Justin Tuggle'],NA,week_12,Houston Texans,2013
+['Josh Victorian'],NA,week_12,Houston Texans,2013
+['J.J. Watt'],Probable: back,week_12,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_12,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_12,Houston Texans,2013
+['T.J. Yates'],NA,week_12,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_13,Houston Texans,2013
+['A.J. Bouye'],NA,week_13,Houston Texans,2013
+['Bryan Braman'],NA,week_13,Houston Texans,2013
+['Brandon Brooks'],NA,week_13,Houston Texans,2013
+['Duane Brown'],NA,week_13,Houston Texans,2013
+['Jake Byrne'],NA,week_13,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_13,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_13,Houston Texans,2013
+['Tim Dobbins'],NA,week_13,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_13,Houston Texans,2013
+['Andrew Gardner'],NA,week_13,Houston Texans,2013
+['Tavares Gooden'],NA,week_13,Houston Texans,2013
+['Garrett Graham'],NA,week_13,Houston Texans,2013
+['Ryan Griffin'],NA,week_13,Houston Texans,2013
+['Ryan Harris'],NA,week_13,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_13,Houston Texans,2013
+['Kareem Jackson'],Questionable: ribs,week_13,Houston Texans,2013
+['Tim Jamison'],NA,week_13,Houston Texans,2013
+['Andre Johnson'],NA,week_13,Houston Texans,2013
+['Dennis Johnson'],NA,week_13,Houston Texans,2013
+['Ben Jones'],NA,week_13,Houston Texans,2013
+['Greg Jones'],NA,week_13,Houston Texans,2013
+['Johnathan Joseph'],NA,week_13,Houston Texans,2013
+['Deji Karim'],NA,week_13,Houston Texans,2013
+['Case Keenum'],NA,week_13,Houston Texans,2013
+['Shiloh Keo'],Probable: neck,week_13,Houston Texans,2013
+['Shane Lechler'],NA,week_13,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_13,Houston Texans,2013
+['Elbert Mack'],Probable: hamstring,week_13,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_13,Houston Texans,2013
+['Keshawn Martin'],NA,week_13,Houston Texans,2013
+['Joe Mays'],Probable: knee,week_13,Houston Texans,2013
+['Brice McCain'],Questionable: hamstring,week_13,Houston Texans,2013
+['Whitney Mercilus'],NA,week_13,Houston Texans,2013
+['Earl Mitchell'],NA,week_13,Houston Texans,2013
+['Mike Mohamed'],Questionable: hamstring,week_13,Houston Texans,2013
+['Sam Montgomery'],NA,week_13,Houston Texans,2013
+['Chris Myers'],NA,week_13,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_13,Houston Texans,2013
+['Eddie Pleasant'],NA,week_13,Houston Texans,2013
+['DeVier Posey'],NA,week_13,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_13,Houston Texans,2013
+['Brooks Reed'],NA,week_13,Houston Texans,2013
+['Ed Reed'],NA,week_13,Houston Texans,2013
+['Matt Schaub'],NA,week_13,Houston Texans,2013
+['Darryl Sharpton'],Questionable: back,week_13,Houston Texans,2013
+['Brad Smelley'],NA,week_13,Houston Texans,2013
+['Antonio Smith'],NA,week_13,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_13,Houston Texans,2013
+['Jawanza Starling'],Questionable: hamstring,week_13,Houston Texans,2013
+['D.J. Swearinger'],NA,week_13,Houston Texans,2013
+['Jeff Tarpinian'],Questionable: groin,week_13,Houston Texans,2013
+['Ben Tate'],Probable: ribs,week_13,Houston Texans,2013
+['Justin Tuggle'],NA,week_13,Houston Texans,2013
+['Josh Victorian'],NA,week_13,Houston Texans,2013
+['J.J. Watt'],NA,week_13,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_13,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_13,Houston Texans,2013
+['T.J. Yates'],NA,week_13,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_14,Houston Texans,2013
+['A.J. Bouye'],NA,week_14,Houston Texans,2013
+['Bryan Braman'],NA,week_14,Houston Texans,2013
+['Brandon Brooks'],NA,week_14,Houston Texans,2013
+['Duane Brown'],NA,week_14,Houston Texans,2013
+['Jake Byrne'],NA,week_14,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_14,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_14,Houston Texans,2013
+['Tim Dobbins'],NA,week_14,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_14,Houston Texans,2013
+['Andrew Gardner'],NA,week_14,Houston Texans,2013
+['Tavares Gooden'],NA,week_14,Houston Texans,2013
+['Garrett Graham'],NA,week_14,Houston Texans,2013
+['Ryan Griffin'],NA,week_14,Houston Texans,2013
+['Ryan Harris'],NA,week_14,Houston Texans,2013
+['DeAndre Hopkins'],NA,week_14,Houston Texans,2013
+['Kareem Jackson'],Probable: ribs,week_14,Houston Texans,2013
+['Tim Jamison'],NA,week_14,Houston Texans,2013
+['Andre Johnson'],NA,week_14,Houston Texans,2013
+['Dennis Johnson'],NA,week_14,Houston Texans,2013
+['Ben Jones'],NA,week_14,Houston Texans,2013
+['Greg Jones'],Questionable: knee,week_14,Houston Texans,2013
+['Johnathan Joseph'],Probable: groin,week_14,Houston Texans,2013
+['Deji Karim'],NA,week_14,Houston Texans,2013
+['Case Keenum'],NA,week_14,Houston Texans,2013
+['Shiloh Keo'],Probable: neck,week_14,Houston Texans,2013
+['Shane Lechler'],NA,week_14,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_14,Houston Texans,2013
+['Elbert Mack'],NA,week_14,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_14,Houston Texans,2013
+['Keshawn Martin'],NA,week_14,Houston Texans,2013
+['Joe Mays'],Probable: knee,week_14,Houston Texans,2013
+['Brice McCain'],Probable: hamstring,week_14,Houston Texans,2013
+['Whitney Mercilus'],NA,week_14,Houston Texans,2013
+['Earl Mitchell'],NA,week_14,Houston Texans,2013
+['Mike Mohamed'],Probable: hamstring,week_14,Houston Texans,2013
+['Sam Montgomery'],NA,week_14,Houston Texans,2013
+['Chris Myers'],Probable: elbow,week_14,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_14,Houston Texans,2013
+['Eddie Pleasant'],NA,week_14,Houston Texans,2013
+['DeVier Posey'],NA,week_14,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_14,Houston Texans,2013
+['Brooks Reed'],NA,week_14,Houston Texans,2013
+['Ed Reed'],NA,week_14,Houston Texans,2013
+['Matt Schaub'],NA,week_14,Houston Texans,2013
+['Darryl Sharpton'],Probable: knee,week_14,Houston Texans,2013
+['Brad Smelley'],NA,week_14,Houston Texans,2013
+['Antonio Smith'],NA,week_14,Houston Texans,2013
+['Wade Smith'],Probable: knee,week_14,Houston Texans,2013
+['Jawanza Starling'],Questionable: hamstring,week_14,Houston Texans,2013
+['D.J. Swearinger'],Probable: foot,week_14,Houston Texans,2013
+['Jeff Tarpinian'],Probable: groin,week_14,Houston Texans,2013
+['Ben Tate'],Probable: ribs/ankle,week_14,Houston Texans,2013
+['Justin Tuggle'],NA,week_14,Houston Texans,2013
+['Josh Victorian'],NA,week_14,Houston Texans,2013
+['J.J. Watt'],NA,week_14,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_14,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_14,Houston Texans,2013
+['T.J. Yates'],NA,week_14,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_15,Houston Texans,2013
+['A.J. Bouye'],NA,week_15,Houston Texans,2013
+['Bryan Braman'],NA,week_15,Houston Texans,2013
+['Brandon Brooks'],NA,week_15,Houston Texans,2013
+['Duane Brown'],NA,week_15,Houston Texans,2013
+['Jake Byrne'],Questionable: illness,week_15,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_15,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_15,Houston Texans,2013
+['Tim Dobbins'],NA,week_15,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_15,Houston Texans,2013
+['Andrew Gardner'],NA,week_15,Houston Texans,2013
+['Tavares Gooden'],NA,week_15,Houston Texans,2013
+['Garrett Graham'],Questionable: hamstring,week_15,Houston Texans,2013
+['Ryan Griffin'],NA,week_15,Houston Texans,2013
+['Ryan Harris'],NA,week_15,Houston Texans,2013
+['DeAndre Hopkins'],Questionable: ankle,week_15,Houston Texans,2013
+['Kareem Jackson'],Probable: ribs,week_15,Houston Texans,2013
+['Tim Jamison'],NA,week_15,Houston Texans,2013
+['Andre Johnson'],NA,week_15,Houston Texans,2013
+['Dennis Johnson'],NA,week_15,Houston Texans,2013
+['Ben Jones'],NA,week_15,Houston Texans,2013
+['Greg Jones'],Questionable: knee,week_15,Houston Texans,2013
+['Johnathan Joseph'],Probable: groin,week_15,Houston Texans,2013
+['Deji Karim'],NA,week_15,Houston Texans,2013
+['Case Keenum'],Probable: shoulder,week_15,Houston Texans,2013
+['Shiloh Keo'],Questionable: illness,week_15,Houston Texans,2013
+['Shane Lechler'],NA,week_15,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_15,Houston Texans,2013
+['Elbert Mack'],NA,week_15,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_15,Houston Texans,2013
+['Keshawn Martin'],NA,week_15,Houston Texans,2013
+['Joe Mays'],Probable: knee,week_15,Houston Texans,2013
+['Brice McCain'],Probable: groin,week_15,Houston Texans,2013
+['Whitney Mercilus'],NA,week_15,Houston Texans,2013
+['Earl Mitchell'],NA,week_15,Houston Texans,2013
+['Mike Mohamed'],NA,week_15,Houston Texans,2013
+['Sam Montgomery'],NA,week_15,Houston Texans,2013
+['Chris Myers'],NA,week_15,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_15,Houston Texans,2013
+['Eddie Pleasant'],NA,week_15,Houston Texans,2013
+['DeVier Posey'],NA,week_15,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_15,Houston Texans,2013
+['Brooks Reed'],NA,week_15,Houston Texans,2013
+['Ed Reed'],NA,week_15,Houston Texans,2013
+['Matt Schaub'],NA,week_15,Houston Texans,2013
+['Darryl Sharpton'],Questionable: wrist,week_15,Houston Texans,2013
+['Brad Smelley'],NA,week_15,Houston Texans,2013
+['Antonio Smith'],NA,week_15,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_15,Houston Texans,2013
+['Jawanza Starling'],NA,week_15,Houston Texans,2013
+['D.J. Swearinger'],Probable: foot,week_15,Houston Texans,2013
+['Jeff Tarpinian'],Probable: groin,week_15,Houston Texans,2013
+['Ben Tate'],Questionable: ribs,week_15,Houston Texans,2013
+['Justin Tuggle'],NA,week_15,Houston Texans,2013
+['Josh Victorian'],Probable: back,week_15,Houston Texans,2013
+['J.J. Watt'],NA,week_15,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_15,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_15,Houston Texans,2013
+['T.J. Yates'],Probable: back,week_15,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_16,Houston Texans,2013
+['A.J. Bouye'],NA,week_16,Houston Texans,2013
+['Bryan Braman'],NA,week_16,Houston Texans,2013
+['Brandon Brooks'],NA,week_16,Houston Texans,2013
+['Duane Brown'],NA,week_16,Houston Texans,2013
+['Jake Byrne'],NA,week_16,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_16,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_16,Houston Texans,2013
+['Tim Dobbins'],NA,week_16,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_16,Houston Texans,2013
+['Andrew Gardner'],NA,week_16,Houston Texans,2013
+['Tavares Gooden'],NA,week_16,Houston Texans,2013
+['Garrett Graham'],Questionable: hamstring,week_16,Houston Texans,2013
+['Ryan Griffin'],NA,week_16,Houston Texans,2013
+['Ryan Harris'],NA,week_16,Houston Texans,2013
+['DeAndre Hopkins'],Probable: ankle,week_16,Houston Texans,2013
+['Kareem Jackson'],NA,week_16,Houston Texans,2013
+['Tim Jamison'],NA,week_16,Houston Texans,2013
+['Andre Johnson'],Questionable: wrist,week_16,Houston Texans,2013
+['Dennis Johnson'],NA,week_16,Houston Texans,2013
+['Ben Jones'],NA,week_16,Houston Texans,2013
+['Greg Jones'],Questionable: knee,week_16,Houston Texans,2013
+['Johnathan Joseph'],Questionable: groin,week_16,Houston Texans,2013
+['Deji Karim'],NA,week_16,Houston Texans,2013
+['Case Keenum'],Out: thumb,week_16,Houston Texans,2013
+['Shiloh Keo'],NA,week_16,Houston Texans,2013
+['Shane Lechler'],NA,week_16,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_16,Houston Texans,2013
+['Elbert Mack'],NA,week_16,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_16,Houston Texans,2013
+['Keshawn Martin'],NA,week_16,Houston Texans,2013
+['Joe Mays'],Questionable: knee,week_16,Houston Texans,2013
+['Brice McCain'],NA,week_16,Houston Texans,2013
+['Whitney Mercilus'],NA,week_16,Houston Texans,2013
+['Earl Mitchell'],NA,week_16,Houston Texans,2013
+['Mike Mohamed'],NA,week_16,Houston Texans,2013
+['Sam Montgomery'],NA,week_16,Houston Texans,2013
+['Chris Myers'],NA,week_16,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_16,Houston Texans,2013
+['Eddie Pleasant'],NA,week_16,Houston Texans,2013
+['DeVier Posey'],Questionable: ankle,week_16,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_16,Houston Texans,2013
+['Brooks Reed'],NA,week_16,Houston Texans,2013
+['Ed Reed'],NA,week_16,Houston Texans,2013
+['Matt Schaub'],NA,week_16,Houston Texans,2013
+['Darryl Sharpton'],Questionable: ankle,week_16,Houston Texans,2013
+['Brad Smelley'],Probable: back,week_16,Houston Texans,2013
+['Antonio Smith'],Questionable: knee,week_16,Houston Texans,2013
+['Wade Smith'],Questionable: knee,week_16,Houston Texans,2013
+['Jawanza Starling'],NA,week_16,Houston Texans,2013
+['D.J. Swearinger'],Probable: foot,week_16,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_16,Houston Texans,2013
+['Ben Tate'],Injured Reserve: ribs,week_16,Houston Texans,2013
+['Justin Tuggle'],Questionable: elbow,week_16,Houston Texans,2013
+['Josh Victorian'],Probable: back,week_16,Houston Texans,2013
+['J.J. Watt'],Probable: hand,week_16,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_16,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_16,Houston Texans,2013
+['T.J. Yates'],Probable: back,week_16,Houston Texans,2013
+['Alan Bonner'],Injured Reserve: hamstring,week_17,Houston Texans,2013
+['A.J. Bouye'],NA,week_17,Houston Texans,2013
+['Bryan Braman'],NA,week_17,Houston Texans,2013
+['Brandon Brooks'],NA,week_17,Houston Texans,2013
+['Duane Brown'],NA,week_17,Houston Texans,2013
+['Jake Byrne'],NA,week_17,Houston Texans,2013
+['Brian Cushing'],Injured Reserve: knee,week_17,Houston Texans,2013
+['Owen Daniels'],Injured Reserve: fibula,week_17,Houston Texans,2013
+['Tim Dobbins'],NA,week_17,Houston Texans,2013
+['Arian Foster'],Injured Reserve: back,week_17,Houston Texans,2013
+['Andrew Gardner'],NA,week_17,Houston Texans,2013
+['Tavares Gooden'],NA,week_17,Houston Texans,2013
+['Garrett Graham'],Out: hamstring,week_17,Houston Texans,2013
+['Ryan Griffin'],Questionable: knee,week_17,Houston Texans,2013
+['Ryan Harris'],NA,week_17,Houston Texans,2013
+['DeAndre Hopkins'],Probable: ankle,week_17,Houston Texans,2013
+['Kareem Jackson'],NA,week_17,Houston Texans,2013
+['Tim Jamison'],NA,week_17,Houston Texans,2013
+['Andre Johnson'],Probable: wrist,week_17,Houston Texans,2013
+['Dennis Johnson'],Questionable: hip,week_17,Houston Texans,2013
+['Ben Jones'],NA,week_17,Houston Texans,2013
+['Greg Jones'],Questionable: knee,week_17,Houston Texans,2013
+['Johnathan Joseph'],Injured Reserve: foot,week_17,Houston Texans,2013
+['Deji Karim'],Injured Reserve: collarbone,week_17,Houston Texans,2013
+['Case Keenum'],Probable: thumb,week_17,Houston Texans,2013
+['Shiloh Keo'],NA,week_17,Houston Texans,2013
+['Shane Lechler'],NA,week_17,Houston Texans,2013
+['Alec Lemon'],Injured Reserve: hamstring,week_17,Houston Texans,2013
+['Elbert Mack'],NA,week_17,Houston Texans,2013
+['Danieal Manning'],Injured Reserve: fibula,week_17,Houston Texans,2013
+['Keshawn Martin'],NA,week_17,Houston Texans,2013
+['Joe Mays'],Questionable: knee,week_17,Houston Texans,2013
+['Brice McCain'],NA,week_17,Houston Texans,2013
+['Whitney Mercilus'],NA,week_17,Houston Texans,2013
+['Earl Mitchell'],NA,week_17,Houston Texans,2013
+['Mike Mohamed'],NA,week_17,Houston Texans,2013
+['Sam Montgomery'],NA,week_17,Houston Texans,2013
+['Chris Myers'],NA,week_17,Houston Texans,2013
+['Derek Newton'],Probable: knee,week_17,Houston Texans,2013
+['Eddie Pleasant'],NA,week_17,Houston Texans,2013
+['DeVier Posey'],Questionable: ankle,week_17,Houston Texans,2013
+['David Quessenberry'],Injured Reserve: foot,week_17,Houston Texans,2013
+['Brooks Reed'],Probable: thumb,week_17,Houston Texans,2013
+['Ed Reed'],NA,week_17,Houston Texans,2013
+['Matt Schaub'],NA,week_17,Houston Texans,2013
+['Darryl Sharpton'],Questionable: knee,week_17,Houston Texans,2013
+['Brad Smelley'],Questionable: calf,week_17,Houston Texans,2013
+['Antonio Smith'],Questionable: knee,week_17,Houston Texans,2013
+['Wade Smith'],Probable: knee,week_17,Houston Texans,2013
+['Jawanza Starling'],NA,week_17,Houston Texans,2013
+['D.J. Swearinger'],Probable: foot,week_17,Houston Texans,2013
+['Jeff Tarpinian'],NA,week_17,Houston Texans,2013
+['Ben Tate'],Injured Reserve: ribs,week_17,Houston Texans,2013
+['Justin Tuggle'],Probable: elbow,week_17,Houston Texans,2013
+['Josh Victorian'],Probable: back,week_17,Houston Texans,2013
+['J.J. Watt'],NA,week_17,Houston Texans,2013
+['Brennan Williams'],Injured Reserve: knee,week_17,Houston Texans,2013
+['Trevardo Williams'],Injured Reserve: leg,week_17,Houston Texans,2013
+['T.J. Yates'],Probable: back,week_17,Houston Texans,2013

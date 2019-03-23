@@ -1,0 +1,851 @@
+﻿name,injury,week,team,year
+['Joe Adams'],Injured Reserve: calf,week_1,Carolina Panthers,2013
+['Kenjon Barner'],Questionable: foot,week_1,Carolina Panthers,2013
+['Jon Beason'],Questionable: knee,week_1,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_1,Carolina Panthers,2013
+['Jeff Byers'],NA,week_1,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_1,Carolina Panthers,2013
+['D.J. Campbell'],Injured Reserve: hamstring,week_1,Carolina Panthers,2013
+['Nate Chandler'],NA,week_1,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_1,Carolina Panthers,2013
+['Colin Cole'],NA,week_1,Carolina Panthers,2013
+['Thomas Davis'],NA,week_1,Carolina Panthers,2013
+['James Dockery'],Questionable: thumb,week_1,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_1,Carolina Panthers,2013
+['Drayton Florence'],NA,week_1,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_1,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_1,Carolina Panthers,2013
+['Charles Godfrey'],NA,week_1,Carolina Panthers,2013
+['Jordan Gross'],NA,week_1,Carolina Panthers,2013
+['Greg Hardy'],NA,week_1,Carolina Panthers,2013
+['Ben Hartsock'],Questionable: foot,week_1,Carolina Panthers,2013
+['Domenik Hixon'],Questionable: hamstring,week_1,Carolina Panthers,2013
+['Charles Johnson'],NA,week_1,Carolina Panthers,2013
+['Frank Kearse'],Injured Reserve: knee,week_1,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_1,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_1,Carolina Panthers,2013
+['Robert Lester'],NA,week_1,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_1,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_1,Carolina Panthers,2013
+['Mike Mitchell'],Questionable: calf,week_1,Carolina Panthers,2013
+['D.J. Moore'],NA,week_1,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_1,Carolina Panthers,2013
+['Cam Newton'],NA,week_1,Carolina Panthers,2013
+['Josh Norman'],NA,week_1,Carolina Panthers,2013
+['Greg Olsen'],NA,week_1,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_1,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_1,Carolina Panthers,2013
+['Chris Scott'],NA,week_1,Carolina Panthers,2013
+['Jordan Senn'],NA,week_1,Carolina Panthers,2013
+['Kawann Short'],NA,week_1,Carolina Panthers,2013
+['Amini Silatolu'],Questionable: hamstring,week_1,Carolina Panthers,2013
+['Steve Smith'],NA,week_1,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_1,Carolina Panthers,2013
+['Josh Thomas'],NA,week_1,Carolina Panthers,2013
+['Mike Tolbert'],Questionable: hamstring,week_1,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_1,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_1,Carolina Panthers,2013
+['Melvin White'],NA,week_1,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_1,Carolina Panthers,2013
+['Garry Williams'],NA,week_1,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_1,Carolina Panthers,2013
+['Joe Adams'],Injured Reserve: calf,week_2,Carolina Panthers,2013
+['Kenjon Barner'],Doubtful: foot,week_2,Carolina Panthers,2013
+['Jon Beason'],Questionable: knee,week_2,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_2,Carolina Panthers,2013
+['Jeff Byers'],NA,week_2,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_2,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_2,Carolina Panthers,2013
+['Nate Chandler'],NA,week_2,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_2,Carolina Panthers,2013
+['Colin Cole'],NA,week_2,Carolina Panthers,2013
+['Thomas Davis'],NA,week_2,Carolina Panthers,2013
+['James Dockery'],Questionable: thumb,week_2,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_2,Carolina Panthers,2013
+['Drayton Florence'],NA,week_2,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_2,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_2,Carolina Panthers,2013
+['Charles Godfrey'],NA,week_2,Carolina Panthers,2013
+['Jordan Gross'],NA,week_2,Carolina Panthers,2013
+['Greg Hardy'],NA,week_2,Carolina Panthers,2013
+['Ben Hartsock'],Probable: foot,week_2,Carolina Panthers,2013
+['Domenik Hixon'],Questionable: hamstring,week_2,Carolina Panthers,2013
+['Charles Johnson'],NA,week_2,Carolina Panthers,2013
+['Frank Kearse'],Injured Reserve: knee,week_2,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_2,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_2,Carolina Panthers,2013
+['Robert Lester'],NA,week_2,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_2,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_2,Carolina Panthers,2013
+['Mike Mitchell'],Probable: calf,week_2,Carolina Panthers,2013
+['D.J. Moore'],NA,week_2,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_2,Carolina Panthers,2013
+['Cam Newton'],NA,week_2,Carolina Panthers,2013
+['Josh Norman'],NA,week_2,Carolina Panthers,2013
+['Greg Olsen'],NA,week_2,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_2,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_2,Carolina Panthers,2013
+['Chris Scott'],NA,week_2,Carolina Panthers,2013
+['Jordan Senn'],NA,week_2,Carolina Panthers,2013
+['Kawann Short'],NA,week_2,Carolina Panthers,2013
+['Amini Silatolu'],Questionable: foot,week_2,Carolina Panthers,2013
+['Steve Smith'],NA,week_2,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_2,Carolina Panthers,2013
+['Josh Thomas'],Questionable: head,week_2,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_2,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_2,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_2,Carolina Panthers,2013
+['Melvin White'],NA,week_2,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_2,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_2,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_2,Carolina Panthers,2013
+['Joe Adams'],NA,week_3,Carolina Panthers,2013
+['Kenjon Barner'],Doubtful: foot,week_3,Carolina Panthers,2013
+['Jon Beason'],Probable: knee,week_3,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_3,Carolina Panthers,2013
+['Jeff Byers'],NA,week_3,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_3,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_3,Carolina Panthers,2013
+['Nate Chandler'],NA,week_3,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_3,Carolina Panthers,2013
+['Colin Cole'],NA,week_3,Carolina Panthers,2013
+['Thomas Davis'],Questionable: leg,week_3,Carolina Panthers,2013
+['James Dockery'],Questionable: thumb,week_3,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_3,Carolina Panthers,2013
+['Drayton Florence'],NA,week_3,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_3,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_3,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_3,Carolina Panthers,2013
+['Jordan Gross'],NA,week_3,Carolina Panthers,2013
+['Greg Hardy'],NA,week_3,Carolina Panthers,2013
+['Ben Hartsock'],Questionable: goot,week_3,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_3,Carolina Panthers,2013
+['Charles Johnson'],NA,week_3,Carolina Panthers,2013
+['Frank Kearse'],NA,week_3,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_3,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_3,Carolina Panthers,2013
+['Robert Lester'],NA,week_3,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_3,Carolina Panthers,2013
+['Quintin Mikell'],Questionable: ankle,week_3,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_3,Carolina Panthers,2013
+['D.J. Moore'],Out: knee,week_3,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_3,Carolina Panthers,2013
+['Cam Newton'],NA,week_3,Carolina Panthers,2013
+['Josh Norman'],NA,week_3,Carolina Panthers,2013
+['Greg Olsen'],NA,week_3,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_3,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_3,Carolina Panthers,2013
+['Chris Scott'],NA,week_3,Carolina Panthers,2013
+['Jordan Senn'],NA,week_3,Carolina Panthers,2013
+['Kawann Short'],NA,week_3,Carolina Panthers,2013
+['Amini Silatolu'],NA,week_3,Carolina Panthers,2013
+['Steve Smith'],Questionable: leg,week_3,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_3,Carolina Panthers,2013
+['Josh Thomas'],Questionable: concussion,week_3,Carolina Panthers,2013
+['Mike Tolbert'],Questionable: knee,week_3,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_3,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_3,Carolina Panthers,2013
+['Melvin White'],NA,week_3,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_3,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_3,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_3,Carolina Panthers,2013
+['Joe Adams'],NA,week_5,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_5,Carolina Panthers,2013
+['Jon Beason'],NA,week_5,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_5,Carolina Panthers,2013
+['Jeff Byers'],NA,week_5,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_5,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_5,Carolina Panthers,2013
+['Nate Chandler'],NA,week_5,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_5,Carolina Panthers,2013
+['Colin Cole'],NA,week_5,Carolina Panthers,2013
+['Thomas Davis'],NA,week_5,Carolina Panthers,2013
+['James Dockery'],NA,week_5,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_5,Carolina Panthers,2013
+['Drayton Florence'],NA,week_5,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_5,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_5,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_5,Carolina Panthers,2013
+['Jordan Gross'],NA,week_5,Carolina Panthers,2013
+['Greg Hardy'],Questionable: illness,week_5,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_5,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_5,Carolina Panthers,2013
+['Charles Johnson'],NA,week_5,Carolina Panthers,2013
+['Frank Kearse'],NA,week_5,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_5,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_5,Carolina Panthers,2013
+['Robert Lester'],NA,week_5,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_5,Carolina Panthers,2013
+['Quintin Mikell'],Questionable: ankle,week_5,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_5,Carolina Panthers,2013
+['D.J. Moore'],Questionable: knee,week_5,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_5,Carolina Panthers,2013
+['Cam Newton'],NA,week_5,Carolina Panthers,2013
+['Josh Norman'],NA,week_5,Carolina Panthers,2013
+['Greg Olsen'],NA,week_5,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_5,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_5,Carolina Panthers,2013
+['Chris Scott'],NA,week_5,Carolina Panthers,2013
+['Jordan Senn'],NA,week_5,Carolina Panthers,2013
+['Kawann Short'],Questionable: ankle,week_5,Carolina Panthers,2013
+['Amini Silatolu'],NA,week_5,Carolina Panthers,2013
+['Steve Smith'],NA,week_5,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_5,Carolina Panthers,2013
+['Josh Thomas'],NA,week_5,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_5,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_5,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_5,Carolina Panthers,2013
+['Melvin White'],NA,week_5,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_5,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_5,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_5,Carolina Panthers,2013
+['Joe Adams'],NA,week_6,Carolina Panthers,2013
+['Kenjon Barner'],Doubtful: foot,week_6,Carolina Panthers,2013
+['Jon Beason'],NA,week_6,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_6,Carolina Panthers,2013
+['Jeff Byers'],NA,week_6,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_6,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_6,Carolina Panthers,2013
+['Nate Chandler'],NA,week_6,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_6,Carolina Panthers,2013
+['Colin Cole'],Questionable: shoulder,week_6,Carolina Panthers,2013
+['Thomas Davis'],NA,week_6,Carolina Panthers,2013
+['James Dockery'],NA,week_6,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_6,Carolina Panthers,2013
+['Drayton Florence'],NA,week_6,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_6,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_6,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_6,Carolina Panthers,2013
+['Jordan Gross'],NA,week_6,Carolina Panthers,2013
+['Greg Hardy'],NA,week_6,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_6,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_6,Carolina Panthers,2013
+['Charles Johnson'],NA,week_6,Carolina Panthers,2013
+['Frank Kearse'],NA,week_6,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_6,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_6,Carolina Panthers,2013
+['Robert Lester'],Questionable: hamstring,week_6,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_6,Carolina Panthers,2013
+['Quintin Mikell'],Probable: ankle,week_6,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_6,Carolina Panthers,2013
+['D.J. Moore'],Questionable: knee,week_6,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_6,Carolina Panthers,2013
+['Cam Newton'],NA,week_6,Carolina Panthers,2013
+['Josh Norman'],NA,week_6,Carolina Panthers,2013
+['Greg Olsen'],Questionable: foot/ankle,week_6,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_6,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_6,Carolina Panthers,2013
+['Chris Scott'],NA,week_6,Carolina Panthers,2013
+['Jordan Senn'],NA,week_6,Carolina Panthers,2013
+['Kawann Short'],NA,week_6,Carolina Panthers,2013
+['Amini Silatolu'],Out: knee,week_6,Carolina Panthers,2013
+['Steve Smith'],NA,week_6,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_6,Carolina Panthers,2013
+['Josh Thomas'],NA,week_6,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_6,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_6,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_6,Carolina Panthers,2013
+['Melvin White'],NA,week_6,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_6,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_6,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_6,Carolina Panthers,2013
+['Joe Adams'],NA,week_7,Carolina Panthers,2013
+['Kenjon Barner'],Probable: foot,week_7,Carolina Panthers,2013
+['Jon Beason'],NA,week_7,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_7,Carolina Panthers,2013
+['Jeff Byers'],NA,week_7,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_7,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_7,Carolina Panthers,2013
+['Nate Chandler'],NA,week_7,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_7,Carolina Panthers,2013
+['Colin Cole'],NA,week_7,Carolina Panthers,2013
+['Thomas Davis'],NA,week_7,Carolina Panthers,2013
+['James Dockery'],NA,week_7,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: thigh,week_7,Carolina Panthers,2013
+['Drayton Florence'],NA,week_7,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_7,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_7,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_7,Carolina Panthers,2013
+['Jordan Gross'],NA,week_7,Carolina Panthers,2013
+['Greg Hardy'],NA,week_7,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_7,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_7,Carolina Panthers,2013
+['Charles Johnson'],NA,week_7,Carolina Panthers,2013
+['Frank Kearse'],NA,week_7,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_7,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_7,Carolina Panthers,2013
+['Robert Lester'],Probable: hamstring,week_7,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_7,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_7,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_7,Carolina Panthers,2013
+['D.J. Moore'],Questionable: knee,week_7,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_7,Carolina Panthers,2013
+['Cam Newton'],NA,week_7,Carolina Panthers,2013
+['Josh Norman'],NA,week_7,Carolina Panthers,2013
+['Greg Olsen'],Questionable: foot,week_7,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_7,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_7,Carolina Panthers,2013
+['Chris Scott'],NA,week_7,Carolina Panthers,2013
+['Jordan Senn'],NA,week_7,Carolina Panthers,2013
+['Kawann Short'],NA,week_7,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_7,Carolina Panthers,2013
+['Steve Smith'],NA,week_7,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_7,Carolina Panthers,2013
+['Josh Thomas'],NA,week_7,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_7,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_7,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_7,Carolina Panthers,2013
+['Melvin White'],Questionable: concussion,week_7,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_7,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_7,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_7,Carolina Panthers,2013
+['Joe Adams'],NA,week_8,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_8,Carolina Panthers,2013
+['Jon Beason'],NA,week_8,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_8,Carolina Panthers,2013
+['Jeff Byers'],NA,week_8,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_8,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_8,Carolina Panthers,2013
+['Nate Chandler'],NA,week_8,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_8,Carolina Panthers,2013
+['Colin Cole'],NA,week_8,Carolina Panthers,2013
+['Thomas Davis'],NA,week_8,Carolina Panthers,2013
+['James Dockery'],NA,week_8,Carolina Panthers,2013
+['Dwan Edwards'],Out: thigh,week_8,Carolina Panthers,2013
+['Drayton Florence'],NA,week_8,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_8,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_8,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_8,Carolina Panthers,2013
+['Jordan Gross'],NA,week_8,Carolina Panthers,2013
+['Greg Hardy'],NA,week_8,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_8,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_8,Carolina Panthers,2013
+['Charles Johnson'],NA,week_8,Carolina Panthers,2013
+['Frank Kearse'],NA,week_8,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_8,Carolina Panthers,2013
+['Brandon LaFell'],Probable: knee,week_8,Carolina Panthers,2013
+['Robert Lester'],NA,week_8,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_8,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_8,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_8,Carolina Panthers,2013
+['D.J. Moore'],Out: knee,week_8,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_8,Carolina Panthers,2013
+['Cam Newton'],NA,week_8,Carolina Panthers,2013
+['Josh Norman'],NA,week_8,Carolina Panthers,2013
+['Greg Olsen'],Probable: foot,week_8,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_8,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_8,Carolina Panthers,2013
+['Chris Scott'],NA,week_8,Carolina Panthers,2013
+['Jordan Senn'],NA,week_8,Carolina Panthers,2013
+['Kawann Short'],NA,week_8,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_8,Carolina Panthers,2013
+['Steve Smith'],Probable: ankle,week_8,Carolina Panthers,2013
+['Jonathan Stewart'],Physically Unable to Perform: ankle,week_8,Carolina Panthers,2013
+['Josh Thomas'],Questionable: illness,week_8,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_8,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_8,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_8,Carolina Panthers,2013
+['Melvin White'],NA,week_8,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_8,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_8,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_8,Carolina Panthers,2013
+['Joe Adams'],NA,week_9,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_9,Carolina Panthers,2013
+['Jon Beason'],NA,week_9,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_9,Carolina Panthers,2013
+['Jeff Byers'],NA,week_9,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_9,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_9,Carolina Panthers,2013
+['Nate Chandler'],NA,week_9,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_9,Carolina Panthers,2013
+['Colin Cole'],NA,week_9,Carolina Panthers,2013
+['Thomas Davis'],Probable: shoulder,week_9,Carolina Panthers,2013
+['James Dockery'],NA,week_9,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: hamstring,week_9,Carolina Panthers,2013
+['Drayton Florence'],NA,week_9,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_9,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_9,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_9,Carolina Panthers,2013
+['Jordan Gross'],NA,week_9,Carolina Panthers,2013
+['Greg Hardy'],NA,week_9,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_9,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_9,Carolina Panthers,2013
+['Charles Johnson'],Probable: groin,week_9,Carolina Panthers,2013
+['Frank Kearse'],NA,week_9,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_9,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_9,Carolina Panthers,2013
+['Robert Lester'],NA,week_9,Carolina Panthers,2013
+['Marvin McNutt'],Questionable: ankle,week_9,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_9,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_9,Carolina Panthers,2013
+['D.J. Moore'],NA,week_9,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_9,Carolina Panthers,2013
+['Cam Newton'],NA,week_9,Carolina Panthers,2013
+['Josh Norman'],NA,week_9,Carolina Panthers,2013
+['Greg Olsen'],NA,week_9,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_9,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_9,Carolina Panthers,2013
+['Chris Scott'],NA,week_9,Carolina Panthers,2013
+['Jordan Senn'],NA,week_9,Carolina Panthers,2013
+['Kawann Short'],NA,week_9,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_9,Carolina Panthers,2013
+['Steve Smith'],NA,week_9,Carolina Panthers,2013
+['Jonathan Stewart'],NA,week_9,Carolina Panthers,2013
+['Josh Thomas'],Probable: illness,week_9,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_9,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_9,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_9,Carolina Panthers,2013
+['Melvin White'],NA,week_9,Carolina Panthers,2013
+['DeAngelo Williams'],Probable: quadricep,week_9,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_9,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_9,Carolina Panthers,2013
+['Joe Adams'],NA,week_10,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_10,Carolina Panthers,2013
+['Jon Beason'],NA,week_10,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_10,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_10,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_10,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_10,Carolina Panthers,2013
+['Nate Chandler'],NA,week_10,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_10,Carolina Panthers,2013
+['Colin Cole'],NA,week_10,Carolina Panthers,2013
+['Thomas Davis'],NA,week_10,Carolina Panthers,2013
+['James Dockery'],Questionable: shoulder,week_10,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_10,Carolina Panthers,2013
+['Drayton Florence'],NA,week_10,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_10,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_10,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_10,Carolina Panthers,2013
+['Jordan Gross'],NA,week_10,Carolina Panthers,2013
+['Greg Hardy'],NA,week_10,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_10,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_10,Carolina Panthers,2013
+['Charles Johnson'],NA,week_10,Carolina Panthers,2013
+['Frank Kearse'],NA,week_10,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_10,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_10,Carolina Panthers,2013
+['Robert Lester'],NA,week_10,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_10,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_10,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_10,Carolina Panthers,2013
+['D.J. Moore'],NA,week_10,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_10,Carolina Panthers,2013
+['Cam Newton'],NA,week_10,Carolina Panthers,2013
+['Josh Norman'],NA,week_10,Carolina Panthers,2013
+['Greg Olsen'],NA,week_10,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_10,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_10,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_10,Carolina Panthers,2013
+['Jordan Senn'],NA,week_10,Carolina Panthers,2013
+['Kawann Short'],NA,week_10,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_10,Carolina Panthers,2013
+['Steve Smith'],NA,week_10,Carolina Panthers,2013
+['Jonathan Stewart'],NA,week_10,Carolina Panthers,2013
+['Josh Thomas'],NA,week_10,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_10,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_10,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_10,Carolina Panthers,2013
+['Melvin White'],NA,week_10,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_10,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_10,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_10,Carolina Panthers,2013
+['Joe Adams'],NA,week_11,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_11,Carolina Panthers,2013
+['Jon Beason'],NA,week_11,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_11,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_11,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_11,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_11,Carolina Panthers,2013
+['Nate Chandler'],NA,week_11,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_11,Carolina Panthers,2013
+['Colin Cole'],NA,week_11,Carolina Panthers,2013
+['Thomas Davis'],NA,week_11,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_11,Carolina Panthers,2013
+['Dwan Edwards'],Questionable: hamstring,week_11,Carolina Panthers,2013
+['Drayton Florence'],Questionable: groin,week_11,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_11,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_11,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_11,Carolina Panthers,2013
+['Jordan Gross'],NA,week_11,Carolina Panthers,2013
+['Greg Hardy'],NA,week_11,Carolina Panthers,2013
+['Ben Hartsock'],Out: knee,week_11,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_11,Carolina Panthers,2013
+['Charles Johnson'],Questionable: knee,week_11,Carolina Panthers,2013
+['Frank Kearse'],NA,week_11,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_11,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_11,Carolina Panthers,2013
+['Robert Lester'],NA,week_11,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_11,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_11,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_11,Carolina Panthers,2013
+['D.J. Moore'],NA,week_11,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_11,Carolina Panthers,2013
+['Cam Newton'],NA,week_11,Carolina Panthers,2013
+['Josh Norman'],NA,week_11,Carolina Panthers,2013
+['Greg Olsen'],NA,week_11,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_11,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_11,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_11,Carolina Panthers,2013
+['Jordan Senn'],NA,week_11,Carolina Panthers,2013
+['Kawann Short'],NA,week_11,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_11,Carolina Panthers,2013
+['Steve Smith'],Questionable: chest,week_11,Carolina Panthers,2013
+['Jonathan Stewart'],NA,week_11,Carolina Panthers,2013
+['Josh Thomas'],NA,week_11,Carolina Panthers,2013
+['Mike Tolbert'],Probable: personal,week_11,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_11,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_11,Carolina Panthers,2013
+['Melvin White'],NA,week_11,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_11,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_11,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_11,Carolina Panthers,2013
+['Joe Adams'],NA,week_12,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_12,Carolina Panthers,2013
+['Jon Beason'],NA,week_12,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_12,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_12,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_12,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_12,Carolina Panthers,2013
+['Nate Chandler'],NA,week_12,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_12,Carolina Panthers,2013
+['Colin Cole'],NA,week_12,Carolina Panthers,2013
+['Thomas Davis'],NA,week_12,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_12,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_12,Carolina Panthers,2013
+['Drayton Florence'],Questionable: groin,week_12,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_12,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_12,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_12,Carolina Panthers,2013
+['Jordan Gross'],NA,week_12,Carolina Panthers,2013
+['Greg Hardy'],Questionable: knee,week_12,Carolina Panthers,2013
+['Ben Hartsock'],Questionable: knee,week_12,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_12,Carolina Panthers,2013
+['Charles Johnson'],Doubtful: knee,week_12,Carolina Panthers,2013
+['Frank Kearse'],NA,week_12,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_12,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_12,Carolina Panthers,2013
+['Robert Lester'],NA,week_12,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_12,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_12,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_12,Carolina Panthers,2013
+['D.J. Moore'],NA,week_12,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_12,Carolina Panthers,2013
+['Cam Newton'],NA,week_12,Carolina Panthers,2013
+['Josh Norman'],NA,week_12,Carolina Panthers,2013
+['Greg Olsen'],NA,week_12,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_12,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_12,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_12,Carolina Panthers,2013
+['Jordan Senn'],NA,week_12,Carolina Panthers,2013
+['Kawann Short'],NA,week_12,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_12,Carolina Panthers,2013
+['Steve Smith'],NA,week_12,Carolina Panthers,2013
+['Jonathan Stewart'],NA,week_12,Carolina Panthers,2013
+['Josh Thomas'],NA,week_12,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_12,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_12,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_12,Carolina Panthers,2013
+['Melvin White'],NA,week_12,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_12,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_12,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_12,Carolina Panthers,2013
+['Joe Adams'],NA,week_13,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_13,Carolina Panthers,2013
+['Jon Beason'],NA,week_13,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_13,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_13,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_13,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_13,Carolina Panthers,2013
+['Nate Chandler'],NA,week_13,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_13,Carolina Panthers,2013
+['Colin Cole'],NA,week_13,Carolina Panthers,2013
+['Thomas Davis'],NA,week_13,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_13,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_13,Carolina Panthers,2013
+['Drayton Florence'],NA,week_13,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_13,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_13,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_13,Carolina Panthers,2013
+['Jordan Gross'],NA,week_13,Carolina Panthers,2013
+['Greg Hardy'],NA,week_13,Carolina Panthers,2013
+['Ben Hartsock'],Questionable: knee,week_13,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_13,Carolina Panthers,2013
+['Charles Johnson'],Questionable: knee,week_13,Carolina Panthers,2013
+['Frank Kearse'],NA,week_13,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_13,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_13,Carolina Panthers,2013
+['Robert Lester'],NA,week_13,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_13,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_13,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_13,Carolina Panthers,2013
+['D.J. Moore'],NA,week_13,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_13,Carolina Panthers,2013
+['Cam Newton'],NA,week_13,Carolina Panthers,2013
+['Josh Norman'],NA,week_13,Carolina Panthers,2013
+['Greg Olsen'],NA,week_13,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_13,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_13,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_13,Carolina Panthers,2013
+['Jordan Senn'],NA,week_13,Carolina Panthers,2013
+['Kawann Short'],NA,week_13,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_13,Carolina Panthers,2013
+['Steve Smith'],Probable: knee,week_13,Carolina Panthers,2013
+['Jonathan Stewart'],Questionable: ankle,week_13,Carolina Panthers,2013
+['Josh Thomas'],NA,week_13,Carolina Panthers,2013
+['Mike Tolbert'],Questionable: knee,week_13,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_13,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_13,Carolina Panthers,2013
+['Melvin White'],NA,week_13,Carolina Panthers,2013
+['DeAngelo Williams'],Probable: quadricep,week_13,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_13,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_13,Carolina Panthers,2013
+['Joe Adams'],NA,week_14,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_14,Carolina Panthers,2013
+['Jon Beason'],NA,week_14,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: foot,week_14,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_14,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_14,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_14,Carolina Panthers,2013
+['Nate Chandler'],Probable: knee,week_14,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_14,Carolina Panthers,2013
+['Colin Cole'],NA,week_14,Carolina Panthers,2013
+['Thomas Davis'],NA,week_14,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_14,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_14,Carolina Panthers,2013
+['Drayton Florence'],NA,week_14,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_14,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_14,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_14,Carolina Panthers,2013
+['Jordan Gross'],NA,week_14,Carolina Panthers,2013
+['Greg Hardy'],NA,week_14,Carolina Panthers,2013
+['Ben Hartsock'],Questionable: knee,week_14,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_14,Carolina Panthers,2013
+['Charles Johnson'],Probable: knee,week_14,Carolina Panthers,2013
+['Frank Kearse'],NA,week_14,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_14,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_14,Carolina Panthers,2013
+['Robert Lester'],NA,week_14,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_14,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_14,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_14,Carolina Panthers,2013
+['D.J. Moore'],NA,week_14,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_14,Carolina Panthers,2013
+['Cam Newton'],NA,week_14,Carolina Panthers,2013
+['Josh Norman'],NA,week_14,Carolina Panthers,2013
+['Greg Olsen'],NA,week_14,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_14,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_14,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_14,Carolina Panthers,2013
+['Jordan Senn'],Questionable: hamstring,week_14,Carolina Panthers,2013
+['Kawann Short'],NA,week_14,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_14,Carolina Panthers,2013
+['Steve Smith'],NA,week_14,Carolina Panthers,2013
+['Jonathan Stewart'],Probable: ankles,week_14,Carolina Panthers,2013
+['Josh Thomas'],NA,week_14,Carolina Panthers,2013
+['Mike Tolbert'],Probable: knee,week_14,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_14,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_14,Carolina Panthers,2013
+['Melvin White'],NA,week_14,Carolina Panthers,2013
+['DeAngelo Williams'],Probable: quadricep,week_14,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_14,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_14,Carolina Panthers,2013
+['Joe Adams'],NA,week_15,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_15,Carolina Panthers,2013
+['Jon Beason'],NA,week_15,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_15,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_15,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_15,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_15,Carolina Panthers,2013
+['Nate Chandler'],Probable: elbow,week_15,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_15,Carolina Panthers,2013
+['Colin Cole'],NA,week_15,Carolina Panthers,2013
+['Thomas Davis'],NA,week_15,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_15,Carolina Panthers,2013
+['Dwan Edwards'],Probable: personal,week_15,Carolina Panthers,2013
+['Drayton Florence'],NA,week_15,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_15,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_15,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_15,Carolina Panthers,2013
+['Jordan Gross'],Probable: personal,week_15,Carolina Panthers,2013
+['Greg Hardy'],NA,week_15,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_15,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_15,Carolina Panthers,2013
+['Charles Johnson'],NA,week_15,Carolina Panthers,2013
+['Frank Kearse'],NA,week_15,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_15,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_15,Carolina Panthers,2013
+['Robert Lester'],NA,week_15,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_15,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_15,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_15,Carolina Panthers,2013
+['D.J. Moore'],NA,week_15,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_15,Carolina Panthers,2013
+['Cam Newton'],Questionable: foot,week_15,Carolina Panthers,2013
+['Josh Norman'],NA,week_15,Carolina Panthers,2013
+['Greg Olsen'],Questionable: foot,week_15,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_15,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_15,Carolina Panthers,2013
+['Chris Scott'],Questionable: knee,week_15,Carolina Panthers,2013
+['Jordan Senn'],Questionable: hamstring,week_15,Carolina Panthers,2013
+['Kawann Short'],NA,week_15,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_15,Carolina Panthers,2013
+['Steve Smith'],NA,week_15,Carolina Panthers,2013
+['Jonathan Stewart'],Out: knee,week_15,Carolina Panthers,2013
+['Josh Thomas'],NA,week_15,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_15,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_15,Carolina Panthers,2013
+['Travelle Wharton'],Probable: personal,week_15,Carolina Panthers,2013
+['Melvin White'],NA,week_15,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_15,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_15,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_15,Carolina Panthers,2013
+['Joe Adams'],NA,week_16,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_16,Carolina Panthers,2013
+['Jon Beason'],NA,week_16,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_16,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_16,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_16,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_16,Carolina Panthers,2013
+['Nate Chandler'],NA,week_16,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_16,Carolina Panthers,2013
+['Colin Cole'],Doubtful: calf,week_16,Carolina Panthers,2013
+['Thomas Davis'],NA,week_16,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_16,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_16,Carolina Panthers,2013
+['Drayton Florence'],NA,week_16,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_16,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_16,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_16,Carolina Panthers,2013
+['Jordan Gross'],NA,week_16,Carolina Panthers,2013
+['Greg Hardy'],NA,week_16,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_16,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_16,Carolina Panthers,2013
+['Charles Johnson'],NA,week_16,Carolina Panthers,2013
+['Frank Kearse'],NA,week_16,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_16,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_16,Carolina Panthers,2013
+['Robert Lester'],NA,week_16,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_16,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_16,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_16,Carolina Panthers,2013
+['D.J. Moore'],NA,week_16,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_16,Carolina Panthers,2013
+['Cam Newton'],NA,week_16,Carolina Panthers,2013
+['Josh Norman'],NA,week_16,Carolina Panthers,2013
+['Greg Olsen'],Probable: foot,week_16,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_16,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_16,Carolina Panthers,2013
+['Chris Scott'],NA,week_16,Carolina Panthers,2013
+['Jordan Senn'],NA,week_16,Carolina Panthers,2013
+['Kawann Short'],NA,week_16,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_16,Carolina Panthers,2013
+['Steve Smith'],Probable: finger,week_16,Carolina Panthers,2013
+['Jonathan Stewart'],Out: knee,week_16,Carolina Panthers,2013
+['Josh Thomas'],NA,week_16,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_16,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_16,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_16,Carolina Panthers,2013
+['Melvin White'],NA,week_16,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_16,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_16,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_16,Carolina Panthers,2013
+['Joe Adams'],NA,week_17,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_17,Carolina Panthers,2013
+['Jon Beason'],NA,week_17,Carolina Panthers,2013
+['Chase Blackburn'],Questionable: knee,week_17,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_17,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_17,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_17,Carolina Panthers,2013
+['Nate Chandler'],NA,week_17,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_17,Carolina Panthers,2013
+['Colin Cole'],Questionable: calf,week_17,Carolina Panthers,2013
+['Thomas Davis'],NA,week_17,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_17,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_17,Carolina Panthers,2013
+['Drayton Florence'],NA,week_17,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_17,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_17,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_17,Carolina Panthers,2013
+['Jordan Gross'],NA,week_17,Carolina Panthers,2013
+['Greg Hardy'],NA,week_17,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_17,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_17,Carolina Panthers,2013
+['Charles Johnson'],NA,week_17,Carolina Panthers,2013
+['Frank Kearse'],NA,week_17,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_17,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_17,Carolina Panthers,2013
+['Robert Lester'],Questionable: ankle,week_17,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_17,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_17,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_17,Carolina Panthers,2013
+['D.J. Moore'],NA,week_17,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_17,Carolina Panthers,2013
+['Cam Newton'],Probable: ankle,week_17,Carolina Panthers,2013
+['Josh Norman'],NA,week_17,Carolina Panthers,2013
+['Greg Olsen'],NA,week_17,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_17,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_17,Carolina Panthers,2013
+['Chris Scott'],NA,week_17,Carolina Panthers,2013
+['Jordan Senn'],NA,week_17,Carolina Panthers,2013
+['Kawann Short'],NA,week_17,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_17,Carolina Panthers,2013
+['Steve Smith'],Doubtful: knee/hamstring,week_17,Carolina Panthers,2013
+['Jonathan Stewart'],Out: knee,week_17,Carolina Panthers,2013
+['Josh Thomas'],NA,week_17,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_17,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_17,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_17,Carolina Panthers,2013
+['Melvin White'],NA,week_17,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_17,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_17,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_17,Carolina Panthers,2013
+['Joe Adams'],NA,week_19,Carolina Panthers,2013
+['Kenjon Barner'],NA,week_19,Carolina Panthers,2013
+['Jon Beason'],NA,week_19,Carolina Panthers,2013
+['Chase Blackburn'],NA,week_19,Carolina Panthers,2013
+['Jeff Byers'],Injured Reserve: ankle,week_19,Carolina Panthers,2013
+['Bruce Campbell'],Injured Reserve: shoulder,week_19,Carolina Panthers,2013
+['D.J. Campbell'],NA,week_19,Carolina Panthers,2013
+['Nate Chandler'],NA,week_19,Carolina Panthers,2013
+['Jimmy Clausen'],Injured Reserve: shoulder,week_19,Carolina Panthers,2013
+['Colin Cole'],NA,week_19,Carolina Panthers,2013
+['Thomas Davis'],NA,week_19,Carolina Panthers,2013
+['James Dockery'],Injured Reserve: shoulder,week_19,Carolina Panthers,2013
+['Dwan Edwards'],NA,week_19,Carolina Panthers,2013
+['Drayton Florence'],NA,week_19,Carolina Panthers,2013
+['Linden Gaydosh'],Injured Reserve: back,week_19,Carolina Panthers,2013
+['David Gettis'],Injured Reserve: hamstring,week_19,Carolina Panthers,2013
+['Charles Godfrey'],Injured Reserve: Achilles,week_19,Carolina Panthers,2013
+['Jordan Gross'],NA,week_19,Carolina Panthers,2013
+['Greg Hardy'],NA,week_19,Carolina Panthers,2013
+['Ben Hartsock'],NA,week_19,Carolina Panthers,2013
+['Domenik Hixon'],NA,week_19,Carolina Panthers,2013
+['Charles Johnson'],NA,week_19,Carolina Panthers,2013
+['Frank Kearse'],NA,week_19,Carolina Panthers,2013
+['Edmund Kugbila'],Injured Reserve: hamstring,week_19,Carolina Panthers,2013
+['Brandon LaFell'],NA,week_19,Carolina Panthers,2013
+['Robert Lester'],NA,week_19,Carolina Panthers,2013
+['Marvin McNutt'],NA,week_19,Carolina Panthers,2013
+['Quintin Mikell'],NA,week_19,Carolina Panthers,2013
+['Mike Mitchell'],NA,week_19,Carolina Panthers,2013
+['D.J. Moore'],NA,week_19,Carolina Panthers,2013
+['Haruki Nakamura'],Injured Reserve: concussion,week_19,Carolina Panthers,2013
+['Cam Newton'],NA,week_19,Carolina Panthers,2013
+['Josh Norman'],NA,week_19,Carolina Panthers,2013
+['Greg Olsen'],NA,week_19,Carolina Panthers,2013
+['Kealoha Pilares'],Injured Reserve: knee,week_19,Carolina Panthers,2013
+['Anderson Russell'],Injured Reserve: ankle,week_19,Carolina Panthers,2013
+['Chris Scott'],NA,week_19,Carolina Panthers,2013
+['Jordan Senn'],NA,week_19,Carolina Panthers,2013
+['Kawann Short'],NA,week_19,Carolina Panthers,2013
+['Amini Silatolu'],Injured Reserve: knee,week_19,Carolina Panthers,2013
+['Steve Smith'],NA,week_19,Carolina Panthers,2013
+['Jonathan Stewart'],NA,week_19,Carolina Panthers,2013
+['Josh Thomas'],NA,week_19,Carolina Panthers,2013
+['Mike Tolbert'],NA,week_19,Carolina Panthers,2013
+['R.J. Webb'],Injured Reserve: knee,week_19,Carolina Panthers,2013
+['Travelle Wharton'],NA,week_19,Carolina Panthers,2013
+['Melvin White'],NA,week_19,Carolina Panthers,2013
+['DeAngelo Williams'],NA,week_19,Carolina Panthers,2013
+['Garry Williams'],Injured Reserve: knee,week_19,Carolina Panthers,2013
+['Michael Zordich'],Injured Reserve: knee,week_19,Carolina Panthers,2013

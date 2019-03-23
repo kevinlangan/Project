@@ -1,0 +1,625 @@
+﻿name,injury,week,team,year
+['Marvin Austin'],NA,week_1,Dallas Cowboys,2013
+['Miles Austin'],NA,week_1,Dallas Cowboys,2013
+['Ben Bass'],Questionable: shoulder,week_1,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_1,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_1,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_1,Dallas Cowboys,2013
+['Barry Church'],NA,week_1,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: undisclosed,week_1,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_1,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_1,Dallas Cowboys,2013
+['Lance Dunbar'],Questionable: foot,week_1,Dallas Cowboys,2013
+['Justin Durant'],NA,week_1,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_1,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_1,Dallas Cowboys,2013
+['Dwayne Harris'],NA,week_1,Dallas Cowboys,2013
+['Jason Hatcher'],NA,week_1,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_1,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_1,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_1,Dallas Cowboys,2013
+['Edgar Jones'],NA,week_1,Dallas Cowboys,2013
+['Ronald Leary'],Probable: knee,week_1,Dallas Cowboys,2013
+['Sean Lee'],NA,week_1,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_1,Dallas Cowboys,2013
+['Danny McCray'],Questionable: hamstring,week_1,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_1,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_1,Dallas Cowboys,2013
+['Tony Romo'],Questionable: ribs,week_1,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_1,Dallas Cowboys,2013
+['George Selvie'],NA,week_1,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_1,Dallas Cowboys,2013
+['Anthony Spencer'],Questionable: knee,week_1,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_1,Dallas Cowboys,2013
+['DeMarcus Ware'],NA,week_1,Dallas Cowboys,2013
+['Brian Waters'],NA,week_1,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_1,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_1,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_1,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_1,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_1,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_2,Dallas Cowboys,2013
+['Miles Austin'],NA,week_2,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_2,Dallas Cowboys,2013
+['Dez Bryant'],Probable: foot,week_2,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_2,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_2,Dallas Cowboys,2013
+['Barry Church'],NA,week_2,Dallas Cowboys,2013
+['Morris Claiborne'],Probable: shoulder,week_2,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_2,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_2,Dallas Cowboys,2013
+['Lance Dunbar'],Probable: foot,week_2,Dallas Cowboys,2013
+['Justin Durant'],NA,week_2,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_2,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_2,Dallas Cowboys,2013
+['Dwayne Harris'],NA,week_2,Dallas Cowboys,2013
+['Jason Hatcher'],NA,week_2,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_2,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_2,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_2,Dallas Cowboys,2013
+['Edgar Jones'],NA,week_2,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_2,Dallas Cowboys,2013
+['Sean Lee'],NA,week_2,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_2,Dallas Cowboys,2013
+['Danny McCray'],Probable: hamstring,week_2,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_2,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_2,Dallas Cowboys,2013
+['Tony Romo'],Probable: ribs,week_2,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_2,Dallas Cowboys,2013
+['George Selvie'],NA,week_2,Dallas Cowboys,2013
+['Ernie Sims'],Questionable: groin,week_2,Dallas Cowboys,2013
+['Anthony Spencer'],Probable: knee,week_2,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_2,Dallas Cowboys,2013
+['DeMarcus Ware'],NA,week_2,Dallas Cowboys,2013
+['Brian Waters'],NA,week_2,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_2,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_2,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_2,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_2,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_2,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_3,Dallas Cowboys,2013
+['Miles Austin'],NA,week_3,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_3,Dallas Cowboys,2013
+['Dez Bryant'],Probable: back,week_3,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_3,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_3,Dallas Cowboys,2013
+['Barry Church'],NA,week_3,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: shoulder,week_3,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_3,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_3,Dallas Cowboys,2013
+['Lance Dunbar'],NA,week_3,Dallas Cowboys,2013
+['Justin Durant'],NA,week_3,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_3,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_3,Dallas Cowboys,2013
+['Dwayne Harris'],NA,week_3,Dallas Cowboys,2013
+['Jason Hatcher'],NA,week_3,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_3,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_3,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_3,Dallas Cowboys,2013
+['Edgar Jones'],NA,week_3,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_3,Dallas Cowboys,2013
+['Sean Lee'],NA,week_3,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_3,Dallas Cowboys,2013
+['Danny McCray'],NA,week_3,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_3,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_3,Dallas Cowboys,2013
+['Tony Romo'],Probable: ribs,week_3,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_3,Dallas Cowboys,2013
+['George Selvie'],NA,week_3,Dallas Cowboys,2013
+['Ernie Sims'],Questionable: groin,week_3,Dallas Cowboys,2013
+['Anthony Spencer'],Questionable: knee,week_3,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_3,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: shoulder,week_3,Dallas Cowboys,2013
+['Brian Waters'],NA,week_3,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_3,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_3,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_3,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_3,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_3,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_4,Dallas Cowboys,2013
+['Miles Austin'],Questionable: hamstring,week_4,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_4,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_4,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_4,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_4,Dallas Cowboys,2013
+['Barry Church'],NA,week_4,Dallas Cowboys,2013
+['Morris Claiborne'],Probable: shoulder,week_4,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_4,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_4,Dallas Cowboys,2013
+['Lance Dunbar'],NA,week_4,Dallas Cowboys,2013
+['Justin Durant'],NA,week_4,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_4,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_4,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hip,week_4,Dallas Cowboys,2013
+['Jason Hatcher'],NA,week_4,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_4,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_4,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_4,Dallas Cowboys,2013
+['Edgar Jones'],NA,week_4,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_4,Dallas Cowboys,2013
+['Sean Lee'],NA,week_4,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_4,Dallas Cowboys,2013
+['Danny McCray'],NA,week_4,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_4,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_4,Dallas Cowboys,2013
+['Tony Romo'],NA,week_4,Dallas Cowboys,2013
+['Orlando Scandrick'],Questionable: undisclosed,week_4,Dallas Cowboys,2013
+['George Selvie'],NA,week_4,Dallas Cowboys,2013
+['Ernie Sims'],Questionable: groin,week_4,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_4,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_4,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: neck,week_4,Dallas Cowboys,2013
+['Brian Waters'],NA,week_4,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_4,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_4,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_4,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_4,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_4,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_5,Dallas Cowboys,2013
+['Miles Austin'],Questionable: hamstring,week_5,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_5,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_5,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_5,Dallas Cowboys,2013
+['Bruce Carter'],Probable: foot,week_5,Dallas Cowboys,2013
+['Barry Church'],NA,week_5,Dallas Cowboys,2013
+['Morris Claiborne'],Probable: shoulder,week_5,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_5,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_5,Dallas Cowboys,2013
+['Lance Dunbar'],NA,week_5,Dallas Cowboys,2013
+['Justin Durant'],Questionable: groin,week_5,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_5,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_5,Dallas Cowboys,2013
+['Dwayne Harris'],Probable: hip,week_5,Dallas Cowboys,2013
+['Jason Hatcher'],NA,week_5,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_5,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_5,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_5,Dallas Cowboys,2013
+['Edgar Jones'],Questionable: groin,week_5,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_5,Dallas Cowboys,2013
+['Sean Lee'],NA,week_5,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_5,Dallas Cowboys,2013
+['Danny McCray'],NA,week_5,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_5,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_5,Dallas Cowboys,2013
+['Tony Romo'],NA,week_5,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_5,Dallas Cowboys,2013
+['George Selvie'],Questionable: concussion,week_5,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_5,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_5,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_5,Dallas Cowboys,2013
+['DeMarcus Ware'],Probable: back,week_5,Dallas Cowboys,2013
+['Brian Waters'],NA,week_5,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_5,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_5,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_5,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_5,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_5,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_6,Dallas Cowboys,2013
+['Miles Austin'],Probable: hamstring,week_6,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_6,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_6,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_6,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_6,Dallas Cowboys,2013
+['Barry Church'],Probable: nose,week_6,Dallas Cowboys,2013
+['Morris Claiborne'],NA,week_6,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_6,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_6,Dallas Cowboys,2013
+['Lance Dunbar'],Doubtful: hamstring,week_6,Dallas Cowboys,2013
+['Justin Durant'],Questionable: groin,week_6,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_6,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_6,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hip,week_6,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: shoulder,week_6,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_6,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_6,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_6,Dallas Cowboys,2013
+['Edgar Jones'],Questionable: groin,week_6,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_6,Dallas Cowboys,2013
+['Sean Lee'],NA,week_6,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_6,Dallas Cowboys,2013
+['Danny McCray'],NA,week_6,Dallas Cowboys,2013
+['DeMarco Murray'],Questionable: knee,week_6,Dallas Cowboys,2013
+['Jay Ratliff'],Physically Unable to Perform: hamstring,week_6,Dallas Cowboys,2013
+['Tony Romo'],NA,week_6,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_6,Dallas Cowboys,2013
+['George Selvie'],NA,week_6,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_6,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_6,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_6,Dallas Cowboys,2013
+['DeMarcus Ware'],NA,week_6,Dallas Cowboys,2013
+['Brian Waters'],NA,week_6,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_6,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_6,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_6,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_6,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_6,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_7,Dallas Cowboys,2013
+['Miles Austin'],Probable: hamstring,week_7,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_7,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_7,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_7,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_7,Dallas Cowboys,2013
+['Barry Church'],NA,week_7,Dallas Cowboys,2013
+['Morris Claiborne'],NA,week_7,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_7,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_7,Dallas Cowboys,2013
+['Lance Dunbar'],Out: hamstring,week_7,Dallas Cowboys,2013
+['Justin Durant'],NA,week_7,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_7,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_7,Dallas Cowboys,2013
+['Dwayne Harris'],Probable: hip,week_7,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: neck,week_7,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_7,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_7,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_7,Dallas Cowboys,2013
+['Edgar Jones'],Questionable: groin,week_7,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_7,Dallas Cowboys,2013
+['Sean Lee'],NA,week_7,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_7,Dallas Cowboys,2013
+['Danny McCray'],NA,week_7,Dallas Cowboys,2013
+['DeMarco Murray'],Out: knee,week_7,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_7,Dallas Cowboys,2013
+['Tony Romo'],NA,week_7,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_7,Dallas Cowboys,2013
+['George Selvie'],Questionable: shoulder,week_7,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_7,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_7,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_7,Dallas Cowboys,2013
+['DeMarcus Ware'],Doubtful: quadriceps,week_7,Dallas Cowboys,2013
+['Brian Waters'],NA,week_7,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_7,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_7,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_7,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_7,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_7,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_8,Dallas Cowboys,2013
+['Miles Austin'],Questionable: hamstring,week_8,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_8,Dallas Cowboys,2013
+['Dez Bryant'],Probable: hamstring/wrist,week_8,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_8,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_8,Dallas Cowboys,2013
+['Barry Church'],NA,week_8,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: illness,week_8,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_8,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_8,Dallas Cowboys,2013
+['Lance Dunbar'],Questionable: hamstring,week_8,Dallas Cowboys,2013
+['Justin Durant'],NA,week_8,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_8,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_8,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hip,week_8,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: neck,week_8,Dallas Cowboys,2013
+['Nick Hayden'],Questionable: back,week_8,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_8,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_8,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_8,Dallas Cowboys,2013
+['Ronald Leary'],Questionable: knee,week_8,Dallas Cowboys,2013
+['Sean Lee'],NA,week_8,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_8,Dallas Cowboys,2013
+['Danny McCray'],NA,week_8,Dallas Cowboys,2013
+['DeMarco Murray'],Probable: knee,week_8,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_8,Dallas Cowboys,2013
+['Tony Romo'],NA,week_8,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_8,Dallas Cowboys,2013
+['George Selvie'],Questionable: back,week_8,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_8,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_8,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_8,Dallas Cowboys,2013
+['DeMarcus Ware'],Doubtful: quadriceps,week_8,Dallas Cowboys,2013
+['Brian Waters'],NA,week_8,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_8,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_8,Dallas Cowboys,2013
+['J.J. Wilcox'],Questionable: knee,week_8,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_8,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_8,Dallas Cowboys,2013
+['Marvin Austin'],Probable: back,week_9,Dallas Cowboys,2013
+['Miles Austin'],Doubtful: hamstring,week_9,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_9,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_9,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_9,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_9,Dallas Cowboys,2013
+['Barry Church'],Questionable: hamstring,week_9,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: hamstring,week_9,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_9,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_9,Dallas Cowboys,2013
+['Lance Dunbar'],Probable: hamstring,week_9,Dallas Cowboys,2013
+['Justin Durant'],NA,week_9,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_9,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_9,Dallas Cowboys,2013
+['Dwayne Harris'],Probable: hip,week_9,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: neck,week_9,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_9,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_9,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_9,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_9,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_9,Dallas Cowboys,2013
+['Sean Lee'],NA,week_9,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_9,Dallas Cowboys,2013
+['Danny McCray'],Questionable: hip/toe,week_9,Dallas Cowboys,2013
+['DeMarco Murray'],Probable: knee,week_9,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_9,Dallas Cowboys,2013
+['Tony Romo'],NA,week_9,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_9,Dallas Cowboys,2013
+['George Selvie'],Probable: shoulder,week_9,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_9,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_9,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_9,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: quadriceps,week_9,Dallas Cowboys,2013
+['Brian Waters'],Out: triceps/knee/rib,week_9,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_9,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_9,Dallas Cowboys,2013
+['J.J. Wilcox'],Questionable: knee,week_9,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_9,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_9,Dallas Cowboys,2013
+['Marvin Austin'],Questionable: back,week_10,Dallas Cowboys,2013
+['Miles Austin'],Questionable: hamstring,week_10,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_10,Dallas Cowboys,2013
+['Dez Bryant'],Probable: back,week_10,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_10,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_10,Dallas Cowboys,2013
+['Barry Church'],Probable: hamstring,week_10,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: hamstring,week_10,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_10,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_10,Dallas Cowboys,2013
+['Lance Dunbar'],NA,week_10,Dallas Cowboys,2013
+['Justin Durant'],Questionable: leg,week_10,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_10,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_10,Dallas Cowboys,2013
+['Dwayne Harris'],Probable: hip,week_10,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: neck,week_10,Dallas Cowboys,2013
+['Nick Hayden'],Questionable: ribs,week_10,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_10,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_10,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_10,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_10,Dallas Cowboys,2013
+['Sean Lee'],NA,week_10,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_10,Dallas Cowboys,2013
+['Danny McCray'],Probable: hip/toe,week_10,Dallas Cowboys,2013
+['DeMarco Murray'],Probable: knee,week_10,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_10,Dallas Cowboys,2013
+['Tony Romo'],NA,week_10,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_10,Dallas Cowboys,2013
+['George Selvie'],Questionable: shoulder,week_10,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_10,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_10,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_10,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: quadriceps,week_10,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_10,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_10,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_10,Dallas Cowboys,2013
+['J.J. Wilcox'],Questionable: knee,week_10,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_10,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_10,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_12,Dallas Cowboys,2013
+['Miles Austin'],Probable: hamstring,week_12,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_12,Dallas Cowboys,2013
+['Dez Bryant'],Probable: back,week_12,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_12,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_12,Dallas Cowboys,2013
+['Barry Church'],NA,week_12,Dallas Cowboys,2013
+['Morris Claiborne'],Probable: hamstring,week_12,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_12,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_12,Dallas Cowboys,2013
+['Lance Dunbar'],NA,week_12,Dallas Cowboys,2013
+['Justin Durant'],Out: hamstring,week_12,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_12,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_12,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hamstring,week_12,Dallas Cowboys,2013
+['Jason Hatcher'],Probable: neck,week_12,Dallas Cowboys,2013
+['Nick Hayden'],Probable: ribs,week_12,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_12,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_12,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_12,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_12,Dallas Cowboys,2013
+['Sean Lee'],Out: hamstring,week_12,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_12,Dallas Cowboys,2013
+['Danny McCray'],NA,week_12,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_12,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_12,Dallas Cowboys,2013
+['Tony Romo'],NA,week_12,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_12,Dallas Cowboys,2013
+['George Selvie'],Probable: shoulder,week_12,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_12,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_12,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_12,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: quadriceps,week_12,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_12,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_12,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_12,Dallas Cowboys,2013
+['J.J. Wilcox'],Questionable: knee,week_12,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_12,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_12,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_13,Dallas Cowboys,2013
+['Miles Austin'],Probable: hamstring,week_13,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_13,Dallas Cowboys,2013
+['Dez Bryant'],Probable: back,week_13,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_13,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_13,Dallas Cowboys,2013
+['Barry Church'],NA,week_13,Dallas Cowboys,2013
+['Morris Claiborne'],Out: hamstring,week_13,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_13,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_13,Dallas Cowboys,2013
+['Lance Dunbar'],Questionable: knee,week_13,Dallas Cowboys,2013
+['Justin Durant'],Out: hamstring,week_13,Dallas Cowboys,2013
+['Gavin Escobar'],Questionable: hamstring,week_13,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_13,Dallas Cowboys,2013
+['Dwayne Harris'],Out: hamstring,week_13,Dallas Cowboys,2013
+['Jason Hatcher'],Probable: neck,week_13,Dallas Cowboys,2013
+['Nick Hayden'],Probable: ribs,week_13,Dallas Cowboys,2013
+['DeVonte Holloman'],Out: neck,week_13,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_13,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_13,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_13,Dallas Cowboys,2013
+['Sean Lee'],Out: hamstring,week_13,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_13,Dallas Cowboys,2013
+['Danny McCray'],NA,week_13,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_13,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_13,Dallas Cowboys,2013
+['Tony Romo'],NA,week_13,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_13,Dallas Cowboys,2013
+['George Selvie'],Probable: shoulder,week_13,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_13,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_13,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_13,Dallas Cowboys,2013
+['DeMarcus Ware'],Probable: thigh,week_13,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_13,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_13,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_13,Dallas Cowboys,2013
+['J.J. Wilcox'],Probable: knee,week_13,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_13,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_13,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_14,Dallas Cowboys,2013
+['Miles Austin'],NA,week_14,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_14,Dallas Cowboys,2013
+['Dez Bryant'],Questionable: back,week_14,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_14,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_14,Dallas Cowboys,2013
+['Barry Church'],NA,week_14,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: hamstring,week_14,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_14,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_14,Dallas Cowboys,2013
+['Lance Dunbar'],Injured Reserve: knee,week_14,Dallas Cowboys,2013
+['Justin Durant'],Probable: hamstring,week_14,Dallas Cowboys,2013
+['Gavin Escobar'],Probable: hamstring,week_14,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_14,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hamstring,week_14,Dallas Cowboys,2013
+['Jason Hatcher'],Probable: neck,week_14,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_14,Dallas Cowboys,2013
+['DeVonte Holloman'],Probable: neck,week_14,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_14,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_14,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_14,Dallas Cowboys,2013
+['Sean Lee'],Probable: hamstring,week_14,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_14,Dallas Cowboys,2013
+['Danny McCray'],NA,week_14,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_14,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_14,Dallas Cowboys,2013
+['Tony Romo'],NA,week_14,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_14,Dallas Cowboys,2013
+['George Selvie'],NA,week_14,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_14,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_14,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_14,Dallas Cowboys,2013
+['DeMarcus Ware'],NA,week_14,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_14,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_14,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_14,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_14,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_14,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_14,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_15,Dallas Cowboys,2013
+['Miles Austin'],NA,week_15,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_15,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_15,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_15,Dallas Cowboys,2013
+['Bruce Carter'],Doubtful: hamstring,week_15,Dallas Cowboys,2013
+['Barry Church'],NA,week_15,Dallas Cowboys,2013
+['Morris Claiborne'],Questionable: hamstring,week_15,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_15,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_15,Dallas Cowboys,2013
+['Lance Dunbar'],Injured Reserve: knee,week_15,Dallas Cowboys,2013
+['Justin Durant'],Questionable: hamstring,week_15,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_15,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_15,Dallas Cowboys,2013
+['Dwayne Harris'],Doubtful: hamstring,week_15,Dallas Cowboys,2013
+['Jason Hatcher'],Probable: neck,week_15,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_15,Dallas Cowboys,2013
+['DeVonte Holloman'],Questionable: neck,week_15,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_15,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_15,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_15,Dallas Cowboys,2013
+['Sean Lee'],Questionable: neck,week_15,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_15,Dallas Cowboys,2013
+['Danny McCray'],NA,week_15,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_15,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_15,Dallas Cowboys,2013
+['Tony Romo'],NA,week_15,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_15,Dallas Cowboys,2013
+['George Selvie'],NA,week_15,Dallas Cowboys,2013
+['Ernie Sims'],NA,week_15,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_15,Dallas Cowboys,2013
+['Phillip Tanner'],NA,week_15,Dallas Cowboys,2013
+['DeMarcus Ware'],NA,week_15,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_15,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_15,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_15,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_15,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_15,Dallas Cowboys,2013
+['Jarius Wynn'],NA,week_15,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_16,Dallas Cowboys,2013
+['Miles Austin'],NA,week_16,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_16,Dallas Cowboys,2013
+['Dez Bryant'],NA,week_16,Dallas Cowboys,2013
+['Brandon Carr'],Questionable: illness,week_16,Dallas Cowboys,2013
+['Bruce Carter'],Questionable: hamstring,week_16,Dallas Cowboys,2013
+['Barry Church'],NA,week_16,Dallas Cowboys,2013
+['Morris Claiborne'],Out: hamstring,week_16,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_16,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_16,Dallas Cowboys,2013
+['Lance Dunbar'],Injured Reserve: knee,week_16,Dallas Cowboys,2013
+['Justin Durant'],Injured Reserve: hamstring,week_16,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_16,Dallas Cowboys,2013
+['Jakar Hamilton'],NA,week_16,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hamstring,week_16,Dallas Cowboys,2013
+['Jason Hatcher'],Questionable: neck,week_16,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_16,Dallas Cowboys,2013
+['DeVonte Holloman'],NA,week_16,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_16,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_16,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_16,Dallas Cowboys,2013
+['Sean Lee'],Questionable: neck,week_16,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_16,Dallas Cowboys,2013
+['Danny McCray'],NA,week_16,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_16,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_16,Dallas Cowboys,2013
+['Tony Romo'],NA,week_16,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_16,Dallas Cowboys,2013
+['George Selvie'],Questionable: back,week_16,Dallas Cowboys,2013
+['Ernie Sims'],Questionable: neck,week_16,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_16,Dallas Cowboys,2013
+['Phillip Tanner'],Questionable: head,week_16,Dallas Cowboys,2013
+['DeMarcus Ware'],Questionable: back,week_16,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_16,Dallas Cowboys,2013
+['B.W. Webb'],Questionable: chest,week_16,Dallas Cowboys,2013
+['Kyle Wilber'],Questionable: knee,week_16,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_16,Dallas Cowboys,2013
+['Terrance Williams'],Doubtful: hamstring,week_16,Dallas Cowboys,2013
+['Jarius Wynn'],Questionable: chest,week_16,Dallas Cowboys,2013
+['Marvin Austin'],NA,week_17,Dallas Cowboys,2013
+['Miles Austin'],NA,week_17,Dallas Cowboys,2013
+['Ben Bass'],Injured Reserve: shoulder,week_17,Dallas Cowboys,2013
+['Dez Bryant'],Probable: back,week_17,Dallas Cowboys,2013
+['Brandon Carr'],NA,week_17,Dallas Cowboys,2013
+['Bruce Carter'],NA,week_17,Dallas Cowboys,2013
+['Barry Church'],NA,week_17,Dallas Cowboys,2013
+['Morris Claiborne'],Probable: hamstring,week_17,Dallas Cowboys,2013
+['Ryan Cook'],Injured Reserve: back,week_17,Dallas Cowboys,2013
+['Tyrone Crawford'],Injured Reserve: Achilles,week_17,Dallas Cowboys,2013
+['Lance Dunbar'],Injured Reserve: knee,week_17,Dallas Cowboys,2013
+['Justin Durant'],Injured Reserve: hamstring,week_17,Dallas Cowboys,2013
+['Gavin Escobar'],NA,week_17,Dallas Cowboys,2013
+['Jakar Hamilton'],Probable: hip,week_17,Dallas Cowboys,2013
+['Dwayne Harris'],Questionable: hamstring,week_17,Dallas Cowboys,2013
+['Jason Hatcher'],Probable: neck,week_17,Dallas Cowboys,2013
+['Nick Hayden'],NA,week_17,Dallas Cowboys,2013
+['DeVonte Holloman'],Probable: hip,week_17,Dallas Cowboys,2013
+['Matt Johnson'],Injured Reserve: foot,week_17,Dallas Cowboys,2013
+['Edgar Jones'],Injured Reserve: groin,week_17,Dallas Cowboys,2013
+['Ronald Leary'],NA,week_17,Dallas Cowboys,2013
+['Sean Lee'],Doubtful: neck,week_17,Dallas Cowboys,2013
+['Nate Livings'],Injured Reserve: knee,week_17,Dallas Cowboys,2013
+['Danny McCray'],NA,week_17,Dallas Cowboys,2013
+['DeMarco Murray'],NA,week_17,Dallas Cowboys,2013
+['Jay Ratliff'],NA,week_17,Dallas Cowboys,2013
+['Tony Romo'],Doubtful: back,week_17,Dallas Cowboys,2013
+['Orlando Scandrick'],NA,week_17,Dallas Cowboys,2013
+['George Selvie'],Probable: back,week_17,Dallas Cowboys,2013
+['Ernie Sims'],Doubtful: groin,week_17,Dallas Cowboys,2013
+['Anthony Spencer'],Injured Reserve: knee,week_17,Dallas Cowboys,2013
+['Phillip Tanner'],Questionable: head,week_17,Dallas Cowboys,2013
+['DeMarcus Ware'],Probable: back,week_17,Dallas Cowboys,2013
+['Brian Waters'],Injured Reserve: triceps/knee/rib,week_17,Dallas Cowboys,2013
+['B.W. Webb'],NA,week_17,Dallas Cowboys,2013
+['Kyle Wilber'],NA,week_17,Dallas Cowboys,2013
+['J.J. Wilcox'],NA,week_17,Dallas Cowboys,2013
+['Terrance Williams'],NA,week_17,Dallas Cowboys,2013
+['Jarius Wynn'],Probable: chest,week_17,Dallas Cowboys,2013

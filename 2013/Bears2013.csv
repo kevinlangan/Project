@@ -1,0 +1,561 @@
+﻿name,injury,week,team,year
+['James Anderson'],NA,week_1,Chicago Bears,2013
+['Joe Anderson'],NA,week_1,Chicago Bears,2013
+['Earl Bennett'],Questionable: concussion,week_1,Chicago Bears,2013
+['Martellus Bennett'],NA,week_1,Chicago Bears,2013
+['Zackary Bowman'],NA,week_1,Chicago Bears,2013
+['Lance Briggs'],NA,week_1,Chicago Bears,2013
+['Eben Britton'],NA,week_1,Chicago Bears,2013
+['James Brown'],NA,week_1,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_1,Chicago Bears,2013
+['Nate Collins'],NA,week_1,Chicago Bears,2013
+['Chris Conte'],NA,week_1,Chicago Bears,2013
+['Blake Costanzo'],NA,week_1,Chicago Bears,2013
+['Jay Cutler'],NA,week_1,Chicago Bears,2013
+['Matt Forte'],NA,week_1,Chicago Bears,2013
+['Isaiah Frey'],NA,week_1,Chicago Bears,2013
+['Robbie Gould'],NA,week_1,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_1,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_1,Chicago Bears,2013
+['Kyle Long'],NA,week_1,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_1,Chicago Bears,2013
+['Brandon Marshall'],Questionable: hip,week_1,Chicago Bears,2013
+['Derrick Martin'],NA,week_1,Chicago Bears,2013
+['Shea McClellin'],NA,week_1,Chicago Bears,2013
+['Sherrick McManis'],NA,week_1,Chicago Bears,2013
+['Henry Melton'],NA,week_1,Chicago Bears,2013
+['Jordan Mills'],NA,week_1,Chicago Bears,2013
+['Stephen Paea'],NA,week_1,Chicago Bears,2013
+['Julius Peppers'],NA,week_1,Chicago Bears,2013
+['Jay Ratliff'],NA,week_1,Chicago Bears,2013
+['Dante Rosario'],NA,week_1,Chicago Bears,2013
+['Craig Steltz'],NA,week_1,Chicago Bears,2013
+['Charles Tillman'],NA,week_1,Chicago Bears,2013
+['Anthony Walters'],NA,week_1,Chicago Bears,2013
+['D.J. Williams'],NA,week_1,Chicago Bears,2013
+['Major Wright'],NA,week_1,Chicago Bears,2013
+['James Anderson'],NA,week_2,Chicago Bears,2013
+['Joe Anderson'],NA,week_2,Chicago Bears,2013
+['Earl Bennett'],NA,week_2,Chicago Bears,2013
+['Martellus Bennett'],NA,week_2,Chicago Bears,2013
+['Zackary Bowman'],NA,week_2,Chicago Bears,2013
+['Lance Briggs'],NA,week_2,Chicago Bears,2013
+['Eben Britton'],NA,week_2,Chicago Bears,2013
+['James Brown'],NA,week_2,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_2,Chicago Bears,2013
+['Nate Collins'],NA,week_2,Chicago Bears,2013
+['Chris Conte'],NA,week_2,Chicago Bears,2013
+['Blake Costanzo'],NA,week_2,Chicago Bears,2013
+['Jay Cutler'],NA,week_2,Chicago Bears,2013
+['Matt Forte'],NA,week_2,Chicago Bears,2013
+['Isaiah Frey'],NA,week_2,Chicago Bears,2013
+['Robbie Gould'],NA,week_2,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_2,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_2,Chicago Bears,2013
+['Kyle Long'],NA,week_2,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_2,Chicago Bears,2013
+['Brandon Marshall'],NA,week_2,Chicago Bears,2013
+['Derrick Martin'],NA,week_2,Chicago Bears,2013
+['Shea McClellin'],NA,week_2,Chicago Bears,2013
+['Sherrick McManis'],NA,week_2,Chicago Bears,2013
+['Henry Melton'],NA,week_2,Chicago Bears,2013
+['Jordan Mills'],NA,week_2,Chicago Bears,2013
+['Stephen Paea'],NA,week_2,Chicago Bears,2013
+['Julius Peppers'],Probable: illness,week_2,Chicago Bears,2013
+['Jay Ratliff'],NA,week_2,Chicago Bears,2013
+['Dante Rosario'],NA,week_2,Chicago Bears,2013
+['Craig Steltz'],NA,week_2,Chicago Bears,2013
+['Charles Tillman'],Probable: hamstring,week_2,Chicago Bears,2013
+['Anthony Walters'],NA,week_2,Chicago Bears,2013
+['D.J. Williams'],NA,week_2,Chicago Bears,2013
+['Major Wright'],NA,week_2,Chicago Bears,2013
+['James Anderson'],NA,week_3,Chicago Bears,2013
+['Joe Anderson'],NA,week_3,Chicago Bears,2013
+['Earl Bennett'],NA,week_3,Chicago Bears,2013
+['Martellus Bennett'],Questionable: shoulder,week_3,Chicago Bears,2013
+['Zackary Bowman'],NA,week_3,Chicago Bears,2013
+['Lance Briggs'],NA,week_3,Chicago Bears,2013
+['Eben Britton'],NA,week_3,Chicago Bears,2013
+['James Brown'],NA,week_3,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_3,Chicago Bears,2013
+['Nate Collins'],NA,week_3,Chicago Bears,2013
+['Chris Conte'],NA,week_3,Chicago Bears,2013
+['Blake Costanzo'],NA,week_3,Chicago Bears,2013
+['Jay Cutler'],NA,week_3,Chicago Bears,2013
+['Matt Forte'],NA,week_3,Chicago Bears,2013
+['Isaiah Frey'],NA,week_3,Chicago Bears,2013
+['Robbie Gould'],NA,week_3,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_3,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_3,Chicago Bears,2013
+['Kyle Long'],Questionable: back,week_3,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_3,Chicago Bears,2013
+['Brandon Marshall'],Probable: back,week_3,Chicago Bears,2013
+['Derrick Martin'],NA,week_3,Chicago Bears,2013
+['Shea McClellin'],NA,week_3,Chicago Bears,2013
+['Sherrick McManis'],NA,week_3,Chicago Bears,2013
+['Henry Melton'],NA,week_3,Chicago Bears,2013
+['Jordan Mills'],NA,week_3,Chicago Bears,2013
+['Stephen Paea'],NA,week_3,Chicago Bears,2013
+['Julius Peppers'],NA,week_3,Chicago Bears,2013
+['Jay Ratliff'],NA,week_3,Chicago Bears,2013
+['Dante Rosario'],NA,week_3,Chicago Bears,2013
+['Craig Steltz'],NA,week_3,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_3,Chicago Bears,2013
+['Anthony Walters'],NA,week_3,Chicago Bears,2013
+['D.J. Williams'],NA,week_3,Chicago Bears,2013
+['Major Wright'],NA,week_3,Chicago Bears,2013
+['James Anderson'],NA,week_4,Chicago Bears,2013
+['Joe Anderson'],NA,week_4,Chicago Bears,2013
+['Earl Bennett'],NA,week_4,Chicago Bears,2013
+['Martellus Bennett'],NA,week_4,Chicago Bears,2013
+['Zackary Bowman'],Questionable: knee,week_4,Chicago Bears,2013
+['Lance Briggs'],NA,week_4,Chicago Bears,2013
+['Eben Britton'],NA,week_4,Chicago Bears,2013
+['James Brown'],NA,week_4,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_4,Chicago Bears,2013
+['Nate Collins'],NA,week_4,Chicago Bears,2013
+['Chris Conte'],NA,week_4,Chicago Bears,2013
+['Blake Costanzo'],NA,week_4,Chicago Bears,2013
+['Jay Cutler'],NA,week_4,Chicago Bears,2013
+['Matt Forte'],NA,week_4,Chicago Bears,2013
+['Isaiah Frey'],NA,week_4,Chicago Bears,2013
+['Robbie Gould'],NA,week_4,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_4,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_4,Chicago Bears,2013
+['Kyle Long'],NA,week_4,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_4,Chicago Bears,2013
+['Brandon Marshall'],NA,week_4,Chicago Bears,2013
+['Derrick Martin'],NA,week_4,Chicago Bears,2013
+['Shea McClellin'],NA,week_4,Chicago Bears,2013
+['Sherrick McManis'],Questionable: quadricep,week_4,Chicago Bears,2013
+['Henry Melton'],Out: knee,week_4,Chicago Bears,2013
+['Jordan Mills'],NA,week_4,Chicago Bears,2013
+['Stephen Paea'],NA,week_4,Chicago Bears,2013
+['Julius Peppers'],NA,week_4,Chicago Bears,2013
+['Jay Ratliff'],NA,week_4,Chicago Bears,2013
+['Dante Rosario'],NA,week_4,Chicago Bears,2013
+['Craig Steltz'],NA,week_4,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_4,Chicago Bears,2013
+['Anthony Walters'],NA,week_4,Chicago Bears,2013
+['D.J. Williams'],NA,week_4,Chicago Bears,2013
+['Major Wright'],NA,week_4,Chicago Bears,2013
+['James Anderson'],NA,week_5,Chicago Bears,2013
+['Joe Anderson'],NA,week_5,Chicago Bears,2013
+['Earl Bennett'],NA,week_5,Chicago Bears,2013
+['Martellus Bennett'],Questionable: shoulder,week_5,Chicago Bears,2013
+['Zackary Bowman'],NA,week_5,Chicago Bears,2013
+['Lance Briggs'],NA,week_5,Chicago Bears,2013
+['Eben Britton'],NA,week_5,Chicago Bears,2013
+['James Brown'],NA,week_5,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_5,Chicago Bears,2013
+['Nate Collins'],Questionable: knee,week_5,Chicago Bears,2013
+['Chris Conte'],NA,week_5,Chicago Bears,2013
+['Blake Costanzo'],NA,week_5,Chicago Bears,2013
+['Jay Cutler'],NA,week_5,Chicago Bears,2013
+['Matt Forte'],NA,week_5,Chicago Bears,2013
+['Isaiah Frey'],NA,week_5,Chicago Bears,2013
+['Robbie Gould'],NA,week_5,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_5,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_5,Chicago Bears,2013
+['Kyle Long'],NA,week_5,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_5,Chicago Bears,2013
+['Brandon Marshall'],Probable: foot,week_5,Chicago Bears,2013
+['Derrick Martin'],NA,week_5,Chicago Bears,2013
+['Shea McClellin'],NA,week_5,Chicago Bears,2013
+['Sherrick McManis'],Questionable: quadricep,week_5,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_5,Chicago Bears,2013
+['Jordan Mills'],NA,week_5,Chicago Bears,2013
+['Stephen Paea'],Questionable: toe,week_5,Chicago Bears,2013
+['Julius Peppers'],Probable: chest,week_5,Chicago Bears,2013
+['Jay Ratliff'],NA,week_5,Chicago Bears,2013
+['Dante Rosario'],NA,week_5,Chicago Bears,2013
+['Craig Steltz'],NA,week_5,Chicago Bears,2013
+['Charles Tillman'],Questionable: groin,week_5,Chicago Bears,2013
+['Anthony Walters'],Questionable: hamstring,week_5,Chicago Bears,2013
+['D.J. Williams'],Questionable: illness,week_5,Chicago Bears,2013
+['Major Wright'],NA,week_5,Chicago Bears,2013
+['James Anderson'],NA,week_6,Chicago Bears,2013
+['Joe Anderson'],Probable: knee,week_6,Chicago Bears,2013
+['Earl Bennett'],NA,week_6,Chicago Bears,2013
+['Martellus Bennett'],Questionable: knee,week_6,Chicago Bears,2013
+['Zackary Bowman'],NA,week_6,Chicago Bears,2013
+['Lance Briggs'],Questionable: hip,week_6,Chicago Bears,2013
+['Eben Britton'],Probable: foot,week_6,Chicago Bears,2013
+['James Brown'],NA,week_6,Chicago Bears,2013
+['Jermon Bushrod'],Questionable: calf,week_6,Chicago Bears,2013
+['Nate Collins'],Questionable: knee,week_6,Chicago Bears,2013
+['Chris Conte'],NA,week_6,Chicago Bears,2013
+['Blake Costanzo'],NA,week_6,Chicago Bears,2013
+['Jay Cutler'],NA,week_6,Chicago Bears,2013
+['Matt Forte'],NA,week_6,Chicago Bears,2013
+['Isaiah Frey'],NA,week_6,Chicago Bears,2013
+['Robbie Gould'],NA,week_6,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_6,Chicago Bears,2013
+['Alshon Jeffery'],Questionable: ankle,week_6,Chicago Bears,2013
+['Kyle Long'],NA,week_6,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_6,Chicago Bears,2013
+['Brandon Marshall'],NA,week_6,Chicago Bears,2013
+['Derrick Martin'],NA,week_6,Chicago Bears,2013
+['Shea McClellin'],NA,week_6,Chicago Bears,2013
+['Sherrick McManis'],NA,week_6,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_6,Chicago Bears,2013
+['Jordan Mills'],NA,week_6,Chicago Bears,2013
+['Stephen Paea'],Out: toe,week_6,Chicago Bears,2013
+['Julius Peppers'],NA,week_6,Chicago Bears,2013
+['Jay Ratliff'],NA,week_6,Chicago Bears,2013
+['Dante Rosario'],NA,week_6,Chicago Bears,2013
+['Craig Steltz'],NA,week_6,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_6,Chicago Bears,2013
+['Anthony Walters'],Out: hamstring,week_6,Chicago Bears,2013
+['D.J. Williams'],NA,week_6,Chicago Bears,2013
+['Major Wright'],NA,week_6,Chicago Bears,2013
+['James Anderson'],Questionable: back,week_7,Chicago Bears,2013
+['Joe Anderson'],NA,week_7,Chicago Bears,2013
+['Earl Bennett'],NA,week_7,Chicago Bears,2013
+['Martellus Bennett'],Questionable: knee,week_7,Chicago Bears,2013
+['Zackary Bowman'],NA,week_7,Chicago Bears,2013
+['Lance Briggs'],Questionable: shoulder,week_7,Chicago Bears,2013
+['Eben Britton'],NA,week_7,Chicago Bears,2013
+['James Brown'],NA,week_7,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_7,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_7,Chicago Bears,2013
+['Chris Conte'],NA,week_7,Chicago Bears,2013
+['Blake Costanzo'],NA,week_7,Chicago Bears,2013
+['Jay Cutler'],Questionable: groin,week_7,Chicago Bears,2013
+['Matt Forte'],NA,week_7,Chicago Bears,2013
+['Isaiah Frey'],NA,week_7,Chicago Bears,2013
+['Robbie Gould'],NA,week_7,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_7,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_7,Chicago Bears,2013
+['Kyle Long'],NA,week_7,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_7,Chicago Bears,2013
+['Brandon Marshall'],NA,week_7,Chicago Bears,2013
+['Derrick Martin'],NA,week_7,Chicago Bears,2013
+['Shea McClellin'],NA,week_7,Chicago Bears,2013
+['Sherrick McManis'],NA,week_7,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_7,Chicago Bears,2013
+['Jordan Mills'],NA,week_7,Chicago Bears,2013
+['Stephen Paea'],Questionable: toe,week_7,Chicago Bears,2013
+['Julius Peppers'],NA,week_7,Chicago Bears,2013
+['Jay Ratliff'],NA,week_7,Chicago Bears,2013
+['Dante Rosario'],NA,week_7,Chicago Bears,2013
+['Craig Steltz'],NA,week_7,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_7,Chicago Bears,2013
+['Anthony Walters'],Questionable: hamstring,week_7,Chicago Bears,2013
+['D.J. Williams'],Out: chest,week_7,Chicago Bears,2013
+['Major Wright'],Questionable: knee,week_7,Chicago Bears,2013
+['James Anderson'],NA,week_9,Chicago Bears,2013
+['Joe Anderson'],Questionable: abdomen,week_9,Chicago Bears,2013
+['Earl Bennett'],NA,week_9,Chicago Bears,2013
+['Martellus Bennett'],NA,week_9,Chicago Bears,2013
+['Zackary Bowman'],NA,week_9,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_9,Chicago Bears,2013
+['Eben Britton'],NA,week_9,Chicago Bears,2013
+['James Brown'],NA,week_9,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_9,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_9,Chicago Bears,2013
+['Chris Conte'],NA,week_9,Chicago Bears,2013
+['Blake Costanzo'],Questionable: leg,week_9,Chicago Bears,2013
+['Jay Cutler'],Out: groin,week_9,Chicago Bears,2013
+['Matt Forte'],NA,week_9,Chicago Bears,2013
+['Isaiah Frey'],NA,week_9,Chicago Bears,2013
+['Robbie Gould'],NA,week_9,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_9,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_9,Chicago Bears,2013
+['Kyle Long'],NA,week_9,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_9,Chicago Bears,2013
+['Brandon Marshall'],NA,week_9,Chicago Bears,2013
+['Derrick Martin'],NA,week_9,Chicago Bears,2013
+['Shea McClellin'],NA,week_9,Chicago Bears,2013
+['Sherrick McManis'],NA,week_9,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_9,Chicago Bears,2013
+['Jordan Mills'],NA,week_9,Chicago Bears,2013
+['Stephen Paea'],NA,week_9,Chicago Bears,2013
+['Julius Peppers'],NA,week_9,Chicago Bears,2013
+['Jay Ratliff'],NA,week_9,Chicago Bears,2013
+['Dante Rosario'],NA,week_9,Chicago Bears,2013
+['Craig Steltz'],NA,week_9,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_9,Chicago Bears,2013
+['Anthony Walters'],NA,week_9,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_9,Chicago Bears,2013
+['Major Wright'],Questionable: knee,week_9,Chicago Bears,2013
+['James Anderson'],NA,week_10,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_10,Chicago Bears,2013
+['Earl Bennett'],NA,week_10,Chicago Bears,2013
+['Martellus Bennett'],NA,week_10,Chicago Bears,2013
+['Zackary Bowman'],NA,week_10,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_10,Chicago Bears,2013
+['Eben Britton'],NA,week_10,Chicago Bears,2013
+['James Brown'],Questionable: illness,week_10,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_10,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_10,Chicago Bears,2013
+['Chris Conte'],NA,week_10,Chicago Bears,2013
+['Blake Costanzo'],Questionable: back,week_10,Chicago Bears,2013
+['Jay Cutler'],Doubtful: groin,week_10,Chicago Bears,2013
+['Matt Forte'],NA,week_10,Chicago Bears,2013
+['Isaiah Frey'],NA,week_10,Chicago Bears,2013
+['Robbie Gould'],NA,week_10,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_10,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_10,Chicago Bears,2013
+['Kyle Long'],NA,week_10,Chicago Bears,2013
+['Patrick Mannelly'],Questionable: calf,week_10,Chicago Bears,2013
+['Brandon Marshall'],NA,week_10,Chicago Bears,2013
+['Derrick Martin'],NA,week_10,Chicago Bears,2013
+['Shea McClellin'],Probable: hamstring,week_10,Chicago Bears,2013
+['Sherrick McManis'],NA,week_10,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_10,Chicago Bears,2013
+['Jordan Mills'],NA,week_10,Chicago Bears,2013
+['Stephen Paea'],NA,week_10,Chicago Bears,2013
+['Julius Peppers'],NA,week_10,Chicago Bears,2013
+['Jay Ratliff'],Questionable: groin,week_10,Chicago Bears,2013
+['Dante Rosario'],Questionable: ankle,week_10,Chicago Bears,2013
+['Craig Steltz'],NA,week_10,Chicago Bears,2013
+['Charles Tillman'],Questionable: knee,week_10,Chicago Bears,2013
+['Anthony Walters'],NA,week_10,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_10,Chicago Bears,2013
+['Major Wright'],NA,week_10,Chicago Bears,2013
+['James Anderson'],NA,week_11,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_11,Chicago Bears,2013
+['Earl Bennett'],NA,week_11,Chicago Bears,2013
+['Martellus Bennett'],Questionable: ankle,week_11,Chicago Bears,2013
+['Zackary Bowman'],NA,week_11,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_11,Chicago Bears,2013
+['Eben Britton'],NA,week_11,Chicago Bears,2013
+['James Brown'],NA,week_11,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_11,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_11,Chicago Bears,2013
+['Chris Conte'],NA,week_11,Chicago Bears,2013
+['Blake Costanzo'],NA,week_11,Chicago Bears,2013
+['Jay Cutler'],Out: ankle/groin,week_11,Chicago Bears,2013
+['Matt Forte'],NA,week_11,Chicago Bears,2013
+['Isaiah Frey'],NA,week_11,Chicago Bears,2013
+['Robbie Gould'],NA,week_11,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_11,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_11,Chicago Bears,2013
+['Kyle Long'],NA,week_11,Chicago Bears,2013
+['Patrick Mannelly'],Questionable: calf,week_11,Chicago Bears,2013
+['Brandon Marshall'],NA,week_11,Chicago Bears,2013
+['Derrick Martin'],NA,week_11,Chicago Bears,2013
+['Shea McClellin'],Questionable: hamstring,week_11,Chicago Bears,2013
+['Sherrick McManis'],NA,week_11,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_11,Chicago Bears,2013
+['Jordan Mills'],Questionable: quadricep,week_11,Chicago Bears,2013
+['Stephen Paea'],NA,week_11,Chicago Bears,2013
+['Julius Peppers'],NA,week_11,Chicago Bears,2013
+['Jay Ratliff'],Questionable: groin,week_11,Chicago Bears,2013
+['Dante Rosario'],NA,week_11,Chicago Bears,2013
+['Craig Steltz'],NA,week_11,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_11,Chicago Bears,2013
+['Anthony Walters'],NA,week_11,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_11,Chicago Bears,2013
+['Major Wright'],NA,week_11,Chicago Bears,2013
+['James Anderson'],NA,week_12,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_12,Chicago Bears,2013
+['Earl Bennett'],NA,week_12,Chicago Bears,2013
+['Martellus Bennett'],NA,week_12,Chicago Bears,2013
+['Zackary Bowman'],NA,week_12,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_12,Chicago Bears,2013
+['Eben Britton'],NA,week_12,Chicago Bears,2013
+['James Brown'],NA,week_12,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_12,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_12,Chicago Bears,2013
+['Chris Conte'],NA,week_12,Chicago Bears,2013
+['Blake Costanzo'],NA,week_12,Chicago Bears,2013
+['Jay Cutler'],Out: ankle/groin,week_12,Chicago Bears,2013
+['Matt Forte'],NA,week_12,Chicago Bears,2013
+['Isaiah Frey'],Questionable: hand,week_12,Chicago Bears,2013
+['Robbie Gould'],NA,week_12,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_12,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_12,Chicago Bears,2013
+['Kyle Long'],NA,week_12,Chicago Bears,2013
+['Patrick Mannelly'],Probable: calf,week_12,Chicago Bears,2013
+['Brandon Marshall'],NA,week_12,Chicago Bears,2013
+['Derrick Martin'],NA,week_12,Chicago Bears,2013
+['Shea McClellin'],Probable: hamstring,week_12,Chicago Bears,2013
+['Sherrick McManis'],NA,week_12,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_12,Chicago Bears,2013
+['Jordan Mills'],Questionable: quadricep,week_12,Chicago Bears,2013
+['Stephen Paea'],Questionable: toe,week_12,Chicago Bears,2013
+['Julius Peppers'],NA,week_12,Chicago Bears,2013
+['Jay Ratliff'],Questionable: groin,week_12,Chicago Bears,2013
+['Dante Rosario'],NA,week_12,Chicago Bears,2013
+['Craig Steltz'],Questionable: concussion,week_12,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_12,Chicago Bears,2013
+['Anthony Walters'],NA,week_12,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_12,Chicago Bears,2013
+['Major Wright'],NA,week_12,Chicago Bears,2013
+['James Anderson'],NA,week_13,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_13,Chicago Bears,2013
+['Earl Bennett'],NA,week_13,Chicago Bears,2013
+['Martellus Bennett'],NA,week_13,Chicago Bears,2013
+['Zackary Bowman'],NA,week_13,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_13,Chicago Bears,2013
+['Eben Britton'],NA,week_13,Chicago Bears,2013
+['James Brown'],NA,week_13,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_13,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_13,Chicago Bears,2013
+['Chris Conte'],NA,week_13,Chicago Bears,2013
+['Blake Costanzo'],NA,week_13,Chicago Bears,2013
+['Jay Cutler'],Out: ankle/groin,week_13,Chicago Bears,2013
+['Matt Forte'],Probable: knee,week_13,Chicago Bears,2013
+['Isaiah Frey'],NA,week_13,Chicago Bears,2013
+['Robbie Gould'],Probable: illness,week_13,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_13,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_13,Chicago Bears,2013
+['Kyle Long'],NA,week_13,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_13,Chicago Bears,2013
+['Brandon Marshall'],Probable: quadriceps,week_13,Chicago Bears,2013
+['Derrick Martin'],Questionable: hamstring,week_13,Chicago Bears,2013
+['Shea McClellin'],NA,week_13,Chicago Bears,2013
+['Sherrick McManis'],NA,week_13,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_13,Chicago Bears,2013
+['Jordan Mills'],NA,week_13,Chicago Bears,2013
+['Stephen Paea'],Questionable: toe,week_13,Chicago Bears,2013
+['Julius Peppers'],NA,week_13,Chicago Bears,2013
+['Jay Ratliff'],Questionable: groin,week_13,Chicago Bears,2013
+['Dante Rosario'],NA,week_13,Chicago Bears,2013
+['Craig Steltz'],NA,week_13,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_13,Chicago Bears,2013
+['Anthony Walters'],Questionable: groin,week_13,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_13,Chicago Bears,2013
+['Major Wright'],Questionable: hamstring,week_13,Chicago Bears,2013
+['James Anderson'],NA,week_14,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_14,Chicago Bears,2013
+['Earl Bennett'],NA,week_14,Chicago Bears,2013
+['Martellus Bennett'],NA,week_14,Chicago Bears,2013
+['Zackary Bowman'],NA,week_14,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_14,Chicago Bears,2013
+['Eben Britton'],NA,week_14,Chicago Bears,2013
+['James Brown'],NA,week_14,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_14,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_14,Chicago Bears,2013
+['Chris Conte'],NA,week_14,Chicago Bears,2013
+['Blake Costanzo'],NA,week_14,Chicago Bears,2013
+['Jay Cutler'],Out: ankle/groin,week_14,Chicago Bears,2013
+['Matt Forte'],NA,week_14,Chicago Bears,2013
+['Isaiah Frey'],NA,week_14,Chicago Bears,2013
+['Robbie Gould'],NA,week_14,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_14,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_14,Chicago Bears,2013
+['Kyle Long'],Probable: ankle,week_14,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_14,Chicago Bears,2013
+['Brandon Marshall'],Questionable: quadriceps,week_14,Chicago Bears,2013
+['Derrick Martin'],NA,week_14,Chicago Bears,2013
+['Shea McClellin'],NA,week_14,Chicago Bears,2013
+['Sherrick McManis'],NA,week_14,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_14,Chicago Bears,2013
+['Jordan Mills'],NA,week_14,Chicago Bears,2013
+['Stephen Paea'],NA,week_14,Chicago Bears,2013
+['Julius Peppers'],NA,week_14,Chicago Bears,2013
+['Jay Ratliff'],NA,week_14,Chicago Bears,2013
+['Dante Rosario'],NA,week_14,Chicago Bears,2013
+['Craig Steltz'],NA,week_14,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_14,Chicago Bears,2013
+['Anthony Walters'],Questionable: groin,week_14,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_14,Chicago Bears,2013
+['Major Wright'],Questionable: hamstring,week_14,Chicago Bears,2013
+['James Anderson'],NA,week_15,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_15,Chicago Bears,2013
+['Earl Bennett'],NA,week_15,Chicago Bears,2013
+['Martellus Bennett'],NA,week_15,Chicago Bears,2013
+['Zackary Bowman'],NA,week_15,Chicago Bears,2013
+['Lance Briggs'],Out: shoulder,week_15,Chicago Bears,2013
+['Eben Britton'],NA,week_15,Chicago Bears,2013
+['James Brown'],NA,week_15,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_15,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_15,Chicago Bears,2013
+['Chris Conte'],NA,week_15,Chicago Bears,2013
+['Blake Costanzo'],NA,week_15,Chicago Bears,2013
+['Jay Cutler'],Questionable: ankle/groin,week_15,Chicago Bears,2013
+['Matt Forte'],NA,week_15,Chicago Bears,2013
+['Isaiah Frey'],NA,week_15,Chicago Bears,2013
+['Robbie Gould'],NA,week_15,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_15,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_15,Chicago Bears,2013
+['Kyle Long'],NA,week_15,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_15,Chicago Bears,2013
+['Brandon Marshall'],NA,week_15,Chicago Bears,2013
+['Derrick Martin'],NA,week_15,Chicago Bears,2013
+['Shea McClellin'],NA,week_15,Chicago Bears,2013
+['Sherrick McManis'],NA,week_15,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_15,Chicago Bears,2013
+['Jordan Mills'],NA,week_15,Chicago Bears,2013
+['Stephen Paea'],NA,week_15,Chicago Bears,2013
+['Julius Peppers'],NA,week_15,Chicago Bears,2013
+['Jay Ratliff'],NA,week_15,Chicago Bears,2013
+['Dante Rosario'],NA,week_15,Chicago Bears,2013
+['Craig Steltz'],NA,week_15,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_15,Chicago Bears,2013
+['Anthony Walters'],NA,week_15,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_15,Chicago Bears,2013
+['Major Wright'],NA,week_15,Chicago Bears,2013
+['James Anderson'],NA,week_16,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_16,Chicago Bears,2013
+['Earl Bennett'],NA,week_16,Chicago Bears,2013
+['Martellus Bennett'],NA,week_16,Chicago Bears,2013
+['Zackary Bowman'],NA,week_16,Chicago Bears,2013
+['Lance Briggs'],Questionable: shoulder,week_16,Chicago Bears,2013
+['Eben Britton'],NA,week_16,Chicago Bears,2013
+['James Brown'],NA,week_16,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_16,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_16,Chicago Bears,2013
+['Chris Conte'],Questionable: head,week_16,Chicago Bears,2013
+['Blake Costanzo'],NA,week_16,Chicago Bears,2013
+['Jay Cutler'],NA,week_16,Chicago Bears,2013
+['Matt Forte'],NA,week_16,Chicago Bears,2013
+['Isaiah Frey'],NA,week_16,Chicago Bears,2013
+['Robbie Gould'],NA,week_16,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_16,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_16,Chicago Bears,2013
+['Kyle Long'],NA,week_16,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_16,Chicago Bears,2013
+['Brandon Marshall'],Probable: hamstring,week_16,Chicago Bears,2013
+['Derrick Martin'],NA,week_16,Chicago Bears,2013
+['Shea McClellin'],NA,week_16,Chicago Bears,2013
+['Sherrick McManis'],NA,week_16,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_16,Chicago Bears,2013
+['Jordan Mills'],NA,week_16,Chicago Bears,2013
+['Stephen Paea'],NA,week_16,Chicago Bears,2013
+['Julius Peppers'],NA,week_16,Chicago Bears,2013
+['Jay Ratliff'],NA,week_16,Chicago Bears,2013
+['Dante Rosario'],NA,week_16,Chicago Bears,2013
+['Craig Steltz'],NA,week_16,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_16,Chicago Bears,2013
+['Anthony Walters'],NA,week_16,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_16,Chicago Bears,2013
+['Major Wright'],NA,week_16,Chicago Bears,2013
+['James Anderson'],NA,week_17,Chicago Bears,2013
+['Joe Anderson'],Injured Reserve: abdomen,week_17,Chicago Bears,2013
+['Earl Bennett'],Out: personal/shoulder,week_17,Chicago Bears,2013
+['Martellus Bennett'],NA,week_17,Chicago Bears,2013
+['Zackary Bowman'],NA,week_17,Chicago Bears,2013
+['Lance Briggs'],Probable: shoulder,week_17,Chicago Bears,2013
+['Eben Britton'],NA,week_17,Chicago Bears,2013
+['James Brown'],NA,week_17,Chicago Bears,2013
+['Jermon Bushrod'],NA,week_17,Chicago Bears,2013
+['Nate Collins'],Injured Reserve: knee,week_17,Chicago Bears,2013
+['Chris Conte'],NA,week_17,Chicago Bears,2013
+['Blake Costanzo'],NA,week_17,Chicago Bears,2013
+['Jay Cutler'],NA,week_17,Chicago Bears,2013
+['Matt Forte'],NA,week_17,Chicago Bears,2013
+['Isaiah Frey'],NA,week_17,Chicago Bears,2013
+['Robbie Gould'],NA,week_17,Chicago Bears,2013
+['Kelvin Hayden'],Injured Reserve: hamstring,week_17,Chicago Bears,2013
+['Alshon Jeffery'],NA,week_17,Chicago Bears,2013
+['Kyle Long'],NA,week_17,Chicago Bears,2013
+['Patrick Mannelly'],NA,week_17,Chicago Bears,2013
+['Brandon Marshall'],NA,week_17,Chicago Bears,2013
+['Derrick Martin'],NA,week_17,Chicago Bears,2013
+['Shea McClellin'],NA,week_17,Chicago Bears,2013
+['Sherrick McManis'],NA,week_17,Chicago Bears,2013
+['Henry Melton'],Injured Reserve: knee,week_17,Chicago Bears,2013
+['Jordan Mills'],NA,week_17,Chicago Bears,2013
+['Stephen Paea'],NA,week_17,Chicago Bears,2013
+['Julius Peppers'],NA,week_17,Chicago Bears,2013
+['Jay Ratliff'],NA,week_17,Chicago Bears,2013
+['Dante Rosario'],NA,week_17,Chicago Bears,2013
+['Craig Steltz'],NA,week_17,Chicago Bears,2013
+['Charles Tillman'],Injured Reserve: triceps,week_17,Chicago Bears,2013
+['Anthony Walters'],NA,week_17,Chicago Bears,2013
+['D.J. Williams'],Injured Reserve: chest,week_17,Chicago Bears,2013
+['Major Wright'],NA,week_17,Chicago Bears,2013

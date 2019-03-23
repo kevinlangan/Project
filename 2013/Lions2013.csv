@@ -1,0 +1,641 @@
+﻿name,injury,week,team,year
+['Ezekiel Ansah'],Doubtful: head,week_1,Detroit Lions,2013
+['Joique Bell'],NA,week_1,Detroit Lions,2013
+['Bill Bentley'],NA,week_1,Detroit Lions,2013
+['Ryan Broyles'],NA,week_1,Detroit Lions,2013
+['Nate Burleson'],NA,week_1,Detroit Lions,2013
+['Reggie Bush'],NA,week_1,Detroit Lions,2013
+['Don Carey'],NA,week_1,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_1,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_1,Detroit Lions,2013
+['Patrick Edwards'],NA,week_1,Detroit Lions,2013
+['Nick Fairley'],NA,week_1,Detroit Lions,2013
+['Andre Fluellen'],NA,week_1,Detroit Lions,2013
+['Jason Fox'],Questionable: groin,week_1,Detroit Lions,2013
+['Dylan Gandy'],NA,week_1,Detroit Lions,2013
+['Jonte Green'],NA,week_1,Detroit Lions,2013
+['Chris Greenwood'],NA,week_1,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_1,Detroit Lions,2013
+['Corey Hilliard'],NA,week_1,Detroit Lions,2013
+['Chris Houston'],NA,week_1,Detroit Lions,2013
+['Israel Idonije'],NA,week_1,Detroit Lions,2013
+['Calvin Johnson'],NA,week_1,Detroit Lions,2013
+['Jason Jones'],Probable: knee,week_1,Detroit Lions,2013
+['DeAndre Levy'],NA,week_1,Detroit Lions,2013
+['Travis Lewis'],NA,week_1,Detroit Lions,2013
+['Sam Martin'],NA,week_1,Detroit Lions,2013
+['Rashean Mathis'],NA,week_1,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_1,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_1,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_1,Detroit Lions,2013
+['Glover Quin'],NA,week_1,Detroit Lions,2013
+['Riley Reiff'],NA,week_1,Detroit Lions,2013
+['Theo Riddick'],NA,week_1,Detroit Lions,2013
+['Tony Scheffler'],NA,week_1,Detroit Lions,2013
+['Rob Sims'],NA,week_1,Detroit Lions,2013
+['Darius Slay'],NA,week_1,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_1,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_1,Detroit Lions,2013
+['Larry Warford'],NA,week_1,Detroit Lions,2013
+['John Wendling'],NA,week_1,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_1,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_2,Detroit Lions,2013
+['Joique Bell'],NA,week_2,Detroit Lions,2013
+['Bill Bentley'],NA,week_2,Detroit Lions,2013
+['Ryan Broyles'],NA,week_2,Detroit Lions,2013
+['Nate Burleson'],NA,week_2,Detroit Lions,2013
+['Reggie Bush'],Probable: thumb/groin,week_2,Detroit Lions,2013
+['Don Carey'],Questionable: hamstring,week_2,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_2,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_2,Detroit Lions,2013
+['Patrick Edwards'],NA,week_2,Detroit Lions,2013
+['Nick Fairley'],Questionable: shoulder,week_2,Detroit Lions,2013
+['Andre Fluellen'],NA,week_2,Detroit Lions,2013
+['Jason Fox'],Questionable: groin,week_2,Detroit Lions,2013
+['Dylan Gandy'],NA,week_2,Detroit Lions,2013
+['Jonte Green'],NA,week_2,Detroit Lions,2013
+['Chris Greenwood'],NA,week_2,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_2,Detroit Lions,2013
+['Corey Hilliard'],NA,week_2,Detroit Lions,2013
+['Chris Houston'],NA,week_2,Detroit Lions,2013
+['Israel Idonije'],NA,week_2,Detroit Lions,2013
+['Calvin Johnson'],NA,week_2,Detroit Lions,2013
+['Jason Jones'],Questionable: knee,week_2,Detroit Lions,2013
+['DeAndre Levy'],NA,week_2,Detroit Lions,2013
+['Travis Lewis'],NA,week_2,Detroit Lions,2013
+['Sam Martin'],NA,week_2,Detroit Lions,2013
+['Rashean Mathis'],NA,week_2,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_2,Detroit Lions,2013
+['Ashlee Palmer'],Probable: ankle,week_2,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_2,Detroit Lions,2013
+['Glover Quin'],NA,week_2,Detroit Lions,2013
+['Riley Reiff'],NA,week_2,Detroit Lions,2013
+['Theo Riddick'],NA,week_2,Detroit Lions,2013
+['Tony Scheffler'],NA,week_2,Detroit Lions,2013
+['Rob Sims'],NA,week_2,Detroit Lions,2013
+['Darius Slay'],NA,week_2,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_2,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_2,Detroit Lions,2013
+['Larry Warford'],NA,week_2,Detroit Lions,2013
+['John Wendling'],Questionable: ankle,week_2,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_2,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_3,Detroit Lions,2013
+['Joique Bell'],NA,week_3,Detroit Lions,2013
+['Bill Bentley'],NA,week_3,Detroit Lions,2013
+['Ryan Broyles'],NA,week_3,Detroit Lions,2013
+['Nate Burleson'],NA,week_3,Detroit Lions,2013
+['Reggie Bush'],Questionable: knee,week_3,Detroit Lions,2013
+['Don Carey'],Questionable: hamstring,week_3,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_3,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_3,Detroit Lions,2013
+['Patrick Edwards'],Questionable: ankle,week_3,Detroit Lions,2013
+['Nick Fairley'],Questionable: shoulder,week_3,Detroit Lions,2013
+['Andre Fluellen'],NA,week_3,Detroit Lions,2013
+['Jason Fox'],Questionable: groin,week_3,Detroit Lions,2013
+['Dylan Gandy'],NA,week_3,Detroit Lions,2013
+['Jonte Green'],NA,week_3,Detroit Lions,2013
+['Chris Greenwood'],NA,week_3,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_3,Detroit Lions,2013
+['Corey Hilliard'],NA,week_3,Detroit Lions,2013
+['Chris Houston'],NA,week_3,Detroit Lions,2013
+['Israel Idonije'],NA,week_3,Detroit Lions,2013
+['Calvin Johnson'],NA,week_3,Detroit Lions,2013
+['Jason Jones'],Probable: knee,week_3,Detroit Lions,2013
+['DeAndre Levy'],NA,week_3,Detroit Lions,2013
+['Travis Lewis'],NA,week_3,Detroit Lions,2013
+['Sam Martin'],NA,week_3,Detroit Lions,2013
+['Rashean Mathis'],NA,week_3,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_3,Detroit Lions,2013
+['Ashlee Palmer'],Questionable: ankle,week_3,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_3,Detroit Lions,2013
+['Glover Quin'],NA,week_3,Detroit Lions,2013
+['Riley Reiff'],NA,week_3,Detroit Lions,2013
+['Theo Riddick'],NA,week_3,Detroit Lions,2013
+['Tony Scheffler'],NA,week_3,Detroit Lions,2013
+['Rob Sims'],Questionable: knee,week_3,Detroit Lions,2013
+['Darius Slay'],NA,week_3,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_3,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_3,Detroit Lions,2013
+['Larry Warford'],NA,week_3,Detroit Lions,2013
+['John Wendling'],NA,week_3,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_3,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: abdomen,week_4,Detroit Lions,2013
+['Joique Bell'],NA,week_4,Detroit Lions,2013
+['Bill Bentley'],NA,week_4,Detroit Lions,2013
+['Ryan Broyles'],NA,week_4,Detroit Lions,2013
+['Nate Burleson'],Out: arm,week_4,Detroit Lions,2013
+['Reggie Bush'],Probable: knee,week_4,Detroit Lions,2013
+['Don Carey'],Questionable: hamstring,week_4,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_4,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_4,Detroit Lions,2013
+['Patrick Edwards'],Questionable: ankle,week_4,Detroit Lions,2013
+['Nick Fairley'],NA,week_4,Detroit Lions,2013
+['Andre Fluellen'],NA,week_4,Detroit Lions,2013
+['Jason Fox'],Questionable: groin,week_4,Detroit Lions,2013
+['Dylan Gandy'],NA,week_4,Detroit Lions,2013
+['Jonte Green'],NA,week_4,Detroit Lions,2013
+['Chris Greenwood'],NA,week_4,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_4,Detroit Lions,2013
+['Corey Hilliard'],Questionable: groin,week_4,Detroit Lions,2013
+['Chris Houston'],Questionable: hand,week_4,Detroit Lions,2013
+['Israel Idonije'],NA,week_4,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_4,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_4,Detroit Lions,2013
+['DeAndre Levy'],Questionable: abdomen,week_4,Detroit Lions,2013
+['Travis Lewis'],NA,week_4,Detroit Lions,2013
+['Sam Martin'],NA,week_4,Detroit Lions,2013
+['Rashean Mathis'],NA,week_4,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_4,Detroit Lions,2013
+['Ashlee Palmer'],Questionable: ankle,week_4,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_4,Detroit Lions,2013
+['Glover Quin'],NA,week_4,Detroit Lions,2013
+['Riley Reiff'],NA,week_4,Detroit Lions,2013
+['Theo Riddick'],NA,week_4,Detroit Lions,2013
+['Tony Scheffler'],NA,week_4,Detroit Lions,2013
+['Rob Sims'],Questionable: shoulder,week_4,Detroit Lions,2013
+['Darius Slay'],NA,week_4,Detroit Lions,2013
+['Ndamukong Suh'],Probable: knee,week_4,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_4,Detroit Lions,2013
+['Larry Warford'],NA,week_4,Detroit Lions,2013
+['John Wendling'],NA,week_4,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_4,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: abdomen,week_5,Detroit Lions,2013
+['Joique Bell'],NA,week_5,Detroit Lions,2013
+['Bill Bentley'],NA,week_5,Detroit Lions,2013
+['Ryan Broyles'],NA,week_5,Detroit Lions,2013
+['Nate Burleson'],Out: arm,week_5,Detroit Lions,2013
+['Reggie Bush'],NA,week_5,Detroit Lions,2013
+['Don Carey'],NA,week_5,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_5,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_5,Detroit Lions,2013
+['Patrick Edwards'],Probable: ankle,week_5,Detroit Lions,2013
+['Nick Fairley'],NA,week_5,Detroit Lions,2013
+['Andre Fluellen'],NA,week_5,Detroit Lions,2013
+['Jason Fox'],Probable: groin,week_5,Detroit Lions,2013
+['Dylan Gandy'],NA,week_5,Detroit Lions,2013
+['Jonte Green'],NA,week_5,Detroit Lions,2013
+['Chris Greenwood'],NA,week_5,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_5,Detroit Lions,2013
+['Corey Hilliard'],NA,week_5,Detroit Lions,2013
+['Chris Houston'],Questionable: hamstring,week_5,Detroit Lions,2013
+['Israel Idonije'],Questionable: hamstring,week_5,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_5,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_5,Detroit Lions,2013
+['DeAndre Levy'],NA,week_5,Detroit Lions,2013
+['Travis Lewis'],NA,week_5,Detroit Lions,2013
+['Sam Martin'],NA,week_5,Detroit Lions,2013
+['Rashean Mathis'],Probable: head,week_5,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_5,Detroit Lions,2013
+['Ashlee Palmer'],Probable: ankle,week_5,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_5,Detroit Lions,2013
+['Glover Quin'],Questionable: ankle,week_5,Detroit Lions,2013
+['Riley Reiff'],NA,week_5,Detroit Lions,2013
+['Theo Riddick'],NA,week_5,Detroit Lions,2013
+['Tony Scheffler'],NA,week_5,Detroit Lions,2013
+['Rob Sims'],Questionable: shoulder,week_5,Detroit Lions,2013
+['Darius Slay'],NA,week_5,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_5,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_5,Detroit Lions,2013
+['Larry Warford'],NA,week_5,Detroit Lions,2013
+['John Wendling'],NA,week_5,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_5,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_6,Detroit Lions,2013
+['Joique Bell'],NA,week_6,Detroit Lions,2013
+['Bill Bentley'],NA,week_6,Detroit Lions,2013
+['Ryan Broyles'],NA,week_6,Detroit Lions,2013
+['Nate Burleson'],Out: arm,week_6,Detroit Lions,2013
+['Reggie Bush'],NA,week_6,Detroit Lions,2013
+['Don Carey'],NA,week_6,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_6,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_6,Detroit Lions,2013
+['Patrick Edwards'],NA,week_6,Detroit Lions,2013
+['Nick Fairley'],NA,week_6,Detroit Lions,2013
+['Andre Fluellen'],NA,week_6,Detroit Lions,2013
+['Jason Fox'],Questionable: knee,week_6,Detroit Lions,2013
+['Dylan Gandy'],NA,week_6,Detroit Lions,2013
+['Jonte Green'],NA,week_6,Detroit Lions,2013
+['Chris Greenwood'],NA,week_6,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_6,Detroit Lions,2013
+['Corey Hilliard'],NA,week_6,Detroit Lions,2013
+['Chris Houston'],Questionable: hamstring,week_6,Detroit Lions,2013
+['Israel Idonije'],NA,week_6,Detroit Lions,2013
+['Calvin Johnson'],Questionable: knee,week_6,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_6,Detroit Lions,2013
+['DeAndre Levy'],NA,week_6,Detroit Lions,2013
+['Travis Lewis'],NA,week_6,Detroit Lions,2013
+['Sam Martin'],NA,week_6,Detroit Lions,2013
+['Rashean Mathis'],Questionable: groin,week_6,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_6,Detroit Lions,2013
+['Ashlee Palmer'],Questionable: ankle,week_6,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_6,Detroit Lions,2013
+['Glover Quin'],Probable: ankle,week_6,Detroit Lions,2013
+['Riley Reiff'],NA,week_6,Detroit Lions,2013
+['Theo Riddick'],Questionable: concussion,week_6,Detroit Lions,2013
+['Tony Scheffler'],Questionable: concussion,week_6,Detroit Lions,2013
+['Rob Sims'],NA,week_6,Detroit Lions,2013
+['Darius Slay'],NA,week_6,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_6,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_6,Detroit Lions,2013
+['Larry Warford'],NA,week_6,Detroit Lions,2013
+['John Wendling'],NA,week_6,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_6,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_7,Detroit Lions,2013
+['Joique Bell'],Probable: ribs,week_7,Detroit Lions,2013
+['Bill Bentley'],NA,week_7,Detroit Lions,2013
+['Ryan Broyles'],NA,week_7,Detroit Lions,2013
+['Nate Burleson'],Out: arm,week_7,Detroit Lions,2013
+['Reggie Bush'],NA,week_7,Detroit Lions,2013
+['Don Carey'],NA,week_7,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_7,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_7,Detroit Lions,2013
+['Patrick Edwards'],NA,week_7,Detroit Lions,2013
+['Nick Fairley'],NA,week_7,Detroit Lions,2013
+['Andre Fluellen'],NA,week_7,Detroit Lions,2013
+['Jason Fox'],Questionable: knee,week_7,Detroit Lions,2013
+['Dylan Gandy'],NA,week_7,Detroit Lions,2013
+['Jonte Green'],NA,week_7,Detroit Lions,2013
+['Chris Greenwood'],NA,week_7,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_7,Detroit Lions,2013
+['Corey Hilliard'],NA,week_7,Detroit Lions,2013
+['Chris Houston'],NA,week_7,Detroit Lions,2013
+['Israel Idonije'],NA,week_7,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_7,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_7,Detroit Lions,2013
+['DeAndre Levy'],NA,week_7,Detroit Lions,2013
+['Travis Lewis'],NA,week_7,Detroit Lions,2013
+['Sam Martin'],NA,week_7,Detroit Lions,2013
+['Rashean Mathis'],Questionable: groin,week_7,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_7,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_7,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_7,Detroit Lions,2013
+['Glover Quin'],NA,week_7,Detroit Lions,2013
+['Riley Reiff'],NA,week_7,Detroit Lions,2013
+['Theo Riddick'],Questionable: concussion,week_7,Detroit Lions,2013
+['Tony Scheffler'],Questionable: concussion,week_7,Detroit Lions,2013
+['Rob Sims'],NA,week_7,Detroit Lions,2013
+['Darius Slay'],NA,week_7,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_7,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_7,Detroit Lions,2013
+['Larry Warford'],NA,week_7,Detroit Lions,2013
+['John Wendling'],NA,week_7,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_7,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: ankle,week_8,Detroit Lions,2013
+['Joique Bell'],NA,week_8,Detroit Lions,2013
+['Bill Bentley'],Questionable: knee,week_8,Detroit Lions,2013
+['Ryan Broyles'],Questionable: leg,week_8,Detroit Lions,2013
+['Nate Burleson'],Out: arm,week_8,Detroit Lions,2013
+['Reggie Bush'],Questionable: leg,week_8,Detroit Lions,2013
+['Don Carey'],NA,week_8,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_8,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_8,Detroit Lions,2013
+['Patrick Edwards'],NA,week_8,Detroit Lions,2013
+['Nick Fairley'],NA,week_8,Detroit Lions,2013
+['Andre Fluellen'],Questionable: concussion,week_8,Detroit Lions,2013
+['Jason Fox'],Questionable: knee,week_8,Detroit Lions,2013
+['Dylan Gandy'],NA,week_8,Detroit Lions,2013
+['Jonte Green'],NA,week_8,Detroit Lions,2013
+['Chris Greenwood'],NA,week_8,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_8,Detroit Lions,2013
+['Corey Hilliard'],Questionable: knee,week_8,Detroit Lions,2013
+['Chris Houston'],NA,week_8,Detroit Lions,2013
+['Israel Idonije'],NA,week_8,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_8,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_8,Detroit Lions,2013
+['DeAndre Levy'],NA,week_8,Detroit Lions,2013
+['Travis Lewis'],NA,week_8,Detroit Lions,2013
+['Sam Martin'],NA,week_8,Detroit Lions,2013
+['Rashean Mathis'],Probable: groin,week_8,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_8,Detroit Lions,2013
+['Ashlee Palmer'],Questionable: ankle,week_8,Detroit Lions,2013
+['Brandon Pettigrew'],Probable: knee,week_8,Detroit Lions,2013
+['Glover Quin'],NA,week_8,Detroit Lions,2013
+['Riley Reiff'],Questionable: hamstring,week_8,Detroit Lions,2013
+['Theo Riddick'],Questionable: concussion,week_8,Detroit Lions,2013
+['Tony Scheffler'],NA,week_8,Detroit Lions,2013
+['Rob Sims'],NA,week_8,Detroit Lions,2013
+['Darius Slay'],NA,week_8,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_8,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_8,Detroit Lions,2013
+['Larry Warford'],NA,week_8,Detroit Lions,2013
+['John Wendling'],NA,week_8,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_8,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: ankle,week_10,Detroit Lions,2013
+['Joique Bell'],NA,week_10,Detroit Lions,2013
+['Bill Bentley'],Questionable: knee,week_10,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_10,Detroit Lions,2013
+['Nate Burleson'],Questionable: arm,week_10,Detroit Lions,2013
+['Reggie Bush'],Probable: knee,week_10,Detroit Lions,2013
+['Don Carey'],NA,week_10,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_10,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_10,Detroit Lions,2013
+['Patrick Edwards'],NA,week_10,Detroit Lions,2013
+['Nick Fairley'],NA,week_10,Detroit Lions,2013
+['Andre Fluellen'],NA,week_10,Detroit Lions,2013
+['Jason Fox'],NA,week_10,Detroit Lions,2013
+['Dylan Gandy'],NA,week_10,Detroit Lions,2013
+['Jonte Green'],NA,week_10,Detroit Lions,2013
+['Chris Greenwood'],NA,week_10,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_10,Detroit Lions,2013
+['Corey Hilliard'],Questionable: knee,week_10,Detroit Lions,2013
+['Chris Houston'],NA,week_10,Detroit Lions,2013
+['Israel Idonije'],NA,week_10,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_10,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_10,Detroit Lions,2013
+['DeAndre Levy'],NA,week_10,Detroit Lions,2013
+['Travis Lewis'],Questionable: ankle,week_10,Detroit Lions,2013
+['Sam Martin'],NA,week_10,Detroit Lions,2013
+['Rashean Mathis'],NA,week_10,Detroit Lions,2013
+['Montell Owens'],Probable: knee,week_10,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_10,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_10,Detroit Lions,2013
+['Glover Quin'],Questionable: ankle,week_10,Detroit Lions,2013
+['Riley Reiff'],NA,week_10,Detroit Lions,2013
+['Theo Riddick'],NA,week_10,Detroit Lions,2013
+['Tony Scheffler'],NA,week_10,Detroit Lions,2013
+['Rob Sims'],NA,week_10,Detroit Lions,2013
+['Darius Slay'],NA,week_10,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_10,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_10,Detroit Lions,2013
+['Larry Warford'],NA,week_10,Detroit Lions,2013
+['John Wendling'],NA,week_10,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_10,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: ankle,week_11,Detroit Lions,2013
+['Joique Bell'],NA,week_11,Detroit Lions,2013
+['Bill Bentley'],Questionable: knee,week_11,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_11,Detroit Lions,2013
+['Nate Burleson'],Questionable: arm,week_11,Detroit Lions,2013
+['Reggie Bush'],Probable: knee,week_11,Detroit Lions,2013
+['Don Carey'],NA,week_11,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_11,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_11,Detroit Lions,2013
+['Patrick Edwards'],NA,week_11,Detroit Lions,2013
+['Nick Fairley'],NA,week_11,Detroit Lions,2013
+['Andre Fluellen'],NA,week_11,Detroit Lions,2013
+['Jason Fox'],NA,week_11,Detroit Lions,2013
+['Dylan Gandy'],NA,week_11,Detroit Lions,2013
+['Jonte Green'],NA,week_11,Detroit Lions,2013
+['Chris Greenwood'],NA,week_11,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_11,Detroit Lions,2013
+['Corey Hilliard'],Questionable: knee,week_11,Detroit Lions,2013
+['Chris Houston'],NA,week_11,Detroit Lions,2013
+['Israel Idonije'],NA,week_11,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_11,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_11,Detroit Lions,2013
+['DeAndre Levy'],NA,week_11,Detroit Lions,2013
+['Travis Lewis'],NA,week_11,Detroit Lions,2013
+['Sam Martin'],NA,week_11,Detroit Lions,2013
+['Rashean Mathis'],NA,week_11,Detroit Lions,2013
+['Montell Owens'],Doubtful: knee,week_11,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_11,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_11,Detroit Lions,2013
+['Glover Quin'],NA,week_11,Detroit Lions,2013
+['Riley Reiff'],NA,week_11,Detroit Lions,2013
+['Theo Riddick'],NA,week_11,Detroit Lions,2013
+['Tony Scheffler'],NA,week_11,Detroit Lions,2013
+['Rob Sims'],NA,week_11,Detroit Lions,2013
+['Darius Slay'],NA,week_11,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_11,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_11,Detroit Lions,2013
+['Larry Warford'],NA,week_11,Detroit Lions,2013
+['John Wendling'],NA,week_11,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_11,Detroit Lions,2013
+['Ezekiel Ansah'],Probable: ankle,week_12,Detroit Lions,2013
+['Joique Bell'],Probable: achilles,week_12,Detroit Lions,2013
+['Bill Bentley'],Questionable: knee,week_12,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_12,Detroit Lions,2013
+['Nate Burleson'],Questionable: arm,week_12,Detroit Lions,2013
+['Reggie Bush'],NA,week_12,Detroit Lions,2013
+['Don Carey'],NA,week_12,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_12,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_12,Detroit Lions,2013
+['Patrick Edwards'],NA,week_12,Detroit Lions,2013
+['Nick Fairley'],NA,week_12,Detroit Lions,2013
+['Andre Fluellen'],Questionable: thigh,week_12,Detroit Lions,2013
+['Jason Fox'],NA,week_12,Detroit Lions,2013
+['Dylan Gandy'],NA,week_12,Detroit Lions,2013
+['Jonte Green'],Questionable: illness,week_12,Detroit Lions,2013
+['Chris Greenwood'],NA,week_12,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_12,Detroit Lions,2013
+['Corey Hilliard'],Probable: knee,week_12,Detroit Lions,2013
+['Chris Houston'],Questionable: hamstring,week_12,Detroit Lions,2013
+['Israel Idonije'],Questionable: knee,week_12,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_12,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_12,Detroit Lions,2013
+['DeAndre Levy'],NA,week_12,Detroit Lions,2013
+['Travis Lewis'],NA,week_12,Detroit Lions,2013
+['Sam Martin'],NA,week_12,Detroit Lions,2013
+['Rashean Mathis'],NA,week_12,Detroit Lions,2013
+['Montell Owens'],Questionable: knee,week_12,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_12,Detroit Lions,2013
+['Brandon Pettigrew'],Probable: knee,week_12,Detroit Lions,2013
+['Glover Quin'],Questionable: ankle,week_12,Detroit Lions,2013
+['Riley Reiff'],NA,week_12,Detroit Lions,2013
+['Theo Riddick'],NA,week_12,Detroit Lions,2013
+['Tony Scheffler'],NA,week_12,Detroit Lions,2013
+['Rob Sims'],NA,week_12,Detroit Lions,2013
+['Darius Slay'],NA,week_12,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_12,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_12,Detroit Lions,2013
+['Larry Warford'],Probable: shoulder,week_12,Detroit Lions,2013
+['John Wendling'],NA,week_12,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_12,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_13,Detroit Lions,2013
+['Joique Bell'],NA,week_13,Detroit Lions,2013
+['Bill Bentley'],NA,week_13,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_13,Detroit Lions,2013
+['Nate Burleson'],NA,week_13,Detroit Lions,2013
+['Reggie Bush'],NA,week_13,Detroit Lions,2013
+['Don Carey'],NA,week_13,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_13,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_13,Detroit Lions,2013
+['Patrick Edwards'],NA,week_13,Detroit Lions,2013
+['Nick Fairley'],NA,week_13,Detroit Lions,2013
+['Andre Fluellen'],NA,week_13,Detroit Lions,2013
+['Jason Fox'],NA,week_13,Detroit Lions,2013
+['Dylan Gandy'],NA,week_13,Detroit Lions,2013
+['Jonte Green'],NA,week_13,Detroit Lions,2013
+['Chris Greenwood'],NA,week_13,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_13,Detroit Lions,2013
+['Corey Hilliard'],Out: knee,week_13,Detroit Lions,2013
+['Chris Houston'],Out: hamstring,week_13,Detroit Lions,2013
+['Israel Idonije'],Questionable: knee,week_13,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_13,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_13,Detroit Lions,2013
+['DeAndre Levy'],NA,week_13,Detroit Lions,2013
+['Travis Lewis'],NA,week_13,Detroit Lions,2013
+['Sam Martin'],NA,week_13,Detroit Lions,2013
+['Rashean Mathis'],NA,week_13,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_13,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_13,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_13,Detroit Lions,2013
+['Glover Quin'],Probable: ankle,week_13,Detroit Lions,2013
+['Riley Reiff'],NA,week_13,Detroit Lions,2013
+['Theo Riddick'],NA,week_13,Detroit Lions,2013
+['Tony Scheffler'],NA,week_13,Detroit Lions,2013
+['Rob Sims'],NA,week_13,Detroit Lions,2013
+['Darius Slay'],NA,week_13,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_13,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_13,Detroit Lions,2013
+['Larry Warford'],NA,week_13,Detroit Lions,2013
+['John Wendling'],NA,week_13,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_13,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_14,Detroit Lions,2013
+['Joique Bell'],NA,week_14,Detroit Lions,2013
+['Bill Bentley'],NA,week_14,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_14,Detroit Lions,2013
+['Nate Burleson'],NA,week_14,Detroit Lions,2013
+['Reggie Bush'],Probable: hamstring,week_14,Detroit Lions,2013
+['Don Carey'],NA,week_14,Detroit Lions,2013
+['Louis Delmas'],Probable: knee,week_14,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_14,Detroit Lions,2013
+['Patrick Edwards'],NA,week_14,Detroit Lions,2013
+['Nick Fairley'],NA,week_14,Detroit Lions,2013
+['Andre Fluellen'],NA,week_14,Detroit Lions,2013
+['Jason Fox'],NA,week_14,Detroit Lions,2013
+['Dylan Gandy'],NA,week_14,Detroit Lions,2013
+['Jonte Green'],NA,week_14,Detroit Lions,2013
+['Chris Greenwood'],NA,week_14,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_14,Detroit Lions,2013
+['Corey Hilliard'],NA,week_14,Detroit Lions,2013
+['Chris Houston'],Probable: hamstring,week_14,Detroit Lions,2013
+['Israel Idonije'],Probable: knee,week_14,Detroit Lions,2013
+['Calvin Johnson'],Probable: back,week_14,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_14,Detroit Lions,2013
+['DeAndre Levy'],NA,week_14,Detroit Lions,2013
+['Travis Lewis'],NA,week_14,Detroit Lions,2013
+['Sam Martin'],NA,week_14,Detroit Lions,2013
+['Rashean Mathis'],NA,week_14,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_14,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_14,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_14,Detroit Lions,2013
+['Glover Quin'],NA,week_14,Detroit Lions,2013
+['Riley Reiff'],NA,week_14,Detroit Lions,2013
+['Theo Riddick'],NA,week_14,Detroit Lions,2013
+['Tony Scheffler'],NA,week_14,Detroit Lions,2013
+['Rob Sims'],NA,week_14,Detroit Lions,2013
+['Darius Slay'],Questionable: knee,week_14,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_14,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_14,Detroit Lions,2013
+['Larry Warford'],NA,week_14,Detroit Lions,2013
+['John Wendling'],NA,week_14,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_14,Detroit Lions,2013
+['Ezekiel Ansah'],Questionable: shoulder,week_15,Detroit Lions,2013
+['Joique Bell'],NA,week_15,Detroit Lions,2013
+['Bill Bentley'],NA,week_15,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_15,Detroit Lions,2013
+['Nate Burleson'],NA,week_15,Detroit Lions,2013
+['Reggie Bush'],Questionable: calf,week_15,Detroit Lions,2013
+['Don Carey'],NA,week_15,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_15,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_15,Detroit Lions,2013
+['Patrick Edwards'],NA,week_15,Detroit Lions,2013
+['Nick Fairley'],NA,week_15,Detroit Lions,2013
+['Andre Fluellen'],NA,week_15,Detroit Lions,2013
+['Jason Fox'],NA,week_15,Detroit Lions,2013
+['Dylan Gandy'],NA,week_15,Detroit Lions,2013
+['Jonte Green'],NA,week_15,Detroit Lions,2013
+['Chris Greenwood'],NA,week_15,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_15,Detroit Lions,2013
+['Corey Hilliard'],NA,week_15,Detroit Lions,2013
+['Chris Houston'],Questionable: toe,week_15,Detroit Lions,2013
+['Israel Idonije'],Questionable: knee,week_15,Detroit Lions,2013
+['Calvin Johnson'],Probable: knee,week_15,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_15,Detroit Lions,2013
+['DeAndre Levy'],NA,week_15,Detroit Lions,2013
+['Travis Lewis'],NA,week_15,Detroit Lions,2013
+['Sam Martin'],NA,week_15,Detroit Lions,2013
+['Rashean Mathis'],NA,week_15,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_15,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_15,Detroit Lions,2013
+['Brandon Pettigrew'],NA,week_15,Detroit Lions,2013
+['Glover Quin'],NA,week_15,Detroit Lions,2013
+['Riley Reiff'],NA,week_15,Detroit Lions,2013
+['Theo Riddick'],NA,week_15,Detroit Lions,2013
+['Tony Scheffler'],NA,week_15,Detroit Lions,2013
+['Rob Sims'],NA,week_15,Detroit Lions,2013
+['Darius Slay'],Out: knee,week_15,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_15,Detroit Lions,2013
+['LaAdrian Waddle'],Questionable: elbow,week_15,Detroit Lions,2013
+['Larry Warford'],NA,week_15,Detroit Lions,2013
+['John Wendling'],Questionable: illness,week_15,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_15,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_16,Detroit Lions,2013
+['Joique Bell'],NA,week_16,Detroit Lions,2013
+['Bill Bentley'],NA,week_16,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_16,Detroit Lions,2013
+['Nate Burleson'],NA,week_16,Detroit Lions,2013
+['Reggie Bush'],NA,week_16,Detroit Lions,2013
+['Don Carey'],NA,week_16,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_16,Detroit Lions,2013
+['Dorin Dickerson'],NA,week_16,Detroit Lions,2013
+['Patrick Edwards'],NA,week_16,Detroit Lions,2013
+['Nick Fairley'],NA,week_16,Detroit Lions,2013
+['Andre Fluellen'],NA,week_16,Detroit Lions,2013
+['Jason Fox'],NA,week_16,Detroit Lions,2013
+['Dylan Gandy'],NA,week_16,Detroit Lions,2013
+['Jonte Green'],NA,week_16,Detroit Lions,2013
+['Chris Greenwood'],NA,week_16,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_16,Detroit Lions,2013
+['Corey Hilliard'],NA,week_16,Detroit Lions,2013
+['Chris Houston'],Probable: toe,week_16,Detroit Lions,2013
+['Israel Idonije'],NA,week_16,Detroit Lions,2013
+['Calvin Johnson'],Questionable: knee,week_16,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_16,Detroit Lions,2013
+['DeAndre Levy'],Questionable: foot,week_16,Detroit Lions,2013
+['Travis Lewis'],NA,week_16,Detroit Lions,2013
+['Sam Martin'],Questionable: groin,week_16,Detroit Lions,2013
+['Rashean Mathis'],Probable: illness,week_16,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_16,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_16,Detroit Lions,2013
+['Brandon Pettigrew'],Questionable: ankle,week_16,Detroit Lions,2013
+['Glover Quin'],NA,week_16,Detroit Lions,2013
+['Riley Reiff'],NA,week_16,Detroit Lions,2013
+['Theo Riddick'],NA,week_16,Detroit Lions,2013
+['Tony Scheffler'],NA,week_16,Detroit Lions,2013
+['Rob Sims'],NA,week_16,Detroit Lions,2013
+['Darius Slay'],Questionable: knee,week_16,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_16,Detroit Lions,2013
+['LaAdrian Waddle'],NA,week_16,Detroit Lions,2013
+['Larry Warford'],NA,week_16,Detroit Lions,2013
+['John Wendling'],Questionable: ankle,week_16,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_16,Detroit Lions,2013
+['Ezekiel Ansah'],NA,week_17,Detroit Lions,2013
+['Joique Bell'],Probable: knee,week_17,Detroit Lions,2013
+['Bill Bentley'],Questionable: head,week_17,Detroit Lions,2013
+['Ryan Broyles'],Injured Reserve: Achilles,week_17,Detroit Lions,2013
+['Nate Burleson'],NA,week_17,Detroit Lions,2013
+['Reggie Bush'],NA,week_17,Detroit Lions,2013
+['Don Carey'],NA,week_17,Detroit Lions,2013
+['Louis Delmas'],Questionable: knee,week_17,Detroit Lions,2013
+['Dorin Dickerson'],Questionable: concussion,week_17,Detroit Lions,2013
+['Patrick Edwards'],NA,week_17,Detroit Lions,2013
+['Nick Fairley'],NA,week_17,Detroit Lions,2013
+['Andre Fluellen'],NA,week_17,Detroit Lions,2013
+['Jason Fox'],NA,week_17,Detroit Lions,2013
+['Dylan Gandy'],Questionable: illness,week_17,Detroit Lions,2013
+['Jonte Green'],Questionable: shoulder,week_17,Detroit Lions,2013
+['Chris Greenwood'],Probable: groin,week_17,Detroit Lions,2013
+['Cory Greenwood'],Injured Reserve: shoulder,week_17,Detroit Lions,2013
+['Corey Hilliard'],NA,week_17,Detroit Lions,2013
+['Chris Houston'],Questionable: toe,week_17,Detroit Lions,2013
+['Israel Idonije'],Questionable: neck,week_17,Detroit Lions,2013
+['Calvin Johnson'],Questionable: knee,week_17,Detroit Lions,2013
+['Jason Jones'],Injured Reserve: knee,week_17,Detroit Lions,2013
+['DeAndre Levy'],Questionable: foot,week_17,Detroit Lions,2013
+['Travis Lewis'],NA,week_17,Detroit Lions,2013
+['Sam Martin'],NA,week_17,Detroit Lions,2013
+['Rashean Mathis'],Probable: illness,week_17,Detroit Lions,2013
+['Montell Owens'],Injured Reserve: knee,week_17,Detroit Lions,2013
+['Ashlee Palmer'],NA,week_17,Detroit Lions,2013
+['Brandon Pettigrew'],Injured Reserve: ankle,week_17,Detroit Lions,2013
+['Glover Quin'],NA,week_17,Detroit Lions,2013
+['Riley Reiff'],NA,week_17,Detroit Lions,2013
+['Theo Riddick'],NA,week_17,Detroit Lions,2013
+['Tony Scheffler'],NA,week_17,Detroit Lions,2013
+['Rob Sims'],NA,week_17,Detroit Lions,2013
+['Darius Slay'],Doubtful: knee,week_17,Detroit Lions,2013
+['Ndamukong Suh'],NA,week_17,Detroit Lions,2013
+['LaAdrian Waddle'],Out: ankle,week_17,Detroit Lions,2013
+['Larry Warford'],NA,week_17,Detroit Lions,2013
+['John Wendling'],Questionable: ankle,week_17,Detroit Lions,2013
+['Michael Williams'],Injured Reserve: hand,week_17,Detroit Lions,2013
