@@ -1,0 +1,328 @@
+"","name","injury","week","team","year"
+"1","['Jamey Richard']","Injured Reserve: concussion","week_1","New England Patriots",2012
+"2","['Jamey Richard']","Injured Reserve: concussion","week_2","New England Patriots",2012
+"3","['Jamey Richard']","Injured Reserve: concussion","week_3","New England Patriots",2012
+"4","['Jamey Richard']","Injured Reserve: concussion","week_4","New England Patriots",2012
+"5","['Michael Hoomanawanui']","Questionable: concussion","week_5","New England Patriots",2012
+"6","['Jamey Richard']","Injured Reserve: concussion","week_5","New England Patriots",2012
+"7","['Michael Hoomanawanui']","Questionable: concussion","week_6","New England Patriots",2012
+"8","['Jamey Richard']","Injured Reserve: concussion","week_6","New England Patriots",2012
+"9","['Michael Hoomanawanui']","Questionable: concussion","week_7","New England Patriots",2012
+"10","['Jamey Richard']","Injured Reserve: concussion","week_7","New England Patriots",2012
+"11","['Jamey Richard']","Injured Reserve: concussion","week_8","New England Patriots",2012
+"12","['Jamey Richard']","Injured Reserve: concussion","week_10","New England Patriots",2012
+"13","['Jamey Richard']","Injured Reserve: concussion","week_11","New England Patriots",2012
+"14","['Jamey Richard']","Injured Reserve: concussion","week_12","New England Patriots",2012
+"15","['Jamey Richard']","Injured Reserve: concussion","week_13","New England Patriots",2012
+"16","['Matthew Slater']","Questionable: concussion","week_13","New England Patriots",2012
+"17","['Jamey Richard']","Injured Reserve: concussion","week_14","New England Patriots",2012
+"18","['Jamey Richard']","Injured Reserve: concussion","week_15","New England Patriots",2012
+"19","['Jamey Richard']","Injured Reserve: concussion","week_16","New England Patriots",2012
+"20","['Jamey Richard']","Injured Reserve: concussion","week_17","New England Patriots",2012
+"21","['Jamey Richard']","Injured Reserve: concussion","week_19","New England Patriots",2012
+"22","['Jamey Richard']","Injured Reserve: concussion","week_20","New England Patriots",2012
+"23","['Daniel Thomas']","Out: concussion","week_2","Miami Dolphins",2012
+"24","['Daniel Thomas']","Probable: concussion","week_3","Miami Dolphins",2012
+"25","['Daniel Thomas']","Probable: concussion","week_8","Miami Dolphins",2012
+"26","['Fred Jackson']","Out: concussion","week_11","Buffalo Bills",2012
+"27","['Fred Jackson']","Probable: concussion","week_12","Buffalo Bills",2012
+"28","['Josh Bush']","Probable: concussion","week_1","New York Jets",2012
+"29","['Darrelle Revis']","Questionable: concussion","week_2","New York Jets",2012
+"30","['Darrelle Revis']","Questionable: concussion","week_3","New York Jets",2012
+"31","['Bilal Powell']","Doubtful: concussion","week_11","New York Jets",2012
+"32","['Clyde Gates']","Questionable: concussion","week_13","New York Jets",2012
+"33","['Clyde Gates']","Questionable: concussion","week_14","New York Jets",2012
+"34","['Clyde Gates']","Doubtful: concussion","week_15","New York Jets",2012
+"35","['Ellis Lankster']","Questionable: concussion","week_17","New York Jets",2012
+"36","['Muhammad Wilkerson']","Doubtful: concussion/knee","week_17","New York Jets",2012
+"37","['Antoine Caldwell']","Doubtful: concussion","week_7","Houston Texans",2012
+"38","['Garrett Graham']","Questionable: concussion","week_14","Houston Texans",2012
+"39","['Garrett Graham']","Probable: concussion","week_15","Houston Texans",2012
+"40","['Garrett Graham']","Probable: concussion","week_19","Houston Texans",2012
+"41","['Austin Collie']","Probable: concussion","week_1","Indianapolis Colts",2012
+"42","['Korey Lindsey']","Injured Reserve: concussion","week_1","Indianapolis Colts",2012
+"43","['Jabin Sambrano']","Injured Reserve: concussion","week_1","Indianapolis Colts",2012
+"44","['Austin Collie']","Probable: concussion","week_2","Indianapolis Colts",2012
+"45","['Winston Justice']","Questionable: concussion","week_2","Indianapolis Colts",2012
+"46","['Korey Lindsey']","Injured Reserve: concussion","week_2","Indianapolis Colts",2012
+"47","['Jabin Sambrano']","Injured Reserve: concussion","week_2","Indianapolis Colts",2012
+"48","['Austin Collie']","Probable: concussion","week_3","Indianapolis Colts",2012
+"49","['Winston Justice']","Probable: concussion","week_3","Indianapolis Colts",2012
+"50","['Korey Lindsey']","Injured Reserve: concussion","week_3","Indianapolis Colts",2012
+"51","['Jabin Sambrano']","Injured Reserve: concussion","week_3","Indianapolis Colts",2012
+"52","['Korey Lindsey']","Injured Reserve: concussion","week_5","Indianapolis Colts",2012
+"53","['Korey Lindsey']","Injured Reserve: concussion","week_6","Indianapolis Colts",2012
+"54","['Korey Lindsey']","Injured Reserve: concussion","week_7","Indianapolis Colts",2012
+"55","['Korey Lindsey']","Injured Reserve: concussion","week_8","Indianapolis Colts",2012
+"56","['Korey Lindsey']","Injured Reserve: concussion","week_9","Indianapolis Colts",2012
+"57","['Korey Lindsey']","Injured Reserve: concussion","week_10","Indianapolis Colts",2012
+"58","['Korey Lindsey']","Injured Reserve: concussion","week_11","Indianapolis Colts",2012
+"59","['Korey Lindsey']","Injured Reserve: concussion","week_12","Indianapolis Colts",2012
+"60","['Korey Lindsey']","Injured Reserve: concussion","week_13","Indianapolis Colts",2012
+"61","['Winston Justice']","Questionable: concussion","week_14","Indianapolis Colts",2012
+"62","['Korey Lindsey']","Injured Reserve: concussion","week_14","Indianapolis Colts",2012
+"63","['Joe Reitz']","Questionable: concussion","week_14","Indianapolis Colts",2012
+"64","['Korey Lindsey']","Injured Reserve: concussion","week_15","Indianapolis Colts",2012
+"65","['Joe Reitz']","Probable: concussion","week_15","Indianapolis Colts",2012
+"66","['Korey Lindsey']","Injured Reserve: concussion","week_16","Indianapolis Colts",2012
+"67","['Korey Lindsey']","Injured Reserve: concussion","week_17","Indianapolis Colts",2012
+"68","['Korey Lindsey']","Injured Reserve: concussion","week_18","Indianapolis Colts",2012
+"69","['Dave Ball']","Injured Reserve: concussion","week_1","Tennessee Titans",2012
+"70","['Dave Ball']","Injured Reserve: concussion","week_2","Tennessee Titans",2012
+"71","['Dave Ball']","Injured Reserve: concussion","week_3","Tennessee Titans",2012
+"72","['Dave Ball']","Injured Reserve: concussion","week_4","Tennessee Titans",2012
+"73","['Dave Ball']","Injured Reserve: concussion","week_5","Tennessee Titans",2012
+"74","['Dave Ball']","Injured Reserve: concussion","week_6","Tennessee Titans",2012
+"75","['Dave Ball']","Injured Reserve: concussion","week_7","Tennessee Titans",2012
+"76","['Dave Ball']","Injured Reserve: concussion","week_8","Tennessee Titans",2012
+"77","['Craig Stevens']","Probable: concussion","week_8","Tennessee Titans",2012
+"78","['Dave Ball']","Injured Reserve: concussion","week_9","Tennessee Titans",2012
+"79","['Fernando Velasco']","Probable: concussion","week_9","Tennessee Titans",2012
+"80","['Dave Ball']","Injured Reserve: concussion","week_10","Tennessee Titans",2012
+"81","['Dave Ball']","Injured Reserve: concussion","week_12","Tennessee Titans",2012
+"82","['Dave Ball']","Injured Reserve: concussion","week_13","Tennessee Titans",2012
+"83","['Colin McCarthy']","Doubtful: concussion","week_13","Tennessee Titans",2012
+"84","['Dave Ball']","Injured Reserve: concussion","week_14","Tennessee Titans",2012
+"85","['Colin McCarthy']","Questionable: concussion","week_14","Tennessee Titans",2012
+"86","['Dave Ball']","Injured Reserve: concussion","week_15","Tennessee Titans",2012
+"87","['Colin McCarthy']","Questionable: concussion","week_15","Tennessee Titans",2012
+"88","['Dave Ball']","Injured Reserve: concussion","week_16","Tennessee Titans",2012
+"89","['Colin McCarthy']","Probable: concussion","week_16","Tennessee Titans",2012
+"90","['Dave Ball']","Injured Reserve: concussion","week_17","Tennessee Titans",2012
+"91","['Colin McCarthy']","Questionable: concussion","week_17","Tennessee Titans",2012
+"92","['Craig Stevens']","Doubtful: concussion","week_17","Tennessee Titans",2012
+"93","['Clint Session']","Physically Unable to Perform: concussion","week_1","Jacksonville Jaguars",2012
+"94","['Clint Session']","Physically Unable to Perform: concussion","week_2","Jacksonville Jaguars",2012
+"95","['Clint Session']","Physically Unable to Perform: concussion","week_3","Jacksonville Jaguars",2012
+"96","['Montell Owens']","Probable: concussion","week_4","Jacksonville Jaguars",2012
+"97","['Kevin Rutland']","Probable: concussion","week_4","Jacksonville Jaguars",2012
+"98","['Clint Session']","Physically Unable to Perform: concussion","week_4","Jacksonville Jaguars",2012
+"99","['Laurent Robinson']","Out: concussion","week_5","Jacksonville Jaguars",2012
+"100","['Clint Session']","Physically Unable to Perform: concussion","week_5","Jacksonville Jaguars",2012
+"101","['Laurent Robinson']","Out: concussion","week_7","Jacksonville Jaguars",2012
+"102","['Clint Session']","Physically Unable to Perform: concussion","week_7","Jacksonville Jaguars",2012
+"103","['Laurent Robinson']","Questionable: concussion","week_8","Jacksonville Jaguars",2012
+"104","['Clint Session']","Physically Unable to Perform: concussion","week_8","Jacksonville Jaguars",2012
+"105","['Laurent Robinson']","Probable: concussion","week_9","Jacksonville Jaguars",2012
+"106","['Clint Session']","Physically Unable to Perform: concussion","week_9","Jacksonville Jaguars",2012
+"107","['Clint Session']","Physically Unable to Perform: concussion","week_10","Jacksonville Jaguars",2012
+"108","['Clint Session']","Physically Unable to Perform: concussion","week_11","Jacksonville Jaguars",2012
+"109","['William Middleton']","Questionable: concussion","week_12","Jacksonville Jaguars",2012
+"110","['Laurent Robinson']","Injured Reserve: concussion","week_12","Jacksonville Jaguars",2012
+"111","['Clint Session']","Physically Unable to Perform: concussion","week_12","Jacksonville Jaguars",2012
+"112","['William Middleton']","Injured Reserve: concussion","week_13","Jacksonville Jaguars",2012
+"113","['Laurent Robinson']","Injured Reserve: concussion","week_13","Jacksonville Jaguars",2012
+"114","['Clint Session']","Physically Unable to Perform: concussion","week_13","Jacksonville Jaguars",2012
+"115","['Rashad Jennings']","Doubtful: concussion","week_14","Jacksonville Jaguars",2012
+"116","['William Middleton']","Injured Reserve: concussion","week_14","Jacksonville Jaguars",2012
+"117","['Laurent Robinson']","Injured Reserve: concussion","week_14","Jacksonville Jaguars",2012
+"118","['George Selvie']","Doubtful: concussion","week_14","Jacksonville Jaguars",2012
+"119","['Clint Session']","Physically Unable to Perform: concussion","week_14","Jacksonville Jaguars",2012
+"120","['Cecil Shorts']","Doubtful: concussion","week_14","Jacksonville Jaguars",2012
+"121","['Rashad Jennings']","Doubtful: concussion","week_15","Jacksonville Jaguars",2012
+"122","['William Middleton']","Injured Reserve: concussion","week_15","Jacksonville Jaguars",2012
+"123","['Laurent Robinson']","Injured Reserve: concussion","week_15","Jacksonville Jaguars",2012
+"124","['George Selvie']","Questionable: concussion","week_15","Jacksonville Jaguars",2012
+"125","['Clint Session']","Physically Unable to Perform: concussion","week_15","Jacksonville Jaguars",2012
+"126","['Cecil Shorts']","Probable: concussion","week_15","Jacksonville Jaguars",2012
+"127","['Rashad Jennings']","Doubtful: concussion","week_16","Jacksonville Jaguars",2012
+"128","['William Middleton']","Injured Reserve: concussion","week_16","Jacksonville Jaguars",2012
+"129","['Laurent Robinson']","Injured Reserve: concussion","week_16","Jacksonville Jaguars",2012
+"130","['George Selvie']","Questionable: concussion","week_16","Jacksonville Jaguars",2012
+"131","['Clint Session']","Physically Unable to Perform: concussion","week_16","Jacksonville Jaguars",2012
+"132","['Rashad Jennings']","Injured Reserve: concussion","week_17","Jacksonville Jaguars",2012
+"133","['William Middleton']","Injured Reserve: concussion","week_17","Jacksonville Jaguars",2012
+"134","['Uche Nwaneri']","Doubtful: concussion","week_17","Jacksonville Jaguars",2012
+"135","['Laurent Robinson']","Injured Reserve: concussion","week_17","Jacksonville Jaguars",2012
+"136","['Clint Session']","Physically Unable to Perform: concussion","week_17","Jacksonville Jaguars",2012
+"137","['Cecil Shorts']","Injured Reserve: concussion","week_17","Jacksonville Jaguars",2012
+"138","['Dennis Pitta']","Doubtful: concussion","week_12","Baltimore Ravens",2012
+"139","['Bernard Pierce']","Doubtful: concussion","week_16","Baltimore Ravens",2012
+"140","['Torrey Smith']","Questionable: concussion","week_16","Baltimore Ravens",2012
+"141","['Adrian Robinson']","Questionable: concussion","week_8","Pittsburgh Steelers",2012
+"142","['Ryan Clark']","Probable: concussion","week_9","Pittsburgh Steelers",2012
+"143","['Ryan Clark']","Questionable: concussion","week_11","Pittsburgh Steelers",2012
+"144","['Isaac Redman']","Probable: concussion","week_12","Pittsburgh Steelers",2012
+"145","['Will Johnson']","Questionable: concussion","week_14","Pittsburgh Steelers",2012
+"146","['Alex Smith']","Questionable: concussion","week_3","Cleveland Browns",2012
+"147","['Billy Winn']","Questionable: concussion","week_3","Cleveland Browns",2012
+"148","['Alex Smith']","Questionable: concussion","week_4","Cleveland Browns",2012
+"149","['Alex Smith']","Doubtful: concussion","week_5","Cleveland Browns",2012
+"150","['Alex Smith']","Questionable: concussion","week_6","Cleveland Browns",2012
+"151","['Brandon Weeden']","Probable: concussion","week_13","Cleveland Browns",2012
+"152","['Usama Young']","Questionable: concussion","week_14","Cleveland Browns",2012
+"153","['Sheldon Brown']","Doubtful: concussion","week_17","Cleveland Browns",2012
+"154","['Jordan Cameron']","Questionable: concussion","week_17","Cleveland Browns",2012
+"155","['Terence Newman']","Probable: concussion","week_12","Cincinnati Bengals",2012
+"156","['Andrew Whitworth']","Questionable: concussion","week_16","Cincinnati Bengals",2012
+"157","['Kevin Boss']","Injured Reserve: concussion","week_5","Kansas City Chiefs",2012
+"158","['Kevin Boss']","Injured Reserve: concussion","week_6","Kansas City Chiefs",2012
+"159","['Kevin Boss']","Injured Reserve: concussion","week_8","Kansas City Chiefs",2012
+"160","['Matt Cassel']","Probable: concussion","week_8","Kansas City Chiefs",2012
+"161","['Kevin Boss']","Injured Reserve: concussion","week_9","Kansas City Chiefs",2012
+"162","['Kevin Boss']","Injured Reserve: concussion","week_10","Kansas City Chiefs",2012
+"163","['Brady Quinn']","Out: concussion","week_10","Kansas City Chiefs",2012
+"164","['Kevin Boss']","Injured Reserve: concussion","week_11","Kansas City Chiefs",2012
+"165","['Brady Quinn']","Probable: concussion","week_11","Kansas City Chiefs",2012
+"166","['Jonathan Baldwin']","Questionable: concussion","week_12","Kansas City Chiefs",2012
+"167","['Kevin Boss']","Injured Reserve: concussion","week_12","Kansas City Chiefs",2012
+"168","['Kevin Boss']","Injured Reserve: concussion","week_13","Kansas City Chiefs",2012
+"169","['Kevin Boss']","Injured Reserve: concussion","week_14","Kansas City Chiefs",2012
+"170","['Kevin Boss']","Injured Reserve: concussion","week_15","Kansas City Chiefs",2012
+"171","['Kevin Boss']","Injured Reserve: concussion","week_16","Kansas City Chiefs",2012
+"172","['Kevin Boss']","Injured Reserve: concussion","week_17","Kansas City Chiefs",2012
+"173","['Nick Hardwick']","Questionable: concussion","week_1","Los Angeles Chargers",2012
+"174","['Darrell Stuckey']","Questionable: concussion","week_1","Los Angeles Chargers",2012
+"175","['Richard Goodman']","Doubtful: concussion","week_2","Los Angeles Chargers",2012
+"176","['Eric Weddle']","Probable: concussion","week_13","Los Angeles Chargers",2012
+"177","['Nate Irving']","Doubtful: concussion","week_4","Denver Broncos",2012
+"178","['Nate Irving']","Questionable: concussion","week_5","Denver Broncos",2012
+"179","['Omar Bolden']","Doubtful: concussion","week_12","Denver Broncos",2012
+"180","['Tracy Porter']","Questionable: concussion","week_17","Denver Broncos",2012
+"181","['Tracy Porter']","Questionable: concussion","week_19","Denver Broncos",2012
+"182","['Jon Condo']","Doubtful: concussion","week_2","Oakland Raiders",2012
+"183","['Darrius Heyward-Bey']","Out: concussion","week_4","Oakland Raiders",2012
+"184","['Brandon Myers']","Questionable: concussion","week_4","Oakland Raiders",2012
+"185","['Darrius Heyward-Bey']","Probable: concussion","week_6","Oakland Raiders",2012
+"186","['Matt Giordano']","Questionable: concussion","week_11","Oakland Raiders",2012
+"187","['Brandon Myers']","Questionable: concussion","week_11","Oakland Raiders",2012
+"188","['Phillip Adams']","Doubtful: concussion","week_14","Oakland Raiders",2012
+"189","['Matt Giordano']","Questionable: concussion","week_14","Oakland Raiders",2012
+"190","['Mike Mitchell']","Doubtful: concussion","week_14","Oakland Raiders",2012
+"191","['Phillip Adams']","Questionable: concussion","week_16","Oakland Raiders",2012
+"192","['Mike Brisiel']","Doubtful: concussion","week_17","Oakland Raiders",2012
+"193","['Charlie Peprah']","Questionable: concussion","week_12","Dallas Cowboys",2012
+"194","['Jason Hatcher']","Probable: concussion","week_13","Dallas Cowboys",2012
+"195","['Kevin Ogletree']","Probable: concussion","week_13","Dallas Cowboys",2012
+"196","['Nate Livings']","Questionable: concussion","week_15","Dallas Cowboys",2012
+"197","['Morris Claiborne']","Probable: concussion","week_16","Dallas Cowboys",2012
+"198","['Ernie Sims']","Doubtful: concussion","week_16","Dallas Cowboys",2012
+"199","['Ernie Sims']","Probable: concussion","week_17","Dallas Cowboys",2012
+"200","['Michael Vick']","Out: concussion","week_11","Philadelphia Eagles",2012
+"201","['LeSean McCoy']","Doubtful: concussion","week_12","Philadelphia Eagles",2012
+"202","['Michael Vick']","Out: concussion","week_12","Philadelphia Eagles",2012
+"203","['LeSean McCoy']","Doubtful: concussion","week_13","Philadelphia Eagles",2012
+"204","['Michael Vick']","Out: concussion","week_13","Philadelphia Eagles",2012
+"205","['LeSean McCoy']","Doubtful: concussion","week_14","Philadelphia Eagles",2012
+"206","['Michael Vick']","Doubtful: concussion","week_14","Philadelphia Eagles",2012
+"207","['Brent Celek']","Doubtful: concussion","week_15","Philadelphia Eagles",2012
+"208","['LeSean McCoy']","Doubtful: concussion","week_15","Philadelphia Eagles",2012
+"209","['Michael Vick']","Doubtful: concussion","week_15","Philadelphia Eagles",2012
+"210","['Brent Celek']","Probable: concussion","week_16","Philadelphia Eagles",2012
+"211","['LeSean McCoy']","Probable: concussion","week_16","Philadelphia Eagles",2012
+"212","['Michael Vick']","Probable: concussion","week_16","Philadelphia Eagles",2012
+"213","['Fletcher Cox']","Doubtful: concussion","week_17","Philadelphia Eagles",2012
+"214","['Mychal Kendricks']","Doubtful: concussion","week_17","Philadelphia Eagles",2012
+"215","['Josh Wilson']","Questionable: concussion","week_3","Washington Redskins",2012
+"216","['Aldrick Robinson']","Doubtful: concussion","week_5","Washington Redskins",2012
+"217","['Jordan Pugh']","Probable: concussion","week_7","Washington Redskins",2012
+"218","['Tyler Polumbus']","Questionable: concussion","week_16","Washington Redskins",2012
+"219","['Tyler Polumbus']","Questionable: concussion","week_17","Washington Redskins",2012
+"220","['Domenik Hixon']","Probable: concussion","week_4","New York Giants",2012
+"221","['Ramses Barden']","Doubtful: concussion","week_5","New York Giants",2012
+"222","['Ramses Barden']","Probable: concussion","week_6","New York Giants",2012
+"223","['Andre Brown']","Questionable: concussion","week_6","New York Giants",2012
+"224","['Andre Brown']","Probable: concussion","week_7","New York Giants",2012
+"225","['Devery Henderson']","Questionable: concussion","week_2","New Orleans Saints",2012
+"226","['Devery Henderson']","Probable: concussion","week_3","New Orleans Saints",2012
+"227","['Elbert Mack']","Questionable: concussion","week_12","New Orleans Saints",2012
+"228","['Isa Abdul-Quddus']","Questionable: concussion","week_13","New Orleans Saints",2012
+"229","['Elbert Mack']","Questionable: concussion","week_13","New Orleans Saints",2012
+"230","['Isa Abdul-Quddus']","Probable: concussion","week_14","New Orleans Saints",2012
+"231","['Jabari Greer']","Doubtful: concussion","week_17","New Orleans Saints",2012
+"232","['Chris Owens']","Doubtful: concussion","week_3","Atlanta Falcons",2012
+"233","['Chris Owens']","Questionable: concussion","week_4","Atlanta Falcons",2012
+"234","['Chris Owens']","Questionable: concussion","week_5","Atlanta Falcons",2012
+"235","['Nate Ness']","Injured Reserve: concussion","week_1","Carolina Panthers",2012
+"236","['Nate Ness']","Injured Reserve: concussion","week_2","Carolina Panthers",2012
+"237","['Nate Ness']","Injured Reserve: concussion","week_3","Carolina Panthers",2012
+"238","['Nate Ness']","Injured Reserve: concussion","week_4","Carolina Panthers",2012
+"239","['Nate Ness']","Injured Reserve: concussion","week_5","Carolina Panthers",2012
+"240","['Nate Ness']","Injured Reserve: concussion","week_7","Carolina Panthers",2012
+"241","['Nate Ness']","Injured Reserve: concussion","week_8","Carolina Panthers",2012
+"242","['Brandon LaFell']","Doubtful: concussion","week_9","Carolina Panthers",2012
+"243","['Nate Ness']","Injured Reserve: concussion","week_9","Carolina Panthers",2012
+"244","['Brandon LaFell']","Questionable: concussion","week_10","Carolina Panthers",2012
+"245","['Nate Ness']","Injured Reserve: concussion","week_10","Carolina Panthers",2012
+"246","['Nate Ness']","Injured Reserve: concussion","week_11","Carolina Panthers",2012
+"247","['Nate Ness']","Injured Reserve: concussion","week_12","Carolina Panthers",2012
+"248","['Nate Ness']","Injured Reserve: concussion","week_13","Carolina Panthers",2012
+"249","['Nate Ness']","Injured Reserve: concussion","week_14","Carolina Panthers",2012
+"250","['Nate Ness']","Injured Reserve: concussion","week_15","Carolina Panthers",2012
+"251","['Nate Ness']","Injured Reserve: concussion","week_16","Carolina Panthers",2012
+"252","['Nate Ness']","Injured Reserve: concussion","week_17","Carolina Panthers",2012
+"253","['Jay Cutler']","Doubtful: concussion","week_11","Chicago Bears",2012
+"254","['Shea McClellin']","Doubtful: concussion","week_11","Chicago Bears",2012
+"255","['Jay Cutler']","Questionable: concussion","week_12","Chicago Bears",2012
+"256","['Shea McClellin']","Probable: concussion","week_12","Chicago Bears",2012
+"257","['Earl Bennett']","Questionable: concussion","week_15","Chicago Bears",2012
+"258","['Earl Bennett']","Probable: concussion","week_16","Chicago Bears",2012
+"259","['Erin Henderson']","Questionable: concussion","week_4","Minnesota Vikings",2012
+"260","['Erin Henderson']","Questionable: concussion","week_5","Minnesota Vikings",2012
+"261","['John Carlson']","Out: concussion","week_9","Minnesota Vikings",2012
+"262","['John Carlson']","Probable: concussion","week_10","Minnesota Vikings",2012
+"263","['Harrison Smith']","Questionable: concussion","week_13","Minnesota Vikings",2012
+"264","['A.J. Jefferson']","Questionable: concussion","week_15","Minnesota Vikings",2012
+"265","['Terrell Manning']","Questionable: concussion","week_2","Green Bay Packers",2012
+"266","['Terrell Manning']","Probable: concussion","week_3","Green Bay Packers",2012
+"267","['Jerel Worthy']","Questionable: concussion","week_9","Green Bay Packers",2012
+"268","['Jerel Worthy']","Probable: concussion","week_11","Green Bay Packers",2012
+"269","['Johnny White']","Questionable: concussion","week_13","Green Bay Packers",2012
+"270","['Johnny White']","Injured Reserve: concussion","week_14","Green Bay Packers",2012
+"271","['Johnny White']","Injured Reserve: concussion","week_15","Green Bay Packers",2012
+"272","['Alex Green']","Questionable: concussion","week_16","Green Bay Packers",2012
+"273","['T.J. Lang']","Questionable: concussion","week_16","Green Bay Packers",2012
+"274","['Johnny White']","Injured Reserve: concussion","week_16","Green Bay Packers",2012
+"275","['Alex Green']","Probable: concussion","week_17","Green Bay Packers",2012
+"276","['Johnny White']","Injured Reserve: concussion","week_17","Green Bay Packers",2012
+"277","['Alex Green']","Probable: concussion","week_18","Green Bay Packers",2012
+"278","['Jahvid Best']","Physically Unable to Perform: concussion","week_1","Detroit Lions",2012
+"279","['Bill Bentley']","Doubtful: concussion","week_2","Detroit Lions",2012
+"280","['Jahvid Best']","Physically Unable to Perform: concussion","week_2","Detroit Lions",2012
+"281","['Bill Bentley']","Questionable: concussion","week_3","Detroit Lions",2012
+"282","['Jahvid Best']","Physically Unable to Perform: concussion","week_3","Detroit Lions",2012
+"283","['Jahvid Best']","Physically Unable to Perform: concussion","week_4","Detroit Lions",2012
+"284","['Jahvid Best']","Physically Unable to Perform: concussion","week_6","Detroit Lions",2012
+"285","['Jahvid Best']","Physically Unable to Perform: concussion","week_7","Detroit Lions",2012
+"286","['Jacob Lacey']","Questionable: concussion","week_7","Detroit Lions",2012
+"287","['Jahvid Best']","Physically Unable to Perform: concussion","week_8","Detroit Lions",2012
+"288","['Jacob Lacey']","Questionable: concussion","week_8","Detroit Lions",2012
+"289","['Jahvid Best']","Physically Unable to Perform: concussion","week_9","Detroit Lions",2012
+"290","['Justin Durant']","Questionable: concussion","week_9","Detroit Lions",2012
+"291","['Jacob Lacey']","Questionable: concussion","week_9","Detroit Lions",2012
+"292","['Amari Spievey']","Questionable: concussion","week_9","Detroit Lions",2012
+"293","['Jahvid Best']","Injured Reserve: concussion","week_10","Detroit Lions",2012
+"294","['Amari Spievey']","Doubtful: concussion","week_10","Detroit Lions",2012
+"295","['Cliff Avril']","Questionable: back/concussion","week_11","Detroit Lions",2012
+"296","['Jahvid Best']","Injured Reserve: concussion","week_11","Detroit Lions",2012
+"297","['Amari Spievey']","Questionable: concussion","week_11","Detroit Lions",2012
+"298","['Jahvid Best']","Injured Reserve: concussion","week_12","Detroit Lions",2012
+"299","['Drayton Florence']","Doubtful: concussion","week_12","Detroit Lions",2012
+"300","['Amari Spievey']","Injured Reserve: concussion","week_12","Detroit Lions",2012
+"301","['Jahvid Best']","Injured Reserve: concussion","week_13","Detroit Lions",2012
+"302","['Amari Spievey']","Injured Reserve: concussion","week_13","Detroit Lions",2012
+"303","['Jahvid Best']","Injured Reserve: concussion","week_14","Detroit Lions",2012
+"304","['Lawrence Jackson']","Questionable: concussion","week_14","Detroit Lions",2012
+"305","['Amari Spievey']","Injured Reserve: concussion","week_14","Detroit Lions",2012
+"306","['Jahvid Best']","Injured Reserve: concussion","week_15","Detroit Lions",2012
+"307","['Amari Spievey']","Injured Reserve: concussion","week_15","Detroit Lions",2012
+"308","['Jahvid Best']","Injured Reserve: concussion","week_16","Detroit Lions",2012
+"309","['Amari Spievey']","Injured Reserve: concussion","week_16","Detroit Lions",2012
+"310","['Jahvid Best']","Injured Reserve: concussion","week_17","Detroit Lions",2012
+"311","['Amari Spievey']","Injured Reserve: concussion","week_17","Detroit Lions",2012
+"312","['Eugene Sims']","Questionable: concussion","week_6","Los Angeles Rams",2012
+"313","['Robert Quinn']","Questionable: concussion","week_13","Los Angeles Rams",2012
+"314","['Craig Dahl']","Doubtful: concussion","week_15","Los Angeles Rams",2012
+"315","['Malcolm Smith']","Questionable: concussion","week_8","Seattle Seahawks",2012
+"316","['K.J. Wright']","Questionable: concussion","week_10","Seattle Seahawks",2012
+"317","['James Carpenter']","Questionable: concussion","week_12","Seattle Seahawks",2012
+"318","['K.J. Wright']","Probable: concussion","week_12","Seattle Seahawks",2012
+"319","['Joe Staley']","Doubtful: concussion","week_7","San Francisco 49ers",2012
+"320","['Alex Smith']","Questionable: concussion","week_11","San Francisco 49ers",2012
+"321","['Alex Smith']","Questionable: concussion","week_12","San Francisco 49ers",2012
+"322","['Darcel McBath']","Questionable: concussion","week_13","San Francisco 49ers",2012
+"323","['Will Tukuafu']","Questionable: concussion","week_16","San Francisco 49ers",2012
+"324","['Vernon Davis']","Questionable: concussion","week_17","San Francisco 49ers",2012
+"325","['Early Doucet']","Doubtful: concussion","week_15","Arizona Cardinals",2012
+"326","['Early Doucet']","Questionable: concussion","week_16","Arizona Cardinals",2012
+"327","['Early Doucet']","Questionable: concussion","week_17","Arizona Cardinals",2012
