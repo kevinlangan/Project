@@ -1,0 +1,851 @@
+﻿name,injury,week,team,year
+['Pat Angerer'],Out: foot,week_1,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_1,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_1,Indianapolis Colts,2012
+['Donald Brown'],NA,week_1,Indianapolis Colts,2012
+['Darius Butler'],NA,week_1,Indianapolis Colts,2012
+['Delone Carter'],Probable: ribs,week_1,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_1,Indianapolis Colts,2012
+['Austin Collie'],Probable: concussion,week_1,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_1,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_1,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_1,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_1,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_1,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_1,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_1,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_1,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_1,Indianapolis Colts,2012
+['Tony Hills'],NA,week_1,Indianapolis Colts,2012
+['T.Y. Hilton'],Questionable: shoulder,week_1,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_1,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_1,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_1,Indianapolis Colts,2012
+['Winston Justice'],NA,week_1,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_1,Indianapolis Colts,2012
+['Brandon King'],Injured Reserve: hamstring,week_1,Indianapolis Colts,2012
+['Justin King'],NA,week_1,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_1,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_1,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_1,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_1,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_1,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_1,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_1,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_1,Indianapolis Colts,2012
+['Fili Moala'],NA,week_1,Indianapolis Colts,2012
+['Mewelde Moore'],Probable: ribs,week_1,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_1,Indianapolis Colts,2012
+['Mike Newton'],Injured Reserve: neck,week_1,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_1,Indianapolis Colts,2012
+['Jerraud Powers'],Probable: knee,week_1,Indianapolis Colts,2012
+['Cory Redding'],Probable: knee,week_1,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_1,Indianapolis Colts,2012
+['Jabin Sambrano'],Injured Reserve: concussion,week_1,Indianapolis Colts,2012
+['Samson Satele'],NA,week_1,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_1,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_1,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_1,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_1,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_1,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_1,Indianapolis Colts,2012
+['Pat Angerer'],Out: foot,week_2,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_2,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_2,Indianapolis Colts,2012
+['Donald Brown'],NA,week_2,Indianapolis Colts,2012
+['Darius Butler'],NA,week_2,Indianapolis Colts,2012
+['Delone Carter'],NA,week_2,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_2,Indianapolis Colts,2012
+['Austin Collie'],Probable: concussion,week_2,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_2,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_2,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_2,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_2,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_2,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_2,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_2,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_2,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_2,Indianapolis Colts,2012
+['Tony Hills'],NA,week_2,Indianapolis Colts,2012
+['T.Y. Hilton'],Probable: shoulder,week_2,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_2,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_2,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_2,Indianapolis Colts,2012
+['Winston Justice'],Questionable: concussion,week_2,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_2,Indianapolis Colts,2012
+['Brandon King'],NA,week_2,Indianapolis Colts,2012
+['Justin King'],NA,week_2,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_2,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_2,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_2,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_2,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_2,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_2,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_2,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_2,Indianapolis Colts,2012
+['Fili Moala'],NA,week_2,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_2,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_2,Indianapolis Colts,2012
+['Mike Newton'],NA,week_2,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_2,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_2,Indianapolis Colts,2012
+['Cory Redding'],NA,week_2,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_2,Indianapolis Colts,2012
+['Jabin Sambrano'],Injured Reserve: concussion,week_2,Indianapolis Colts,2012
+['Samson Satele'],NA,week_2,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_2,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_2,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_2,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_2,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_2,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_2,Indianapolis Colts,2012
+['Pat Angerer'],Out: foot,week_3,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_3,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_3,Indianapolis Colts,2012
+['Donald Brown'],NA,week_3,Indianapolis Colts,2012
+['Darius Butler'],NA,week_3,Indianapolis Colts,2012
+['Delone Carter'],NA,week_3,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_3,Indianapolis Colts,2012
+['Austin Collie'],Probable: concussion,week_3,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_3,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_3,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_3,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_3,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_3,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_3,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_3,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_3,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_3,Indianapolis Colts,2012
+['Tony Hills'],NA,week_3,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_3,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_3,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_3,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_3,Indianapolis Colts,2012
+['Winston Justice'],Probable: concussion,week_3,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_3,Indianapolis Colts,2012
+['Brandon King'],NA,week_3,Indianapolis Colts,2012
+['Justin King'],NA,week_3,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_3,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_3,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_3,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_3,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_3,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_3,Indianapolis Colts,2012
+['Mike McGlynn'],Questionable: knee,week_3,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_3,Indianapolis Colts,2012
+['Fili Moala'],NA,week_3,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_3,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_3,Indianapolis Colts,2012
+['Mike Newton'],NA,week_3,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_3,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_3,Indianapolis Colts,2012
+['Cory Redding'],Questionable: triceps,week_3,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_3,Indianapolis Colts,2012
+['Jabin Sambrano'],Injured Reserve: concussion,week_3,Indianapolis Colts,2012
+['Samson Satele'],Questionable: knee,week_3,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_3,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_3,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_3,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_3,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_3,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_3,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: foot,week_5,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_5,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_5,Indianapolis Colts,2012
+['Donald Brown'],NA,week_5,Indianapolis Colts,2012
+['Darius Butler'],NA,week_5,Indianapolis Colts,2012
+['Delone Carter'],NA,week_5,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_5,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_5,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_5,Indianapolis Colts,2012
+['Vontae Davis'],Questionable: ankle,week_5,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_5,Indianapolis Colts,2012
+['Coby Fleener'],Questionable: head,week_5,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_5,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_5,Indianapolis Colts,2012
+['Dwight Freeney'],Probable: ankle,week_5,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_5,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_5,Indianapolis Colts,2012
+['Tony Hills'],NA,week_5,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_5,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_5,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_5,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_5,Indianapolis Colts,2012
+['Winston Justice'],NA,week_5,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_5,Indianapolis Colts,2012
+['Brandon King'],NA,week_5,Indianapolis Colts,2012
+['Justin King'],Doubtful: groin,week_5,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_5,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_5,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_5,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_5,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_5,Indianapolis Colts,2012
+['Robert Mathis'],Probable: ankle,week_5,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_5,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_5,Indianapolis Colts,2012
+['Fili Moala'],NA,week_5,Indianapolis Colts,2012
+['Mewelde Moore'],Questionable: ankle,week_5,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_5,Indianapolis Colts,2012
+['Mike Newton'],NA,week_5,Indianapolis Colts,2012
+['Seth Olsen'],Questionable: knee,week_5,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_5,Indianapolis Colts,2012
+['Cory Redding'],NA,week_5,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_5,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_5,Indianapolis Colts,2012
+['Samson Satele'],Questionable: knee,week_5,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_5,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_5,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_5,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_5,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_5,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_5,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: foot,week_6,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_6,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_6,Indianapolis Colts,2012
+['Donald Brown'],Out: knee,week_6,Indianapolis Colts,2012
+['Darius Butler'],NA,week_6,Indianapolis Colts,2012
+['Delone Carter'],NA,week_6,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_6,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_6,Indianapolis Colts,2012
+['Vontae Davis'],Questionable: ankle,week_6,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_6,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_6,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_6,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_6,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_6,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_6,Indianapolis Colts,2012
+['Tony Hills'],NA,week_6,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_6,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_6,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_6,Indianapolis Colts,2012
+['Winston Justice'],NA,week_6,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_6,Indianapolis Colts,2012
+['Brandon King'],NA,week_6,Indianapolis Colts,2012
+['Justin King'],NA,week_6,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_6,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_6,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_6,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_6,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Robert Mathis'],Out: knee,week_6,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_6,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Fili Moala'],Questionable: knee,week_6,Indianapolis Colts,2012
+['Mewelde Moore'],Probable: ankle,week_6,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_6,Indianapolis Colts,2012
+['Mike Newton'],NA,week_6,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_6,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_6,Indianapolis Colts,2012
+['Cory Redding'],Questionable: knee,week_6,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_6,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_6,Indianapolis Colts,2012
+['Samson Satele'],Probable: knee,week_6,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_6,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_6,Indianapolis Colts,2012
+['Martin Tevaseu'],Out: ankle,week_6,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_6,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_6,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_6,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: foot,week_7,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_7,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_7,Indianapolis Colts,2012
+['Donald Brown'],Out: knee,week_7,Indianapolis Colts,2012
+['Darius Butler'],Questionable: shoulder,week_7,Indianapolis Colts,2012
+['Delone Carter'],NA,week_7,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_7,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_7,Indianapolis Colts,2012
+['Vontae Davis'],Probable: ankle,week_7,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_7,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_7,Indianapolis Colts,2012
+['Jerrell Freeman'],Probable: head,week_7,Indianapolis Colts,2012
+['Dwight Freeney'],Probable: ankle,week_7,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_7,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_7,Indianapolis Colts,2012
+['Tony Hills'],NA,week_7,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_7,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_7,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_7,Indianapolis Colts,2012
+['Winston Justice'],Questionable: ankle,week_7,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_7,Indianapolis Colts,2012
+['Brandon King'],NA,week_7,Indianapolis Colts,2012
+['Justin King'],NA,week_7,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_7,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_7,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_7,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_7,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Robert Mathis'],Out: knee,week_7,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_7,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Fili Moala'],Questionable: knee,week_7,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_7,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_7,Indianapolis Colts,2012
+['Mike Newton'],NA,week_7,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_7,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_7,Indianapolis Colts,2012
+['Cory Redding'],Questionable: knee,week_7,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: knee,week_7,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_7,Indianapolis Colts,2012
+['Samson Satele'],NA,week_7,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_7,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_7,Indianapolis Colts,2012
+['Martin Tevaseu'],Out: ankle,week_7,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_7,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_7,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_7,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: foot,week_8,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_8,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_8,Indianapolis Colts,2012
+['Donald Brown'],NA,week_8,Indianapolis Colts,2012
+['Darius Butler'],Questionable: shoulder,week_8,Indianapolis Colts,2012
+['Delone Carter'],NA,week_8,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_8,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_8,Indianapolis Colts,2012
+['Vontae Davis'],Questionable: knee,week_8,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_8,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_8,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_8,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_8,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_8,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_8,Indianapolis Colts,2012
+['Tony Hills'],NA,week_8,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_8,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_8,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Antonio Johnson'],Questionable: illness,week_8,Indianapolis Colts,2012
+['Winston Justice'],Questionable: ankle,week_8,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_8,Indianapolis Colts,2012
+['Brandon King'],NA,week_8,Indianapolis Colts,2012
+['Justin King'],NA,week_8,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_8,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_8,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_8,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_8,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Robert Mathis'],Out: knee,week_8,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_8,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Fili Moala'],Questionable: knee,week_8,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_8,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_8,Indianapolis Colts,2012
+['Mike Newton'],NA,week_8,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_8,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_8,Indianapolis Colts,2012
+['Cory Redding'],Probable: knee,week_8,Indianapolis Colts,2012
+['Joe Reitz'],Probable: knee,week_8,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_8,Indianapolis Colts,2012
+['Samson Satele'],NA,week_8,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_8,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_8,Indianapolis Colts,2012
+['Martin Tevaseu'],Probable: ankle,week_8,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_8,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_8,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_8,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: foot,week_9,Indianapolis Colts,2012
+['Donnie Avery'],Questionable: undisclosed,week_9,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_9,Indianapolis Colts,2012
+['Donald Brown'],Questionable: knee,week_9,Indianapolis Colts,2012
+['Darius Butler'],Questionable: shoulder,week_9,Indianapolis Colts,2012
+['Delone Carter'],NA,week_9,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_9,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_9,Indianapolis Colts,2012
+['Vontae Davis'],Questionable: knee,week_9,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Coby Fleener'],Questionable: shoulder,week_9,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_9,Indianapolis Colts,2012
+['Jerrell Freeman'],Questionable: foot,week_9,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_9,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_9,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_9,Indianapolis Colts,2012
+['Tony Hills'],NA,week_9,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_9,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_9,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_9,Indianapolis Colts,2012
+['Winston Justice'],Questionable: knee,week_9,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_9,Indianapolis Colts,2012
+['Brandon King'],NA,week_9,Indianapolis Colts,2012
+['Justin King'],NA,week_9,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_9,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_9,Indianapolis Colts,2012
+['Jeff Linkenbach'],Questionable: head,week_9,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_9,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Robert Mathis'],Questionable: knee,week_9,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_9,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Fili Moala'],Questionable: knee,week_9,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_9,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_9,Indianapolis Colts,2012
+['Mike Newton'],NA,week_9,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_9,Indianapolis Colts,2012
+['Jerraud Powers'],NA,week_9,Indianapolis Colts,2012
+['Cory Redding'],NA,week_9,Indianapolis Colts,2012
+['Joe Reitz'],NA,week_9,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_9,Indianapolis Colts,2012
+['Samson Satele'],Doubtful: leg,week_9,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_9,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_9,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_9,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_9,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_9,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_9,Indianapolis Colts,2012
+['Pat Angerer'],Probable: foot,week_10,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_10,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_10,Indianapolis Colts,2012
+['Donald Brown'],Questionable: knee/hip,week_10,Indianapolis Colts,2012
+['Darius Butler'],NA,week_10,Indianapolis Colts,2012
+['Delone Carter'],NA,week_10,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_10,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_10,Indianapolis Colts,2012
+['Vontae Davis'],Out: knee,week_10,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Coby Fleener'],Out: shoulder,week_10,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_10,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_10,Indianapolis Colts,2012
+['Dwight Freeney'],Probable: ankle,week_10,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_10,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_10,Indianapolis Colts,2012
+['Tony Hills'],NA,week_10,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_10,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_10,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_10,Indianapolis Colts,2012
+['Winston Justice'],Out: knee,week_10,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_10,Indianapolis Colts,2012
+['Brandon King'],NA,week_10,Indianapolis Colts,2012
+['Justin King'],NA,week_10,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_10,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_10,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_10,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_10,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Robert Mathis'],Out: back,week_10,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_10,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Fili Moala'],NA,week_10,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_10,Indianapolis Colts,2012
+['Drake Nevis'],NA,week_10,Indianapolis Colts,2012
+['Mike Newton'],NA,week_10,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_10,Indianapolis Colts,2012
+['Jerraud Powers'],Questionable: foot,week_10,Indianapolis Colts,2012
+['Cory Redding'],NA,week_10,Indianapolis Colts,2012
+['Joe Reitz'],NA,week_10,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_10,Indianapolis Colts,2012
+['Samson Satele'],Out: back,week_10,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_10,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_10,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_10,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_10,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_10,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_10,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_11,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_11,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_11,Indianapolis Colts,2012
+['Donald Brown'],Probable: knee,week_11,Indianapolis Colts,2012
+['Darius Butler'],NA,week_11,Indianapolis Colts,2012
+['Delone Carter'],NA,week_11,Indianapolis Colts,2012
+['Josh Chapman'],Out: knee,week_11,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_11,Indianapolis Colts,2012
+['Vontae Davis'],Out: knee,week_11,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Coby Fleener'],Out: shoulder,week_11,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_11,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_11,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_11,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_11,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_11,Indianapolis Colts,2012
+['Tony Hills'],NA,week_11,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_11,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_11,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_11,Indianapolis Colts,2012
+['Winston Justice'],Probable: knee,week_11,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_11,Indianapolis Colts,2012
+['Brandon King'],NA,week_11,Indianapolis Colts,2012
+['Justin King'],NA,week_11,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_11,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_11,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_11,Indianapolis Colts,2012
+['Andrew Luck'],NA,week_11,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Robert Mathis'],Probable: back,week_11,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_11,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Fili Moala'],NA,week_11,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_11,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_11,Indianapolis Colts,2012
+['Mike Newton'],NA,week_11,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_11,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_11,Indianapolis Colts,2012
+['Cory Redding'],NA,week_11,Indianapolis Colts,2012
+['Joe Reitz'],NA,week_11,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_11,Indianapolis Colts,2012
+['Samson Satele'],Probable: back,week_11,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_11,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_11,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_11,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_11,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_11,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_11,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_12,Indianapolis Colts,2012
+['Donnie Avery'],Probable: head,week_12,Indianapolis Colts,2012
+['Antoine Bethea'],Questionable: ankle,week_12,Indianapolis Colts,2012
+['Donald Brown'],Probable: knee,week_12,Indianapolis Colts,2012
+['Darius Butler'],NA,week_12,Indianapolis Colts,2012
+['Delone Carter'],NA,week_12,Indianapolis Colts,2012
+['Josh Chapman'],Probable: knee,week_12,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_12,Indianapolis Colts,2012
+['Vontae Davis'],Questionable: knee,week_12,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Coby Fleener'],Questionable: shoulder,week_12,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_12,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_12,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_12,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_12,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_12,Indianapolis Colts,2012
+['Tony Hills'],NA,week_12,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_12,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_12,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_12,Indianapolis Colts,2012
+['Winston Justice'],NA,week_12,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_12,Indianapolis Colts,2012
+['Brandon King'],NA,week_12,Indianapolis Colts,2012
+['Justin King'],NA,week_12,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_12,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_12,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_12,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_12,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_12,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_12,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Fili Moala'],NA,week_12,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_12,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_12,Indianapolis Colts,2012
+['Mike Newton'],NA,week_12,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_12,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_12,Indianapolis Colts,2012
+['Cory Redding'],Questionable: hip,week_12,Indianapolis Colts,2012
+['Joe Reitz'],NA,week_12,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_12,Indianapolis Colts,2012
+['Samson Satele'],NA,week_12,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_12,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_12,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_12,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_12,Indianapolis Colts,2012
+['Teddy Williams'],Probable: calf,week_12,Indianapolis Colts,2012
+['Tom Zbikowski'],NA,week_12,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_13,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_13,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_13,Indianapolis Colts,2012
+['Donald Brown'],Probable: knee,week_13,Indianapolis Colts,2012
+['Darius Butler'],NA,week_13,Indianapolis Colts,2012
+['Delone Carter'],NA,week_13,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_13,Indianapolis Colts,2012
+['Vontae Davis'],Probable: knee,week_13,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Coby Fleener'],Probable: shoulder,week_13,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_13,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_13,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_13,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_13,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_13,Indianapolis Colts,2012
+['Tony Hills'],Probable: chest,week_13,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_13,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_13,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_13,Indianapolis Colts,2012
+['Winston Justice'],NA,week_13,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_13,Indianapolis Colts,2012
+['Brandon King'],NA,week_13,Indianapolis Colts,2012
+['Justin King'],NA,week_13,Indianapolis Colts,2012
+['Joe Lefeged'],Probable: toe,week_13,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_13,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_13,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_13,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_13,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_13,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_13,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_13,Indianapolis Colts,2012
+['Mike Newton'],NA,week_13,Indianapolis Colts,2012
+['Seth Olsen'],Injured Reserve: knee,week_13,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_13,Indianapolis Colts,2012
+['Cory Redding'],NA,week_13,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: head,week_13,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_13,Indianapolis Colts,2012
+['Samson Satele'],NA,week_13,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_13,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_13,Indianapolis Colts,2012
+['Martin Tevaseu'],Questionable: head/shoulder,week_13,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_13,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_13,Indianapolis Colts,2012
+['Tom Zbikowski'],Questionable: shin,week_13,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_14,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_14,Indianapolis Colts,2012
+['Antoine Bethea'],Probable: neck,week_14,Indianapolis Colts,2012
+['Donald Brown'],Out: ankle,week_14,Indianapolis Colts,2012
+['Darius Butler'],NA,week_14,Indianapolis Colts,2012
+['Delone Carter'],NA,week_14,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_14,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_14,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_14,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_14,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_14,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_14,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_14,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_14,Indianapolis Colts,2012
+['Tony Hills'],NA,week_14,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_14,Indianapolis Colts,2012
+['Robert Hughes'],NA,week_14,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_14,Indianapolis Colts,2012
+['Winston Justice'],Questionable: concussion,week_14,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_14,Indianapolis Colts,2012
+['Brandon King'],NA,week_14,Indianapolis Colts,2012
+['Justin King'],NA,week_14,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_14,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_14,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_14,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_14,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_14,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_14,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_14,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_14,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_14,Indianapolis Colts,2012
+['Mike Newton'],NA,week_14,Indianapolis Colts,2012
+['Seth Olsen'],Probable: knee,week_14,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_14,Indianapolis Colts,2012
+['Cory Redding'],Questionable: ankle,week_14,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: concussion,week_14,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_14,Indianapolis Colts,2012
+['Samson Satele'],NA,week_14,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_14,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_14,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_14,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_14,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_14,Indianapolis Colts,2012
+['Tom Zbikowski'],Out: knee,week_14,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_15,Indianapolis Colts,2012
+['Donnie Avery'],Probable: ribs,week_15,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_15,Indianapolis Colts,2012
+['Donald Brown'],Injured Reserve: ankle,week_15,Indianapolis Colts,2012
+['Darius Butler'],NA,week_15,Indianapolis Colts,2012
+['Delone Carter'],Questionable: ankle,week_15,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Kavell Conner'],Questionable: hamstring,week_15,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_15,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Coby Fleener'],Probable: ankle,week_15,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_15,Indianapolis Colts,2012
+['Jerrell Freeman'],NA,week_15,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_15,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_15,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_15,Indianapolis Colts,2012
+['Tony Hills'],NA,week_15,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_15,Indianapolis Colts,2012
+['Robert Hughes'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Antonio Johnson'],NA,week_15,Indianapolis Colts,2012
+['Winston Justice'],Questionable: biceps,week_15,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_15,Indianapolis Colts,2012
+['Brandon King'],NA,week_15,Indianapolis Colts,2012
+['Justin King'],NA,week_15,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_15,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_15,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_15,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_15,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_15,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_15,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_15,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_15,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_15,Indianapolis Colts,2012
+['Mike Newton'],NA,week_15,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_15,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_15,Indianapolis Colts,2012
+['Cory Redding'],NA,week_15,Indianapolis Colts,2012
+['Joe Reitz'],Probable: concussion,week_15,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_15,Indianapolis Colts,2012
+['Samson Satele'],Questionable: ankle,week_15,Indianapolis Colts,2012
+['A.Q. Shipley'],NA,week_15,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_15,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_15,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_15,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_15,Indianapolis Colts,2012
+['Tom Zbikowski'],Questionable: knee,week_15,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_16,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_16,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_16,Indianapolis Colts,2012
+['Donald Brown'],Injured Reserve: ankle,week_16,Indianapolis Colts,2012
+['Darius Butler'],NA,week_16,Indianapolis Colts,2012
+['Delone Carter'],Out: ankle,week_16,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Kavell Conner'],Questionable: hamstring,week_16,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_16,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_16,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_16,Indianapolis Colts,2012
+['Jerrell Freeman'],Questionable: thumb,week_16,Indianapolis Colts,2012
+['Dwight Freeney'],Questionable: ankle,week_16,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_16,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_16,Indianapolis Colts,2012
+['Tony Hills'],NA,week_16,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_16,Indianapolis Colts,2012
+['Robert Hughes'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Antonio Johnson'],Questionable: ankle,week_16,Indianapolis Colts,2012
+['Winston Justice'],Questionable: biceps,week_16,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_16,Indianapolis Colts,2012
+['Brandon King'],NA,week_16,Indianapolis Colts,2012
+['Justin King'],NA,week_16,Indianapolis Colts,2012
+['Joe Lefeged'],Probable: calf,week_16,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_16,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_16,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_16,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_16,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_16,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_16,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_16,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_16,Indianapolis Colts,2012
+['Mike Newton'],NA,week_16,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_16,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_16,Indianapolis Colts,2012
+['Cory Redding'],NA,week_16,Indianapolis Colts,2012
+['Joe Reitz'],NA,week_16,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_16,Indianapolis Colts,2012
+['Samson Satele'],Questionable: ankle,week_16,Indianapolis Colts,2012
+['A.Q. Shipley'],Questionable: knee,week_16,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_16,Indianapolis Colts,2012
+['Martin Tevaseu'],Questionable: illness,week_16,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_16,Indianapolis Colts,2012
+['Teddy Williams'],NA,week_16,Indianapolis Colts,2012
+['Tom Zbikowski'],Questionable: knee,week_16,Indianapolis Colts,2012
+['Pat Angerer'],NA,week_17,Indianapolis Colts,2012
+['Donnie Avery'],Probable: shoulder,week_17,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_17,Indianapolis Colts,2012
+['Donald Brown'],Injured Reserve: ankle,week_17,Indianapolis Colts,2012
+['Darius Butler'],NA,week_17,Indianapolis Colts,2012
+['Delone Carter'],Out: ankle,week_17,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Kavell Conner'],Questionable: hamstring,week_17,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_17,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_17,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_17,Indianapolis Colts,2012
+['Jerrell Freeman'],Probable: thumb,week_17,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_17,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_17,Indianapolis Colts,2012
+['Kellen Heard'],NA,week_17,Indianapolis Colts,2012
+['Tony Hills'],NA,week_17,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_17,Indianapolis Colts,2012
+['Robert Hughes'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Antonio Johnson'],Questionable: ankle,week_17,Indianapolis Colts,2012
+['Winston Justice'],Questionable: biceps,week_17,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_17,Indianapolis Colts,2012
+['Brandon King'],NA,week_17,Indianapolis Colts,2012
+['Justin King'],NA,week_17,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_17,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_17,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_17,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_17,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_17,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_17,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_17,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_17,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_17,Indianapolis Colts,2012
+['Mike Newton'],NA,week_17,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_17,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_17,Indianapolis Colts,2012
+['Cory Redding'],Questionable: quadricep,week_17,Indianapolis Colts,2012
+['Joe Reitz'],Doubtful: head,week_17,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_17,Indianapolis Colts,2012
+['Samson Satele'],Questionable: ankle,week_17,Indianapolis Colts,2012
+['A.Q. Shipley'],Questionable: knee,week_17,Indianapolis Colts,2012
+['Bradley Sowell'],NA,week_17,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_17,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_17,Indianapolis Colts,2012
+['Teddy Williams'],Questionable: knee,week_17,Indianapolis Colts,2012
+['Tom Zbikowski'],Questionable: knee,week_17,Indianapolis Colts,2012
+['Pat Angerer'],Questionable: illness,week_18,Indianapolis Colts,2012
+['Donnie Avery'],NA,week_18,Indianapolis Colts,2012
+['Antoine Bethea'],NA,week_18,Indianapolis Colts,2012
+['Donald Brown'],Injured Reserve: ankle,week_18,Indianapolis Colts,2012
+['Darius Butler'],NA,week_18,Indianapolis Colts,2012
+['Delone Carter'],Probable: ankle,week_18,Indianapolis Colts,2012
+['Josh Chapman'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Austin Collie'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Kavell Conner'],NA,week_18,Indianapolis Colts,2012
+['Vontae Davis'],NA,week_18,Indianapolis Colts,2012
+['A.J. Edds'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Coby Fleener'],NA,week_18,Indianapolis Colts,2012
+['Moise Fokou'],NA,week_18,Indianapolis Colts,2012
+['Jerrell Freeman'],Probable: thumb,week_18,Indianapolis Colts,2012
+['Dwight Freeney'],NA,week_18,Indianapolis Colts,2012
+['Tim Fugger'],Injured Reserve: undisclosed,week_18,Indianapolis Colts,2012
+['Kellen Heard'],Questionable: illness,week_18,Indianapolis Colts,2012
+['Tony Hills'],NA,week_18,Indianapolis Colts,2012
+['T.Y. Hilton'],NA,week_18,Indianapolis Colts,2012
+['Robert Hughes'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Ben Ijalana'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Antonio Johnson'],Questionable: ankle,week_18,Indianapolis Colts,2012
+['Winston Justice'],Questionable: shoulder,week_18,Indianapolis Colts,2012
+['Deji Karim'],Injured Reserve: undisclosed,week_18,Indianapolis Colts,2012
+['Brandon King'],NA,week_18,Indianapolis Colts,2012
+['Justin King'],NA,week_18,Indianapolis Colts,2012
+['Joe Lefeged'],NA,week_18,Indianapolis Colts,2012
+['Korey Lindsey'],Injured Reserve: concussion,week_18,Indianapolis Colts,2012
+['Jeff Linkenbach'],NA,week_18,Indianapolis Colts,2012
+['Andrew Luck'],Probable: knee,week_18,Indianapolis Colts,2012
+['Scott Lutrus'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Robert Mathis'],NA,week_18,Indianapolis Colts,2012
+['Mike McGlynn'],NA,week_18,Indianapolis Colts,2012
+['Brandon McKinney'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Fili Moala'],Injured Reserve: knee,week_18,Indianapolis Colts,2012
+['Mewelde Moore'],NA,week_18,Indianapolis Colts,2012
+['Drake Nevis'],Injured Reserve: hand,week_18,Indianapolis Colts,2012
+['Mike Newton'],NA,week_18,Indianapolis Colts,2012
+['Seth Olsen'],NA,week_18,Indianapolis Colts,2012
+['Jerraud Powers'],Injured Reserve: toe,week_18,Indianapolis Colts,2012
+['Cory Redding'],Questionable: quadricep,week_18,Indianapolis Colts,2012
+['Joe Reitz'],Questionable: head,week_18,Indianapolis Colts,2012
+['Jabin Sambrano'],NA,week_18,Indianapolis Colts,2012
+['Samson Satele'],Probable: ankle,week_18,Indianapolis Colts,2012
+['A.Q. Shipley'],Questionable: knee,week_18,Indianapolis Colts,2012
+['Bradley Sowell'],Questionable: illness,week_18,Indianapolis Colts,2012
+['Martin Tevaseu'],NA,week_18,Indianapolis Colts,2012
+['Griff Whalen'],Injured Reserve: foot,week_18,Indianapolis Colts,2012
+['Teddy Williams'],Probable: knee,week_18,Indianapolis Colts,2012
+['Tom Zbikowski'],Questionable: knee,week_18,Indianapolis Colts,2012

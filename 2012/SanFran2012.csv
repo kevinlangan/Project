@@ -1,0 +1,837 @@
+﻿name,injury,week,team,year
+['David Akers'],NA,week_1,San Francisco 49ers,2012
+['Alex Boone'],NA,week_1,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_1,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_1,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_1,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_1,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_1,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_1,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_1,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_1,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_1,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_1,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_1,San Francisco 49ers,2012
+['Ted Ginn'],Questionable: ankle,week_1,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_1,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_1,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_1,San Francisco 49ers,2012
+['Frank Gore'],NA,week_1,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_1,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_1,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_1,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_1,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_1,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_1,San Francisco 49ers,2012
+['LaMichael James'],Probable: ankle,week_1,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_1,San Francisco 49ers,2012
+['Andy Lee'],NA,week_1,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_1,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_1,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_1,San Francisco 49ers,2012
+['Randy Moss'],NA,week_1,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_1,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_1,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: hip,week_1,San Francisco 49ers,2012
+['Alex Smith'],NA,week_1,San Francisco 49ers,2012
+['Justin Smith'],NA,week_1,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_1,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_1,San Francisco 49ers,2012
+['Joe Staley'],NA,week_1,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_1,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_1,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_1,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_1,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_1,San Francisco 49ers,2012
+['David Akers'],NA,week_2,San Francisco 49ers,2012
+['Alex Boone'],NA,week_2,San Francisco 49ers,2012
+['NaVorro Bowman'],Questionable: shoulder,week_2,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_2,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_2,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_2,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_2,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_2,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_2,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_2,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_2,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_2,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_2,San Francisco 49ers,2012
+['Ted Ginn'],Questionable: ankle,week_2,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_2,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_2,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_2,San Francisco 49ers,2012
+['Frank Gore'],NA,week_2,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_2,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_2,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_2,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_2,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_2,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_2,San Francisco 49ers,2012
+['LaMichael James'],NA,week_2,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_2,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_2,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_2,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_2,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_2,San Francisco 49ers,2012
+['Randy Moss'],NA,week_2,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_2,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_2,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_2,San Francisco 49ers,2012
+['Alex Smith'],NA,week_2,San Francisco 49ers,2012
+['Justin Smith'],NA,week_2,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_2,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_2,San Francisco 49ers,2012
+['Joe Staley'],NA,week_2,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_2,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_2,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_2,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_2,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_2,San Francisco 49ers,2012
+['David Akers'],NA,week_3,San Francisco 49ers,2012
+['Alex Boone'],NA,week_3,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_3,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_3,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_3,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_3,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_3,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_3,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_3,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_3,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_3,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_3,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_3,San Francisco 49ers,2012
+['Ted Ginn'],Questionable: ankle,week_3,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_3,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_3,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_3,San Francisco 49ers,2012
+['Frank Gore'],NA,week_3,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_3,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_3,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_3,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_3,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_3,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_3,San Francisco 49ers,2012
+['LaMichael James'],NA,week_3,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_3,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_3,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_3,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_3,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_3,San Francisco 49ers,2012
+['Randy Moss'],NA,week_3,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_3,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_3,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_3,San Francisco 49ers,2012
+['Alex Smith'],NA,week_3,San Francisco 49ers,2012
+['Justin Smith'],NA,week_3,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_3,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_3,San Francisco 49ers,2012
+['Joe Staley'],NA,week_3,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_3,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_3,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_3,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_3,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_3,San Francisco 49ers,2012
+['David Akers'],NA,week_4,San Francisco 49ers,2012
+['Alex Boone'],NA,week_4,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_4,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_4,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_4,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_4,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_4,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_4,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_4,San Francisco 49ers,2012
+['Vernon Davis'],Probable: back,week_4,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_4,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_4,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_4,San Francisco 49ers,2012
+['Ted Ginn'],Questionable: ankle,week_4,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_4,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_4,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_4,San Francisco 49ers,2012
+['Frank Gore'],NA,week_4,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_4,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_4,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_4,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_4,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_4,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_4,San Francisco 49ers,2012
+['LaMichael James'],NA,week_4,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_4,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_4,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_4,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_4,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_4,San Francisco 49ers,2012
+['Randy Moss'],NA,week_4,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_4,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_4,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_4,San Francisco 49ers,2012
+['Alex Smith'],NA,week_4,San Francisco 49ers,2012
+['Justin Smith'],NA,week_4,San Francisco 49ers,2012
+['Isaac Sopoaga'],Questionable: leg,week_4,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_4,San Francisco 49ers,2012
+['Joe Staley'],NA,week_4,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_4,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_4,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_4,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_4,San Francisco 49ers,2012
+['Patrick Willis'],Probable: ankle,week_4,San Francisco 49ers,2012
+['David Akers'],NA,week_5,San Francisco 49ers,2012
+['Alex Boone'],NA,week_5,San Francisco 49ers,2012
+['NaVorro Bowman'],Questionable: shoulder,week_5,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_5,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_5,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_5,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_5,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_5,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_5,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_5,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_5,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_5,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_5,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_5,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_5,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_5,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_5,San Francisco 49ers,2012
+['Frank Gore'],NA,week_5,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_5,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_5,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_5,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_5,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_5,San Francisco 49ers,2012
+['Brandon Jacobs'],Probable: knee,week_5,San Francisco 49ers,2012
+['LaMichael James'],NA,week_5,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_5,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_5,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_5,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_5,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_5,San Francisco 49ers,2012
+['Randy Moss'],NA,week_5,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_5,San Francisco 49ers,2012
+['Carlos Rogers'],Questionable: ankle,week_5,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_5,San Francisco 49ers,2012
+['Alex Smith'],NA,week_5,San Francisco 49ers,2012
+['Justin Smith'],NA,week_5,San Francisco 49ers,2012
+['Isaac Sopoaga'],Questionable: leg,week_5,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_5,San Francisco 49ers,2012
+['Joe Staley'],NA,week_5,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_5,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_5,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_5,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_5,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_5,San Francisco 49ers,2012
+['David Akers'],NA,week_6,San Francisco 49ers,2012
+['Alex Boone'],NA,week_6,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_6,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_6,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_6,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_6,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_6,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_6,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_6,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_6,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_6,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_6,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_6,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_6,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_6,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_6,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_6,San Francisco 49ers,2012
+['Frank Gore'],NA,week_6,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_6,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_6,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_6,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_6,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_6,San Francisco 49ers,2012
+['Brandon Jacobs'],Probable: knee,week_6,San Francisco 49ers,2012
+['LaMichael James'],NA,week_6,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_6,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_6,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_6,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_6,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_6,San Francisco 49ers,2012
+['Randy Moss'],NA,week_6,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_6,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_6,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_6,San Francisco 49ers,2012
+['Alex Smith'],Probable: finger,week_6,San Francisco 49ers,2012
+['Justin Smith'],NA,week_6,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_6,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_6,San Francisco 49ers,2012
+['Joe Staley'],NA,week_6,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_6,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_6,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_6,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_6,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_6,San Francisco 49ers,2012
+['David Akers'],Probable: illness,week_7,San Francisco 49ers,2012
+['Alex Boone'],NA,week_7,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_7,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_7,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_7,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_7,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_7,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_7,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_7,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_7,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_7,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_7,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_7,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_7,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_7,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: elbow,week_7,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_7,San Francisco 49ers,2012
+['Frank Gore'],NA,week_7,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_7,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_7,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_7,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_7,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_7,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_7,San Francisco 49ers,2012
+['LaMichael James'],NA,week_7,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_7,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_7,San Francisco 49ers,2012
+['Mario Manningham'],Questionable: shoulder,week_7,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_7,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_7,San Francisco 49ers,2012
+['Randy Moss'],NA,week_7,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_7,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_7,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_7,San Francisco 49ers,2012
+['Alex Smith'],Probable: right finger,week_7,San Francisco 49ers,2012
+['Justin Smith'],NA,week_7,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_7,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_7,San Francisco 49ers,2012
+['Joe Staley'],Doubtful: concussion,week_7,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_7,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_7,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_7,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_7,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_7,San Francisco 49ers,2012
+['David Akers'],NA,week_8,San Francisco 49ers,2012
+['Alex Boone'],NA,week_8,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_8,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_8,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_8,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_8,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_8,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_8,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_8,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_8,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_8,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_8,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_8,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_8,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_8,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: elbow,week_8,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_8,San Francisco 49ers,2012
+['Frank Gore'],Probable: ribs,week_8,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_8,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_8,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_8,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_8,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_8,San Francisco 49ers,2012
+['Brandon Jacobs'],Questionable: knee,week_8,San Francisco 49ers,2012
+['LaMichael James'],NA,week_8,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_8,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_8,San Francisco 49ers,2012
+['Mario Manningham'],Probable: shoulder,week_8,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_8,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_8,San Francisco 49ers,2012
+['Randy Moss'],NA,week_8,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_8,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_8,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_8,San Francisco 49ers,2012
+['Alex Smith'],Probable: right finger,week_8,San Francisco 49ers,2012
+['Justin Smith'],NA,week_8,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_8,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_8,San Francisco 49ers,2012
+['Joe Staley'],Questionable: illness,week_8,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_8,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_8,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_8,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_8,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_8,San Francisco 49ers,2012
+['David Akers'],NA,week_10,San Francisco 49ers,2012
+['Alex Boone'],NA,week_10,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_10,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_10,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_10,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_10,San Francisco 49ers,2012
+['Michael Crabtree'],Probable: illness,week_10,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_10,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_10,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_10,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_10,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_10,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_10,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_10,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_10,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: elbow,week_10,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_10,San Francisco 49ers,2012
+['Frank Gore'],Probable: hand,week_10,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_10,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_10,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_10,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_10,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_10,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_10,San Francisco 49ers,2012
+['LaMichael James'],NA,week_10,San Francisco 49ers,2012
+['Daniel Kilgore'],Questionable: head,week_10,San Francisco 49ers,2012
+['Andy Lee'],Probable: hand,week_10,San Francisco 49ers,2012
+['Mario Manningham'],Probable: shoulder,week_10,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_10,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_10,San Francisco 49ers,2012
+['Randy Moss'],NA,week_10,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_10,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_10,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_10,San Francisco 49ers,2012
+['Alex Smith'],Probable: right finger,week_10,San Francisco 49ers,2012
+['Justin Smith'],NA,week_10,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_10,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_10,San Francisco 49ers,2012
+['Joe Staley'],NA,week_10,San Francisco 49ers,2012
+['Will Tukuafu'],Probable: wrist,week_10,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_10,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_10,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_10,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_10,San Francisco 49ers,2012
+['David Akers'],NA,week_11,San Francisco 49ers,2012
+['Alex Boone'],NA,week_11,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_11,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_11,San Francisco 49ers,2012
+['Tarell Brown'],NA,week_11,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_11,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_11,San Francisco 49ers,2012
+['Chris Culliver'],Questionable: shoulder,week_11,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_11,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_11,San Francisco 49ers,2012
+['Anthony Dixon'],Probable: hamstring,week_11,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_11,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_11,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_11,San Francisco 49ers,2012
+['Dashon Goldson'],Probable: ribs,week_11,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: elbow/quadricep,week_11,San Francisco 49ers,2012
+['Jonathan Goodwin'],Probable: ankle,week_11,San Francisco 49ers,2012
+['Frank Gore'],Probable: ribs/wrist,week_11,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_11,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_11,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_11,San Francisco 49ers,2012
+['Kendall Hunter'],NA,week_11,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_11,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_11,San Francisco 49ers,2012
+['LaMichael James'],NA,week_11,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_11,San Francisco 49ers,2012
+['Andy Lee'],NA,week_11,San Francisco 49ers,2012
+['Mario Manningham'],Probable: shoulder,week_11,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_11,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_11,San Francisco 49ers,2012
+['Randy Moss'],NA,week_11,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_11,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_11,San Francisco 49ers,2012
+['Aldon Smith'],NA,week_11,San Francisco 49ers,2012
+['Alex Smith'],Questionable: concussion,week_11,San Francisco 49ers,2012
+['Justin Smith'],NA,week_11,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_11,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_11,San Francisco 49ers,2012
+['Joe Staley'],NA,week_11,San Francisco 49ers,2012
+['Will Tukuafu'],Probable: wrist,week_11,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_11,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_11,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_11,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_11,San Francisco 49ers,2012
+['David Akers'],NA,week_12,San Francisco 49ers,2012
+['Alex Boone'],NA,week_12,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_12,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_12,San Francisco 49ers,2012
+['Tarell Brown'],Questionable: knee,week_12,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_12,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_12,San Francisco 49ers,2012
+['Chris Culliver'],Questionable: shoulder,week_12,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_12,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_12,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_12,San Francisco 49ers,2012
+['Demarcus Dobbs'],NA,week_12,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_12,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_12,San Francisco 49ers,2012
+['Dashon Goldson'],Questionable: ribs/calf,week_12,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: shin,week_12,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_12,San Francisco 49ers,2012
+['Frank Gore'],Probable: ribs/wrist,week_12,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_12,San Francisco 49ers,2012
+['Jewel Hampton'],Out: undisclosed,week_12,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_12,San Francisco 49ers,2012
+['Kendall Hunter'],Questionable: ankle,week_12,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_12,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_12,San Francisco 49ers,2012
+['LaMichael James'],NA,week_12,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_12,San Francisco 49ers,2012
+['Andy Lee'],NA,week_12,San Francisco 49ers,2012
+['Mario Manningham'],NA,week_12,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_12,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_12,San Francisco 49ers,2012
+['Randy Moss'],Probable: finger,week_12,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_12,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_12,San Francisco 49ers,2012
+['Aldon Smith'],Probable: shoulder,week_12,San Francisco 49ers,2012
+['Alex Smith'],Questionable: concussion,week_12,San Francisco 49ers,2012
+['Justin Smith'],NA,week_12,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_12,San Francisco 49ers,2012
+['C.J. Spillman'],Probable: finger,week_12,San Francisco 49ers,2012
+['Joe Staley'],NA,week_12,San Francisco 49ers,2012
+['Will Tukuafu'],Probable: wrist,week_12,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_12,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_12,San Francisco 49ers,2012
+['Kyle Williams'],NA,week_12,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_12,San Francisco 49ers,2012
+['David Akers'],Questionable: hip,week_13,San Francisco 49ers,2012
+['Alex Boone'],NA,week_13,San Francisco 49ers,2012
+['NaVorro Bowman'],NA,week_13,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_13,San Francisco 49ers,2012
+['Tarell Brown'],Probable: knee,week_13,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_13,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_13,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_13,San Francisco 49ers,2012
+['Anthony Davis'],Probable: finger,week_13,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_13,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_13,San Francisco 49ers,2012
+['Demarcus Dobbs'],Questionable: disciplinary/legal,week_13,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_13,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_13,San Francisco 49ers,2012
+['Dashon Goldson'],Probable: ribs/calf,week_13,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: elbow,week_13,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_13,San Francisco 49ers,2012
+['Frank Gore'],Probable: wrist/ribs,week_13,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_13,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_13,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_13,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_13,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_13,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_13,San Francisco 49ers,2012
+['LaMichael James'],NA,week_13,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_13,San Francisco 49ers,2012
+['Andy Lee'],NA,week_13,San Francisco 49ers,2012
+['Mario Manningham'],Probable: shoulder,week_13,San Francisco 49ers,2012
+['Darcel McBath'],Questionable: concussion,week_13,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_13,San Francisco 49ers,2012
+['Randy Moss'],NA,week_13,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_13,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_13,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: shoulder,week_13,San Francisco 49ers,2012
+['Alex Smith'],NA,week_13,San Francisco 49ers,2012
+['Justin Smith'],NA,week_13,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_13,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_13,San Francisco 49ers,2012
+['Joe Staley'],NA,week_13,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_13,San Francisco 49ers,2012
+['Delanie Walker'],Questionable: hip,week_13,San Francisco 49ers,2012
+['Donte Whitner'],Probable: knee,week_13,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_13,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_13,San Francisco 49ers,2012
+['David Akers'],Questionable: pelvis,week_14,San Francisco 49ers,2012
+['Alex Boone'],NA,week_14,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: knee/elbow,week_14,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_14,San Francisco 49ers,2012
+['Tarell Brown'],Questionable: hamstring,week_14,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_14,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_14,San Francisco 49ers,2012
+['Chris Culliver'],Questionable: illness,week_14,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_14,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_14,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_14,San Francisco 49ers,2012
+['Demarcus Dobbs'],Questionable: disciplinary/legal,week_14,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_14,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_14,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_14,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: knee,week_14,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_14,San Francisco 49ers,2012
+['Frank Gore'],Probable: wrist,week_14,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_14,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_14,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_14,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_14,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_14,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_14,San Francisco 49ers,2012
+['LaMichael James'],NA,week_14,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_14,San Francisco 49ers,2012
+['Andy Lee'],NA,week_14,San Francisco 49ers,2012
+['Mario Manningham'],Questionable: shoulder,week_14,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_14,San Francisco 49ers,2012
+['Bruce Miller'],NA,week_14,San Francisco 49ers,2012
+['Randy Moss'],NA,week_14,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_14,San Francisco 49ers,2012
+['Carlos Rogers'],Probable: knee,week_14,San Francisco 49ers,2012
+['Aldon Smith'],Probable: shoulder,week_14,San Francisco 49ers,2012
+['Alex Smith'],NA,week_14,San Francisco 49ers,2012
+['Justin Smith'],NA,week_14,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_14,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_14,San Francisco 49ers,2012
+['Joe Staley'],NA,week_14,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_14,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_14,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_14,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_14,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_14,San Francisco 49ers,2012
+['David Akers'],Probable: pelvis,week_15,San Francisco 49ers,2012
+['Alex Boone'],NA,week_15,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder,week_15,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_15,San Francisco 49ers,2012
+['Tarell Brown'],Probable: shoulder,week_15,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_15,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_15,San Francisco 49ers,2012
+['Chris Culliver'],Probable: knee,week_15,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_15,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_15,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_15,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_15,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_15,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_15,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_15,San Francisco 49ers,2012
+['Tavares Gooden'],Questionable: ribs,week_15,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_15,San Francisco 49ers,2012
+['Frank Gore'],Probable: wrist,week_15,San Francisco 49ers,2012
+['Clark Haggans'],NA,week_15,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_15,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_15,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_15,San Francisco 49ers,2012
+['Mike Iupati'],NA,week_15,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_15,San Francisco 49ers,2012
+['LaMichael James'],NA,week_15,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_15,San Francisco 49ers,2012
+['Andy Lee'],NA,week_15,San Francisco 49ers,2012
+['Mario Manningham'],Questionable: shoulder,week_15,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_15,San Francisco 49ers,2012
+['Bruce Miller'],Questionable: shoulder,week_15,San Francisco 49ers,2012
+['Randy Moss'],NA,week_15,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_15,San Francisco 49ers,2012
+['Carlos Rogers'],Probable: knee,week_15,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: shoulder,week_15,San Francisco 49ers,2012
+['Alex Smith'],NA,week_15,San Francisco 49ers,2012
+['Justin Smith'],NA,week_15,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_15,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_15,San Francisco 49ers,2012
+['Joe Staley'],NA,week_15,San Francisco 49ers,2012
+['Will Tukuafu'],Probable: wrist,week_15,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_15,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_15,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_15,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_15,San Francisco 49ers,2012
+['David Akers'],Probable: pelvis,week_16,San Francisco 49ers,2012
+['Alex Boone'],Probable: knee,week_16,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder,week_16,San Francisco 49ers,2012
+['Ahmad Brooks'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Tarell Brown'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_16,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_16,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_16,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_16,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_16,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_16,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_16,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_16,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_16,San Francisco 49ers,2012
+['Dashon Goldson'],Probable: foot,week_16,San Francisco 49ers,2012
+['Tavares Gooden'],Questionable: ribs,week_16,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_16,San Francisco 49ers,2012
+['Frank Gore'],Probable: wrist,week_16,San Francisco 49ers,2012
+['Clark Haggans'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_16,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_16,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_16,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_16,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_16,San Francisco 49ers,2012
+['LaMichael James'],NA,week_16,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_16,San Francisco 49ers,2012
+['Andy Lee'],NA,week_16,San Francisco 49ers,2012
+['Mario Manningham'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_16,San Francisco 49ers,2012
+['Bruce Miller'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Randy Moss'],NA,week_16,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_16,San Francisco 49ers,2012
+['Carlos Rogers'],Probable: knee,week_16,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: shoulder,week_16,San Francisco 49ers,2012
+['Alex Smith'],NA,week_16,San Francisco 49ers,2012
+['Justin Smith'],Questionable: elbow,week_16,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_16,San Francisco 49ers,2012
+['C.J. Spillman'],Probable: illness,week_16,San Francisco 49ers,2012
+['Joe Staley'],NA,week_16,San Francisco 49ers,2012
+['Will Tukuafu'],Questionable: concussion,week_16,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_16,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_16,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_16,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_16,San Francisco 49ers,2012
+['David Akers'],NA,week_17,San Francisco 49ers,2012
+['Alex Boone'],NA,week_17,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder/wrist,week_17,San Francisco 49ers,2012
+['Ahmad Brooks'],Probable: shoulder,week_17,San Francisco 49ers,2012
+['Tarell Brown'],Questionable: knee,week_17,San Francisco 49ers,2012
+['Garrett Celek'],NA,week_17,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_17,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_17,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_17,San Francisco 49ers,2012
+['Vernon Davis'],Questionable: concussion,week_17,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_17,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_17,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_17,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_17,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_17,San Francisco 49ers,2012
+['Tavares Gooden'],Questionable: illness/rib,week_17,San Francisco 49ers,2012
+['Jonathan Goodwin'],Probable: illness,week_17,San Francisco 49ers,2012
+['Frank Gore'],Probable: knee,week_17,San Francisco 49ers,2012
+['Clark Haggans'],Questionable: shoulder,week_17,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_17,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_17,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_17,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_17,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_17,San Francisco 49ers,2012
+['LaMichael James'],NA,week_17,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_17,San Francisco 49ers,2012
+['Andy Lee'],Probable: illness,week_17,San Francisco 49ers,2012
+['Mario Manningham'],Out: knee,week_17,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_17,San Francisco 49ers,2012
+['Bruce Miller'],Questionable: shoulder,week_17,San Francisco 49ers,2012
+['Randy Moss'],NA,week_17,San Francisco 49ers,2012
+['Trent Robinson'],Probable: finger,week_17,San Francisco 49ers,2012
+['Carlos Rogers'],Probable: knee/toe,week_17,San Francisco 49ers,2012
+['Aldon Smith'],Probable: shoulder,week_17,San Francisco 49ers,2012
+['Alex Smith'],NA,week_17,San Francisco 49ers,2012
+['Justin Smith'],Doubtful: elbow,week_17,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_17,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_17,San Francisco 49ers,2012
+['Joe Staley'],NA,week_17,San Francisco 49ers,2012
+['Will Tukuafu'],Questionable: neck,week_17,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_17,San Francisco 49ers,2012
+['Donte Whitner'],Probable: knee,week_17,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_17,San Francisco 49ers,2012
+['Patrick Willis'],NA,week_17,San Francisco 49ers,2012
+['David Akers'],NA,week_19,San Francisco 49ers,2012
+['Alex Boone'],NA,week_19,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder,week_19,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_19,San Francisco 49ers,2012
+['Tarell Brown'],Questionable: shoulder,week_19,San Francisco 49ers,2012
+['Garrett Celek'],Probable: foot,week_19,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_19,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_19,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_19,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_19,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_19,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_19,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_19,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_19,San Francisco 49ers,2012
+['Dashon Goldson'],Questionable: shoulder,week_19,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: ribs,week_19,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_19,San Francisco 49ers,2012
+['Frank Gore'],NA,week_19,San Francisco 49ers,2012
+['Clark Haggans'],Questionable: shoulder,week_19,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_19,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_19,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_19,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_19,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_19,San Francisco 49ers,2012
+['LaMichael James'],NA,week_19,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_19,San Francisco 49ers,2012
+['Andy Lee'],NA,week_19,San Francisco 49ers,2012
+['Mario Manningham'],Injured Reserve: knee,week_19,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_19,San Francisco 49ers,2012
+['Bruce Miller'],Questionable: shoulder,week_19,San Francisco 49ers,2012
+['Randy Moss'],NA,week_19,San Francisco 49ers,2012
+['Trent Robinson'],Questionable: finger,week_19,San Francisco 49ers,2012
+['Carlos Rogers'],Probable: knee,week_19,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: shoulder,week_19,San Francisco 49ers,2012
+['Alex Smith'],NA,week_19,San Francisco 49ers,2012
+['Justin Smith'],Questionable: elbow,week_19,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_19,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_19,San Francisco 49ers,2012
+['Joe Staley'],NA,week_19,San Francisco 49ers,2012
+['Will Tukuafu'],Questionable: neck,week_19,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_19,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_19,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_19,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_19,San Francisco 49ers,2012
+['David Akers'],NA,week_20,San Francisco 49ers,2012
+['Alex Boone'],Probable: knee,week_20,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Ahmad Brooks'],NA,week_20,San Francisco 49ers,2012
+['Tarell Brown'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Garrett Celek'],Probable: foot,week_20,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_20,San Francisco 49ers,2012
+['Chris Culliver'],Probable: knee,week_20,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_20,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_20,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_20,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_20,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_20,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_20,San Francisco 49ers,2012
+['Dashon Goldson'],Probable: shin,week_20,San Francisco 49ers,2012
+['Tavares Gooden'],Probable: knee,week_20,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_20,San Francisco 49ers,2012
+['Frank Gore'],Probable: knee,week_20,San Francisco 49ers,2012
+['Clark Haggans'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_20,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_20,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_20,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_20,San Francisco 49ers,2012
+['LaMichael James'],NA,week_20,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_20,San Francisco 49ers,2012
+['Andy Lee'],NA,week_20,San Francisco 49ers,2012
+['Mario Manningham'],Injured Reserve: knee,week_20,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_20,San Francisco 49ers,2012
+['Bruce Miller'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Randy Moss'],NA,week_20,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_20,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_20,San Francisco 49ers,2012
+['Aldon Smith'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['Alex Smith'],NA,week_20,San Francisco 49ers,2012
+['Justin Smith'],Probable: triceps,week_20,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_20,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_20,San Francisco 49ers,2012
+['Joe Staley'],NA,week_20,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_20,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_20,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_20,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_20,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_20,San Francisco 49ers,2012
+['David Akers'],NA,week_21,San Francisco 49ers,2012
+['Alex Boone'],NA,week_21,San Francisco 49ers,2012
+['NaVorro Bowman'],Probable: shoulder,week_21,San Francisco 49ers,2012
+['Ahmad Brooks'],Questionable: shoulder,week_21,San Francisco 49ers,2012
+['Tarell Brown'],Probable: shoulder,week_21,San Francisco 49ers,2012
+['Garrett Celek'],Probable: foot,week_21,San Francisco 49ers,2012
+['Michael Crabtree'],NA,week_21,San Francisco 49ers,2012
+['Chris Culliver'],NA,week_21,San Francisco 49ers,2012
+['Anthony Davis'],NA,week_21,San Francisco 49ers,2012
+['Vernon Davis'],NA,week_21,San Francisco 49ers,2012
+['Anthony Dixon'],NA,week_21,San Francisco 49ers,2012
+['Demarcus Dobbs'],Injured Reserve: knee,week_21,San Francisco 49ers,2012
+['Darius Fleming'],Physically Unable to Perform: knee,week_21,San Francisco 49ers,2012
+['Ted Ginn'],NA,week_21,San Francisco 49ers,2012
+['Dashon Goldson'],NA,week_21,San Francisco 49ers,2012
+['Tavares Gooden'],NA,week_21,San Francisco 49ers,2012
+['Jonathan Goodwin'],NA,week_21,San Francisco 49ers,2012
+['Frank Gore'],Probable: ankle/shoulder,week_21,San Francisco 49ers,2012
+['Clark Haggans'],Probable: shoulder,week_21,San Francisco 49ers,2012
+['Jewel Hampton'],NA,week_21,San Francisco 49ers,2012
+['Parys Haralson'],Injured Reserve: undisclosed,week_21,San Francisco 49ers,2012
+['Kendall Hunter'],Injured Reserve: Achilles,week_21,San Francisco 49ers,2012
+['Mike Iupati'],Probable: shoulder,week_21,San Francisco 49ers,2012
+['Brandon Jacobs'],NA,week_21,San Francisco 49ers,2012
+['LaMichael James'],Probable: finger,week_21,San Francisco 49ers,2012
+['Daniel Kilgore'],NA,week_21,San Francisco 49ers,2012
+['Andy Lee'],NA,week_21,San Francisco 49ers,2012
+['Mario Manningham'],Injured Reserve: knee,week_21,San Francisco 49ers,2012
+['Darcel McBath'],NA,week_21,San Francisco 49ers,2012
+['Bruce Miller'],Probable: shoulder,week_21,San Francisco 49ers,2012
+['Randy Moss'],NA,week_21,San Francisco 49ers,2012
+['Trent Robinson'],NA,week_21,San Francisco 49ers,2012
+['Carlos Rogers'],NA,week_21,San Francisco 49ers,2012
+['Aldon Smith'],Questionable: shoulder,week_21,San Francisco 49ers,2012
+['Alex Smith'],NA,week_21,San Francisco 49ers,2012
+['Justin Smith'],Probable: elbow/triceps,week_21,San Francisco 49ers,2012
+['Isaac Sopoaga'],NA,week_21,San Francisco 49ers,2012
+['C.J. Spillman'],NA,week_21,San Francisco 49ers,2012
+['Joe Staley'],NA,week_21,San Francisco 49ers,2012
+['Will Tukuafu'],NA,week_21,San Francisco 49ers,2012
+['Delanie Walker'],NA,week_21,San Francisco 49ers,2012
+['Donte Whitner'],NA,week_21,San Francisco 49ers,2012
+['Kyle Williams'],Injured Reserve: knee,week_21,San Francisco 49ers,2012
+['Patrick Willis'],Probable: shoulder,week_21,San Francisco 49ers,2012

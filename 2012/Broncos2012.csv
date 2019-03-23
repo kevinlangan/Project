@@ -1,0 +1,800 @@
+﻿name,injury,week,team,year
+['Mike Adams'],NA,week_1,Denver Broncos,2012
+['Robert Ayers'],NA,week_1,Denver Broncos,2012
+['Lance Ball'],NA,week_1,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_1,Denver Broncos,2012
+['Philip Blake'],NA,week_1,Denver Broncos,2012
+['Omar Bolden'],NA,week_1,Denver Broncos,2012
+['Keith Brooking'],NA,week_1,Denver Broncos,2012
+['Quinton Carter'],NA,week_1,Denver Broncos,2012
+['Tony Carter'],NA,week_1,Denver Broncos,2012
+['Ryan Clady'],NA,week_1,Denver Broncos,2012
+['Chris Clark'],NA,week_1,Denver Broncos,2012
+['Eric Decker'],NA,week_1,Denver Broncos,2012
+['Joel Dreessen'],NA,week_1,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_1,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_1,Denver Broncos,2012
+['Orlando Franklin'],NA,week_1,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_1,Denver Broncos,2012
+['Virgil Green'],NA,week_1,Denver Broncos,2012
+['Tyler Grisham'],Injured Reserve: knee,week_1,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_1,Denver Broncos,2012
+['Chris Harris'],NA,week_1,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_1,Denver Broncos,2012
+['Trindon Holliday'],NA,week_1,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_1,Denver Broncos,2012
+['Nate Irving'],NA,week_1,Denver Broncos,2012
+['Malik Jackson'],NA,week_1,Denver Broncos,2012
+['Dan Koppen'],NA,week_1,Denver Broncos,2012
+['Chris Kuper'],Out: forearm,week_1,Denver Broncos,2012
+['Jim Leonhard'],NA,week_1,Denver Broncos,2012
+['Peyton Manning'],NA,week_1,Denver Broncos,2012
+['Joe Mays'],NA,week_1,Denver Broncos,2012
+['Willis McGahee'],NA,week_1,Denver Broncos,2012
+['Von Miller'],NA,week_1,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_1,Denver Broncos,2012
+['Tracy Porter'],NA,week_1,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_1,Denver Broncos,2012
+['Brandon Stokley'],NA,week_1,Denver Broncos,2012
+['Jacob Tamme'],NA,week_1,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_1,Denver Broncos,2012
+['Danny Trevathan'],NA,week_1,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_1,Denver Broncos,2012
+['J.D. Walton'],NA,week_1,Denver Broncos,2012
+['Ty Warren'],Questionable: elbow,week_1,Denver Broncos,2012
+['D.J. Williams'],NA,week_1,Denver Broncos,2012
+['Matt Willis'],NA,week_1,Denver Broncos,2012
+['Derek Wolfe'],NA,week_1,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_1,Denver Broncos,2012
+['Mike Adams'],NA,week_2,Denver Broncos,2012
+['Robert Ayers'],NA,week_2,Denver Broncos,2012
+['Lance Ball'],NA,week_2,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_2,Denver Broncos,2012
+['Philip Blake'],Questionable: thumb,week_2,Denver Broncos,2012
+['Omar Bolden'],NA,week_2,Denver Broncos,2012
+['Keith Brooking'],NA,week_2,Denver Broncos,2012
+['Quinton Carter'],NA,week_2,Denver Broncos,2012
+['Tony Carter'],NA,week_2,Denver Broncos,2012
+['Ryan Clady'],NA,week_2,Denver Broncos,2012
+['Chris Clark'],NA,week_2,Denver Broncos,2012
+['Eric Decker'],NA,week_2,Denver Broncos,2012
+['Joel Dreessen'],NA,week_2,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_2,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_2,Denver Broncos,2012
+['Orlando Franklin'],NA,week_2,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_2,Denver Broncos,2012
+['Virgil Green'],NA,week_2,Denver Broncos,2012
+['Tyler Grisham'],NA,week_2,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_2,Denver Broncos,2012
+['Chris Harris'],Questionable: ankle,week_2,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_2,Denver Broncos,2012
+['Trindon Holliday'],NA,week_2,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_2,Denver Broncos,2012
+['Nate Irving'],NA,week_2,Denver Broncos,2012
+['Malik Jackson'],NA,week_2,Denver Broncos,2012
+['Dan Koppen'],NA,week_2,Denver Broncos,2012
+['Chris Kuper'],Out: forearm,week_2,Denver Broncos,2012
+['Jim Leonhard'],NA,week_2,Denver Broncos,2012
+['Peyton Manning'],NA,week_2,Denver Broncos,2012
+['Joe Mays'],NA,week_2,Denver Broncos,2012
+['Willis McGahee'],NA,week_2,Denver Broncos,2012
+['Von Miller'],NA,week_2,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_2,Denver Broncos,2012
+['Tracy Porter'],NA,week_2,Denver Broncos,2012
+['Manuel Ramirez'],Probable: elbow,week_2,Denver Broncos,2012
+['Brandon Stokley'],NA,week_2,Denver Broncos,2012
+['Jacob Tamme'],NA,week_2,Denver Broncos,2012
+['Demaryius Thomas'],Probable: shoulder,week_2,Denver Broncos,2012
+['Danny Trevathan'],NA,week_2,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_2,Denver Broncos,2012
+['J.D. Walton'],NA,week_2,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_2,Denver Broncos,2012
+['D.J. Williams'],NA,week_2,Denver Broncos,2012
+['Matt Willis'],NA,week_2,Denver Broncos,2012
+['Derek Wolfe'],NA,week_2,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_2,Denver Broncos,2012
+['Mike Adams'],NA,week_3,Denver Broncos,2012
+['Robert Ayers'],NA,week_3,Denver Broncos,2012
+['Lance Ball'],NA,week_3,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_3,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_3,Denver Broncos,2012
+['Omar Bolden'],NA,week_3,Denver Broncos,2012
+['Keith Brooking'],NA,week_3,Denver Broncos,2012
+['Quinton Carter'],Questionable: knee,week_3,Denver Broncos,2012
+['Tony Carter'],NA,week_3,Denver Broncos,2012
+['Ryan Clady'],NA,week_3,Denver Broncos,2012
+['Chris Clark'],NA,week_3,Denver Broncos,2012
+['Eric Decker'],NA,week_3,Denver Broncos,2012
+['Joel Dreessen'],Questionable: ribs,week_3,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_3,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_3,Denver Broncos,2012
+['Orlando Franklin'],NA,week_3,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_3,Denver Broncos,2012
+['Virgil Green'],NA,week_3,Denver Broncos,2012
+['Tyler Grisham'],NA,week_3,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_3,Denver Broncos,2012
+['Chris Harris'],Questionable: ankle,week_3,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_3,Denver Broncos,2012
+['Trindon Holliday'],NA,week_3,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_3,Denver Broncos,2012
+['Nate Irving'],NA,week_3,Denver Broncos,2012
+['Malik Jackson'],NA,week_3,Denver Broncos,2012
+['Dan Koppen'],NA,week_3,Denver Broncos,2012
+['Chris Kuper'],Out: forearm,week_3,Denver Broncos,2012
+['Jim Leonhard'],NA,week_3,Denver Broncos,2012
+['Peyton Manning'],NA,week_3,Denver Broncos,2012
+['Joe Mays'],NA,week_3,Denver Broncos,2012
+['Willis McGahee'],NA,week_3,Denver Broncos,2012
+['Von Miller'],Probable: hip,week_3,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_3,Denver Broncos,2012
+['Tracy Porter'],Probable: neck,week_3,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_3,Denver Broncos,2012
+['Brandon Stokley'],Probable: shoulder,week_3,Denver Broncos,2012
+['Jacob Tamme'],Questionable: leg,week_3,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_3,Denver Broncos,2012
+['Danny Trevathan'],NA,week_3,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_3,Denver Broncos,2012
+['J.D. Walton'],NA,week_3,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_3,Denver Broncos,2012
+['D.J. Williams'],NA,week_3,Denver Broncos,2012
+['Matt Willis'],NA,week_3,Denver Broncos,2012
+['Derek Wolfe'],NA,week_3,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_3,Denver Broncos,2012
+['Mike Adams'],NA,week_4,Denver Broncos,2012
+['Robert Ayers'],NA,week_4,Denver Broncos,2012
+['Lance Ball'],NA,week_4,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_4,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_4,Denver Broncos,2012
+['Omar Bolden'],NA,week_4,Denver Broncos,2012
+['Keith Brooking'],NA,week_4,Denver Broncos,2012
+['Quinton Carter'],Questionable: knee,week_4,Denver Broncos,2012
+['Tony Carter'],NA,week_4,Denver Broncos,2012
+['Ryan Clady'],NA,week_4,Denver Broncos,2012
+['Chris Clark'],NA,week_4,Denver Broncos,2012
+['Eric Decker'],NA,week_4,Denver Broncos,2012
+['Joel Dreessen'],NA,week_4,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_4,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_4,Denver Broncos,2012
+['Orlando Franklin'],NA,week_4,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_4,Denver Broncos,2012
+['Virgil Green'],Probable: three-game suspension served,week_4,Denver Broncos,2012
+['Tyler Grisham'],NA,week_4,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_4,Denver Broncos,2012
+['Chris Harris'],Probable: ankle,week_4,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_4,Denver Broncos,2012
+['Trindon Holliday'],NA,week_4,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_4,Denver Broncos,2012
+['Nate Irving'],Doubtful: concussion,week_4,Denver Broncos,2012
+['Malik Jackson'],NA,week_4,Denver Broncos,2012
+['Dan Koppen'],NA,week_4,Denver Broncos,2012
+['Chris Kuper'],Doubtful: forearm,week_4,Denver Broncos,2012
+['Jim Leonhard'],NA,week_4,Denver Broncos,2012
+['Peyton Manning'],NA,week_4,Denver Broncos,2012
+['Joe Mays'],NA,week_4,Denver Broncos,2012
+['Willis McGahee'],Questionable: rib,week_4,Denver Broncos,2012
+['Von Miller'],NA,week_4,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_4,Denver Broncos,2012
+['Tracy Porter'],Probable: knee,week_4,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_4,Denver Broncos,2012
+['Brandon Stokley'],NA,week_4,Denver Broncos,2012
+['Jacob Tamme'],Probable: groin,week_4,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_4,Denver Broncos,2012
+['Danny Trevathan'],NA,week_4,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_4,Denver Broncos,2012
+['J.D. Walton'],NA,week_4,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_4,Denver Broncos,2012
+['D.J. Williams'],NA,week_4,Denver Broncos,2012
+['Matt Willis'],Questionable: hamstring,week_4,Denver Broncos,2012
+['Derek Wolfe'],NA,week_4,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_4,Denver Broncos,2012
+['Mike Adams'],NA,week_5,Denver Broncos,2012
+['Robert Ayers'],NA,week_5,Denver Broncos,2012
+['Lance Ball'],NA,week_5,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_5,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_5,Denver Broncos,2012
+['Omar Bolden'],NA,week_5,Denver Broncos,2012
+['Keith Brooking'],NA,week_5,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_5,Denver Broncos,2012
+['Tony Carter'],NA,week_5,Denver Broncos,2012
+['Ryan Clady'],NA,week_5,Denver Broncos,2012
+['Chris Clark'],NA,week_5,Denver Broncos,2012
+['Eric Decker'],NA,week_5,Denver Broncos,2012
+['Joel Dreessen'],NA,week_5,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_5,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_5,Denver Broncos,2012
+['Orlando Franklin'],NA,week_5,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_5,Denver Broncos,2012
+['Virgil Green'],NA,week_5,Denver Broncos,2012
+['Tyler Grisham'],NA,week_5,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_5,Denver Broncos,2012
+['Chris Harris'],Probable: ankle,week_5,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_5,Denver Broncos,2012
+['Trindon Holliday'],NA,week_5,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_5,Denver Broncos,2012
+['Nate Irving'],Questionable: concussion,week_5,Denver Broncos,2012
+['Malik Jackson'],NA,week_5,Denver Broncos,2012
+['Dan Koppen'],NA,week_5,Denver Broncos,2012
+['Chris Kuper'],Questionable: forearm,week_5,Denver Broncos,2012
+['Jim Leonhard'],NA,week_5,Denver Broncos,2012
+['Peyton Manning'],NA,week_5,Denver Broncos,2012
+['Joe Mays'],NA,week_5,Denver Broncos,2012
+['Willis McGahee'],NA,week_5,Denver Broncos,2012
+['Von Miller'],NA,week_5,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_5,Denver Broncos,2012
+['Tracy Porter'],Probable: shoulder,week_5,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_5,Denver Broncos,2012
+['Brandon Stokley'],NA,week_5,Denver Broncos,2012
+['Jacob Tamme'],NA,week_5,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_5,Denver Broncos,2012
+['Danny Trevathan'],NA,week_5,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_5,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_5,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_5,Denver Broncos,2012
+['D.J. Williams'],NA,week_5,Denver Broncos,2012
+['Matt Willis'],Probable: hamstring,week_5,Denver Broncos,2012
+['Derek Wolfe'],NA,week_5,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_5,Denver Broncos,2012
+['Mike Adams'],NA,week_6,Denver Broncos,2012
+['Robert Ayers'],NA,week_6,Denver Broncos,2012
+['Lance Ball'],Probable: ankle,week_6,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_6,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_6,Denver Broncos,2012
+['Omar Bolden'],NA,week_6,Denver Broncos,2012
+['Keith Brooking'],Probable: head,week_6,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_6,Denver Broncos,2012
+['Tony Carter'],Questionable: illness,week_6,Denver Broncos,2012
+['Ryan Clady'],Questionable: hamstring,week_6,Denver Broncos,2012
+['Chris Clark'],NA,week_6,Denver Broncos,2012
+['Eric Decker'],NA,week_6,Denver Broncos,2012
+['Joel Dreessen'],NA,week_6,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_6,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_6,Denver Broncos,2012
+['Orlando Franklin'],NA,week_6,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_6,Denver Broncos,2012
+['Virgil Green'],NA,week_6,Denver Broncos,2012
+['Tyler Grisham'],NA,week_6,Denver Broncos,2012
+['Chris Gronkowski'],Probable: thigh,week_6,Denver Broncos,2012
+['Chris Harris'],Probable: ankle,week_6,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_6,Denver Broncos,2012
+['Trindon Holliday'],NA,week_6,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_6,Denver Broncos,2012
+['Nate Irving'],NA,week_6,Denver Broncos,2012
+['Malik Jackson'],NA,week_6,Denver Broncos,2012
+['Dan Koppen'],NA,week_6,Denver Broncos,2012
+['Chris Kuper'],Probable: forearm,week_6,Denver Broncos,2012
+['Jim Leonhard'],NA,week_6,Denver Broncos,2012
+['Peyton Manning'],NA,week_6,Denver Broncos,2012
+['Joe Mays'],NA,week_6,Denver Broncos,2012
+['Willis McGahee'],NA,week_6,Denver Broncos,2012
+['Von Miller'],NA,week_6,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_6,Denver Broncos,2012
+['Tracy Porter'],NA,week_6,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_6,Denver Broncos,2012
+['Brandon Stokley'],NA,week_6,Denver Broncos,2012
+['Jacob Tamme'],NA,week_6,Denver Broncos,2012
+['Demaryius Thomas'],Probable: hip,week_6,Denver Broncos,2012
+['Danny Trevathan'],NA,week_6,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_6,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_6,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_6,Denver Broncos,2012
+['D.J. Williams'],NA,week_6,Denver Broncos,2012
+['Matt Willis'],NA,week_6,Denver Broncos,2012
+['Derek Wolfe'],NA,week_6,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_6,Denver Broncos,2012
+['Mike Adams'],Probable: knee,week_8,Denver Broncos,2012
+['Robert Ayers'],NA,week_8,Denver Broncos,2012
+['Lance Ball'],NA,week_8,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_8,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_8,Denver Broncos,2012
+['Omar Bolden'],NA,week_8,Denver Broncos,2012
+['Keith Brooking'],NA,week_8,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_8,Denver Broncos,2012
+['Tony Carter'],NA,week_8,Denver Broncos,2012
+['Ryan Clady'],NA,week_8,Denver Broncos,2012
+['Chris Clark'],NA,week_8,Denver Broncos,2012
+['Eric Decker'],NA,week_8,Denver Broncos,2012
+['Joel Dreessen'],NA,week_8,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_8,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_8,Denver Broncos,2012
+['Orlando Franklin'],NA,week_8,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_8,Denver Broncos,2012
+['Virgil Green'],NA,week_8,Denver Broncos,2012
+['Tyler Grisham'],NA,week_8,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_8,Denver Broncos,2012
+['Chris Harris'],Probable: ankle,week_8,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_8,Denver Broncos,2012
+['Trindon Holliday'],NA,week_8,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_8,Denver Broncos,2012
+['Nate Irving'],NA,week_8,Denver Broncos,2012
+['Malik Jackson'],NA,week_8,Denver Broncos,2012
+['Dan Koppen'],NA,week_8,Denver Broncos,2012
+['Chris Kuper'],Probable: forearm,week_8,Denver Broncos,2012
+['Jim Leonhard'],NA,week_8,Denver Broncos,2012
+['Peyton Manning'],NA,week_8,Denver Broncos,2012
+['Joe Mays'],NA,week_8,Denver Broncos,2012
+['Willis McGahee'],NA,week_8,Denver Broncos,2012
+['Von Miller'],NA,week_8,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_8,Denver Broncos,2012
+['Tracy Porter'],Probable: illness,week_8,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_8,Denver Broncos,2012
+['Brandon Stokley'],NA,week_8,Denver Broncos,2012
+['Jacob Tamme'],Probable: hip,week_8,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_8,Denver Broncos,2012
+['Danny Trevathan'],Probable: thumb,week_8,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_8,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_8,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_8,Denver Broncos,2012
+['D.J. Williams'],NA,week_8,Denver Broncos,2012
+['Matt Willis'],Probable: hamstring,week_8,Denver Broncos,2012
+['Derek Wolfe'],NA,week_8,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_8,Denver Broncos,2012
+['Mike Adams'],Probable: knee,week_9,Denver Broncos,2012
+['Robert Ayers'],NA,week_9,Denver Broncos,2012
+['Lance Ball'],NA,week_9,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_9,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_9,Denver Broncos,2012
+['Omar Bolden'],NA,week_9,Denver Broncos,2012
+['Keith Brooking'],NA,week_9,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_9,Denver Broncos,2012
+['Tony Carter'],NA,week_9,Denver Broncos,2012
+['Ryan Clady'],NA,week_9,Denver Broncos,2012
+['Chris Clark'],NA,week_9,Denver Broncos,2012
+['Eric Decker'],NA,week_9,Denver Broncos,2012
+['Joel Dreessen'],NA,week_9,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_9,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_9,Denver Broncos,2012
+['Orlando Franklin'],NA,week_9,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_9,Denver Broncos,2012
+['Virgil Green'],NA,week_9,Denver Broncos,2012
+['Tyler Grisham'],NA,week_9,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_9,Denver Broncos,2012
+['Chris Harris'],NA,week_9,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_9,Denver Broncos,2012
+['Trindon Holliday'],NA,week_9,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_9,Denver Broncos,2012
+['Nate Irving'],NA,week_9,Denver Broncos,2012
+['Malik Jackson'],NA,week_9,Denver Broncos,2012
+['Dan Koppen'],NA,week_9,Denver Broncos,2012
+['Chris Kuper'],Probable: forearm,week_9,Denver Broncos,2012
+['Jim Leonhard'],NA,week_9,Denver Broncos,2012
+['Peyton Manning'],Probable: thumb,week_9,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_9,Denver Broncos,2012
+['Willis McGahee'],NA,week_9,Denver Broncos,2012
+['Von Miller'],NA,week_9,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_9,Denver Broncos,2012
+['Tracy Porter'],Questionable: illness,week_9,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_9,Denver Broncos,2012
+['Brandon Stokley'],NA,week_9,Denver Broncos,2012
+['Jacob Tamme'],Probable: hip,week_9,Denver Broncos,2012
+['Demaryius Thomas'],Probable: knee,week_9,Denver Broncos,2012
+['Danny Trevathan'],NA,week_9,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_9,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_9,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_9,Denver Broncos,2012
+['D.J. Williams'],NA,week_9,Denver Broncos,2012
+['Matt Willis'],NA,week_9,Denver Broncos,2012
+['Derek Wolfe'],NA,week_9,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_9,Denver Broncos,2012
+['Mike Adams'],NA,week_10,Denver Broncos,2012
+['Robert Ayers'],NA,week_10,Denver Broncos,2012
+['Lance Ball'],NA,week_10,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_10,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_10,Denver Broncos,2012
+['Omar Bolden'],NA,week_10,Denver Broncos,2012
+['Keith Brooking'],NA,week_10,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_10,Denver Broncos,2012
+['Tony Carter'],NA,week_10,Denver Broncos,2012
+['Ryan Clady'],NA,week_10,Denver Broncos,2012
+['Chris Clark'],NA,week_10,Denver Broncos,2012
+['Eric Decker'],Questionable: thigh,week_10,Denver Broncos,2012
+['Joel Dreessen'],NA,week_10,Denver Broncos,2012
+['Elvis Dumervil'],Questionable: shoulder,week_10,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_10,Denver Broncos,2012
+['Orlando Franklin'],NA,week_10,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_10,Denver Broncos,2012
+['Virgil Green'],Probable: hamstring,week_10,Denver Broncos,2012
+['Tyler Grisham'],NA,week_10,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_10,Denver Broncos,2012
+['Chris Harris'],NA,week_10,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_10,Denver Broncos,2012
+['Trindon Holliday'],NA,week_10,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_10,Denver Broncos,2012
+['Nate Irving'],NA,week_10,Denver Broncos,2012
+['Malik Jackson'],NA,week_10,Denver Broncos,2012
+['Dan Koppen'],NA,week_10,Denver Broncos,2012
+['Chris Kuper'],Out: ankle,week_10,Denver Broncos,2012
+['Jim Leonhard'],Probable: calf,week_10,Denver Broncos,2012
+['Peyton Manning'],NA,week_10,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_10,Denver Broncos,2012
+['Willis McGahee'],Probable: knee,week_10,Denver Broncos,2012
+['Von Miller'],Probable: ankle,week_10,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_10,Denver Broncos,2012
+['Tracy Porter'],Questionable: illness,week_10,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_10,Denver Broncos,2012
+['Brandon Stokley'],Probable: knee,week_10,Denver Broncos,2012
+['Jacob Tamme'],NA,week_10,Denver Broncos,2012
+['Demaryius Thomas'],Probable: knee,week_10,Denver Broncos,2012
+['Danny Trevathan'],NA,week_10,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_10,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_10,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_10,Denver Broncos,2012
+['D.J. Williams'],NA,week_10,Denver Broncos,2012
+['Matt Willis'],NA,week_10,Denver Broncos,2012
+['Derek Wolfe'],NA,week_10,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_10,Denver Broncos,2012
+['Mike Adams'],NA,week_11,Denver Broncos,2012
+['Robert Ayers'],Probable: groin,week_11,Denver Broncos,2012
+['Lance Ball'],NA,week_11,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_11,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_11,Denver Broncos,2012
+['Omar Bolden'],NA,week_11,Denver Broncos,2012
+['Keith Brooking'],NA,week_11,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_11,Denver Broncos,2012
+['Tony Carter'],NA,week_11,Denver Broncos,2012
+['Ryan Clady'],NA,week_11,Denver Broncos,2012
+['Chris Clark'],NA,week_11,Denver Broncos,2012
+['Eric Decker'],NA,week_11,Denver Broncos,2012
+['Joel Dreessen'],NA,week_11,Denver Broncos,2012
+['Elvis Dumervil'],Questionable: shoulder,week_11,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_11,Denver Broncos,2012
+['Orlando Franklin'],NA,week_11,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_11,Denver Broncos,2012
+['Virgil Green'],NA,week_11,Denver Broncos,2012
+['Tyler Grisham'],NA,week_11,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_11,Denver Broncos,2012
+['Chris Harris'],NA,week_11,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_11,Denver Broncos,2012
+['Trindon Holliday'],NA,week_11,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_11,Denver Broncos,2012
+['Nate Irving'],NA,week_11,Denver Broncos,2012
+['Malik Jackson'],NA,week_11,Denver Broncos,2012
+['Dan Koppen'],NA,week_11,Denver Broncos,2012
+['Chris Kuper'],Out: ankle,week_11,Denver Broncos,2012
+['Jim Leonhard'],Probable: calf,week_11,Denver Broncos,2012
+['Peyton Manning'],NA,week_11,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_11,Denver Broncos,2012
+['Willis McGahee'],NA,week_11,Denver Broncos,2012
+['Von Miller'],NA,week_11,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_11,Denver Broncos,2012
+['Tracy Porter'],Questionable: illness,week_11,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_11,Denver Broncos,2012
+['Brandon Stokley'],NA,week_11,Denver Broncos,2012
+['Jacob Tamme'],NA,week_11,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_11,Denver Broncos,2012
+['Danny Trevathan'],NA,week_11,Denver Broncos,2012
+['Kevin Vickerson'],Probable: thigh,week_11,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_11,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_11,Denver Broncos,2012
+['D.J. Williams'],Probable: nine-game suspension served,week_11,Denver Broncos,2012
+['Matt Willis'],NA,week_11,Denver Broncos,2012
+['Derek Wolfe'],NA,week_11,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_11,Denver Broncos,2012
+['Mike Adams'],NA,week_12,Denver Broncos,2012
+['Robert Ayers'],Probable: groin,week_12,Denver Broncos,2012
+['Lance Ball'],NA,week_12,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_12,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_12,Denver Broncos,2012
+['Omar Bolden'],Doubtful: concussion,week_12,Denver Broncos,2012
+['Keith Brooking'],NA,week_12,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_12,Denver Broncos,2012
+['Tony Carter'],NA,week_12,Denver Broncos,2012
+['Ryan Clady'],NA,week_12,Denver Broncos,2012
+['Chris Clark'],NA,week_12,Denver Broncos,2012
+['Eric Decker'],NA,week_12,Denver Broncos,2012
+['Joel Dreessen'],NA,week_12,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_12,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_12,Denver Broncos,2012
+['Orlando Franklin'],NA,week_12,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_12,Denver Broncos,2012
+['Virgil Green'],Questionable: hamstring,week_12,Denver Broncos,2012
+['Tyler Grisham'],NA,week_12,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_12,Denver Broncos,2012
+['Chris Harris'],NA,week_12,Denver Broncos,2012
+['Ronnie Hillman'],Probable: hamstring,week_12,Denver Broncos,2012
+['Trindon Holliday'],NA,week_12,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_12,Denver Broncos,2012
+['Nate Irving'],NA,week_12,Denver Broncos,2012
+['Malik Jackson'],NA,week_12,Denver Broncos,2012
+['Dan Koppen'],NA,week_12,Denver Broncos,2012
+['Chris Kuper'],Probable: ankle,week_12,Denver Broncos,2012
+['Jim Leonhard'],NA,week_12,Denver Broncos,2012
+['Peyton Manning'],NA,week_12,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_12,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_12,Denver Broncos,2012
+['Von Miller'],NA,week_12,Denver Broncos,2012
+['Knowshon Moreno'],Probable: groin,week_12,Denver Broncos,2012
+['Tracy Porter'],Probable: illness,week_12,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_12,Denver Broncos,2012
+['Brandon Stokley'],NA,week_12,Denver Broncos,2012
+['Jacob Tamme'],NA,week_12,Denver Broncos,2012
+['Demaryius Thomas'],Questionable: knee,week_12,Denver Broncos,2012
+['Danny Trevathan'],NA,week_12,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_12,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_12,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_12,Denver Broncos,2012
+['D.J. Williams'],NA,week_12,Denver Broncos,2012
+['Matt Willis'],NA,week_12,Denver Broncos,2012
+['Derek Wolfe'],Questionable: quadricep,week_12,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_12,Denver Broncos,2012
+['Mike Adams'],NA,week_13,Denver Broncos,2012
+['Robert Ayers'],Questionable: personal,week_13,Denver Broncos,2012
+['Lance Ball'],NA,week_13,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_13,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_13,Denver Broncos,2012
+['Omar Bolden'],NA,week_13,Denver Broncos,2012
+['Keith Brooking'],NA,week_13,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_13,Denver Broncos,2012
+['Tony Carter'],NA,week_13,Denver Broncos,2012
+['Ryan Clady'],NA,week_13,Denver Broncos,2012
+['Chris Clark'],Questionable: illness,week_13,Denver Broncos,2012
+['Eric Decker'],NA,week_13,Denver Broncos,2012
+['Joel Dreessen'],NA,week_13,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_13,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_13,Denver Broncos,2012
+['Orlando Franklin'],NA,week_13,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_13,Denver Broncos,2012
+['Virgil Green'],Probable: hamstring,week_13,Denver Broncos,2012
+['Tyler Grisham'],NA,week_13,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_13,Denver Broncos,2012
+['Chris Harris'],NA,week_13,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_13,Denver Broncos,2012
+['Trindon Holliday'],NA,week_13,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_13,Denver Broncos,2012
+['Nate Irving'],NA,week_13,Denver Broncos,2012
+['Malik Jackson'],Probable: finger,week_13,Denver Broncos,2012
+['Dan Koppen'],NA,week_13,Denver Broncos,2012
+['Chris Kuper'],Probable: ankle,week_13,Denver Broncos,2012
+['Jim Leonhard'],NA,week_13,Denver Broncos,2012
+['Peyton Manning'],NA,week_13,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_13,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_13,Denver Broncos,2012
+['Von Miller'],NA,week_13,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_13,Denver Broncos,2012
+['Tracy Porter'],Probable: illness,week_13,Denver Broncos,2012
+['Manuel Ramirez'],Questionable: back,week_13,Denver Broncos,2012
+['Brandon Stokley'],Questionable: wrist/hip,week_13,Denver Broncos,2012
+['Jacob Tamme'],NA,week_13,Denver Broncos,2012
+['Demaryius Thomas'],Probable: knee,week_13,Denver Broncos,2012
+['Danny Trevathan'],NA,week_13,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_13,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_13,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_13,Denver Broncos,2012
+['D.J. Williams'],NA,week_13,Denver Broncos,2012
+['Matt Willis'],NA,week_13,Denver Broncos,2012
+['Derek Wolfe'],NA,week_13,Denver Broncos,2012
+['Wesley Woodyard'],Questionable: ankle,week_13,Denver Broncos,2012
+['Mike Adams'],NA,week_14,Denver Broncos,2012
+['Robert Ayers'],Questionable: personal,week_14,Denver Broncos,2012
+['Lance Ball'],NA,week_14,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_14,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_14,Denver Broncos,2012
+['Omar Bolden'],NA,week_14,Denver Broncos,2012
+['Keith Brooking'],NA,week_14,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_14,Denver Broncos,2012
+['Tony Carter'],NA,week_14,Denver Broncos,2012
+['Ryan Clady'],NA,week_14,Denver Broncos,2012
+['Chris Clark'],NA,week_14,Denver Broncos,2012
+['Eric Decker'],NA,week_14,Denver Broncos,2012
+['Joel Dreessen'],NA,week_14,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_14,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_14,Denver Broncos,2012
+['Orlando Franklin'],NA,week_14,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_14,Denver Broncos,2012
+['Virgil Green'],Probable: hamstring,week_14,Denver Broncos,2012
+['Tyler Grisham'],NA,week_14,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_14,Denver Broncos,2012
+['Chris Harris'],NA,week_14,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_14,Denver Broncos,2012
+['Trindon Holliday'],NA,week_14,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_14,Denver Broncos,2012
+['Nate Irving'],NA,week_14,Denver Broncos,2012
+['Malik Jackson'],NA,week_14,Denver Broncos,2012
+['Dan Koppen'],NA,week_14,Denver Broncos,2012
+['Chris Kuper'],Probable: ankle,week_14,Denver Broncos,2012
+['Jim Leonhard'],NA,week_14,Denver Broncos,2012
+['Peyton Manning'],NA,week_14,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_14,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_14,Denver Broncos,2012
+['Von Miller'],NA,week_14,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_14,Denver Broncos,2012
+['Tracy Porter'],Questionable: illness,week_14,Denver Broncos,2012
+['Manuel Ramirez'],Probable: back,week_14,Denver Broncos,2012
+['Brandon Stokley'],Questionable: wrist/hip,week_14,Denver Broncos,2012
+['Jacob Tamme'],NA,week_14,Denver Broncos,2012
+['Demaryius Thomas'],Questionable: shoulder,week_14,Denver Broncos,2012
+['Danny Trevathan'],NA,week_14,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_14,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_14,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_14,Denver Broncos,2012
+['D.J. Williams'],NA,week_14,Denver Broncos,2012
+['Matt Willis'],Questionable: knee,week_14,Denver Broncos,2012
+['Derek Wolfe'],NA,week_14,Denver Broncos,2012
+['Wesley Woodyard'],Questionable: ankle,week_14,Denver Broncos,2012
+['Mike Adams'],NA,week_15,Denver Broncos,2012
+['Robert Ayers'],NA,week_15,Denver Broncos,2012
+['Lance Ball'],NA,week_15,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_15,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_15,Denver Broncos,2012
+['Omar Bolden'],NA,week_15,Denver Broncos,2012
+['Keith Brooking'],NA,week_15,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_15,Denver Broncos,2012
+['Tony Carter'],NA,week_15,Denver Broncos,2012
+['Ryan Clady'],NA,week_15,Denver Broncos,2012
+['Chris Clark'],NA,week_15,Denver Broncos,2012
+['Eric Decker'],NA,week_15,Denver Broncos,2012
+['Joel Dreessen'],NA,week_15,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_15,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_15,Denver Broncos,2012
+['Orlando Franklin'],NA,week_15,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_15,Denver Broncos,2012
+['Virgil Green'],NA,week_15,Denver Broncos,2012
+['Tyler Grisham'],NA,week_15,Denver Broncos,2012
+['Chris Gronkowski'],NA,week_15,Denver Broncos,2012
+['Chris Harris'],NA,week_15,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_15,Denver Broncos,2012
+['Trindon Holliday'],Probable: knee,week_15,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_15,Denver Broncos,2012
+['Nate Irving'],NA,week_15,Denver Broncos,2012
+['Malik Jackson'],NA,week_15,Denver Broncos,2012
+['Dan Koppen'],NA,week_15,Denver Broncos,2012
+['Chris Kuper'],Questionable: ankle,week_15,Denver Broncos,2012
+['Jim Leonhard'],NA,week_15,Denver Broncos,2012
+['Peyton Manning'],NA,week_15,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_15,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_15,Denver Broncos,2012
+['Von Miller'],NA,week_15,Denver Broncos,2012
+['Knowshon Moreno'],NA,week_15,Denver Broncos,2012
+['Tracy Porter'],NA,week_15,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_15,Denver Broncos,2012
+['Brandon Stokley'],NA,week_15,Denver Broncos,2012
+['Jacob Tamme'],NA,week_15,Denver Broncos,2012
+['Demaryius Thomas'],Probable: shoulder,week_15,Denver Broncos,2012
+['Danny Trevathan'],NA,week_15,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_15,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_15,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_15,Denver Broncos,2012
+['D.J. Williams'],NA,week_15,Denver Broncos,2012
+['Matt Willis'],Probable: knee,week_15,Denver Broncos,2012
+['Derek Wolfe'],NA,week_15,Denver Broncos,2012
+['Wesley Woodyard'],Questionable: ankle,week_15,Denver Broncos,2012
+['Mike Adams'],Questionable: knee,week_16,Denver Broncos,2012
+['Robert Ayers'],NA,week_16,Denver Broncos,2012
+['Lance Ball'],NA,week_16,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_16,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_16,Denver Broncos,2012
+['Omar Bolden'],NA,week_16,Denver Broncos,2012
+['Keith Brooking'],NA,week_16,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_16,Denver Broncos,2012
+['Tony Carter'],NA,week_16,Denver Broncos,2012
+['Ryan Clady'],NA,week_16,Denver Broncos,2012
+['Chris Clark'],NA,week_16,Denver Broncos,2012
+['Eric Decker'],Probable: ankle,week_16,Denver Broncos,2012
+['Joel Dreessen'],NA,week_16,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_16,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_16,Denver Broncos,2012
+['Orlando Franklin'],NA,week_16,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_16,Denver Broncos,2012
+['Virgil Green'],NA,week_16,Denver Broncos,2012
+['Tyler Grisham'],NA,week_16,Denver Broncos,2012
+['Chris Gronkowski'],Questionable: hamstring,week_16,Denver Broncos,2012
+['Chris Harris'],NA,week_16,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_16,Denver Broncos,2012
+['Trindon Holliday'],Probable: knee,week_16,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_16,Denver Broncos,2012
+['Nate Irving'],NA,week_16,Denver Broncos,2012
+['Malik Jackson'],NA,week_16,Denver Broncos,2012
+['Dan Koppen'],Probable: knee,week_16,Denver Broncos,2012
+['Chris Kuper'],Questionable: ankle,week_16,Denver Broncos,2012
+['Jim Leonhard'],Probable: ankle,week_16,Denver Broncos,2012
+['Peyton Manning'],NA,week_16,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_16,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_16,Denver Broncos,2012
+['Von Miller'],NA,week_16,Denver Broncos,2012
+['Knowshon Moreno'],Probable: ribs,week_16,Denver Broncos,2012
+['Tracy Porter'],NA,week_16,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_16,Denver Broncos,2012
+['Brandon Stokley'],NA,week_16,Denver Broncos,2012
+['Jacob Tamme'],NA,week_16,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_16,Denver Broncos,2012
+['Danny Trevathan'],NA,week_16,Denver Broncos,2012
+['Kevin Vickerson'],Questionable: groin,week_16,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_16,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_16,Denver Broncos,2012
+['D.J. Williams'],NA,week_16,Denver Broncos,2012
+['Matt Willis'],Probable: knee,week_16,Denver Broncos,2012
+['Derek Wolfe'],NA,week_16,Denver Broncos,2012
+['Wesley Woodyard'],Probable: ankle,week_16,Denver Broncos,2012
+['Mike Adams'],Probable: knee,week_17,Denver Broncos,2012
+['Robert Ayers'],NA,week_17,Denver Broncos,2012
+['Lance Ball'],NA,week_17,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_17,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_17,Denver Broncos,2012
+['Omar Bolden'],NA,week_17,Denver Broncos,2012
+['Keith Brooking'],NA,week_17,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_17,Denver Broncos,2012
+['Tony Carter'],NA,week_17,Denver Broncos,2012
+['Ryan Clady'],Probable: shoulder,week_17,Denver Broncos,2012
+['Chris Clark'],NA,week_17,Denver Broncos,2012
+['Eric Decker'],NA,week_17,Denver Broncos,2012
+['Joel Dreessen'],NA,week_17,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_17,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_17,Denver Broncos,2012
+['Orlando Franklin'],NA,week_17,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_17,Denver Broncos,2012
+['Virgil Green'],NA,week_17,Denver Broncos,2012
+['Tyler Grisham'],NA,week_17,Denver Broncos,2012
+['Chris Gronkowski'],Probable: hamstring,week_17,Denver Broncos,2012
+['Chris Harris'],NA,week_17,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_17,Denver Broncos,2012
+['Trindon Holliday'],Questionable: ankle,week_17,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_17,Denver Broncos,2012
+['Nate Irving'],NA,week_17,Denver Broncos,2012
+['Malik Jackson'],NA,week_17,Denver Broncos,2012
+['Dan Koppen'],NA,week_17,Denver Broncos,2012
+['Chris Kuper'],Questionable: ankle,week_17,Denver Broncos,2012
+['Jim Leonhard'],Probable: thigh,week_17,Denver Broncos,2012
+['Peyton Manning'],NA,week_17,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_17,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_17,Denver Broncos,2012
+['Von Miller'],NA,week_17,Denver Broncos,2012
+['Knowshon Moreno'],Probable: ribs,week_17,Denver Broncos,2012
+['Tracy Porter'],Questionable: concussion,week_17,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_17,Denver Broncos,2012
+['Brandon Stokley'],Probable: quadricep,week_17,Denver Broncos,2012
+['Jacob Tamme'],NA,week_17,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_17,Denver Broncos,2012
+['Danny Trevathan'],Probable: groin,week_17,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_17,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_17,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_17,Denver Broncos,2012
+['D.J. Williams'],NA,week_17,Denver Broncos,2012
+['Matt Willis'],Probable: knee,week_17,Denver Broncos,2012
+['Derek Wolfe'],NA,week_17,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_17,Denver Broncos,2012
+['Mike Adams'],Probable: knee,week_19,Denver Broncos,2012
+['Robert Ayers'],NA,week_19,Denver Broncos,2012
+['Lance Ball'],NA,week_19,Denver Broncos,2012
+['Jeremy Beal'],Injured Reserve: knee,week_19,Denver Broncos,2012
+['Philip Blake'],Injured Reserve: thumb,week_19,Denver Broncos,2012
+['Omar Bolden'],Questionable: wrist,week_19,Denver Broncos,2012
+['Keith Brooking'],NA,week_19,Denver Broncos,2012
+['Quinton Carter'],Injured Reserve: knee,week_19,Denver Broncos,2012
+['Tony Carter'],NA,week_19,Denver Broncos,2012
+['Ryan Clady'],Questionable: undisclosed,week_19,Denver Broncos,2012
+['Chris Clark'],NA,week_19,Denver Broncos,2012
+['Eric Decker'],NA,week_19,Denver Broncos,2012
+['Joel Dreessen'],NA,week_19,Denver Broncos,2012
+['Elvis Dumervil'],NA,week_19,Denver Broncos,2012
+['Mario Fannin'],Injured Reserve: Achilles,week_19,Denver Broncos,2012
+['Orlando Franklin'],Probable: knee,week_19,Denver Broncos,2012
+"[""D'Andre Goodwin""]",Injured Reserve: ankle,week_19,Denver Broncos,2012
+['Virgil Green'],NA,week_19,Denver Broncos,2012
+['Tyler Grisham'],NA,week_19,Denver Broncos,2012
+['Chris Gronkowski'],Questionable: hamstring,week_19,Denver Broncos,2012
+['Chris Harris'],NA,week_19,Denver Broncos,2012
+['Ronnie Hillman'],NA,week_19,Denver Broncos,2012
+['Trindon Holliday'],Questionable: ankle,week_19,Denver Broncos,2012
+['Jason Hunter'],Injured Reserve: triceps,week_19,Denver Broncos,2012
+['Nate Irving'],NA,week_19,Denver Broncos,2012
+['Malik Jackson'],NA,week_19,Denver Broncos,2012
+['Dan Koppen'],NA,week_19,Denver Broncos,2012
+['Chris Kuper'],Questionable: ankle,week_19,Denver Broncos,2012
+['Jim Leonhard'],Probable: thigh,week_19,Denver Broncos,2012
+['Peyton Manning'],NA,week_19,Denver Broncos,2012
+['Joe Mays'],Injured Reserve: ankle,week_19,Denver Broncos,2012
+['Willis McGahee'],Injured Reserve: knee,week_19,Denver Broncos,2012
+['Von Miller'],NA,week_19,Denver Broncos,2012
+['Knowshon Moreno'],Questionable: knee,week_19,Denver Broncos,2012
+['Tracy Porter'],Questionable: concussion,week_19,Denver Broncos,2012
+['Manuel Ramirez'],NA,week_19,Denver Broncos,2012
+['Brandon Stokley'],NA,week_19,Denver Broncos,2012
+['Jacob Tamme'],NA,week_19,Denver Broncos,2012
+['Demaryius Thomas'],NA,week_19,Denver Broncos,2012
+['Danny Trevathan'],NA,week_19,Denver Broncos,2012
+['Kevin Vickerson'],NA,week_19,Denver Broncos,2012
+['J.D. Walton'],Injured Reserve: ankle,week_19,Denver Broncos,2012
+['Ty Warren'],Injured Reserve: triceps,week_19,Denver Broncos,2012
+['D.J. Williams'],NA,week_19,Denver Broncos,2012
+['Matt Willis'],Probable: knee,week_19,Denver Broncos,2012
+['Derek Wolfe'],NA,week_19,Denver Broncos,2012
+['Wesley Woodyard'],NA,week_19,Denver Broncos,2012

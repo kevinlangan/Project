@@ -1,0 +1,785 @@
+﻿name,injury,week,team,year
+['Isa Abdul-Quddus'],NA,week_1,New Orleans Saints,2012
+['Adrian Arrington'],Probable: knee,week_1,New Orleans Saints,2012
+['Joe Banyard'],Injured Reserve: undisclosed,week_1,New Orleans Saints,2012
+['Drew Brees'],NA,week_1,New Orleans Saints,2012
+['Charles Brown'],NA,week_1,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_1,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_1,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_1,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_1,New Orleans Saints,2012
+['Jed Collins'],NA,week_1,New Orleans Saints,2012
+['Marques Colston'],Questionable: foot,week_1,New Orleans Saints,2012
+['A.J. Davis'],NA,week_1,New Orleans Saints,2012
+['Jahri Evans'],NA,week_1,New Orleans Saints,2012
+['Junior Galette'],NA,week_1,New Orleans Saints,2012
+['Daniel Graham'],NA,week_1,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_1,New Orleans Saints,2012
+['Jabari Greer'],Questionable: sports hernia,week_1,New Orleans Saints,2012
+['Roman Harper'],NA,week_1,New Orleans Saints,2012
+['David Hawthorne'],Doubtful: knee,week_1,New Orleans Saints,2012
+['Devery Henderson'],NA,week_1,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_1,New Orleans Saints,2012
+['Ramon Humber'],NA,week_1,New Orleans Saints,2012
+['Chris Ivory'],Out: ankle,week_1,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_1,New Orleans Saints,2012
+['Marquis Johnson'],Injured Reserve: undisclosed,week_1,New Orleans Saints,2012
+['Tom Johnson'],NA,week_1,New Orleans Saints,2012
+['Marcel Jones'],Out: knee,week_1,New Orleans Saints,2012
+['Curtis Lofton'],Questionable: ankle,week_1,New Orleans Saints,2012
+['Elbert Mack'],NA,week_1,New Orleans Saints,2012
+['Turk McBride'],NA,week_1,New Orleans Saints,2012
+['Lance Moore'],NA,week_1,New Orleans Saints,2012
+['Joe Morgan'],NA,week_1,New Orleans Saints,2012
+['Johnny Patrick'],Doubtful: knee,week_1,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_1,New Orleans Saints,2012
+['Courtney Roby'],NA,week_1,New Orleans Saints,2012
+['Greg Romeus'],NA,week_1,New Orleans Saints,2012
+['Scott Shanle'],NA,week_1,New Orleans Saints,2012
+['Will Smith'],NA,week_1,New Orleans Saints,2012
+['Darren Sproles'],NA,week_1,New Orleans Saints,2012
+['Zach Strief'],NA,week_1,New Orleans Saints,2012
+['David Thomas'],NA,week_1,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_1,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_1,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_1,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_1,New Orleans Saints,2012
+['Jonathan Vilma'],Out: knee,week_1,New Orleans Saints,2012
+['Corey White'],NA,week_1,New Orleans Saints,2012
+['Martez Wilson'],NA,week_1,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_1,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_2,New Orleans Saints,2012
+['Adrian Arrington'],Injured Reserve: knee,week_2,New Orleans Saints,2012
+['Joe Banyard'],NA,week_2,New Orleans Saints,2012
+['Drew Brees'],NA,week_2,New Orleans Saints,2012
+['Charles Brown'],NA,week_2,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_2,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_2,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_2,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_2,New Orleans Saints,2012
+['Jed Collins'],NA,week_2,New Orleans Saints,2012
+['Marques Colston'],NA,week_2,New Orleans Saints,2012
+['A.J. Davis'],NA,week_2,New Orleans Saints,2012
+['Jahri Evans'],NA,week_2,New Orleans Saints,2012
+['Junior Galette'],NA,week_2,New Orleans Saints,2012
+['Daniel Graham'],NA,week_2,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_2,New Orleans Saints,2012
+['Jabari Greer'],Probable: sports hernia,week_2,New Orleans Saints,2012
+['Roman Harper'],NA,week_2,New Orleans Saints,2012
+['David Hawthorne'],NA,week_2,New Orleans Saints,2012
+['Devery Henderson'],Questionable: concussion,week_2,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_2,New Orleans Saints,2012
+['Ramon Humber'],NA,week_2,New Orleans Saints,2012
+['Chris Ivory'],NA,week_2,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_2,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_2,New Orleans Saints,2012
+['Tom Johnson'],NA,week_2,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_2,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_2,New Orleans Saints,2012
+['Elbert Mack'],NA,week_2,New Orleans Saints,2012
+['Turk McBride'],Questionable: ankle,week_2,New Orleans Saints,2012
+['Lance Moore'],NA,week_2,New Orleans Saints,2012
+['Joe Morgan'],NA,week_2,New Orleans Saints,2012
+['Johnny Patrick'],Doubtful: knee,week_2,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_2,New Orleans Saints,2012
+['Courtney Roby'],NA,week_2,New Orleans Saints,2012
+['Greg Romeus'],NA,week_2,New Orleans Saints,2012
+['Scott Shanle'],Questionable: knee,week_2,New Orleans Saints,2012
+['Will Smith'],NA,week_2,New Orleans Saints,2012
+['Darren Sproles'],NA,week_2,New Orleans Saints,2012
+['Zach Strief'],NA,week_2,New Orleans Saints,2012
+['David Thomas'],NA,week_2,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_2,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_2,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_2,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_2,New Orleans Saints,2012
+['Jonathan Vilma'],Physically Unable to Perform: knee,week_2,New Orleans Saints,2012
+['Corey White'],NA,week_2,New Orleans Saints,2012
+['Martez Wilson'],NA,week_2,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_2,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_3,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_3,New Orleans Saints,2012
+['Joe Banyard'],NA,week_3,New Orleans Saints,2012
+['Drew Brees'],Probable: ankle,week_3,New Orleans Saints,2012
+['Charles Brown'],NA,week_3,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_3,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_3,New Orleans Saints,2012
+['Jonathan Casillas'],Questionable: knee,week_3,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_3,New Orleans Saints,2012
+['Jed Collins'],NA,week_3,New Orleans Saints,2012
+['Marques Colston'],Probable: foot,week_3,New Orleans Saints,2012
+['A.J. Davis'],NA,week_3,New Orleans Saints,2012
+['Jahri Evans'],NA,week_3,New Orleans Saints,2012
+['Junior Galette'],NA,week_3,New Orleans Saints,2012
+['Daniel Graham'],NA,week_3,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_3,New Orleans Saints,2012
+['Jabari Greer'],NA,week_3,New Orleans Saints,2012
+['Roman Harper'],Probable: wrist,week_3,New Orleans Saints,2012
+['David Hawthorne'],Questionable: knee,week_3,New Orleans Saints,2012
+['Devery Henderson'],Probable: concussion,week_3,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_3,New Orleans Saints,2012
+['Ramon Humber'],NA,week_3,New Orleans Saints,2012
+['Chris Ivory'],NA,week_3,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_3,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_3,New Orleans Saints,2012
+['Tom Johnson'],NA,week_3,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_3,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_3,New Orleans Saints,2012
+['Elbert Mack'],NA,week_3,New Orleans Saints,2012
+['Turk McBride'],Questionable: ankle,week_3,New Orleans Saints,2012
+['Lance Moore'],NA,week_3,New Orleans Saints,2012
+['Joe Morgan'],NA,week_3,New Orleans Saints,2012
+['Johnny Patrick'],Probable: knee,week_3,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_3,New Orleans Saints,2012
+['Courtney Roby'],NA,week_3,New Orleans Saints,2012
+['Greg Romeus'],NA,week_3,New Orleans Saints,2012
+['Scott Shanle'],NA,week_3,New Orleans Saints,2012
+['Will Smith'],NA,week_3,New Orleans Saints,2012
+['Darren Sproles'],NA,week_3,New Orleans Saints,2012
+['Zach Strief'],NA,week_3,New Orleans Saints,2012
+['David Thomas'],NA,week_3,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_3,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_3,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_3,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_3,New Orleans Saints,2012
+['Jonathan Vilma'],Physically Unable to Perform: knee,week_3,New Orleans Saints,2012
+['Corey White'],NA,week_3,New Orleans Saints,2012
+['Martez Wilson'],NA,week_3,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_3,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_4,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_4,New Orleans Saints,2012
+['Joe Banyard'],NA,week_4,New Orleans Saints,2012
+['Drew Brees'],NA,week_4,New Orleans Saints,2012
+['Charles Brown'],NA,week_4,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_4,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_4,New Orleans Saints,2012
+['Jonathan Casillas'],Questionable: neck,week_4,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_4,New Orleans Saints,2012
+['Jed Collins'],NA,week_4,New Orleans Saints,2012
+['Marques Colston'],NA,week_4,New Orleans Saints,2012
+['A.J. Davis'],NA,week_4,New Orleans Saints,2012
+['Jahri Evans'],NA,week_4,New Orleans Saints,2012
+['Junior Galette'],NA,week_4,New Orleans Saints,2012
+['Daniel Graham'],NA,week_4,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_4,New Orleans Saints,2012
+['Jabari Greer'],NA,week_4,New Orleans Saints,2012
+['Roman Harper'],NA,week_4,New Orleans Saints,2012
+['David Hawthorne'],Questionable: hamstring,week_4,New Orleans Saints,2012
+['Devery Henderson'],NA,week_4,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_4,New Orleans Saints,2012
+['Ramon Humber'],NA,week_4,New Orleans Saints,2012
+['Chris Ivory'],NA,week_4,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_4,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_4,New Orleans Saints,2012
+['Tom Johnson'],NA,week_4,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_4,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_4,New Orleans Saints,2012
+['Elbert Mack'],NA,week_4,New Orleans Saints,2012
+['Turk McBride'],Questionable: ankle,week_4,New Orleans Saints,2012
+['Lance Moore'],NA,week_4,New Orleans Saints,2012
+['Joe Morgan'],NA,week_4,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_4,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_4,New Orleans Saints,2012
+['Courtney Roby'],NA,week_4,New Orleans Saints,2012
+['Greg Romeus'],NA,week_4,New Orleans Saints,2012
+['Scott Shanle'],NA,week_4,New Orleans Saints,2012
+['Will Smith'],NA,week_4,New Orleans Saints,2012
+['Darren Sproles'],NA,week_4,New Orleans Saints,2012
+['Zach Strief'],NA,week_4,New Orleans Saints,2012
+['David Thomas'],NA,week_4,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_4,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_4,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_4,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_4,New Orleans Saints,2012
+['Jonathan Vilma'],Physically Unable to Perform: knee,week_4,New Orleans Saints,2012
+['Corey White'],NA,week_4,New Orleans Saints,2012
+['Martez Wilson'],NA,week_4,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_4,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_5,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_5,New Orleans Saints,2012
+['Joe Banyard'],NA,week_5,New Orleans Saints,2012
+['Drew Brees'],NA,week_5,New Orleans Saints,2012
+['Charles Brown'],NA,week_5,New Orleans Saints,2012
+['Brodrick Bunkley'],Questionable: illness,week_5,New Orleans Saints,2012
+['Travaris Cadet'],Questionable: shoulder,week_5,New Orleans Saints,2012
+['Jonathan Casillas'],Questionable: neck,week_5,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_5,New Orleans Saints,2012
+['Jed Collins'],NA,week_5,New Orleans Saints,2012
+['Marques Colston'],NA,week_5,New Orleans Saints,2012
+['A.J. Davis'],NA,week_5,New Orleans Saints,2012
+['Jahri Evans'],NA,week_5,New Orleans Saints,2012
+['Junior Galette'],NA,week_5,New Orleans Saints,2012
+['Daniel Graham'],NA,week_5,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_5,New Orleans Saints,2012
+['Jabari Greer'],NA,week_5,New Orleans Saints,2012
+['Roman Harper'],Questionable: hip,week_5,New Orleans Saints,2012
+['David Hawthorne'],Questionable: hamstring,week_5,New Orleans Saints,2012
+['Devery Henderson'],NA,week_5,New Orleans Saints,2012
+['Akiem Hicks'],Probable: ankle,week_5,New Orleans Saints,2012
+['Ramon Humber'],NA,week_5,New Orleans Saints,2012
+['Chris Ivory'],NA,week_5,New Orleans Saints,2012
+['Malcolm Jenkins'],Probable: hamstring,week_5,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_5,New Orleans Saints,2012
+['Tom Johnson'],NA,week_5,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_5,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_5,New Orleans Saints,2012
+['Elbert Mack'],NA,week_5,New Orleans Saints,2012
+['Turk McBride'],Questionable: ankle,week_5,New Orleans Saints,2012
+['Lance Moore'],Questionable: hamstring,week_5,New Orleans Saints,2012
+['Joe Morgan'],Questionable: knee,week_5,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_5,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_5,New Orleans Saints,2012
+['Courtney Roby'],NA,week_5,New Orleans Saints,2012
+['Greg Romeus'],NA,week_5,New Orleans Saints,2012
+['Scott Shanle'],NA,week_5,New Orleans Saints,2012
+['Will Smith'],NA,week_5,New Orleans Saints,2012
+['Darren Sproles'],NA,week_5,New Orleans Saints,2012
+['Zach Strief'],NA,week_5,New Orleans Saints,2012
+['David Thomas'],NA,week_5,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_5,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_5,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_5,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_5,New Orleans Saints,2012
+['Jonathan Vilma'],Physically Unable to Perform: knee,week_5,New Orleans Saints,2012
+['Corey White'],NA,week_5,New Orleans Saints,2012
+['Martez Wilson'],NA,week_5,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_5,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_7,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_7,New Orleans Saints,2012
+['Joe Banyard'],NA,week_7,New Orleans Saints,2012
+['Drew Brees'],NA,week_7,New Orleans Saints,2012
+['Charles Brown'],NA,week_7,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_7,New Orleans Saints,2012
+['Travaris Cadet'],Probable: shoulder,week_7,New Orleans Saints,2012
+['Jonathan Casillas'],Probable: neck,week_7,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_7,New Orleans Saints,2012
+['Jed Collins'],NA,week_7,New Orleans Saints,2012
+['Marques Colston'],NA,week_7,New Orleans Saints,2012
+['A.J. Davis'],NA,week_7,New Orleans Saints,2012
+['Jahri Evans'],Questionable: toe,week_7,New Orleans Saints,2012
+['Junior Galette'],NA,week_7,New Orleans Saints,2012
+['Daniel Graham'],NA,week_7,New Orleans Saints,2012
+['Jimmy Graham'],Questionable: ankle,week_7,New Orleans Saints,2012
+['Jabari Greer'],Questionable: hip,week_7,New Orleans Saints,2012
+['Roman Harper'],NA,week_7,New Orleans Saints,2012
+['David Hawthorne'],Questionable: hamstring,week_7,New Orleans Saints,2012
+['Devery Henderson'],NA,week_7,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_7,New Orleans Saints,2012
+['Ramon Humber'],NA,week_7,New Orleans Saints,2012
+['Chris Ivory'],NA,week_7,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_7,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_7,New Orleans Saints,2012
+['Tom Johnson'],NA,week_7,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_7,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_7,New Orleans Saints,2012
+['Elbert Mack'],NA,week_7,New Orleans Saints,2012
+['Turk McBride'],Probable: ankle,week_7,New Orleans Saints,2012
+['Lance Moore'],Probable: hamstring,week_7,New Orleans Saints,2012
+['Joe Morgan'],NA,week_7,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_7,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_7,New Orleans Saints,2012
+['Courtney Roby'],NA,week_7,New Orleans Saints,2012
+['Greg Romeus'],NA,week_7,New Orleans Saints,2012
+['Scott Shanle'],Questionable: illness,week_7,New Orleans Saints,2012
+['Will Smith'],NA,week_7,New Orleans Saints,2012
+['Darren Sproles'],NA,week_7,New Orleans Saints,2012
+['Zach Strief'],NA,week_7,New Orleans Saints,2012
+['David Thomas'],NA,week_7,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_7,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_7,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_7,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_7,New Orleans Saints,2012
+['Jonathan Vilma'],Probable: disciplinary,week_7,New Orleans Saints,2012
+['Corey White'],NA,week_7,New Orleans Saints,2012
+['Martez Wilson'],NA,week_7,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_7,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_8,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_8,New Orleans Saints,2012
+['Joe Banyard'],NA,week_8,New Orleans Saints,2012
+['Drew Brees'],NA,week_8,New Orleans Saints,2012
+['Charles Brown'],NA,week_8,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_8,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_8,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_8,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_8,New Orleans Saints,2012
+['Jed Collins'],NA,week_8,New Orleans Saints,2012
+['Marques Colston'],NA,week_8,New Orleans Saints,2012
+['A.J. Davis'],NA,week_8,New Orleans Saints,2012
+['Jahri Evans'],NA,week_8,New Orleans Saints,2012
+['Junior Galette'],NA,week_8,New Orleans Saints,2012
+['Daniel Graham'],Questionable: knee,week_8,New Orleans Saints,2012
+['Jimmy Graham'],Questionable: ankle,week_8,New Orleans Saints,2012
+['Jabari Greer'],NA,week_8,New Orleans Saints,2012
+['Roman Harper'],NA,week_8,New Orleans Saints,2012
+['David Hawthorne'],Questionable: hamstring,week_8,New Orleans Saints,2012
+['Devery Henderson'],NA,week_8,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_8,New Orleans Saints,2012
+['Ramon Humber'],NA,week_8,New Orleans Saints,2012
+['Chris Ivory'],NA,week_8,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_8,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_8,New Orleans Saints,2012
+['Tom Johnson'],NA,week_8,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_8,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_8,New Orleans Saints,2012
+['Elbert Mack'],NA,week_8,New Orleans Saints,2012
+['Turk McBride'],NA,week_8,New Orleans Saints,2012
+['Lance Moore'],NA,week_8,New Orleans Saints,2012
+['Joe Morgan'],Questionable: chest,week_8,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_8,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_8,New Orleans Saints,2012
+['Courtney Roby'],NA,week_8,New Orleans Saints,2012
+['Greg Romeus'],NA,week_8,New Orleans Saints,2012
+['Scott Shanle'],NA,week_8,New Orleans Saints,2012
+['Will Smith'],NA,week_8,New Orleans Saints,2012
+['Darren Sproles'],Probable: illness,week_8,New Orleans Saints,2012
+['Zach Strief'],NA,week_8,New Orleans Saints,2012
+['David Thomas'],NA,week_8,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_8,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_8,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_8,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_8,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_8,New Orleans Saints,2012
+['Corey White'],NA,week_8,New Orleans Saints,2012
+['Martez Wilson'],NA,week_8,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_8,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_9,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_9,New Orleans Saints,2012
+['Joe Banyard'],NA,week_9,New Orleans Saints,2012
+['Drew Brees'],NA,week_9,New Orleans Saints,2012
+['Charles Brown'],NA,week_9,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_9,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_9,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_9,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_9,New Orleans Saints,2012
+['Jed Collins'],NA,week_9,New Orleans Saints,2012
+['Marques Colston'],NA,week_9,New Orleans Saints,2012
+['A.J. Davis'],NA,week_9,New Orleans Saints,2012
+['Jahri Evans'],NA,week_9,New Orleans Saints,2012
+['Junior Galette'],NA,week_9,New Orleans Saints,2012
+['Daniel Graham'],NA,week_9,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_9,New Orleans Saints,2012
+['Jabari Greer'],NA,week_9,New Orleans Saints,2012
+['Roman Harper'],NA,week_9,New Orleans Saints,2012
+['David Hawthorne'],Probable: hamstring,week_9,New Orleans Saints,2012
+['Devery Henderson'],NA,week_9,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_9,New Orleans Saints,2012
+['Ramon Humber'],NA,week_9,New Orleans Saints,2012
+['Chris Ivory'],NA,week_9,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_9,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_9,New Orleans Saints,2012
+['Tom Johnson'],NA,week_9,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_9,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_9,New Orleans Saints,2012
+['Elbert Mack'],NA,week_9,New Orleans Saints,2012
+['Turk McBride'],NA,week_9,New Orleans Saints,2012
+['Lance Moore'],NA,week_9,New Orleans Saints,2012
+['Joe Morgan'],Probable: chest,week_9,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_9,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_9,New Orleans Saints,2012
+['Courtney Roby'],Questionable: shoulder,week_9,New Orleans Saints,2012
+['Greg Romeus'],NA,week_9,New Orleans Saints,2012
+['Scott Shanle'],NA,week_9,New Orleans Saints,2012
+['Will Smith'],NA,week_9,New Orleans Saints,2012
+['Darren Sproles'],Probable: hamstring,week_9,New Orleans Saints,2012
+['Zach Strief'],NA,week_9,New Orleans Saints,2012
+['David Thomas'],NA,week_9,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_9,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_9,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_9,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_9,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_9,New Orleans Saints,2012
+['Corey White'],NA,week_9,New Orleans Saints,2012
+['Martez Wilson'],NA,week_9,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_9,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_10,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_10,New Orleans Saints,2012
+['Joe Banyard'],NA,week_10,New Orleans Saints,2012
+['Drew Brees'],NA,week_10,New Orleans Saints,2012
+['Charles Brown'],NA,week_10,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_10,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_10,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_10,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_10,New Orleans Saints,2012
+['Jed Collins'],NA,week_10,New Orleans Saints,2012
+['Marques Colston'],NA,week_10,New Orleans Saints,2012
+['A.J. Davis'],NA,week_10,New Orleans Saints,2012
+['Jahri Evans'],NA,week_10,New Orleans Saints,2012
+['Junior Galette'],Questionable: ankle,week_10,New Orleans Saints,2012
+['Daniel Graham'],NA,week_10,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_10,New Orleans Saints,2012
+['Jabari Greer'],NA,week_10,New Orleans Saints,2012
+['Roman Harper'],NA,week_10,New Orleans Saints,2012
+['David Hawthorne'],Probable: hamstring,week_10,New Orleans Saints,2012
+['Devery Henderson'],NA,week_10,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_10,New Orleans Saints,2012
+['Ramon Humber'],NA,week_10,New Orleans Saints,2012
+['Chris Ivory'],NA,week_10,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_10,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_10,New Orleans Saints,2012
+['Tom Johnson'],NA,week_10,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_10,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_10,New Orleans Saints,2012
+['Elbert Mack'],NA,week_10,New Orleans Saints,2012
+['Turk McBride'],NA,week_10,New Orleans Saints,2012
+['Lance Moore'],NA,week_10,New Orleans Saints,2012
+['Joe Morgan'],NA,week_10,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_10,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_10,New Orleans Saints,2012
+['Courtney Roby'],Questionable: shoulder,week_10,New Orleans Saints,2012
+['Greg Romeus'],NA,week_10,New Orleans Saints,2012
+['Scott Shanle'],NA,week_10,New Orleans Saints,2012
+['Will Smith'],NA,week_10,New Orleans Saints,2012
+['Darren Sproles'],Out: hand,week_10,New Orleans Saints,2012
+['Zach Strief'],Questionable: groin,week_10,New Orleans Saints,2012
+['David Thomas'],NA,week_10,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_10,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_10,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_10,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_10,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_10,New Orleans Saints,2012
+['Corey White'],NA,week_10,New Orleans Saints,2012
+['Martez Wilson'],NA,week_10,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_10,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_11,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_11,New Orleans Saints,2012
+['Joe Banyard'],NA,week_11,New Orleans Saints,2012
+['Drew Brees'],NA,week_11,New Orleans Saints,2012
+['Charles Brown'],NA,week_11,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_11,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_11,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_11,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_11,New Orleans Saints,2012
+['Jed Collins'],NA,week_11,New Orleans Saints,2012
+['Marques Colston'],NA,week_11,New Orleans Saints,2012
+['A.J. Davis'],NA,week_11,New Orleans Saints,2012
+['Jahri Evans'],NA,week_11,New Orleans Saints,2012
+['Junior Galette'],Questionable: ankle,week_11,New Orleans Saints,2012
+['Daniel Graham'],NA,week_11,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_11,New Orleans Saints,2012
+['Jabari Greer'],NA,week_11,New Orleans Saints,2012
+['Roman Harper'],NA,week_11,New Orleans Saints,2012
+['David Hawthorne'],NA,week_11,New Orleans Saints,2012
+['Devery Henderson'],NA,week_11,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_11,New Orleans Saints,2012
+['Ramon Humber'],NA,week_11,New Orleans Saints,2012
+['Chris Ivory'],NA,week_11,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_11,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_11,New Orleans Saints,2012
+['Tom Johnson'],NA,week_11,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_11,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_11,New Orleans Saints,2012
+['Elbert Mack'],NA,week_11,New Orleans Saints,2012
+['Turk McBride'],NA,week_11,New Orleans Saints,2012
+['Lance Moore'],NA,week_11,New Orleans Saints,2012
+['Joe Morgan'],NA,week_11,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_11,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_11,New Orleans Saints,2012
+['Courtney Roby'],Probable: shoulder,week_11,New Orleans Saints,2012
+['Greg Romeus'],NA,week_11,New Orleans Saints,2012
+['Scott Shanle'],NA,week_11,New Orleans Saints,2012
+['Will Smith'],Probable: four-game suspension served,week_11,New Orleans Saints,2012
+['Darren Sproles'],Out: hand,week_11,New Orleans Saints,2012
+['Zach Strief'],Questionable: groin,week_11,New Orleans Saints,2012
+['David Thomas'],NA,week_11,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_11,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_11,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_11,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_11,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_11,New Orleans Saints,2012
+['Corey White'],Questionable: leg,week_11,New Orleans Saints,2012
+['Martez Wilson'],NA,week_11,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_11,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_12,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_12,New Orleans Saints,2012
+['Joe Banyard'],NA,week_12,New Orleans Saints,2012
+['Drew Brees'],NA,week_12,New Orleans Saints,2012
+['Charles Brown'],Questionable: knee,week_12,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_12,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_12,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_12,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_12,New Orleans Saints,2012
+['Jed Collins'],NA,week_12,New Orleans Saints,2012
+['Marques Colston'],Questionable: head/neck,week_12,New Orleans Saints,2012
+['A.J. Davis'],NA,week_12,New Orleans Saints,2012
+['Jahri Evans'],NA,week_12,New Orleans Saints,2012
+['Junior Galette'],Questionable: ankle,week_12,New Orleans Saints,2012
+['Daniel Graham'],NA,week_12,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_12,New Orleans Saints,2012
+['Jabari Greer'],NA,week_12,New Orleans Saints,2012
+['Roman Harper'],NA,week_12,New Orleans Saints,2012
+['David Hawthorne'],NA,week_12,New Orleans Saints,2012
+['Devery Henderson'],NA,week_12,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_12,New Orleans Saints,2012
+['Ramon Humber'],Questionable: illness,week_12,New Orleans Saints,2012
+['Chris Ivory'],NA,week_12,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_12,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_12,New Orleans Saints,2012
+['Tom Johnson'],NA,week_12,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_12,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_12,New Orleans Saints,2012
+['Elbert Mack'],Questionable: concussion,week_12,New Orleans Saints,2012
+['Turk McBride'],NA,week_12,New Orleans Saints,2012
+['Lance Moore'],NA,week_12,New Orleans Saints,2012
+['Joe Morgan'],NA,week_12,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_12,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_12,New Orleans Saints,2012
+['Courtney Roby'],NA,week_12,New Orleans Saints,2012
+['Greg Romeus'],NA,week_12,New Orleans Saints,2012
+['Scott Shanle'],NA,week_12,New Orleans Saints,2012
+['Will Smith'],NA,week_12,New Orleans Saints,2012
+['Darren Sproles'],Probable: hand,week_12,New Orleans Saints,2012
+['Zach Strief'],Questionable: groin,week_12,New Orleans Saints,2012
+['David Thomas'],NA,week_12,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_12,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_12,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_12,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_12,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_12,New Orleans Saints,2012
+['Corey White'],Questionable: leg,week_12,New Orleans Saints,2012
+['Martez Wilson'],NA,week_12,New Orleans Saints,2012
+['Scott Winnewisser'],NA,week_12,New Orleans Saints,2012
+['Isa Abdul-Quddus'],Questionable: concussion,week_13,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_13,New Orleans Saints,2012
+['Joe Banyard'],NA,week_13,New Orleans Saints,2012
+['Drew Brees'],NA,week_13,New Orleans Saints,2012
+['Charles Brown'],Questionable: knee,week_13,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_13,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_13,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_13,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_13,New Orleans Saints,2012
+['Jed Collins'],NA,week_13,New Orleans Saints,2012
+['Marques Colston'],NA,week_13,New Orleans Saints,2012
+['A.J. Davis'],NA,week_13,New Orleans Saints,2012
+['Jahri Evans'],NA,week_13,New Orleans Saints,2012
+['Junior Galette'],Questionable: ankle,week_13,New Orleans Saints,2012
+['Daniel Graham'],NA,week_13,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_13,New Orleans Saints,2012
+['Jabari Greer'],NA,week_13,New Orleans Saints,2012
+['Roman Harper'],NA,week_13,New Orleans Saints,2012
+['David Hawthorne'],NA,week_13,New Orleans Saints,2012
+['Devery Henderson'],NA,week_13,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_13,New Orleans Saints,2012
+['Ramon Humber'],NA,week_13,New Orleans Saints,2012
+['Chris Ivory'],NA,week_13,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_13,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_13,New Orleans Saints,2012
+['Tom Johnson'],Questionable: back,week_13,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_13,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_13,New Orleans Saints,2012
+['Elbert Mack'],Questionable: concussion,week_13,New Orleans Saints,2012
+['Turk McBride'],NA,week_13,New Orleans Saints,2012
+['Lance Moore'],Questionable: head,week_13,New Orleans Saints,2012
+['Joe Morgan'],NA,week_13,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_13,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_13,New Orleans Saints,2012
+['Courtney Roby'],Questionable: shoulder/ankle,week_13,New Orleans Saints,2012
+['Greg Romeus'],Injured Reserve: knee,week_13,New Orleans Saints,2012
+['Scott Shanle'],NA,week_13,New Orleans Saints,2012
+['Will Smith'],NA,week_13,New Orleans Saints,2012
+['Darren Sproles'],NA,week_13,New Orleans Saints,2012
+['Zach Strief'],Questionable: groin,week_13,New Orleans Saints,2012
+['David Thomas'],Questionable: knee,week_13,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_13,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_13,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_13,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_13,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_13,New Orleans Saints,2012
+['Corey White'],Questionable: knee,week_13,New Orleans Saints,2012
+['Martez Wilson'],NA,week_13,New Orleans Saints,2012
+['Scott Winnewisser'],Injured Reserve: undisclosed,week_13,New Orleans Saints,2012
+['Isa Abdul-Quddus'],Probable: concussion,week_14,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_14,New Orleans Saints,2012
+['Joe Banyard'],NA,week_14,New Orleans Saints,2012
+['Drew Brees'],NA,week_14,New Orleans Saints,2012
+['Charles Brown'],Questionable: knee,week_14,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_14,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_14,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_14,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_14,New Orleans Saints,2012
+['Jed Collins'],NA,week_14,New Orleans Saints,2012
+['Marques Colston'],NA,week_14,New Orleans Saints,2012
+['A.J. Davis'],NA,week_14,New Orleans Saints,2012
+['Jahri Evans'],NA,week_14,New Orleans Saints,2012
+['Junior Galette'],Probable: ankle,week_14,New Orleans Saints,2012
+['Daniel Graham'],NA,week_14,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_14,New Orleans Saints,2012
+['Jabari Greer'],NA,week_14,New Orleans Saints,2012
+['Roman Harper'],Probable: rib,week_14,New Orleans Saints,2012
+['David Hawthorne'],NA,week_14,New Orleans Saints,2012
+['Devery Henderson'],NA,week_14,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_14,New Orleans Saints,2012
+['Ramon Humber'],NA,week_14,New Orleans Saints,2012
+['Chris Ivory'],Doubtful: hamstring,week_14,New Orleans Saints,2012
+['Malcolm Jenkins'],NA,week_14,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_14,New Orleans Saints,2012
+['Tom Johnson'],Probable: back,week_14,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_14,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_14,New Orleans Saints,2012
+['Elbert Mack'],NA,week_14,New Orleans Saints,2012
+['Turk McBride'],NA,week_14,New Orleans Saints,2012
+['Lance Moore'],NA,week_14,New Orleans Saints,2012
+['Joe Morgan'],NA,week_14,New Orleans Saints,2012
+['Johnny Patrick'],Questionable: illness,week_14,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_14,New Orleans Saints,2012
+['Courtney Roby'],Probable: hamstring,week_14,New Orleans Saints,2012
+['Greg Romeus'],Injured Reserve: knee,week_14,New Orleans Saints,2012
+['Scott Shanle'],NA,week_14,New Orleans Saints,2012
+['Will Smith'],NA,week_14,New Orleans Saints,2012
+['Darren Sproles'],NA,week_14,New Orleans Saints,2012
+['Zach Strief'],Probable: groin,week_14,New Orleans Saints,2012
+['David Thomas'],Probable: knee,week_14,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_14,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_14,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_14,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_14,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_14,New Orleans Saints,2012
+['Corey White'],Out: knee,week_14,New Orleans Saints,2012
+['Martez Wilson'],Questionable: toe,week_14,New Orleans Saints,2012
+['Scott Winnewisser'],Injured Reserve: undisclosed,week_14,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_15,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_15,New Orleans Saints,2012
+['Joe Banyard'],NA,week_15,New Orleans Saints,2012
+['Drew Brees'],NA,week_15,New Orleans Saints,2012
+['Charles Brown'],Questionable: knee,week_15,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_15,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_15,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_15,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_15,New Orleans Saints,2012
+['Jed Collins'],Questionable: toe,week_15,New Orleans Saints,2012
+['Marques Colston'],NA,week_15,New Orleans Saints,2012
+['A.J. Davis'],NA,week_15,New Orleans Saints,2012
+['Jahri Evans'],NA,week_15,New Orleans Saints,2012
+['Junior Galette'],NA,week_15,New Orleans Saints,2012
+['Daniel Graham'],NA,week_15,New Orleans Saints,2012
+['Jimmy Graham'],NA,week_15,New Orleans Saints,2012
+['Jabari Greer'],NA,week_15,New Orleans Saints,2012
+['Roman Harper'],NA,week_15,New Orleans Saints,2012
+['David Hawthorne'],NA,week_15,New Orleans Saints,2012
+['Devery Henderson'],NA,week_15,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_15,New Orleans Saints,2012
+['Ramon Humber'],NA,week_15,New Orleans Saints,2012
+['Chris Ivory'],Doubtful: hamstring,week_15,New Orleans Saints,2012
+['Malcolm Jenkins'],Questionable: hamstring,week_15,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_15,New Orleans Saints,2012
+['Tom Johnson'],NA,week_15,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_15,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_15,New Orleans Saints,2012
+['Elbert Mack'],NA,week_15,New Orleans Saints,2012
+['Turk McBride'],NA,week_15,New Orleans Saints,2012
+['Lance Moore'],NA,week_15,New Orleans Saints,2012
+['Joe Morgan'],NA,week_15,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_15,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_15,New Orleans Saints,2012
+['Courtney Roby'],NA,week_15,New Orleans Saints,2012
+['Greg Romeus'],Injured Reserve: knee,week_15,New Orleans Saints,2012
+['Scott Shanle'],NA,week_15,New Orleans Saints,2012
+['Will Smith'],NA,week_15,New Orleans Saints,2012
+['Darren Sproles'],NA,week_15,New Orleans Saints,2012
+['Zach Strief'],Questionable: ankle,week_15,New Orleans Saints,2012
+['David Thomas'],NA,week_15,New Orleans Saints,2012
+['Pierre Thomas'],NA,week_15,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_15,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_15,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_15,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_15,New Orleans Saints,2012
+['Corey White'],Questionable: knee,week_15,New Orleans Saints,2012
+['Martez Wilson'],NA,week_15,New Orleans Saints,2012
+['Scott Winnewisser'],Injured Reserve: undisclosed,week_15,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_16,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_16,New Orleans Saints,2012
+['Joe Banyard'],NA,week_16,New Orleans Saints,2012
+['Drew Brees'],NA,week_16,New Orleans Saints,2012
+['Charles Brown'],Injured Reserve: knee,week_16,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_16,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_16,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_16,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_16,New Orleans Saints,2012
+['Jed Collins'],Questionable: knee/toe,week_16,New Orleans Saints,2012
+['Marques Colston'],NA,week_16,New Orleans Saints,2012
+['A.J. Davis'],NA,week_16,New Orleans Saints,2012
+['Jahri Evans'],NA,week_16,New Orleans Saints,2012
+['Junior Galette'],NA,week_16,New Orleans Saints,2012
+['Daniel Graham'],NA,week_16,New Orleans Saints,2012
+['Jimmy Graham'],Probable: wrist,week_16,New Orleans Saints,2012
+['Jabari Greer'],NA,week_16,New Orleans Saints,2012
+['Roman Harper'],NA,week_16,New Orleans Saints,2012
+['David Hawthorne'],NA,week_16,New Orleans Saints,2012
+['Devery Henderson'],NA,week_16,New Orleans Saints,2012
+['Akiem Hicks'],NA,week_16,New Orleans Saints,2012
+['Ramon Humber'],NA,week_16,New Orleans Saints,2012
+['Chris Ivory'],Questionable: hamstring,week_16,New Orleans Saints,2012
+['Malcolm Jenkins'],Injured Reserve: hamstring,week_16,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_16,New Orleans Saints,2012
+['Tom Johnson'],NA,week_16,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_16,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_16,New Orleans Saints,2012
+['Elbert Mack'],NA,week_16,New Orleans Saints,2012
+['Turk McBride'],NA,week_16,New Orleans Saints,2012
+['Lance Moore'],NA,week_16,New Orleans Saints,2012
+['Joe Morgan'],NA,week_16,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_16,New Orleans Saints,2012
+['Patrick Robinson'],Questionable: groin,week_16,New Orleans Saints,2012
+['Courtney Roby'],NA,week_16,New Orleans Saints,2012
+['Greg Romeus'],Injured Reserve: knee,week_16,New Orleans Saints,2012
+['Scott Shanle'],NA,week_16,New Orleans Saints,2012
+['Will Smith'],NA,week_16,New Orleans Saints,2012
+['Darren Sproles'],NA,week_16,New Orleans Saints,2012
+['Zach Strief'],Questionable: ankle,week_16,New Orleans Saints,2012
+['David Thomas'],NA,week_16,New Orleans Saints,2012
+['Pierre Thomas'],Questionable: knee,week_16,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_16,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_16,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_16,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_16,New Orleans Saints,2012
+['Corey White'],Injured Reserve: knee,week_16,New Orleans Saints,2012
+['Martez Wilson'],NA,week_16,New Orleans Saints,2012
+['Scott Winnewisser'],Injured Reserve: undisclosed,week_16,New Orleans Saints,2012
+['Isa Abdul-Quddus'],NA,week_17,New Orleans Saints,2012
+['Adrian Arrington'],NA,week_17,New Orleans Saints,2012
+['Joe Banyard'],NA,week_17,New Orleans Saints,2012
+['Drew Brees'],NA,week_17,New Orleans Saints,2012
+['Charles Brown'],Injured Reserve: knee,week_17,New Orleans Saints,2012
+['Brodrick Bunkley'],NA,week_17,New Orleans Saints,2012
+['Travaris Cadet'],NA,week_17,New Orleans Saints,2012
+['Jonathan Casillas'],NA,week_17,New Orleans Saints,2012
+['Chris Chamberlain'],Injured Reserve: knee,week_17,New Orleans Saints,2012
+['Jed Collins'],Questionable: knee,week_17,New Orleans Saints,2012
+['Marques Colston'],NA,week_17,New Orleans Saints,2012
+['A.J. Davis'],Injured Reserve: ankle,week_17,New Orleans Saints,2012
+['Jahri Evans'],NA,week_17,New Orleans Saints,2012
+['Junior Galette'],NA,week_17,New Orleans Saints,2012
+['Daniel Graham'],NA,week_17,New Orleans Saints,2012
+['Jimmy Graham'],Probable: finger/wrist,week_17,New Orleans Saints,2012
+['Jabari Greer'],Doubtful: concussion,week_17,New Orleans Saints,2012
+['Roman Harper'],NA,week_17,New Orleans Saints,2012
+['David Hawthorne'],NA,week_17,New Orleans Saints,2012
+['Devery Henderson'],NA,week_17,New Orleans Saints,2012
+['Akiem Hicks'],Questionable: knee,week_17,New Orleans Saints,2012
+['Ramon Humber'],NA,week_17,New Orleans Saints,2012
+['Chris Ivory'],Probable: hamstring,week_17,New Orleans Saints,2012
+['Malcolm Jenkins'],Injured Reserve: hamstring,week_17,New Orleans Saints,2012
+['Marquis Johnson'],NA,week_17,New Orleans Saints,2012
+['Tom Johnson'],NA,week_17,New Orleans Saints,2012
+['Marcel Jones'],Injured Reserve: knee,week_17,New Orleans Saints,2012
+['Curtis Lofton'],NA,week_17,New Orleans Saints,2012
+['Elbert Mack'],NA,week_17,New Orleans Saints,2012
+['Turk McBride'],NA,week_17,New Orleans Saints,2012
+['Lance Moore'],NA,week_17,New Orleans Saints,2012
+['Joe Morgan'],NA,week_17,New Orleans Saints,2012
+['Johnny Patrick'],NA,week_17,New Orleans Saints,2012
+['Patrick Robinson'],NA,week_17,New Orleans Saints,2012
+['Courtney Roby'],NA,week_17,New Orleans Saints,2012
+['Greg Romeus'],Injured Reserve: knee,week_17,New Orleans Saints,2012
+['Scott Shanle'],NA,week_17,New Orleans Saints,2012
+['Will Smith'],NA,week_17,New Orleans Saints,2012
+['Darren Sproles'],NA,week_17,New Orleans Saints,2012
+['Zach Strief'],NA,week_17,New Orleans Saints,2012
+['David Thomas'],NA,week_17,New Orleans Saints,2012
+['Pierre Thomas'],Questionable: knee,week_17,New Orleans Saints,2012
+['Andrew Tiller'],Injured Reserve: triceps,week_17,New Orleans Saints,2012
+['Nick Toon'],Injured Reserve: foot,week_17,New Orleans Saints,2012
+['Fenuki Tupou'],Injured Reserve: triceps,week_17,New Orleans Saints,2012
+['Jonathan Vilma'],NA,week_17,New Orleans Saints,2012
+['Corey White'],Injured Reserve: knee,week_17,New Orleans Saints,2012
+['Martez Wilson'],NA,week_17,New Orleans Saints,2012
+['Scott Winnewisser'],Injured Reserve: undisclosed,week_17,New Orleans Saints,2012

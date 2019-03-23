@@ -1,0 +1,698 @@
+﻿name,injury,week,team,year
+['Jared Allen'],NA,week_1,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_1,Minnesota Vikings,2012
+['Robert Blanton'],Probable: hamstring,week_1,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_1,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_1,Minnesota Vikings,2012
+['John Carlson'],Probable: knee,week_1,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_1,Minnesota Vikings,2012
+['Chris Cook'],Questionable: stinger,week_1,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_1,Minnesota Vikings,2012
+['Fred Evans'],NA,week_1,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_1,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_1,Minnesota Vikings,2012
+['Letroy Guion'],Probable: knee,week_1,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_1,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_1,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_1,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_1,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_1,Minnesota Vikings,2012
+['George Johnson'],NA,week_1,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_1,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_1,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_1,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_1,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_1,Minnesota Vikings,2012
+['Marvin Mitchell'],Out: ankle,week_1,Minnesota Vikings,2012
+['Adrian Peterson'],Questionable: knee,week_1,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_1,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_1,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_1,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_1,Minnesota Vikings,2012
+['Brian Robison'],NA,week_1,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_1,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_1,Minnesota Vikings,2012
+['Geoff Schwartz'],Probable: knee,week_1,Minnesota Vikings,2012
+['Andrew Sendejo'],Questionable: ankle,week_1,Minnesota Vikings,2012
+['Marcus Sherels'],Questionable: ankle,week_1,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_1,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_1,Minnesota Vikings,2012
+['John Sullivan'],NA,week_1,Minnesota Vikings,2012
+['Antoine Winfield'],NA,week_1,Minnesota Vikings,2012
+['Jarius Wright'],Questionable: ankle,week_1,Minnesota Vikings,2012
+['Jared Allen'],NA,week_2,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_2,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_2,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_2,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_2,Minnesota Vikings,2012
+['John Carlson'],NA,week_2,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_2,Minnesota Vikings,2012
+['Chris Cook'],Questionable: stinger,week_2,Minnesota Vikings,2012
+['Rhett Ellison'],Questionable: ankle,week_2,Minnesota Vikings,2012
+['Fred Evans'],NA,week_2,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_2,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_2,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_2,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_2,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_2,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_2,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_2,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_2,Minnesota Vikings,2012
+['George Johnson'],NA,week_2,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_2,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_2,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_2,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_2,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_2,Minnesota Vikings,2012
+['Marvin Mitchell'],Questionable: ankle,week_2,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: knee,week_2,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_2,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_2,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_2,Minnesota Vikings,2012
+['Josh Robinson'],Probable: hip,week_2,Minnesota Vikings,2012
+['Brian Robison'],NA,week_2,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_2,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_2,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_2,Minnesota Vikings,2012
+['Andrew Sendejo'],Questionable: ankle,week_2,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_2,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_2,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_2,Minnesota Vikings,2012
+['John Sullivan'],Questionable: ankle,week_2,Minnesota Vikings,2012
+['Antoine Winfield'],NA,week_2,Minnesota Vikings,2012
+['Jarius Wright'],Questionable: ankle,week_2,Minnesota Vikings,2012
+['Jared Allen'],NA,week_3,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_3,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_3,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_3,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_3,Minnesota Vikings,2012
+['John Carlson'],NA,week_3,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_3,Minnesota Vikings,2012
+['Chris Cook'],Probable: biceps,week_3,Minnesota Vikings,2012
+['Rhett Ellison'],Probable: ankle,week_3,Minnesota Vikings,2012
+['Fred Evans'],NA,week_3,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_3,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_3,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_3,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_3,Minnesota Vikings,2012
+['Erin Henderson'],Questionable: head,week_3,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_3,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_3,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_3,Minnesota Vikings,2012
+['George Johnson'],NA,week_3,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_3,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_3,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_3,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_3,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_3,Minnesota Vikings,2012
+['Marvin Mitchell'],Probable: ankle,week_3,Minnesota Vikings,2012
+['Adrian Peterson'],NA,week_3,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_3,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_3,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",Questionable: calf,week_3,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_3,Minnesota Vikings,2012
+['Brian Robison'],Probable: elbow,week_3,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_3,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_3,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_3,Minnesota Vikings,2012
+['Andrew Sendejo'],Probable: ankle,week_3,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_3,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_3,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_3,Minnesota Vikings,2012
+['John Sullivan'],Questionable: ankle,week_3,Minnesota Vikings,2012
+['Antoine Winfield'],NA,week_3,Minnesota Vikings,2012
+['Jarius Wright'],Probable: ankle,week_3,Minnesota Vikings,2012
+['Jared Allen'],Questionable: neck,week_4,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_4,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_4,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_4,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_4,Minnesota Vikings,2012
+['John Carlson'],NA,week_4,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_4,Minnesota Vikings,2012
+['Chris Cook'],NA,week_4,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_4,Minnesota Vikings,2012
+['Fred Evans'],NA,week_4,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_4,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_4,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_4,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_4,Minnesota Vikings,2012
+['Erin Henderson'],Questionable: concussion,week_4,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_4,Minnesota Vikings,2012
+['Michael Jenkins'],Questionable: rib,week_4,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_4,Minnesota Vikings,2012
+['George Johnson'],NA,week_4,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_4,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_4,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_4,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_4,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_4,Minnesota Vikings,2012
+['Marvin Mitchell'],Probable: ankle,week_4,Minnesota Vikings,2012
+['Adrian Peterson'],NA,week_4,Minnesota Vikings,2012
+['Christian Ponder'],Questionable: neck,week_4,Minnesota Vikings,2012
+['Mistral Raymond'],Out: ankle,week_4,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",Questionable: calf,week_4,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_4,Minnesota Vikings,2012
+['Brian Robison'],NA,week_4,Minnesota Vikings,2012
+['Kyle Rudolph'],Questionable: leg,week_4,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_4,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_4,Minnesota Vikings,2012
+['Andrew Sendejo'],Questionable: calf,week_4,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_4,Minnesota Vikings,2012
+['Jerome Simpson'],Probable: three-game suspension served,week_4,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_4,Minnesota Vikings,2012
+['John Sullivan'],NA,week_4,Minnesota Vikings,2012
+['Antoine Winfield'],NA,week_4,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_4,Minnesota Vikings,2012
+['Jared Allen'],Questionable: groin,week_5,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_5,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_5,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_5,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_5,Minnesota Vikings,2012
+['John Carlson'],NA,week_5,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_5,Minnesota Vikings,2012
+['Chris Cook'],NA,week_5,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_5,Minnesota Vikings,2012
+['Fred Evans'],NA,week_5,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_5,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_5,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_5,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_5,Minnesota Vikings,2012
+['Erin Henderson'],Questionable: concussion,week_5,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_5,Minnesota Vikings,2012
+['Michael Jenkins'],Questionable: rib,week_5,Minnesota Vikings,2012
+['Charlie Johnson'],Questionable: back,week_5,Minnesota Vikings,2012
+['George Johnson'],NA,week_5,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_5,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_5,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_5,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_5,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_5,Minnesota Vikings,2012
+['Marvin Mitchell'],Doubtful: calf,week_5,Minnesota Vikings,2012
+['Adrian Peterson'],NA,week_5,Minnesota Vikings,2012
+['Christian Ponder'],Questionable: knee,week_5,Minnesota Vikings,2012
+['Mistral Raymond'],Out: ankle,week_5,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_5,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_5,Minnesota Vikings,2012
+['Brian Robison'],NA,week_5,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_5,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_5,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_5,Minnesota Vikings,2012
+['Andrew Sendejo'],Questionable: calf,week_5,Minnesota Vikings,2012
+['Marcus Sherels'],Questionable: quadricep,week_5,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_5,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_5,Minnesota Vikings,2012
+['John Sullivan'],NA,week_5,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_5,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_5,Minnesota Vikings,2012
+['Jared Allen'],NA,week_6,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_6,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_6,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_6,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_6,Minnesota Vikings,2012
+['John Carlson'],NA,week_6,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_6,Minnesota Vikings,2012
+['Chris Cook'],NA,week_6,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_6,Minnesota Vikings,2012
+['Fred Evans'],NA,week_6,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_6,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_6,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_6,Minnesota Vikings,2012
+['Percy Harvin'],Questionable: hamstring,week_6,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_6,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_6,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_6,Minnesota Vikings,2012
+['Charlie Johnson'],Questionable: back,week_6,Minnesota Vikings,2012
+['George Johnson'],NA,week_6,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_6,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_6,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_6,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_6,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_6,Minnesota Vikings,2012
+['Marvin Mitchell'],Questionable: calf,week_6,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: ankle,week_6,Minnesota Vikings,2012
+['Christian Ponder'],Probable: knee,week_6,Minnesota Vikings,2012
+['Mistral Raymond'],Out: ankle,week_6,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_6,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_6,Minnesota Vikings,2012
+['Brian Robison'],NA,week_6,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_6,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_6,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_6,Minnesota Vikings,2012
+['Andrew Sendejo'],Questionable: calf,week_6,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_6,Minnesota Vikings,2012
+['Jerome Simpson'],Questionable: leg,week_6,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_6,Minnesota Vikings,2012
+['John Sullivan'],NA,week_6,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_6,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_6,Minnesota Vikings,2012
+['Jared Allen'],Questionable: groin,week_7,Minnesota Vikings,2012
+['Matt Asiata'],Questionable: knee,week_7,Minnesota Vikings,2012
+['Robert Blanton'],Questionable: hamstring,week_7,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_7,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_7,Minnesota Vikings,2012
+['John Carlson'],NA,week_7,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_7,Minnesota Vikings,2012
+['Chris Cook'],NA,week_7,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_7,Minnesota Vikings,2012
+['Fred Evans'],NA,week_7,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_7,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_7,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_7,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_7,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_7,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_7,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_7,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_7,Minnesota Vikings,2012
+['George Johnson'],NA,week_7,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_7,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_7,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_7,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_7,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_7,Minnesota Vikings,2012
+['Marvin Mitchell'],Questionable: calf,week_7,Minnesota Vikings,2012
+['Adrian Peterson'],Questionable: ankle,week_7,Minnesota Vikings,2012
+['Christian Ponder'],Probable: knee,week_7,Minnesota Vikings,2012
+['Mistral Raymond'],Questionable: ankle,week_7,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_7,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_7,Minnesota Vikings,2012
+['Brian Robison'],NA,week_7,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_7,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_7,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_7,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_7,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_7,Minnesota Vikings,2012
+['Jerome Simpson'],Probable: back/foot,week_7,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_7,Minnesota Vikings,2012
+['John Sullivan'],NA,week_7,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_7,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_7,Minnesota Vikings,2012
+['Jared Allen'],Questionable: groin,week_8,Minnesota Vikings,2012
+['Matt Asiata'],Probable: knee,week_8,Minnesota Vikings,2012
+['Robert Blanton'],Probable: hamstring,week_8,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_8,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_8,Minnesota Vikings,2012
+['John Carlson'],Questionable: head,week_8,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_8,Minnesota Vikings,2012
+['Chris Cook'],Questionable: arm,week_8,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_8,Minnesota Vikings,2012
+['Fred Evans'],Probable: knee,week_8,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_8,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_8,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_8,Minnesota Vikings,2012
+['Percy Harvin'],NA,week_8,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_8,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_8,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_8,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_8,Minnesota Vikings,2012
+['George Johnson'],NA,week_8,Minnesota Vikings,2012
+['Matt Kalil'],Questionable: back,week_8,Minnesota Vikings,2012
+['Chris Kluwe'],NA,week_8,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_8,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_8,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_8,Minnesota Vikings,2012
+['Marvin Mitchell'],Probable: calf,week_8,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: ankle,week_8,Minnesota Vikings,2012
+['Christian Ponder'],Probable: knee,week_8,Minnesota Vikings,2012
+['Mistral Raymond'],Questionable: ankle,week_8,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_8,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_8,Minnesota Vikings,2012
+['Brian Robison'],NA,week_8,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_8,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_8,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_8,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_8,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_8,Minnesota Vikings,2012
+['Jerome Simpson'],Probable: back/foot,week_8,Minnesota Vikings,2012
+['Harrison Smith'],Probable: calf,week_8,Minnesota Vikings,2012
+['John Sullivan'],NA,week_8,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_8,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_8,Minnesota Vikings,2012
+['Jared Allen'],NA,week_9,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_9,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_9,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_9,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_9,Minnesota Vikings,2012
+['John Carlson'],Out: concussion,week_9,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_9,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_9,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_9,Minnesota Vikings,2012
+['Fred Evans'],Probable: knee,week_9,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_9,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_9,Minnesota Vikings,2012
+['Letroy Guion'],Probable: ribs,week_9,Minnesota Vikings,2012
+['Percy Harvin'],Questionable: hamstring,week_9,Minnesota Vikings,2012
+['Erin Henderson'],Probable: elbow,week_9,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_9,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_9,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_9,Minnesota Vikings,2012
+['George Johnson'],NA,week_9,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_9,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: knee,week_9,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_9,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_9,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_9,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_9,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: ankle,week_9,Minnesota Vikings,2012
+['Christian Ponder'],Probable: knee,week_9,Minnesota Vikings,2012
+['Mistral Raymond'],Questionable: ankle,week_9,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_9,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_9,Minnesota Vikings,2012
+['Brian Robison'],NA,week_9,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_9,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_9,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_9,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_9,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_9,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_9,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_9,Minnesota Vikings,2012
+['John Sullivan'],NA,week_9,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_9,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_9,Minnesota Vikings,2012
+['Jared Allen'],NA,week_10,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_10,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_10,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_10,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_10,Minnesota Vikings,2012
+['John Carlson'],Probable: concussion,week_10,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_10,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_10,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_10,Minnesota Vikings,2012
+['Fred Evans'],NA,week_10,Minnesota Vikings,2012
+['Jerome Felton'],Questionable: shoulder,week_10,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_10,Minnesota Vikings,2012
+['Letroy Guion'],Questionable: foot,week_10,Minnesota Vikings,2012
+['Percy Harvin'],Questionable: ankle,week_10,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_10,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_10,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_10,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_10,Minnesota Vikings,2012
+['George Johnson'],NA,week_10,Minnesota Vikings,2012
+['Matt Kalil'],Questionable: knee,week_10,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee,week_10,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_10,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_10,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_10,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_10,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: ankle,week_10,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_10,Minnesota Vikings,2012
+['Mistral Raymond'],Probable: ankle,week_10,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_10,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_10,Minnesota Vikings,2012
+['Brian Robison'],NA,week_10,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_10,Minnesota Vikings,2012
+['Jamarca Sanford'],Probable: knee,week_10,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_10,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_10,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_10,Minnesota Vikings,2012
+['Jerome Simpson'],Probable: calf,week_10,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_10,Minnesota Vikings,2012
+['John Sullivan'],NA,week_10,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_10,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_10,Minnesota Vikings,2012
+['Jared Allen'],Probable: shoulder,week_12,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_12,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_12,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_12,Minnesota Vikings,2012
+['Stephen Burton'],Probable: ankle,week_12,Minnesota Vikings,2012
+['John Carlson'],NA,week_12,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_12,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_12,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_12,Minnesota Vikings,2012
+['Fred Evans'],NA,week_12,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_12,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_12,Minnesota Vikings,2012
+['Letroy Guion'],Questionable: foot,week_12,Minnesota Vikings,2012
+['Percy Harvin'],Questionable: ankle,week_12,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_12,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_12,Minnesota Vikings,2012
+['Michael Jenkins'],Questionable: foot,week_12,Minnesota Vikings,2012
+['Charlie Johnson'],Questionable: toe,week_12,Minnesota Vikings,2012
+['George Johnson'],NA,week_12,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_12,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee,week_12,Minnesota Vikings,2012
+['Phil Loadholt'],NA,week_12,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_12,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_12,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_12,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: shoulder,week_12,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_12,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_12,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_12,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_12,Minnesota Vikings,2012
+['Brian Robison'],NA,week_12,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_12,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_12,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_12,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_12,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_12,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_12,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_12,Minnesota Vikings,2012
+['John Sullivan'],NA,week_12,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_12,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_12,Minnesota Vikings,2012
+['Jared Allen'],Probable: shoulder/back,week_13,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_13,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_13,Minnesota Vikings,2012
+['Jasper Brinkley'],Probable: shoulder,week_13,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_13,Minnesota Vikings,2012
+['John Carlson'],NA,week_13,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_13,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_13,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_13,Minnesota Vikings,2012
+['Fred Evans'],NA,week_13,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_13,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_13,Minnesota Vikings,2012
+['Letroy Guion'],Probable: foot,week_13,Minnesota Vikings,2012
+['Percy Harvin'],Doubtful: ankle,week_13,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_13,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_13,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_13,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_13,Minnesota Vikings,2012
+['George Johnson'],NA,week_13,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_13,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee,week_13,Minnesota Vikings,2012
+['Phil Loadholt'],Questionable: knee,week_13,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_13,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_13,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_13,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: shoulder,week_13,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_13,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_13,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_13,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_13,Minnesota Vikings,2012
+['Brian Robison'],NA,week_13,Minnesota Vikings,2012
+['Kyle Rudolph'],Questionable: shoulder,week_13,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_13,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_13,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_13,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_13,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_13,Minnesota Vikings,2012
+['Harrison Smith'],Questionable: concussion,week_13,Minnesota Vikings,2012
+['John Sullivan'],NA,week_13,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_13,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_13,Minnesota Vikings,2012
+['Jared Allen'],Questionable: neck,week_14,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_14,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_14,Minnesota Vikings,2012
+['Jasper Brinkley'],Questionable: shoulder,week_14,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_14,Minnesota Vikings,2012
+['John Carlson'],NA,week_14,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_14,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_14,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_14,Minnesota Vikings,2012
+['Fred Evans'],NA,week_14,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_14,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_14,Minnesota Vikings,2012
+['Letroy Guion'],Probable: shin,week_14,Minnesota Vikings,2012
+['Percy Harvin'],Injured Reserve: ankle,week_14,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_14,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_14,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_14,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_14,Minnesota Vikings,2012
+['George Johnson'],NA,week_14,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_14,Minnesota Vikings,2012
+['Chris Kluwe'],Questionable: left knee,week_14,Minnesota Vikings,2012
+['Phil Loadholt'],Questionable: knee,week_14,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_14,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_14,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_14,Minnesota Vikings,2012
+['Adrian Peterson'],NA,week_14,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_14,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_14,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_14,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_14,Minnesota Vikings,2012
+['Brian Robison'],NA,week_14,Minnesota Vikings,2012
+['Kyle Rudolph'],Questionable: shoulder,week_14,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_14,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_14,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_14,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_14,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_14,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_14,Minnesota Vikings,2012
+['John Sullivan'],Questionable: ribs/knee,week_14,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_14,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_14,Minnesota Vikings,2012
+['Jared Allen'],Probable: shoulder,week_15,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_15,Minnesota Vikings,2012
+['Robert Blanton'],Probable: neck,week_15,Minnesota Vikings,2012
+['Jasper Brinkley'],Questionable: shoulder,week_15,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_15,Minnesota Vikings,2012
+['John Carlson'],NA,week_15,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_15,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_15,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_15,Minnesota Vikings,2012
+['Fred Evans'],NA,week_15,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_15,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_15,Minnesota Vikings,2012
+['Letroy Guion'],Probable: shin,week_15,Minnesota Vikings,2012
+['Percy Harvin'],Injured Reserve: ankle,week_15,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_15,Minnesota Vikings,2012
+['A.J. Jefferson'],Questionable: concussion,week_15,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_15,Minnesota Vikings,2012
+['Charlie Johnson'],Questionable: ankle,week_15,Minnesota Vikings,2012
+['George Johnson'],NA,week_15,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_15,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee/right groin,week_15,Minnesota Vikings,2012
+['Phil Loadholt'],Questionable: knee,week_15,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_15,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_15,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_15,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: abdomen,week_15,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_15,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_15,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_15,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_15,Minnesota Vikings,2012
+['Brian Robison'],Questionable: shoulder,week_15,Minnesota Vikings,2012
+['Kyle Rudolph'],Probable: shoulder,week_15,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_15,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_15,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_15,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_15,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_15,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_15,Minnesota Vikings,2012
+['John Sullivan'],NA,week_15,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_15,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_15,Minnesota Vikings,2012
+['Jared Allen'],Questionable: shoulder,week_16,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_16,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_16,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_16,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_16,Minnesota Vikings,2012
+['John Carlson'],NA,week_16,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_16,Minnesota Vikings,2012
+['Chris Cook'],Injured Reserve: arm,week_16,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_16,Minnesota Vikings,2012
+['Fred Evans'],NA,week_16,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_16,Minnesota Vikings,2012
+['Everson Griffen'],Probable: elbow,week_16,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_16,Minnesota Vikings,2012
+['Percy Harvin'],Injured Reserve: ankle,week_16,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_16,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_16,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_16,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_16,Minnesota Vikings,2012
+['George Johnson'],NA,week_16,Minnesota Vikings,2012
+['Matt Kalil'],Questionable: illness,week_16,Minnesota Vikings,2012
+['Chris Kluwe'],Questionable: left knee/right groin,week_16,Minnesota Vikings,2012
+['Phil Loadholt'],Questionable: knee,week_16,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_16,Minnesota Vikings,2012
+['Tyrone McKenzie'],NA,week_16,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_16,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: abdomen/groin,week_16,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_16,Minnesota Vikings,2012
+['Mistral Raymond'],Questionable: ankle,week_16,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_16,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_16,Minnesota Vikings,2012
+['Brian Robison'],Questionable: shoulder,week_16,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_16,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_16,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_16,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_16,Minnesota Vikings,2012
+['Marcus Sherels'],Probable: quadricep/elbow,week_16,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_16,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_16,Minnesota Vikings,2012
+['John Sullivan'],NA,week_16,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: knee,week_16,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_16,Minnesota Vikings,2012
+['Jared Allen'],Probable: shoulder/illness,week_17,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_17,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_17,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_17,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_17,Minnesota Vikings,2012
+['John Carlson'],NA,week_17,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_17,Minnesota Vikings,2012
+['Chris Cook'],NA,week_17,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_17,Minnesota Vikings,2012
+['Fred Evans'],NA,week_17,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_17,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_17,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_17,Minnesota Vikings,2012
+['Percy Harvin'],Injured Reserve: ankle,week_17,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_17,Minnesota Vikings,2012
+['A.J. Jefferson'],NA,week_17,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_17,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_17,Minnesota Vikings,2012
+['George Johnson'],NA,week_17,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_17,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee,week_17,Minnesota Vikings,2012
+['Phil Loadholt'],Probable: knee,week_17,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_17,Minnesota Vikings,2012
+['Tyrone McKenzie'],Questionable: shoulder,week_17,Minnesota Vikings,2012
+['Marvin Mitchell'],Probable: illness,week_17,Minnesota Vikings,2012
+['Adrian Peterson'],Probable: abdomen,week_17,Minnesota Vikings,2012
+['Christian Ponder'],NA,week_17,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_17,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_17,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_17,Minnesota Vikings,2012
+['Brian Robison'],Questionable: shoulder,week_17,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_17,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_17,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_17,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_17,Minnesota Vikings,2012
+['Marcus Sherels'],Probable: quadricep,week_17,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_17,Minnesota Vikings,2012
+['Harrison Smith'],NA,week_17,Minnesota Vikings,2012
+['John Sullivan'],NA,week_17,Minnesota Vikings,2012
+['Antoine Winfield'],Probable: knee/hand,week_17,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_17,Minnesota Vikings,2012
+['Jared Allen'],Probable: shoulder,week_18,Minnesota Vikings,2012
+['Matt Asiata'],NA,week_18,Minnesota Vikings,2012
+['Robert Blanton'],NA,week_18,Minnesota Vikings,2012
+['Jasper Brinkley'],NA,week_18,Minnesota Vikings,2012
+['Stephen Burton'],NA,week_18,Minnesota Vikings,2012
+['John Carlson'],NA,week_18,Minnesota Vikings,2012
+['Greg Childs'],Injured Reserve: knees,week_18,Minnesota Vikings,2012
+['Chris Cook'],NA,week_18,Minnesota Vikings,2012
+['Rhett Ellison'],NA,week_18,Minnesota Vikings,2012
+['Fred Evans'],NA,week_18,Minnesota Vikings,2012
+['Jerome Felton'],NA,week_18,Minnesota Vikings,2012
+['Everson Griffen'],NA,week_18,Minnesota Vikings,2012
+['Letroy Guion'],NA,week_18,Minnesota Vikings,2012
+['Percy Harvin'],Injured Reserve: ankle,week_18,Minnesota Vikings,2012
+['Erin Henderson'],NA,week_18,Minnesota Vikings,2012
+['A.J. Jefferson'],Probable: ankle,week_18,Minnesota Vikings,2012
+['Michael Jenkins'],NA,week_18,Minnesota Vikings,2012
+['Charlie Johnson'],NA,week_18,Minnesota Vikings,2012
+['George Johnson'],Probable: quadricep,week_18,Minnesota Vikings,2012
+['Matt Kalil'],NA,week_18,Minnesota Vikings,2012
+['Chris Kluwe'],Probable: left knee,week_18,Minnesota Vikings,2012
+['Phil Loadholt'],Probable: knee,week_18,Minnesota Vikings,2012
+['Demarcus Love'],Injured Reserve: pectoral,week_18,Minnesota Vikings,2012
+['Tyrone McKenzie'],Questionable: shoulder,week_18,Minnesota Vikings,2012
+['Marvin Mitchell'],NA,week_18,Minnesota Vikings,2012
+['Adrian Peterson'],Questionable: abdomen,week_18,Minnesota Vikings,2012
+['Christian Ponder'],Questionable: right elbow,week_18,Minnesota Vikings,2012
+['Mistral Raymond'],NA,week_18,Minnesota Vikings,2012
+"[""D'Aundre Reed""]",NA,week_18,Minnesota Vikings,2012
+['Josh Robinson'],NA,week_18,Minnesota Vikings,2012
+['Brian Robison'],Questionable: shoulder,week_18,Minnesota Vikings,2012
+['Kyle Rudolph'],NA,week_18,Minnesota Vikings,2012
+['Jamarca Sanford'],NA,week_18,Minnesota Vikings,2012
+['Geoff Schwartz'],NA,week_18,Minnesota Vikings,2012
+['Andrew Sendejo'],NA,week_18,Minnesota Vikings,2012
+['Marcus Sherels'],NA,week_18,Minnesota Vikings,2012
+['Jerome Simpson'],NA,week_18,Minnesota Vikings,2012
+['Harrison Smith'],Questionable: shoulder,week_18,Minnesota Vikings,2012
+['John Sullivan'],NA,week_18,Minnesota Vikings,2012
+['Antoine Winfield'],Questionable: hand,week_18,Minnesota Vikings,2012
+['Jarius Wright'],NA,week_18,Minnesota Vikings,2012

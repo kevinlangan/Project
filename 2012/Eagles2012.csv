@@ -1,0 +1,817 @@
+﻿name,injury,week,team,year
+['Nate Allen'],Probable: hamstring,week_1,Philadelphia Eagles,2012
+['Colt Anderson'],Out: knee,week_1,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_1,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_1,Philadelphia Eagles,2012
+['Jason Babin'],Probable: calf,week_1,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_1,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_1,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_1,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_1,Philadelphia Eagles,2012
+['Jamar Chaney'],Probable: hamstring,week_1,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_1,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_1,Philadelphia Eagles,2012
+['Riley Cooper'],Out: collarbone,week_1,Philadelphia Eagles,2012
+['Fletcher Cox'],Questionable: knee,week_1,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_1,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_1,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_1,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_1,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_1,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_1,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_1,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_1,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_1,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_1,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_1,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_1,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_1,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_1,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_1,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_1,Philadelphia Eagles,2012
+['Jason Kelce'],NA,week_1,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_1,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_1,Philadelphia Eagles,2012
+['Dion Lewis'],Probable: hamstring,week_1,Philadelphia Eagles,2012
+['Jeremy Maclin'],Probable: undisclosed,week_1,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_1,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_1,Philadelphia Eagles,2012
+['Casey Matthews'],Probable: ankle,week_1,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_1,Philadelphia Eagles,2012
+['Nate Menkin'],Probable: shoulder,week_1,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_1,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_1,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_1,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_1,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_1,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_1,Philadelphia Eagles,2012
+['David Sims'],NA,week_1,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_1,Philadelphia Eagles,2012
+['Cedric Thornton'],Probable: knee,week_1,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_1,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_1,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_2,Philadelphia Eagles,2012
+['Colt Anderson'],Probable: knee,week_2,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_2,Philadelphia Eagles,2012
+['Jason Avant'],Probable: wrist,week_2,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_2,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_2,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_2,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_2,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_2,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_2,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_2,Philadelphia Eagles,2012
+['Kurt Coleman'],Questionable: facial lacerations,week_2,Philadelphia Eagles,2012
+['Riley Cooper'],Doubtful: collarbone,week_2,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_2,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_2,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_2,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_2,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_2,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_2,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_2,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_2,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_2,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_2,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_2,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_2,Philadelphia Eagles,2012
+['DeSean Jackson'],Questionable: hamstring,week_2,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_2,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_2,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_2,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_2,Philadelphia Eagles,2012
+['Jason Kelce'],Questionable: knee,week_2,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_2,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_2,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_2,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: hip,week_2,Philadelphia Eagles,2012
+['Curtis Marsh'],Questionable: hamstring,week_2,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_2,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_2,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_2,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_2,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_2,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_2,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_2,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_2,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_2,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_2,Philadelphia Eagles,2012
+['David Sims'],NA,week_2,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_2,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_2,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_2,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_2,Philadelphia Eagles,2012
+['Nate Allen'],Probable: shoulder,week_3,Philadelphia Eagles,2012
+['Colt Anderson'],Questionable: knee,week_3,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_3,Philadelphia Eagles,2012
+['Jason Avant'],Probable: wrist,week_3,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_3,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_3,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_3,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_3,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_3,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_3,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_3,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_3,Philadelphia Eagles,2012
+['Riley Cooper'],Doubtful: collarbone,week_3,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_3,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_3,Philadelphia Eagles,2012
+['King Dunlap'],Out: hamstring,week_3,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_3,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_3,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_3,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_3,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_3,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_3,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_3,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_3,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_3,Philadelphia Eagles,2012
+['DeSean Jackson'],Probable: hamstring,week_3,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_3,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_3,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_3,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_3,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_3,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_3,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_3,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_3,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: hip,week_3,Philadelphia Eagles,2012
+['Curtis Marsh'],Probable: hamstring,week_3,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_3,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_3,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_3,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_3,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_3,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_3,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_3,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_3,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_3,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_3,Philadelphia Eagles,2012
+['David Sims'],NA,week_3,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_3,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_3,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_3,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_3,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_4,Philadelphia Eagles,2012
+['Colt Anderson'],Questionable: knee,week_4,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_4,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_4,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_4,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_4,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_4,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_4,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_4,Philadelphia Eagles,2012
+['Jamar Chaney'],Probable: knee,week_4,Philadelphia Eagles,2012
+['Trent Cole'],Probable: shoulder,week_4,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_4,Philadelphia Eagles,2012
+['Riley Cooper'],Questionable: collarbone,week_4,Philadelphia Eagles,2012
+['Fletcher Cox'],Questionable: migraine,week_4,Philadelphia Eagles,2012
+['Jon Dorenbos'],Doubtful: ankle,week_4,Philadelphia Eagles,2012
+['King Dunlap'],Questionable: hamstring,week_4,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_4,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_4,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_4,Philadelphia Eagles,2012
+['Brandon Graham'],Questionable: ankle,week_4,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_4,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_4,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_4,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_4,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_4,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_4,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_4,Philadelphia Eagles,2012
+['Damaris Johnson'],Probable: foot,week_4,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_4,Philadelphia Eagles,2012
+['Akeem Jordan'],Questionable: hamstring,week_4,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_4,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: bicep,week_4,Philadelphia Eagles,2012
+['Derek Landri'],Probable: knee,week_4,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_4,Philadelphia Eagles,2012
+['Jeremy Maclin'],Probable: hip,week_4,Philadelphia Eagles,2012
+['Curtis Marsh'],Questionable: hamstring,week_4,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_4,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_4,Philadelphia Eagles,2012
+['LeSean McCoy'],Probable: rib,week_4,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_4,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_4,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_4,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_4,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_4,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_4,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_4,Philadelphia Eagles,2012
+['David Sims'],NA,week_4,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_4,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_4,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_4,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_4,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_5,Philadelphia Eagles,2012
+['Colt Anderson'],Probable: knee,week_5,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_5,Philadelphia Eagles,2012
+['Jason Avant'],Probable: wrist,week_5,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_5,Philadelphia Eagles,2012
+['Demetress Bell'],Probable: thumb,week_5,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_5,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_5,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_5,Philadelphia Eagles,2012
+['Jamar Chaney'],Probable: knee,week_5,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_5,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_5,Philadelphia Eagles,2012
+['Riley Cooper'],Questionable: collarbone,week_5,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_5,Philadelphia Eagles,2012
+['Jon Dorenbos'],Probable: ankle,week_5,Philadelphia Eagles,2012
+['King Dunlap'],Probable: hamstring,week_5,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_5,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_5,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_5,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_5,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_5,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_5,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_5,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_5,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_5,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_5,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_5,Philadelphia Eagles,2012
+['Damaris Johnson'],Probable: foot,week_5,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_5,Philadelphia Eagles,2012
+['Akeem Jordan'],Questionable: hamstring,week_5,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_5,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: calf,week_5,Philadelphia Eagles,2012
+['Derek Landri'],Questionable: knee,week_5,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_5,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_5,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_5,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_5,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_5,Philadelphia Eagles,2012
+['LeSean McCoy'],Probable: knee,week_5,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_5,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_5,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_5,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_5,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_5,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_5,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_5,Philadelphia Eagles,2012
+['David Sims'],NA,week_5,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_5,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_5,Philadelphia Eagles,2012
+['Michael Vick'],Probable: knee,week_5,Philadelphia Eagles,2012
+['Danny Watkins'],Questionable: chest,week_5,Philadelphia Eagles,2012
+['Nate Allen'],Questionable: hamstring,week_6,Philadelphia Eagles,2012
+['Colt Anderson'],Probable: knee,week_6,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_6,Philadelphia Eagles,2012
+['Jason Avant'],Probable: wrist,week_6,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_6,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_6,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_6,Philadelphia Eagles,2012
+['Bryce Brown'],Probable: shoulder,week_6,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_6,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_6,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_6,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_6,Philadelphia Eagles,2012
+['Riley Cooper'],Probable: collarbone,week_6,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_6,Philadelphia Eagles,2012
+['Jon Dorenbos'],Probable: ankle,week_6,Philadelphia Eagles,2012
+['King Dunlap'],Probable: hamstring,week_6,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_6,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_6,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_6,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_6,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_6,Philadelphia Eagles,2012
+['Stanley Havili'],Probable: quadricep,week_6,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_6,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_6,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_6,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_6,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_6,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_6,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_6,Philadelphia Eagles,2012
+['Akeem Jordan'],Probable: hamstring,week_6,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_6,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: ankle,week_6,Philadelphia Eagles,2012
+['Derek Landri'],Probable: knee,week_6,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_6,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_6,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_6,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_6,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_6,Philadelphia Eagles,2012
+['LeSean McCoy'],Questionable: ankle,week_6,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_6,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_6,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_6,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_6,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_6,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_6,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_6,Philadelphia Eagles,2012
+['David Sims'],NA,week_6,Philadelphia Eagles,2012
+['Darryl Tapp'],Probable: foot,week_6,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_6,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_6,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_6,Philadelphia Eagles,2012
+['Nate Allen'],Probable: hamstring,week_8,Philadelphia Eagles,2012
+['Colt Anderson'],Probable: knee,week_8,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_8,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_8,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_8,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_8,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_8,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_8,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_8,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_8,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_8,Philadelphia Eagles,2012
+['Kurt Coleman'],Probable: shoulder,week_8,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_8,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_8,Philadelphia Eagles,2012
+['Jon Dorenbos'],Probable: ankle,week_8,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_8,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_8,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_8,Philadelphia Eagles,2012
+['Mardy Gilyard'],Questionable: hamstring,week_8,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_8,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_8,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_8,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_8,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_8,Philadelphia Eagles,2012
+['Phillip Hunt'],Probable: calf,week_8,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_8,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_8,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_8,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_8,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_8,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_8,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_8,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_8,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_8,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_8,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_8,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_8,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_8,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_8,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_8,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_8,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_8,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_8,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_8,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_8,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_8,Philadelphia Eagles,2012
+['David Sims'],NA,week_8,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_8,Philadelphia Eagles,2012
+['Cedric Thornton'],Probable: hand,week_8,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_8,Philadelphia Eagles,2012
+['Danny Watkins'],Probable: ankle,week_8,Philadelphia Eagles,2012
+['Nate Allen'],Questionable: hamstring,week_9,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_9,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_9,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_9,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_9,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_9,Philadelphia Eagles,2012
+['Brandon Boykin'],Probable: toe,week_9,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_9,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_9,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_9,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_9,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_9,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_9,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_9,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_9,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_9,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_9,Philadelphia Eagles,2012
+['Mike Gibson'],Injured Reserve: hip,week_9,Philadelphia Eagles,2012
+['Mardy Gilyard'],Out: hamstring,week_9,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_9,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_9,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_9,Philadelphia Eagles,2012
+['Todd Herremans'],NA,week_9,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_9,Philadelphia Eagles,2012
+['Phillip Hunt'],Probable: calf,week_9,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_9,Philadelphia Eagles,2012
+['Cullen Jenkins'],Questionable: knee,week_9,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_9,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_9,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_9,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_9,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: shoulder,week_9,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_9,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_9,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_9,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_9,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_9,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_9,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_9,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_9,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_9,Philadelphia Eagles,2012
+['Mike Patterson'],NA,week_9,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_9,Philadelphia Eagles,2012
+['Chris Polk'],NA,week_9,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_9,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_9,Philadelphia Eagles,2012
+['David Sims'],NA,week_9,Philadelphia Eagles,2012
+['Darryl Tapp'],Out: personal,week_9,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_9,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_9,Philadelphia Eagles,2012
+['Danny Watkins'],Out: ankle,week_9,Philadelphia Eagles,2012
+['Nate Allen'],Probable: hamstring,week_10,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_10,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_10,Philadelphia Eagles,2012
+['Jason Avant'],Probable: back,week_10,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_10,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_10,Philadelphia Eagles,2012
+['Brandon Boykin'],Probable: toe,week_10,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_10,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_10,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_10,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_10,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_10,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_10,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_10,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_10,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_10,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_10,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_10,Philadelphia Eagles,2012
+['Mardy Gilyard'],Out: hamstring,week_10,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_10,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_10,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_10,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_10,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_10,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_10,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_10,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_10,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_10,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_10,Philadelphia Eagles,2012
+['Akeem Jordan'],Probable: groin,week_10,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_10,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_10,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_10,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_10,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: neck,week_10,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_10,Philadelphia Eagles,2012
+['Evan Mathis'],Probable: knee,week_10,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_10,Philadelphia Eagles,2012
+['LeSean McCoy'],Questionable: illness,week_10,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_10,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_10,Philadelphia Eagles,2012
+['Mike Patterson'],NA,week_10,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_10,Philadelphia Eagles,2012
+['Chris Polk'],Questionable: toe,week_10,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_10,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_10,Philadelphia Eagles,2012
+['David Sims'],Questionable: foot,week_10,Philadelphia Eagles,2012
+['Darryl Tapp'],Questionable: personal,week_10,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_10,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_10,Philadelphia Eagles,2012
+['Danny Watkins'],Questionable: ankle,week_10,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_11,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_11,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_11,Philadelphia Eagles,2012
+['Jason Avant'],Out: hamstring,week_11,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_11,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_11,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_11,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_11,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_11,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_11,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_11,Philadelphia Eagles,2012
+['Kurt Coleman'],Probable: back,week_11,Philadelphia Eagles,2012
+['Riley Cooper'],Probable: knee,week_11,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_11,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_11,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_11,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_11,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_11,Philadelphia Eagles,2012
+['Mardy Gilyard'],Questionable: hamstring,week_11,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_11,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_11,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_11,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_11,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_11,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_11,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_11,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_11,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_11,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_11,Philadelphia Eagles,2012
+['Akeem Jordan'],Probable: thumb,week_11,Philadelphia Eagles,2012
+['Jason Kelce'],Out: knee,week_11,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: foot,week_11,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_11,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_11,Philadelphia Eagles,2012
+['Jeremy Maclin'],Probable: back,week_11,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_11,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_11,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_11,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_11,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_11,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_11,Philadelphia Eagles,2012
+['Mike Patterson'],NA,week_11,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_11,Philadelphia Eagles,2012
+['Chris Polk'],Out: toe,week_11,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_11,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_11,Philadelphia Eagles,2012
+['David Sims'],NA,week_11,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_11,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_11,Philadelphia Eagles,2012
+['Michael Vick'],Out: concussion,week_11,Philadelphia Eagles,2012
+['Danny Watkins'],Probable: ankle,week_11,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_12,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_12,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_12,Philadelphia Eagles,2012
+['Jason Avant'],Questionable: hamstring,week_12,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_12,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_12,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_12,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_12,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_12,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_12,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_12,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_12,Philadelphia Eagles,2012
+['Riley Cooper'],Questionable: knee,week_12,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_12,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_12,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_12,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_12,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_12,Philadelphia Eagles,2012
+['Mardy Gilyard'],Questionable: hamstring,week_12,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_12,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_12,Philadelphia Eagles,2012
+['Stanley Havili'],NA,week_12,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_12,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_12,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_12,Philadelphia Eagles,2012
+['DeSean Jackson'],NA,week_12,Philadelphia Eagles,2012
+['Cullen Jenkins'],Probable: foot,week_12,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_12,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_12,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_12,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_12,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_12,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_12,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_12,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_12,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_12,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_12,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_12,Philadelphia Eagles,2012
+['LeSean McCoy'],Doubtful: concussion,week_12,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_12,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_12,Philadelphia Eagles,2012
+['Mike Patterson'],NA,week_12,Philadelphia Eagles,2012
+['Jason Peters'],Out: Achilles,week_12,Philadelphia Eagles,2012
+['Chris Polk'],Questionable: toe,week_12,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_12,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_12,Philadelphia Eagles,2012
+['David Sims'],NA,week_12,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_12,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_12,Philadelphia Eagles,2012
+['Michael Vick'],Out: concussion,week_12,Philadelphia Eagles,2012
+['Danny Watkins'],Probable: ankle,week_12,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_13,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_13,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_13,Philadelphia Eagles,2012
+['Jason Avant'],Probable: hamstring,week_13,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_13,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_13,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_13,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_13,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_13,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_13,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_13,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_13,Philadelphia Eagles,2012
+['Riley Cooper'],Probable: knee,week_13,Philadelphia Eagles,2012
+['Fletcher Cox'],Questionable: back,week_13,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_13,Philadelphia Eagles,2012
+['King Dunlap'],Probable: knee,week_13,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_13,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_13,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_13,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_13,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_13,Philadelphia Eagles,2012
+['Stanley Havili'],Probable: ankle,week_13,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_13,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_13,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_13,Philadelphia Eagles,2012
+['DeSean Jackson'],Injured Reserve: ribs,week_13,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_13,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_13,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_13,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_13,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_13,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_13,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_13,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_13,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_13,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_13,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_13,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_13,Philadelphia Eagles,2012
+['LeSean McCoy'],Doubtful: concussion,week_13,Philadelphia Eagles,2012
+['Nate Menkin'],NA,week_13,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_13,Philadelphia Eagles,2012
+['Mike Patterson'],NA,week_13,Philadelphia Eagles,2012
+['Jason Peters'],Injured Reserve: Achilles,week_13,Philadelphia Eagles,2012
+['Chris Polk'],Questionable: toe,week_13,Philadelphia Eagles,2012
+['Dallas Reynolds'],Questionable: ankle,week_13,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_13,Philadelphia Eagles,2012
+['David Sims'],NA,week_13,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_13,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_13,Philadelphia Eagles,2012
+['Michael Vick'],Out: concussion,week_13,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_13,Philadelphia Eagles,2012
+['Nate Allen'],Probable: shoulder,week_14,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_14,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],Questionable: neck/thigh,week_14,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_14,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_14,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_14,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_14,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_14,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_14,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_14,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_14,Philadelphia Eagles,2012
+['Kurt Coleman'],Questionable: sternum,week_14,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_14,Philadelphia Eagles,2012
+['Fletcher Cox'],Questionable: tailbone,week_14,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_14,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_14,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_14,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_14,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_14,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_14,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_14,Philadelphia Eagles,2012
+['Stanley Havili'],Probable: ankle,week_14,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_14,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_14,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_14,Philadelphia Eagles,2012
+['DeSean Jackson'],Injured Reserve: ribs,week_14,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_14,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_14,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_14,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_14,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_14,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: shoulder,week_14,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_14,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_14,Philadelphia Eagles,2012
+['Jeremy Maclin'],NA,week_14,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_14,Philadelphia Eagles,2012
+['Evan Mathis'],NA,week_14,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_14,Philadelphia Eagles,2012
+['LeSean McCoy'],Doubtful: concussion,week_14,Philadelphia Eagles,2012
+['Nate Menkin'],Injured Reserve: throat,week_14,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_14,Philadelphia Eagles,2012
+['Mike Patterson'],Questionable: illness,week_14,Philadelphia Eagles,2012
+['Jason Peters'],Injured Reserve: Achilles,week_14,Philadelphia Eagles,2012
+['Chris Polk'],Questionable: toe,week_14,Philadelphia Eagles,2012
+['Dallas Reynolds'],Probable: ankle,week_14,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],Questionable: knee,week_14,Philadelphia Eagles,2012
+['David Sims'],NA,week_14,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_14,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_14,Philadelphia Eagles,2012
+['Michael Vick'],Doubtful: concussion,week_14,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_14,Philadelphia Eagles,2012
+['Nate Allen'],Probable: shoulder,week_15,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_15,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],Questionable: neck/quadricep,week_15,Philadelphia Eagles,2012
+['Jason Avant'],NA,week_15,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_15,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_15,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_15,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_15,Philadelphia Eagles,2012
+['Brent Celek'],Doubtful: concussion,week_15,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_15,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_15,Philadelphia Eagles,2012
+['Kurt Coleman'],Questionable: sternum,week_15,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_15,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_15,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_15,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_15,Philadelphia Eagles,2012
+['Nick Foles'],NA,week_15,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_15,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_15,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_15,Philadelphia Eagles,2012
+['Clay Harbor'],NA,week_15,Philadelphia Eagles,2012
+['Stanley Havili'],Probable: ankle,week_15,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_15,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_15,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_15,Philadelphia Eagles,2012
+['DeSean Jackson'],Injured Reserve: ribs,week_15,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_15,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_15,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_15,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_15,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_15,Philadelphia Eagles,2012
+['Mychal Kendricks'],Probable: shoulder,week_15,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_15,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_15,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: groin,week_15,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_15,Philadelphia Eagles,2012
+['Evan Mathis'],Questionable: ankle,week_15,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_15,Philadelphia Eagles,2012
+['LeSean McCoy'],Doubtful: concussion,week_15,Philadelphia Eagles,2012
+['Nate Menkin'],Injured Reserve: throat,week_15,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_15,Philadelphia Eagles,2012
+['Mike Patterson'],Doubtful: illness,week_15,Philadelphia Eagles,2012
+['Jason Peters'],Injured Reserve: Achilles,week_15,Philadelphia Eagles,2012
+['Chris Polk'],Doubtful: toe,week_15,Philadelphia Eagles,2012
+['Dallas Reynolds'],Probable: ankle,week_15,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_15,Philadelphia Eagles,2012
+['David Sims'],NA,week_15,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_15,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_15,Philadelphia Eagles,2012
+['Michael Vick'],Doubtful: concussion,week_15,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_15,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_16,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_16,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_16,Philadelphia Eagles,2012
+['Jason Avant'],Probable: hamstring,week_16,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_16,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_16,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_16,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_16,Philadelphia Eagles,2012
+['Brent Celek'],Probable: concussion,week_16,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_16,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_16,Philadelphia Eagles,2012
+['Kurt Coleman'],Probable: sternum,week_16,Philadelphia Eagles,2012
+['Riley Cooper'],Probable: knee,week_16,Philadelphia Eagles,2012
+['Fletcher Cox'],NA,week_16,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_16,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_16,Philadelphia Eagles,2012
+['Nick Foles'],Questionable: hand,week_16,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_16,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_16,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_16,Philadelphia Eagles,2012
+['Clay Harbor'],Injured Reserve: back,week_16,Philadelphia Eagles,2012
+['Stanley Havili'],Doubtful: hamstring,week_16,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_16,Philadelphia Eagles,2012
+['Brandon Hughes'],Questionable: chest,week_16,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_16,Philadelphia Eagles,2012
+['DeSean Jackson'],Injured Reserve: ribs,week_16,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_16,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_16,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_16,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_16,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_16,Philadelphia Eagles,2012
+['Mychal Kendricks'],NA,week_16,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_16,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_16,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: back,week_16,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_16,Philadelphia Eagles,2012
+['Evan Mathis'],Probable: ankle,week_16,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_16,Philadelphia Eagles,2012
+['LeSean McCoy'],Probable: concussion,week_16,Philadelphia Eagles,2012
+['Nate Menkin'],Injured Reserve: throat,week_16,Philadelphia Eagles,2012
+['Evan Moore'],NA,week_16,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_16,Philadelphia Eagles,2012
+['Jason Peters'],Injured Reserve: Achilles,week_16,Philadelphia Eagles,2012
+['Chris Polk'],Probable: toe,week_16,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_16,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_16,Philadelphia Eagles,2012
+['David Sims'],NA,week_16,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_16,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_16,Philadelphia Eagles,2012
+['Michael Vick'],Probable: concussion,week_16,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_16,Philadelphia Eagles,2012
+['Nate Allen'],NA,week_17,Philadelphia Eagles,2012
+['Colt Anderson'],NA,week_17,Philadelphia Eagles,2012
+['Nnamdi Asomugha'],NA,week_17,Philadelphia Eagles,2012
+['Jason Avant'],Probable: calf/hamstring,week_17,Philadelphia Eagles,2012
+['Jason Babin'],NA,week_17,Philadelphia Eagles,2012
+['Demetress Bell'],NA,week_17,Philadelphia Eagles,2012
+['Brandon Boykin'],NA,week_17,Philadelphia Eagles,2012
+['Bryce Brown'],NA,week_17,Philadelphia Eagles,2012
+['Brent Celek'],NA,week_17,Philadelphia Eagles,2012
+['Jamar Chaney'],NA,week_17,Philadelphia Eagles,2012
+['Trent Cole'],NA,week_17,Philadelphia Eagles,2012
+['Kurt Coleman'],NA,week_17,Philadelphia Eagles,2012
+['Riley Cooper'],NA,week_17,Philadelphia Eagles,2012
+['Fletcher Cox'],Doubtful: concussion,week_17,Philadelphia Eagles,2012
+['Jon Dorenbos'],NA,week_17,Philadelphia Eagles,2012
+['King Dunlap'],NA,week_17,Philadelphia Eagles,2012
+['Nick Foles'],Injured Reserve: hand,week_17,Philadelphia Eagles,2012
+['Mike Gibson'],NA,week_17,Philadelphia Eagles,2012
+['Mardy Gilyard'],NA,week_17,Philadelphia Eagles,2012
+['Brandon Graham'],NA,week_17,Philadelphia Eagles,2012
+['Clay Harbor'],Injured Reserve: back,week_17,Philadelphia Eagles,2012
+['Stanley Havili'],Probable: hamstring,week_17,Philadelphia Eagles,2012
+['Todd Herremans'],Injured Reserve: ankle,week_17,Philadelphia Eagles,2012
+['Brandon Hughes'],NA,week_17,Philadelphia Eagles,2012
+['Phillip Hunt'],NA,week_17,Philadelphia Eagles,2012
+['DeSean Jackson'],Injured Reserve: ribs,week_17,Philadelphia Eagles,2012
+['Cullen Jenkins'],NA,week_17,Philadelphia Eagles,2012
+['Damaris Johnson'],NA,week_17,Philadelphia Eagles,2012
+['Ronald Johnson'],Injured Reserve: ankle,week_17,Philadelphia Eagles,2012
+['Akeem Jordan'],NA,week_17,Philadelphia Eagles,2012
+['Jason Kelce'],Injured Reserve: knee,week_17,Philadelphia Eagles,2012
+['Mychal Kendricks'],Doubtful: concussion,week_17,Philadelphia Eagles,2012
+['Derek Landri'],NA,week_17,Philadelphia Eagles,2012
+['Dion Lewis'],NA,week_17,Philadelphia Eagles,2012
+['Jeremy Maclin'],Questionable: knee,week_17,Philadelphia Eagles,2012
+['Curtis Marsh'],NA,week_17,Philadelphia Eagles,2012
+['Evan Mathis'],Probable: ankle,week_17,Philadelphia Eagles,2012
+['Casey Matthews'],NA,week_17,Philadelphia Eagles,2012
+['LeSean McCoy'],NA,week_17,Philadelphia Eagles,2012
+['Nate Menkin'],Injured Reserve: throat,week_17,Philadelphia Eagles,2012
+['Evan Moore'],Questionable: back,week_17,Philadelphia Eagles,2012
+['Mike Patterson'],Out: illness,week_17,Philadelphia Eagles,2012
+['Jason Peters'],Injured Reserve: Achilles,week_17,Philadelphia Eagles,2012
+['Chris Polk'],Probable: toe,week_17,Philadelphia Eagles,2012
+['Dallas Reynolds'],NA,week_17,Philadelphia Eagles,2012
+['Dominique Rodgers-Cromartie'],NA,week_17,Philadelphia Eagles,2012
+['David Sims'],NA,week_17,Philadelphia Eagles,2012
+['Darryl Tapp'],NA,week_17,Philadelphia Eagles,2012
+['Cedric Thornton'],NA,week_17,Philadelphia Eagles,2012
+['Michael Vick'],NA,week_17,Philadelphia Eagles,2012
+['Danny Watkins'],NA,week_17,Philadelphia Eagles,2012

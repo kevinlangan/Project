@@ -1,0 +1,753 @@
+﻿name,injury,week,team,year
+['Jonathon Amaya'],NA,week_1,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_1,Miami Dolphins,2012
+['Davone Bess'],NA,week_1,Miami Dolphins,2012
+['Armon Binns'],NA,week_1,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_1,Miami Dolphins,2012
+['Reggie Bush'],NA,week_1,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_1,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_1,Miami Dolphins,2012
+['Charles Clay'],NA,week_1,Miami Dolphins,2012
+['Chris Clemons'],NA,week_1,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_1,Miami Dolphins,2012
+['Pat Devlin'],NA,week_1,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_1,Miami Dolphins,2012
+['Brandon Fields'],NA,week_1,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_1,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_1,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_1,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_1,Miami Dolphins,2012
+['Brian Hartline'],Probable: calf,week_1,Miami Dolphins,2012
+['Artis Hicks'],Injured Reserve: neck,week_1,Miami Dolphins,2012
+['John Jerry'],Questionable: ankle,week_1,Miami Dolphins,2012
+['Reshad Jones'],NA,week_1,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_1,Miami Dolphins,2012
+['Jake Long'],Questionable: knee,week_1,Miami Dolphins,2012
+['Richard Marshall'],NA,week_1,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_1,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_1,Miami Dolphins,2012
+['Tony McDaniel'],Probable: knee,week_1,Miami Dolphins,2012
+['Lamar Miller'],NA,week_1,Miami Dolphins,2012
+['Koa Misi'],Questionable: back,week_1,Miami Dolphins,2012
+['Marlon Moore'],NA,week_1,Miami Dolphins,2012
+['Matt Moore'],NA,week_1,Miami Dolphins,2012
+['Jared Odrick'],NA,week_1,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_1,Miami Dolphins,2012
+['Mike Rivera'],NA,week_1,Miami Dolphins,2012
+['Josh Samuda'],NA,week_1,Miami Dolphins,2012
+['Derrick Shelby'],Probable: shoulder,week_1,Miami Dolphins,2012
+['Sean Smith'],NA,week_1,Miami Dolphins,2012
+['Paul Soliai'],NA,week_1,Miami Dolphins,2012
+['Austin Spitler'],NA,week_1,Miami Dolphins,2012
+['Randy Starks'],NA,week_1,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_1,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_1,Miami Dolphins,2012
+['Jason Trusnik'],Questionable: ankle,week_1,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_1,Miami Dolphins,2012
+['Cameron Wake'],NA,week_1,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_1,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_2,Miami Dolphins,2012
+['Anthony Armstrong'],Questionable: hamstring,week_2,Miami Dolphins,2012
+['Davone Bess'],NA,week_2,Miami Dolphins,2012
+['Armon Binns'],NA,week_2,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_2,Miami Dolphins,2012
+['Reggie Bush'],NA,week_2,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_2,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_2,Miami Dolphins,2012
+['Charles Clay'],NA,week_2,Miami Dolphins,2012
+['Chris Clemons'],NA,week_2,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_2,Miami Dolphins,2012
+['Pat Devlin'],NA,week_2,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_2,Miami Dolphins,2012
+['Brandon Fields'],NA,week_2,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_2,Miami Dolphins,2012
+['Jonathan Freeny'],Questionable: hand,week_2,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_2,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_2,Miami Dolphins,2012
+['Brian Hartline'],NA,week_2,Miami Dolphins,2012
+['Artis Hicks'],Injured Reserve: neck,week_2,Miami Dolphins,2012
+['John Jerry'],NA,week_2,Miami Dolphins,2012
+['Reshad Jones'],NA,week_2,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_2,Miami Dolphins,2012
+['Jake Long'],NA,week_2,Miami Dolphins,2012
+['Richard Marshall'],NA,week_2,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_2,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_2,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_2,Miami Dolphins,2012
+['Lamar Miller'],NA,week_2,Miami Dolphins,2012
+['Koa Misi'],NA,week_2,Miami Dolphins,2012
+['Marlon Moore'],NA,week_2,Miami Dolphins,2012
+['Matt Moore'],NA,week_2,Miami Dolphins,2012
+['Jared Odrick'],NA,week_2,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_2,Miami Dolphins,2012
+['Mike Rivera'],NA,week_2,Miami Dolphins,2012
+['Josh Samuda'],NA,week_2,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_2,Miami Dolphins,2012
+['Sean Smith'],NA,week_2,Miami Dolphins,2012
+['Paul Soliai'],NA,week_2,Miami Dolphins,2012
+['Austin Spitler'],NA,week_2,Miami Dolphins,2012
+['Randy Starks'],Questionable: groin,week_2,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_2,Miami Dolphins,2012
+['Daniel Thomas'],Out: concussion,week_2,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_2,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_2,Miami Dolphins,2012
+['Cameron Wake'],NA,week_2,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_2,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_3,Miami Dolphins,2012
+['Anthony Armstrong'],Questionable: hamstring,week_3,Miami Dolphins,2012
+['Davone Bess'],NA,week_3,Miami Dolphins,2012
+['Armon Binns'],NA,week_3,Miami Dolphins,2012
+['Kevin Burnett'],Questionable: foot,week_3,Miami Dolphins,2012
+['Reggie Bush'],Questionable: knee,week_3,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_3,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_3,Miami Dolphins,2012
+['Charles Clay'],NA,week_3,Miami Dolphins,2012
+['Chris Clemons'],NA,week_3,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_3,Miami Dolphins,2012
+['Pat Devlin'],NA,week_3,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_3,Miami Dolphins,2012
+['Brandon Fields'],NA,week_3,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_3,Miami Dolphins,2012
+['Jonathan Freeny'],Probable: thumb,week_3,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_3,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_3,Miami Dolphins,2012
+['Brian Hartline'],NA,week_3,Miami Dolphins,2012
+['Artis Hicks'],Injured Reserve: neck,week_3,Miami Dolphins,2012
+['John Jerry'],NA,week_3,Miami Dolphins,2012
+['Reshad Jones'],NA,week_3,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_3,Miami Dolphins,2012
+['Jake Long'],NA,week_3,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_3,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_3,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_3,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_3,Miami Dolphins,2012
+['Lamar Miller'],Probable: ankle,week_3,Miami Dolphins,2012
+['Koa Misi'],Probable: foot,week_3,Miami Dolphins,2012
+['Marlon Moore'],Questionable: hamstring,week_3,Miami Dolphins,2012
+['Matt Moore'],NA,week_3,Miami Dolphins,2012
+['Jared Odrick'],Probable: thumb,week_3,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_3,Miami Dolphins,2012
+['Mike Rivera'],NA,week_3,Miami Dolphins,2012
+['Josh Samuda'],NA,week_3,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_3,Miami Dolphins,2012
+['Sean Smith'],NA,week_3,Miami Dolphins,2012
+['Paul Soliai'],NA,week_3,Miami Dolphins,2012
+['Austin Spitler'],NA,week_3,Miami Dolphins,2012
+['Randy Starks'],NA,week_3,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_3,Miami Dolphins,2012
+['Daniel Thomas'],Probable: concussion,week_3,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_3,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_3,Miami Dolphins,2012
+['Cameron Wake'],NA,week_3,Miami Dolphins,2012
+['Jimmy Wilson'],Probable: back,week_3,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_4,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_4,Miami Dolphins,2012
+['Davone Bess'],NA,week_4,Miami Dolphins,2012
+['Armon Binns'],NA,week_4,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_4,Miami Dolphins,2012
+['Reggie Bush'],Doubtful: knee,week_4,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_4,Miami Dolphins,2012
+['Nolan Carroll'],Questionable: Achilles,week_4,Miami Dolphins,2012
+['Charles Clay'],NA,week_4,Miami Dolphins,2012
+['Chris Clemons'],NA,week_4,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_4,Miami Dolphins,2012
+['Pat Devlin'],NA,week_4,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_4,Miami Dolphins,2012
+['Brandon Fields'],NA,week_4,Miami Dolphins,2012
+['Andre Fluellen'],Probable: hamstring,week_4,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_4,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_4,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_4,Miami Dolphins,2012
+['Brian Hartline'],NA,week_4,Miami Dolphins,2012
+['Artis Hicks'],NA,week_4,Miami Dolphins,2012
+['John Jerry'],NA,week_4,Miami Dolphins,2012
+['Reshad Jones'],NA,week_4,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_4,Miami Dolphins,2012
+['Jake Long'],NA,week_4,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_4,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_4,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_4,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_4,Miami Dolphins,2012
+['Lamar Miller'],NA,week_4,Miami Dolphins,2012
+['Koa Misi'],NA,week_4,Miami Dolphins,2012
+['Marlon Moore'],Questionable: hamstring,week_4,Miami Dolphins,2012
+['Matt Moore'],Probable: right finger,week_4,Miami Dolphins,2012
+['Jared Odrick'],NA,week_4,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_4,Miami Dolphins,2012
+['Mike Rivera'],Probable: groin,week_4,Miami Dolphins,2012
+['Josh Samuda'],NA,week_4,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_4,Miami Dolphins,2012
+['Sean Smith'],NA,week_4,Miami Dolphins,2012
+['Paul Soliai'],NA,week_4,Miami Dolphins,2012
+['Austin Spitler'],Questionable: groin,week_4,Miami Dolphins,2012
+['Randy Starks'],Questionable: knee,week_4,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_4,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_4,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_4,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_4,Miami Dolphins,2012
+['Cameron Wake'],NA,week_4,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_4,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_5,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_5,Miami Dolphins,2012
+['Davone Bess'],NA,week_5,Miami Dolphins,2012
+['Armon Binns'],NA,week_5,Miami Dolphins,2012
+['Kevin Burnett'],Questionable: foot,week_5,Miami Dolphins,2012
+['Reggie Bush'],Questionable: hip,week_5,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_5,Miami Dolphins,2012
+['Nolan Carroll'],Questionable: Achilles,week_5,Miami Dolphins,2012
+['Charles Clay'],NA,week_5,Miami Dolphins,2012
+['Chris Clemons'],NA,week_5,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_5,Miami Dolphins,2012
+['Pat Devlin'],NA,week_5,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_5,Miami Dolphins,2012
+['Brandon Fields'],NA,week_5,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_5,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_5,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_5,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_5,Miami Dolphins,2012
+['Brian Hartline'],NA,week_5,Miami Dolphins,2012
+['Artis Hicks'],NA,week_5,Miami Dolphins,2012
+['John Jerry'],NA,week_5,Miami Dolphins,2012
+['Reshad Jones'],NA,week_5,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_5,Miami Dolphins,2012
+['Jake Long'],NA,week_5,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_5,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_5,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_5,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_5,Miami Dolphins,2012
+['Lamar Miller'],NA,week_5,Miami Dolphins,2012
+['Koa Misi'],NA,week_5,Miami Dolphins,2012
+['Marlon Moore'],Probable: hamstring,week_5,Miami Dolphins,2012
+['Matt Moore'],Questionable: right finger,week_5,Miami Dolphins,2012
+['Jared Odrick'],NA,week_5,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_5,Miami Dolphins,2012
+['Mike Rivera'],NA,week_5,Miami Dolphins,2012
+['Josh Samuda'],NA,week_5,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_5,Miami Dolphins,2012
+['Sean Smith'],NA,week_5,Miami Dolphins,2012
+['Paul Soliai'],Probable: ankle,week_5,Miami Dolphins,2012
+['Austin Spitler'],Questionable: groin,week_5,Miami Dolphins,2012
+['Randy Starks'],NA,week_5,Miami Dolphins,2012
+['Ryan Tannehill'],Probable: right thumb,week_5,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_5,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_5,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_5,Miami Dolphins,2012
+['Cameron Wake'],NA,week_5,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_5,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_6,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_6,Miami Dolphins,2012
+['Davone Bess'],NA,week_6,Miami Dolphins,2012
+['Armon Binns'],NA,week_6,Miami Dolphins,2012
+['Kevin Burnett'],Questionable: ankle,week_6,Miami Dolphins,2012
+['Reggie Bush'],Questionable: knee,week_6,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_6,Miami Dolphins,2012
+['Nolan Carroll'],Questionable: head,week_6,Miami Dolphins,2012
+['Charles Clay'],NA,week_6,Miami Dolphins,2012
+['Chris Clemons'],NA,week_6,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_6,Miami Dolphins,2012
+['Pat Devlin'],NA,week_6,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_6,Miami Dolphins,2012
+['Brandon Fields'],NA,week_6,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_6,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_6,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_6,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_6,Miami Dolphins,2012
+['Brian Hartline'],Probable: quadricep,week_6,Miami Dolphins,2012
+['Artis Hicks'],NA,week_6,Miami Dolphins,2012
+['John Jerry'],NA,week_6,Miami Dolphins,2012
+['Reshad Jones'],Probable: back,week_6,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_6,Miami Dolphins,2012
+['Jake Long'],NA,week_6,Miami Dolphins,2012
+['Richard Marshall'],Doubtful: back,week_6,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_6,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_6,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_6,Miami Dolphins,2012
+['Lamar Miller'],NA,week_6,Miami Dolphins,2012
+['Koa Misi'],NA,week_6,Miami Dolphins,2012
+['Marlon Moore'],NA,week_6,Miami Dolphins,2012
+['Matt Moore'],NA,week_6,Miami Dolphins,2012
+['Jared Odrick'],NA,week_6,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_6,Miami Dolphins,2012
+['Mike Rivera'],NA,week_6,Miami Dolphins,2012
+['Josh Samuda'],NA,week_6,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_6,Miami Dolphins,2012
+['Sean Smith'],NA,week_6,Miami Dolphins,2012
+['Paul Soliai'],NA,week_6,Miami Dolphins,2012
+['Austin Spitler'],NA,week_6,Miami Dolphins,2012
+['Randy Starks'],NA,week_6,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_6,Miami Dolphins,2012
+['Daniel Thomas'],Doubtful: head,week_6,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_6,Miami Dolphins,2012
+['Olivier Vernon'],Questionable: ankle,week_6,Miami Dolphins,2012
+['Cameron Wake'],NA,week_6,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_6,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_8,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_8,Miami Dolphins,2012
+['Davone Bess'],NA,week_8,Miami Dolphins,2012
+['Armon Binns'],NA,week_8,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_8,Miami Dolphins,2012
+['Reggie Bush'],NA,week_8,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_8,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_8,Miami Dolphins,2012
+['Charles Clay'],NA,week_8,Miami Dolphins,2012
+['Chris Clemons'],NA,week_8,Miami Dolphins,2012
+['Karlos Dansby'],NA,week_8,Miami Dolphins,2012
+['Pat Devlin'],NA,week_8,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_8,Miami Dolphins,2012
+['Brandon Fields'],NA,week_8,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_8,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_8,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_8,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_8,Miami Dolphins,2012
+['Brian Hartline'],NA,week_8,Miami Dolphins,2012
+['Artis Hicks'],NA,week_8,Miami Dolphins,2012
+['John Jerry'],NA,week_8,Miami Dolphins,2012
+['Reshad Jones'],Probable: foot,week_8,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_8,Miami Dolphins,2012
+['Jake Long'],NA,week_8,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_8,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_8,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_8,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_8,Miami Dolphins,2012
+['Lamar Miller'],NA,week_8,Miami Dolphins,2012
+['Koa Misi'],Probable: hamstring,week_8,Miami Dolphins,2012
+['Marlon Moore'],NA,week_8,Miami Dolphins,2012
+['Matt Moore'],NA,week_8,Miami Dolphins,2012
+['Jared Odrick'],NA,week_8,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_8,Miami Dolphins,2012
+['Mike Rivera'],NA,week_8,Miami Dolphins,2012
+['Josh Samuda'],NA,week_8,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_8,Miami Dolphins,2012
+['Sean Smith'],NA,week_8,Miami Dolphins,2012
+['Paul Soliai'],NA,week_8,Miami Dolphins,2012
+['Austin Spitler'],NA,week_8,Miami Dolphins,2012
+['Randy Starks'],NA,week_8,Miami Dolphins,2012
+['Ryan Tannehill'],Questionable: knee/quadriceps,week_8,Miami Dolphins,2012
+['Daniel Thomas'],Probable: concussion,week_8,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_8,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_8,Miami Dolphins,2012
+['Cameron Wake'],Questionable: neck,week_8,Miami Dolphins,2012
+['Jimmy Wilson'],Questionable: ankle,week_8,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_9,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_9,Miami Dolphins,2012
+['Davone Bess'],NA,week_9,Miami Dolphins,2012
+['Armon Binns'],NA,week_9,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_9,Miami Dolphins,2012
+['Reggie Bush'],NA,week_9,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_9,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_9,Miami Dolphins,2012
+['Charles Clay'],NA,week_9,Miami Dolphins,2012
+['Chris Clemons'],NA,week_9,Miami Dolphins,2012
+['Karlos Dansby'],Questionable: bicep,week_9,Miami Dolphins,2012
+['Pat Devlin'],NA,week_9,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_9,Miami Dolphins,2012
+['Brandon Fields'],NA,week_9,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_9,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_9,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_9,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_9,Miami Dolphins,2012
+['Brian Hartline'],Questionable: groin,week_9,Miami Dolphins,2012
+['Artis Hicks'],NA,week_9,Miami Dolphins,2012
+['John Jerry'],NA,week_9,Miami Dolphins,2012
+['Reshad Jones'],NA,week_9,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_9,Miami Dolphins,2012
+['Jake Long'],NA,week_9,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_9,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_9,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_9,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_9,Miami Dolphins,2012
+['Lamar Miller'],NA,week_9,Miami Dolphins,2012
+['Koa Misi'],NA,week_9,Miami Dolphins,2012
+['Marlon Moore'],NA,week_9,Miami Dolphins,2012
+['Matt Moore'],Probable: right calf,week_9,Miami Dolphins,2012
+['Jared Odrick'],NA,week_9,Miami Dolphins,2012
+['Mike Pouncey'],Questionable: Achilles,week_9,Miami Dolphins,2012
+['Mike Rivera'],NA,week_9,Miami Dolphins,2012
+['Josh Samuda'],NA,week_9,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_9,Miami Dolphins,2012
+['Sean Smith'],NA,week_9,Miami Dolphins,2012
+['Paul Soliai'],Questionable: undisclosed,week_9,Miami Dolphins,2012
+['Austin Spitler'],NA,week_9,Miami Dolphins,2012
+['Randy Starks'],NA,week_9,Miami Dolphins,2012
+['Ryan Tannehill'],Probable: knee/quadriceps,week_9,Miami Dolphins,2012
+['Daniel Thomas'],Probable: elbow,week_9,Miami Dolphins,2012
+['Jason Trusnik'],Probable: forearm,week_9,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_9,Miami Dolphins,2012
+['Cameron Wake'],NA,week_9,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_9,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_10,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_10,Miami Dolphins,2012
+['Davone Bess'],NA,week_10,Miami Dolphins,2012
+['Armon Binns'],NA,week_10,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_10,Miami Dolphins,2012
+['Reggie Bush'],NA,week_10,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_10,Miami Dolphins,2012
+['Nolan Carroll'],Probable: knee,week_10,Miami Dolphins,2012
+['Charles Clay'],NA,week_10,Miami Dolphins,2012
+['Chris Clemons'],NA,week_10,Miami Dolphins,2012
+['Karlos Dansby'],Probable: bicep,week_10,Miami Dolphins,2012
+['Pat Devlin'],NA,week_10,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_10,Miami Dolphins,2012
+['Brandon Fields'],NA,week_10,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_10,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_10,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_10,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_10,Miami Dolphins,2012
+['Brian Hartline'],Probable: hamstring,week_10,Miami Dolphins,2012
+['Artis Hicks'],NA,week_10,Miami Dolphins,2012
+['John Jerry'],NA,week_10,Miami Dolphins,2012
+['Reshad Jones'],NA,week_10,Miami Dolphins,2012
+['Jorvorskie Lane'],Probable: knee,week_10,Miami Dolphins,2012
+['Jake Long'],Probable: back,week_10,Miami Dolphins,2012
+['Richard Marshall'],Questionable: back,week_10,Miami Dolphins,2012
+['Jeron Mastrud'],Questionable: hamstring,week_10,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_10,Miami Dolphins,2012
+['Tony McDaniel'],Questionable: knee,week_10,Miami Dolphins,2012
+['Lamar Miller'],NA,week_10,Miami Dolphins,2012
+['Koa Misi'],Questionable: calf,week_10,Miami Dolphins,2012
+['Marlon Moore'],NA,week_10,Miami Dolphins,2012
+['Matt Moore'],NA,week_10,Miami Dolphins,2012
+['Jared Odrick'],Probable: elbow,week_10,Miami Dolphins,2012
+['Mike Pouncey'],Questionable: knee/ankle,week_10,Miami Dolphins,2012
+['Mike Rivera'],NA,week_10,Miami Dolphins,2012
+['Josh Samuda'],NA,week_10,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_10,Miami Dolphins,2012
+['Sean Smith'],NA,week_10,Miami Dolphins,2012
+['Paul Soliai'],Questionable: ankle,week_10,Miami Dolphins,2012
+['Austin Spitler'],NA,week_10,Miami Dolphins,2012
+['Randy Starks'],NA,week_10,Miami Dolphins,2012
+['Ryan Tannehill'],Probable: knee,week_10,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_10,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_10,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_10,Miami Dolphins,2012
+['Cameron Wake'],NA,week_10,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_10,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_11,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_11,Miami Dolphins,2012
+['Davone Bess'],Questionable: personal,week_11,Miami Dolphins,2012
+['Armon Binns'],NA,week_11,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_11,Miami Dolphins,2012
+['Reggie Bush'],NA,week_11,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_11,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_11,Miami Dolphins,2012
+['Charles Clay'],NA,week_11,Miami Dolphins,2012
+['Chris Clemons'],NA,week_11,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_11,Miami Dolphins,2012
+['Pat Devlin'],NA,week_11,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_11,Miami Dolphins,2012
+['Brandon Fields'],NA,week_11,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_11,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_11,Miami Dolphins,2012
+['Jabar Gaffney'],Probable: knee,week_11,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_11,Miami Dolphins,2012
+['Brian Hartline'],Probable: knee,week_11,Miami Dolphins,2012
+['Artis Hicks'],NA,week_11,Miami Dolphins,2012
+['John Jerry'],NA,week_11,Miami Dolphins,2012
+['Reshad Jones'],NA,week_11,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_11,Miami Dolphins,2012
+['Jake Long'],NA,week_11,Miami Dolphins,2012
+['Richard Marshall'],NA,week_11,Miami Dolphins,2012
+['Jeron Mastrud'],Questionable: hamstring,week_11,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_11,Miami Dolphins,2012
+['Tony McDaniel'],Probable: knee,week_11,Miami Dolphins,2012
+['Lamar Miller'],NA,week_11,Miami Dolphins,2012
+['Koa Misi'],Probable: calf,week_11,Miami Dolphins,2012
+['Marlon Moore'],Probable: neck,week_11,Miami Dolphins,2012
+['Matt Moore'],NA,week_11,Miami Dolphins,2012
+['Jared Odrick'],NA,week_11,Miami Dolphins,2012
+['Mike Pouncey'],Probable: knee/ankle,week_11,Miami Dolphins,2012
+['Mike Rivera'],NA,week_11,Miami Dolphins,2012
+['Josh Samuda'],NA,week_11,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_11,Miami Dolphins,2012
+['Sean Smith'],NA,week_11,Miami Dolphins,2012
+['Paul Soliai'],Probable: ankle/elbow,week_11,Miami Dolphins,2012
+['Austin Spitler'],NA,week_11,Miami Dolphins,2012
+['Randy Starks'],NA,week_11,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_11,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_11,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_11,Miami Dolphins,2012
+['Olivier Vernon'],Probable: knee,week_11,Miami Dolphins,2012
+['Cameron Wake'],NA,week_11,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_11,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_12,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_12,Miami Dolphins,2012
+['Davone Bess'],NA,week_12,Miami Dolphins,2012
+['Armon Binns'],NA,week_12,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_12,Miami Dolphins,2012
+['Reggie Bush'],NA,week_12,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_12,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_12,Miami Dolphins,2012
+['Charles Clay'],NA,week_12,Miami Dolphins,2012
+['Chris Clemons'],NA,week_12,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_12,Miami Dolphins,2012
+['Pat Devlin'],NA,week_12,Miami Dolphins,2012
+['Anthony Fasano'],Probable: biceps,week_12,Miami Dolphins,2012
+['Brandon Fields'],Probable: left knee,week_12,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_12,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_12,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_12,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_12,Miami Dolphins,2012
+['Brian Hartline'],NA,week_12,Miami Dolphins,2012
+['Artis Hicks'],NA,week_12,Miami Dolphins,2012
+['John Jerry'],NA,week_12,Miami Dolphins,2012
+['Reshad Jones'],NA,week_12,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_12,Miami Dolphins,2012
+['Jake Long'],NA,week_12,Miami Dolphins,2012
+['Richard Marshall'],NA,week_12,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_12,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_12,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_12,Miami Dolphins,2012
+['Lamar Miller'],NA,week_12,Miami Dolphins,2012
+['Koa Misi'],NA,week_12,Miami Dolphins,2012
+['Marlon Moore'],NA,week_12,Miami Dolphins,2012
+['Matt Moore'],NA,week_12,Miami Dolphins,2012
+['Jared Odrick'],NA,week_12,Miami Dolphins,2012
+['Mike Pouncey'],Probable: ankle,week_12,Miami Dolphins,2012
+['Mike Rivera'],NA,week_12,Miami Dolphins,2012
+['Josh Samuda'],NA,week_12,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_12,Miami Dolphins,2012
+['Sean Smith'],NA,week_12,Miami Dolphins,2012
+['Paul Soliai'],NA,week_12,Miami Dolphins,2012
+['Austin Spitler'],Questionable: ankle,week_12,Miami Dolphins,2012
+['Randy Starks'],NA,week_12,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_12,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_12,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_12,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_12,Miami Dolphins,2012
+['Cameron Wake'],NA,week_12,Miami Dolphins,2012
+['Jimmy Wilson'],Probable: ribs,week_12,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_13,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_13,Miami Dolphins,2012
+['Davone Bess'],Probable: wrist,week_13,Miami Dolphins,2012
+['Armon Binns'],NA,week_13,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_13,Miami Dolphins,2012
+['Reggie Bush'],NA,week_13,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_13,Miami Dolphins,2012
+['Nolan Carroll'],Probable: neck,week_13,Miami Dolphins,2012
+['Charles Clay'],NA,week_13,Miami Dolphins,2012
+['Chris Clemons'],NA,week_13,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_13,Miami Dolphins,2012
+['Pat Devlin'],Probable: hip,week_13,Miami Dolphins,2012
+['Anthony Fasano'],Questionable: hiip,week_13,Miami Dolphins,2012
+['Brandon Fields'],NA,week_13,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_13,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_13,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_13,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_13,Miami Dolphins,2012
+['Brian Hartline'],NA,week_13,Miami Dolphins,2012
+['Artis Hicks'],NA,week_13,Miami Dolphins,2012
+['John Jerry'],NA,week_13,Miami Dolphins,2012
+['Reshad Jones'],Probable: thumb,week_13,Miami Dolphins,2012
+['Jorvorskie Lane'],Questionable: knee,week_13,Miami Dolphins,2012
+['Jake Long'],Questionable: triceps,week_13,Miami Dolphins,2012
+['Richard Marshall'],Injured Reserve: back,week_13,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_13,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_13,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_13,Miami Dolphins,2012
+['Lamar Miller'],NA,week_13,Miami Dolphins,2012
+['Koa Misi'],NA,week_13,Miami Dolphins,2012
+['Marlon Moore'],NA,week_13,Miami Dolphins,2012
+['Matt Moore'],NA,week_13,Miami Dolphins,2012
+['Jared Odrick'],NA,week_13,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_13,Miami Dolphins,2012
+['Mike Rivera'],NA,week_13,Miami Dolphins,2012
+['Josh Samuda'],NA,week_13,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_13,Miami Dolphins,2012
+['Sean Smith'],NA,week_13,Miami Dolphins,2012
+['Paul Soliai'],NA,week_13,Miami Dolphins,2012
+['Austin Spitler'],Questionable: ankle,week_13,Miami Dolphins,2012
+['Randy Starks'],NA,week_13,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_13,Miami Dolphins,2012
+['Daniel Thomas'],Probable: knee/ankle,week_13,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_13,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_13,Miami Dolphins,2012
+['Cameron Wake'],NA,week_13,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_13,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_14,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_14,Miami Dolphins,2012
+['Davone Bess'],NA,week_14,Miami Dolphins,2012
+['Armon Binns'],NA,week_14,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_14,Miami Dolphins,2012
+['Reggie Bush'],NA,week_14,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_14,Miami Dolphins,2012
+['Nolan Carroll'],NA,week_14,Miami Dolphins,2012
+['Charles Clay'],Questionable: ribs,week_14,Miami Dolphins,2012
+['Chris Clemons'],NA,week_14,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_14,Miami Dolphins,2012
+['Pat Devlin'],NA,week_14,Miami Dolphins,2012
+['Anthony Fasano'],Probable: hip,week_14,Miami Dolphins,2012
+['Brandon Fields'],Questionable: knees,week_14,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_14,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_14,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_14,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_14,Miami Dolphins,2012
+['Brian Hartline'],NA,week_14,Miami Dolphins,2012
+['Artis Hicks'],NA,week_14,Miami Dolphins,2012
+['John Jerry'],NA,week_14,Miami Dolphins,2012
+['Reshad Jones'],NA,week_14,Miami Dolphins,2012
+['Jorvorskie Lane'],Probable: knee,week_14,Miami Dolphins,2012
+['Jake Long'],Injured Reserve: triceps,week_14,Miami Dolphins,2012
+['Richard Marshall'],Injured Reserve: back,week_14,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_14,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_14,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_14,Miami Dolphins,2012
+['Lamar Miller'],NA,week_14,Miami Dolphins,2012
+['Koa Misi'],Probable: finger,week_14,Miami Dolphins,2012
+['Marlon Moore'],NA,week_14,Miami Dolphins,2012
+['Matt Moore'],NA,week_14,Miami Dolphins,2012
+['Jared Odrick'],NA,week_14,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_14,Miami Dolphins,2012
+['Mike Rivera'],NA,week_14,Miami Dolphins,2012
+['Josh Samuda'],NA,week_14,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_14,Miami Dolphins,2012
+['Sean Smith'],NA,week_14,Miami Dolphins,2012
+['Paul Soliai'],NA,week_14,Miami Dolphins,2012
+['Austin Spitler'],Probable: ankle,week_14,Miami Dolphins,2012
+['Randy Starks'],NA,week_14,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_14,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_14,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_14,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_14,Miami Dolphins,2012
+['Cameron Wake'],NA,week_14,Miami Dolphins,2012
+['Jimmy Wilson'],Questionable: hip,week_14,Miami Dolphins,2012
+['Jonathon Amaya'],Probable: neck,week_15,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_15,Miami Dolphins,2012
+['Davone Bess'],Questionable: back,week_15,Miami Dolphins,2012
+['Armon Binns'],NA,week_15,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_15,Miami Dolphins,2012
+['Reggie Bush'],NA,week_15,Miami Dolphins,2012
+['Dan Carpenter'],NA,week_15,Miami Dolphins,2012
+['Nolan Carroll'],Questionable: undisclosed,week_15,Miami Dolphins,2012
+['Charles Clay'],NA,week_15,Miami Dolphins,2012
+['Chris Clemons'],Questionable: ribs,week_15,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_15,Miami Dolphins,2012
+['Pat Devlin'],NA,week_15,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_15,Miami Dolphins,2012
+['Brandon Fields'],Probable: right knee,week_15,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_15,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_15,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_15,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_15,Miami Dolphins,2012
+['Brian Hartline'],Probable: glute,week_15,Miami Dolphins,2012
+['Artis Hicks'],NA,week_15,Miami Dolphins,2012
+['John Jerry'],NA,week_15,Miami Dolphins,2012
+['Reshad Jones'],NA,week_15,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_15,Miami Dolphins,2012
+['Jake Long'],Injured Reserve: triceps,week_15,Miami Dolphins,2012
+['Richard Marshall'],Injured Reserve: back,week_15,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_15,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_15,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_15,Miami Dolphins,2012
+['Lamar Miller'],NA,week_15,Miami Dolphins,2012
+['Koa Misi'],Questionable: ankle,week_15,Miami Dolphins,2012
+['Marlon Moore'],NA,week_15,Miami Dolphins,2012
+['Matt Moore'],NA,week_15,Miami Dolphins,2012
+['Jared Odrick'],NA,week_15,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_15,Miami Dolphins,2012
+['Mike Rivera'],NA,week_15,Miami Dolphins,2012
+['Josh Samuda'],NA,week_15,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_15,Miami Dolphins,2012
+['Sean Smith'],NA,week_15,Miami Dolphins,2012
+['Paul Soliai'],NA,week_15,Miami Dolphins,2012
+['Austin Spitler'],Probable: ankle,week_15,Miami Dolphins,2012
+['Randy Starks'],NA,week_15,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_15,Miami Dolphins,2012
+['Daniel Thomas'],NA,week_15,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_15,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_15,Miami Dolphins,2012
+['Cameron Wake'],NA,week_15,Miami Dolphins,2012
+['Jimmy Wilson'],Questionable: hip,week_15,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_16,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_16,Miami Dolphins,2012
+['Davone Bess'],Questionable: back,week_16,Miami Dolphins,2012
+['Armon Binns'],Probable: ankle,week_16,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_16,Miami Dolphins,2012
+['Reggie Bush'],NA,week_16,Miami Dolphins,2012
+['Dan Carpenter'],Injured Reserve: groin,week_16,Miami Dolphins,2012
+['Nolan Carroll'],Doubtful: knee,week_16,Miami Dolphins,2012
+['Charles Clay'],Injured Reserve: knee,week_16,Miami Dolphins,2012
+['Chris Clemons'],Probable: neck/ribs,week_16,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_16,Miami Dolphins,2012
+['Pat Devlin'],NA,week_16,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_16,Miami Dolphins,2012
+['Brandon Fields'],NA,week_16,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_16,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_16,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_16,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_16,Miami Dolphins,2012
+['Brian Hartline'],Questionable: back,week_16,Miami Dolphins,2012
+['Artis Hicks'],NA,week_16,Miami Dolphins,2012
+['John Jerry'],NA,week_16,Miami Dolphins,2012
+['Reshad Jones'],NA,week_16,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_16,Miami Dolphins,2012
+['Jake Long'],Injured Reserve: triceps,week_16,Miami Dolphins,2012
+['Richard Marshall'],Injured Reserve: back,week_16,Miami Dolphins,2012
+['Jeron Mastrud'],Questionable: hamstring,week_16,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_16,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_16,Miami Dolphins,2012
+['Lamar Miller'],NA,week_16,Miami Dolphins,2012
+['Koa Misi'],Questionable: ankle,week_16,Miami Dolphins,2012
+['Marlon Moore'],NA,week_16,Miami Dolphins,2012
+['Matt Moore'],NA,week_16,Miami Dolphins,2012
+['Jared Odrick'],NA,week_16,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_16,Miami Dolphins,2012
+['Mike Rivera'],NA,week_16,Miami Dolphins,2012
+['Josh Samuda'],NA,week_16,Miami Dolphins,2012
+['Derrick Shelby'],Probable: groin,week_16,Miami Dolphins,2012
+['Sean Smith'],NA,week_16,Miami Dolphins,2012
+['Paul Soliai'],NA,week_16,Miami Dolphins,2012
+['Austin Spitler'],NA,week_16,Miami Dolphins,2012
+['Randy Starks'],NA,week_16,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_16,Miami Dolphins,2012
+['Daniel Thomas'],Injured Reserve: knee,week_16,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_16,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_16,Miami Dolphins,2012
+['Cameron Wake'],NA,week_16,Miami Dolphins,2012
+['Jimmy Wilson'],Probable: hip,week_16,Miami Dolphins,2012
+['Jonathon Amaya'],NA,week_17,Miami Dolphins,2012
+['Anthony Armstrong'],NA,week_17,Miami Dolphins,2012
+['Davone Bess'],Questionable: back,week_17,Miami Dolphins,2012
+['Armon Binns'],Probable: groin,week_17,Miami Dolphins,2012
+['Kevin Burnett'],NA,week_17,Miami Dolphins,2012
+['Reggie Bush'],NA,week_17,Miami Dolphins,2012
+['Dan Carpenter'],Injured Reserve: groin,week_17,Miami Dolphins,2012
+['Nolan Carroll'],Questionable: knee,week_17,Miami Dolphins,2012
+['Charles Clay'],Injured Reserve: knee,week_17,Miami Dolphins,2012
+['Chris Clemons'],Questionable: ankle,week_17,Miami Dolphins,2012
+['Karlos Dansby'],Probable: biceps,week_17,Miami Dolphins,2012
+['Pat Devlin'],NA,week_17,Miami Dolphins,2012
+['Anthony Fasano'],NA,week_17,Miami Dolphins,2012
+['Brandon Fields'],NA,week_17,Miami Dolphins,2012
+['Andre Fluellen'],NA,week_17,Miami Dolphins,2012
+['Jonathan Freeny'],NA,week_17,Miami Dolphins,2012
+['Jabar Gaffney'],NA,week_17,Miami Dolphins,2012
+['Jonas Gray'],Physically Unable to Perform: knee,week_17,Miami Dolphins,2012
+['Brian Hartline'],Probable: back,week_17,Miami Dolphins,2012
+['Artis Hicks'],NA,week_17,Miami Dolphins,2012
+['John Jerry'],NA,week_17,Miami Dolphins,2012
+['Reshad Jones'],Questionable: hip,week_17,Miami Dolphins,2012
+['Jorvorskie Lane'],NA,week_17,Miami Dolphins,2012
+['Jake Long'],Injured Reserve: triceps,week_17,Miami Dolphins,2012
+['Richard Marshall'],Injured Reserve: back,week_17,Miami Dolphins,2012
+['Jeron Mastrud'],NA,week_17,Miami Dolphins,2012
+['Kelcie McCray'],Injured Reserve: foot,week_17,Miami Dolphins,2012
+['Tony McDaniel'],NA,week_17,Miami Dolphins,2012
+['Lamar Miller'],NA,week_17,Miami Dolphins,2012
+['Koa Misi'],Questionable: ankle,week_17,Miami Dolphins,2012
+['Marlon Moore'],NA,week_17,Miami Dolphins,2012
+['Matt Moore'],NA,week_17,Miami Dolphins,2012
+['Jared Odrick'],NA,week_17,Miami Dolphins,2012
+['Mike Pouncey'],NA,week_17,Miami Dolphins,2012
+['Mike Rivera'],NA,week_17,Miami Dolphins,2012
+['Josh Samuda'],Questionable: shoulder,week_17,Miami Dolphins,2012
+['Derrick Shelby'],NA,week_17,Miami Dolphins,2012
+['Sean Smith'],Questionable: knee,week_17,Miami Dolphins,2012
+['Paul Soliai'],NA,week_17,Miami Dolphins,2012
+['Austin Spitler'],NA,week_17,Miami Dolphins,2012
+['Randy Starks'],NA,week_17,Miami Dolphins,2012
+['Ryan Tannehill'],NA,week_17,Miami Dolphins,2012
+['Daniel Thomas'],Injured Reserve: knee,week_17,Miami Dolphins,2012
+['Jason Trusnik'],NA,week_17,Miami Dolphins,2012
+['Olivier Vernon'],NA,week_17,Miami Dolphins,2012
+['Cameron Wake'],NA,week_17,Miami Dolphins,2012
+['Jimmy Wilson'],NA,week_17,Miami Dolphins,2012

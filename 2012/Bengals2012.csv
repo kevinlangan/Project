@@ -1,0 +1,885 @@
+﻿name,injury,week,team,year
+['Jason Allen'],Questionable: quad,week_1,Cincinnati Bengals,2012
+['Jamaal Anderson'],NA,week_1,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_1,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_1,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_1,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_1,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_1,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_1,Cincinnati Bengals,2012
+['Andy Dalton'],Probable: right arm,week_1,Cincinnati Bengals,2012
+['Carlos Dunlap'],Doubtful: knee,week_1,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_1,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_1,Cincinnati Bengals,2012
+['Robert Geathers'],Probable: knee,week_1,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_1,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_1,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_1,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_1,Cincinnati Bengals,2012
+['Jermaine Gresham'],Probable: knee,week_1,Cincinnati Bengals,2012
+['Leon Hall'],Questionable: Achilles,week_1,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_1,Cincinnati Bengals,2012
+['Thomas Howard'],NA,week_1,Cincinnati Bengals,2012
+['George Iloka'],Questionable: ankle,week_1,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_1,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_1,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_1,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Out: knee,week_1,Cincinnati Bengals,2012
+['Donald Lee'],Questionable: thigh,week_1,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_1,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_1,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_1,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_1,Cincinnati Bengals,2012
+['Dontay Moch'],NA,week_1,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_1,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_1,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_1,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_1,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_1,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_1,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_1,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_1,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_1,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_1,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_1,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_1,Cincinnati Bengals,2012
+['Bernard Scott'],Out: hand,week_1,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_1,Cincinnati Bengals,2012
+['Dan Skuta'],Probable: head,week_1,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_1,Cincinnati Bengals,2012
+['Devon Still'],NA,week_1,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_1,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_1,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_1,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: quadriceps,week_2,Cincinnati Bengals,2012
+['Jamaal Anderson'],NA,week_2,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_2,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_2,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_2,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_2,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_2,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_2,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_2,Cincinnati Bengals,2012
+['Carlos Dunlap'],Questionable: knee,week_2,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_2,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_2,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_2,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_2,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_2,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_2,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_2,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_2,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_2,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_2,Cincinnati Bengals,2012
+['Thomas Howard'],Questionable: knee,week_2,Cincinnati Bengals,2012
+['George Iloka'],Questionable: ankle,week_2,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_2,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: illness,week_2,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_2,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Out: knee,week_2,Cincinnati Bengals,2012
+['Donald Lee'],Questionable: thigh,week_2,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_2,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_2,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_2,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_2,Cincinnati Bengals,2012
+['Dontay Moch'],NA,week_2,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_2,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_2,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_2,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_2,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_2,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_2,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_2,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_2,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_2,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_2,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_2,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_2,Cincinnati Bengals,2012
+['Bernard Scott'],Questionable: hand,week_2,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_2,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_2,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_2,Cincinnati Bengals,2012
+['Devon Still'],NA,week_2,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_2,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_2,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_2,Cincinnati Bengals,2012
+['Jason Allen'],Probable: thigh,week_3,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_3,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_3,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_3,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_3,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_3,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_3,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_3,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_3,Cincinnati Bengals,2012
+['Carlos Dunlap'],Probable: knee,week_3,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_3,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_3,Cincinnati Bengals,2012
+['Robert Geathers'],Questionable: groin,week_3,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_3,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_3,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_3,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_3,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_3,Cincinnati Bengals,2012
+['Leon Hall'],Questionable: calf,week_3,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_3,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_3,Cincinnati Bengals,2012
+['George Iloka'],NA,week_3,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_3,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_3,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_3,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Doubtful: knee,week_3,Cincinnati Bengals,2012
+['Donald Lee'],Questionable: thigh,week_3,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_3,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_3,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_3,Cincinnati Bengals,2012
+['Jeromy Miles'],Questionable: hip,week_3,Cincinnati Bengals,2012
+['Dontay Moch'],NA,week_3,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_3,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_3,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_3,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_3,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_3,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_3,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_3,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_3,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_3,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_3,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_3,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_3,Cincinnati Bengals,2012
+['Bernard Scott'],Probable: hand,week_3,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_3,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_3,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_3,Cincinnati Bengals,2012
+['Devon Still'],NA,week_3,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_3,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_3,Cincinnati Bengals,2012
+['Kevin Zeitler'],Questionable: hip,week_3,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: thigh,week_4,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_4,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_4,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_4,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_4,Cincinnati Bengals,2012
+['Nate Clements'],Questionable: calf,week_4,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_4,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_4,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_4,Cincinnati Bengals,2012
+['Carlos Dunlap'],Questionable: knee,week_4,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_4,Cincinnati Bengals,2012
+['Jeff Faine'],Questionable: hamstring,week_4,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_4,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_4,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_4,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_4,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_4,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_4,Cincinnati Bengals,2012
+['Leon Hall'],Questionable: calf,week_4,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_4,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_4,Cincinnati Bengals,2012
+['George Iloka'],NA,week_4,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_4,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_4,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_4,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Out: knee,week_4,Cincinnati Bengals,2012
+['Donald Lee'],Questionable: thigh,week_4,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_4,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_4,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_4,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_4,Cincinnati Bengals,2012
+['Dontay Moch'],NA,week_4,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],Questionable: illness,week_4,Cincinnati Bengals,2012
+['Reggie Nelson'],Questionable: shoulder,week_4,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_4,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_4,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_4,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_4,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_4,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_4,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_4,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_4,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_4,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_4,Cincinnati Bengals,2012
+['Bernard Scott'],Questionable: ankle,week_4,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_4,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_4,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_4,Cincinnati Bengals,2012
+['Devon Still'],NA,week_4,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_4,Cincinnati Bengals,2012
+['Andrew Whitworth'],Questionable: knee,week_4,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_4,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: thigh,week_5,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_5,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_5,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_5,Cincinnati Bengals,2012
+['Vontaze Burfict'],Questionable: hamstring,week_5,Cincinnati Bengals,2012
+['Nate Clements'],Questionable: calf,week_5,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_5,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_5,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_5,Cincinnati Bengals,2012
+['Carlos Dunlap'],Questionable: groin,week_5,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_5,Cincinnati Bengals,2012
+['Jeff Faine'],Questionable: hamstring,week_5,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_5,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_5,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_5,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_5,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_5,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_5,Cincinnati Bengals,2012
+['Leon Hall'],Questionable: calf,week_5,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_5,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_5,Cincinnati Bengals,2012
+['George Iloka'],NA,week_5,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_5,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_5,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_5,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Out: knee,week_5,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_5,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_5,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_5,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_5,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_5,Cincinnati Bengals,2012
+['Dontay Moch'],Probable: four-game suspensions served,week_5,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],Questionable: illness,week_5,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_5,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_5,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_5,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_5,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_5,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_5,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_5,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_5,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_5,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_5,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_5,Cincinnati Bengals,2012
+['Bernard Scott'],Questionable: ankle,week_5,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_5,Cincinnati Bengals,2012
+['Dan Skuta'],Questionable: back,week_5,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_5,Cincinnati Bengals,2012
+['Devon Still'],NA,week_5,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_5,Cincinnati Bengals,2012
+['Andrew Whitworth'],Questionable: knee,week_5,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_5,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: quadriceps,week_6,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_6,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_6,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_6,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_6,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_6,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_6,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_6,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_6,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_6,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_6,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_6,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_6,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_6,Cincinnati Bengals,2012
+['Wallace Gilberry'],Questionable: calf,week_6,Cincinnati Bengals,2012
+['A.J. Green'],Questionable: knee,week_6,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_6,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_6,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_6,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_6,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_6,Cincinnati Bengals,2012
+['George Iloka'],NA,week_6,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_6,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: back,week_6,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_6,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Questionable: knee,week_6,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_6,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_6,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_6,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_6,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_6,Cincinnati Bengals,2012
+['Dontay Moch'],Questionable: illness,week_6,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_6,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_6,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: groin,week_6,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_6,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_6,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_6,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_6,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_6,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_6,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_6,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_6,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_6,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_6,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_6,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_6,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_6,Cincinnati Bengals,2012
+['Devon Still'],NA,week_6,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_6,Cincinnati Bengals,2012
+['Andrew Whitworth'],Questionable: knee,week_6,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_6,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_7,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_7,Cincinnati Bengals,2012
+['Armon Binns'],Questionable: ankle,week_7,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_7,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_7,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_7,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_7,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_7,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_7,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_7,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_7,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_7,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_7,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_7,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_7,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_7,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_7,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_7,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_7,Cincinnati Bengals,2012
+['Andrew Hawkins'],Questionable: back,week_7,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_7,Cincinnati Bengals,2012
+['George Iloka'],NA,week_7,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_7,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_7,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_7,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],NA,week_7,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_7,Cincinnati Bengals,2012
+['Brian Leonard'],Doubtful: rib,week_7,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_7,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_7,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_7,Cincinnati Bengals,2012
+['Dontay Moch'],NA,week_7,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_7,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_7,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_7,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_7,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_7,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_7,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_7,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_7,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_7,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_7,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_7,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_7,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_7,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_7,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_7,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_7,Cincinnati Bengals,2012
+['Devon Still'],Questionable: shoulder,week_7,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_7,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_7,Cincinnati Bengals,2012
+['Kevin Zeitler'],Questionable: elbow,week_7,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_9,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_9,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_9,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_9,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_9,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_9,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_9,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_9,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_9,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_9,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_9,Cincinnati Bengals,2012
+['Jeff Faine'],Probable: hamstring,week_9,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_9,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_9,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_9,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_9,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_9,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_9,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_9,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_9,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_9,Cincinnati Bengals,2012
+['George Iloka'],NA,week_9,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_9,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_9,Cincinnati Bengals,2012
+['Marvin Jones'],Questionable: knee,week_9,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],NA,week_9,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_9,Cincinnati Bengals,2012
+['Brian Leonard'],Questionable: rib,week_9,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_9,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_9,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_9,Cincinnati Bengals,2012
+['Dontay Moch'],Questionable: illness,week_9,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_9,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_9,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_9,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_9,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_9,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_9,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_9,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_9,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_9,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_9,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_9,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_9,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_9,Cincinnati Bengals,2012
+['Pat Sims'],Physically Unable to Perform: hamstring,week_9,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_9,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_9,Cincinnati Bengals,2012
+['Devon Still'],NA,week_9,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_9,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_9,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_9,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_10,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_10,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_10,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_10,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_10,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_10,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_10,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_10,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_10,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_10,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_10,Cincinnati Bengals,2012
+['Jeff Faine'],Questionable: hamstring,week_10,Cincinnati Bengals,2012
+['Robert Geathers'],Probable: knee,week_10,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_10,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_10,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_10,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],Probable: illness,week_10,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_10,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_10,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_10,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_10,Cincinnati Bengals,2012
+['George Iloka'],NA,week_10,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_10,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_10,Cincinnati Bengals,2012
+['Marvin Jones'],Doubtful: knee,week_10,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Questionable: thigh,week_10,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_10,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_10,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_10,Cincinnati Bengals,2012
+['Taylor Mays'],Questionable: knee,week_10,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_10,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_10,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_10,Cincinnati Bengals,2012
+['Reggie Nelson'],Questionable: hamstring,week_10,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: hamstring,week_10,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_10,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_10,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_10,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_10,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_10,Cincinnati Bengals,2012
+['Trevor Robinson'],Questionable: hamstring,week_10,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_10,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_10,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_10,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_10,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_10,Cincinnati Bengals,2012
+['Dan Skuta'],Questionable: thumb,week_10,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_10,Cincinnati Bengals,2012
+['Devon Still'],NA,week_10,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_10,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_10,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_10,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_11,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_11,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_11,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_11,Cincinnati Bengals,2012
+['Vontaze Burfict'],Questionable: elbow,week_11,Cincinnati Bengals,2012
+['Nate Clements'],Questionable: knee,week_11,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_11,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_11,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_11,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_11,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_11,Cincinnati Bengals,2012
+['Jeff Faine'],Questionable: hamstring,week_11,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_11,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_11,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_11,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_11,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_11,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_11,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_11,Cincinnati Bengals,2012
+['Andrew Hawkins'],Questionable: knee,week_11,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_11,Cincinnati Bengals,2012
+['George Iloka'],NA,week_11,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_11,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: calf,week_11,Cincinnati Bengals,2012
+['Marvin Jones'],Questionable: knee,week_11,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],NA,week_11,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_11,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_11,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_11,Cincinnati Bengals,2012
+['Taylor Mays'],Questionable: knee,week_11,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_11,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_11,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_11,Cincinnati Bengals,2012
+['Reggie Nelson'],Questionable: hamstring,week_11,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: head/neck,week_11,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_11,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_11,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_11,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_11,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_11,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_11,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_11,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_11,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_11,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_11,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_11,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_11,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_11,Cincinnati Bengals,2012
+['Devon Still'],Questionable: back,week_11,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_11,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_11,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_11,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_12,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_12,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_12,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_12,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_12,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_12,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_12,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_12,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_12,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_12,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_12,Cincinnati Bengals,2012
+['Jeff Faine'],Questionable: hamstring,week_12,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_12,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_12,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_12,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_12,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_12,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_12,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_12,Cincinnati Bengals,2012
+['Andrew Hawkins'],Questionable: knee,week_12,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_12,Cincinnati Bengals,2012
+['George Iloka'],NA,week_12,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_12,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: calf,week_12,Cincinnati Bengals,2012
+['Marvin Jones'],Questionable: knee,week_12,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],NA,week_12,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_12,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_12,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_12,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_12,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_12,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_12,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_12,Cincinnati Bengals,2012
+['Reggie Nelson'],Probable: hamstring,week_12,Cincinnati Bengals,2012
+['Terence Newman'],Probable: concussion,week_12,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_12,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_12,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_12,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_12,Cincinnati Bengals,2012
+['Richard Quinn'],Questionable: hamstring,week_12,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_12,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_12,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_12,Cincinnati Bengals,2012
+['Mohamed Sanu'],NA,week_12,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_12,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_12,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_12,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_12,Cincinnati Bengals,2012
+['Devon Still'],NA,week_12,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_12,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_12,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_12,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_13,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_13,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_13,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_13,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_13,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_13,Cincinnati Bengals,2012
+['Kyle Cook'],Injured Reserve: foot,week_13,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_13,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_13,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_13,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_13,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_13,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_13,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_13,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_13,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_13,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_13,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_13,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_13,Cincinnati Bengals,2012
+['Andrew Hawkins'],Questionable: knee,week_13,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_13,Cincinnati Bengals,2012
+['George Iloka'],NA,week_13,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_13,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_13,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_13,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],NA,week_13,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_13,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_13,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_13,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_13,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_13,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_13,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_13,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_13,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: shoulder,week_13,Cincinnati Bengals,2012
+['Mike Nugent'],NA,week_13,Cincinnati Bengals,2012
+['Cedric Peerman'],Probable: neck,week_13,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_13,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_13,Cincinnati Bengals,2012
+['Richard Quinn'],Questionable: hamstring,week_13,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_13,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_13,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_13,Cincinnati Bengals,2012
+['Mohamed Sanu'],Questionable: foot,week_13,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_13,Cincinnati Bengals,2012
+['Pat Sims'],Probable: thigh,week_13,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_13,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_13,Cincinnati Bengals,2012
+['Devon Still'],NA,week_13,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_13,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_13,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_13,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_14,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_14,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_14,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_14,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_14,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_14,Cincinnati Bengals,2012
+['Kyle Cook'],Probable: ankle,week_14,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_14,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_14,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_14,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_14,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_14,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_14,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_14,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_14,Cincinnati Bengals,2012
+['A.J. Green'],Questionable: illness,week_14,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_14,Cincinnati Bengals,2012
+['Jermaine Gresham'],Questionable: hamstring,week_14,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_14,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_14,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_14,Cincinnati Bengals,2012
+['George Iloka'],NA,week_14,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_14,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_14,Cincinnati Bengals,2012
+['Marvin Jones'],Questionable: illness,week_14,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Questionable: head,week_14,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_14,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_14,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_14,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_14,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_14,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_14,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_14,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_14,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_14,Cincinnati Bengals,2012
+['Mike Nugent'],Doubtful: calf,week_14,Cincinnati Bengals,2012
+['Cedric Peerman'],Out: ankle,week_14,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_14,Cincinnati Bengals,2012
+['Chris Pressley'],NA,week_14,Cincinnati Bengals,2012
+['Richard Quinn'],Probable: hamstring,week_14,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_14,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_14,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_14,Cincinnati Bengals,2012
+['Mohamed Sanu'],Injured Reserve: foot,week_14,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_14,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_14,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_14,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_14,Cincinnati Bengals,2012
+['Devon Still'],NA,week_14,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_14,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_14,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_14,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_15,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_15,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_15,Cincinnati Bengals,2012
+['Clint Boling'],Probable: illness,week_15,Cincinnati Bengals,2012
+['Vontaze Burfict'],Questionable: shoulder,week_15,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_15,Cincinnati Bengals,2012
+['Kyle Cook'],NA,week_15,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_15,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_15,Cincinnati Bengals,2012
+['Carlos Dunlap'],Probable: calf,week_15,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_15,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_15,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_15,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_15,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_15,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_15,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_15,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_15,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_15,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_15,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_15,Cincinnati Bengals,2012
+['George Iloka'],NA,week_15,Cincinnati Bengals,2012
+['Michael Johnson'],Questionable: toe,week_15,Cincinnati Bengals,2012
+['Adam Jones'],NA,week_15,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_15,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Questionable: head,week_15,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_15,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_15,Cincinnati Bengals,2012
+['Rey Maualuga'],Probable: shoulder,week_15,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_15,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_15,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_15,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_15,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_15,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_15,Cincinnati Bengals,2012
+['Mike Nugent'],Questionable: calf,week_15,Cincinnati Bengals,2012
+['Cedric Peerman'],Questionable: ankle,week_15,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_15,Cincinnati Bengals,2012
+['Chris Pressley'],Questionable: knee,week_15,Cincinnati Bengals,2012
+['Richard Quinn'],Questionable: hamstring,week_15,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_15,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_15,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_15,Cincinnati Bengals,2012
+['Mohamed Sanu'],Injured Reserve: foot,week_15,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_15,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_15,Cincinnati Bengals,2012
+['Dan Skuta'],Questionable: back,week_15,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_15,Cincinnati Bengals,2012
+['Devon Still'],NA,week_15,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_15,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_15,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_15,Cincinnati Bengals,2012
+['Jason Allen'],NA,week_16,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_16,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_16,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_16,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_16,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_16,Cincinnati Bengals,2012
+['Kyle Cook'],NA,week_16,Cincinnati Bengals,2012
+['Chris Crocker'],NA,week_16,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_16,Cincinnati Bengals,2012
+['Carlos Dunlap'],Questionable: illness,week_16,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_16,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_16,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_16,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_16,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_16,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_16,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],NA,week_16,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_16,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_16,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_16,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_16,Cincinnati Bengals,2012
+['George Iloka'],NA,week_16,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_16,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: hamstring,week_16,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_16,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Probable: head,week_16,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_16,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_16,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_16,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_16,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_16,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_16,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_16,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_16,Cincinnati Bengals,2012
+['Terence Newman'],NA,week_16,Cincinnati Bengals,2012
+['Mike Nugent'],Questionable: calf,week_16,Cincinnati Bengals,2012
+['Cedric Peerman'],Questionable: ankle,week_16,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_16,Cincinnati Bengals,2012
+['Chris Pressley'],Injured Reserve: knee,week_16,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_16,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_16,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_16,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_16,Cincinnati Bengals,2012
+['Mohamed Sanu'],Injured Reserve: foot,week_16,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_16,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_16,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_16,Cincinnati Bengals,2012
+['Andre Smith'],Questionable: foot,week_16,Cincinnati Bengals,2012
+['Devon Still'],NA,week_16,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_16,Cincinnati Bengals,2012
+['Andrew Whitworth'],Questionable: concussion,week_16,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_16,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: hamstring,week_17,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_17,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_17,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_17,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_17,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_17,Cincinnati Bengals,2012
+['Kyle Cook'],NA,week_17,Cincinnati Bengals,2012
+['Chris Crocker'],Doubtful: quadricep,week_17,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_17,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_17,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_17,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_17,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_17,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_17,Cincinnati Bengals,2012
+['Wallace Gilberry'],NA,week_17,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_17,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],Probable: illness,week_17,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_17,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_17,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_17,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['George Iloka'],NA,week_17,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_17,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: hamstring,week_17,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_17,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_17,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_17,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_17,Cincinnati Bengals,2012
+['Taylor Mays'],NA,week_17,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_17,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_17,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_17,Cincinnati Bengals,2012
+['Reggie Nelson'],Questionable: shoulder,week_17,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: hamstring,week_17,Cincinnati Bengals,2012
+['Mike Nugent'],Probable: calf,week_17,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_17,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['Chris Pressley'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_17,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_17,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_17,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_17,Cincinnati Bengals,2012
+['Mohamed Sanu'],Injured Reserve: foot,week_17,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_17,Cincinnati Bengals,2012
+['Dan Skuta'],NA,week_17,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_17,Cincinnati Bengals,2012
+['Devon Still'],NA,week_17,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_17,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_17,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_17,Cincinnati Bengals,2012
+['Jason Allen'],Questionable: hamstring,week_18,Cincinnati Bengals,2012
+['Jamaal Anderson'],Injured Reserve: quadricep,week_18,Cincinnati Bengals,2012
+['Armon Binns'],NA,week_18,Cincinnati Bengals,2012
+['Clint Boling'],NA,week_18,Cincinnati Bengals,2012
+['Vontaze Burfict'],NA,week_18,Cincinnati Bengals,2012
+['Nate Clements'],NA,week_18,Cincinnati Bengals,2012
+['Kyle Cook'],NA,week_18,Cincinnati Bengals,2012
+['Chris Crocker'],Questionable: quadricep,week_18,Cincinnati Bengals,2012
+['Andy Dalton'],NA,week_18,Cincinnati Bengals,2012
+['Carlos Dunlap'],NA,week_18,Cincinnati Bengals,2012
+['Tony Dye'],Injured Reserve: ankle,week_18,Cincinnati Bengals,2012
+['Jeff Faine'],NA,week_18,Cincinnati Bengals,2012
+['Robert Geathers'],NA,week_18,Cincinnati Bengals,2012
+['Brandon Ghee'],Injured Reserve: wrist,week_18,Cincinnati Bengals,2012
+['Wallace Gilberry'],Questionable: illness,week_18,Cincinnati Bengals,2012
+['A.J. Green'],NA,week_18,Cincinnati Bengals,2012
+['BenJarvus Green-Ellis'],Questionable: hamstring,week_18,Cincinnati Bengals,2012
+['Jermaine Gresham'],NA,week_18,Cincinnati Bengals,2012
+['Leon Hall'],NA,week_18,Cincinnati Bengals,2012
+['Andrew Hawkins'],NA,week_18,Cincinnati Bengals,2012
+['Thomas Howard'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['George Iloka'],NA,week_18,Cincinnati Bengals,2012
+['Michael Johnson'],NA,week_18,Cincinnati Bengals,2012
+['Adam Jones'],Questionable: knee,week_18,Cincinnati Bengals,2012
+['Marvin Jones'],NA,week_18,Cincinnati Bengals,2012
+['Dre Kirkpatrick'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['Donald Lee'],NA,week_18,Cincinnati Bengals,2012
+['Brian Leonard'],NA,week_18,Cincinnati Bengals,2012
+['Rey Maualuga'],NA,week_18,Cincinnati Bengals,2012
+['Taylor Mays'],Questionable: hamstring,week_18,Cincinnati Bengals,2012
+['Jeromy Miles'],NA,week_18,Cincinnati Bengals,2012
+['Dontay Moch'],Out: illness,week_18,Cincinnati Bengals,2012
+['Roddrick Muckelroy'],NA,week_18,Cincinnati Bengals,2012
+['Reggie Nelson'],NA,week_18,Cincinnati Bengals,2012
+['Terence Newman'],Questionable: hamstring,week_18,Cincinnati Bengals,2012
+['Mike Nugent'],Injured Reserve: calf,week_18,Cincinnati Bengals,2012
+['Cedric Peerman'],NA,week_18,Cincinnati Bengals,2012
+['Shaun Prater'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['Chris Pressley'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['Richard Quinn'],NA,week_18,Cincinnati Bengals,2012
+['Trevor Robinson'],NA,week_18,Cincinnati Bengals,2012
+['Taveon Rogers'],Injured Reserve: shoulder,week_18,Cincinnati Bengals,2012
+['Robert Sands'],Injured Reserve: chest,week_18,Cincinnati Bengals,2012
+['Mohamed Sanu'],Injured Reserve: foot,week_18,Cincinnati Bengals,2012
+['Bernard Scott'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['Pat Sims'],NA,week_18,Cincinnati Bengals,2012
+['Dan Skuta'],Probable: thigh,week_18,Cincinnati Bengals,2012
+['Andre Smith'],NA,week_18,Cincinnati Bengals,2012
+['Devon Still'],NA,week_18,Cincinnati Bengals,2012
+['Travelle Wharton'],Injured Reserve: knee,week_18,Cincinnati Bengals,2012
+['Andrew Whitworth'],NA,week_18,Cincinnati Bengals,2012
+['Kevin Zeitler'],NA,week_18,Cincinnati Bengals,2012

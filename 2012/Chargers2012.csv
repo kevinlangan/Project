@@ -1,0 +1,737 @@
+﻿name,injury,week,team,year
+['Seyi Ajirotutu'],NA,week_1,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_1,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_1,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_1,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_1,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_1,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_1,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_1,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_1,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_1,Los Angeles Chargers,2012
+['Larry English'],NA,week_1,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_1,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_1,Los Angeles Chargers,2012
+['Jared Gaither'],Out: back,week_1,Los Angeles Chargers,2012
+['Antonio Garay'],Questionable: ankle,week_1,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_1,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_1,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_1,Los Angeles Chargers,2012
+['Nick Hardwick'],Questionable: concussion,week_1,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_1,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_1,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_1,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_1,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_1,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_1,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_1,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_1,Los Angeles Chargers,2012
+['Ryan Mathews'],Out: collarbone,week_1,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_1,Los Angeles Chargers,2012
+['David Molk'],NA,week_1,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_1,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_1,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_1,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_1,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: groin,week_1,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_1,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_1,Los Angeles Chargers,2012
+['Darrell Stuckey'],Questionable: concussion,week_1,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_1,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_1,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_1,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_1,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_1,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_1,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_1,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_1,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_2,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_2,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_2,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_2,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_2,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_2,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_2,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_2,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_2,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_2,Los Angeles Chargers,2012
+['Larry English'],NA,week_2,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_2,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_2,Los Angeles Chargers,2012
+['Jared Gaither'],Out: back,week_2,Los Angeles Chargers,2012
+['Antonio Garay'],Probable: ankle,week_2,Los Angeles Chargers,2012
+['Antonio Gates'],Questionable: ribs,week_2,Los Angeles Chargers,2012
+['Richard Goodman'],Doubtful: concussion,week_2,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_2,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_2,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_2,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_2,Los Angeles Chargers,2012
+['Quentin Jammer'],Probable: hand,week_2,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_2,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_2,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_2,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_2,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_2,Los Angeles Chargers,2012
+['Ryan Mathews'],Out: collarbone,week_2,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_2,Los Angeles Chargers,2012
+['David Molk'],NA,week_2,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_2,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_2,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_2,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_2,Los Angeles Chargers,2012
+['Eddie Royal'],NA,week_2,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_2,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_2,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_2,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_2,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_2,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_2,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_2,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_2,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_2,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_2,Los Angeles Chargers,2012
+['Shareece Wright'],Doubtful: foot,week_2,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_3,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_3,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_3,Los Angeles Chargers,2012
+['Curtis Brinkley'],Questionable: knee,week_3,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_3,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_3,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_3,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_3,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_3,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_3,Los Angeles Chargers,2012
+['Larry English'],NA,week_3,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_3,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_3,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: back,week_3,Los Angeles Chargers,2012
+['Antonio Garay'],Questionable: ankle,week_3,Los Angeles Chargers,2012
+['Antonio Gates'],Questionable: ribs,week_3,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_3,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_3,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_3,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_3,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_3,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_3,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_3,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_3,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_3,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_3,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_3,Los Angeles Chargers,2012
+['Ryan Mathews'],Probable: collarbone,week_3,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_3,Los Angeles Chargers,2012
+['David Molk'],NA,week_3,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_3,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_3,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_3,Los Angeles Chargers,2012
+['Dante Rosario'],Questionable: calf,week_3,Los Angeles Chargers,2012
+['Eddie Royal'],Probable: shoulder,week_3,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_3,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_3,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_3,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_3,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_3,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_3,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_3,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_3,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_3,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_3,Los Angeles Chargers,2012
+['Shareece Wright'],Out: ankle,week_3,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_4,Los Angeles Chargers,2012
+['Antwan Barnes'],Questionable: knee,week_4,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_4,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_4,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_4,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_4,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_4,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_4,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_4,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_4,Los Angeles Chargers,2012
+['Larry English'],NA,week_4,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_4,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_4,Los Angeles Chargers,2012
+['Jared Gaither'],Probable: back,week_4,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_4,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_4,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_4,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_4,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_4,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_4,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_4,Los Angeles Chargers,2012
+['Quentin Jammer'],Questionable: hand,week_4,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_4,Los Angeles Chargers,2012
+['Nate Kaeding'],Questionable: right groin,week_4,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_4,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_4,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_4,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_4,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_4,Los Angeles Chargers,2012
+['David Molk'],NA,week_4,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_4,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_4,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_4,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_4,Los Angeles Chargers,2012
+['Eddie Royal'],NA,week_4,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_4,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_4,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_4,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_4,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_4,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_4,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_4,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_4,Los Angeles Chargers,2012
+['Demorrio Williams'],Questionable: hamstring,week_4,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_4,Los Angeles Chargers,2012
+['Shareece Wright'],Out: ankle,week_4,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_5,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_5,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_5,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_5,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_5,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_5,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_5,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_5,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_5,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_5,Los Angeles Chargers,2012
+['Larry English'],NA,week_5,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_5,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_5,Los Angeles Chargers,2012
+['Jared Gaither'],NA,week_5,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_5,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_5,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_5,Los Angeles Chargers,2012
+['Tyronne Green'],Probable: knee,week_5,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_5,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_5,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_5,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_5,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_5,Los Angeles Chargers,2012
+['Nate Kaeding'],Questionable: right groin,week_5,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_5,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_5,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_5,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_5,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_5,Los Angeles Chargers,2012
+['David Molk'],NA,week_5,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_5,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_5,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_5,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_5,Los Angeles Chargers,2012
+['Eddie Royal'],NA,week_5,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_5,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_5,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_5,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_5,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_5,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_5,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_5,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_5,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_5,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_5,Los Angeles Chargers,2012
+['Shareece Wright'],Out: ankle,week_5,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_6,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_6,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_6,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_6,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_6,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_6,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_6,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_6,Los Angeles Chargers,2012
+['Jeromey Clary'],Questionable: foot,week_6,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_6,Los Angeles Chargers,2012
+['Larry English'],NA,week_6,Los Angeles Chargers,2012
+['Malcom Floyd'],Questionable: groin,week_6,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_6,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: groin,week_6,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_6,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_6,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_6,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_6,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_6,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_6,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_6,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_6,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_6,Los Angeles Chargers,2012
+['Nate Kaeding'],Questionable: right groin,week_6,Los Angeles Chargers,2012
+['Corey Liuget'],Questionable: knee,week_6,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_6,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_6,Los Angeles Chargers,2012
+['Ryan Mathews'],Probable: ankle,week_6,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_6,Los Angeles Chargers,2012
+['David Molk'],NA,week_6,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_6,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_6,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_6,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_6,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: hamstring,week_6,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_6,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_6,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_6,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_6,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_6,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_6,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_6,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_6,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_6,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_6,Los Angeles Chargers,2012
+['Shareece Wright'],Out: ankle,week_6,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_8,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_8,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_8,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_8,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_8,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_8,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_8,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_8,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_8,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_8,Los Angeles Chargers,2012
+['Larry English'],NA,week_8,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_8,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_8,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: groin,week_8,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_8,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_8,Los Angeles Chargers,2012
+['Richard Goodman'],NA,week_8,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_8,Los Angeles Chargers,2012
+['Nick Hardwick'],Probable: abdomen,week_8,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_8,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_8,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_8,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_8,Los Angeles Chargers,2012
+['Nate Kaeding'],Injured Reserve: right groin,week_8,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_8,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_8,Los Angeles Chargers,2012
+['Vaughn Martin'],Probable: neck,week_8,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_8,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_8,Los Angeles Chargers,2012
+['David Molk'],NA,week_8,Los Angeles Chargers,2012
+['Jonas Mouton'],Questionable: hip,week_8,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_8,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_8,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_8,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: hamstring,week_8,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_8,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_8,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_8,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_8,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_8,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_8,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_8,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_8,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_8,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_8,Los Angeles Chargers,2012
+['Shareece Wright'],Questionable: ankle,week_8,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_9,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_9,Los Angeles Chargers,2012
+['Atari Bigby'],NA,week_9,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_9,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_9,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_9,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_9,Los Angeles Chargers,2012
+['Chris Carr'],Questionable: quadricep,week_9,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_9,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_9,Los Angeles Chargers,2012
+['Larry English'],NA,week_9,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_9,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_9,Los Angeles Chargers,2012
+['Jared Gaither'],Probable: groin,week_9,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_9,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_9,Los Angeles Chargers,2012
+['Richard Goodman'],Out: hamstring,week_9,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_9,Los Angeles Chargers,2012
+['Nick Hardwick'],Probable: abdomen,week_9,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_9,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_9,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_9,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_9,Los Angeles Chargers,2012
+['Nate Kaeding'],Injured Reserve: right groin,week_9,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_9,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_9,Los Angeles Chargers,2012
+['Vaughn Martin'],Probable: neck,week_9,Los Angeles Chargers,2012
+['Ryan Mathews'],Probable: ankle,week_9,Los Angeles Chargers,2012
+['Robert Meachem'],Questionable: hamstring,week_9,Los Angeles Chargers,2012
+['David Molk'],NA,week_9,Los Angeles Chargers,2012
+['Jonas Mouton'],Out: hip,week_9,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_9,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_9,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_9,Los Angeles Chargers,2012
+['Eddie Royal'],Out: hamstring,week_9,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_9,Los Angeles Chargers,2012
+['Takeo Spikes'],Probable: arm,week_9,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_9,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_9,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_9,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_9,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_9,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_9,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_9,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_9,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_9,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_10,Los Angeles Chargers,2012
+['Antwan Barnes'],Questionable: hamstring,week_10,Los Angeles Chargers,2012
+['Atari Bigby'],Probable: quadricep,week_10,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_10,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_10,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_10,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_10,Los Angeles Chargers,2012
+['Chris Carr'],Questionable: quadricep,week_10,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_10,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_10,Los Angeles Chargers,2012
+['Larry English'],NA,week_10,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_10,Los Angeles Chargers,2012
+['Aubrayo Franklin'],Questionable: knee,week_10,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: groin,week_10,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_10,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_10,Los Angeles Chargers,2012
+['Richard Goodman'],Out: hamstring,week_10,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_10,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_10,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_10,Los Angeles Chargers,2012
+['Melvin Ingram'],Questionable: knee,week_10,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_10,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_10,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_10,Los Angeles Chargers,2012
+['Corey Liuget'],Questionable: hamstring,week_10,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_10,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_10,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_10,Los Angeles Chargers,2012
+['Robert Meachem'],Probable: hamstring,week_10,Los Angeles Chargers,2012
+['David Molk'],NA,week_10,Los Angeles Chargers,2012
+['Jonas Mouton'],Questionable: hip,week_10,Los Angeles Chargers,2012
+['Shaun Phillips'],Questionable: finger,week_10,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_10,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_10,Los Angeles Chargers,2012
+['Eddie Royal'],Probable: hamstring,week_10,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_10,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_10,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_10,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_10,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_10,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_10,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_10,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_10,Los Angeles Chargers,2012
+['Demorrio Williams'],Questionable: abdomen,week_10,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_10,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_10,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_11,Los Angeles Chargers,2012
+['Antwan Barnes'],Questionable: hamstring,week_11,Los Angeles Chargers,2012
+['Atari Bigby'],Questionable: quadricep,week_11,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_11,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_11,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_11,Los Angeles Chargers,2012
+['Donald Butler'],NA,week_11,Los Angeles Chargers,2012
+['Chris Carr'],Probable: quadricep,week_11,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_11,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_11,Los Angeles Chargers,2012
+['Larry English'],NA,week_11,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_11,Los Angeles Chargers,2012
+['Aubrayo Franklin'],Out: knee,week_11,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: groin,week_11,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_11,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_11,Los Angeles Chargers,2012
+['Richard Goodman'],Out: hamstring,week_11,Los Angeles Chargers,2012
+['Tyronne Green'],Probable: ribs,week_11,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_11,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_11,Los Angeles Chargers,2012
+['Melvin Ingram'],Probable: knee,week_11,Los Angeles Chargers,2012
+['Quentin Jammer'],Questionable: calf,week_11,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_11,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_11,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_11,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_11,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_11,Los Angeles Chargers,2012
+['Ryan Mathews'],Probable: neck,week_11,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_11,Los Angeles Chargers,2012
+['David Molk'],NA,week_11,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_11,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_11,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_11,Los Angeles Chargers,2012
+['Dante Rosario'],Probable: hamstring,week_11,Los Angeles Chargers,2012
+['Eddie Royal'],NA,week_11,Los Angeles Chargers,2012
+['Mike Scifres'],Questionable: ankle,week_11,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_11,Los Angeles Chargers,2012
+['Darrell Stuckey'],NA,week_11,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_11,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_11,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_11,Los Angeles Chargers,2012
+['Eric Weddle'],Probable: knee/illness,week_11,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_11,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_11,Los Angeles Chargers,2012
+['Mike Windt'],NA,week_11,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_11,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_12,Los Angeles Chargers,2012
+['Antwan Barnes'],NA,week_12,Los Angeles Chargers,2012
+['Atari Bigby'],Questionable: shoulder,week_12,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_12,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_12,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_12,Los Angeles Chargers,2012
+['Donald Butler'],Questionable: groin,week_12,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_12,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_12,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_12,Los Angeles Chargers,2012
+['Larry English'],Questionable: knee,week_12,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_12,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_12,Los Angeles Chargers,2012
+['Jared Gaither'],Questionable: groin,week_12,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_12,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_12,Los Angeles Chargers,2012
+['Richard Goodman'],Out: hamstring,week_12,Los Angeles Chargers,2012
+['Tyronne Green'],Doubtful: hamstring,week_12,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_12,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_12,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_12,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_12,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_12,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_12,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_12,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_12,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_12,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_12,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_12,Los Angeles Chargers,2012
+['David Molk'],NA,week_12,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_12,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_12,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_12,Los Angeles Chargers,2012
+['Dante Rosario'],Questionable: hamstring,week_12,Los Angeles Chargers,2012
+['Eddie Royal'],Doubtful: hamstring,week_12,Los Angeles Chargers,2012
+['Mike Scifres'],Probable: right ankle,week_12,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_12,Los Angeles Chargers,2012
+['Darrell Stuckey'],Questionable: hamstring,week_12,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_12,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_12,Los Angeles Chargers,2012
+['Louis Vasquez'],Probable: ankle,week_12,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_12,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_12,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_12,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_12,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_12,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],NA,week_13,Los Angeles Chargers,2012
+['Antwan Barnes'],Probable: hamstring,week_13,Los Angeles Chargers,2012
+['Atari Bigby'],Injured Reserve: groin,week_13,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_13,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_13,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_13,Los Angeles Chargers,2012
+['Donald Butler'],Doubtful: groin,week_13,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_13,Los Angeles Chargers,2012
+['Jeromey Clary'],Probable: thigh,week_13,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_13,Los Angeles Chargers,2012
+['Larry English'],Probable: knee,week_13,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_13,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_13,Los Angeles Chargers,2012
+['Jared Gaither'],Injured Reserve: groin,week_13,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_13,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_13,Los Angeles Chargers,2012
+['Richard Goodman'],Injured Reserve: hamstring,week_13,Los Angeles Chargers,2012
+['Tyronne Green'],Probable: hamstring,week_13,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_13,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_13,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_13,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_13,Los Angeles Chargers,2012
+['Jarret Johnson'],Questionable: back,week_13,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_13,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_13,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_13,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_13,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_13,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_13,Los Angeles Chargers,2012
+['David Molk'],NA,week_13,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_13,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_13,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_13,Los Angeles Chargers,2012
+['Dante Rosario'],Questionable: hamstring,week_13,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: hamstring,week_13,Los Angeles Chargers,2012
+['Mike Scifres'],Questionable: right ankle,week_13,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_13,Los Angeles Chargers,2012
+['Darrell Stuckey'],Questionable: hamstring,week_13,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_13,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_13,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_13,Los Angeles Chargers,2012
+['Eric Weddle'],Probable: concussion,week_13,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_13,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_13,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_13,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_13,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],Injured Reserve: hand,week_14,Los Angeles Chargers,2012
+['Antwan Barnes'],Injured Reserve: hamstring,week_14,Los Angeles Chargers,2012
+['Atari Bigby'],Injured Reserve: groin,week_14,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_14,Los Angeles Chargers,2012
+['Ronnie Brown'],NA,week_14,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_14,Los Angeles Chargers,2012
+['Donald Butler'],Questionable: groin,week_14,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_14,Los Angeles Chargers,2012
+['Jeromey Clary'],Doubtful: knee,week_14,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_14,Los Angeles Chargers,2012
+['Larry English'],NA,week_14,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_14,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_14,Los Angeles Chargers,2012
+['Jared Gaither'],Injured Reserve: groin,week_14,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_14,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_14,Los Angeles Chargers,2012
+['Richard Goodman'],Injured Reserve: hamstring,week_14,Los Angeles Chargers,2012
+['Tyronne Green'],Doubtful: hamstring,week_14,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_14,Los Angeles Chargers,2012
+['Mike Harris'],Doubtful: ankle,week_14,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_14,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_14,Los Angeles Chargers,2012
+['Jarret Johnson'],Probable: back,week_14,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_14,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_14,Los Angeles Chargers,2012
+['Corey Lynch'],Probable: quadriceps,week_14,Los Angeles Chargers,2012
+['Vaughn Martin'],NA,week_14,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_14,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_14,Los Angeles Chargers,2012
+['David Molk'],Injured Reserve: thumb,week_14,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_14,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_14,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_14,Los Angeles Chargers,2012
+['Dante Rosario'],Probable: hamstring,week_14,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: hamstring,week_14,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_14,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_14,Los Angeles Chargers,2012
+['Darrell Stuckey'],Questionable: hamstring,week_14,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_14,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_14,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_14,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_14,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_14,Los Angeles Chargers,2012
+['Demorrio Williams'],NA,week_14,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_14,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_14,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],Injured Reserve: hand,week_15,Los Angeles Chargers,2012
+['Antwan Barnes'],Injured Reserve: hamstring,week_15,Los Angeles Chargers,2012
+['Atari Bigby'],Injured Reserve: groin,week_15,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_15,Los Angeles Chargers,2012
+['Ronnie Brown'],Questionable: hamstring,week_15,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_15,Los Angeles Chargers,2012
+['Donald Butler'],Questionable: groin,week_15,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_15,Los Angeles Chargers,2012
+['Jeromey Clary'],Questionable: knee,week_15,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_15,Los Angeles Chargers,2012
+['Larry English'],NA,week_15,Los Angeles Chargers,2012
+['Malcom Floyd'],NA,week_15,Los Angeles Chargers,2012
+['Aubrayo Franklin'],NA,week_15,Los Angeles Chargers,2012
+['Jared Gaither'],Injured Reserve: groin,week_15,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_15,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_15,Los Angeles Chargers,2012
+['Richard Goodman'],Injured Reserve: hamstring,week_15,Los Angeles Chargers,2012
+['Tyronne Green'],Questionable: hamstring,week_15,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_15,Los Angeles Chargers,2012
+['Mike Harris'],Questionable: ankle,week_15,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_15,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_15,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_15,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_15,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_15,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_15,Los Angeles Chargers,2012
+['Vaughn Martin'],Injured Reserve: groin,week_15,Los Angeles Chargers,2012
+['Ryan Mathews'],NA,week_15,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_15,Los Angeles Chargers,2012
+['David Molk'],Injured Reserve: thumb,week_15,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_15,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_15,Los Angeles Chargers,2012
+['Kendall Reyes'],Probable: quadriceps,week_15,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_15,Los Angeles Chargers,2012
+['Eddie Royal'],Questionable: hamstring,week_15,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_15,Los Angeles Chargers,2012
+['Takeo Spikes'],NA,week_15,Los Angeles Chargers,2012
+['Darrell Stuckey'],Injured Reserve: hamstring,week_15,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_15,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_15,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_15,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_15,Los Angeles Chargers,2012
+['Reggie Wells'],NA,week_15,Los Angeles Chargers,2012
+['Demorrio Williams'],Out: ankle,week_15,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_15,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_15,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],Injured Reserve: hand,week_16,Los Angeles Chargers,2012
+['Antwan Barnes'],Injured Reserve: hamstring,week_16,Los Angeles Chargers,2012
+['Atari Bigby'],Injured Reserve: groin,week_16,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_16,Los Angeles Chargers,2012
+['Ronnie Brown'],Questionable: hamstring,week_16,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_16,Los Angeles Chargers,2012
+['Donald Butler'],Questionable: groin,week_16,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_16,Los Angeles Chargers,2012
+['Jeromey Clary'],Probable: knee,week_16,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_16,Los Angeles Chargers,2012
+['Larry English'],NA,week_16,Los Angeles Chargers,2012
+['Malcom Floyd'],Injured Reserve: ankle,week_16,Los Angeles Chargers,2012
+['Aubrayo Franklin'],Questionable: knee,week_16,Los Angeles Chargers,2012
+['Jared Gaither'],Injured Reserve: groin,week_16,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_16,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_16,Los Angeles Chargers,2012
+['Richard Goodman'],Injured Reserve: hamstring,week_16,Los Angeles Chargers,2012
+['Tyronne Green'],Probable: hamstring,week_16,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_16,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_16,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_16,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_16,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_16,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_16,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_16,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_16,Los Angeles Chargers,2012
+['Vaughn Martin'],Injured Reserve: groin,week_16,Los Angeles Chargers,2012
+['Ryan Mathews'],Injured Reserve: clavicle,week_16,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_16,Los Angeles Chargers,2012
+['David Molk'],Injured Reserve: thumb,week_16,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_16,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_16,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_16,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_16,Los Angeles Chargers,2012
+['Eddie Royal'],Probable: hamstring,week_16,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_16,Los Angeles Chargers,2012
+['Takeo Spikes'],Questionable: hamstring,week_16,Los Angeles Chargers,2012
+['Darrell Stuckey'],Injured Reserve: hamstring,week_16,Los Angeles Chargers,2012
+['Brandon Taylor'],NA,week_16,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_16,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_16,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_16,Los Angeles Chargers,2012
+['Reggie Wells'],Injured Reserve: ankle,week_16,Los Angeles Chargers,2012
+['Demorrio Williams'],Questionable: ankle,week_16,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_16,Los Angeles Chargers,2012
+['Shareece Wright'],NA,week_16,Los Angeles Chargers,2012
+['Seyi Ajirotutu'],Injured Reserve: hand,week_17,Los Angeles Chargers,2012
+['Antwan Barnes'],Injured Reserve: hamstring,week_17,Los Angeles Chargers,2012
+['Atari Bigby'],Injured Reserve: groin,week_17,Los Angeles Chargers,2012
+['Curtis Brinkley'],NA,week_17,Los Angeles Chargers,2012
+['Ronnie Brown'],Questionable: hamstring,week_17,Los Angeles Chargers,2012
+['Vincent Brown'],Injured Reserve: ankle,week_17,Los Angeles Chargers,2012
+['Donald Butler'],Questionable: groin,week_17,Los Angeles Chargers,2012
+['Chris Carr'],NA,week_17,Los Angeles Chargers,2012
+['Jeromey Clary'],NA,week_17,Los Angeles Chargers,2012
+['Brandyn Dombrowski'],Out: foot,week_17,Los Angeles Chargers,2012
+['Larry English'],NA,week_17,Los Angeles Chargers,2012
+['Malcom Floyd'],Injured Reserve: ankle,week_17,Los Angeles Chargers,2012
+['Aubrayo Franklin'],Injured Reserve: knee,week_17,Los Angeles Chargers,2012
+['Jared Gaither'],Injured Reserve: groin,week_17,Los Angeles Chargers,2012
+['Antonio Garay'],NA,week_17,Los Angeles Chargers,2012
+['Antonio Gates'],NA,week_17,Los Angeles Chargers,2012
+['Richard Goodman'],Injured Reserve: hamstring,week_17,Los Angeles Chargers,2012
+['Tyronne Green'],NA,week_17,Los Angeles Chargers,2012
+['Nick Hardwick'],NA,week_17,Los Angeles Chargers,2012
+['Mike Harris'],NA,week_17,Los Angeles Chargers,2012
+['Melvin Ingram'],NA,week_17,Los Angeles Chargers,2012
+['Quentin Jammer'],NA,week_17,Los Angeles Chargers,2012
+['Jarret Johnson'],NA,week_17,Los Angeles Chargers,2012
+['Nate Kaeding'],NA,week_17,Los Angeles Chargers,2012
+['Corey Liuget'],NA,week_17,Los Angeles Chargers,2012
+['Corey Lynch'],NA,week_17,Los Angeles Chargers,2012
+['Vaughn Martin'],Injured Reserve: groin,week_17,Los Angeles Chargers,2012
+['Ryan Mathews'],Injured Reserve: clavicle,week_17,Los Angeles Chargers,2012
+['Robert Meachem'],NA,week_17,Los Angeles Chargers,2012
+['David Molk'],Injured Reserve: thumb,week_17,Los Angeles Chargers,2012
+['Jonas Mouton'],NA,week_17,Los Angeles Chargers,2012
+['Shaun Phillips'],NA,week_17,Los Angeles Chargers,2012
+['Kendall Reyes'],NA,week_17,Los Angeles Chargers,2012
+['Dante Rosario'],NA,week_17,Los Angeles Chargers,2012
+['Eddie Royal'],NA,week_17,Los Angeles Chargers,2012
+['Mike Scifres'],NA,week_17,Los Angeles Chargers,2012
+['Takeo Spikes'],Questionable: hamstring,week_17,Los Angeles Chargers,2012
+['Darrell Stuckey'],Injured Reserve: hamstring,week_17,Los Angeles Chargers,2012
+['Brandon Taylor'],Injured Reserve: knee,week_17,Los Angeles Chargers,2012
+['Johnnie Troutman'],Out: pectoral,week_17,Los Angeles Chargers,2012
+['Louis Vasquez'],NA,week_17,Los Angeles Chargers,2012
+['Eric Weddle'],NA,week_17,Los Angeles Chargers,2012
+['Reggie Wells'],Injured Reserve: ankle,week_17,Los Angeles Chargers,2012
+['Demorrio Williams'],Questionable: ankle,week_17,Los Angeles Chargers,2012
+['Mike Windt'],Injured Reserve: wrist,week_17,Los Angeles Chargers,2012
+['Shareece Wright'],Probable: shoulder,week_17,Los Angeles Chargers,2012

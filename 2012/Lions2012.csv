@@ -1,0 +1,705 @@
+﻿name,injury,week,team,year
+['Cliff Avril'],NA,week_1,Detroit Lions,2012
+['Jeff Backus'],NA,week_1,Detroit Lions,2012
+['Bill Bentley'],NA,week_1,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_1,Detroit Lions,2012
+['Ryan Broyles'],NA,week_1,Detroit Lions,2012
+['Nate Burleson'],NA,week_1,Detroit Lions,2012
+['Don Carey'],NA,week_1,Detroit Lions,2012
+['Shaun Chapas'],NA,week_1,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_1,Detroit Lions,2012
+['Erik Coleman'],NA,week_1,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_1,Detroit Lions,2012
+['Justin Durant'],NA,week_1,Detroit Lions,2012
+['Nick Fairley'],NA,week_1,Detroit Lions,2012
+['Drayton Florence'],NA,week_1,Detroit Lions,2012
+['Ben Graham'],NA,week_1,Detroit Lions,2012
+['Jonte Green'],NA,week_1,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_1,Detroit Lions,2012
+['Jason Hanson'],NA,week_1,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_1,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_1,Detroit Lions,2012
+['Corey Hilliard'],NA,week_1,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_1,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_1,Detroit Lions,2012
+['Calvin Johnson'],NA,week_1,Detroit Lions,2012
+['Jacob Lacey'],NA,week_1,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_1,Detroit Lions,2012
+['DeAndre Levy'],NA,week_1,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_1,Detroit Lions,2012
+['Travis Lewis'],NA,week_1,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_1,Detroit Lions,2012
+['Kassim Osgood'],NA,week_1,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_1,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_1,Detroit Lions,2012
+['Tony Scheffler'],NA,week_1,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_1,Detroit Lions,2012
+['Rob Sims'],NA,week_1,Detroit Lions,2012
+['Kevin Smith'],Questionable: ankle,week_1,Detroit Lions,2012
+['Amari Spievey'],NA,week_1,Detroit Lions,2012
+['Matthew Stafford'],NA,week_1,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_1,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_1,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_1,Detroit Lions,2012
+['Corey Williams'],NA,week_1,Detroit Lions,2012
+['Titus Young'],NA,week_1,Detroit Lions,2012
+['Cliff Avril'],NA,week_2,Detroit Lions,2012
+['Jeff Backus'],NA,week_2,Detroit Lions,2012
+['Bill Bentley'],Doubtful: concussion,week_2,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_2,Detroit Lions,2012
+['Ryan Broyles'],NA,week_2,Detroit Lions,2012
+['Nate Burleson'],NA,week_2,Detroit Lions,2012
+['Don Carey'],NA,week_2,Detroit Lions,2012
+['Shaun Chapas'],NA,week_2,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_2,Detroit Lions,2012
+['Erik Coleman'],NA,week_2,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_2,Detroit Lions,2012
+['Justin Durant'],NA,week_2,Detroit Lions,2012
+['Nick Fairley'],NA,week_2,Detroit Lions,2012
+['Drayton Florence'],NA,week_2,Detroit Lions,2012
+['Ben Graham'],NA,week_2,Detroit Lions,2012
+['Jonte Green'],NA,week_2,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_2,Detroit Lions,2012
+['Jason Hanson'],NA,week_2,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_2,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_2,Detroit Lions,2012
+['Corey Hilliard'],NA,week_2,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_2,Detroit Lions,2012
+['Lawrence Jackson'],Questionable: calf,week_2,Detroit Lions,2012
+['Calvin Johnson'],Questionable: foot,week_2,Detroit Lions,2012
+['Jacob Lacey'],NA,week_2,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_2,Detroit Lions,2012
+['DeAndre Levy'],NA,week_2,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_2,Detroit Lions,2012
+['Travis Lewis'],Questionable: quadricep,week_2,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_2,Detroit Lions,2012
+['Kassim Osgood'],NA,week_2,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_2,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_2,Detroit Lions,2012
+['Tony Scheffler'],NA,week_2,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_2,Detroit Lions,2012
+['Rob Sims'],NA,week_2,Detroit Lions,2012
+['Kevin Smith'],NA,week_2,Detroit Lions,2012
+['Amari Spievey'],NA,week_2,Detroit Lions,2012
+['Matthew Stafford'],NA,week_2,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_2,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_2,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_2,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_2,Detroit Lions,2012
+['Titus Young'],NA,week_2,Detroit Lions,2012
+['Cliff Avril'],NA,week_3,Detroit Lions,2012
+['Jeff Backus'],NA,week_3,Detroit Lions,2012
+['Bill Bentley'],Questionable: concussion,week_3,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_3,Detroit Lions,2012
+['Ryan Broyles'],NA,week_3,Detroit Lions,2012
+['Nate Burleson'],NA,week_3,Detroit Lions,2012
+['Don Carey'],NA,week_3,Detroit Lions,2012
+['Shaun Chapas'],NA,week_3,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_3,Detroit Lions,2012
+['Erik Coleman'],NA,week_3,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_3,Detroit Lions,2012
+['Justin Durant'],NA,week_3,Detroit Lions,2012
+['Nick Fairley'],NA,week_3,Detroit Lions,2012
+['Drayton Florence'],Out: forearm,week_3,Detroit Lions,2012
+['Ben Graham'],Questionable: calf,week_3,Detroit Lions,2012
+['Jonte Green'],NA,week_3,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_3,Detroit Lions,2012
+['Jason Hanson'],NA,week_3,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_3,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_3,Detroit Lions,2012
+['Corey Hilliard'],NA,week_3,Detroit Lions,2012
+['Chris Houston'],Probable: ankle,week_3,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_3,Detroit Lions,2012
+['Calvin Johnson'],Questionable: ankle,week_3,Detroit Lions,2012
+['Jacob Lacey'],Questionable: toe,week_3,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_3,Detroit Lions,2012
+['DeAndre Levy'],NA,week_3,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_3,Detroit Lions,2012
+['Travis Lewis'],Questionable: quadricep,week_3,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_3,Detroit Lions,2012
+['Kassim Osgood'],NA,week_3,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_3,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_3,Detroit Lions,2012
+['Tony Scheffler'],Questionable: calf,week_3,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_3,Detroit Lions,2012
+['Rob Sims'],NA,week_3,Detroit Lions,2012
+['Kevin Smith'],NA,week_3,Detroit Lions,2012
+['Amari Spievey'],NA,week_3,Detroit Lions,2012
+['Matthew Stafford'],NA,week_3,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_3,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_3,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_3,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_3,Detroit Lions,2012
+['Titus Young'],NA,week_3,Detroit Lions,2012
+['Cliff Avril'],NA,week_4,Detroit Lions,2012
+['Jeff Backus'],NA,week_4,Detroit Lions,2012
+['Bill Bentley'],NA,week_4,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_4,Detroit Lions,2012
+['Ryan Broyles'],NA,week_4,Detroit Lions,2012
+['Nate Burleson'],NA,week_4,Detroit Lions,2012
+['Don Carey'],NA,week_4,Detroit Lions,2012
+['Shaun Chapas'],NA,week_4,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_4,Detroit Lions,2012
+['Erik Coleman'],NA,week_4,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_4,Detroit Lions,2012
+['Justin Durant'],Questionable: back,week_4,Detroit Lions,2012
+['Nick Fairley'],NA,week_4,Detroit Lions,2012
+['Drayton Florence'],Out: forearm,week_4,Detroit Lions,2012
+['Ben Graham'],Injured Reserve: calf,week_4,Detroit Lions,2012
+['Jonte Green'],NA,week_4,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_4,Detroit Lions,2012
+['Jason Hanson'],NA,week_4,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_4,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_4,Detroit Lions,2012
+['Corey Hilliard'],Probable: elbow,week_4,Detroit Lions,2012
+['Chris Houston'],NA,week_4,Detroit Lions,2012
+['Lawrence Jackson'],Questionable: calf,week_4,Detroit Lions,2012
+['Calvin Johnson'],Probable: ankle,week_4,Detroit Lions,2012
+['Jacob Lacey'],NA,week_4,Detroit Lions,2012
+['Mikel Leshoure'],Questionable: groin,week_4,Detroit Lions,2012
+['DeAndre Levy'],NA,week_4,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_4,Detroit Lions,2012
+['Travis Lewis'],Questionable: quadricep,week_4,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_4,Detroit Lions,2012
+['Kassim Osgood'],NA,week_4,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_4,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_4,Detroit Lions,2012
+['Tony Scheffler'],Questionable: calf,week_4,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_4,Detroit Lions,2012
+['Rob Sims'],Questionable: knee,week_4,Detroit Lions,2012
+['Kevin Smith'],NA,week_4,Detroit Lions,2012
+['Amari Spievey'],Questionable: groin,week_4,Detroit Lions,2012
+['Matthew Stafford'],Questionable: hip,week_4,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_4,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_4,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_4,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_4,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_4,Detroit Lions,2012
+['Cliff Avril'],Questionable: knee,week_6,Detroit Lions,2012
+['Jeff Backus'],NA,week_6,Detroit Lions,2012
+['Bill Bentley'],NA,week_6,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_6,Detroit Lions,2012
+['Ryan Broyles'],NA,week_6,Detroit Lions,2012
+['Nate Burleson'],NA,week_6,Detroit Lions,2012
+['Don Carey'],NA,week_6,Detroit Lions,2012
+['Shaun Chapas'],NA,week_6,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_6,Detroit Lions,2012
+['Erik Coleman'],NA,week_6,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_6,Detroit Lions,2012
+['Justin Durant'],NA,week_6,Detroit Lions,2012
+['Nick Fairley'],NA,week_6,Detroit Lions,2012
+['Drayton Florence'],Out: forearm,week_6,Detroit Lions,2012
+['Ben Graham'],NA,week_6,Detroit Lions,2012
+['Jonte Green'],NA,week_6,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_6,Detroit Lions,2012
+['Jason Hanson'],NA,week_6,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_6,Detroit Lions,2012
+['Sammie Lee Hill'],Questionable: toe,week_6,Detroit Lions,2012
+['Corey Hilliard'],Questionable: elbow,week_6,Detroit Lions,2012
+['Chris Houston'],NA,week_6,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_6,Detroit Lions,2012
+['Calvin Johnson'],NA,week_6,Detroit Lions,2012
+['Jacob Lacey'],NA,week_6,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_6,Detroit Lions,2012
+['DeAndre Levy'],NA,week_6,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_6,Detroit Lions,2012
+['Travis Lewis'],Probable: quadricep,week_6,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_6,Detroit Lions,2012
+['Kassim Osgood'],NA,week_6,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_6,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: undisclosed,week_6,Detroit Lions,2012
+['Tony Scheffler'],NA,week_6,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_6,Detroit Lions,2012
+['Rob Sims'],NA,week_6,Detroit Lions,2012
+['Kevin Smith'],NA,week_6,Detroit Lions,2012
+['Amari Spievey'],Questionable: groin,week_6,Detroit Lions,2012
+['Matthew Stafford'],NA,week_6,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_6,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_6,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_6,Detroit Lions,2012
+['Corey Williams'],Out: knee,week_6,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_6,Detroit Lions,2012
+['Cliff Avril'],Probable: back,week_7,Detroit Lions,2012
+['Jeff Backus'],NA,week_7,Detroit Lions,2012
+['Bill Bentley'],Questionable: shoulder,week_7,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_7,Detroit Lions,2012
+['Ryan Broyles'],NA,week_7,Detroit Lions,2012
+['Nate Burleson'],NA,week_7,Detroit Lions,2012
+['Don Carey'],NA,week_7,Detroit Lions,2012
+['Shaun Chapas'],NA,week_7,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_7,Detroit Lions,2012
+['Erik Coleman'],NA,week_7,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_7,Detroit Lions,2012
+['Justin Durant'],NA,week_7,Detroit Lions,2012
+['Nick Fairley'],NA,week_7,Detroit Lions,2012
+['Drayton Florence'],Out: forearm,week_7,Detroit Lions,2012
+['Ben Graham'],NA,week_7,Detroit Lions,2012
+['Jonte Green'],NA,week_7,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_7,Detroit Lions,2012
+['Jason Hanson'],NA,week_7,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_7,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_7,Detroit Lions,2012
+['Corey Hilliard'],NA,week_7,Detroit Lions,2012
+['Chris Houston'],NA,week_7,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_7,Detroit Lions,2012
+['Calvin Johnson'],NA,week_7,Detroit Lions,2012
+['Jacob Lacey'],Questionable: concussion,week_7,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_7,Detroit Lions,2012
+['DeAndre Levy'],NA,week_7,Detroit Lions,2012
+['Ronnell Lewis'],Probable: eye,week_7,Detroit Lions,2012
+['Travis Lewis'],NA,week_7,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_7,Detroit Lions,2012
+['Kassim Osgood'],NA,week_7,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_7,Detroit Lions,2012
+['Brandon Pettigrew'],Probable: knee,week_7,Detroit Lions,2012
+['Tony Scheffler'],NA,week_7,Detroit Lions,2012
+['Jonathan Scott'],Injured Reserve: undisclosed,week_7,Detroit Lions,2012
+['Rob Sims'],NA,week_7,Detroit Lions,2012
+['Kevin Smith'],NA,week_7,Detroit Lions,2012
+['Amari Spievey'],NA,week_7,Detroit Lions,2012
+['Matthew Stafford'],NA,week_7,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_7,Detroit Lions,2012
+['Stephen Tulloch'],Probable: knee,week_7,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_7,Detroit Lions,2012
+['Corey Williams'],Probable: knee,week_7,Detroit Lions,2012
+['Titus Young'],Probable: knee,week_7,Detroit Lions,2012
+['Cliff Avril'],Questionable: back,week_8,Detroit Lions,2012
+['Jeff Backus'],NA,week_8,Detroit Lions,2012
+['Bill Bentley'],Questionable: shoulder,week_8,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_8,Detroit Lions,2012
+['Ryan Broyles'],NA,week_8,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_8,Detroit Lions,2012
+['Don Carey'],NA,week_8,Detroit Lions,2012
+['Shaun Chapas'],NA,week_8,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_8,Detroit Lions,2012
+['Erik Coleman'],NA,week_8,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_8,Detroit Lions,2012
+['Justin Durant'],NA,week_8,Detroit Lions,2012
+['Nick Fairley'],NA,week_8,Detroit Lions,2012
+['Drayton Florence'],Injured Reserve: forearm,week_8,Detroit Lions,2012
+['Ben Graham'],NA,week_8,Detroit Lions,2012
+['Jonte Green'],NA,week_8,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_8,Detroit Lions,2012
+['Jason Hanson'],NA,week_8,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_8,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_8,Detroit Lions,2012
+['Corey Hilliard'],NA,week_8,Detroit Lions,2012
+['Chris Houston'],NA,week_8,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_8,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee,week_8,Detroit Lions,2012
+['Jacob Lacey'],Questionable: concussion,week_8,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_8,Detroit Lions,2012
+['DeAndre Levy'],Questionable: hamstring,week_8,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_8,Detroit Lions,2012
+['Travis Lewis'],NA,week_8,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_8,Detroit Lions,2012
+['Kassim Osgood'],NA,week_8,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_8,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: knee,week_8,Detroit Lions,2012
+['Tony Scheffler'],NA,week_8,Detroit Lions,2012
+['Jonathan Scott'],NA,week_8,Detroit Lions,2012
+['Rob Sims'],NA,week_8,Detroit Lions,2012
+['Kevin Smith'],NA,week_8,Detroit Lions,2012
+['Amari Spievey'],Questionable: head,week_8,Detroit Lions,2012
+['Matthew Stafford'],NA,week_8,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_8,Detroit Lions,2012
+['Stephen Tulloch'],Questionable: knee,week_8,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_8,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_8,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_8,Detroit Lions,2012
+['Cliff Avril'],Questionable: back,week_9,Detroit Lions,2012
+['Jeff Backus'],NA,week_9,Detroit Lions,2012
+['Bill Bentley'],Questionable: shoulder,week_9,Detroit Lions,2012
+['Jahvid Best'],Physically Unable to Perform: concussion,week_9,Detroit Lions,2012
+['Ryan Broyles'],NA,week_9,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_9,Detroit Lions,2012
+['Don Carey'],NA,week_9,Detroit Lions,2012
+['Shaun Chapas'],NA,week_9,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_9,Detroit Lions,2012
+['Erik Coleman'],NA,week_9,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_9,Detroit Lions,2012
+['Justin Durant'],Questionable: concussion,week_9,Detroit Lions,2012
+['Nick Fairley'],NA,week_9,Detroit Lions,2012
+['Drayton Florence'],Injured Reserve: forearm,week_9,Detroit Lions,2012
+['Ben Graham'],NA,week_9,Detroit Lions,2012
+['Jonte Green'],NA,week_9,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_9,Detroit Lions,2012
+['Jason Hanson'],NA,week_9,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_9,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_9,Detroit Lions,2012
+['Corey Hilliard'],NA,week_9,Detroit Lions,2012
+['Chris Houston'],NA,week_9,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_9,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee,week_9,Detroit Lions,2012
+['Jacob Lacey'],Questionable: concussion,week_9,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_9,Detroit Lions,2012
+['DeAndre Levy'],Questionable: hamstring,week_9,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_9,Detroit Lions,2012
+['Travis Lewis'],NA,week_9,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_9,Detroit Lions,2012
+['Kassim Osgood'],NA,week_9,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_9,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: knee,week_9,Detroit Lions,2012
+['Tony Scheffler'],NA,week_9,Detroit Lions,2012
+['Jonathan Scott'],NA,week_9,Detroit Lions,2012
+['Rob Sims'],NA,week_9,Detroit Lions,2012
+['Kevin Smith'],NA,week_9,Detroit Lions,2012
+['Amari Spievey'],Questionable: concussion,week_9,Detroit Lions,2012
+['Matthew Stafford'],NA,week_9,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_9,Detroit Lions,2012
+['Stephen Tulloch'],Questionable: knee,week_9,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_9,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_9,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_9,Detroit Lions,2012
+['Cliff Avril'],Questionable: back,week_10,Detroit Lions,2012
+['Jeff Backus'],Probable: finger,week_10,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_10,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_10,Detroit Lions,2012
+['Ryan Broyles'],NA,week_10,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_10,Detroit Lions,2012
+['Don Carey'],NA,week_10,Detroit Lions,2012
+['Shaun Chapas'],NA,week_10,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_10,Detroit Lions,2012
+['Erik Coleman'],Questionable: toe,week_10,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_10,Detroit Lions,2012
+['Justin Durant'],NA,week_10,Detroit Lions,2012
+['Nick Fairley'],NA,week_10,Detroit Lions,2012
+['Drayton Florence'],Injured Reserve: forearm,week_10,Detroit Lions,2012
+['Ben Graham'],NA,week_10,Detroit Lions,2012
+['Jonte Green'],NA,week_10,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_10,Detroit Lions,2012
+['Jason Hanson'],NA,week_10,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_10,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_10,Detroit Lions,2012
+['Corey Hilliard'],Questionable: knee,week_10,Detroit Lions,2012
+['Chris Houston'],Questionable: illness,week_10,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_10,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee,week_10,Detroit Lions,2012
+['Jacob Lacey'],NA,week_10,Detroit Lions,2012
+['Mikel Leshoure'],Probable: toe,week_10,Detroit Lions,2012
+['DeAndre Levy'],Questionable: hamstring,week_10,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_10,Detroit Lions,2012
+['Travis Lewis'],NA,week_10,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_10,Detroit Lions,2012
+['Kassim Osgood'],NA,week_10,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_10,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_10,Detroit Lions,2012
+['Tony Scheffler'],NA,week_10,Detroit Lions,2012
+['Jonathan Scott'],NA,week_10,Detroit Lions,2012
+['Rob Sims'],NA,week_10,Detroit Lions,2012
+['Kevin Smith'],NA,week_10,Detroit Lions,2012
+['Amari Spievey'],Doubtful: concussion,week_10,Detroit Lions,2012
+['Matthew Stafford'],NA,week_10,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_10,Detroit Lions,2012
+['Stephen Tulloch'],Probable: knee,week_10,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_10,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_10,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_10,Detroit Lions,2012
+['Cliff Avril'],Questionable: back/concussion,week_11,Detroit Lions,2012
+['Jeff Backus'],Questionable: hamstring,week_11,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_11,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_11,Detroit Lions,2012
+['Ryan Broyles'],NA,week_11,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_11,Detroit Lions,2012
+['Don Carey'],NA,week_11,Detroit Lions,2012
+['Shaun Chapas'],NA,week_11,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_11,Detroit Lions,2012
+['Erik Coleman'],Questionable: eye,week_11,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_11,Detroit Lions,2012
+['Justin Durant'],NA,week_11,Detroit Lions,2012
+['Nick Fairley'],NA,week_11,Detroit Lions,2012
+['Drayton Florence'],Injured Reserve: forearm,week_11,Detroit Lions,2012
+['Ben Graham'],NA,week_11,Detroit Lions,2012
+['Jonte Green'],NA,week_11,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_11,Detroit Lions,2012
+['Jason Hanson'],Questionable: left foot,week_11,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_11,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_11,Detroit Lions,2012
+['Corey Hilliard'],NA,week_11,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_11,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_11,Detroit Lions,2012
+['Calvin Johnson'],Questionable: knee,week_11,Detroit Lions,2012
+['Jacob Lacey'],NA,week_11,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_11,Detroit Lions,2012
+['DeAndre Levy'],NA,week_11,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_11,Detroit Lions,2012
+['Travis Lewis'],NA,week_11,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_11,Detroit Lions,2012
+['Kassim Osgood'],NA,week_11,Detroit Lions,2012
+['Ashlee Palmer'],Questionable: chest,week_11,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_11,Detroit Lions,2012
+['Tony Scheffler'],NA,week_11,Detroit Lions,2012
+['Jonathan Scott'],NA,week_11,Detroit Lions,2012
+['Rob Sims'],NA,week_11,Detroit Lions,2012
+['Kevin Smith'],NA,week_11,Detroit Lions,2012
+['Amari Spievey'],Questionable: concussion,week_11,Detroit Lions,2012
+['Matthew Stafford'],NA,week_11,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_11,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_11,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_11,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_11,Detroit Lions,2012
+['Titus Young'],Questionable: knee,week_11,Detroit Lions,2012
+['Cliff Avril'],Questionable: back,week_12,Detroit Lions,2012
+['Jeff Backus'],Questionable: hamstring,week_12,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_12,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_12,Detroit Lions,2012
+['Ryan Broyles'],NA,week_12,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_12,Detroit Lions,2012
+['Don Carey'],NA,week_12,Detroit Lions,2012
+['Shaun Chapas'],NA,week_12,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_12,Detroit Lions,2012
+['Erik Coleman'],Questionable: eye,week_12,Detroit Lions,2012
+['Louis Delmas'],Probable: knee,week_12,Detroit Lions,2012
+['Justin Durant'],NA,week_12,Detroit Lions,2012
+['Nick Fairley'],Questionable: illness,week_12,Detroit Lions,2012
+['Drayton Florence'],Doubtful: concussion,week_12,Detroit Lions,2012
+['Ben Graham'],NA,week_12,Detroit Lions,2012
+['Jonte Green'],NA,week_12,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_12,Detroit Lions,2012
+['Jason Hanson'],Probable: left foot,week_12,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_12,Detroit Lions,2012
+['Sammie Lee Hill'],Questionable: knee,week_12,Detroit Lions,2012
+['Corey Hilliard'],NA,week_12,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_12,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_12,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee/thumb,week_12,Detroit Lions,2012
+['Jacob Lacey'],Questionable: foot,week_12,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_12,Detroit Lions,2012
+['DeAndre Levy'],NA,week_12,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_12,Detroit Lions,2012
+['Travis Lewis'],NA,week_12,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_12,Detroit Lions,2012
+['Kassim Osgood'],NA,week_12,Detroit Lions,2012
+['Ashlee Palmer'],Questionable: chest,week_12,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_12,Detroit Lions,2012
+['Tony Scheffler'],NA,week_12,Detroit Lions,2012
+['Jonathan Scott'],NA,week_12,Detroit Lions,2012
+['Rob Sims'],Questionable: hamstring,week_12,Detroit Lions,2012
+['Kevin Smith'],NA,week_12,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_12,Detroit Lions,2012
+['Matthew Stafford'],NA,week_12,Detroit Lions,2012
+['Ndamukong Suh'],Questionable: knee,week_12,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_12,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_12,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_12,Detroit Lions,2012
+['Titus Young'],NA,week_12,Detroit Lions,2012
+['Cliff Avril'],Questionable: back,week_13,Detroit Lions,2012
+['Jeff Backus'],Questionable: hamstring,week_13,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_13,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_13,Detroit Lions,2012
+['Ryan Broyles'],Questionable: knee,week_13,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_13,Detroit Lions,2012
+['Don Carey'],NA,week_13,Detroit Lions,2012
+['Shaun Chapas'],NA,week_13,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_13,Detroit Lions,2012
+['Erik Coleman'],NA,week_13,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_13,Detroit Lions,2012
+['Justin Durant'],NA,week_13,Detroit Lions,2012
+['Nick Fairley'],NA,week_13,Detroit Lions,2012
+['Drayton Florence'],NA,week_13,Detroit Lions,2012
+['Ben Graham'],NA,week_13,Detroit Lions,2012
+['Jonte Green'],Questionable: illness,week_13,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_13,Detroit Lions,2012
+['Jason Hanson'],NA,week_13,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_13,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_13,Detroit Lions,2012
+['Corey Hilliard'],NA,week_13,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_13,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_13,Detroit Lions,2012
+['Calvin Johnson'],Probable: thumb,week_13,Detroit Lions,2012
+['Jacob Lacey'],Questionable: foot,week_13,Detroit Lions,2012
+['Mikel Leshoure'],Questionable: ankle,week_13,Detroit Lions,2012
+['DeAndre Levy'],NA,week_13,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_13,Detroit Lions,2012
+['Travis Lewis'],NA,week_13,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_13,Detroit Lions,2012
+['Kassim Osgood'],NA,week_13,Detroit Lions,2012
+['Ashlee Palmer'],Questionable: thumb,week_13,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_13,Detroit Lions,2012
+['Tony Scheffler'],NA,week_13,Detroit Lions,2012
+['Jonathan Scott'],NA,week_13,Detroit Lions,2012
+['Rob Sims'],Questionable: hamstring,week_13,Detroit Lions,2012
+['Kevin Smith'],NA,week_13,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_13,Detroit Lions,2012
+['Matthew Stafford'],NA,week_13,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_13,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_13,Detroit Lions,2012
+['Kyle Vanden Bosch'],Questionable: back,week_13,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_13,Detroit Lions,2012
+['Titus Young'],Probable: one-game suspension served,week_13,Detroit Lions,2012
+['Cliff Avril'],NA,week_14,Detroit Lions,2012
+['Jeff Backus'],Questionable: hamstring,week_14,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_14,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_14,Detroit Lions,2012
+['Ryan Broyles'],Out: knee,week_14,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_14,Detroit Lions,2012
+['Don Carey'],NA,week_14,Detroit Lions,2012
+['Shaun Chapas'],NA,week_14,Detroit Lions,2012
+['Gosder Cherilus'],Questionable: knee,week_14,Detroit Lions,2012
+['Erik Coleman'],NA,week_14,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_14,Detroit Lions,2012
+['Justin Durant'],NA,week_14,Detroit Lions,2012
+['Nick Fairley'],Questionable: quad,week_14,Detroit Lions,2012
+['Drayton Florence'],NA,week_14,Detroit Lions,2012
+['Ben Graham'],NA,week_14,Detroit Lions,2012
+['Jonte Green'],NA,week_14,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_14,Detroit Lions,2012
+['Jason Hanson'],NA,week_14,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_14,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_14,Detroit Lions,2012
+['Corey Hilliard'],NA,week_14,Detroit Lions,2012
+['Chris Houston'],Questionable: ankle,week_14,Detroit Lions,2012
+['Lawrence Jackson'],Questionable: concussion,week_14,Detroit Lions,2012
+['Calvin Johnson'],NA,week_14,Detroit Lions,2012
+['Jacob Lacey'],Questionable: foot/Achilles,week_14,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_14,Detroit Lions,2012
+['DeAndre Levy'],NA,week_14,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_14,Detroit Lions,2012
+['Travis Lewis'],NA,week_14,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_14,Detroit Lions,2012
+['Kassim Osgood'],Probable: finger,week_14,Detroit Lions,2012
+['Ashlee Palmer'],Probable: thumb,week_14,Detroit Lions,2012
+['Brandon Pettigrew'],NA,week_14,Detroit Lions,2012
+['Tony Scheffler'],NA,week_14,Detroit Lions,2012
+['Jonathan Scott'],NA,week_14,Detroit Lions,2012
+['Rob Sims'],NA,week_14,Detroit Lions,2012
+['Kevin Smith'],NA,week_14,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_14,Detroit Lions,2012
+['Matthew Stafford'],NA,week_14,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_14,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_14,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_14,Detroit Lions,2012
+['Corey Williams'],Questionable: knee,week_14,Detroit Lions,2012
+['Titus Young'],Injured Reserve: knee,week_14,Detroit Lions,2012
+['Cliff Avril'],NA,week_15,Detroit Lions,2012
+['Jeff Backus'],NA,week_15,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_15,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_15,Detroit Lions,2012
+['Ryan Broyles'],Injured Reserve: knee,week_15,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_15,Detroit Lions,2012
+['Don Carey'],Questionable: knee,week_15,Detroit Lions,2012
+['Shaun Chapas'],NA,week_15,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_15,Detroit Lions,2012
+['Erik Coleman'],NA,week_15,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_15,Detroit Lions,2012
+['Justin Durant'],NA,week_15,Detroit Lions,2012
+['Nick Fairley'],Questionable: shoulder,week_15,Detroit Lions,2012
+['Drayton Florence'],NA,week_15,Detroit Lions,2012
+['Ben Graham'],NA,week_15,Detroit Lions,2012
+['Jonte Green'],NA,week_15,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_15,Detroit Lions,2012
+['Jason Hanson'],NA,week_15,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_15,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_15,Detroit Lions,2012
+['Corey Hilliard'],Probable: knee,week_15,Detroit Lions,2012
+['Chris Houston'],Questionable: hamstring,week_15,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_15,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee,week_15,Detroit Lions,2012
+['Jacob Lacey'],Questionable: foot/Achilles,week_15,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_15,Detroit Lions,2012
+['DeAndre Levy'],NA,week_15,Detroit Lions,2012
+['Ronnell Lewis'],Questionable: illness,week_15,Detroit Lions,2012
+['Travis Lewis'],NA,week_15,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_15,Detroit Lions,2012
+['Kassim Osgood'],NA,week_15,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_15,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: ankle,week_15,Detroit Lions,2012
+['Tony Scheffler'],NA,week_15,Detroit Lions,2012
+['Jonathan Scott'],NA,week_15,Detroit Lions,2012
+['Rob Sims'],NA,week_15,Detroit Lions,2012
+['Kevin Smith'],NA,week_15,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_15,Detroit Lions,2012
+['Matthew Stafford'],NA,week_15,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_15,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_15,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_15,Detroit Lions,2012
+['Corey Williams'],Injured Reserve: knee,week_15,Detroit Lions,2012
+['Titus Young'],Injured Reserve: knee,week_15,Detroit Lions,2012
+['Cliff Avril'],NA,week_16,Detroit Lions,2012
+['Jeff Backus'],NA,week_16,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_16,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_16,Detroit Lions,2012
+['Ryan Broyles'],Injured Reserve: knee,week_16,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_16,Detroit Lions,2012
+['Don Carey'],Probable: knee,week_16,Detroit Lions,2012
+['Shaun Chapas'],NA,week_16,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_16,Detroit Lions,2012
+['Erik Coleman'],NA,week_16,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_16,Detroit Lions,2012
+['Justin Durant'],NA,week_16,Detroit Lions,2012
+['Nick Fairley'],Questionable: shoulder,week_16,Detroit Lions,2012
+['Drayton Florence'],NA,week_16,Detroit Lions,2012
+['Ben Graham'],NA,week_16,Detroit Lions,2012
+['Jonte Green'],NA,week_16,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_16,Detroit Lions,2012
+['Jason Hanson'],NA,week_16,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_16,Detroit Lions,2012
+['Sammie Lee Hill'],NA,week_16,Detroit Lions,2012
+['Corey Hilliard'],Questionable: knee,week_16,Detroit Lions,2012
+['Chris Houston'],Probable: hamstring,week_16,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_16,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee,week_16,Detroit Lions,2012
+['Jacob Lacey'],Injured Reserve: knee,week_16,Detroit Lions,2012
+['Mikel Leshoure'],Questionable: calf,week_16,Detroit Lions,2012
+['DeAndre Levy'],Questionable: ankle,week_16,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_16,Detroit Lions,2012
+['Travis Lewis'],NA,week_16,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_16,Detroit Lions,2012
+['Kassim Osgood'],NA,week_16,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_16,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: ankle,week_16,Detroit Lions,2012
+['Tony Scheffler'],NA,week_16,Detroit Lions,2012
+['Jonathan Scott'],NA,week_16,Detroit Lions,2012
+['Rob Sims'],NA,week_16,Detroit Lions,2012
+['Kevin Smith'],NA,week_16,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_16,Detroit Lions,2012
+['Matthew Stafford'],NA,week_16,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_16,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_16,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_16,Detroit Lions,2012
+['Corey Williams'],Injured Reserve: knee,week_16,Detroit Lions,2012
+['Titus Young'],Injured Reserve: knee,week_16,Detroit Lions,2012
+['Cliff Avril'],NA,week_17,Detroit Lions,2012
+['Jeff Backus'],NA,week_17,Detroit Lions,2012
+['Bill Bentley'],Injured Reserve: shoulder,week_17,Detroit Lions,2012
+['Jahvid Best'],Injured Reserve: concussion,week_17,Detroit Lions,2012
+['Ryan Broyles'],Injured Reserve: knee,week_17,Detroit Lions,2012
+['Nate Burleson'],Injured Reserve: leg,week_17,Detroit Lions,2012
+['Don Carey'],Probable: knee,week_17,Detroit Lions,2012
+['Shaun Chapas'],Questionable: knee,week_17,Detroit Lions,2012
+['Gosder Cherilus'],NA,week_17,Detroit Lions,2012
+['Erik Coleman'],NA,week_17,Detroit Lions,2012
+['Louis Delmas'],Questionable: knee,week_17,Detroit Lions,2012
+['Justin Durant'],NA,week_17,Detroit Lions,2012
+['Nick Fairley'],Injured Reserve: shoulder,week_17,Detroit Lions,2012
+['Drayton Florence'],NA,week_17,Detroit Lions,2012
+['Ben Graham'],NA,week_17,Detroit Lions,2012
+['Jonte Green'],NA,week_17,Detroit Lions,2012
+['Chris Greenwood'],Physically Unable to Perform: abdomen,week_17,Detroit Lions,2012
+['Jason Hanson'],NA,week_17,Detroit Lions,2012
+['Jerome Harrison'],Out: illness,week_17,Detroit Lions,2012
+['Sammie Lee Hill'],Questionable: toe,week_17,Detroit Lions,2012
+['Corey Hilliard'],NA,week_17,Detroit Lions,2012
+['Chris Houston'],Questionable: hamstring,week_17,Detroit Lions,2012
+['Lawrence Jackson'],NA,week_17,Detroit Lions,2012
+['Calvin Johnson'],Probable: knee/ankle,week_17,Detroit Lions,2012
+['Jacob Lacey'],Injured Reserve: knee,week_17,Detroit Lions,2012
+['Mikel Leshoure'],NA,week_17,Detroit Lions,2012
+['DeAndre Levy'],NA,week_17,Detroit Lions,2012
+['Ronnell Lewis'],NA,week_17,Detroit Lions,2012
+['Travis Lewis'],NA,week_17,Detroit Lions,2012
+['Bill Nagy'],Injured Reserve: ankle,week_17,Detroit Lions,2012
+['Kassim Osgood'],NA,week_17,Detroit Lions,2012
+['Ashlee Palmer'],NA,week_17,Detroit Lions,2012
+['Brandon Pettigrew'],Questionable: ankle,week_17,Detroit Lions,2012
+['Tony Scheffler'],NA,week_17,Detroit Lions,2012
+['Jonathan Scott'],NA,week_17,Detroit Lions,2012
+['Rob Sims'],NA,week_17,Detroit Lions,2012
+['Kevin Smith'],Probable: thumb,week_17,Detroit Lions,2012
+['Amari Spievey'],Injured Reserve: concussion,week_17,Detroit Lions,2012
+['Matthew Stafford'],NA,week_17,Detroit Lions,2012
+['Ndamukong Suh'],NA,week_17,Detroit Lions,2012
+['Stephen Tulloch'],NA,week_17,Detroit Lions,2012
+['Kyle Vanden Bosch'],NA,week_17,Detroit Lions,2012
+['Corey Williams'],Injured Reserve: knee,week_17,Detroit Lions,2012
+['Titus Young'],Injured Reserve: knee,week_17,Detroit Lions,2012

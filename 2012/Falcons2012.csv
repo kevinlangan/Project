@@ -1,0 +1,775 @@
+﻿name,injury,week,team,year
+['John Abraham'],NA,week_1,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_1,Atlanta Falcons,2012
+['Sam Baker'],NA,week_1,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_1,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_1,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_1,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_1,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_1,Atlanta Falcons,2012
+['Drew Davis'],NA,week_1,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_1,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_1,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_1,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_1,Atlanta Falcons,2012
+['Brent Grimes'],NA,week_1,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_1,Atlanta Falcons,2012
+['Chris Hope'],NA,week_1,Atlanta Falcons,2012
+['Robert James'],NA,week_1,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_1,Atlanta Falcons,2012
+['Julio Jones'],NA,week_1,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_1,Atlanta Falcons,2012
+['Robert McClain'],NA,week_1,Atlanta Falcons,2012
+['Todd McClure'],NA,week_1,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_1,Atlanta Falcons,2012
+['William Moore'],NA,week_1,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_1,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_1,Atlanta Falcons,2012
+['Chris Owens'],Questionable: hamstring,week_1,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_1,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_1,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_1,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_1,Atlanta Falcons,2012
+['Garrett Reynolds'],NA,week_1,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_1,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_1,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_1,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_1,Atlanta Falcons,2012
+['Antone Smith'],NA,week_1,Atlanta Falcons,2012
+['Jason Snelling'],Probable: calf,week_1,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_1,Atlanta Falcons,2012
+['Michael Turner'],NA,week_1,Atlanta Falcons,2012
+['Vance Walker'],NA,week_1,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_1,Atlanta Falcons,2012
+['Roddy White'],NA,week_1,Atlanta Falcons,2012
+['John Abraham'],NA,week_2,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_2,Atlanta Falcons,2012
+['Sam Baker'],NA,week_2,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_2,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2012
+['Tyson Clabo'],Questionable: hip,week_2,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_2,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_2,Atlanta Falcons,2012
+['Drew Davis'],NA,week_2,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_2,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_2,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_2,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_2,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_2,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_2,Atlanta Falcons,2012
+['Chris Hope'],NA,week_2,Atlanta Falcons,2012
+['Robert James'],Questionable: knee,week_2,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_2,Atlanta Falcons,2012
+['Julio Jones'],NA,week_2,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_2,Atlanta Falcons,2012
+['Robert McClain'],NA,week_2,Atlanta Falcons,2012
+['Todd McClure'],NA,week_2,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_2,Atlanta Falcons,2012
+['William Moore'],NA,week_2,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_2,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_2,Atlanta Falcons,2012
+['Chris Owens'],Questionable: head,week_2,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_2,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_2,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_2,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_2,Atlanta Falcons,2012
+['Garrett Reynolds'],NA,week_2,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_2,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_2,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: neck,week_2,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_2,Atlanta Falcons,2012
+['Antone Smith'],NA,week_2,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_2,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_2,Atlanta Falcons,2012
+['Michael Turner'],NA,week_2,Atlanta Falcons,2012
+['Vance Walker'],NA,week_2,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: hamstring,week_2,Atlanta Falcons,2012
+['Roddy White'],Probable: groin,week_2,Atlanta Falcons,2012
+['John Abraham'],Questionable: knee,week_3,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_3,Atlanta Falcons,2012
+['Sam Baker'],NA,week_3,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_3,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2012
+['Tyson Clabo'],Questionable: hip,week_3,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_3,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_3,Atlanta Falcons,2012
+['Drew Davis'],NA,week_3,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_3,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_3,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_3,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_3,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_3,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_3,Atlanta Falcons,2012
+['Chris Hope'],NA,week_3,Atlanta Falcons,2012
+['Robert James'],NA,week_3,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_3,Atlanta Falcons,2012
+['Julio Jones'],Questionable: thigh,week_3,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_3,Atlanta Falcons,2012
+['Robert McClain'],NA,week_3,Atlanta Falcons,2012
+['Todd McClure'],NA,week_3,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_3,Atlanta Falcons,2012
+['William Moore'],NA,week_3,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: thigh,week_3,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_3,Atlanta Falcons,2012
+['Chris Owens'],Doubtful: concussion,week_3,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_3,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_3,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_3,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_3,Atlanta Falcons,2012
+['Garrett Reynolds'],NA,week_3,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_3,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_3,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_3,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_3,Atlanta Falcons,2012
+['Antone Smith'],Questionable: hamstring,week_3,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_3,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_3,Atlanta Falcons,2012
+['Michael Turner'],NA,week_3,Atlanta Falcons,2012
+['Vance Walker'],NA,week_3,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: thigh,week_3,Atlanta Falcons,2012
+['Roddy White'],Questionable: knee,week_3,Atlanta Falcons,2012
+['John Abraham'],NA,week_4,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: groin,week_4,Atlanta Falcons,2012
+['Sam Baker'],NA,week_4,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_4,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2012
+['Tyson Clabo'],Questionable: hip,week_4,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_4,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_4,Atlanta Falcons,2012
+['Drew Davis'],NA,week_4,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_4,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_4,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_4,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_4,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_4,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_4,Atlanta Falcons,2012
+['Chris Hope'],NA,week_4,Atlanta Falcons,2012
+['Robert James'],NA,week_4,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_4,Atlanta Falcons,2012
+['Julio Jones'],Questionable: hand,week_4,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_4,Atlanta Falcons,2012
+['Robert McClain'],NA,week_4,Atlanta Falcons,2012
+['Todd McClure'],NA,week_4,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_4,Atlanta Falcons,2012
+['William Moore'],NA,week_4,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: thigh,week_4,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_4,Atlanta Falcons,2012
+['Chris Owens'],Questionable: concussion,week_4,Atlanta Falcons,2012
+['Michael Palmer'],Out: shoulder,week_4,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_4,Atlanta Falcons,2012
+['Mike Peterson'],Questionable: ribs,week_4,Atlanta Falcons,2012
+['Lousaka Polite'],Questionable: hamstring,week_4,Atlanta Falcons,2012
+['Garrett Reynolds'],NA,week_4,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_4,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_4,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_4,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_4,Atlanta Falcons,2012
+['Antone Smith'],Questionable: hamstring,week_4,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_4,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_4,Atlanta Falcons,2012
+['Michael Turner'],NA,week_4,Atlanta Falcons,2012
+['Vance Walker'],NA,week_4,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_4,Atlanta Falcons,2012
+['Roddy White'],NA,week_4,Atlanta Falcons,2012
+['John Abraham'],NA,week_5,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: groin,week_5,Atlanta Falcons,2012
+['Sam Baker'],NA,week_5,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_5,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_5,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_5,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_5,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_5,Atlanta Falcons,2012
+['Drew Davis'],NA,week_5,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_5,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_5,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_5,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_5,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_5,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_5,Atlanta Falcons,2012
+['Chris Hope'],NA,week_5,Atlanta Falcons,2012
+['Robert James'],NA,week_5,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_5,Atlanta Falcons,2012
+['Julio Jones'],Probable: hand,week_5,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_5,Atlanta Falcons,2012
+['Robert McClain'],NA,week_5,Atlanta Falcons,2012
+['Todd McClure'],Questionable: pectoral,week_5,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_5,Atlanta Falcons,2012
+['William Moore'],Questionable: hip,week_5,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: thigh,week_5,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_5,Atlanta Falcons,2012
+['Chris Owens'],Questionable: concussion,week_5,Atlanta Falcons,2012
+['Michael Palmer'],Questionable: shoulder,week_5,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_5,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_5,Atlanta Falcons,2012
+['Lousaka Polite'],Questionable: hamstring,week_5,Atlanta Falcons,2012
+['Garrett Reynolds'],NA,week_5,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_5,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_5,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_5,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_5,Atlanta Falcons,2012
+['Antone Smith'],Questionable: hamstring,week_5,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_5,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_5,Atlanta Falcons,2012
+['Michael Turner'],NA,week_5,Atlanta Falcons,2012
+['Vance Walker'],NA,week_5,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_5,Atlanta Falcons,2012
+['Roddy White'],NA,week_5,Atlanta Falcons,2012
+['John Abraham'],NA,week_6,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: groin,week_6,Atlanta Falcons,2012
+['Sam Baker'],NA,week_6,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_6,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_6,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_6,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: knee,week_6,Atlanta Falcons,2012
+['Dominique Davis'],Questionable: knee,week_6,Atlanta Falcons,2012
+['Drew Davis'],NA,week_6,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_6,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_6,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_6,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_6,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_6,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_6,Atlanta Falcons,2012
+['Chris Hope'],NA,week_6,Atlanta Falcons,2012
+['Robert James'],NA,week_6,Atlanta Falcons,2012
+['Peria Jerry'],Questionable: thigh,week_6,Atlanta Falcons,2012
+['Julio Jones'],NA,week_6,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_6,Atlanta Falcons,2012
+['Robert McClain'],NA,week_6,Atlanta Falcons,2012
+['Todd McClure'],Questionable: pectoral,week_6,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_6,Atlanta Falcons,2012
+['William Moore'],Questionable: hip,week_6,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: ankle,week_6,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_6,Atlanta Falcons,2012
+['Chris Owens'],NA,week_6,Atlanta Falcons,2012
+['Michael Palmer'],Questionable: shoulder,week_6,Atlanta Falcons,2012
+['Corey Peters'],Out: foot,week_6,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_6,Atlanta Falcons,2012
+['Lousaka Polite'],Questionable: hamstring,week_6,Atlanta Falcons,2012
+['Garrett Reynolds'],Questionable: back,week_6,Atlanta Falcons,2012
+['Dunta Robinson'],Probable: shoulder,week_6,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_6,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_6,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_6,Atlanta Falcons,2012
+['Antone Smith'],Questionable: hamstring,week_6,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_6,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_6,Atlanta Falcons,2012
+['Michael Turner'],NA,week_6,Atlanta Falcons,2012
+['Vance Walker'],NA,week_6,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_6,Atlanta Falcons,2012
+['Roddy White'],NA,week_6,Atlanta Falcons,2012
+['John Abraham'],NA,week_8,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: groin,week_8,Atlanta Falcons,2012
+['Sam Baker'],NA,week_8,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_8,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_8,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_8,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_8,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_8,Atlanta Falcons,2012
+['Drew Davis'],NA,week_8,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: knee/ankle,week_8,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_8,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_8,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_8,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_8,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_8,Atlanta Falcons,2012
+['Chris Hope'],NA,week_8,Atlanta Falcons,2012
+['Robert James'],NA,week_8,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_8,Atlanta Falcons,2012
+['Julio Jones'],NA,week_8,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_8,Atlanta Falcons,2012
+['Robert McClain'],NA,week_8,Atlanta Falcons,2012
+['Todd McClure'],NA,week_8,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_8,Atlanta Falcons,2012
+['William Moore'],NA,week_8,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_8,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_8,Atlanta Falcons,2012
+['Chris Owens'],NA,week_8,Atlanta Falcons,2012
+['Michael Palmer'],Questionable: shoulder,week_8,Atlanta Falcons,2012
+['Corey Peters'],NA,week_8,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_8,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_8,Atlanta Falcons,2012
+['Garrett Reynolds'],Questionable: back,week_8,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_8,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_8,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_8,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_8,Atlanta Falcons,2012
+['Antone Smith'],Questionable: hamstring,week_8,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_8,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_8,Atlanta Falcons,2012
+['Michael Turner'],NA,week_8,Atlanta Falcons,2012
+['Vance Walker'],NA,week_8,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_8,Atlanta Falcons,2012
+['Roddy White'],NA,week_8,Atlanta Falcons,2012
+['John Abraham'],NA,week_9,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: knee,week_9,Atlanta Falcons,2012
+['Sam Baker'],NA,week_9,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_9,Atlanta Falcons,2012
+['Matt Bryant'],Questionable: back,week_9,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_9,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: groin,week_9,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_9,Atlanta Falcons,2012
+['Drew Davis'],Questionable: hamstring,week_9,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: knee/ankle,week_9,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_9,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_9,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_9,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_9,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_9,Atlanta Falcons,2012
+['Chris Hope'],NA,week_9,Atlanta Falcons,2012
+['Robert James'],NA,week_9,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_9,Atlanta Falcons,2012
+['Julio Jones'],NA,week_9,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_9,Atlanta Falcons,2012
+['Robert McClain'],NA,week_9,Atlanta Falcons,2012
+['Todd McClure'],NA,week_9,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_9,Atlanta Falcons,2012
+['William Moore'],NA,week_9,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_9,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_9,Atlanta Falcons,2012
+['Chris Owens'],NA,week_9,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_9,Atlanta Falcons,2012
+['Corey Peters'],NA,week_9,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_9,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_9,Atlanta Falcons,2012
+['Garrett Reynolds'],Questionable: back,week_9,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_9,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_9,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_9,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_9,Atlanta Falcons,2012
+['Antone Smith'],NA,week_9,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_9,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_9,Atlanta Falcons,2012
+['Michael Turner'],NA,week_9,Atlanta Falcons,2012
+['Vance Walker'],Questionable: illness,week_9,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: ankle,week_9,Atlanta Falcons,2012
+['Roddy White'],Probable: back,week_9,Atlanta Falcons,2012
+['John Abraham'],Probable: elbow,week_10,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: hamstring,week_10,Atlanta Falcons,2012
+['Sam Baker'],Questionable: ankle,week_10,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_10,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_10,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_10,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: groin,week_10,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_10,Atlanta Falcons,2012
+['Drew Davis'],NA,week_10,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: ankle,week_10,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_10,Atlanta Falcons,2012
+['Tommy Gallarda'],NA,week_10,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_10,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_10,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_10,Atlanta Falcons,2012
+['Chris Hope'],NA,week_10,Atlanta Falcons,2012
+['Robert James'],NA,week_10,Atlanta Falcons,2012
+['Peria Jerry'],Questionable: knee,week_10,Atlanta Falcons,2012
+['Julio Jones'],Questionable: ankle,week_10,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_10,Atlanta Falcons,2012
+['Robert McClain'],Questionable: hip,week_10,Atlanta Falcons,2012
+['Todd McClure'],NA,week_10,Atlanta Falcons,2012
+['Charles Mitchell'],Questionable: calf,week_10,Atlanta Falcons,2012
+['William Moore'],NA,week_10,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_10,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_10,Atlanta Falcons,2012
+['Chris Owens'],Questionable: heel,week_10,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_10,Atlanta Falcons,2012
+['Corey Peters'],NA,week_10,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_10,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_10,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_10,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_10,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_10,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: hip,week_10,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_10,Atlanta Falcons,2012
+['Antone Smith'],NA,week_10,Atlanta Falcons,2012
+['Jason Snelling'],Questionable: illness,week_10,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_10,Atlanta Falcons,2012
+['Michael Turner'],NA,week_10,Atlanta Falcons,2012
+['Vance Walker'],NA,week_10,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: ankle,week_10,Atlanta Falcons,2012
+['Roddy White'],NA,week_10,Atlanta Falcons,2012
+['John Abraham'],Questionable: back,week_11,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: thigh,week_11,Atlanta Falcons,2012
+['Sam Baker'],NA,week_11,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_11,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_11,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: groin,week_11,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_11,Atlanta Falcons,2012
+['Drew Davis'],NA,week_11,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: ankle,week_11,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_11,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_11,Atlanta Falcons,2012
+['Tony Gonzalez'],Questionable: shoulder,week_11,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_11,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_11,Atlanta Falcons,2012
+['Chris Hope'],NA,week_11,Atlanta Falcons,2012
+['Robert James'],NA,week_11,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_11,Atlanta Falcons,2012
+['Julio Jones'],Questionable: ankle,week_11,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_11,Atlanta Falcons,2012
+['Robert McClain'],NA,week_11,Atlanta Falcons,2012
+['Todd McClure'],NA,week_11,Atlanta Falcons,2012
+['Charles Mitchell'],Questionable: calf,week_11,Atlanta Falcons,2012
+['William Moore'],NA,week_11,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: groin,week_11,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_11,Atlanta Falcons,2012
+['Chris Owens'],NA,week_11,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_11,Atlanta Falcons,2012
+['Corey Peters'],NA,week_11,Atlanta Falcons,2012
+['Mike Peterson'],Probable: foot,week_11,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_11,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_11,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_11,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_11,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_11,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_11,Atlanta Falcons,2012
+['Antone Smith'],NA,week_11,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_11,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_11,Atlanta Falcons,2012
+['Michael Turner'],Questionable: groin,week_11,Atlanta Falcons,2012
+['Vance Walker'],Questionable: ribs,week_11,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: ankle,week_11,Atlanta Falcons,2012
+['Roddy White'],NA,week_11,Atlanta Falcons,2012
+['John Abraham'],Questionable: back,week_12,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: neck,week_12,Atlanta Falcons,2012
+['Sam Baker'],NA,week_12,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_12,Atlanta Falcons,2012
+['Matt Bryant'],Questionable: back,week_12,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_12,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: groin,week_12,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_12,Atlanta Falcons,2012
+['Drew Davis'],NA,week_12,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_12,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_12,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_12,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_12,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_12,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_12,Atlanta Falcons,2012
+['Chris Hope'],NA,week_12,Atlanta Falcons,2012
+['Robert James'],NA,week_12,Atlanta Falcons,2012
+['Peria Jerry'],Questionable: quadricep,week_12,Atlanta Falcons,2012
+['Julio Jones'],Questionable: ankle,week_12,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_12,Atlanta Falcons,2012
+['Robert McClain'],NA,week_12,Atlanta Falcons,2012
+['Todd McClure'],NA,week_12,Atlanta Falcons,2012
+['Charles Mitchell'],Questionable: calf,week_12,Atlanta Falcons,2012
+['William Moore'],NA,week_12,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_12,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_12,Atlanta Falcons,2012
+['Chris Owens'],Questionable: ankle,week_12,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_12,Atlanta Falcons,2012
+['Corey Peters'],Questionable: shoulder,week_12,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_12,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_12,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_12,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_12,Atlanta Falcons,2012
+['Matt Ryan'],Probable: left finger,week_12,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: shoulder,week_12,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_12,Atlanta Falcons,2012
+['Antone Smith'],NA,week_12,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_12,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_12,Atlanta Falcons,2012
+['Michael Turner'],Questionable: groin,week_12,Atlanta Falcons,2012
+['Vance Walker'],Questionable: ribs,week_12,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: ankle,week_12,Atlanta Falcons,2012
+['Roddy White'],NA,week_12,Atlanta Falcons,2012
+['John Abraham'],NA,week_13,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_13,Atlanta Falcons,2012
+['Sam Baker'],Questionable: groin,week_13,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_13,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_13,Atlanta Falcons,2012
+['Kevin Cone'],Questionable: groin,week_13,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_13,Atlanta Falcons,2012
+['Drew Davis'],NA,week_13,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: ankle,week_13,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_13,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_13,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_13,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_13,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_13,Atlanta Falcons,2012
+['Chris Hope'],NA,week_13,Atlanta Falcons,2012
+['Robert James'],NA,week_13,Atlanta Falcons,2012
+['Peria Jerry'],Questionable: quadricep,week_13,Atlanta Falcons,2012
+['Julio Jones'],NA,week_13,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_13,Atlanta Falcons,2012
+['Robert McClain'],NA,week_13,Atlanta Falcons,2012
+['Todd McClure'],NA,week_13,Atlanta Falcons,2012
+['Charles Mitchell'],Questionable: calf,week_13,Atlanta Falcons,2012
+['William Moore'],NA,week_13,Atlanta Falcons,2012
+['Stephen Nicholas'],Questionable: knee,week_13,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_13,Atlanta Falcons,2012
+['Chris Owens'],NA,week_13,Atlanta Falcons,2012
+['Michael Palmer'],Questionable: back,week_13,Atlanta Falcons,2012
+['Corey Peters'],Questionable: shoulder,week_13,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_13,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_13,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_13,Atlanta Falcons,2012
+['Dunta Robinson'],Questionable: head,week_13,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_13,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: shoulder,week_13,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_13,Atlanta Falcons,2012
+['Antone Smith'],NA,week_13,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_13,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_13,Atlanta Falcons,2012
+['Michael Turner'],NA,week_13,Atlanta Falcons,2012
+['Vance Walker'],Questionable: ribs,week_13,Atlanta Falcons,2012
+['Sean Weatherspoon'],Questionable: ankle,week_13,Atlanta Falcons,2012
+['Roddy White'],NA,week_13,Atlanta Falcons,2012
+['John Abraham'],NA,week_14,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_14,Atlanta Falcons,2012
+['Sam Baker'],NA,week_14,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_14,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_14,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_14,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_14,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_14,Atlanta Falcons,2012
+['Drew Davis'],NA,week_14,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_14,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_14,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_14,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_14,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_14,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_14,Atlanta Falcons,2012
+['Chris Hope'],NA,week_14,Atlanta Falcons,2012
+['Robert James'],NA,week_14,Atlanta Falcons,2012
+['Peria Jerry'],Questionable: quadricep,week_14,Atlanta Falcons,2012
+['Julio Jones'],NA,week_14,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_14,Atlanta Falcons,2012
+['Robert McClain'],NA,week_14,Atlanta Falcons,2012
+['Todd McClure'],NA,week_14,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_14,Atlanta Falcons,2012
+['William Moore'],Questionable: hamstring,week_14,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_14,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_14,Atlanta Falcons,2012
+['Chris Owens'],NA,week_14,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_14,Atlanta Falcons,2012
+['Corey Peters'],NA,week_14,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_14,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_14,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_14,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_14,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_14,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: shoulder,week_14,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_14,Atlanta Falcons,2012
+['Antone Smith'],NA,week_14,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_14,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_14,Atlanta Falcons,2012
+['Michael Turner'],Probable: elbow,week_14,Atlanta Falcons,2012
+['Vance Walker'],NA,week_14,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_14,Atlanta Falcons,2012
+['Roddy White'],NA,week_14,Atlanta Falcons,2012
+['John Abraham'],NA,week_15,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: ribs,week_15,Atlanta Falcons,2012
+['Sam Baker'],Questionable: hand,week_15,Atlanta Falcons,2012
+['Justin Blalock'],Questionable: elbow,week_15,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_15,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_15,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_15,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_15,Atlanta Falcons,2012
+['Drew Davis'],NA,week_15,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: ribs,week_15,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_15,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_15,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_15,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_15,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_15,Atlanta Falcons,2012
+['Chris Hope'],Questionable: head,week_15,Atlanta Falcons,2012
+['Robert James'],NA,week_15,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_15,Atlanta Falcons,2012
+['Julio Jones'],NA,week_15,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_15,Atlanta Falcons,2012
+['Robert McClain'],NA,week_15,Atlanta Falcons,2012
+['Todd McClure'],NA,week_15,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_15,Atlanta Falcons,2012
+['William Moore'],Questionable: hamstring,week_15,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_15,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_15,Atlanta Falcons,2012
+['Chris Owens'],NA,week_15,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_15,Atlanta Falcons,2012
+['Corey Peters'],NA,week_15,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_15,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_15,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_15,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_15,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_15,Atlanta Falcons,2012
+['Asante Samuel'],Questionable: shoulder,week_15,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_15,Atlanta Falcons,2012
+['Antone Smith'],NA,week_15,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_15,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_15,Atlanta Falcons,2012
+['Michael Turner'],NA,week_15,Atlanta Falcons,2012
+['Vance Walker'],NA,week_15,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_15,Atlanta Falcons,2012
+['Roddy White'],Questionable: knee,week_15,Atlanta Falcons,2012
+['John Abraham'],NA,week_16,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: ribs,week_16,Atlanta Falcons,2012
+['Sam Baker'],NA,week_16,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_16,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2012
+['Tyson Clabo'],Questionable: thigh,week_16,Atlanta Falcons,2012
+['Kevin Cone'],NA,week_16,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_16,Atlanta Falcons,2012
+['Drew Davis'],NA,week_16,Atlanta Falcons,2012
+['Harry Douglas'],Questionable: ribs,week_16,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_16,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_16,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_16,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_16,Atlanta Falcons,2012
+['Joe Hawley'],Probable: four-game suspension served,week_16,Atlanta Falcons,2012
+['Chris Hope'],NA,week_16,Atlanta Falcons,2012
+['Robert James'],NA,week_16,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_16,Atlanta Falcons,2012
+['Julio Jones'],NA,week_16,Atlanta Falcons,2012
+['Cliff Matthews'],Questionable: hamstring,week_16,Atlanta Falcons,2012
+['Robert McClain'],NA,week_16,Atlanta Falcons,2012
+['Todd McClure'],NA,week_16,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_16,Atlanta Falcons,2012
+['William Moore'],Questionable: hamstring,week_16,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_16,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_16,Atlanta Falcons,2012
+['Chris Owens'],Questionable: hamstring,week_16,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_16,Atlanta Falcons,2012
+['Corey Peters'],NA,week_16,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_16,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_16,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_16,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_16,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_16,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_16,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_16,Atlanta Falcons,2012
+['Antone Smith'],NA,week_16,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_16,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_16,Atlanta Falcons,2012
+['Michael Turner'],NA,week_16,Atlanta Falcons,2012
+['Vance Walker'],NA,week_16,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_16,Atlanta Falcons,2012
+['Roddy White'],Probable: knee,week_16,Atlanta Falcons,2012
+['John Abraham'],NA,week_17,Atlanta Falcons,2012
+['Jonathan Babineaux'],Questionable: ribs,week_17,Atlanta Falcons,2012
+['Sam Baker'],NA,week_17,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_17,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_17,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_17,Atlanta Falcons,2012
+['Kevin Cone'],Injured Reserve: groin,week_17,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_17,Atlanta Falcons,2012
+['Drew Davis'],NA,week_17,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_17,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_17,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_17,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_17,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_17,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_17,Atlanta Falcons,2012
+['Chris Hope'],NA,week_17,Atlanta Falcons,2012
+['Robert James'],NA,week_17,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_17,Atlanta Falcons,2012
+['Julio Jones'],NA,week_17,Atlanta Falcons,2012
+['Cliff Matthews'],Questionable: hamstring,week_17,Atlanta Falcons,2012
+['Robert McClain'],NA,week_17,Atlanta Falcons,2012
+['Todd McClure'],NA,week_17,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_17,Atlanta Falcons,2012
+['William Moore'],Questionable: hamstring,week_17,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_17,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_17,Atlanta Falcons,2012
+['Chris Owens'],Questionable: hamstring,week_17,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_17,Atlanta Falcons,2012
+['Corey Peters'],Questionable: knee,week_17,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_17,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_17,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_17,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_17,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_17,Atlanta Falcons,2012
+['Asante Samuel'],Doubtful: shoulder,week_17,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_17,Atlanta Falcons,2012
+['Antone Smith'],NA,week_17,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_17,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_17,Atlanta Falcons,2012
+['Michael Turner'],NA,week_17,Atlanta Falcons,2012
+['Vance Walker'],NA,week_17,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_17,Atlanta Falcons,2012
+['Roddy White'],Questionable: knee,week_17,Atlanta Falcons,2012
+['John Abraham'],Probable: ankle,week_19,Atlanta Falcons,2012
+['Jonathan Babineaux'],NA,week_19,Atlanta Falcons,2012
+['Sam Baker'],NA,week_19,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_19,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_19,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_19,Atlanta Falcons,2012
+['Kevin Cone'],Injured Reserve: groin,week_19,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_19,Atlanta Falcons,2012
+['Drew Davis'],NA,week_19,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_19,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_19,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_19,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_19,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_19,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_19,Atlanta Falcons,2012
+['Chris Hope'],NA,week_19,Atlanta Falcons,2012
+['Robert James'],NA,week_19,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_19,Atlanta Falcons,2012
+['Julio Jones'],NA,week_19,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_19,Atlanta Falcons,2012
+['Robert McClain'],NA,week_19,Atlanta Falcons,2012
+['Todd McClure'],NA,week_19,Atlanta Falcons,2012
+['Charles Mitchell'],Questionable: calf,week_19,Atlanta Falcons,2012
+['William Moore'],Questionable: hamstring,week_19,Atlanta Falcons,2012
+['Stephen Nicholas'],NA,week_19,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_19,Atlanta Falcons,2012
+['Chris Owens'],Questionable: hamstring,week_19,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_19,Atlanta Falcons,2012
+['Corey Peters'],NA,week_19,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_19,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_19,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_19,Atlanta Falcons,2012
+['Dunta Robinson'],Probable: head,week_19,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_19,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_19,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_19,Atlanta Falcons,2012
+['Antone Smith'],NA,week_19,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_19,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_19,Atlanta Falcons,2012
+['Michael Turner'],NA,week_19,Atlanta Falcons,2012
+['Vance Walker'],NA,week_19,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_19,Atlanta Falcons,2012
+['Roddy White'],NA,week_19,Atlanta Falcons,2012
+['John Abraham'],Questionable: ankle,week_20,Atlanta Falcons,2012
+['Jonathan Babineaux'],Probable: shoulder,week_20,Atlanta Falcons,2012
+['Sam Baker'],NA,week_20,Atlanta Falcons,2012
+['Justin Blalock'],NA,week_20,Atlanta Falcons,2012
+['Matt Bryant'],NA,week_20,Atlanta Falcons,2012
+['Tyson Clabo'],NA,week_20,Atlanta Falcons,2012
+['Kevin Cone'],Injured Reserve: groin,week_20,Atlanta Falcons,2012
+['Dominique Davis'],NA,week_20,Atlanta Falcons,2012
+['Drew Davis'],NA,week_20,Atlanta Falcons,2012
+['Harry Douglas'],NA,week_20,Atlanta Falcons,2012
+['Bradie Ewing'],Injured Reserve: knee,week_20,Atlanta Falcons,2012
+['Tommy Gallarda'],Injured Reserve: shoulder,week_20,Atlanta Falcons,2012
+['Tony Gonzalez'],NA,week_20,Atlanta Falcons,2012
+['Brent Grimes'],Injured Reserve: Achilles,week_20,Atlanta Falcons,2012
+['Joe Hawley'],NA,week_20,Atlanta Falcons,2012
+['Chris Hope'],NA,week_20,Atlanta Falcons,2012
+['Robert James'],NA,week_20,Atlanta Falcons,2012
+['Peria Jerry'],NA,week_20,Atlanta Falcons,2012
+['Julio Jones'],NA,week_20,Atlanta Falcons,2012
+['Cliff Matthews'],NA,week_20,Atlanta Falcons,2012
+['Robert McClain'],NA,week_20,Atlanta Falcons,2012
+['Todd McClure'],NA,week_20,Atlanta Falcons,2012
+['Charles Mitchell'],NA,week_20,Atlanta Falcons,2012
+['William Moore'],Probable: hand,week_20,Atlanta Falcons,2012
+['Stephen Nicholas'],Probable: foot,week_20,Atlanta Falcons,2012
+['Adam Nissley'],Injured Reserve: undisclosed,week_20,Atlanta Falcons,2012
+['Chris Owens'],Questionable: hamstring,week_20,Atlanta Falcons,2012
+['Michael Palmer'],NA,week_20,Atlanta Falcons,2012
+['Corey Peters'],NA,week_20,Atlanta Falcons,2012
+['Mike Peterson'],NA,week_20,Atlanta Falcons,2012
+['Lousaka Polite'],NA,week_20,Atlanta Falcons,2012
+['Garrett Reynolds'],Injured Reserve: back,week_20,Atlanta Falcons,2012
+['Dunta Robinson'],NA,week_20,Atlanta Falcons,2012
+['Matt Ryan'],NA,week_20,Atlanta Falcons,2012
+['Asante Samuel'],NA,week_20,Atlanta Falcons,2012
+['Shann Schillinger'],Injured Reserve: ankle,week_20,Atlanta Falcons,2012
+['Antone Smith'],NA,week_20,Atlanta Falcons,2012
+['Jason Snelling'],NA,week_20,Atlanta Falcons,2012
+['Will Svitek'],Injured Reserve: arm,week_20,Atlanta Falcons,2012
+['Michael Turner'],Questionable: ankle,week_20,Atlanta Falcons,2012
+['Vance Walker'],NA,week_20,Atlanta Falcons,2012
+['Sean Weatherspoon'],NA,week_20,Atlanta Falcons,2012
+['Roddy White'],NA,week_20,Atlanta Falcons,2012
