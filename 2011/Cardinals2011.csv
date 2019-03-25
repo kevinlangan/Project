@@ -1,0 +1,593 @@
+﻿name,injury,week,team,year
+['Michael Adams'],Questionable: knee,week_1,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_1,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_1,Arizona Cardinals,2011
+['Crezdon Butler'],NA,week_1,Arizona Cardinals,2011
+['Sean Considine'],NA,week_1,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_1,Arizona Cardinals,2011
+['Early Doucet'],NA,week_1,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_1,Arizona Cardinals,2011
+['Nick Eason'],NA,week_1,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_1,Arizona Cardinals,2011
+['Todd Heap'],NA,week_1,Arizona Cardinals,2011
+['Rob Housler'],Questionable: groin,week_1,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_1,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_1,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_1,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_1,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_1,Arizona Cardinals,2011
+['Korey Lindsey'],Questionable: illness,week_1,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_1,Arizona Cardinals,2011
+['Joey Porter'],NA,week_1,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_1,Arizona Cardinals,2011
+['DeMarco Sampson'],Probable: hamstring,week_1,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_1,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_1,Arizona Cardinals,2011
+['John Skelton'],Questionable: ankle,week_1,Arizona Cardinals,2011
+['Alfonso Smith'],Probable: hamstring,week_1,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_1,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_1,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_1,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_1,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_1,Arizona Cardinals,2011
+['Beanie Wells'],NA,week_1,Arizona Cardinals,2011
+['Dan Williams'],NA,week_1,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_1,Arizona Cardinals,2011
+['Adrian Wilson'],Probable: bicep,week_1,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_1,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_1,Arizona Cardinals,2011
+['Michael Adams'],NA,week_2,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_2,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_2,Arizona Cardinals,2011
+['Crezdon Butler'],Out: ankle,week_2,Arizona Cardinals,2011
+['Sean Considine'],NA,week_2,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_2,Arizona Cardinals,2011
+['Early Doucet'],NA,week_2,Arizona Cardinals,2011
+['Jim Dray'],Doubtful: pectoral,week_2,Arizona Cardinals,2011
+['Nick Eason'],NA,week_2,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_2,Arizona Cardinals,2011
+['Todd Heap'],NA,week_2,Arizona Cardinals,2011
+['Rob Housler'],NA,week_2,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_2,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_2,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_2,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_2,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_2,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_2,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_2,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_2,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_2,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: hamstring,week_2,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_2,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_2,Arizona Cardinals,2011
+['John Skelton'],NA,week_2,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_2,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: hand,week_2,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_2,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_2,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_2,Arizona Cardinals,2011
+['Daryl Washington'],Questionable: calf,week_2,Arizona Cardinals,2011
+['Beanie Wells'],NA,week_2,Arizona Cardinals,2011
+['Dan Williams'],NA,week_2,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_2,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_2,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_2,Arizona Cardinals,2011
+['Dave Zastudil'],Probable: calf,week_2,Arizona Cardinals,2011
+['Michael Adams'],NA,week_3,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_3,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_3,Arizona Cardinals,2011
+['Crezdon Butler'],Questionable: ankle,week_3,Arizona Cardinals,2011
+['Sean Considine'],NA,week_3,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_3,Arizona Cardinals,2011
+['Early Doucet'],NA,week_3,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_3,Arizona Cardinals,2011
+['Nick Eason'],NA,week_3,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_3,Arizona Cardinals,2011
+['Todd Heap'],NA,week_3,Arizona Cardinals,2011
+['Rob Housler'],NA,week_3,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_3,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_3,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_3,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_3,Arizona Cardinals,2011
+['Paris Lenon'],Probable: groin,week_3,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_3,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_3,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_3,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_3,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: hamstring,week_3,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_3,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_3,Arizona Cardinals,2011
+['John Skelton'],NA,week_3,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_3,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: hand,week_3,Arizona Cardinals,2011
+['Chansi Stuckey'],Questionable: hamstring,week_3,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_3,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_3,Arizona Cardinals,2011
+['Daryl Washington'],Questionable: calf,week_3,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: hamstring,week_3,Arizona Cardinals,2011
+['Dan Williams'],NA,week_3,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_3,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_3,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_3,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_3,Arizona Cardinals,2011
+['Michael Adams'],NA,week_4,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_4,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_4,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_4,Arizona Cardinals,2011
+['Sean Considine'],NA,week_4,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_4,Arizona Cardinals,2011
+['Early Doucet'],NA,week_4,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_4,Arizona Cardinals,2011
+['Nick Eason'],NA,week_4,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_4,Arizona Cardinals,2011
+['Todd Heap'],Questionable: ribs,week_4,Arizona Cardinals,2011
+['Rob Housler'],NA,week_4,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_4,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_4,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_4,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_4,Arizona Cardinals,2011
+['Paris Lenon'],Questionable: groin,week_4,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_4,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_4,Arizona Cardinals,2011
+['Joey Porter'],NA,week_4,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_4,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_4,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_4,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_4,Arizona Cardinals,2011
+['John Skelton'],NA,week_4,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_4,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: hand,week_4,Arizona Cardinals,2011
+['Chansi Stuckey'],Questionable: hamstring,week_4,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_4,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_4,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_4,Arizona Cardinals,2011
+['Beanie Wells'],Probable: hamstring,week_4,Arizona Cardinals,2011
+['Dan Williams'],NA,week_4,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_4,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_4,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_4,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_4,Arizona Cardinals,2011
+['Michael Adams'],Probable: wrist,week_5,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_5,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_5,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_5,Arizona Cardinals,2011
+['Sean Considine'],NA,week_5,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_5,Arizona Cardinals,2011
+['Early Doucet'],Questionable: hamstring,week_5,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_5,Arizona Cardinals,2011
+['Nick Eason'],NA,week_5,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_5,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_5,Arizona Cardinals,2011
+['Rob Housler'],NA,week_5,Arizona Cardinals,2011
+['A.J. Jefferson'],Questionable: ankle,week_5,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_5,Arizona Cardinals,2011
+['Brandon Keith'],Probable: knee,week_5,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_5,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_5,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_5,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_5,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_5,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_5,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_5,Arizona Cardinals,2011
+['Lyle Sendlein'],Questionable: elbow,week_5,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_5,Arizona Cardinals,2011
+['John Skelton'],NA,week_5,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_5,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_5,Arizona Cardinals,2011
+['Chansi Stuckey'],Probable: hamstring,week_5,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_5,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_5,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_5,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: hamstring,week_5,Arizona Cardinals,2011
+['Dan Williams'],NA,week_5,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_5,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_5,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_5,Arizona Cardinals,2011
+['Dave Zastudil'],Questionable: right knee,week_5,Arizona Cardinals,2011
+['Michael Adams'],NA,week_7,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_7,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_7,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_7,Arizona Cardinals,2011
+['Sean Considine'],NA,week_7,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_7,Arizona Cardinals,2011
+['Early Doucet'],NA,week_7,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_7,Arizona Cardinals,2011
+['Nick Eason'],NA,week_7,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_7,Arizona Cardinals,2011
+['Todd Heap'],Doubtful: hamstring,week_7,Arizona Cardinals,2011
+['Rob Housler'],NA,week_7,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_7,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_7,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_7,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_7,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_7,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_7,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_7,Arizona Cardinals,2011
+['Joey Porter'],Probable: knee,week_7,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_7,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_7,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_7,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_7,Arizona Cardinals,2011
+['John Skelton'],NA,week_7,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_7,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_7,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_7,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_7,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_7,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_7,Arizona Cardinals,2011
+['Beanie Wells'],NA,week_7,Arizona Cardinals,2011
+['Dan Williams'],NA,week_7,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_7,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_7,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_7,Arizona Cardinals,2011
+['Dave Zastudil'],Probable: right knee,week_7,Arizona Cardinals,2011
+['Michael Adams'],Questionable: hand,week_8,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_8,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_8,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_8,Arizona Cardinals,2011
+['Sean Considine'],NA,week_8,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_8,Arizona Cardinals,2011
+['Early Doucet'],Questionable: quadricep,week_8,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_8,Arizona Cardinals,2011
+['Nick Eason'],NA,week_8,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_8,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_8,Arizona Cardinals,2011
+['Rob Housler'],NA,week_8,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_8,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_8,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_8,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_8,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_8,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_8,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_8,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_8,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_8,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: hamstring,week_8,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_8,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_8,Arizona Cardinals,2011
+['John Skelton'],NA,week_8,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_8,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_8,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_8,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_8,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_8,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_8,Arizona Cardinals,2011
+['Beanie Wells'],NA,week_8,Arizona Cardinals,2011
+['Dan Williams'],NA,week_8,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_8,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_8,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_8,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_8,Arizona Cardinals,2011
+['Michael Adams'],NA,week_9,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_9,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_9,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_9,Arizona Cardinals,2011
+['Sean Considine'],NA,week_9,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_9,Arizona Cardinals,2011
+['Early Doucet'],NA,week_9,Arizona Cardinals,2011
+['Jim Dray'],Questionable: pectoral,week_9,Arizona Cardinals,2011
+['Nick Eason'],Questionable: achilles,week_9,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_9,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_9,Arizona Cardinals,2011
+['Rob Housler'],Questionable: groin,week_9,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_9,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_9,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_9,Arizona Cardinals,2011
+['Kevin Kolb'],Doubtful: foot,week_9,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_9,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_9,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_9,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_9,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_9,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: hamstring,week_9,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_9,Arizona Cardinals,2011
+['Anthony Sherman'],Questionable: ankle,week_9,Arizona Cardinals,2011
+['John Skelton'],NA,week_9,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_9,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: shoulder,week_9,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_9,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_9,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_9,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_9,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_9,Arizona Cardinals,2011
+['Dan Williams'],NA,week_9,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_9,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_9,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_9,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_9,Arizona Cardinals,2011
+['Michael Adams'],Probable: neck/shoulder,week_10,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_10,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_10,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_10,Arizona Cardinals,2011
+['Sean Considine'],NA,week_10,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_10,Arizona Cardinals,2011
+['Early Doucet'],NA,week_10,Arizona Cardinals,2011
+['Jim Dray'],NA,week_10,Arizona Cardinals,2011
+['Nick Eason'],NA,week_10,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_10,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_10,Arizona Cardinals,2011
+['Rob Housler'],Questionable: groin,week_10,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_10,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_10,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_10,Arizona Cardinals,2011
+['Kevin Kolb'],Out: foot,week_10,Arizona Cardinals,2011
+['Paris Lenon'],Questionable: groin,week_10,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_10,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_10,Arizona Cardinals,2011
+['Joey Porter'],Out: knee,week_10,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_10,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_10,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_10,Arizona Cardinals,2011
+['Anthony Sherman'],Questionable: ankle,week_10,Arizona Cardinals,2011
+['John Skelton'],NA,week_10,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_10,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: shoulder,week_10,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_10,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_10,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_10,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_10,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_10,Arizona Cardinals,2011
+['Dan Williams'],NA,week_10,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_10,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_10,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_10,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_10,Arizona Cardinals,2011
+['Michael Adams'],Questionable: knee,week_11,Arizona Cardinals,2011
+['Stewart Bradley'],Questionable: ribs,week_11,Arizona Cardinals,2011
+['Jeremy Bridges'],Questionable: back,week_11,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_11,Arizona Cardinals,2011
+['Sean Considine'],NA,week_11,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_11,Arizona Cardinals,2011
+['Early Doucet'],NA,week_11,Arizona Cardinals,2011
+['Jim Dray'],NA,week_11,Arizona Cardinals,2011
+['Nick Eason'],NA,week_11,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_11,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_11,Arizona Cardinals,2011
+['Rob Housler'],Questionable: groin,week_11,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_11,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_11,Arizona Cardinals,2011
+['Brandon Keith'],Questionable: knee,week_11,Arizona Cardinals,2011
+['Kevin Kolb'],Doubtful: foot,week_11,Arizona Cardinals,2011
+['Paris Lenon'],Questionable: groin,week_11,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_11,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_11,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_11,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_11,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_11,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_11,Arizona Cardinals,2011
+['Anthony Sherman'],Questionable: ankle,week_11,Arizona Cardinals,2011
+['John Skelton'],NA,week_11,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_11,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: shoulder,week_11,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_11,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_11,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_11,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_11,Arizona Cardinals,2011
+['Beanie Wells'],Probable: knee,week_11,Arizona Cardinals,2011
+['Dan Williams'],NA,week_11,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_11,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_11,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_11,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_11,Arizona Cardinals,2011
+['Michael Adams'],Questionable: hamstring,week_12,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_12,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_12,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_12,Arizona Cardinals,2011
+['Sean Considine'],NA,week_12,Arizona Cardinals,2011
+['Darnell Dockett'],Probable: groin,week_12,Arizona Cardinals,2011
+['Early Doucet'],NA,week_12,Arizona Cardinals,2011
+['Jim Dray'],NA,week_12,Arizona Cardinals,2011
+['Nick Eason'],NA,week_12,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_12,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_12,Arizona Cardinals,2011
+['Rob Housler'],Questionable: groin,week_12,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_12,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_12,Arizona Cardinals,2011
+['Brandon Keith'],Questionable: head,week_12,Arizona Cardinals,2011
+['Kevin Kolb'],Questionable: foot,week_12,Arizona Cardinals,2011
+['Paris Lenon'],Probable: groin,week_12,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_12,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_12,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_12,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_12,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_12,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_12,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_12,Arizona Cardinals,2011
+['John Skelton'],NA,week_12,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_12,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Probable: shoulder,week_12,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_12,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_12,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_12,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_12,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_12,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_12,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_12,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_12,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_12,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_12,Arizona Cardinals,2011
+['Michael Adams'],Probable: hamstring,week_13,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_13,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_13,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_13,Arizona Cardinals,2011
+['Sean Considine'],NA,week_13,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_13,Arizona Cardinals,2011
+['Early Doucet'],NA,week_13,Arizona Cardinals,2011
+['Jim Dray'],NA,week_13,Arizona Cardinals,2011
+['Nick Eason'],NA,week_13,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_13,Arizona Cardinals,2011
+['Todd Heap'],Probable: hamstring,week_13,Arizona Cardinals,2011
+['Rob Housler'],Probable: groin,week_13,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_13,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_13,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_13,Arizona Cardinals,2011
+['Kevin Kolb'],Probable: foot,week_13,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_13,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_13,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_13,Arizona Cardinals,2011
+['Joey Porter'],Doubtful: knee,week_13,Arizona Cardinals,2011
+['Kerry Rhodes'],Out: foot,week_13,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_13,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_13,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_13,Arizona Cardinals,2011
+['John Skelton'],NA,week_13,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_13,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Probable: shoulder,week_13,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_13,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_13,Arizona Cardinals,2011
+['Reggie Walker'],Questionable: hamstring,week_13,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_13,Arizona Cardinals,2011
+['Beanie Wells'],Probable: knee,week_13,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_13,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_13,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_13,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_13,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_13,Arizona Cardinals,2011
+['Michael Adams'],Probable: hamstring,week_14,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_14,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_14,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_14,Arizona Cardinals,2011
+['Sean Considine'],Questionable: Achilles,week_14,Arizona Cardinals,2011
+['Darnell Dockett'],Probable: quadricep,week_14,Arizona Cardinals,2011
+['Early Doucet'],NA,week_14,Arizona Cardinals,2011
+['Jim Dray'],NA,week_14,Arizona Cardinals,2011
+['Nick Eason'],NA,week_14,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_14,Arizona Cardinals,2011
+['Todd Heap'],Questionable: hamstring,week_14,Arizona Cardinals,2011
+['Rob Housler'],NA,week_14,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_14,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_14,Arizona Cardinals,2011
+['Brandon Keith'],NA,week_14,Arizona Cardinals,2011
+['Kevin Kolb'],NA,week_14,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_14,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_14,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_14,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_14,Arizona Cardinals,2011
+['Kerry Rhodes'],Questionable: foot,week_14,Arizona Cardinals,2011
+['DeMarco Sampson'],NA,week_14,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_14,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_14,Arizona Cardinals,2011
+['John Skelton'],NA,week_14,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_14,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_14,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_14,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_14,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_14,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_14,Arizona Cardinals,2011
+['Beanie Wells'],Probable: knee/thumb/hamstring,week_14,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_14,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_14,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_14,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_14,Arizona Cardinals,2011
+['Dave Zastudil'],Questionable: biceps,week_14,Arizona Cardinals,2011
+['Michael Adams'],NA,week_15,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_15,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_15,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_15,Arizona Cardinals,2011
+['Sean Considine'],Questionable: Achilles,week_15,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_15,Arizona Cardinals,2011
+['Early Doucet'],NA,week_15,Arizona Cardinals,2011
+['Jim Dray'],NA,week_15,Arizona Cardinals,2011
+['Nick Eason'],NA,week_15,Arizona Cardinals,2011
+['Clark Haggans'],Probable: hamstring,week_15,Arizona Cardinals,2011
+['Todd Heap'],NA,week_15,Arizona Cardinals,2011
+['Rob Housler'],Probable: shoulder,week_15,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_15,Arizona Cardinals,2011
+['Rashad Johnson'],NA,week_15,Arizona Cardinals,2011
+['Brandon Keith'],Questionable: ankle,week_15,Arizona Cardinals,2011
+['Kevin Kolb'],Questionable: head,week_15,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_15,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_15,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_15,Arizona Cardinals,2011
+['Joey Porter'],Questionable: knee,week_15,Arizona Cardinals,2011
+['Kerry Rhodes'],Probable: foot,week_15,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: ribs,week_15,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_15,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_15,Arizona Cardinals,2011
+['John Skelton'],NA,week_15,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_15,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],NA,week_15,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_15,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_15,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_15,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_15,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_15,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_15,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_15,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_15,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_15,Arizona Cardinals,2011
+['Dave Zastudil'],Questionable: biceps,week_15,Arizona Cardinals,2011
+['Michael Adams'],Questionable: shoulder,week_16,Arizona Cardinals,2011
+['Stewart Bradley'],Questionable: hamstring,week_16,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_16,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_16,Arizona Cardinals,2011
+['Sean Considine'],Questionable: Achilles,week_16,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_16,Arizona Cardinals,2011
+['Early Doucet'],NA,week_16,Arizona Cardinals,2011
+['Jim Dray'],NA,week_16,Arizona Cardinals,2011
+['Nick Eason'],NA,week_16,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_16,Arizona Cardinals,2011
+['Todd Heap'],NA,week_16,Arizona Cardinals,2011
+['Rob Housler'],NA,week_16,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_16,Arizona Cardinals,2011
+['Rashad Johnson'],Questionable: knee,week_16,Arizona Cardinals,2011
+['Brandon Keith'],Questionable: ankle,week_16,Arizona Cardinals,2011
+['Kevin Kolb'],Questionable: head,week_16,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_16,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_16,Arizona Cardinals,2011
+['Patrick Peterson'],NA,week_16,Arizona Cardinals,2011
+['Joey Porter'],Injured Reserve: knee,week_16,Arizona Cardinals,2011
+['Kerry Rhodes'],NA,week_16,Arizona Cardinals,2011
+['DeMarco Sampson'],Probable: ribs,week_16,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_16,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_16,Arizona Cardinals,2011
+['John Skelton'],NA,week_16,Arizona Cardinals,2011
+['Alfonso Smith'],Questionable: back,week_16,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: hamstring,week_16,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_16,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_16,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_16,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_16,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_16,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_16,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_16,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_16,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_16,Arizona Cardinals,2011
+['Dave Zastudil'],Questionable: biceps,week_16,Arizona Cardinals,2011
+['Michael Adams'],Probable: shoulder,week_17,Arizona Cardinals,2011
+['Stewart Bradley'],NA,week_17,Arizona Cardinals,2011
+['Jeremy Bridges'],NA,week_17,Arizona Cardinals,2011
+['Crezdon Butler'],Injured Reserve: ankle,week_17,Arizona Cardinals,2011
+['Sean Considine'],Questionable: Achilles,week_17,Arizona Cardinals,2011
+['Darnell Dockett'],NA,week_17,Arizona Cardinals,2011
+['Early Doucet'],NA,week_17,Arizona Cardinals,2011
+['Jim Dray'],NA,week_17,Arizona Cardinals,2011
+['Nick Eason'],NA,week_17,Arizona Cardinals,2011
+['Clark Haggans'],NA,week_17,Arizona Cardinals,2011
+['Todd Heap'],NA,week_17,Arizona Cardinals,2011
+['Rob Housler'],NA,week_17,Arizona Cardinals,2011
+['A.J. Jefferson'],NA,week_17,Arizona Cardinals,2011
+['Rashad Johnson'],Questionable: knee,week_17,Arizona Cardinals,2011
+['Brandon Keith'],Questionable: ankle,week_17,Arizona Cardinals,2011
+['Kevin Kolb'],Out: head,week_17,Arizona Cardinals,2011
+['Paris Lenon'],NA,week_17,Arizona Cardinals,2011
+['Korey Lindsey'],NA,week_17,Arizona Cardinals,2011
+['Patrick Peterson'],Questionable: Achilles,week_17,Arizona Cardinals,2011
+['Joey Porter'],Injured Reserve: knee,week_17,Arizona Cardinals,2011
+['Kerry Rhodes'],Questionable: ankle,week_17,Arizona Cardinals,2011
+['DeMarco Sampson'],Questionable: ribs,week_17,Arizona Cardinals,2011
+['Lyle Sendlein'],NA,week_17,Arizona Cardinals,2011
+['Anthony Sherman'],NA,week_17,Arizona Cardinals,2011
+['John Skelton'],NA,week_17,Arizona Cardinals,2011
+['Alfonso Smith'],NA,week_17,Arizona Cardinals,2011
+['LaRod Stephens-Howling'],Questionable: hamstring,week_17,Arizona Cardinals,2011
+['Chansi Stuckey'],NA,week_17,Arizona Cardinals,2011
+['Greg Toler'],Injured Reserve: knee,week_17,Arizona Cardinals,2011
+['Reggie Walker'],NA,week_17,Arizona Cardinals,2011
+['Daryl Washington'],NA,week_17,Arizona Cardinals,2011
+['Beanie Wells'],Questionable: knee,week_17,Arizona Cardinals,2011
+['Dan Williams'],Injured Reserve: arm,week_17,Arizona Cardinals,2011
+['Ryan Williams'],Injured Reserve: knee,week_17,Arizona Cardinals,2011
+['Adrian Wilson'],NA,week_17,Arizona Cardinals,2011
+['Floyd Womack'],Injured Reserve: shoulder,week_17,Arizona Cardinals,2011
+['Dave Zastudil'],NA,week_17,Arizona Cardinals,2011

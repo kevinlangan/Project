@@ -1,0 +1,989 @@
+﻿name,injury,week,team,year
+['Mark Anderson'],Questionable: knee,week_1,New England Patriots,2011
+['Kyle Arrington'],Questionable: hip,week_1,New England Patriots,2011
+['Josh Barrett'],NA,week_1,New England Patriots,2011
+['Leigh Bodden'],Probable: hand,week_1,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_1,New England Patriots,2011
+['Tom Brady'],NA,week_1,New England Patriots,2011
+['Deion Branch'],NA,week_1,New England Patriots,2011
+['Sergio Brown'],NA,week_1,New England Patriots,2011
+['Marcus Cannon'],NA,week_1,New England Patriots,2011
+['Andre Carter'],NA,week_1,New England Patriots,2011
+['Patrick Chung'],NA,week_1,New England Patriots,2011
+['Dan Connolly'],Questionable: foot,week_1,New England Patriots,2011
+['Jermaine Cunningham'],Questionable: groin,week_1,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_1,New England Patriots,2011
+['Ras-I Dowling'],NA,week_1,New England Patriots,2011
+['Julian Edelman'],Probable: hand,week_1,New England Patriots,2011
+['Shaun Ellis'],NA,week_1,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_1,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_1,New England Patriots,2011
+['Vincent Fuller'],NA,week_1,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_1,New England Patriots,2011
+['Dan Gronkowski'],NA,week_1,New England Patriots,2011
+['Rob Gronkowski'],NA,week_1,New England Patriots,2011
+['Gary Guyton'],NA,week_1,New England Patriots,2011
+['Albert Haynesworth'],NA,week_1,New England Patriots,2011
+['Aaron Hernandez'],NA,week_1,New England Patriots,2011
+['James Ihedigbo'],NA,week_1,New England Patriots,2011
+['Chad Johnson'],NA,week_1,New England Patriots,2011
+['Dan Koppen'],NA,week_1,New England Patriots,2011
+['Matt Light'],NA,week_1,New England Patriots,2011
+['Kyle Love'],NA,week_1,New England Patriots,2011
+['Logan Mankins'],NA,week_1,New England Patriots,2011
+['Jerod Mayo'],NA,week_1,New England Patriots,2011
+['Devin McCourty'],NA,week_1,New England Patriots,2011
+['Zoltan Mesko'],NA,week_1,New England Patriots,2011
+['Antwaun Molden'],NA,week_1,New England Patriots,2011
+['Rob Ninkovich'],NA,week_1,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_1,New England Patriots,2011
+['Myron Pryor'],NA,week_1,New England Patriots,2011
+['Stevan Ridley'],Questionable: ankle,week_1,New England Patriots,2011
+['Matthew Slater'],NA,week_1,New England Patriots,2011
+['Nate Solder'],NA,week_1,New England Patriots,2011
+['Brandon Spikes'],NA,week_1,New England Patriots,2011
+['Jeff Tarpinian'],Questionable: knee,week_1,New England Patriots,2011
+['Shane Vereen'],Questionable: ankle,week_1,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_1,New England Patriots,2011
+['Brian Waters'],NA,week_1,New England Patriots,2011
+['Wes Welker'],NA,week_1,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_1,New England Patriots,2011
+['Tracy White'],NA,week_1,New England Patriots,2011
+['Danny Woodhead'],NA,week_1,New England Patriots,2011
+['Mike Wright'],NA,week_1,New England Patriots,2011
+['Mark Anderson'],NA,week_2,New England Patriots,2011
+['Kyle Arrington'],NA,week_2,New England Patriots,2011
+['Josh Barrett'],Probable: thumb,week_2,New England Patriots,2011
+['Leigh Bodden'],Probable: back,week_2,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_2,New England Patriots,2011
+['Tom Brady'],NA,week_2,New England Patriots,2011
+['Deion Branch'],NA,week_2,New England Patriots,2011
+['Sergio Brown'],NA,week_2,New England Patriots,2011
+['Marcus Cannon'],NA,week_2,New England Patriots,2011
+['Andre Carter'],NA,week_2,New England Patriots,2011
+['Patrick Chung'],NA,week_2,New England Patriots,2011
+['Dan Connolly'],NA,week_2,New England Patriots,2011
+['Jermaine Cunningham'],Questionable: groin,week_2,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_2,New England Patriots,2011
+['Ras-I Dowling'],NA,week_2,New England Patriots,2011
+['Julian Edelman'],NA,week_2,New England Patriots,2011
+['Shaun Ellis'],NA,week_2,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_2,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_2,New England Patriots,2011
+['Vincent Fuller'],NA,week_2,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_2,New England Patriots,2011
+['Dan Gronkowski'],Probable: hamstring,week_2,New England Patriots,2011
+['Rob Gronkowski'],Probable: hamstring,week_2,New England Patriots,2011
+['Gary Guyton'],Questionable: hamstring,week_2,New England Patriots,2011
+['Albert Haynesworth'],NA,week_2,New England Patriots,2011
+['Aaron Hernandez'],NA,week_2,New England Patriots,2011
+['James Ihedigbo'],NA,week_2,New England Patriots,2011
+['Chad Johnson'],NA,week_2,New England Patriots,2011
+['Dan Koppen'],Out: ankle,week_2,New England Patriots,2011
+['Matt Light'],NA,week_2,New England Patriots,2011
+['Kyle Love'],NA,week_2,New England Patriots,2011
+['Logan Mankins'],NA,week_2,New England Patriots,2011
+['Jerod Mayo'],Probable: thigh,week_2,New England Patriots,2011
+['Devin McCourty'],NA,week_2,New England Patriots,2011
+['Zoltan Mesko'],NA,week_2,New England Patriots,2011
+['Antwaun Molden'],NA,week_2,New England Patriots,2011
+['Rob Ninkovich'],NA,week_2,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_2,New England Patriots,2011
+['Myron Pryor'],NA,week_2,New England Patriots,2011
+['Stevan Ridley'],Questionable: ankle,week_2,New England Patriots,2011
+['Matthew Slater'],NA,week_2,New England Patriots,2011
+['Nate Solder'],NA,week_2,New England Patriots,2011
+['Brandon Spikes'],NA,week_2,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_2,New England Patriots,2011
+['Shane Vereen'],Questionable: ankle,week_2,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_2,New England Patriots,2011
+['Brian Waters'],NA,week_2,New England Patriots,2011
+['Wes Welker'],NA,week_2,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_2,New England Patriots,2011
+['Tracy White'],NA,week_2,New England Patriots,2011
+['Danny Woodhead'],NA,week_2,New England Patriots,2011
+['Mike Wright'],Out: concussion,week_2,New England Patriots,2011
+['Mark Anderson'],NA,week_3,New England Patriots,2011
+['Kyle Arrington'],Questionable: concussion,week_3,New England Patriots,2011
+['Josh Barrett'],Probable: thumb,week_3,New England Patriots,2011
+['Leigh Bodden'],Probable: hand,week_3,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_3,New England Patriots,2011
+['Tom Brady'],NA,week_3,New England Patriots,2011
+['Deion Branch'],NA,week_3,New England Patriots,2011
+['Sergio Brown'],NA,week_3,New England Patriots,2011
+['Marcus Cannon'],NA,week_3,New England Patriots,2011
+['Andre Carter'],NA,week_3,New England Patriots,2011
+['Patrick Chung'],Questionable: hand,week_3,New England Patriots,2011
+['Dan Connolly'],NA,week_3,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_3,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_3,New England Patriots,2011
+['Ras-I Dowling'],Questionable: thigh,week_3,New England Patriots,2011
+['Julian Edelman'],NA,week_3,New England Patriots,2011
+['Shaun Ellis'],NA,week_3,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_3,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_3,New England Patriots,2011
+['Vincent Fuller'],NA,week_3,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_3,New England Patriots,2011
+['Dan Gronkowski'],Questionable: hamstring,week_3,New England Patriots,2011
+['Rob Gronkowski'],NA,week_3,New England Patriots,2011
+['Gary Guyton'],Questionable: hamstring,week_3,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_3,New England Patriots,2011
+['Aaron Hernandez'],Out: knee,week_3,New England Patriots,2011
+['James Ihedigbo'],NA,week_3,New England Patriots,2011
+['Chad Johnson'],NA,week_3,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_3,New England Patriots,2011
+['Matt Light'],NA,week_3,New England Patriots,2011
+['Kyle Love'],NA,week_3,New England Patriots,2011
+['Logan Mankins'],NA,week_3,New England Patriots,2011
+['Jerod Mayo'],Probable: thigh,week_3,New England Patriots,2011
+['Devin McCourty'],NA,week_3,New England Patriots,2011
+['Zoltan Mesko'],Questionable: left knee,week_3,New England Patriots,2011
+['Antwaun Molden'],NA,week_3,New England Patriots,2011
+['Rob Ninkovich'],NA,week_3,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_3,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_3,New England Patriots,2011
+['Stevan Ridley'],NA,week_3,New England Patriots,2011
+['Matthew Slater'],NA,week_3,New England Patriots,2011
+['Nate Solder'],NA,week_3,New England Patriots,2011
+['Brandon Spikes'],NA,week_3,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_3,New England Patriots,2011
+['Shane Vereen'],NA,week_3,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_3,New England Patriots,2011
+['Brian Waters'],NA,week_3,New England Patriots,2011
+['Wes Welker'],NA,week_3,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_3,New England Patriots,2011
+['Tracy White'],NA,week_3,New England Patriots,2011
+['Danny Woodhead'],NA,week_3,New England Patriots,2011
+['Mike Wright'],Questionable: concussion,week_3,New England Patriots,2011
+['Mark Anderson'],NA,week_4,New England Patriots,2011
+['Kyle Arrington'],Questionable: chest,week_4,New England Patriots,2011
+['Josh Barrett'],Probable: thumb,week_4,New England Patriots,2011
+['Leigh Bodden'],Questionable: groin,week_4,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_4,New England Patriots,2011
+['Tom Brady'],NA,week_4,New England Patriots,2011
+['Deion Branch'],NA,week_4,New England Patriots,2011
+['Sergio Brown'],NA,week_4,New England Patriots,2011
+['Marcus Cannon'],NA,week_4,New England Patriots,2011
+['Andre Carter'],NA,week_4,New England Patriots,2011
+['Patrick Chung'],Questionable: hand,week_4,New England Patriots,2011
+['Dan Connolly'],NA,week_4,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_4,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_4,New England Patriots,2011
+['Ras-I Dowling'],Questionable: thigh,week_4,New England Patriots,2011
+['Julian Edelman'],NA,week_4,New England Patriots,2011
+['Shaun Ellis'],Questionable: knee,week_4,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_4,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_4,New England Patriots,2011
+['Vincent Fuller'],NA,week_4,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_4,New England Patriots,2011
+['Dan Gronkowski'],NA,week_4,New England Patriots,2011
+['Rob Gronkowski'],NA,week_4,New England Patriots,2011
+['Gary Guyton'],Questionable: hamstring,week_4,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_4,New England Patriots,2011
+['Aaron Hernandez'],Out: knee,week_4,New England Patriots,2011
+['James Ihedigbo'],NA,week_4,New England Patriots,2011
+['Chad Johnson'],NA,week_4,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_4,New England Patriots,2011
+['Matt Light'],NA,week_4,New England Patriots,2011
+['Kyle Love'],NA,week_4,New England Patriots,2011
+['Logan Mankins'],Questionable: illness,week_4,New England Patriots,2011
+['Jerod Mayo'],Questionable: thigh,week_4,New England Patriots,2011
+['Devin McCourty'],NA,week_4,New England Patriots,2011
+['Zoltan Mesko'],Questionable: knee,week_4,New England Patriots,2011
+['Antwaun Molden'],NA,week_4,New England Patriots,2011
+['Rob Ninkovich'],NA,week_4,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_4,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_4,New England Patriots,2011
+['Stevan Ridley'],NA,week_4,New England Patriots,2011
+['Matthew Slater'],NA,week_4,New England Patriots,2011
+['Nate Solder'],NA,week_4,New England Patriots,2011
+['Brandon Spikes'],NA,week_4,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_4,New England Patriots,2011
+['Shane Vereen'],NA,week_4,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_4,New England Patriots,2011
+['Brian Waters'],NA,week_4,New England Patriots,2011
+['Wes Welker'],NA,week_4,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_4,New England Patriots,2011
+['Tracy White'],NA,week_4,New England Patriots,2011
+['Danny Woodhead'],NA,week_4,New England Patriots,2011
+['Mike Wright'],Doubtful: concussion,week_4,New England Patriots,2011
+['Mark Anderson'],NA,week_5,New England Patriots,2011
+['Kyle Arrington'],Questionable: chest,week_5,New England Patriots,2011
+['Josh Barrett'],Questionable: thumb/hamstring,week_5,New England Patriots,2011
+['Leigh Bodden'],Questionable: groin,week_5,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_5,New England Patriots,2011
+['Tom Brady'],NA,week_5,New England Patriots,2011
+['Deion Branch'],NA,week_5,New England Patriots,2011
+['Sergio Brown'],NA,week_5,New England Patriots,2011
+['Marcus Cannon'],NA,week_5,New England Patriots,2011
+['Andre Carter'],NA,week_5,New England Patriots,2011
+['Patrick Chung'],Questionable: hand,week_5,New England Patriots,2011
+['Dan Connolly'],NA,week_5,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_5,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_5,New England Patriots,2011
+['Ras-I Dowling'],Questionable: thigh,week_5,New England Patriots,2011
+['Julian Edelman'],Questionable: ankle,week_5,New England Patriots,2011
+['Shaun Ellis'],Questionable: knee,week_5,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_5,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_5,New England Patriots,2011
+['Vincent Fuller'],NA,week_5,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_5,New England Patriots,2011
+['Dan Gronkowski'],NA,week_5,New England Patriots,2011
+['Rob Gronkowski'],NA,week_5,New England Patriots,2011
+['Gary Guyton'],Questionable: hamstring,week_5,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_5,New England Patriots,2011
+['Aaron Hernandez'],Questionable: knee,week_5,New England Patriots,2011
+['James Ihedigbo'],NA,week_5,New England Patriots,2011
+['Chad Johnson'],NA,week_5,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_5,New England Patriots,2011
+['Matt Light'],NA,week_5,New England Patriots,2011
+['Kyle Love'],Questionable: ankle,week_5,New England Patriots,2011
+['Logan Mankins'],NA,week_5,New England Patriots,2011
+['Jerod Mayo'],Out: knee,week_5,New England Patriots,2011
+['Devin McCourty'],NA,week_5,New England Patriots,2011
+['Zoltan Mesko'],NA,week_5,New England Patriots,2011
+['Antwaun Molden'],NA,week_5,New England Patriots,2011
+['Rob Ninkovich'],NA,week_5,New England Patriots,2011
+['Taylor Price'],NA,week_5,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_5,New England Patriots,2011
+['Stevan Ridley'],NA,week_5,New England Patriots,2011
+['Matthew Slater'],NA,week_5,New England Patriots,2011
+['Nate Solder'],NA,week_5,New England Patriots,2011
+['Brandon Spikes'],NA,week_5,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_5,New England Patriots,2011
+['Shane Vereen'],NA,week_5,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_5,New England Patriots,2011
+['Brian Waters'],NA,week_5,New England Patriots,2011
+['Wes Welker'],NA,week_5,New England Patriots,2011
+['Ryan Wendell'],NA,week_5,New England Patriots,2011
+['Tracy White'],NA,week_5,New England Patriots,2011
+['Danny Woodhead'],Out: ankle,week_5,New England Patriots,2011
+['Mike Wright'],Questionable: concussion,week_5,New England Patriots,2011
+['Mark Anderson'],NA,week_6,New England Patriots,2011
+['Kyle Arrington'],NA,week_6,New England Patriots,2011
+['Josh Barrett'],Questionable: thumb/hamstring,week_6,New England Patriots,2011
+['Leigh Bodden'],Questionable: thumb,week_6,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_6,New England Patriots,2011
+['Tom Brady'],NA,week_6,New England Patriots,2011
+['Deion Branch'],NA,week_6,New England Patriots,2011
+['Sergio Brown'],Questionable: chest,week_6,New England Patriots,2011
+['Marcus Cannon'],NA,week_6,New England Patriots,2011
+['Andre Carter'],NA,week_6,New England Patriots,2011
+['Patrick Chung'],Probable: hand,week_6,New England Patriots,2011
+['Dan Connolly'],NA,week_6,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_6,New England Patriots,2011
+['Brandon Deaderick'],Physically Unable to Perform: shoulder,week_6,New England Patriots,2011
+['Ras-I Dowling'],Questionable: thigh,week_6,New England Patriots,2011
+['Julian Edelman'],Doubtful: ankle,week_6,New England Patriots,2011
+['Shaun Ellis'],NA,week_6,New England Patriots,2011
+['Kevin Faulk'],Physically Unable to Perform: knee,week_6,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_6,New England Patriots,2011
+['Vincent Fuller'],NA,week_6,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: toe,week_6,New England Patriots,2011
+['Dan Gronkowski'],NA,week_6,New England Patriots,2011
+['Rob Gronkowski'],NA,week_6,New England Patriots,2011
+['Gary Guyton'],NA,week_6,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_6,New England Patriots,2011
+['Aaron Hernandez'],Questionable: knee,week_6,New England Patriots,2011
+['James Ihedigbo'],NA,week_6,New England Patriots,2011
+['Chad Johnson'],NA,week_6,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_6,New England Patriots,2011
+['Matt Light'],NA,week_6,New England Patriots,2011
+['Kyle Love'],Questionable: back,week_6,New England Patriots,2011
+['Logan Mankins'],NA,week_6,New England Patriots,2011
+['Jerod Mayo'],Doubtful: knee,week_6,New England Patriots,2011
+['Devin McCourty'],NA,week_6,New England Patriots,2011
+['Zoltan Mesko'],NA,week_6,New England Patriots,2011
+['Antwaun Molden'],NA,week_6,New England Patriots,2011
+['Rob Ninkovich'],NA,week_6,New England Patriots,2011
+['Taylor Price'],NA,week_6,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_6,New England Patriots,2011
+['Stevan Ridley'],NA,week_6,New England Patriots,2011
+['Matthew Slater'],Questionable: ribs,week_6,New England Patriots,2011
+['Nate Solder'],NA,week_6,New England Patriots,2011
+['Brandon Spikes'],NA,week_6,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_6,New England Patriots,2011
+['Shane Vereen'],NA,week_6,New England Patriots,2011
+['Sebastian Vollmer'],Doubtful: back,week_6,New England Patriots,2011
+['Brian Waters'],NA,week_6,New England Patriots,2011
+['Wes Welker'],NA,week_6,New England Patriots,2011
+['Ryan Wendell'],NA,week_6,New England Patriots,2011
+['Tracy White'],NA,week_6,New England Patriots,2011
+['Danny Woodhead'],Doubtful: ankle,week_6,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_6,New England Patriots,2011
+['Mark Anderson'],NA,week_8,New England Patriots,2011
+['Kyle Arrington'],NA,week_8,New England Patriots,2011
+['Josh Barrett'],Questionable: thumb,week_8,New England Patriots,2011
+['Leigh Bodden'],Questionable: hip,week_8,New England Patriots,2011
+['Ron Brace'],Physically Unable to Perform: shoulder,week_8,New England Patriots,2011
+['Tom Brady'],NA,week_8,New England Patriots,2011
+['Deion Branch'],NA,week_8,New England Patriots,2011
+['Sergio Brown'],Questionable: chest,week_8,New England Patriots,2011
+['Marcus Cannon'],NA,week_8,New England Patriots,2011
+['Andre Carter'],NA,week_8,New England Patriots,2011
+['Patrick Chung'],NA,week_8,New England Patriots,2011
+['Dan Connolly'],NA,week_8,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_8,New England Patriots,2011
+['Brandon Deaderick'],NA,week_8,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_8,New England Patriots,2011
+['Julian Edelman'],NA,week_8,New England Patriots,2011
+['Shaun Ellis'],NA,week_8,New England Patriots,2011
+['Kevin Faulk'],NA,week_8,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_8,New England Patriots,2011
+['Vincent Fuller'],NA,week_8,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: toe,week_8,New England Patriots,2011
+['Dan Gronkowski'],NA,week_8,New England Patriots,2011
+['Rob Gronkowski'],NA,week_8,New England Patriots,2011
+['Gary Guyton'],NA,week_8,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_8,New England Patriots,2011
+['Aaron Hernandez'],NA,week_8,New England Patriots,2011
+['James Ihedigbo'],NA,week_8,New England Patriots,2011
+['Chad Johnson'],NA,week_8,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_8,New England Patriots,2011
+['Matt Light'],NA,week_8,New England Patriots,2011
+['Kyle Love'],NA,week_8,New England Patriots,2011
+['Logan Mankins'],NA,week_8,New England Patriots,2011
+['Jerod Mayo'],Questionable: knee,week_8,New England Patriots,2011
+['Devin McCourty'],NA,week_8,New England Patriots,2011
+['Zoltan Mesko'],NA,week_8,New England Patriots,2011
+['Antwaun Molden'],NA,week_8,New England Patriots,2011
+['Rob Ninkovich'],NA,week_8,New England Patriots,2011
+['Taylor Price'],NA,week_8,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_8,New England Patriots,2011
+['Stevan Ridley'],NA,week_8,New England Patriots,2011
+['Matthew Slater'],NA,week_8,New England Patriots,2011
+['Nate Solder'],NA,week_8,New England Patriots,2011
+['Brandon Spikes'],NA,week_8,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_8,New England Patriots,2011
+['Shane Vereen'],NA,week_8,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_8,New England Patriots,2011
+['Brian Waters'],NA,week_8,New England Patriots,2011
+['Wes Welker'],NA,week_8,New England Patriots,2011
+['Ryan Wendell'],NA,week_8,New England Patriots,2011
+['Tracy White'],NA,week_8,New England Patriots,2011
+['Danny Woodhead'],NA,week_8,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_8,New England Patriots,2011
+['Mark Anderson'],NA,week_9,New England Patriots,2011
+['Kyle Arrington'],NA,week_9,New England Patriots,2011
+['Josh Barrett'],Questionable: thumb,week_9,New England Patriots,2011
+['Leigh Bodden'],NA,week_9,New England Patriots,2011
+['Ron Brace'],NA,week_9,New England Patriots,2011
+['Tom Brady'],NA,week_9,New England Patriots,2011
+['Deion Branch'],NA,week_9,New England Patriots,2011
+['Sergio Brown'],NA,week_9,New England Patriots,2011
+['Marcus Cannon'],NA,week_9,New England Patriots,2011
+['Andre Carter'],NA,week_9,New England Patriots,2011
+['Patrick Chung'],NA,week_9,New England Patriots,2011
+['Dan Connolly'],NA,week_9,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_9,New England Patriots,2011
+['Brandon Deaderick'],NA,week_9,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_9,New England Patriots,2011
+['Julian Edelman'],Questionable: legal,week_9,New England Patriots,2011
+['Shaun Ellis'],Questionable: ribs,week_9,New England Patriots,2011
+['Kevin Faulk'],Questionable: knee,week_9,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_9,New England Patriots,2011
+['Vincent Fuller'],NA,week_9,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: toe,week_9,New England Patriots,2011
+['Dan Gronkowski'],NA,week_9,New England Patriots,2011
+['Rob Gronkowski'],NA,week_9,New England Patriots,2011
+['Gary Guyton'],NA,week_9,New England Patriots,2011
+['Albert Haynesworth'],Questionable: back,week_9,New England Patriots,2011
+['Aaron Hernandez'],Questionable: knee,week_9,New England Patriots,2011
+['James Ihedigbo'],NA,week_9,New England Patriots,2011
+['Chad Johnson'],NA,week_9,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_9,New England Patriots,2011
+['Matt Light'],NA,week_9,New England Patriots,2011
+['Kyle Love'],NA,week_9,New England Patriots,2011
+['Logan Mankins'],NA,week_9,New England Patriots,2011
+['Jerod Mayo'],Questionable: knee,week_9,New England Patriots,2011
+['Devin McCourty'],NA,week_9,New England Patriots,2011
+['Zoltan Mesko'],NA,week_9,New England Patriots,2011
+['Antwaun Molden'],NA,week_9,New England Patriots,2011
+['Rob Ninkovich'],NA,week_9,New England Patriots,2011
+['Taylor Price'],Out: hamstring,week_9,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_9,New England Patriots,2011
+['Stevan Ridley'],NA,week_9,New England Patriots,2011
+['Matthew Slater'],NA,week_9,New England Patriots,2011
+['Nate Solder'],NA,week_9,New England Patriots,2011
+['Brandon Spikes'],NA,week_9,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_9,New England Patriots,2011
+['Shane Vereen'],NA,week_9,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_9,New England Patriots,2011
+['Brian Waters'],NA,week_9,New England Patriots,2011
+['Wes Welker'],Probable: neck,week_9,New England Patriots,2011
+['Ryan Wendell'],NA,week_9,New England Patriots,2011
+['Tracy White'],NA,week_9,New England Patriots,2011
+['Danny Woodhead'],NA,week_9,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_9,New England Patriots,2011
+['Mark Anderson'],NA,week_10,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_10,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_10,New England Patriots,2011
+['Leigh Bodden'],NA,week_10,New England Patriots,2011
+['Ron Brace'],NA,week_10,New England Patriots,2011
+['Tom Brady'],NA,week_10,New England Patriots,2011
+['Deion Branch'],NA,week_10,New England Patriots,2011
+['Sergio Brown'],NA,week_10,New England Patriots,2011
+['Marcus Cannon'],NA,week_10,New England Patriots,2011
+['Andre Carter'],NA,week_10,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_10,New England Patriots,2011
+['Dan Connolly'],NA,week_10,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_10,New England Patriots,2011
+['Brandon Deaderick'],NA,week_10,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_10,New England Patriots,2011
+['Julian Edelman'],NA,week_10,New England Patriots,2011
+['Shaun Ellis'],Questionable: ribs,week_10,New England Patriots,2011
+['Kevin Faulk'],Questionable: knee,week_10,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_10,New England Patriots,2011
+['Vincent Fuller'],NA,week_10,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: toe,week_10,New England Patriots,2011
+['Dan Gronkowski'],NA,week_10,New England Patriots,2011
+['Rob Gronkowski'],NA,week_10,New England Patriots,2011
+['Gary Guyton'],Questionable: shoulder,week_10,New England Patriots,2011
+['Albert Haynesworth'],NA,week_10,New England Patriots,2011
+['Aaron Hernandez'],NA,week_10,New England Patriots,2011
+['James Ihedigbo'],NA,week_10,New England Patriots,2011
+['Chad Johnson'],NA,week_10,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_10,New England Patriots,2011
+['Matt Light'],NA,week_10,New England Patriots,2011
+['Kyle Love'],NA,week_10,New England Patriots,2011
+['Logan Mankins'],NA,week_10,New England Patriots,2011
+['Jerod Mayo'],Questionable: knee,week_10,New England Patriots,2011
+['Devin McCourty'],NA,week_10,New England Patriots,2011
+['Zoltan Mesko'],NA,week_10,New England Patriots,2011
+['Antwaun Molden'],NA,week_10,New England Patriots,2011
+['Rob Ninkovich'],NA,week_10,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_10,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_10,New England Patriots,2011
+['Stevan Ridley'],NA,week_10,New England Patriots,2011
+['Matthew Slater'],NA,week_10,New England Patriots,2011
+['Nate Solder'],Questionable: concussion,week_10,New England Patriots,2011
+['Brandon Spikes'],Out: knee,week_10,New England Patriots,2011
+['Jeff Tarpinian'],NA,week_10,New England Patriots,2011
+['Shane Vereen'],NA,week_10,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_10,New England Patriots,2011
+['Brian Waters'],NA,week_10,New England Patriots,2011
+['Wes Welker'],Probable: ribs,week_10,New England Patriots,2011
+['Ryan Wendell'],NA,week_10,New England Patriots,2011
+['Tracy White'],NA,week_10,New England Patriots,2011
+['Danny Woodhead'],Questionable: leg,week_10,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_10,New England Patriots,2011
+['Mark Anderson'],NA,week_11,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_11,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_11,New England Patriots,2011
+['Leigh Bodden'],NA,week_11,New England Patriots,2011
+['Ron Brace'],NA,week_11,New England Patriots,2011
+['Tom Brady'],NA,week_11,New England Patriots,2011
+['Deion Branch'],NA,week_11,New England Patriots,2011
+['Sergio Brown'],NA,week_11,New England Patriots,2011
+['Marcus Cannon'],NA,week_11,New England Patriots,2011
+['Andre Carter'],NA,week_11,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_11,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_11,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_11,New England Patriots,2011
+['Brandon Deaderick'],NA,week_11,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_11,New England Patriots,2011
+['Julian Edelman'],NA,week_11,New England Patriots,2011
+['Shaun Ellis'],Questionable: rib,week_11,New England Patriots,2011
+['Kevin Faulk'],Questionable: knee,week_11,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_11,New England Patriots,2011
+['Vincent Fuller'],NA,week_11,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: toe,week_11,New England Patriots,2011
+['Dan Gronkowski'],NA,week_11,New England Patriots,2011
+['Rob Gronkowski'],NA,week_11,New England Patriots,2011
+['Gary Guyton'],Questionable: shoulder,week_11,New England Patriots,2011
+['Albert Haynesworth'],NA,week_11,New England Patriots,2011
+['Aaron Hernandez'],NA,week_11,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_11,New England Patriots,2011
+['Chad Johnson'],NA,week_11,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_11,New England Patriots,2011
+['Matt Light'],NA,week_11,New England Patriots,2011
+['Kyle Love'],NA,week_11,New England Patriots,2011
+['Logan Mankins'],NA,week_11,New England Patriots,2011
+['Jerod Mayo'],NA,week_11,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_11,New England Patriots,2011
+['Zoltan Mesko'],NA,week_11,New England Patriots,2011
+['Antwaun Molden'],NA,week_11,New England Patriots,2011
+['Rob Ninkovich'],NA,week_11,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_11,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_11,New England Patriots,2011
+['Stevan Ridley'],NA,week_11,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_11,New England Patriots,2011
+['Nate Solder'],Questionable: concussion,week_11,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_11,New England Patriots,2011
+['Jeff Tarpinian'],Questionable: illness,week_11,New England Patriots,2011
+['Shane Vereen'],NA,week_11,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_11,New England Patriots,2011
+['Brian Waters'],Questionable: knee,week_11,New England Patriots,2011
+['Wes Welker'],Questionable: knee,week_11,New England Patriots,2011
+['Ryan Wendell'],NA,week_11,New England Patriots,2011
+['Tracy White'],NA,week_11,New England Patriots,2011
+['Danny Woodhead'],NA,week_11,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_11,New England Patriots,2011
+['Mark Anderson'],NA,week_12,New England Patriots,2011
+['Kyle Arrington'],NA,week_12,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_12,New England Patriots,2011
+['Leigh Bodden'],NA,week_12,New England Patriots,2011
+['Ron Brace'],NA,week_12,New England Patriots,2011
+['Tom Brady'],NA,week_12,New England Patriots,2011
+['Deion Branch'],Questionable: hip,week_12,New England Patriots,2011
+['Sergio Brown'],NA,week_12,New England Patriots,2011
+['Marcus Cannon'],NA,week_12,New England Patriots,2011
+['Andre Carter'],NA,week_12,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_12,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_12,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_12,New England Patriots,2011
+['Brandon Deaderick'],NA,week_12,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_12,New England Patriots,2011
+['Julian Edelman'],NA,week_12,New England Patriots,2011
+['Shaun Ellis'],NA,week_12,New England Patriots,2011
+['Kevin Faulk'],Questionable: knee,week_12,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_12,New England Patriots,2011
+['Vincent Fuller'],NA,week_12,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_12,New England Patriots,2011
+['Dan Gronkowski'],NA,week_12,New England Patriots,2011
+['Rob Gronkowski'],NA,week_12,New England Patriots,2011
+['Gary Guyton'],Questionable: shoulder,week_12,New England Patriots,2011
+['Albert Haynesworth'],NA,week_12,New England Patriots,2011
+['Aaron Hernandez'],NA,week_12,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_12,New England Patriots,2011
+['Chad Johnson'],Questionable: hamstring,week_12,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_12,New England Patriots,2011
+['Matt Light'],Questionable: knee,week_12,New England Patriots,2011
+['Kyle Love'],NA,week_12,New England Patriots,2011
+['Logan Mankins'],NA,week_12,New England Patriots,2011
+['Jerod Mayo'],NA,week_12,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_12,New England Patriots,2011
+['Zoltan Mesko'],NA,week_12,New England Patriots,2011
+['Antwaun Molden'],NA,week_12,New England Patriots,2011
+['Rob Ninkovich'],NA,week_12,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_12,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_12,New England Patriots,2011
+['Stevan Ridley'],NA,week_12,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_12,New England Patriots,2011
+['Nate Solder'],NA,week_12,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_12,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_12,New England Patriots,2011
+['Shane Vereen'],NA,week_12,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back,week_12,New England Patriots,2011
+['Brian Waters'],Questionable: knee,week_12,New England Patriots,2011
+['Wes Welker'],Questionable: knee,week_12,New England Patriots,2011
+['Ryan Wendell'],NA,week_12,New England Patriots,2011
+['Tracy White'],NA,week_12,New England Patriots,2011
+['Danny Woodhead'],NA,week_12,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_12,New England Patriots,2011
+['Mark Anderson'],NA,week_13,New England Patriots,2011
+['Kyle Arrington'],NA,week_13,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_13,New England Patriots,2011
+['Leigh Bodden'],NA,week_13,New England Patriots,2011
+['Ron Brace'],NA,week_13,New England Patriots,2011
+['Tom Brady'],NA,week_13,New England Patriots,2011
+['Deion Branch'],NA,week_13,New England Patriots,2011
+['Sergio Brown'],NA,week_13,New England Patriots,2011
+['Marcus Cannon'],NA,week_13,New England Patriots,2011
+['Andre Carter'],NA,week_13,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_13,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_13,New England Patriots,2011
+['Jermaine Cunningham'],NA,week_13,New England Patriots,2011
+['Brandon Deaderick'],NA,week_13,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_13,New England Patriots,2011
+['Julian Edelman'],Probable: back,week_13,New England Patriots,2011
+['Shaun Ellis'],NA,week_13,New England Patriots,2011
+['Kevin Faulk'],NA,week_13,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_13,New England Patriots,2011
+['Vincent Fuller'],NA,week_13,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_13,New England Patriots,2011
+['Dan Gronkowski'],NA,week_13,New England Patriots,2011
+['Rob Gronkowski'],NA,week_13,New England Patriots,2011
+['Gary Guyton'],Questionable: shoulder,week_13,New England Patriots,2011
+['Albert Haynesworth'],NA,week_13,New England Patriots,2011
+['Aaron Hernandez'],NA,week_13,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_13,New England Patriots,2011
+['Chad Johnson'],Questionable: hamstring,week_13,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_13,New England Patriots,2011
+['Matt Light'],Probable: ankle,week_13,New England Patriots,2011
+['Kyle Love'],NA,week_13,New England Patriots,2011
+['Logan Mankins'],NA,week_13,New England Patriots,2011
+['Jerod Mayo'],NA,week_13,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_13,New England Patriots,2011
+['Zoltan Mesko'],NA,week_13,New England Patriots,2011
+['Antwaun Molden'],Questionable: concussion,week_13,New England Patriots,2011
+['Rob Ninkovich'],NA,week_13,New England Patriots,2011
+['Taylor Price'],Questionable: hamstring,week_13,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_13,New England Patriots,2011
+['Stevan Ridley'],NA,week_13,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_13,New England Patriots,2011
+['Nate Solder'],NA,week_13,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_13,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_13,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_13,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_13,New England Patriots,2011
+['Brian Waters'],Probable: knee,week_13,New England Patriots,2011
+['Wes Welker'],NA,week_13,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_13,New England Patriots,2011
+['Tracy White'],NA,week_13,New England Patriots,2011
+['Danny Woodhead'],Questionable: abdomen,week_13,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_13,New England Patriots,2011
+['Mark Anderson'],NA,week_14,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_14,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_14,New England Patriots,2011
+['Leigh Bodden'],NA,week_14,New England Patriots,2011
+['Ron Brace'],NA,week_14,New England Patriots,2011
+['Tom Brady'],NA,week_14,New England Patriots,2011
+['Deion Branch'],NA,week_14,New England Patriots,2011
+['Sergio Brown'],NA,week_14,New England Patriots,2011
+['Marcus Cannon'],NA,week_14,New England Patriots,2011
+['Andre Carter'],NA,week_14,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_14,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_14,New England Patriots,2011
+['Jermaine Cunningham'],Doubtful: hamstring,week_14,New England Patriots,2011
+['Brandon Deaderick'],NA,week_14,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_14,New England Patriots,2011
+['Julian Edelman'],Questionable: back,week_14,New England Patriots,2011
+['Shaun Ellis'],NA,week_14,New England Patriots,2011
+['Kevin Faulk'],NA,week_14,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_14,New England Patriots,2011
+['Vincent Fuller'],NA,week_14,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_14,New England Patriots,2011
+['Dan Gronkowski'],NA,week_14,New England Patriots,2011
+['Rob Gronkowski'],NA,week_14,New England Patriots,2011
+['Gary Guyton'],NA,week_14,New England Patriots,2011
+['Albert Haynesworth'],NA,week_14,New England Patriots,2011
+['Aaron Hernandez'],NA,week_14,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_14,New England Patriots,2011
+['Chad Johnson'],NA,week_14,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_14,New England Patriots,2011
+['Matt Light'],NA,week_14,New England Patriots,2011
+['Kyle Love'],NA,week_14,New England Patriots,2011
+['Logan Mankins'],NA,week_14,New England Patriots,2011
+['Jerod Mayo'],NA,week_14,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_14,New England Patriots,2011
+['Zoltan Mesko'],NA,week_14,New England Patriots,2011
+['Antwaun Molden'],NA,week_14,New England Patriots,2011
+['Rob Ninkovich'],NA,week_14,New England Patriots,2011
+['Taylor Price'],NA,week_14,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_14,New England Patriots,2011
+['Stevan Ridley'],NA,week_14,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_14,New England Patriots,2011
+['Nate Solder'],NA,week_14,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_14,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_14,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_14,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_14,New England Patriots,2011
+['Brian Waters'],NA,week_14,New England Patriots,2011
+['Wes Welker'],Probable: knee,week_14,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_14,New England Patriots,2011
+['Tracy White'],NA,week_14,New England Patriots,2011
+['Danny Woodhead'],Questionable: abdomen,week_14,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_14,New England Patriots,2011
+['Mark Anderson'],NA,week_15,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_15,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_15,New England Patriots,2011
+['Leigh Bodden'],NA,week_15,New England Patriots,2011
+['Ron Brace'],NA,week_15,New England Patriots,2011
+['Tom Brady'],NA,week_15,New England Patriots,2011
+['Deion Branch'],Questionable: groin,week_15,New England Patriots,2011
+['Sergio Brown'],NA,week_15,New England Patriots,2011
+['Marcus Cannon'],NA,week_15,New England Patriots,2011
+['Andre Carter'],NA,week_15,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_15,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_15,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_15,New England Patriots,2011
+['Brandon Deaderick'],NA,week_15,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_15,New England Patriots,2011
+['Julian Edelman'],Questionable: back,week_15,New England Patriots,2011
+['Shaun Ellis'],NA,week_15,New England Patriots,2011
+['Kevin Faulk'],NA,week_15,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_15,New England Patriots,2011
+['Vincent Fuller'],NA,week_15,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_15,New England Patriots,2011
+['Dan Gronkowski'],NA,week_15,New England Patriots,2011
+['Rob Gronkowski'],NA,week_15,New England Patriots,2011
+['Gary Guyton'],NA,week_15,New England Patriots,2011
+['Albert Haynesworth'],NA,week_15,New England Patriots,2011
+['Aaron Hernandez'],NA,week_15,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_15,New England Patriots,2011
+['Chad Johnson'],NA,week_15,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_15,New England Patriots,2011
+['Matt Light'],NA,week_15,New England Patriots,2011
+['Kyle Love'],NA,week_15,New England Patriots,2011
+['Logan Mankins'],NA,week_15,New England Patriots,2011
+['Jerod Mayo'],NA,week_15,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_15,New England Patriots,2011
+['Zoltan Mesko'],NA,week_15,New England Patriots,2011
+['Antwaun Molden'],NA,week_15,New England Patriots,2011
+['Rob Ninkovich'],NA,week_15,New England Patriots,2011
+['Taylor Price'],NA,week_15,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_15,New England Patriots,2011
+['Stevan Ridley'],NA,week_15,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_15,New England Patriots,2011
+['Nate Solder'],NA,week_15,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_15,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_15,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_15,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_15,New England Patriots,2011
+['Brian Waters'],NA,week_15,New England Patriots,2011
+['Wes Welker'],Questionable: knee,week_15,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_15,New England Patriots,2011
+['Tracy White'],NA,week_15,New England Patriots,2011
+['Danny Woodhead'],Questionable: abdomen,week_15,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_15,New England Patriots,2011
+['Mark Anderson'],NA,week_16,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_16,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_16,New England Patriots,2011
+['Leigh Bodden'],NA,week_16,New England Patriots,2011
+['Ron Brace'],NA,week_16,New England Patriots,2011
+['Tom Brady'],NA,week_16,New England Patriots,2011
+['Deion Branch'],Questionable: groin,week_16,New England Patriots,2011
+['Sergio Brown'],NA,week_16,New England Patriots,2011
+['Marcus Cannon'],NA,week_16,New England Patriots,2011
+['Andre Carter'],Injured Reserve: quadriceps,week_16,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_16,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_16,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_16,New England Patriots,2011
+['Brandon Deaderick'],NA,week_16,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_16,New England Patriots,2011
+['Julian Edelman'],Questionable: back,week_16,New England Patriots,2011
+['Shaun Ellis'],NA,week_16,New England Patriots,2011
+['Kevin Faulk'],NA,week_16,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_16,New England Patriots,2011
+['Vincent Fuller'],Questionable: forearm,week_16,New England Patriots,2011
+['BenJarvus Green-Ellis'],Questionable: illness,week_16,New England Patriots,2011
+['Dan Gronkowski'],NA,week_16,New England Patriots,2011
+['Rob Gronkowski'],NA,week_16,New England Patriots,2011
+['Gary Guyton'],NA,week_16,New England Patriots,2011
+['Albert Haynesworth'],NA,week_16,New England Patriots,2011
+['Aaron Hernandez'],NA,week_16,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_16,New England Patriots,2011
+['Chad Johnson'],NA,week_16,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_16,New England Patriots,2011
+['Matt Light'],Out: leg,week_16,New England Patriots,2011
+['Kyle Love'],NA,week_16,New England Patriots,2011
+['Logan Mankins'],NA,week_16,New England Patriots,2011
+['Jerod Mayo'],NA,week_16,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_16,New England Patriots,2011
+['Zoltan Mesko'],NA,week_16,New England Patriots,2011
+['Antwaun Molden'],NA,week_16,New England Patriots,2011
+['Rob Ninkovich'],NA,week_16,New England Patriots,2011
+['Taylor Price'],NA,week_16,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_16,New England Patriots,2011
+['Stevan Ridley'],NA,week_16,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_16,New England Patriots,2011
+['Nate Solder'],NA,week_16,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_16,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_16,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_16,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_16,New England Patriots,2011
+['Brian Waters'],Questionable: ankle,week_16,New England Patriots,2011
+['Wes Welker'],Probable: knee,week_16,New England Patriots,2011
+['Ryan Wendell'],Questionable: calf,week_16,New England Patriots,2011
+['Tracy White'],NA,week_16,New England Patriots,2011
+['Danny Woodhead'],Questionable: abdomen,week_16,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_16,New England Patriots,2011
+['Mark Anderson'],NA,week_17,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_17,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_17,New England Patriots,2011
+['Leigh Bodden'],NA,week_17,New England Patriots,2011
+['Ron Brace'],NA,week_17,New England Patriots,2011
+['Tom Brady'],Probable: left shoulder,week_17,New England Patriots,2011
+['Deion Branch'],Questionable: groin,week_17,New England Patriots,2011
+['Sergio Brown'],NA,week_17,New England Patriots,2011
+['Marcus Cannon'],NA,week_17,New England Patriots,2011
+['Andre Carter'],Injured Reserve: quadriceps,week_17,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_17,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_17,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_17,New England Patriots,2011
+['Brandon Deaderick'],NA,week_17,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_17,New England Patriots,2011
+['Julian Edelman'],Questionable: back,week_17,New England Patriots,2011
+['Shaun Ellis'],NA,week_17,New England Patriots,2011
+['Kevin Faulk'],NA,week_17,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_17,New England Patriots,2011
+['Vincent Fuller'],NA,week_17,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_17,New England Patriots,2011
+['Dan Gronkowski'],NA,week_17,New England Patriots,2011
+['Rob Gronkowski'],NA,week_17,New England Patriots,2011
+['Gary Guyton'],NA,week_17,New England Patriots,2011
+['Albert Haynesworth'],NA,week_17,New England Patriots,2011
+['Aaron Hernandez'],NA,week_17,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_17,New England Patriots,2011
+['Chad Johnson'],NA,week_17,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_17,New England Patriots,2011
+['Matt Light'],Questionable: leg,week_17,New England Patriots,2011
+['Kyle Love'],NA,week_17,New England Patriots,2011
+['Logan Mankins'],Out: knee,week_17,New England Patriots,2011
+['Jerod Mayo'],NA,week_17,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_17,New England Patriots,2011
+['Zoltan Mesko'],NA,week_17,New England Patriots,2011
+['Antwaun Molden'],NA,week_17,New England Patriots,2011
+['Rob Ninkovich'],Questionable: hip,week_17,New England Patriots,2011
+['Taylor Price'],NA,week_17,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_17,New England Patriots,2011
+['Stevan Ridley'],NA,week_17,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_17,New England Patriots,2011
+['Nate Solder'],NA,week_17,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_17,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_17,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_17,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_17,New England Patriots,2011
+['Brian Waters'],Questionable: ankle,week_17,New England Patriots,2011
+['Wes Welker'],Questionable: knee,week_17,New England Patriots,2011
+['Ryan Wendell'],NA,week_17,New England Patriots,2011
+['Tracy White'],Questionable: abdomen,week_17,New England Patriots,2011
+['Danny Woodhead'],NA,week_17,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_17,New England Patriots,2011
+['Mark Anderson'],NA,week_19,New England Patriots,2011
+['Kyle Arrington'],Questionable: foot,week_19,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_19,New England Patriots,2011
+['Leigh Bodden'],NA,week_19,New England Patriots,2011
+['Ron Brace'],NA,week_19,New England Patriots,2011
+['Tom Brady'],Probable: left shoulder,week_19,New England Patriots,2011
+['Deion Branch'],NA,week_19,New England Patriots,2011
+['Sergio Brown'],NA,week_19,New England Patriots,2011
+['Marcus Cannon'],Questionable: ankle,week_19,New England Patriots,2011
+['Andre Carter'],Injured Reserve: quadriceps,week_19,New England Patriots,2011
+['Patrick Chung'],Questionable: foot,week_19,New England Patriots,2011
+['Dan Connolly'],Questionable: groin,week_19,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_19,New England Patriots,2011
+['Brandon Deaderick'],NA,week_19,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_19,New England Patriots,2011
+['Julian Edelman'],Questionable: back,week_19,New England Patriots,2011
+['Shaun Ellis'],NA,week_19,New England Patriots,2011
+['Kevin Faulk'],NA,week_19,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_19,New England Patriots,2011
+['Vincent Fuller'],NA,week_19,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_19,New England Patriots,2011
+['Dan Gronkowski'],NA,week_19,New England Patriots,2011
+['Rob Gronkowski'],NA,week_19,New England Patriots,2011
+['Gary Guyton'],NA,week_19,New England Patriots,2011
+['Albert Haynesworth'],NA,week_19,New England Patriots,2011
+['Aaron Hernandez'],NA,week_19,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_19,New England Patriots,2011
+['Chad Johnson'],NA,week_19,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_19,New England Patriots,2011
+['Matt Light'],Questionable: ankle,week_19,New England Patriots,2011
+['Kyle Love'],NA,week_19,New England Patriots,2011
+['Logan Mankins'],Questionable: knee,week_19,New England Patriots,2011
+['Jerod Mayo'],NA,week_19,New England Patriots,2011
+['Devin McCourty'],Questionable: shoulder,week_19,New England Patriots,2011
+['Zoltan Mesko'],NA,week_19,New England Patriots,2011
+['Antwaun Molden'],NA,week_19,New England Patriots,2011
+['Rob Ninkovich'],Questionable: hip,week_19,New England Patriots,2011
+['Taylor Price'],NA,week_19,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_19,New England Patriots,2011
+['Stevan Ridley'],NA,week_19,New England Patriots,2011
+['Matthew Slater'],Questionable: shoulder,week_19,New England Patriots,2011
+['Nate Solder'],NA,week_19,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_19,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_19,New England Patriots,2011
+['Shane Vereen'],Questionable: hamstring,week_19,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_19,New England Patriots,2011
+['Brian Waters'],NA,week_19,New England Patriots,2011
+['Wes Welker'],Probable: knee,week_19,New England Patriots,2011
+['Ryan Wendell'],NA,week_19,New England Patriots,2011
+['Tracy White'],Questionable: abdomen,week_19,New England Patriots,2011
+['Danny Woodhead'],NA,week_19,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_19,New England Patriots,2011
+['Mark Anderson'],NA,week_20,New England Patriots,2011
+['Kyle Arrington'],NA,week_20,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_20,New England Patriots,2011
+['Leigh Bodden'],NA,week_20,New England Patriots,2011
+['Ron Brace'],NA,week_20,New England Patriots,2011
+['Tom Brady'],Probable: left shoulder,week_20,New England Patriots,2011
+['Deion Branch'],Questionable: knee,week_20,New England Patriots,2011
+['Sergio Brown'],NA,week_20,New England Patriots,2011
+['Marcus Cannon'],Questionable: ankle,week_20,New England Patriots,2011
+['Andre Carter'],Injured Reserve: quadriceps,week_20,New England Patriots,2011
+['Patrick Chung'],Questionable: knee,week_20,New England Patriots,2011
+['Dan Connolly'],Probable: groin,week_20,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_20,New England Patriots,2011
+['Brandon Deaderick'],NA,week_20,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_20,New England Patriots,2011
+['Julian Edelman'],NA,week_20,New England Patriots,2011
+['Shaun Ellis'],NA,week_20,New England Patriots,2011
+['Kevin Faulk'],NA,week_20,New England Patriots,2011
+['Dane Fletcher'],Questionable: thumb,week_20,New England Patriots,2011
+['Vincent Fuller'],NA,week_20,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_20,New England Patriots,2011
+['Dan Gronkowski'],NA,week_20,New England Patriots,2011
+['Rob Gronkowski'],Probable: leg,week_20,New England Patriots,2011
+['Gary Guyton'],NA,week_20,New England Patriots,2011
+['Albert Haynesworth'],NA,week_20,New England Patriots,2011
+['Aaron Hernandez'],Questionable: concussion,week_20,New England Patriots,2011
+['James Ihedigbo'],Questionable: shoulder,week_20,New England Patriots,2011
+['Chad Johnson'],Probable: personal,week_20,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_20,New England Patriots,2011
+['Matt Light'],NA,week_20,New England Patriots,2011
+['Kyle Love'],Questionable: ankle,week_20,New England Patriots,2011
+['Logan Mankins'],Questionable: knee,week_20,New England Patriots,2011
+['Jerod Mayo'],NA,week_20,New England Patriots,2011
+['Devin McCourty'],NA,week_20,New England Patriots,2011
+['Zoltan Mesko'],NA,week_20,New England Patriots,2011
+['Antwaun Molden'],NA,week_20,New England Patriots,2011
+['Rob Ninkovich'],Questionable: hip,week_20,New England Patriots,2011
+['Taylor Price'],NA,week_20,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_20,New England Patriots,2011
+['Stevan Ridley'],NA,week_20,New England Patriots,2011
+['Matthew Slater'],Probable: shoulder,week_20,New England Patriots,2011
+['Nate Solder'],Questionable: concussion,week_20,New England Patriots,2011
+['Brandon Spikes'],Questionable: knee,week_20,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_20,New England Patriots,2011
+['Shane Vereen'],NA,week_20,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_20,New England Patriots,2011
+['Brian Waters'],NA,week_20,New England Patriots,2011
+['Wes Welker'],Questionable: knee,week_20,New England Patriots,2011
+['Ryan Wendell'],NA,week_20,New England Patriots,2011
+['Tracy White'],Questionable: abdomen,week_20,New England Patriots,2011
+['Danny Woodhead'],NA,week_20,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_20,New England Patriots,2011
+['Mark Anderson'],NA,week_21,New England Patriots,2011
+['Kyle Arrington'],NA,week_21,New England Patriots,2011
+['Josh Barrett'],Injured Reserve: calf,week_21,New England Patriots,2011
+['Leigh Bodden'],NA,week_21,New England Patriots,2011
+['Ron Brace'],NA,week_21,New England Patriots,2011
+['Tom Brady'],NA,week_21,New England Patriots,2011
+['Deion Branch'],Probable: knee,week_21,New England Patriots,2011
+['Sergio Brown'],NA,week_21,New England Patriots,2011
+['Marcus Cannon'],Questionable: ankle,week_21,New England Patriots,2011
+['Andre Carter'],Injured Reserve: quadriceps,week_21,New England Patriots,2011
+['Patrick Chung'],Probable: knee,week_21,New England Patriots,2011
+['Dan Connolly'],Probable: groin,week_21,New England Patriots,2011
+['Jermaine Cunningham'],Injured Reserve: hamstring,week_21,New England Patriots,2011
+['Brandon Deaderick'],NA,week_21,New England Patriots,2011
+['Ras-I Dowling'],Injured Reserve: hip,week_21,New England Patriots,2011
+['Julian Edelman'],NA,week_21,New England Patriots,2011
+['Shaun Ellis'],NA,week_21,New England Patriots,2011
+['Kevin Faulk'],NA,week_21,New England Patriots,2011
+['Dane Fletcher'],Probable: thumb,week_21,New England Patriots,2011
+['Vincent Fuller'],NA,week_21,New England Patriots,2011
+['BenJarvus Green-Ellis'],NA,week_21,New England Patriots,2011
+['Dan Gronkowski'],NA,week_21,New England Patriots,2011
+['Rob Gronkowski'],Questionable: ankle,week_21,New England Patriots,2011
+['Gary Guyton'],NA,week_21,New England Patriots,2011
+['Albert Haynesworth'],NA,week_21,New England Patriots,2011
+['Aaron Hernandez'],NA,week_21,New England Patriots,2011
+['James Ihedigbo'],Probable: shoulder,week_21,New England Patriots,2011
+['Chad Johnson'],NA,week_21,New England Patriots,2011
+['Dan Koppen'],Injured Reserve: ankle/fibula,week_21,New England Patriots,2011
+['Matt Light'],Probable: flu,week_21,New England Patriots,2011
+['Kyle Love'],Probable: ankle,week_21,New England Patriots,2011
+['Logan Mankins'],Probable: knee,week_21,New England Patriots,2011
+['Jerod Mayo'],NA,week_21,New England Patriots,2011
+['Devin McCourty'],NA,week_21,New England Patriots,2011
+['Zoltan Mesko'],NA,week_21,New England Patriots,2011
+['Antwaun Molden'],NA,week_21,New England Patriots,2011
+['Rob Ninkovich'],Probable: hip,week_21,New England Patriots,2011
+['Taylor Price'],NA,week_21,New England Patriots,2011
+['Myron Pryor'],Injured Reserve: shoulder,week_21,New England Patriots,2011
+['Stevan Ridley'],NA,week_21,New England Patriots,2011
+['Matthew Slater'],Probable: shoulder,week_21,New England Patriots,2011
+['Nate Solder'],NA,week_21,New England Patriots,2011
+['Brandon Spikes'],Probable: knee,week_21,New England Patriots,2011
+['Jeff Tarpinian'],Injured Reserve: head,week_21,New England Patriots,2011
+['Shane Vereen'],NA,week_21,New England Patriots,2011
+['Sebastian Vollmer'],Questionable: back/foot,week_21,New England Patriots,2011
+['Brian Waters'],NA,week_21,New England Patriots,2011
+['Wes Welker'],Probable: knee,week_21,New England Patriots,2011
+['Ryan Wendell'],NA,week_21,New England Patriots,2011
+['Tracy White'],Probable: abdomen,week_21,New England Patriots,2011
+['Danny Woodhead'],NA,week_21,New England Patriots,2011
+['Mike Wright'],Injured Reserve: concussion,week_21,New England Patriots,2011

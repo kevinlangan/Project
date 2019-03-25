@@ -1,0 +1,577 @@
+﻿name,injury,week,team,year
+['Anthony Adams'],Questionable: calf,week_1,Chicago Bears,2011
+['Kyle Adams'],NA,week_1,Chicago Bears,2011
+['Marion Barber'],Out: calf,week_1,Chicago Bears,2011
+['Kahlil Bell'],Probable: knee,week_1,Chicago Bears,2011
+['Earl Bennett'],NA,week_1,Chicago Bears,2011
+['Zackary Bowman'],NA,week_1,Chicago Bears,2011
+['Lance Briggs'],Probable: knee,week_1,Chicago Bears,2011
+['Gabe Carimi'],NA,week_1,Chicago Bears,2011
+['Chris Conte'],Probable: head,week_1,Chicago Bears,2011
+['Jay Cutler'],NA,week_1,Chicago Bears,2011
+['Kellen Davis'],Probable: back,week_1,Chicago Bears,2011
+['Matt Forte'],NA,week_1,Chicago Bears,2011
+['Chris Harris'],NA,week_1,Chicago Bears,2011
+['Devin Hester'],NA,week_1,Chicago Bears,2011
+['Sam Hurd'],Questionable: ankle,week_1,Chicago Bears,2011
+['Johnny Knox'],NA,week_1,Chicago Bears,2011
+['Lance Louis'],NA,week_1,Chicago Bears,2011
+['Patrick Mannelly'],Probable: calf,week_1,Chicago Bears,2011
+['Henry Melton'],NA,week_1,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_1,Chicago Bears,2011
+['D.J. Moore'],NA,week_1,Chicago Bears,2011
+['Julius Peppers'],NA,week_1,Chicago Bears,2011
+['Nick Roach'],NA,week_1,Chicago Bears,2011
+['Matt Spaeth'],NA,week_1,Chicago Bears,2011
+['Chris Spencer'],NA,week_1,Chicago Bears,2011
+['Craig Steltz'],Probable: hip,week_1,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_1,Chicago Bears,2011
+['Charles Tillman'],NA,week_1,Chicago Bears,2011
+['Matt Toeaina'],NA,week_1,Chicago Bears,2011
+['Brian Urlacher'],NA,week_1,Chicago Bears,2011
+['Anthony Walters'],NA,week_1,Chicago Bears,2011
+['Chris Williams'],NA,week_1,Chicago Bears,2011
+['Edwin Williams'],NA,week_1,Chicago Bears,2011
+['Roy Williams'],NA,week_1,Chicago Bears,2011
+['Corey Wootton'],Doubtful: knee,week_1,Chicago Bears,2011
+['Major Wright'],NA,week_1,Chicago Bears,2011
+['Anthony Adams'],NA,week_2,Chicago Bears,2011
+['Kyle Adams'],NA,week_2,Chicago Bears,2011
+['Marion Barber'],Questionable: calf,week_2,Chicago Bears,2011
+['Kahlil Bell'],NA,week_2,Chicago Bears,2011
+['Earl Bennett'],NA,week_2,Chicago Bears,2011
+['Zackary Bowman'],Probable: hamstring,week_2,Chicago Bears,2011
+['Lance Briggs'],Probable: knee,week_2,Chicago Bears,2011
+['Gabe Carimi'],NA,week_2,Chicago Bears,2011
+['Chris Conte'],NA,week_2,Chicago Bears,2011
+['Jay Cutler'],NA,week_2,Chicago Bears,2011
+['Kellen Davis'],NA,week_2,Chicago Bears,2011
+['Matt Forte'],NA,week_2,Chicago Bears,2011
+['Chris Harris'],Questionable: hamstring,week_2,Chicago Bears,2011
+['Devin Hester'],NA,week_2,Chicago Bears,2011
+['Sam Hurd'],Probable: ankle,week_2,Chicago Bears,2011
+['Johnny Knox'],NA,week_2,Chicago Bears,2011
+['Lance Louis'],Doubtful: ankle,week_2,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_2,Chicago Bears,2011
+['Henry Melton'],NA,week_2,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_2,Chicago Bears,2011
+['D.J. Moore'],NA,week_2,Chicago Bears,2011
+['Julius Peppers'],NA,week_2,Chicago Bears,2011
+['Nick Roach'],NA,week_2,Chicago Bears,2011
+['Matt Spaeth'],NA,week_2,Chicago Bears,2011
+['Chris Spencer'],NA,week_2,Chicago Bears,2011
+['Craig Steltz'],NA,week_2,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_2,Chicago Bears,2011
+['Charles Tillman'],NA,week_2,Chicago Bears,2011
+['Matt Toeaina'],NA,week_2,Chicago Bears,2011
+['Brian Urlacher'],Questionable: personal,week_2,Chicago Bears,2011
+['Anthony Walters'],NA,week_2,Chicago Bears,2011
+['Chris Williams'],NA,week_2,Chicago Bears,2011
+['Edwin Williams'],NA,week_2,Chicago Bears,2011
+['Roy Williams'],Questionable: groin,week_2,Chicago Bears,2011
+['Corey Wootton'],Probable: knee,week_2,Chicago Bears,2011
+['Major Wright'],NA,week_2,Chicago Bears,2011
+['Anthony Adams'],NA,week_3,Chicago Bears,2011
+['Kyle Adams'],NA,week_3,Chicago Bears,2011
+['Marion Barber'],Questionable: calf,week_3,Chicago Bears,2011
+['Kahlil Bell'],NA,week_3,Chicago Bears,2011
+['Earl Bennett'],Doubtful: chest,week_3,Chicago Bears,2011
+['Zackary Bowman'],NA,week_3,Chicago Bears,2011
+['Lance Briggs'],NA,week_3,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_3,Chicago Bears,2011
+['Chris Conte'],NA,week_3,Chicago Bears,2011
+['Jay Cutler'],NA,week_3,Chicago Bears,2011
+['Kellen Davis'],NA,week_3,Chicago Bears,2011
+['Matt Forte'],NA,week_3,Chicago Bears,2011
+['Chris Harris'],Questionable: hamstring,week_3,Chicago Bears,2011
+['Devin Hester'],NA,week_3,Chicago Bears,2011
+['Sam Hurd'],NA,week_3,Chicago Bears,2011
+['Johnny Knox'],NA,week_3,Chicago Bears,2011
+['Lance Louis'],Questionable: ankle,week_3,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_3,Chicago Bears,2011
+['Henry Melton'],NA,week_3,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_3,Chicago Bears,2011
+['D.J. Moore'],NA,week_3,Chicago Bears,2011
+['Julius Peppers'],NA,week_3,Chicago Bears,2011
+['Nick Roach'],NA,week_3,Chicago Bears,2011
+['Matt Spaeth'],NA,week_3,Chicago Bears,2011
+['Chris Spencer'],NA,week_3,Chicago Bears,2011
+['Craig Steltz'],NA,week_3,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_3,Chicago Bears,2011
+['Charles Tillman'],NA,week_3,Chicago Bears,2011
+['Matt Toeaina'],NA,week_3,Chicago Bears,2011
+['Brian Urlacher'],NA,week_3,Chicago Bears,2011
+['Anthony Walters'],NA,week_3,Chicago Bears,2011
+['Chris Williams'],NA,week_3,Chicago Bears,2011
+['Edwin Williams'],NA,week_3,Chicago Bears,2011
+['Roy Williams'],Probable: groin,week_3,Chicago Bears,2011
+['Corey Wootton'],Questionable: knee,week_3,Chicago Bears,2011
+['Major Wright'],Questionable: neck,week_3,Chicago Bears,2011
+['Anthony Adams'],NA,week_4,Chicago Bears,2011
+['Kyle Adams'],NA,week_4,Chicago Bears,2011
+['Marion Barber'],Probable: calf,week_4,Chicago Bears,2011
+['Kahlil Bell'],Probable: back,week_4,Chicago Bears,2011
+['Earl Bennett'],Questionable: chest,week_4,Chicago Bears,2011
+['Zackary Bowman'],NA,week_4,Chicago Bears,2011
+['Lance Briggs'],NA,week_4,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_4,Chicago Bears,2011
+['Chris Conte'],NA,week_4,Chicago Bears,2011
+['Jay Cutler'],NA,week_4,Chicago Bears,2011
+['Kellen Davis'],NA,week_4,Chicago Bears,2011
+['Matt Forte'],NA,week_4,Chicago Bears,2011
+['Chris Harris'],Probable: hamstring,week_4,Chicago Bears,2011
+['Devin Hester'],NA,week_4,Chicago Bears,2011
+['Sam Hurd'],NA,week_4,Chicago Bears,2011
+['Johnny Knox'],NA,week_4,Chicago Bears,2011
+['Lance Louis'],NA,week_4,Chicago Bears,2011
+['Patrick Mannelly'],Questionable: hip,week_4,Chicago Bears,2011
+['Henry Melton'],NA,week_4,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_4,Chicago Bears,2011
+['D.J. Moore'],NA,week_4,Chicago Bears,2011
+['Julius Peppers'],NA,week_4,Chicago Bears,2011
+['Nick Roach'],NA,week_4,Chicago Bears,2011
+['Matt Spaeth'],Questionable: calf,week_4,Chicago Bears,2011
+['Chris Spencer'],NA,week_4,Chicago Bears,2011
+['Craig Steltz'],NA,week_4,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_4,Chicago Bears,2011
+['Charles Tillman'],NA,week_4,Chicago Bears,2011
+['Matt Toeaina'],NA,week_4,Chicago Bears,2011
+['Brian Urlacher'],NA,week_4,Chicago Bears,2011
+['Anthony Walters'],NA,week_4,Chicago Bears,2011
+['Chris Williams'],NA,week_4,Chicago Bears,2011
+['Edwin Williams'],NA,week_4,Chicago Bears,2011
+['Roy Williams'],NA,week_4,Chicago Bears,2011
+['Corey Wootton'],NA,week_4,Chicago Bears,2011
+['Major Wright'],Probable: head/neck,week_4,Chicago Bears,2011
+['Anthony Adams'],NA,week_5,Chicago Bears,2011
+['Kyle Adams'],NA,week_5,Chicago Bears,2011
+['Marion Barber'],NA,week_5,Chicago Bears,2011
+['Kahlil Bell'],NA,week_5,Chicago Bears,2011
+['Earl Bennett'],Doubtful: chest,week_5,Chicago Bears,2011
+['Zackary Bowman'],NA,week_5,Chicago Bears,2011
+['Lance Briggs'],NA,week_5,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_5,Chicago Bears,2011
+['Chris Conte'],NA,week_5,Chicago Bears,2011
+['Jay Cutler'],NA,week_5,Chicago Bears,2011
+['Kellen Davis'],NA,week_5,Chicago Bears,2011
+['Matt Forte'],NA,week_5,Chicago Bears,2011
+['Chris Harris'],Questionable: hamstring,week_5,Chicago Bears,2011
+['Devin Hester'],NA,week_5,Chicago Bears,2011
+['Sam Hurd'],NA,week_5,Chicago Bears,2011
+['Johnny Knox'],NA,week_5,Chicago Bears,2011
+['Lance Louis'],NA,week_5,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_5,Chicago Bears,2011
+['Henry Melton'],NA,week_5,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_5,Chicago Bears,2011
+['D.J. Moore'],NA,week_5,Chicago Bears,2011
+['Julius Peppers'],NA,week_5,Chicago Bears,2011
+['Nick Roach'],NA,week_5,Chicago Bears,2011
+['Matt Spaeth'],Questionable: calf,week_5,Chicago Bears,2011
+['Chris Spencer'],Questionable: hand,week_5,Chicago Bears,2011
+['Craig Steltz'],NA,week_5,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_5,Chicago Bears,2011
+['Charles Tillman'],Questionable: hip,week_5,Chicago Bears,2011
+['Matt Toeaina'],NA,week_5,Chicago Bears,2011
+['Brian Urlacher'],NA,week_5,Chicago Bears,2011
+['Anthony Walters'],NA,week_5,Chicago Bears,2011
+['Chris Williams'],NA,week_5,Chicago Bears,2011
+['Edwin Williams'],NA,week_5,Chicago Bears,2011
+['Roy Williams'],NA,week_5,Chicago Bears,2011
+['Corey Wootton'],Questionable: hand,week_5,Chicago Bears,2011
+['Major Wright'],NA,week_5,Chicago Bears,2011
+['Anthony Adams'],NA,week_6,Chicago Bears,2011
+['Kyle Adams'],NA,week_6,Chicago Bears,2011
+['Marion Barber'],NA,week_6,Chicago Bears,2011
+['Kahlil Bell'],NA,week_6,Chicago Bears,2011
+['Earl Bennett'],Probable: chest,week_6,Chicago Bears,2011
+['Zackary Bowman'],NA,week_6,Chicago Bears,2011
+['Lance Briggs'],NA,week_6,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_6,Chicago Bears,2011
+['Chris Conte'],NA,week_6,Chicago Bears,2011
+['Jay Cutler'],NA,week_6,Chicago Bears,2011
+['Kellen Davis'],NA,week_6,Chicago Bears,2011
+['Matt Forte'],NA,week_6,Chicago Bears,2011
+['Chris Harris'],NA,week_6,Chicago Bears,2011
+['Devin Hester'],NA,week_6,Chicago Bears,2011
+['Sam Hurd'],NA,week_6,Chicago Bears,2011
+['Johnny Knox'],NA,week_6,Chicago Bears,2011
+['Lance Louis'],NA,week_6,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_6,Chicago Bears,2011
+['Henry Melton'],NA,week_6,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_6,Chicago Bears,2011
+['D.J. Moore'],NA,week_6,Chicago Bears,2011
+['Julius Peppers'],Questionable: knee,week_6,Chicago Bears,2011
+['Nick Roach'],NA,week_6,Chicago Bears,2011
+['Matt Spaeth'],NA,week_6,Chicago Bears,2011
+['Chris Spencer'],Questionable: hand,week_6,Chicago Bears,2011
+['Craig Steltz'],NA,week_6,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_6,Chicago Bears,2011
+['Charles Tillman'],Questionable: hip,week_6,Chicago Bears,2011
+['Matt Toeaina'],Out: knee,week_6,Chicago Bears,2011
+['Brian Urlacher'],NA,week_6,Chicago Bears,2011
+['Anthony Walters'],NA,week_6,Chicago Bears,2011
+['Chris Williams'],NA,week_6,Chicago Bears,2011
+['Edwin Williams'],NA,week_6,Chicago Bears,2011
+['Roy Williams'],NA,week_6,Chicago Bears,2011
+['Corey Wootton'],Probable: hand,week_6,Chicago Bears,2011
+['Major Wright'],NA,week_6,Chicago Bears,2011
+['Anthony Adams'],NA,week_7,Chicago Bears,2011
+['Kyle Adams'],NA,week_7,Chicago Bears,2011
+['Marion Barber'],NA,week_7,Chicago Bears,2011
+['Kahlil Bell'],NA,week_7,Chicago Bears,2011
+['Earl Bennett'],Probable: chest,week_7,Chicago Bears,2011
+['Zackary Bowman'],NA,week_7,Chicago Bears,2011
+['Lance Briggs'],NA,week_7,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_7,Chicago Bears,2011
+['Chris Conte'],NA,week_7,Chicago Bears,2011
+['Jay Cutler'],NA,week_7,Chicago Bears,2011
+['Kellen Davis'],Probable: elbow,week_7,Chicago Bears,2011
+['Matt Forte'],NA,week_7,Chicago Bears,2011
+['Chris Harris'],NA,week_7,Chicago Bears,2011
+['Devin Hester'],Probable: chest,week_7,Chicago Bears,2011
+['Sam Hurd'],NA,week_7,Chicago Bears,2011
+['Johnny Knox'],NA,week_7,Chicago Bears,2011
+['Lance Louis'],NA,week_7,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_7,Chicago Bears,2011
+['Henry Melton'],NA,week_7,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_7,Chicago Bears,2011
+['D.J. Moore'],NA,week_7,Chicago Bears,2011
+['Julius Peppers'],NA,week_7,Chicago Bears,2011
+['Nick Roach'],NA,week_7,Chicago Bears,2011
+['Matt Spaeth'],NA,week_7,Chicago Bears,2011
+['Chris Spencer'],NA,week_7,Chicago Bears,2011
+['Craig Steltz'],NA,week_7,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_7,Chicago Bears,2011
+['Charles Tillman'],NA,week_7,Chicago Bears,2011
+['Matt Toeaina'],Questionable: knee,week_7,Chicago Bears,2011
+['Brian Urlacher'],NA,week_7,Chicago Bears,2011
+['Anthony Walters'],Questionable: knee,week_7,Chicago Bears,2011
+['Chris Williams'],NA,week_7,Chicago Bears,2011
+['Edwin Williams'],NA,week_7,Chicago Bears,2011
+['Roy Williams'],NA,week_7,Chicago Bears,2011
+['Corey Wootton'],Questionable: hand,week_7,Chicago Bears,2011
+['Major Wright'],Probable: hip,week_7,Chicago Bears,2011
+['Anthony Adams'],NA,week_9,Chicago Bears,2011
+['Kyle Adams'],NA,week_9,Chicago Bears,2011
+['Marion Barber'],NA,week_9,Chicago Bears,2011
+['Kahlil Bell'],NA,week_9,Chicago Bears,2011
+['Earl Bennett'],Probable: chest,week_9,Chicago Bears,2011
+['Zackary Bowman'],NA,week_9,Chicago Bears,2011
+['Lance Briggs'],NA,week_9,Chicago Bears,2011
+['Gabe Carimi'],Probable: knee,week_9,Chicago Bears,2011
+['Chris Conte'],NA,week_9,Chicago Bears,2011
+['Jay Cutler'],NA,week_9,Chicago Bears,2011
+['Kellen Davis'],NA,week_9,Chicago Bears,2011
+['Matt Forte'],NA,week_9,Chicago Bears,2011
+['Chris Harris'],NA,week_9,Chicago Bears,2011
+['Devin Hester'],NA,week_9,Chicago Bears,2011
+['Sam Hurd'],NA,week_9,Chicago Bears,2011
+['Johnny Knox'],NA,week_9,Chicago Bears,2011
+['Lance Louis'],NA,week_9,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_9,Chicago Bears,2011
+['Henry Melton'],NA,week_9,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_9,Chicago Bears,2011
+['D.J. Moore'],NA,week_9,Chicago Bears,2011
+['Julius Peppers'],NA,week_9,Chicago Bears,2011
+['Nick Roach'],NA,week_9,Chicago Bears,2011
+['Matt Spaeth'],NA,week_9,Chicago Bears,2011
+['Chris Spencer'],NA,week_9,Chicago Bears,2011
+['Craig Steltz'],NA,week_9,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_9,Chicago Bears,2011
+['Charles Tillman'],NA,week_9,Chicago Bears,2011
+['Matt Toeaina'],Questionable: knee,week_9,Chicago Bears,2011
+['Brian Urlacher'],NA,week_9,Chicago Bears,2011
+['Anthony Walters'],NA,week_9,Chicago Bears,2011
+['Chris Williams'],NA,week_9,Chicago Bears,2011
+['Edwin Williams'],NA,week_9,Chicago Bears,2011
+['Roy Williams'],NA,week_9,Chicago Bears,2011
+['Corey Wootton'],NA,week_9,Chicago Bears,2011
+['Major Wright'],Questionable: hip,week_9,Chicago Bears,2011
+['Anthony Adams'],NA,week_10,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_10,Chicago Bears,2011
+['Marion Barber'],NA,week_10,Chicago Bears,2011
+['Kahlil Bell'],NA,week_10,Chicago Bears,2011
+['Earl Bennett'],NA,week_10,Chicago Bears,2011
+['Zackary Bowman'],NA,week_10,Chicago Bears,2011
+['Lance Briggs'],NA,week_10,Chicago Bears,2011
+['Gabe Carimi'],Doubtful: knee,week_10,Chicago Bears,2011
+['Chris Conte'],NA,week_10,Chicago Bears,2011
+['Jay Cutler'],NA,week_10,Chicago Bears,2011
+['Kellen Davis'],Questionable: shoulder,week_10,Chicago Bears,2011
+['Matt Forte'],NA,week_10,Chicago Bears,2011
+['Chris Harris'],NA,week_10,Chicago Bears,2011
+['Devin Hester'],Questionable: ankle,week_10,Chicago Bears,2011
+['Sam Hurd'],NA,week_10,Chicago Bears,2011
+['Johnny Knox'],NA,week_10,Chicago Bears,2011
+['Lance Louis'],NA,week_10,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_10,Chicago Bears,2011
+['Henry Melton'],NA,week_10,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_10,Chicago Bears,2011
+['D.J. Moore'],NA,week_10,Chicago Bears,2011
+['Julius Peppers'],Questionable: knee,week_10,Chicago Bears,2011
+['Nick Roach'],NA,week_10,Chicago Bears,2011
+['Matt Spaeth'],NA,week_10,Chicago Bears,2011
+['Chris Spencer'],NA,week_10,Chicago Bears,2011
+['Craig Steltz'],NA,week_10,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_10,Chicago Bears,2011
+['Charles Tillman'],NA,week_10,Chicago Bears,2011
+['Matt Toeaina'],Questionable: knee,week_10,Chicago Bears,2011
+['Brian Urlacher'],NA,week_10,Chicago Bears,2011
+['Anthony Walters'],NA,week_10,Chicago Bears,2011
+['Chris Williams'],NA,week_10,Chicago Bears,2011
+['Edwin Williams'],NA,week_10,Chicago Bears,2011
+['Roy Williams'],NA,week_10,Chicago Bears,2011
+['Corey Wootton'],NA,week_10,Chicago Bears,2011
+['Major Wright'],Questionable: ankle,week_10,Chicago Bears,2011
+['Anthony Adams'],NA,week_11,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_11,Chicago Bears,2011
+['Marion Barber'],NA,week_11,Chicago Bears,2011
+['Kahlil Bell'],NA,week_11,Chicago Bears,2011
+['Earl Bennett'],NA,week_11,Chicago Bears,2011
+['Zackary Bowman'],NA,week_11,Chicago Bears,2011
+['Lance Briggs'],Probable: neck,week_11,Chicago Bears,2011
+['Gabe Carimi'],Out: knee,week_11,Chicago Bears,2011
+['Chris Conte'],NA,week_11,Chicago Bears,2011
+['Jay Cutler'],NA,week_11,Chicago Bears,2011
+['Kellen Davis'],NA,week_11,Chicago Bears,2011
+['Matt Forte'],Probable: shoulder,week_11,Chicago Bears,2011
+['Chris Harris'],NA,week_11,Chicago Bears,2011
+['Devin Hester'],Probable: head,week_11,Chicago Bears,2011
+['Sam Hurd'],NA,week_11,Chicago Bears,2011
+['Johnny Knox'],NA,week_11,Chicago Bears,2011
+['Lance Louis'],NA,week_11,Chicago Bears,2011
+['Patrick Mannelly'],NA,week_11,Chicago Bears,2011
+['Henry Melton'],NA,week_11,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_11,Chicago Bears,2011
+['D.J. Moore'],Doubtful: ankle,week_11,Chicago Bears,2011
+['Julius Peppers'],Probable: knee,week_11,Chicago Bears,2011
+['Nick Roach'],NA,week_11,Chicago Bears,2011
+['Matt Spaeth'],NA,week_11,Chicago Bears,2011
+['Chris Spencer'],NA,week_11,Chicago Bears,2011
+['Craig Steltz'],NA,week_11,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_11,Chicago Bears,2011
+['Charles Tillman'],NA,week_11,Chicago Bears,2011
+['Matt Toeaina'],Probable: knee,week_11,Chicago Bears,2011
+['Brian Urlacher'],NA,week_11,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_11,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_11,Chicago Bears,2011
+['Edwin Williams'],NA,week_11,Chicago Bears,2011
+['Roy Williams'],NA,week_11,Chicago Bears,2011
+['Corey Wootton'],NA,week_11,Chicago Bears,2011
+['Major Wright'],NA,week_11,Chicago Bears,2011
+['Anthony Adams'],NA,week_12,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_12,Chicago Bears,2011
+['Marion Barber'],NA,week_12,Chicago Bears,2011
+['Kahlil Bell'],NA,week_12,Chicago Bears,2011
+['Earl Bennett'],NA,week_12,Chicago Bears,2011
+['Zackary Bowman'],NA,week_12,Chicago Bears,2011
+['Lance Briggs'],NA,week_12,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_12,Chicago Bears,2011
+['Chris Conte'],NA,week_12,Chicago Bears,2011
+['Jay Cutler'],Out: thumb,week_12,Chicago Bears,2011
+['Kellen Davis'],NA,week_12,Chicago Bears,2011
+['Matt Forte'],NA,week_12,Chicago Bears,2011
+['Chris Harris'],NA,week_12,Chicago Bears,2011
+['Devin Hester'],Probable: shin,week_12,Chicago Bears,2011
+['Sam Hurd'],NA,week_12,Chicago Bears,2011
+['Johnny Knox'],NA,week_12,Chicago Bears,2011
+['Lance Louis'],NA,week_12,Chicago Bears,2011
+['Patrick Mannelly'],Out: knee,week_12,Chicago Bears,2011
+['Henry Melton'],NA,week_12,Chicago Bears,2011
+['Brandon Meriweather'],Questionable: concussion,week_12,Chicago Bears,2011
+['D.J. Moore'],Questionable: ankle,week_12,Chicago Bears,2011
+['Julius Peppers'],NA,week_12,Chicago Bears,2011
+['Nick Roach'],NA,week_12,Chicago Bears,2011
+['Matt Spaeth'],NA,week_12,Chicago Bears,2011
+['Chris Spencer'],NA,week_12,Chicago Bears,2011
+['Craig Steltz'],NA,week_12,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_12,Chicago Bears,2011
+['Charles Tillman'],NA,week_12,Chicago Bears,2011
+['Matt Toeaina'],NA,week_12,Chicago Bears,2011
+['Brian Urlacher'],NA,week_12,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_12,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_12,Chicago Bears,2011
+['Edwin Williams'],NA,week_12,Chicago Bears,2011
+['Roy Williams'],NA,week_12,Chicago Bears,2011
+['Corey Wootton'],NA,week_12,Chicago Bears,2011
+['Major Wright'],NA,week_12,Chicago Bears,2011
+['Anthony Adams'],Questionable: back,week_13,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_13,Chicago Bears,2011
+['Marion Barber'],NA,week_13,Chicago Bears,2011
+['Kahlil Bell'],NA,week_13,Chicago Bears,2011
+['Earl Bennett'],NA,week_13,Chicago Bears,2011
+['Zackary Bowman'],Questionable: groin,week_13,Chicago Bears,2011
+['Lance Briggs'],NA,week_13,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_13,Chicago Bears,2011
+['Chris Conte'],NA,week_13,Chicago Bears,2011
+['Jay Cutler'],Out: thumb,week_13,Chicago Bears,2011
+['Kellen Davis'],NA,week_13,Chicago Bears,2011
+['Matt Forte'],NA,week_13,Chicago Bears,2011
+['Chris Harris'],NA,week_13,Chicago Bears,2011
+['Devin Hester'],NA,week_13,Chicago Bears,2011
+['Sam Hurd'],NA,week_13,Chicago Bears,2011
+['Johnny Knox'],NA,week_13,Chicago Bears,2011
+['Lance Louis'],NA,week_13,Chicago Bears,2011
+['Patrick Mannelly'],Injured Reserve: knee,week_13,Chicago Bears,2011
+['Henry Melton'],NA,week_13,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_13,Chicago Bears,2011
+['D.J. Moore'],Questionable: ankle,week_13,Chicago Bears,2011
+['Julius Peppers'],NA,week_13,Chicago Bears,2011
+['Nick Roach'],NA,week_13,Chicago Bears,2011
+['Matt Spaeth'],NA,week_13,Chicago Bears,2011
+['Chris Spencer'],NA,week_13,Chicago Bears,2011
+['Craig Steltz'],NA,week_13,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_13,Chicago Bears,2011
+['Charles Tillman'],Questionable: knee,week_13,Chicago Bears,2011
+['Matt Toeaina'],NA,week_13,Chicago Bears,2011
+['Brian Urlacher'],NA,week_13,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_13,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_13,Chicago Bears,2011
+['Edwin Williams'],NA,week_13,Chicago Bears,2011
+['Roy Williams'],NA,week_13,Chicago Bears,2011
+['Corey Wootton'],NA,week_13,Chicago Bears,2011
+['Major Wright'],NA,week_13,Chicago Bears,2011
+['Anthony Adams'],Probable: back,week_14,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_14,Chicago Bears,2011
+['Marion Barber'],NA,week_14,Chicago Bears,2011
+['Kahlil Bell'],NA,week_14,Chicago Bears,2011
+['Earl Bennett'],NA,week_14,Chicago Bears,2011
+['Zackary Bowman'],NA,week_14,Chicago Bears,2011
+['Lance Briggs'],NA,week_14,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_14,Chicago Bears,2011
+['Chris Conte'],NA,week_14,Chicago Bears,2011
+['Jay Cutler'],Out: thumb,week_14,Chicago Bears,2011
+['Kellen Davis'],NA,week_14,Chicago Bears,2011
+['Matt Forte'],Out: knee,week_14,Chicago Bears,2011
+['Chris Harris'],NA,week_14,Chicago Bears,2011
+['Devin Hester'],NA,week_14,Chicago Bears,2011
+['Sam Hurd'],NA,week_14,Chicago Bears,2011
+['Johnny Knox'],NA,week_14,Chicago Bears,2011
+['Lance Louis'],NA,week_14,Chicago Bears,2011
+['Patrick Mannelly'],Injured Reserve: knee,week_14,Chicago Bears,2011
+['Henry Melton'],Probable: knee,week_14,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_14,Chicago Bears,2011
+['D.J. Moore'],NA,week_14,Chicago Bears,2011
+['Julius Peppers'],NA,week_14,Chicago Bears,2011
+['Nick Roach'],NA,week_14,Chicago Bears,2011
+['Matt Spaeth'],NA,week_14,Chicago Bears,2011
+['Chris Spencer'],NA,week_14,Chicago Bears,2011
+['Craig Steltz'],NA,week_14,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_14,Chicago Bears,2011
+['Charles Tillman'],Probable: quadriceps,week_14,Chicago Bears,2011
+['Matt Toeaina'],NA,week_14,Chicago Bears,2011
+['Brian Urlacher'],Probable: quadriceps,week_14,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_14,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_14,Chicago Bears,2011
+['Edwin Williams'],NA,week_14,Chicago Bears,2011
+['Roy Williams'],NA,week_14,Chicago Bears,2011
+['Corey Wootton'],NA,week_14,Chicago Bears,2011
+['Major Wright'],Questionable: shoulder,week_14,Chicago Bears,2011
+['Anthony Adams'],Questionable: back,week_15,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_15,Chicago Bears,2011
+['Marion Barber'],NA,week_15,Chicago Bears,2011
+['Kahlil Bell'],NA,week_15,Chicago Bears,2011
+['Earl Bennett'],NA,week_15,Chicago Bears,2011
+['Zackary Bowman'],NA,week_15,Chicago Bears,2011
+['Lance Briggs'],NA,week_15,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_15,Chicago Bears,2011
+['Chris Conte'],NA,week_15,Chicago Bears,2011
+['Jay Cutler'],Out: thumb,week_15,Chicago Bears,2011
+['Kellen Davis'],NA,week_15,Chicago Bears,2011
+['Matt Forte'],Out: knee,week_15,Chicago Bears,2011
+['Chris Harris'],NA,week_15,Chicago Bears,2011
+['Devin Hester'],NA,week_15,Chicago Bears,2011
+['Sam Hurd'],Questionable: personal/legal,week_15,Chicago Bears,2011
+['Johnny Knox'],NA,week_15,Chicago Bears,2011
+['Lance Louis'],NA,week_15,Chicago Bears,2011
+['Patrick Mannelly'],Injured Reserve: knee,week_15,Chicago Bears,2011
+['Henry Melton'],Questionable: shin,week_15,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_15,Chicago Bears,2011
+['D.J. Moore'],NA,week_15,Chicago Bears,2011
+['Julius Peppers'],NA,week_15,Chicago Bears,2011
+['Nick Roach'],NA,week_15,Chicago Bears,2011
+['Matt Spaeth'],NA,week_15,Chicago Bears,2011
+['Chris Spencer'],NA,week_15,Chicago Bears,2011
+['Craig Steltz'],NA,week_15,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_15,Chicago Bears,2011
+['Charles Tillman'],Questionable: knee,week_15,Chicago Bears,2011
+['Matt Toeaina'],NA,week_15,Chicago Bears,2011
+['Brian Urlacher'],NA,week_15,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_15,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_15,Chicago Bears,2011
+['Edwin Williams'],Questionable: calf,week_15,Chicago Bears,2011
+['Roy Williams'],NA,week_15,Chicago Bears,2011
+['Corey Wootton'],NA,week_15,Chicago Bears,2011
+['Major Wright'],Questionable: shoulder,week_15,Chicago Bears,2011
+['Anthony Adams'],NA,week_16,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_16,Chicago Bears,2011
+['Marion Barber'],Questionable: calf,week_16,Chicago Bears,2011
+['Kahlil Bell'],NA,week_16,Chicago Bears,2011
+['Earl Bennett'],NA,week_16,Chicago Bears,2011
+['Zackary Bowman'],NA,week_16,Chicago Bears,2011
+['Lance Briggs'],Questionable: ankle,week_16,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_16,Chicago Bears,2011
+['Chris Conte'],Injured Reserve: foot,week_16,Chicago Bears,2011
+['Jay Cutler'],Out: thumb,week_16,Chicago Bears,2011
+['Kellen Davis'],Questionable: back,week_16,Chicago Bears,2011
+['Matt Forte'],Out: knee,week_16,Chicago Bears,2011
+['Chris Harris'],NA,week_16,Chicago Bears,2011
+['Devin Hester'],Questionable: ankle,week_16,Chicago Bears,2011
+['Sam Hurd'],NA,week_16,Chicago Bears,2011
+['Johnny Knox'],Injured Reserve: back,week_16,Chicago Bears,2011
+['Lance Louis'],NA,week_16,Chicago Bears,2011
+['Patrick Mannelly'],Injured Reserve: knee,week_16,Chicago Bears,2011
+['Henry Melton'],Questionable: shin,week_16,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_16,Chicago Bears,2011
+['D.J. Moore'],NA,week_16,Chicago Bears,2011
+['Julius Peppers'],NA,week_16,Chicago Bears,2011
+['Nick Roach'],NA,week_16,Chicago Bears,2011
+['Matt Spaeth'],NA,week_16,Chicago Bears,2011
+['Chris Spencer'],NA,week_16,Chicago Bears,2011
+['Craig Steltz'],NA,week_16,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_16,Chicago Bears,2011
+['Charles Tillman'],NA,week_16,Chicago Bears,2011
+['Matt Toeaina'],NA,week_16,Chicago Bears,2011
+['Brian Urlacher'],NA,week_16,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_16,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_16,Chicago Bears,2011
+['Edwin Williams'],NA,week_16,Chicago Bears,2011
+['Roy Williams'],NA,week_16,Chicago Bears,2011
+['Corey Wootton'],NA,week_16,Chicago Bears,2011
+['Major Wright'],NA,week_16,Chicago Bears,2011
+['Anthony Adams'],NA,week_17,Chicago Bears,2011
+['Kyle Adams'],Injured Reserve: hamstring,week_17,Chicago Bears,2011
+['Marion Barber'],Doubtful: calf,week_17,Chicago Bears,2011
+['Kahlil Bell'],NA,week_17,Chicago Bears,2011
+['Earl Bennett'],NA,week_17,Chicago Bears,2011
+['Zackary Bowman'],NA,week_17,Chicago Bears,2011
+['Lance Briggs'],Questionable: ankle,week_17,Chicago Bears,2011
+['Gabe Carimi'],Injured Reserve: knee,week_17,Chicago Bears,2011
+['Chris Conte'],Injured Reserve: foot,week_17,Chicago Bears,2011
+['Jay Cutler'],Injured Reserve: thumb,week_17,Chicago Bears,2011
+['Kellen Davis'],Questionable: illness,week_17,Chicago Bears,2011
+['Matt Forte'],Injured Reserve: knee,week_17,Chicago Bears,2011
+['Chris Harris'],NA,week_17,Chicago Bears,2011
+['Devin Hester'],Probable: ankle,week_17,Chicago Bears,2011
+['Sam Hurd'],NA,week_17,Chicago Bears,2011
+['Johnny Knox'],Injured Reserve: back,week_17,Chicago Bears,2011
+['Lance Louis'],NA,week_17,Chicago Bears,2011
+['Patrick Mannelly'],Injured Reserve: knee,week_17,Chicago Bears,2011
+['Henry Melton'],NA,week_17,Chicago Bears,2011
+['Brandon Meriweather'],NA,week_17,Chicago Bears,2011
+['D.J. Moore'],NA,week_17,Chicago Bears,2011
+['Julius Peppers'],NA,week_17,Chicago Bears,2011
+['Nick Roach'],Probable: shin,week_17,Chicago Bears,2011
+['Matt Spaeth'],NA,week_17,Chicago Bears,2011
+['Chris Spencer'],Probable: back,week_17,Chicago Bears,2011
+['Craig Steltz'],NA,week_17,Chicago Bears,2011
+['J.T. Thomas'],Injured Reserve: knee,week_17,Chicago Bears,2011
+['Charles Tillman'],NA,week_17,Chicago Bears,2011
+['Matt Toeaina'],NA,week_17,Chicago Bears,2011
+['Brian Urlacher'],Questionable: knee,week_17,Chicago Bears,2011
+['Anthony Walters'],Injured Reserve: hamstring,week_17,Chicago Bears,2011
+['Chris Williams'],Injured Reserve: wrist,week_17,Chicago Bears,2011
+['Edwin Williams'],NA,week_17,Chicago Bears,2011
+['Roy Williams'],NA,week_17,Chicago Bears,2011
+['Corey Wootton'],Probable: concussion,week_17,Chicago Bears,2011
+['Major Wright'],NA,week_17,Chicago Bears,2011

@@ -1,0 +1,769 @@
+﻿name,injury,week,team,year
+['Mark Brunell'],Probable: calf,week_1,New York Jets,2011
+['Plaxico Burress'],Probable: ankle,week_1,New York Jets,2011
+['Marquice Cole'],NA,week_1,New York Jets,2011
+['John Conner'],Questionable: ankle,week_1,New York Jets,2011
+['Antonio Cromartie'],NA,week_1,New York Jets,2011
+['Jeff Cumberland'],Probable: hamstring,week_1,New York Jets,2011
+['Mike DeVito'],NA,week_1,New York Jets,2011
+['Marcus Dixon'],Probable: knee,week_1,New York Jets,2011
+['Vlad Ducasse'],NA,week_1,New York Jets,2011
+['Kenrick Ellis'],Probable: hamstring,week_1,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_1,New York Jets,2011
+['Shonn Greene'],NA,week_1,New York Jets,2011
+['David Harris'],NA,week_1,New York Jets,2011
+['Santonio Holmes'],Probable: illness,week_1,New York Jets,2011
+['Wayne Hunter'],NA,week_1,New York Jets,2011
+['Jeremy Kerley'],NA,week_1,New York Jets,2011
+['Ellis Lankster'],NA,week_1,New York Jets,2011
+['Jim Leonhard'],NA,week_1,New York Jets,2011
+['Nick Mangold'],NA,week_1,New York Jets,2011
+['Derrick Mason'],Probable: knee,week_1,New York Jets,2011
+['Josh Mauga'],NA,week_1,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_1,New York Jets,2011
+['Garrett McIntyre'],NA,week_1,New York Jets,2011
+['Joe McKnight'],Probable: illness,week_1,New York Jets,2011
+['Brandon Moore'],Probable: illness,week_1,New York Jets,2011
+['Matthew Mulligan'],NA,week_1,New York Jets,2011
+['Shawn Nelson'],NA,week_1,New York Jets,2011
+['Calvin Pace'],NA,week_1,New York Jets,2011
+['Logan Payne'],Out: wrist,week_1,New York Jets,2011
+['Ropati Pitoitua'],Probable: ankle,week_1,New York Jets,2011
+['Brodney Pool'],NA,week_1,New York Jets,2011
+['Sione Pouha'],Probable: knee,week_1,New York Jets,2011
+['Bilal Powell'],NA,week_1,New York Jets,2011
+['Tanner Purdum'],NA,week_1,New York Jets,2011
+['Darrelle Revis'],Probable: hip,week_1,New York Jets,2011
+['Mark Sanchez'],NA,week_1,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_1,New York Jets,2011
+['Bart Scott'],NA,week_1,New York Jets,2011
+['Matt Slauson'],NA,week_1,New York Jets,2011
+['Eric Smith'],NA,week_1,New York Jets,2011
+['Donald Strickland'],NA,week_1,New York Jets,2011
+['Martin Tevaseu'],NA,week_1,New York Jets,2011
+['Bryan Thomas'],NA,week_1,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_1,New York Jets,2011
+['Isaiah Trufant'],NA,week_1,New York Jets,2011
+['Patrick Turner'],NA,week_1,New York Jets,2011
+['Robert Turner'],Out: leg,week_1,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_1,New York Jets,2011
+['Mark Brunell'],Probable: calf,week_2,New York Jets,2011
+['Plaxico Burress'],Probable: ankle,week_2,New York Jets,2011
+['Marquice Cole'],Probable: ankle,week_2,New York Jets,2011
+['John Conner'],Probable: ankle,week_2,New York Jets,2011
+['Antonio Cromartie'],NA,week_2,New York Jets,2011
+['Jeff Cumberland'],Probable: hamstring,week_2,New York Jets,2011
+['Mike DeVito'],NA,week_2,New York Jets,2011
+['Marcus Dixon'],Probable: knee,week_2,New York Jets,2011
+['Vlad Ducasse'],NA,week_2,New York Jets,2011
+['Kenrick Ellis'],Questionable: hamstring,week_2,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_2,New York Jets,2011
+['Shonn Greene'],NA,week_2,New York Jets,2011
+['David Harris'],Questionable: toe,week_2,New York Jets,2011
+['Santonio Holmes'],Questionable: knee,week_2,New York Jets,2011
+['Wayne Hunter'],Probable: knee,week_2,New York Jets,2011
+['Jeremy Kerley'],NA,week_2,New York Jets,2011
+['Ellis Lankster'],NA,week_2,New York Jets,2011
+['Jim Leonhard'],NA,week_2,New York Jets,2011
+['Nick Mangold'],NA,week_2,New York Jets,2011
+['Derrick Mason'],Probable: knee,week_2,New York Jets,2011
+['Josh Mauga'],NA,week_2,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_2,New York Jets,2011
+['Garrett McIntyre'],NA,week_2,New York Jets,2011
+['Joe McKnight'],Probable: finger,week_2,New York Jets,2011
+['Brandon Moore'],NA,week_2,New York Jets,2011
+['Matthew Mulligan'],NA,week_2,New York Jets,2011
+['Shawn Nelson'],NA,week_2,New York Jets,2011
+['Calvin Pace'],NA,week_2,New York Jets,2011
+['Logan Payne'],Out: wrist,week_2,New York Jets,2011
+['Ropati Pitoitua'],NA,week_2,New York Jets,2011
+['Brodney Pool'],NA,week_2,New York Jets,2011
+['Sione Pouha'],Probable: knee/ankle,week_2,New York Jets,2011
+['Bilal Powell'],NA,week_2,New York Jets,2011
+['Tanner Purdum'],NA,week_2,New York Jets,2011
+['Darrelle Revis'],NA,week_2,New York Jets,2011
+['Mark Sanchez'],NA,week_2,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_2,New York Jets,2011
+['Bart Scott'],NA,week_2,New York Jets,2011
+['Matt Slauson'],NA,week_2,New York Jets,2011
+['Eric Smith'],Questionable: ankle,week_2,New York Jets,2011
+['Donald Strickland'],NA,week_2,New York Jets,2011
+['Martin Tevaseu'],NA,week_2,New York Jets,2011
+['Bryan Thomas'],NA,week_2,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_2,New York Jets,2011
+['Isaiah Trufant'],NA,week_2,New York Jets,2011
+['Patrick Turner'],NA,week_2,New York Jets,2011
+['Robert Turner'],Out: leg,week_2,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_2,New York Jets,2011
+['Mark Brunell'],NA,week_3,New York Jets,2011
+['Plaxico Burress'],NA,week_3,New York Jets,2011
+['Marquice Cole'],NA,week_3,New York Jets,2011
+['John Conner'],NA,week_3,New York Jets,2011
+['Antonio Cromartie'],NA,week_3,New York Jets,2011
+['Jeff Cumberland'],NA,week_3,New York Jets,2011
+['Mike DeVito'],Questionable: shoulder,week_3,New York Jets,2011
+['Marcus Dixon'],Probable: knee,week_3,New York Jets,2011
+['Vlad Ducasse'],NA,week_3,New York Jets,2011
+['Kenrick Ellis'],NA,week_3,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_3,New York Jets,2011
+['Shonn Greene'],NA,week_3,New York Jets,2011
+['David Harris'],Questionable: toe,week_3,New York Jets,2011
+['Santonio Holmes'],Questionable: knee/quadriceps,week_3,New York Jets,2011
+['Wayne Hunter'],NA,week_3,New York Jets,2011
+['Jeremy Kerley'],NA,week_3,New York Jets,2011
+['Ellis Lankster'],NA,week_3,New York Jets,2011
+['Jim Leonhard'],Questionable: hamstring,week_3,New York Jets,2011
+['Nick Mangold'],Out: ankle,week_3,New York Jets,2011
+['Derrick Mason'],Probable: knee,week_3,New York Jets,2011
+['Josh Mauga'],NA,week_3,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_3,New York Jets,2011
+['Garrett McIntyre'],NA,week_3,New York Jets,2011
+['Joe McKnight'],NA,week_3,New York Jets,2011
+['Brandon Moore'],NA,week_3,New York Jets,2011
+['Matthew Mulligan'],NA,week_3,New York Jets,2011
+['Shawn Nelson'],NA,week_3,New York Jets,2011
+['Calvin Pace'],NA,week_3,New York Jets,2011
+['Logan Payne'],Out: wrist,week_3,New York Jets,2011
+['Ropati Pitoitua'],NA,week_3,New York Jets,2011
+['Brodney Pool'],NA,week_3,New York Jets,2011
+['Sione Pouha'],NA,week_3,New York Jets,2011
+['Bilal Powell'],NA,week_3,New York Jets,2011
+['Tanner Purdum'],NA,week_3,New York Jets,2011
+['Darrelle Revis'],NA,week_3,New York Jets,2011
+['Mark Sanchez'],Probable: arm,week_3,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_3,New York Jets,2011
+['Bart Scott'],NA,week_3,New York Jets,2011
+['Matt Slauson'],NA,week_3,New York Jets,2011
+['Eric Smith'],Questionable: ankle,week_3,New York Jets,2011
+['Donald Strickland'],NA,week_3,New York Jets,2011
+['Martin Tevaseu'],NA,week_3,New York Jets,2011
+['Bryan Thomas'],NA,week_3,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_3,New York Jets,2011
+['Isaiah Trufant'],NA,week_3,New York Jets,2011
+['Patrick Turner'],NA,week_3,New York Jets,2011
+['Robert Turner'],NA,week_3,New York Jets,2011
+['Muhammad Wilkerson'],Questionable: shoulder,week_3,New York Jets,2011
+['Mark Brunell'],NA,week_4,New York Jets,2011
+['Plaxico Burress'],Questionable: hamstring,week_4,New York Jets,2011
+['Marquice Cole'],NA,week_4,New York Jets,2011
+['John Conner'],NA,week_4,New York Jets,2011
+['Antonio Cromartie'],Probable: rib,week_4,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_4,New York Jets,2011
+['Mike DeVito'],Probable: shoulder,week_4,New York Jets,2011
+['Marcus Dixon'],NA,week_4,New York Jets,2011
+['Vlad Ducasse'],NA,week_4,New York Jets,2011
+['Kenrick Ellis'],NA,week_4,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_4,New York Jets,2011
+['Shonn Greene'],NA,week_4,New York Jets,2011
+['David Harris'],Probable: toe,week_4,New York Jets,2011
+['Santonio Holmes'],Probable: shoulder,week_4,New York Jets,2011
+['Wayne Hunter'],NA,week_4,New York Jets,2011
+['Jeremy Kerley'],NA,week_4,New York Jets,2011
+['Ellis Lankster'],NA,week_4,New York Jets,2011
+['Jim Leonhard'],NA,week_4,New York Jets,2011
+['Nick Mangold'],Out: ankle,week_4,New York Jets,2011
+['Derrick Mason'],NA,week_4,New York Jets,2011
+['Josh Mauga'],NA,week_4,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_4,New York Jets,2011
+['Garrett McIntyre'],NA,week_4,New York Jets,2011
+['Joe McKnight'],NA,week_4,New York Jets,2011
+['Brandon Moore'],NA,week_4,New York Jets,2011
+['Matthew Mulligan'],NA,week_4,New York Jets,2011
+['Shawn Nelson'],NA,week_4,New York Jets,2011
+['Calvin Pace'],NA,week_4,New York Jets,2011
+['Logan Payne'],Out: wrist,week_4,New York Jets,2011
+['Ropati Pitoitua'],NA,week_4,New York Jets,2011
+['Brodney Pool'],NA,week_4,New York Jets,2011
+['Sione Pouha'],NA,week_4,New York Jets,2011
+['Bilal Powell'],NA,week_4,New York Jets,2011
+['Tanner Purdum'],NA,week_4,New York Jets,2011
+['Darrelle Revis'],NA,week_4,New York Jets,2011
+['Mark Sanchez'],NA,week_4,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_4,New York Jets,2011
+['Bart Scott'],NA,week_4,New York Jets,2011
+['Matt Slauson'],NA,week_4,New York Jets,2011
+['Eric Smith'],NA,week_4,New York Jets,2011
+['Donald Strickland'],NA,week_4,New York Jets,2011
+['Martin Tevaseu'],NA,week_4,New York Jets,2011
+['Bryan Thomas'],NA,week_4,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_4,New York Jets,2011
+['Isaiah Trufant'],NA,week_4,New York Jets,2011
+['Patrick Turner'],NA,week_4,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_4,New York Jets,2011
+['Muhammad Wilkerson'],Probable: shoulder,week_4,New York Jets,2011
+['Mark Brunell'],NA,week_5,New York Jets,2011
+['Plaxico Burress'],Probable: elbow,week_5,New York Jets,2011
+['Marquice Cole'],NA,week_5,New York Jets,2011
+['John Conner'],NA,week_5,New York Jets,2011
+['Antonio Cromartie'],Probable: ribs,week_5,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_5,New York Jets,2011
+['Mike DeVito'],Probable: shoulder,week_5,New York Jets,2011
+['Marcus Dixon'],NA,week_5,New York Jets,2011
+['Vlad Ducasse'],NA,week_5,New York Jets,2011
+['Kenrick Ellis'],NA,week_5,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_5,New York Jets,2011
+['Shonn Greene'],NA,week_5,New York Jets,2011
+['David Harris'],Probable: toe,week_5,New York Jets,2011
+['Santonio Holmes'],NA,week_5,New York Jets,2011
+['Wayne Hunter'],NA,week_5,New York Jets,2011
+['Jeremy Kerley'],NA,week_5,New York Jets,2011
+['Ellis Lankster'],NA,week_5,New York Jets,2011
+['Jim Leonhard'],NA,week_5,New York Jets,2011
+['Nick Mangold'],Questionable: ankle,week_5,New York Jets,2011
+['Derrick Mason'],NA,week_5,New York Jets,2011
+['Josh Mauga'],NA,week_5,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_5,New York Jets,2011
+['Garrett McIntyre'],Questionable: concussion,week_5,New York Jets,2011
+['Joe McKnight'],NA,week_5,New York Jets,2011
+['Brandon Moore'],NA,week_5,New York Jets,2011
+['Matthew Mulligan'],NA,week_5,New York Jets,2011
+['Shawn Nelson'],NA,week_5,New York Jets,2011
+['Calvin Pace'],Questionable: abdomen,week_5,New York Jets,2011
+['Logan Payne'],Out: wrist,week_5,New York Jets,2011
+['Ropati Pitoitua'],NA,week_5,New York Jets,2011
+['Brodney Pool'],NA,week_5,New York Jets,2011
+['Sione Pouha'],NA,week_5,New York Jets,2011
+['Bilal Powell'],NA,week_5,New York Jets,2011
+['Tanner Purdum'],NA,week_5,New York Jets,2011
+['Darrelle Revis'],NA,week_5,New York Jets,2011
+['Mark Sanchez'],NA,week_5,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_5,New York Jets,2011
+['Bart Scott'],NA,week_5,New York Jets,2011
+['Matt Slauson'],NA,week_5,New York Jets,2011
+['Eric Smith'],Probable: tricep,week_5,New York Jets,2011
+['Donald Strickland'],NA,week_5,New York Jets,2011
+['Martin Tevaseu'],NA,week_5,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_5,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_5,New York Jets,2011
+['Isaiah Trufant'],NA,week_5,New York Jets,2011
+['Patrick Turner'],NA,week_5,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_5,New York Jets,2011
+['Muhammad Wilkerson'],Probable: shoulder,week_5,New York Jets,2011
+['Mark Brunell'],NA,week_6,New York Jets,2011
+['Plaxico Burress'],NA,week_6,New York Jets,2011
+['Marquice Cole'],Probable: hamstring,week_6,New York Jets,2011
+['John Conner'],NA,week_6,New York Jets,2011
+['Antonio Cromartie'],NA,week_6,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_6,New York Jets,2011
+['Mike DeVito'],NA,week_6,New York Jets,2011
+['Marcus Dixon'],Probable: shoulder,week_6,New York Jets,2011
+['Vlad Ducasse'],NA,week_6,New York Jets,2011
+['Kenrick Ellis'],NA,week_6,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_6,New York Jets,2011
+['Shonn Greene'],NA,week_6,New York Jets,2011
+['David Harris'],NA,week_6,New York Jets,2011
+['Santonio Holmes'],NA,week_6,New York Jets,2011
+['Wayne Hunter'],NA,week_6,New York Jets,2011
+['Jeremy Kerley'],NA,week_6,New York Jets,2011
+['Ellis Lankster'],NA,week_6,New York Jets,2011
+['Jim Leonhard'],NA,week_6,New York Jets,2011
+['Nick Mangold'],Questionable: ankle,week_6,New York Jets,2011
+['Derrick Mason'],NA,week_6,New York Jets,2011
+['Josh Mauga'],NA,week_6,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_6,New York Jets,2011
+['Garrett McIntyre'],Probable: concussion,week_6,New York Jets,2011
+['Joe McKnight'],NA,week_6,New York Jets,2011
+['Brandon Moore'],NA,week_6,New York Jets,2011
+['Matthew Mulligan'],NA,week_6,New York Jets,2011
+['Shawn Nelson'],NA,week_6,New York Jets,2011
+['Calvin Pace'],NA,week_6,New York Jets,2011
+['Logan Payne'],Out: wrist,week_6,New York Jets,2011
+['Ropati Pitoitua'],Questionable: knee,week_6,New York Jets,2011
+['Brodney Pool'],NA,week_6,New York Jets,2011
+['Sione Pouha'],NA,week_6,New York Jets,2011
+['Bilal Powell'],NA,week_6,New York Jets,2011
+['Tanner Purdum'],Questionable: back,week_6,New York Jets,2011
+['Darrelle Revis'],NA,week_6,New York Jets,2011
+['Mark Sanchez'],NA,week_6,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_6,New York Jets,2011
+['Bart Scott'],Probable: toe,week_6,New York Jets,2011
+['Matt Slauson'],NA,week_6,New York Jets,2011
+['Eric Smith'],NA,week_6,New York Jets,2011
+['Donald Strickland'],Questionable: head,week_6,New York Jets,2011
+['Martin Tevaseu'],Probable: back,week_6,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_6,New York Jets,2011
+['LaDainian Tomlinson'],Questionable: calf,week_6,New York Jets,2011
+['Isaiah Trufant'],Questionable: hamstring,week_6,New York Jets,2011
+['Patrick Turner'],NA,week_6,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_6,New York Jets,2011
+['Muhammad Wilkerson'],Probable: shoulder,week_6,New York Jets,2011
+['Mark Brunell'],NA,week_7,New York Jets,2011
+['Plaxico Burress'],NA,week_7,New York Jets,2011
+['Marquice Cole'],Probable: hamstring,week_7,New York Jets,2011
+['John Conner'],NA,week_7,New York Jets,2011
+['Antonio Cromartie'],Probable: groin,week_7,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_7,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_7,New York Jets,2011
+['Marcus Dixon'],Probable: knee,week_7,New York Jets,2011
+['Vlad Ducasse'],NA,week_7,New York Jets,2011
+['Kenrick Ellis'],NA,week_7,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_7,New York Jets,2011
+['Shonn Greene'],NA,week_7,New York Jets,2011
+['David Harris'],NA,week_7,New York Jets,2011
+['Santonio Holmes'],NA,week_7,New York Jets,2011
+['Wayne Hunter'],NA,week_7,New York Jets,2011
+['Jeremy Kerley'],NA,week_7,New York Jets,2011
+['Ellis Lankster'],NA,week_7,New York Jets,2011
+['Jim Leonhard'],NA,week_7,New York Jets,2011
+['Nick Mangold'],Questionable: ankle,week_7,New York Jets,2011
+['Derrick Mason'],NA,week_7,New York Jets,2011
+['Josh Mauga'],NA,week_7,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_7,New York Jets,2011
+['Garrett McIntyre'],NA,week_7,New York Jets,2011
+['Joe McKnight'],Probable: knee,week_7,New York Jets,2011
+['Brandon Moore'],NA,week_7,New York Jets,2011
+['Matthew Mulligan'],NA,week_7,New York Jets,2011
+['Shawn Nelson'],NA,week_7,New York Jets,2011
+['Calvin Pace'],NA,week_7,New York Jets,2011
+['Logan Payne'],Out: wrist,week_7,New York Jets,2011
+['Ropati Pitoitua'],Questionable: knee,week_7,New York Jets,2011
+['Brodney Pool'],NA,week_7,New York Jets,2011
+['Sione Pouha'],NA,week_7,New York Jets,2011
+['Bilal Powell'],NA,week_7,New York Jets,2011
+['Tanner Purdum'],Probable: back,week_7,New York Jets,2011
+['Darrelle Revis'],NA,week_7,New York Jets,2011
+['Mark Sanchez'],NA,week_7,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_7,New York Jets,2011
+['Bart Scott'],NA,week_7,New York Jets,2011
+['Matt Slauson'],NA,week_7,New York Jets,2011
+['Eric Smith'],NA,week_7,New York Jets,2011
+['Donald Strickland'],Probable: head,week_7,New York Jets,2011
+['Martin Tevaseu'],NA,week_7,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_7,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_7,New York Jets,2011
+['Isaiah Trufant'],Questionable: hamstring,week_7,New York Jets,2011
+['Patrick Turner'],NA,week_7,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_7,New York Jets,2011
+['Muhammad Wilkerson'],Probable: shoulder,week_7,New York Jets,2011
+['Mark Brunell'],NA,week_9,New York Jets,2011
+['Plaxico Burress'],Questionable: back,week_9,New York Jets,2011
+['Marquice Cole'],NA,week_9,New York Jets,2011
+['John Conner'],NA,week_9,New York Jets,2011
+['Antonio Cromartie'],NA,week_9,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_9,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_9,New York Jets,2011
+['Marcus Dixon'],Probable: knee,week_9,New York Jets,2011
+['Vlad Ducasse'],NA,week_9,New York Jets,2011
+['Kenrick Ellis'],Questionable: ankle,week_9,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_9,New York Jets,2011
+['Shonn Greene'],NA,week_9,New York Jets,2011
+['David Harris'],Probable: ankle,week_9,New York Jets,2011
+['Santonio Holmes'],NA,week_9,New York Jets,2011
+['Wayne Hunter'],NA,week_9,New York Jets,2011
+['Jeremy Kerley'],NA,week_9,New York Jets,2011
+['Ellis Lankster'],NA,week_9,New York Jets,2011
+['Jim Leonhard'],NA,week_9,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_9,New York Jets,2011
+['Derrick Mason'],NA,week_9,New York Jets,2011
+['Josh Mauga'],NA,week_9,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_9,New York Jets,2011
+['Garrett McIntyre'],NA,week_9,New York Jets,2011
+['Joe McKnight'],NA,week_9,New York Jets,2011
+['Brandon Moore'],NA,week_9,New York Jets,2011
+['Matthew Mulligan'],NA,week_9,New York Jets,2011
+['Shawn Nelson'],NA,week_9,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_9,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_9,New York Jets,2011
+['Ropati Pitoitua'],Probable: knee,week_9,New York Jets,2011
+['Brodney Pool'],NA,week_9,New York Jets,2011
+['Sione Pouha'],NA,week_9,New York Jets,2011
+['Bilal Powell'],NA,week_9,New York Jets,2011
+['Tanner Purdum'],NA,week_9,New York Jets,2011
+['Darrelle Revis'],NA,week_9,New York Jets,2011
+['Mark Sanchez'],NA,week_9,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_9,New York Jets,2011
+['Bart Scott'],NA,week_9,New York Jets,2011
+['Matt Slauson'],NA,week_9,New York Jets,2011
+['Eric Smith'],NA,week_9,New York Jets,2011
+['Donald Strickland'],NA,week_9,New York Jets,2011
+['Martin Tevaseu'],NA,week_9,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_9,New York Jets,2011
+['LaDainian Tomlinson'],Probable: illness,week_9,New York Jets,2011
+['Isaiah Trufant'],Questionable: hamstring,week_9,New York Jets,2011
+['Patrick Turner'],NA,week_9,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_9,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_9,New York Jets,2011
+['Mark Brunell'],NA,week_10,New York Jets,2011
+['Plaxico Burress'],Questionable: back,week_10,New York Jets,2011
+['Marquice Cole'],NA,week_10,New York Jets,2011
+['John Conner'],NA,week_10,New York Jets,2011
+['Antonio Cromartie'],Probable: finger,week_10,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_10,New York Jets,2011
+['Mike DeVito'],Probable: knee,week_10,New York Jets,2011
+['Marcus Dixon'],Questionable: shoulder,week_10,New York Jets,2011
+['Vlad Ducasse'],NA,week_10,New York Jets,2011
+['Kenrick Ellis'],Probable: ankle,week_10,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_10,New York Jets,2011
+['Shonn Greene'],Probable: head/groin,week_10,New York Jets,2011
+['David Harris'],NA,week_10,New York Jets,2011
+['Santonio Holmes'],Probable: foot,week_10,New York Jets,2011
+['Wayne Hunter'],Probable: finger,week_10,New York Jets,2011
+['Jeremy Kerley'],NA,week_10,New York Jets,2011
+['Ellis Lankster'],NA,week_10,New York Jets,2011
+['Jim Leonhard'],NA,week_10,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_10,New York Jets,2011
+['Derrick Mason'],NA,week_10,New York Jets,2011
+['Josh Mauga'],Questionable: back,week_10,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_10,New York Jets,2011
+['Garrett McIntyre'],NA,week_10,New York Jets,2011
+['Joe McKnight'],Questionable: toe,week_10,New York Jets,2011
+['Brandon Moore'],NA,week_10,New York Jets,2011
+['Matthew Mulligan'],NA,week_10,New York Jets,2011
+['Shawn Nelson'],Questionable: illness,week_10,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_10,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_10,New York Jets,2011
+['Ropati Pitoitua'],NA,week_10,New York Jets,2011
+['Brodney Pool'],Questionable: knee,week_10,New York Jets,2011
+['Sione Pouha'],Probable: finger,week_10,New York Jets,2011
+['Bilal Powell'],NA,week_10,New York Jets,2011
+['Tanner Purdum'],NA,week_10,New York Jets,2011
+['Darrelle Revis'],NA,week_10,New York Jets,2011
+['Mark Sanchez'],NA,week_10,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_10,New York Jets,2011
+['Bart Scott'],NA,week_10,New York Jets,2011
+['Matt Slauson'],Probable: neck,week_10,New York Jets,2011
+['Eric Smith'],NA,week_10,New York Jets,2011
+['Donald Strickland'],NA,week_10,New York Jets,2011
+['Martin Tevaseu'],NA,week_10,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_10,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_10,New York Jets,2011
+['Isaiah Trufant'],Probable: hamstring,week_10,New York Jets,2011
+['Patrick Turner'],NA,week_10,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_10,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_10,New York Jets,2011
+['Mark Brunell'],NA,week_11,New York Jets,2011
+['Plaxico Burress'],Probable: back,week_11,New York Jets,2011
+['Marquice Cole'],NA,week_11,New York Jets,2011
+['John Conner'],NA,week_11,New York Jets,2011
+['Antonio Cromartie'],NA,week_11,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_11,New York Jets,2011
+['Mike DeVito'],Probable: knee,week_11,New York Jets,2011
+['Marcus Dixon'],Questionable: shoulder,week_11,New York Jets,2011
+['Vlad Ducasse'],NA,week_11,New York Jets,2011
+['Kenrick Ellis'],Probable: ankle,week_11,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_11,New York Jets,2011
+['Shonn Greene'],NA,week_11,New York Jets,2011
+['David Harris'],Questionable: ankle,week_11,New York Jets,2011
+['Santonio Holmes'],Probable: foot,week_11,New York Jets,2011
+['Wayne Hunter'],NA,week_11,New York Jets,2011
+['Jeremy Kerley'],Questionable: knee,week_11,New York Jets,2011
+['Ellis Lankster'],NA,week_11,New York Jets,2011
+['Jim Leonhard'],NA,week_11,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_11,New York Jets,2011
+['Derrick Mason'],NA,week_11,New York Jets,2011
+['Josh Mauga'],Probable: back,week_11,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_11,New York Jets,2011
+['Garrett McIntyre'],NA,week_11,New York Jets,2011
+['Joe McKnight'],Probable: toe,week_11,New York Jets,2011
+['Brandon Moore'],NA,week_11,New York Jets,2011
+['Matthew Mulligan'],NA,week_11,New York Jets,2011
+['Shawn Nelson'],Questionable: illness,week_11,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_11,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_11,New York Jets,2011
+['Ropati Pitoitua'],NA,week_11,New York Jets,2011
+['Brodney Pool'],Questionable: knee,week_11,New York Jets,2011
+['Sione Pouha'],NA,week_11,New York Jets,2011
+['Bilal Powell'],NA,week_11,New York Jets,2011
+['Tanner Purdum'],NA,week_11,New York Jets,2011
+['Darrelle Revis'],Questionable: knee,week_11,New York Jets,2011
+['Mark Sanchez'],NA,week_11,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_11,New York Jets,2011
+['Bart Scott'],NA,week_11,New York Jets,2011
+['Matt Slauson'],Probable: ankle,week_11,New York Jets,2011
+['Eric Smith'],NA,week_11,New York Jets,2011
+['Donald Strickland'],NA,week_11,New York Jets,2011
+['Martin Tevaseu'],NA,week_11,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_11,New York Jets,2011
+['LaDainian Tomlinson'],Questionable: knee,week_11,New York Jets,2011
+['Isaiah Trufant'],Probable: hamstring,week_11,New York Jets,2011
+['Patrick Turner'],Questionable: kidney,week_11,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_11,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_11,New York Jets,2011
+['Mark Brunell'],NA,week_12,New York Jets,2011
+['Plaxico Burress'],Probable: back,week_12,New York Jets,2011
+['Marquice Cole'],NA,week_12,New York Jets,2011
+['John Conner'],NA,week_12,New York Jets,2011
+['Antonio Cromartie'],NA,week_12,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_12,New York Jets,2011
+['Mike DeVito'],Probable: knee,week_12,New York Jets,2011
+['Marcus Dixon'],Probable: shoulder,week_12,New York Jets,2011
+['Vlad Ducasse'],NA,week_12,New York Jets,2011
+['Kenrick Ellis'],Probable: ankle,week_12,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_12,New York Jets,2011
+['Shonn Greene'],Probable: rib,week_12,New York Jets,2011
+['David Harris'],Probable: groin,week_12,New York Jets,2011
+['Santonio Holmes'],NA,week_12,New York Jets,2011
+['Wayne Hunter'],Probable: hamstring,week_12,New York Jets,2011
+['Jeremy Kerley'],Questionable: knee,week_12,New York Jets,2011
+['Ellis Lankster'],NA,week_12,New York Jets,2011
+['Jim Leonhard'],NA,week_12,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_12,New York Jets,2011
+['Derrick Mason'],NA,week_12,New York Jets,2011
+['Josh Mauga'],NA,week_12,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_12,New York Jets,2011
+['Garrett McIntyre'],NA,week_12,New York Jets,2011
+['Joe McKnight'],NA,week_12,New York Jets,2011
+['Brandon Moore'],NA,week_12,New York Jets,2011
+['Matthew Mulligan'],Questionable: hip,week_12,New York Jets,2011
+['Shawn Nelson'],Questionable: illness,week_12,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_12,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_12,New York Jets,2011
+['Ropati Pitoitua'],NA,week_12,New York Jets,2011
+['Brodney Pool'],Probable: knee,week_12,New York Jets,2011
+['Sione Pouha'],NA,week_12,New York Jets,2011
+['Bilal Powell'],Questionable: illness,week_12,New York Jets,2011
+['Tanner Purdum'],NA,week_12,New York Jets,2011
+['Darrelle Revis'],NA,week_12,New York Jets,2011
+['Mark Sanchez'],Probable: neck,week_12,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_12,New York Jets,2011
+['Bart Scott'],NA,week_12,New York Jets,2011
+['Matt Slauson'],Questionable: knee,week_12,New York Jets,2011
+['Eric Smith'],NA,week_12,New York Jets,2011
+['Donald Strickland'],NA,week_12,New York Jets,2011
+['Martin Tevaseu'],NA,week_12,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_12,New York Jets,2011
+['LaDainian Tomlinson'],Doubtful: knee,week_12,New York Jets,2011
+['Isaiah Trufant'],NA,week_12,New York Jets,2011
+['Patrick Turner'],NA,week_12,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_12,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_12,New York Jets,2011
+['Mark Brunell'],NA,week_13,New York Jets,2011
+['Plaxico Burress'],NA,week_13,New York Jets,2011
+['Marquice Cole'],NA,week_13,New York Jets,2011
+['John Conner'],NA,week_13,New York Jets,2011
+['Antonio Cromartie'],NA,week_13,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_13,New York Jets,2011
+['Mike DeVito'],Doubtful: knee,week_13,New York Jets,2011
+['Marcus Dixon'],Probable: shoulder,week_13,New York Jets,2011
+['Vlad Ducasse'],Questionable: knee,week_13,New York Jets,2011
+['Kenrick Ellis'],NA,week_13,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_13,New York Jets,2011
+['Shonn Greene'],Probable: rib,week_13,New York Jets,2011
+['David Harris'],NA,week_13,New York Jets,2011
+['Santonio Holmes'],NA,week_13,New York Jets,2011
+['Wayne Hunter'],NA,week_13,New York Jets,2011
+['Jeremy Kerley'],Probable: knee,week_13,New York Jets,2011
+['Ellis Lankster'],NA,week_13,New York Jets,2011
+['Jim Leonhard'],NA,week_13,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_13,New York Jets,2011
+['Derrick Mason'],NA,week_13,New York Jets,2011
+['Josh Mauga'],NA,week_13,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_13,New York Jets,2011
+['Garrett McIntyre'],NA,week_13,New York Jets,2011
+['Joe McKnight'],NA,week_13,New York Jets,2011
+['Brandon Moore'],NA,week_13,New York Jets,2011
+['Matthew Mulligan'],NA,week_13,New York Jets,2011
+['Shawn Nelson'],NA,week_13,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_13,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_13,New York Jets,2011
+['Ropati Pitoitua'],NA,week_13,New York Jets,2011
+['Brodney Pool'],Probable: knee,week_13,New York Jets,2011
+['Sione Pouha'],NA,week_13,New York Jets,2011
+['Bilal Powell'],NA,week_13,New York Jets,2011
+['Tanner Purdum'],NA,week_13,New York Jets,2011
+['Darrelle Revis'],NA,week_13,New York Jets,2011
+['Mark Sanchez'],NA,week_13,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_13,New York Jets,2011
+['Bart Scott'],NA,week_13,New York Jets,2011
+['Matt Slauson'],Probable: knee,week_13,New York Jets,2011
+['Eric Smith'],NA,week_13,New York Jets,2011
+['Donald Strickland'],NA,week_13,New York Jets,2011
+['Martin Tevaseu'],NA,week_13,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_13,New York Jets,2011
+['LaDainian Tomlinson'],Probable: knee,week_13,New York Jets,2011
+['Isaiah Trufant'],NA,week_13,New York Jets,2011
+['Patrick Turner'],NA,week_13,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_13,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_13,New York Jets,2011
+['Mark Brunell'],NA,week_14,New York Jets,2011
+['Plaxico Burress'],NA,week_14,New York Jets,2011
+['Marquice Cole'],NA,week_14,New York Jets,2011
+['John Conner'],NA,week_14,New York Jets,2011
+['Antonio Cromartie'],NA,week_14,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_14,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_14,New York Jets,2011
+['Marcus Dixon'],Questionable: hip,week_14,New York Jets,2011
+['Vlad Ducasse'],Probable: knee,week_14,New York Jets,2011
+['Kenrick Ellis'],NA,week_14,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_14,New York Jets,2011
+['Shonn Greene'],Probable: rib,week_14,New York Jets,2011
+['David Harris'],Questionable: ankle,week_14,New York Jets,2011
+['Santonio Holmes'],NA,week_14,New York Jets,2011
+['Wayne Hunter'],NA,week_14,New York Jets,2011
+['Jeremy Kerley'],Probable: knee,week_14,New York Jets,2011
+['Ellis Lankster'],Questionable: back,week_14,New York Jets,2011
+['Jim Leonhard'],NA,week_14,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_14,New York Jets,2011
+['Derrick Mason'],NA,week_14,New York Jets,2011
+['Josh Mauga'],NA,week_14,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_14,New York Jets,2011
+['Garrett McIntyre'],NA,week_14,New York Jets,2011
+['Joe McKnight'],Questionable: elbow,week_14,New York Jets,2011
+['Brandon Moore'],Questionable: hip,week_14,New York Jets,2011
+['Matthew Mulligan'],NA,week_14,New York Jets,2011
+['Shawn Nelson'],NA,week_14,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_14,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_14,New York Jets,2011
+['Ropati Pitoitua'],NA,week_14,New York Jets,2011
+['Brodney Pool'],NA,week_14,New York Jets,2011
+['Sione Pouha'],NA,week_14,New York Jets,2011
+['Bilal Powell'],NA,week_14,New York Jets,2011
+['Tanner Purdum'],Probable: back,week_14,New York Jets,2011
+['Darrelle Revis'],NA,week_14,New York Jets,2011
+['Mark Sanchez'],NA,week_14,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_14,New York Jets,2011
+['Bart Scott'],NA,week_14,New York Jets,2011
+['Matt Slauson'],Probable: knee,week_14,New York Jets,2011
+['Eric Smith'],Questionable: knee,week_14,New York Jets,2011
+['Donald Strickland'],NA,week_14,New York Jets,2011
+['Martin Tevaseu'],NA,week_14,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_14,New York Jets,2011
+['LaDainian Tomlinson'],Probable: knee,week_14,New York Jets,2011
+['Isaiah Trufant'],NA,week_14,New York Jets,2011
+['Patrick Turner'],NA,week_14,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_14,New York Jets,2011
+['Muhammad Wilkerson'],Probable: shoulder,week_14,New York Jets,2011
+['Mark Brunell'],NA,week_15,New York Jets,2011
+['Plaxico Burress'],NA,week_15,New York Jets,2011
+['Marquice Cole'],Questionable: knee,week_15,New York Jets,2011
+['John Conner'],NA,week_15,New York Jets,2011
+['Antonio Cromartie'],NA,week_15,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_15,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_15,New York Jets,2011
+['Marcus Dixon'],Questionable: hip,week_15,New York Jets,2011
+['Vlad Ducasse'],Questionable: knee,week_15,New York Jets,2011
+['Kenrick Ellis'],NA,week_15,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_15,New York Jets,2011
+['Shonn Greene'],Probable: rib,week_15,New York Jets,2011
+['David Harris'],NA,week_15,New York Jets,2011
+['Santonio Holmes'],NA,week_15,New York Jets,2011
+['Wayne Hunter'],NA,week_15,New York Jets,2011
+['Jeremy Kerley'],NA,week_15,New York Jets,2011
+['Ellis Lankster'],Questionable: back,week_15,New York Jets,2011
+['Jim Leonhard'],Injured Reserve: knee,week_15,New York Jets,2011
+['Nick Mangold'],Probable: ankle,week_15,New York Jets,2011
+['Derrick Mason'],NA,week_15,New York Jets,2011
+['Josh Mauga'],NA,week_15,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_15,New York Jets,2011
+['Garrett McIntyre'],NA,week_15,New York Jets,2011
+['Joe McKnight'],Probable: elbow,week_15,New York Jets,2011
+['Brandon Moore'],Questionable: hip,week_15,New York Jets,2011
+['Matthew Mulligan'],NA,week_15,New York Jets,2011
+['Shawn Nelson'],NA,week_15,New York Jets,2011
+['Calvin Pace'],Probable: groin,week_15,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_15,New York Jets,2011
+['Ropati Pitoitua'],NA,week_15,New York Jets,2011
+['Brodney Pool'],NA,week_15,New York Jets,2011
+['Sione Pouha'],NA,week_15,New York Jets,2011
+['Bilal Powell'],NA,week_15,New York Jets,2011
+['Tanner Purdum'],NA,week_15,New York Jets,2011
+['Darrelle Revis'],NA,week_15,New York Jets,2011
+['Mark Sanchez'],NA,week_15,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_15,New York Jets,2011
+['Bart Scott'],NA,week_15,New York Jets,2011
+['Matt Slauson'],Probable: knee,week_15,New York Jets,2011
+['Eric Smith'],Questionable: knee,week_15,New York Jets,2011
+['Donald Strickland'],NA,week_15,New York Jets,2011
+['Martin Tevaseu'],NA,week_15,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_15,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_15,New York Jets,2011
+['Isaiah Trufant'],NA,week_15,New York Jets,2011
+['Patrick Turner'],NA,week_15,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_15,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_15,New York Jets,2011
+['Mark Brunell'],NA,week_16,New York Jets,2011
+['Plaxico Burress'],Questionable: illness,week_16,New York Jets,2011
+['Marquice Cole'],Questionable: knee,week_16,New York Jets,2011
+['John Conner'],NA,week_16,New York Jets,2011
+['Antonio Cromartie'],NA,week_16,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_16,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_16,New York Jets,2011
+['Marcus Dixon'],NA,week_16,New York Jets,2011
+['Vlad Ducasse'],Probable: knee,week_16,New York Jets,2011
+['Kenrick Ellis'],NA,week_16,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",NA,week_16,New York Jets,2011
+['Shonn Greene'],Probable: finger,week_16,New York Jets,2011
+['David Harris'],NA,week_16,New York Jets,2011
+['Santonio Holmes'],Questionable: hip,week_16,New York Jets,2011
+['Wayne Hunter'],NA,week_16,New York Jets,2011
+['Jeremy Kerley'],Questionable: illness,week_16,New York Jets,2011
+['Ellis Lankster'],NA,week_16,New York Jets,2011
+['Jim Leonhard'],Injured Reserve: knee,week_16,New York Jets,2011
+['Nick Mangold'],NA,week_16,New York Jets,2011
+['Derrick Mason'],NA,week_16,New York Jets,2011
+['Josh Mauga'],NA,week_16,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_16,New York Jets,2011
+['Garrett McIntyre'],NA,week_16,New York Jets,2011
+['Joe McKnight'],Questionable: arm,week_16,New York Jets,2011
+['Brandon Moore'],Questionable: hip,week_16,New York Jets,2011
+['Matthew Mulligan'],NA,week_16,New York Jets,2011
+['Shawn Nelson'],NA,week_16,New York Jets,2011
+['Calvin Pace'],NA,week_16,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_16,New York Jets,2011
+['Ropati Pitoitua'],Probable: hand,week_16,New York Jets,2011
+['Brodney Pool'],NA,week_16,New York Jets,2011
+['Sione Pouha'],NA,week_16,New York Jets,2011
+['Bilal Powell'],NA,week_16,New York Jets,2011
+['Tanner Purdum'],NA,week_16,New York Jets,2011
+['Darrelle Revis'],NA,week_16,New York Jets,2011
+['Mark Sanchez'],Probable: shoulder,week_16,New York Jets,2011
+['Caleb Schlauderaff'],Probable: knee,week_16,New York Jets,2011
+['Bart Scott'],NA,week_16,New York Jets,2011
+['Matt Slauson'],NA,week_16,New York Jets,2011
+['Eric Smith'],Questionable: knee,week_16,New York Jets,2011
+['Donald Strickland'],NA,week_16,New York Jets,2011
+['Martin Tevaseu'],NA,week_16,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_16,New York Jets,2011
+['LaDainian Tomlinson'],NA,week_16,New York Jets,2011
+['Isaiah Trufant'],NA,week_16,New York Jets,2011
+['Patrick Turner'],NA,week_16,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_16,New York Jets,2011
+['Muhammad Wilkerson'],NA,week_16,New York Jets,2011
+['Mark Brunell'],NA,week_17,New York Jets,2011
+['Plaxico Burress'],NA,week_17,New York Jets,2011
+['Marquice Cole'],Questionable: knee,week_17,New York Jets,2011
+['John Conner'],NA,week_17,New York Jets,2011
+['Antonio Cromartie'],NA,week_17,New York Jets,2011
+['Jeff Cumberland'],Injured Reserve: Achilles,week_17,New York Jets,2011
+['Mike DeVito'],Questionable: knee,week_17,New York Jets,2011
+['Marcus Dixon'],NA,week_17,New York Jets,2011
+['Vlad Ducasse'],NA,week_17,New York Jets,2011
+['Kenrick Ellis'],NA,week_17,New York Jets,2011
+"[""D'Brickashaw Ferguson""]",Probable: foot,week_17,New York Jets,2011
+['Shonn Greene'],Probable: ribs/shoulder,week_17,New York Jets,2011
+['David Harris'],NA,week_17,New York Jets,2011
+['Santonio Holmes'],NA,week_17,New York Jets,2011
+['Wayne Hunter'],NA,week_17,New York Jets,2011
+['Jeremy Kerley'],NA,week_17,New York Jets,2011
+['Ellis Lankster'],NA,week_17,New York Jets,2011
+['Jim Leonhard'],Injured Reserve: knee,week_17,New York Jets,2011
+['Nick Mangold'],NA,week_17,New York Jets,2011
+['Derrick Mason'],NA,week_17,New York Jets,2011
+['Josh Mauga'],NA,week_17,New York Jets,2011
+['Greg McElroy'],Injured Reserve: right thumb,week_17,New York Jets,2011
+['Garrett McIntyre'],Doubtful: knee,week_17,New York Jets,2011
+['Joe McKnight'],Probable: elbow/shoulder,week_17,New York Jets,2011
+['Brandon Moore'],Questionable: hip,week_17,New York Jets,2011
+['Matthew Mulligan'],NA,week_17,New York Jets,2011
+['Shawn Nelson'],NA,week_17,New York Jets,2011
+['Calvin Pace'],NA,week_17,New York Jets,2011
+['Logan Payne'],Injured Reserve: wrist,week_17,New York Jets,2011
+['Ropati Pitoitua'],Probable: hand,week_17,New York Jets,2011
+['Brodney Pool'],NA,week_17,New York Jets,2011
+['Sione Pouha'],NA,week_17,New York Jets,2011
+['Bilal Powell'],NA,week_17,New York Jets,2011
+['Tanner Purdum'],NA,week_17,New York Jets,2011
+['Darrelle Revis'],NA,week_17,New York Jets,2011
+['Mark Sanchez'],NA,week_17,New York Jets,2011
+['Caleb Schlauderaff'],NA,week_17,New York Jets,2011
+['Bart Scott'],NA,week_17,New York Jets,2011
+['Matt Slauson'],NA,week_17,New York Jets,2011
+['Eric Smith'],Questionable: knee,week_17,New York Jets,2011
+['Donald Strickland'],NA,week_17,New York Jets,2011
+['Martin Tevaseu'],NA,week_17,New York Jets,2011
+['Bryan Thomas'],Injured Reserve: Achilles,week_17,New York Jets,2011
+['LaDainian Tomlinson'],Probable: quadricep,week_17,New York Jets,2011
+['Isaiah Trufant'],NA,week_17,New York Jets,2011
+['Patrick Turner'],NA,week_17,New York Jets,2011
+['Robert Turner'],Injured Reserve: leg,week_17,New York Jets,2011
+['Muhammad Wilkerson'],Questionable: knee,week_17,New York Jets,2011

@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Husain Abdullah'],NA,week_1,Minnesota Vikings,2011
+['Asher Allen'],Probable: toe,week_1,Minnesota Vikings,2011
+['Jared Allen'],NA,week_1,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_1,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_1,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_1,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_1,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_1,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_1,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_1,Minnesota Vikings,2011
+['Chris Cook'],Probable: hamstring,week_1,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_1,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_1,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_1,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_1,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_1,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_1,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_1,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_1,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_1,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_1,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_1,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_1,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_1,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_1,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_1,Minnesota Vikings,2011
+['Donovan McNabb'],Probable: right wrist,week_1,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_1,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_1,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_1,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_1,Minnesota Vikings,2011
+['Brian Robison'],NA,week_1,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_1,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_1,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_1,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_1,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Probable: hamstring,week_1,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_1,Minnesota Vikings,2011
+['John Sullivan'],NA,week_1,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_1,Minnesota Vikings,2011
+['Antoine Winfield'],NA,week_1,Minnesota Vikings,2011
+['Husain Abdullah'],NA,week_2,Minnesota Vikings,2011
+['Asher Allen'],Probable: toe,week_2,Minnesota Vikings,2011
+['Jared Allen'],NA,week_2,Minnesota Vikings,2011
+['Adrian Awasom'],Questionable: knee,week_2,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_2,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_2,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_2,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_2,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_2,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_2,Minnesota Vikings,2011
+['Chris Cook'],NA,week_2,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_2,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_2,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_2,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_2,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_2,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_2,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_2,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_2,Minnesota Vikings,2011
+['Michael Jenkins'],Probable: groin,week_2,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_2,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_2,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_2,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_2,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_2,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_2,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_2,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_2,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_2,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_2,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_2,Minnesota Vikings,2011
+['Brian Robison'],NA,week_2,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_2,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_2,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_2,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_2,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_2,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_2,Minnesota Vikings,2011
+['John Sullivan'],NA,week_2,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_2,Minnesota Vikings,2011
+['Antoine Winfield'],NA,week_2,Minnesota Vikings,2011
+['Husain Abdullah'],NA,week_3,Minnesota Vikings,2011
+['Asher Allen'],Probable: toe,week_3,Minnesota Vikings,2011
+['Jared Allen'],Probable: shoulder,week_3,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_3,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_3,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_3,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_3,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_3,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_3,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_3,Minnesota Vikings,2011
+['Chris Cook'],Questionable: groin,week_3,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_3,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_3,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_3,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: illness,week_3,Minnesota Vikings,2011
+['E.J. Henderson'],Probable: knee,week_3,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_3,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_3,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_3,Minnesota Vikings,2011
+['Michael Jenkins'],Probable: groin,week_3,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_3,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_3,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_3,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_3,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_3,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_3,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_3,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_3,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_3,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_3,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_3,Minnesota Vikings,2011
+['Brian Robison'],NA,week_3,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_3,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_3,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_3,Minnesota Vikings,2011
+['Marcus Sherels'],Questionable: chest,week_3,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_3,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_3,Minnesota Vikings,2011
+['John Sullivan'],NA,week_3,Minnesota Vikings,2011
+['Kevin Williams'],Probable: two-game suspension served/foot,week_3,Minnesota Vikings,2011
+['Antoine Winfield'],NA,week_3,Minnesota Vikings,2011
+['Husain Abdullah'],NA,week_4,Minnesota Vikings,2011
+['Asher Allen'],Probable: toe,week_4,Minnesota Vikings,2011
+['Jared Allen'],NA,week_4,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_4,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_4,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_4,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_4,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_4,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_4,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_4,Minnesota Vikings,2011
+['Chris Cook'],Probable: groin,week_4,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_4,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_4,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_4,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_4,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_4,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_4,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_4,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_4,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_4,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_4,Minnesota Vikings,2011
+['Tyrell Johnson'],Questionable: hip,week_4,Minnesota Vikings,2011
+['Jim Kleinsasser'],Questionable: elbow,week_4,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_4,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_4,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_4,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_4,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_4,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_4,Minnesota Vikings,2011
+['Adrian Peterson'],Questionable: calf,week_4,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_4,Minnesota Vikings,2011
+['Brian Robison'],NA,week_4,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_4,Minnesota Vikings,2011
+['Jamarca Sanford'],Questionable: thigh,week_4,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_4,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_4,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_4,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_4,Minnesota Vikings,2011
+['John Sullivan'],NA,week_4,Minnesota Vikings,2011
+['Kevin Williams'],Probable: foot,week_4,Minnesota Vikings,2011
+['Antoine Winfield'],NA,week_4,Minnesota Vikings,2011
+['Husain Abdullah'],Questionable: pelvis,week_5,Minnesota Vikings,2011
+['Asher Allen'],NA,week_5,Minnesota Vikings,2011
+['Jared Allen'],NA,week_5,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_5,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_5,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_5,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_5,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_5,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_5,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_5,Minnesota Vikings,2011
+['Chris Cook'],NA,week_5,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_5,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_5,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_5,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_5,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_5,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_5,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_5,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_5,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_5,Minnesota Vikings,2011
+['Charlie Johnson'],Questionable: elbow,week_5,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_5,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_5,Minnesota Vikings,2011
+['Chris Kluwe'],Questionable: right hamstring,week_5,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_5,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_5,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_5,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_5,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_5,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_5,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_5,Minnesota Vikings,2011
+['Brian Robison'],NA,week_5,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_5,Minnesota Vikings,2011
+['Jamarca Sanford'],Questionable: knee,week_5,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_5,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_5,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_5,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_5,Minnesota Vikings,2011
+['John Sullivan'],Questionable: ankle,week_5,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_5,Minnesota Vikings,2011
+['Antoine Winfield'],Doubtful: neck,week_5,Minnesota Vikings,2011
+['Husain Abdullah'],Probable: pelvis,week_6,Minnesota Vikings,2011
+['Asher Allen'],NA,week_6,Minnesota Vikings,2011
+['Jared Allen'],Probable: eye,week_6,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_6,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_6,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_6,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_6,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_6,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_6,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_6,Minnesota Vikings,2011
+['Chris Cook'],NA,week_6,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_6,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_6,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_6,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: ribs,week_6,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_6,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_6,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_6,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_6,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_6,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_6,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_6,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_6,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_6,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_6,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_6,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_6,Minnesota Vikings,2011
+['Kenny Onatolu'],Questionable: hamstring,week_6,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_6,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_6,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_6,Minnesota Vikings,2011
+['Brian Robison'],NA,week_6,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_6,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_6,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_6,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_6,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_6,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_6,Minnesota Vikings,2011
+['John Sullivan'],NA,week_6,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_6,Minnesota Vikings,2011
+['Antoine Winfield'],Questionable: neck,week_6,Minnesota Vikings,2011
+['Husain Abdullah'],NA,week_7,Minnesota Vikings,2011
+['Asher Allen'],NA,week_7,Minnesota Vikings,2011
+['Jared Allen'],NA,week_7,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_7,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_7,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_7,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_7,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_7,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_7,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_7,Minnesota Vikings,2011
+['Chris Cook'],Out: disciplinary/legal,week_7,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_7,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_7,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_7,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: ribs,week_7,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_7,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_7,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_7,Minnesota Vikings,2011
+['Steve Hutchinson'],Probable: knee,week_7,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_7,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_7,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_7,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_7,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_7,Minnesota Vikings,2011
+['Phil Loadholt'],Probable: knee,week_7,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_7,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_7,Minnesota Vikings,2011
+['Kenny Onatolu'],Questionable: hamstring,week_7,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_7,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_7,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_7,Minnesota Vikings,2011
+['Brian Robison'],NA,week_7,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_7,Minnesota Vikings,2011
+['Jamarca Sanford'],Questionable: concussion,week_7,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_7,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_7,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_7,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_7,Minnesota Vikings,2011
+['John Sullivan'],Questionable: concussion,week_7,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_7,Minnesota Vikings,2011
+['Antoine Winfield'],Questionable: neck,week_7,Minnesota Vikings,2011
+['Husain Abdullah'],Probable: concussion,week_8,Minnesota Vikings,2011
+['Asher Allen'],NA,week_8,Minnesota Vikings,2011
+['Jared Allen'],NA,week_8,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_8,Minnesota Vikings,2011
+['Remi Ayodele'],Probable: ankle,week_8,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_8,Minnesota Vikings,2011
+['Lorenzo Booker'],Questionable: concussion,week_8,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_8,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_8,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_8,Minnesota Vikings,2011
+['Chris Cook'],NA,week_8,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_8,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_8,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_8,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: rib,week_8,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: knee,week_8,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_8,Minnesota Vikings,2011
+['Anthony Herrera'],Out: knee,week_8,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_8,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_8,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_8,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_8,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_8,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_8,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_8,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_8,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_8,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_8,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_8,Minnesota Vikings,2011
+['Adrian Peterson'],Questionable: foot,week_8,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_8,Minnesota Vikings,2011
+['Brian Robison'],Questionable: ahoulder,week_8,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_8,Minnesota Vikings,2011
+['Jamarca Sanford'],Probable: concussion,week_8,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_8,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_8,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Questionable: foot,week_8,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_8,Minnesota Vikings,2011
+['John Sullivan'],Probable: concussion,week_8,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_8,Minnesota Vikings,2011
+['Antoine Winfield'],Questionable: neck,week_8,Minnesota Vikings,2011
+['Husain Abdullah'],NA,week_10,Minnesota Vikings,2011
+['Asher Allen'],NA,week_10,Minnesota Vikings,2011
+['Jared Allen'],NA,week_10,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_10,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_10,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_10,Minnesota Vikings,2011
+['Lorenzo Booker'],Questionable: concussion,week_10,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_10,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_10,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_10,Minnesota Vikings,2011
+['Chris Cook'],Out: undisclosed,week_10,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_10,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_10,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_10,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_10,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_10,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_10,Minnesota Vikings,2011
+['Anthony Herrera'],Out: knee,week_10,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_10,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_10,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_10,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_10,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_10,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_10,Minnesota Vikings,2011
+['Phil Loadholt'],Probable: illness,week_10,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_10,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_10,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_10,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_10,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_10,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_10,Minnesota Vikings,2011
+['Brian Robison'],NA,week_10,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_10,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_10,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_10,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_10,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_10,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_10,Minnesota Vikings,2011
+['John Sullivan'],NA,week_10,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_10,Minnesota Vikings,2011
+['Antoine Winfield'],Probable: neck,week_10,Minnesota Vikings,2011
+['Husain Abdullah'],Doubtful: concussion,week_11,Minnesota Vikings,2011
+['Asher Allen'],NA,week_11,Minnesota Vikings,2011
+['Jared Allen'],NA,week_11,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_11,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_11,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_11,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_11,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_11,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_11,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_11,Minnesota Vikings,2011
+['Chris Cook'],NA,week_11,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_11,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_11,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_11,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_11,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_11,Minnesota Vikings,2011
+['Erin Henderson'],Questionable: hamstring,week_11,Minnesota Vikings,2011
+['Anthony Herrera'],Doubtful: knee,week_11,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_11,Minnesota Vikings,2011
+['Michael Jenkins'],Questionable: knee,week_11,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_11,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_11,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_11,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_11,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_11,Minnesota Vikings,2011
+['Cullen Loeffler'],Doubtful: shoulder,week_11,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_11,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_11,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_11,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_11,Minnesota Vikings,2011
+['Christian Ponder'],Probable: left hand,week_11,Minnesota Vikings,2011
+['Brian Robison'],NA,week_11,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_11,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_11,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_11,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_11,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Probable: hamstring,week_11,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_11,Minnesota Vikings,2011
+['John Sullivan'],NA,week_11,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_11,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_11,Minnesota Vikings,2011
+['Husain Abdullah'],Questionable: concussion,week_12,Minnesota Vikings,2011
+['Asher Allen'],NA,week_12,Minnesota Vikings,2011
+['Jared Allen'],NA,week_12,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_12,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_12,Minnesota Vikings,2011
+['Christian Ballard'],Probable: hamstring,week_12,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_12,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_12,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_12,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_12,Minnesota Vikings,2011
+['Chris Cook'],NA,week_12,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_12,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_12,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_12,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: ribs,week_12,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_12,Minnesota Vikings,2011
+['Erin Henderson'],Questionable: hamstring,week_12,Minnesota Vikings,2011
+['Anthony Herrera'],Questionable: knee,week_12,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_12,Minnesota Vikings,2011
+['Michael Jenkins'],NA,week_12,Minnesota Vikings,2011
+['Charlie Johnson'],Probable: Achilles,week_12,Minnesota Vikings,2011
+['Tyrell Johnson'],NA,week_12,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_12,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_12,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_12,Minnesota Vikings,2011
+['Cullen Loeffler'],NA,week_12,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_12,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_12,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_12,Minnesota Vikings,2011
+['Adrian Peterson'],Out: ankle,week_12,Minnesota Vikings,2011
+['Christian Ponder'],Questionable: knee,week_12,Minnesota Vikings,2011
+['Brian Robison'],NA,week_12,Minnesota Vikings,2011
+['Kyle Rudolph'],Questionable: quadricep,week_12,Minnesota Vikings,2011
+['Jamarca Sanford'],Probable: shoulder,week_12,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_12,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_12,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Probable: hamstring,week_12,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_12,Minnesota Vikings,2011
+['John Sullivan'],NA,week_12,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_12,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_12,Minnesota Vikings,2011
+['Husain Abdullah'],Injured Reserve: concussion,week_13,Minnesota Vikings,2011
+['Asher Allen'],Questionable: shoulder,week_13,Minnesota Vikings,2011
+['Jared Allen'],NA,week_13,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_13,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_13,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_13,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_13,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_13,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_13,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_13,Minnesota Vikings,2011
+['Chris Cook'],NA,week_13,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_13,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_13,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_13,Minnesota Vikings,2011
+['Percy Harvin'],Probable: illness,week_13,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: shoulder,week_13,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_13,Minnesota Vikings,2011
+['Anthony Herrera'],Questionable: knee,week_13,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_13,Minnesota Vikings,2011
+['Michael Jenkins'],Injured Reserve: knee,week_13,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_13,Minnesota Vikings,2011
+['Tyrell Johnson'],Injured Reserve: hamstring,week_13,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_13,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_13,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_13,Minnesota Vikings,2011
+['Cullen Loeffler'],Injured Reserve: back,week_13,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_13,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_13,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_13,Minnesota Vikings,2011
+['Adrian Peterson'],Doubtful: ankle,week_13,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_13,Minnesota Vikings,2011
+['Brian Robison'],NA,week_13,Minnesota Vikings,2011
+['Kyle Rudolph'],Questionable: quadricep,week_13,Minnesota Vikings,2011
+['Jamarca Sanford'],Probable: shoulder,week_13,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_13,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_13,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Probable: hamstring,week_13,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_13,Minnesota Vikings,2011
+['John Sullivan'],NA,week_13,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_13,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_13,Minnesota Vikings,2011
+['Husain Abdullah'],Injured Reserve: concussion,week_14,Minnesota Vikings,2011
+['Asher Allen'],Questionable: shoulder,week_14,Minnesota Vikings,2011
+['Jared Allen'],NA,week_14,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_14,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_14,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_14,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_14,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_14,Minnesota Vikings,2011
+['Stephen Burton'],NA,week_14,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_14,Minnesota Vikings,2011
+['Chris Cook'],NA,week_14,Minnesota Vikings,2011
+['Chad Greenway'],Questionable: elbow,week_14,Minnesota Vikings,2011
+['Everson Griffen'],Questionable: quadriceps,week_14,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_14,Minnesota Vikings,2011
+['Percy Harvin'],Questionable: finger,week_14,Minnesota Vikings,2011
+['E.J. Henderson'],Probable: shoulder,week_14,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_14,Minnesota Vikings,2011
+['Anthony Herrera'],Probable: knee,week_14,Minnesota Vikings,2011
+['Steve Hutchinson'],Questionable: illness,week_14,Minnesota Vikings,2011
+['Michael Jenkins'],Injured Reserve: knee,week_14,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_14,Minnesota Vikings,2011
+['Tyrell Johnson'],Injured Reserve: hamstring,week_14,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_14,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_14,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_14,Minnesota Vikings,2011
+['Cullen Loeffler'],Injured Reserve: back,week_14,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_14,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_14,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_14,Minnesota Vikings,2011
+['Adrian Peterson'],Questionable: ankle,week_14,Minnesota Vikings,2011
+['Christian Ponder'],Questionable: hip,week_14,Minnesota Vikings,2011
+['Brian Robison'],Questionable: concussion,week_14,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_14,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_14,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_14,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_14,Minnesota Vikings,2011
+['Visanthe Shiancoe'],Questionable: hand,week_14,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_14,Minnesota Vikings,2011
+['John Sullivan'],NA,week_14,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_14,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_14,Minnesota Vikings,2011
+['Husain Abdullah'],Injured Reserve: concussion,week_15,Minnesota Vikings,2011
+['Asher Allen'],Probable: shoulder,week_15,Minnesota Vikings,2011
+['Jared Allen'],NA,week_15,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_15,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_15,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_15,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_15,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_15,Minnesota Vikings,2011
+['Stephen Burton'],Injured Reserve: knee,week_15,Minnesota Vikings,2011
+['Greg Camarillo'],Questionable: concussion,week_15,Minnesota Vikings,2011
+['Chris Cook'],NA,week_15,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_15,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_15,Minnesota Vikings,2011
+['Letroy Guion'],Questionable: ankle,week_15,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_15,Minnesota Vikings,2011
+['E.J. Henderson'],Questionable: shoulder,week_15,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_15,Minnesota Vikings,2011
+['Anthony Herrera'],NA,week_15,Minnesota Vikings,2011
+['Steve Hutchinson'],NA,week_15,Minnesota Vikings,2011
+['Michael Jenkins'],Injured Reserve: knee,week_15,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_15,Minnesota Vikings,2011
+['Tyrell Johnson'],Injured Reserve: hamstring,week_15,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_15,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_15,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_15,Minnesota Vikings,2011
+['Cullen Loeffler'],Injured Reserve: back,week_15,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_15,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_15,Minnesota Vikings,2011
+['Jarrad Page'],Questionable: hip,week_15,Minnesota Vikings,2011
+['Adrian Peterson'],Questionable: ankle,week_15,Minnesota Vikings,2011
+['Christian Ponder'],Probable: hip,week_15,Minnesota Vikings,2011
+['Brian Robison'],NA,week_15,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_15,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_15,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_15,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_15,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_15,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_15,Minnesota Vikings,2011
+['John Sullivan'],NA,week_15,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_15,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_15,Minnesota Vikings,2011
+['Husain Abdullah'],Injured Reserve: concussion,week_16,Minnesota Vikings,2011
+['Asher Allen'],Questionable: head,week_16,Minnesota Vikings,2011
+['Jared Allen'],NA,week_16,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_16,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_16,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_16,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_16,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_16,Minnesota Vikings,2011
+['Stephen Burton'],Injured Reserve: knee,week_16,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_16,Minnesota Vikings,2011
+['Chris Cook'],NA,week_16,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_16,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_16,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_16,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_16,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_16,Minnesota Vikings,2011
+['Erin Henderson'],Questionable: illness,week_16,Minnesota Vikings,2011
+['Anthony Herrera'],Questionable: knee,week_16,Minnesota Vikings,2011
+['Steve Hutchinson'],Questionable: concussion,week_16,Minnesota Vikings,2011
+['Michael Jenkins'],Injured Reserve: knee,week_16,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_16,Minnesota Vikings,2011
+['Tyrell Johnson'],Injured Reserve: hamstring,week_16,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_16,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_16,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_16,Minnesota Vikings,2011
+['Cullen Loeffler'],Injured Reserve: back,week_16,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_16,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_16,Minnesota Vikings,2011
+['Jarrad Page'],Questionable: hamstring,week_16,Minnesota Vikings,2011
+['Adrian Peterson'],NA,week_16,Minnesota Vikings,2011
+['Christian Ponder'],NA,week_16,Minnesota Vikings,2011
+['Brian Robison'],NA,week_16,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_16,Minnesota Vikings,2011
+['Jamarca Sanford'],NA,week_16,Minnesota Vikings,2011
+['Benny Sapp'],NA,week_16,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_16,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_16,Minnesota Vikings,2011
+['Mickey Shuler'],NA,week_16,Minnesota Vikings,2011
+['John Sullivan'],NA,week_16,Minnesota Vikings,2011
+['Kevin Williams'],Questionable: knee,week_16,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_16,Minnesota Vikings,2011
+['Husain Abdullah'],Injured Reserve: concussion,week_17,Minnesota Vikings,2011
+['Asher Allen'],Probable: head,week_17,Minnesota Vikings,2011
+['Jared Allen'],NA,week_17,Minnesota Vikings,2011
+['Adrian Awasom'],NA,week_17,Minnesota Vikings,2011
+['Remi Ayodele'],NA,week_17,Minnesota Vikings,2011
+['Christian Ballard'],NA,week_17,Minnesota Vikings,2011
+['Lorenzo Booker'],NA,week_17,Minnesota Vikings,2011
+['Jasper Brinkley'],Injured Reserve: hip,week_17,Minnesota Vikings,2011
+['Stephen Burton'],Injured Reserve: knee,week_17,Minnesota Vikings,2011
+['Greg Camarillo'],NA,week_17,Minnesota Vikings,2011
+['Chris Cook'],NA,week_17,Minnesota Vikings,2011
+['Chad Greenway'],NA,week_17,Minnesota Vikings,2011
+['Everson Griffen'],NA,week_17,Minnesota Vikings,2011
+['Letroy Guion'],NA,week_17,Minnesota Vikings,2011
+['Percy Harvin'],NA,week_17,Minnesota Vikings,2011
+['E.J. Henderson'],NA,week_17,Minnesota Vikings,2011
+['Erin Henderson'],NA,week_17,Minnesota Vikings,2011
+['Anthony Herrera'],Questionable: back,week_17,Minnesota Vikings,2011
+['Steve Hutchinson'],Injured Reserve: concussion,week_17,Minnesota Vikings,2011
+['Michael Jenkins'],Injured Reserve: knee,week_17,Minnesota Vikings,2011
+['Charlie Johnson'],NA,week_17,Minnesota Vikings,2011
+['Tyrell Johnson'],Injured Reserve: hamstring,week_17,Minnesota Vikings,2011
+['Jim Kleinsasser'],NA,week_17,Minnesota Vikings,2011
+['Chris Kluwe'],NA,week_17,Minnesota Vikings,2011
+['Phil Loadholt'],NA,week_17,Minnesota Vikings,2011
+['Cullen Loeffler'],Injured Reserve: back,week_17,Minnesota Vikings,2011
+['Donovan McNabb'],NA,week_17,Minnesota Vikings,2011
+['Kenny Onatolu'],NA,week_17,Minnesota Vikings,2011
+['Jarrad Page'],NA,week_17,Minnesota Vikings,2011
+['Adrian Peterson'],Injured Reserve: knee,week_17,Minnesota Vikings,2011
+['Christian Ponder'],Probable: concussion,week_17,Minnesota Vikings,2011
+['Brian Robison'],NA,week_17,Minnesota Vikings,2011
+['Kyle Rudolph'],NA,week_17,Minnesota Vikings,2011
+['Jamarca Sanford'],Questionable: shoulder,week_17,Minnesota Vikings,2011
+['Benny Sapp'],Probable: shoulder,week_17,Minnesota Vikings,2011
+['Marcus Sherels'],NA,week_17,Minnesota Vikings,2011
+['Visanthe Shiancoe'],NA,week_17,Minnesota Vikings,2011
+['Mickey Shuler'],Out: ankle,week_17,Minnesota Vikings,2011
+['John Sullivan'],NA,week_17,Minnesota Vikings,2011
+['Kevin Williams'],NA,week_17,Minnesota Vikings,2011
+['Antoine Winfield'],Injured Reserve: clavicle,week_17,Minnesota Vikings,2011

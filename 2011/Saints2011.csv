@@ -1,0 +1,811 @@
+﻿name,injury,week,team,year
+['Jonathon Amaya'],NA,week_1,New Orleans Saints,2011
+['Adrian Arrington'],Questionable: knee,week_1,New Orleans Saints,2011
+['Joique Bell'],Questionable: knee,week_1,New Orleans Saints,2011
+['Charles Brown'],NA,week_1,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_1,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_1,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_1,New Orleans Saints,2011
+['Marques Colston'],NA,week_1,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_1,New Orleans Saints,2011
+['Jahri Evans'],NA,week_1,New Orleans Saints,2011
+['Aubrayo Franklin'],Probable: knee,week_1,New Orleans Saints,2011
+['Junior Galette'],NA,week_1,New Orleans Saints,2011
+['John Gilmore'],NA,week_1,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_1,New Orleans Saints,2011
+['Jabari Greer'],NA,week_1,New Orleans Saints,2011
+['Roman Harper'],NA,week_1,New Orleans Saints,2011
+['Garrett Hartley'],Out: hip,week_1,New Orleans Saints,2011
+['Devery Henderson'],NA,week_1,New Orleans Saints,2011
+['Will Herring'],NA,week_1,New Orleans Saints,2011
+['Ramon Humber'],NA,week_1,New Orleans Saints,2011
+['Mark Ingram'],NA,week_1,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_1,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_1,New Orleans Saints,2011
+['Tom Johnson'],Questionable: calf,week_1,New Orleans Saints,2011
+['Cameron Jordan'],Probable: knee,week_1,New Orleans Saints,2011
+['Olin Kreutz'],NA,week_1,New Orleans Saints,2011
+['Turk McBride'],NA,week_1,New Orleans Saints,2011
+['Robert Meachem'],NA,week_1,New Orleans Saints,2011
+['Lance Moore'],Questionable: groin,week_1,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_1,New Orleans Saints,2011
+['Carl Nicks'],NA,week_1,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_1,New Orleans Saints,2011
+['Johnny Patrick'],Questionable: knee,week_1,New Orleans Saints,2011
+['Tracy Porter'],NA,week_1,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_1,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_1,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_1,New Orleans Saints,2011
+['Scott Shanle'],NA,week_1,New Orleans Saints,2011
+['Will Smith'],NA,week_1,New Orleans Saints,2011
+['Zach Strief'],NA,week_1,New Orleans Saints,2011
+['David Thomas'],NA,week_1,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_1,New Orleans Saints,2011
+['Jonathan Vilma'],NA,week_1,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_1,New Orleans Saints,2011
+['Martez Wilson'],NA,week_1,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_2,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_2,New Orleans Saints,2011
+['Joique Bell'],NA,week_2,New Orleans Saints,2011
+['Charles Brown'],NA,week_2,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_2,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_2,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_2,New Orleans Saints,2011
+['Marques Colston'],Out: collarbone,week_2,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_2,New Orleans Saints,2011
+['Jahri Evans'],NA,week_2,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_2,New Orleans Saints,2011
+['Junior Galette'],NA,week_2,New Orleans Saints,2011
+['John Gilmore'],NA,week_2,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_2,New Orleans Saints,2011
+['Jabari Greer'],NA,week_2,New Orleans Saints,2011
+['Roman Harper'],Questionable: ankle,week_2,New Orleans Saints,2011
+['Garrett Hartley'],Out: right hip,week_2,New Orleans Saints,2011
+['Devery Henderson'],NA,week_2,New Orleans Saints,2011
+['Will Herring'],NA,week_2,New Orleans Saints,2011
+['Ramon Humber'],NA,week_2,New Orleans Saints,2011
+['Mark Ingram'],NA,week_2,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_2,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_2,New Orleans Saints,2011
+['Tom Johnson'],Questionable: calf,week_2,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_2,New Orleans Saints,2011
+['Olin Kreutz'],NA,week_2,New Orleans Saints,2011
+['Turk McBride'],NA,week_2,New Orleans Saints,2011
+['Robert Meachem'],NA,week_2,New Orleans Saints,2011
+['Lance Moore'],Questionable: groin,week_2,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_2,New Orleans Saints,2011
+['Carl Nicks'],Probable: illness,week_2,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_2,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_2,New Orleans Saints,2011
+['Tracy Porter'],Questionable: calf,week_2,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_2,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_2,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_2,New Orleans Saints,2011
+['Scott Shanle'],NA,week_2,New Orleans Saints,2011
+['Will Smith'],NA,week_2,New Orleans Saints,2011
+['Zach Strief'],NA,week_2,New Orleans Saints,2011
+['David Thomas'],NA,week_2,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_2,New Orleans Saints,2011
+['Jonathan Vilma'],NA,week_2,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_2,New Orleans Saints,2011
+['Martez Wilson'],NA,week_2,New Orleans Saints,2011
+['Jonathon Amaya'],Questionable: shoulder,week_3,New Orleans Saints,2011
+['Adrian Arrington'],Probable: knee,week_3,New Orleans Saints,2011
+['Joique Bell'],NA,week_3,New Orleans Saints,2011
+['Charles Brown'],NA,week_3,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_3,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: foot,week_3,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_3,New Orleans Saints,2011
+['Marques Colston'],Out: collarbone,week_3,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_3,New Orleans Saints,2011
+['Jahri Evans'],NA,week_3,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_3,New Orleans Saints,2011
+['Junior Galette'],Probable: shoulder,week_3,New Orleans Saints,2011
+['John Gilmore'],NA,week_3,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_3,New Orleans Saints,2011
+['Jabari Greer'],NA,week_3,New Orleans Saints,2011
+['Roman Harper'],Questionable: ankle,week_3,New Orleans Saints,2011
+['Garrett Hartley'],Out: right hip,week_3,New Orleans Saints,2011
+['Devery Henderson'],NA,week_3,New Orleans Saints,2011
+['Will Herring'],NA,week_3,New Orleans Saints,2011
+['Ramon Humber'],NA,week_3,New Orleans Saints,2011
+['Mark Ingram'],NA,week_3,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_3,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_3,New Orleans Saints,2011
+['Tom Johnson'],Questionable: calf,week_3,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_3,New Orleans Saints,2011
+['Olin Kreutz'],NA,week_3,New Orleans Saints,2011
+['Turk McBride'],NA,week_3,New Orleans Saints,2011
+['Robert Meachem'],NA,week_3,New Orleans Saints,2011
+['Lance Moore'],Probable: groin,week_3,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_3,New Orleans Saints,2011
+['Carl Nicks'],NA,week_3,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_3,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_3,New Orleans Saints,2011
+['Tracy Porter'],Questionable: calf,week_3,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_3,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_3,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_3,New Orleans Saints,2011
+['Scott Shanle'],NA,week_3,New Orleans Saints,2011
+['Will Smith'],Probable: two-game suspension served,week_3,New Orleans Saints,2011
+['Zach Strief'],NA,week_3,New Orleans Saints,2011
+['David Thomas'],NA,week_3,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_3,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_3,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_3,New Orleans Saints,2011
+['Martez Wilson'],NA,week_3,New Orleans Saints,2011
+['Jonathon Amaya'],Probable: shoulder,week_4,New Orleans Saints,2011
+['Adrian Arrington'],Probable: knee,week_4,New Orleans Saints,2011
+['Joique Bell'],NA,week_4,New Orleans Saints,2011
+['Charles Brown'],NA,week_4,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_4,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: foot/knee,week_4,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_4,New Orleans Saints,2011
+['Marques Colston'],Questionable: collarbone,week_4,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_4,New Orleans Saints,2011
+['Jahri Evans'],NA,week_4,New Orleans Saints,2011
+['Aubrayo Franklin'],Probable: thigh,week_4,New Orleans Saints,2011
+['Junior Galette'],NA,week_4,New Orleans Saints,2011
+['John Gilmore'],NA,week_4,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_4,New Orleans Saints,2011
+['Jabari Greer'],NA,week_4,New Orleans Saints,2011
+['Roman Harper'],Probable: neck/shoulder,week_4,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_4,New Orleans Saints,2011
+['Devery Henderson'],NA,week_4,New Orleans Saints,2011
+['Will Herring'],Questionable: hamstring,week_4,New Orleans Saints,2011
+['Ramon Humber'],NA,week_4,New Orleans Saints,2011
+['Mark Ingram'],NA,week_4,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_4,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_4,New Orleans Saints,2011
+['Tom Johnson'],Probable: calf,week_4,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_4,New Orleans Saints,2011
+['Olin Kreutz'],Questionable: knee,week_4,New Orleans Saints,2011
+['Turk McBride'],NA,week_4,New Orleans Saints,2011
+['Robert Meachem'],NA,week_4,New Orleans Saints,2011
+['Lance Moore'],NA,week_4,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_4,New Orleans Saints,2011
+['Carl Nicks'],NA,week_4,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_4,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_4,New Orleans Saints,2011
+['Tracy Porter'],Probable: calf,week_4,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_4,New Orleans Saints,2011
+['Shaun Rogers'],Probable: elbow,week_4,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_4,New Orleans Saints,2011
+['Scott Shanle'],NA,week_4,New Orleans Saints,2011
+['Will Smith'],NA,week_4,New Orleans Saints,2011
+['Zach Strief'],Out: ankle,week_4,New Orleans Saints,2011
+['David Thomas'],Doubtful: concussion,week_4,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_4,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_4,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_4,New Orleans Saints,2011
+['Martez Wilson'],Questionable: neck/shoulder,week_4,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_5,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_5,New Orleans Saints,2011
+['Joique Bell'],NA,week_5,New Orleans Saints,2011
+['Charles Brown'],NA,week_5,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_5,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_5,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_5,New Orleans Saints,2011
+['Marques Colston'],NA,week_5,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_5,New Orleans Saints,2011
+['Jahri Evans'],NA,week_5,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_5,New Orleans Saints,2011
+['Junior Galette'],NA,week_5,New Orleans Saints,2011
+['John Gilmore'],NA,week_5,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_5,New Orleans Saints,2011
+['Jabari Greer'],NA,week_5,New Orleans Saints,2011
+['Roman Harper'],NA,week_5,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_5,New Orleans Saints,2011
+['Devery Henderson'],Questionable: calf,week_5,New Orleans Saints,2011
+['Will Herring'],Questionable: hamstring,week_5,New Orleans Saints,2011
+['Ramon Humber'],NA,week_5,New Orleans Saints,2011
+['Mark Ingram'],NA,week_5,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_5,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_5,New Orleans Saints,2011
+['Tom Johnson'],NA,week_5,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_5,New Orleans Saints,2011
+['Olin Kreutz'],Questionable: knee,week_5,New Orleans Saints,2011
+['Turk McBride'],NA,week_5,New Orleans Saints,2011
+['Robert Meachem'],NA,week_5,New Orleans Saints,2011
+['Lance Moore'],NA,week_5,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_5,New Orleans Saints,2011
+['Carl Nicks'],NA,week_5,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_5,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_5,New Orleans Saints,2011
+['Tracy Porter'],NA,week_5,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_5,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_5,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_5,New Orleans Saints,2011
+['Scott Shanle'],NA,week_5,New Orleans Saints,2011
+['Will Smith'],NA,week_5,New Orleans Saints,2011
+['Zach Strief'],Out: ankle,week_5,New Orleans Saints,2011
+['David Thomas'],Questionable: concussion,week_5,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_5,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_5,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_5,New Orleans Saints,2011
+['Martez Wilson'],Questionable: neck/shoulder,week_5,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_6,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_6,New Orleans Saints,2011
+['Joique Bell'],NA,week_6,New Orleans Saints,2011
+['Charles Brown'],NA,week_6,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_6,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_6,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_6,New Orleans Saints,2011
+['Marques Colston'],NA,week_6,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_6,New Orleans Saints,2011
+['Jahri Evans'],NA,week_6,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_6,New Orleans Saints,2011
+['Junior Galette'],NA,week_6,New Orleans Saints,2011
+['John Gilmore'],Probable: neck,week_6,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_6,New Orleans Saints,2011
+['Jabari Greer'],NA,week_6,New Orleans Saints,2011
+['Roman Harper'],NA,week_6,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_6,New Orleans Saints,2011
+['Devery Henderson'],Questionable: calf,week_6,New Orleans Saints,2011
+['Will Herring'],Questionable: hamstring,week_6,New Orleans Saints,2011
+['Ramon Humber'],NA,week_6,New Orleans Saints,2011
+['Mark Ingram'],NA,week_6,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_6,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_6,New Orleans Saints,2011
+['Tom Johnson'],NA,week_6,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_6,New Orleans Saints,2011
+['Olin Kreutz'],Probable: knee,week_6,New Orleans Saints,2011
+['Turk McBride'],NA,week_6,New Orleans Saints,2011
+['Robert Meachem'],NA,week_6,New Orleans Saints,2011
+['Lance Moore'],NA,week_6,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_6,New Orleans Saints,2011
+['Carl Nicks'],NA,week_6,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_6,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_6,New Orleans Saints,2011
+['Tracy Porter'],NA,week_6,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_6,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_6,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_6,New Orleans Saints,2011
+['Scott Shanle'],NA,week_6,New Orleans Saints,2011
+['Will Smith'],NA,week_6,New Orleans Saints,2011
+['Zach Strief'],Out: ankle,week_6,New Orleans Saints,2011
+['David Thomas'],Questionable: concussion,week_6,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_6,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_6,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_6,New Orleans Saints,2011
+['Martez Wilson'],Probable: neck/shoulder,week_6,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_7,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_7,New Orleans Saints,2011
+['Joique Bell'],NA,week_7,New Orleans Saints,2011
+['Charles Brown'],NA,week_7,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_7,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_7,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_7,New Orleans Saints,2011
+['Marques Colston'],NA,week_7,New Orleans Saints,2011
+['Sedrick Ellis'],Questionable: ankle,week_7,New Orleans Saints,2011
+['Jahri Evans'],NA,week_7,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_7,New Orleans Saints,2011
+['Junior Galette'],NA,week_7,New Orleans Saints,2011
+['John Gilmore'],Questionable: neck,week_7,New Orleans Saints,2011
+['Jimmy Graham'],Probable: ankle,week_7,New Orleans Saints,2011
+['Jabari Greer'],NA,week_7,New Orleans Saints,2011
+['Roman Harper'],NA,week_7,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_7,New Orleans Saints,2011
+['Devery Henderson'],NA,week_7,New Orleans Saints,2011
+['Will Herring'],Questionable: hamstring,week_7,New Orleans Saints,2011
+['Ramon Humber'],NA,week_7,New Orleans Saints,2011
+['Mark Ingram'],NA,week_7,New Orleans Saints,2011
+['Chris Ivory'],Physically Unable to Perform: foot/abdomen,week_7,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_7,New Orleans Saints,2011
+['Tom Johnson'],NA,week_7,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_7,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_7,New Orleans Saints,2011
+['Turk McBride'],Questionable: shoulder,week_7,New Orleans Saints,2011
+['Robert Meachem'],NA,week_7,New Orleans Saints,2011
+['Lance Moore'],NA,week_7,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_7,New Orleans Saints,2011
+['Carl Nicks'],NA,week_7,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_7,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_7,New Orleans Saints,2011
+['Tracy Porter'],NA,week_7,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_7,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_7,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_7,New Orleans Saints,2011
+['Scott Shanle'],NA,week_7,New Orleans Saints,2011
+['Will Smith'],NA,week_7,New Orleans Saints,2011
+['Zach Strief'],Out: ankle,week_7,New Orleans Saints,2011
+['David Thomas'],Questionable: concussion,week_7,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_7,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_7,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_7,New Orleans Saints,2011
+['Martez Wilson'],NA,week_7,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_8,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_8,New Orleans Saints,2011
+['Joique Bell'],NA,week_8,New Orleans Saints,2011
+['Charles Brown'],NA,week_8,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_8,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_8,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_8,New Orleans Saints,2011
+['Marques Colston'],NA,week_8,New Orleans Saints,2011
+['Sedrick Ellis'],Questionable: ankle,week_8,New Orleans Saints,2011
+['Jahri Evans'],NA,week_8,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_8,New Orleans Saints,2011
+['Junior Galette'],NA,week_8,New Orleans Saints,2011
+['John Gilmore'],Probable: ankle,week_8,New Orleans Saints,2011
+['Jimmy Graham'],Probable: ankle,week_8,New Orleans Saints,2011
+['Jabari Greer'],NA,week_8,New Orleans Saints,2011
+['Roman Harper'],NA,week_8,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_8,New Orleans Saints,2011
+['Devery Henderson'],NA,week_8,New Orleans Saints,2011
+['Will Herring'],Probable: hamstring,week_8,New Orleans Saints,2011
+['Ramon Humber'],NA,week_8,New Orleans Saints,2011
+['Mark Ingram'],Doubtful: foot,week_8,New Orleans Saints,2011
+['Chris Ivory'],NA,week_8,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_8,New Orleans Saints,2011
+['Tom Johnson'],NA,week_8,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_8,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_8,New Orleans Saints,2011
+['Turk McBride'],Probable: shoulder,week_8,New Orleans Saints,2011
+['Robert Meachem'],NA,week_8,New Orleans Saints,2011
+['Lance Moore'],NA,week_8,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_8,New Orleans Saints,2011
+['Carl Nicks'],NA,week_8,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_8,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_8,New Orleans Saints,2011
+['Tracy Porter'],NA,week_8,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_8,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_8,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_8,New Orleans Saints,2011
+['Scott Shanle'],NA,week_8,New Orleans Saints,2011
+['Will Smith'],NA,week_8,New Orleans Saints,2011
+['Zach Strief'],Out: ankle,week_8,New Orleans Saints,2011
+['David Thomas'],Questionable: concussion,week_8,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_8,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_8,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_8,New Orleans Saints,2011
+['Martez Wilson'],NA,week_8,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_9,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_9,New Orleans Saints,2011
+['Joique Bell'],NA,week_9,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_9,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_9,New Orleans Saints,2011
+['Jonathan Casillas'],Probable: knee,week_9,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_9,New Orleans Saints,2011
+['Marques Colston'],NA,week_9,New Orleans Saints,2011
+['Sedrick Ellis'],Probable: ankle,week_9,New Orleans Saints,2011
+['Jahri Evans'],NA,week_9,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_9,New Orleans Saints,2011
+['Junior Galette'],Probable: knee,week_9,New Orleans Saints,2011
+['John Gilmore'],NA,week_9,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_9,New Orleans Saints,2011
+['Jabari Greer'],NA,week_9,New Orleans Saints,2011
+['Roman Harper'],NA,week_9,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_9,New Orleans Saints,2011
+['Devery Henderson'],NA,week_9,New Orleans Saints,2011
+['Will Herring'],Questionable: hamstring,week_9,New Orleans Saints,2011
+['Ramon Humber'],NA,week_9,New Orleans Saints,2011
+['Mark Ingram'],Questionable: foot,week_9,New Orleans Saints,2011
+['Chris Ivory'],NA,week_9,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_9,New Orleans Saints,2011
+['Tom Johnson'],NA,week_9,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_9,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_9,New Orleans Saints,2011
+['Turk McBride'],Questionable: shoulder,week_9,New Orleans Saints,2011
+['Robert Meachem'],NA,week_9,New Orleans Saints,2011
+['Lance Moore'],NA,week_9,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_9,New Orleans Saints,2011
+['Carl Nicks'],NA,week_9,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_9,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_9,New Orleans Saints,2011
+['Tracy Porter'],NA,week_9,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_9,New Orleans Saints,2011
+['Shaun Rogers'],Probable: illness,week_9,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_9,New Orleans Saints,2011
+['Scott Shanle'],NA,week_9,New Orleans Saints,2011
+['Will Smith'],NA,week_9,New Orleans Saints,2011
+['Zach Strief'],Probable: hamstring,week_9,New Orleans Saints,2011
+['David Thomas'],Probable: concussion,week_9,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_9,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_9,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_9,New Orleans Saints,2011
+['Martez Wilson'],NA,week_9,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_10,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_10,New Orleans Saints,2011
+['Joique Bell'],NA,week_10,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_10,New Orleans Saints,2011
+['Jermon Bushrod'],Questionable: stomach,week_10,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_10,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_10,New Orleans Saints,2011
+['Marques Colston'],NA,week_10,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_10,New Orleans Saints,2011
+['Jahri Evans'],NA,week_10,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_10,New Orleans Saints,2011
+['Junior Galette'],NA,week_10,New Orleans Saints,2011
+['John Gilmore'],Questionable: neck,week_10,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_10,New Orleans Saints,2011
+['Jabari Greer'],NA,week_10,New Orleans Saints,2011
+['Roman Harper'],NA,week_10,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_10,New Orleans Saints,2011
+['Devery Henderson'],NA,week_10,New Orleans Saints,2011
+['Will Herring'],NA,week_10,New Orleans Saints,2011
+['Ramon Humber'],NA,week_10,New Orleans Saints,2011
+['Mark Ingram'],Questionable: foot,week_10,New Orleans Saints,2011
+['Chris Ivory'],Questionable: hamstring,week_10,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_10,New Orleans Saints,2011
+['Tom Johnson'],NA,week_10,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_10,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_10,New Orleans Saints,2011
+['Turk McBride'],Questionable: ankle,week_10,New Orleans Saints,2011
+['Robert Meachem'],NA,week_10,New Orleans Saints,2011
+['Lance Moore'],Questionable: hamstring,week_10,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_10,New Orleans Saints,2011
+['Carl Nicks'],NA,week_10,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_10,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_10,New Orleans Saints,2011
+['Tracy Porter'],Doubtful: neck/chest,week_10,New Orleans Saints,2011
+['Patrick Robinson'],Questionable: stomach,week_10,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_10,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_10,New Orleans Saints,2011
+['Scott Shanle'],NA,week_10,New Orleans Saints,2011
+['Will Smith'],NA,week_10,New Orleans Saints,2011
+['Zach Strief'],NA,week_10,New Orleans Saints,2011
+['David Thomas'],NA,week_10,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_10,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_10,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_10,New Orleans Saints,2011
+['Martez Wilson'],NA,week_10,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_12,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_12,New Orleans Saints,2011
+['Joique Bell'],NA,week_12,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_12,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_12,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_12,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_12,New Orleans Saints,2011
+['Marques Colston'],NA,week_12,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_12,New Orleans Saints,2011
+['Jahri Evans'],NA,week_12,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_12,New Orleans Saints,2011
+['Junior Galette'],NA,week_12,New Orleans Saints,2011
+['John Gilmore'],NA,week_12,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_12,New Orleans Saints,2011
+['Jabari Greer'],NA,week_12,New Orleans Saints,2011
+['Roman Harper'],NA,week_12,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_12,New Orleans Saints,2011
+['Devery Henderson'],NA,week_12,New Orleans Saints,2011
+['Will Herring'],NA,week_12,New Orleans Saints,2011
+['Ramon Humber'],NA,week_12,New Orleans Saints,2011
+['Mark Ingram'],NA,week_12,New Orleans Saints,2011
+['Chris Ivory'],Questionable: hamstring,week_12,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_12,New Orleans Saints,2011
+['Tom Johnson'],NA,week_12,New Orleans Saints,2011
+['Cameron Jordan'],Probable: hand,week_12,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_12,New Orleans Saints,2011
+['Turk McBride'],Questionable: ankle,week_12,New Orleans Saints,2011
+['Robert Meachem'],NA,week_12,New Orleans Saints,2011
+['Lance Moore'],NA,week_12,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_12,New Orleans Saints,2011
+['Carl Nicks'],NA,week_12,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_12,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_12,New Orleans Saints,2011
+['Tracy Porter'],NA,week_12,New Orleans Saints,2011
+['Patrick Robinson'],Questionable: stomach,week_12,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_12,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_12,New Orleans Saints,2011
+['Scott Shanle'],NA,week_12,New Orleans Saints,2011
+['Will Smith'],NA,week_12,New Orleans Saints,2011
+['Zach Strief'],NA,week_12,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_12,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_12,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_12,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_12,New Orleans Saints,2011
+['Martez Wilson'],NA,week_12,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_13,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_13,New Orleans Saints,2011
+['Joique Bell'],NA,week_13,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_13,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_13,New Orleans Saints,2011
+['Jonathan Casillas'],NA,week_13,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_13,New Orleans Saints,2011
+['Marques Colston'],NA,week_13,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_13,New Orleans Saints,2011
+['Jahri Evans'],NA,week_13,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_13,New Orleans Saints,2011
+['Junior Galette'],NA,week_13,New Orleans Saints,2011
+['John Gilmore'],NA,week_13,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_13,New Orleans Saints,2011
+['Jabari Greer'],Questionable: knee,week_13,New Orleans Saints,2011
+['Roman Harper'],NA,week_13,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_13,New Orleans Saints,2011
+['Devery Henderson'],NA,week_13,New Orleans Saints,2011
+['Will Herring'],NA,week_13,New Orleans Saints,2011
+['Ramon Humber'],NA,week_13,New Orleans Saints,2011
+['Mark Ingram'],NA,week_13,New Orleans Saints,2011
+['Chris Ivory'],NA,week_13,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_13,New Orleans Saints,2011
+['Tom Johnson'],Probable: elbow,week_13,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_13,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_13,New Orleans Saints,2011
+['Turk McBride'],Questionable: ankle,week_13,New Orleans Saints,2011
+['Robert Meachem'],NA,week_13,New Orleans Saints,2011
+['Lance Moore'],NA,week_13,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_13,New Orleans Saints,2011
+['Carl Nicks'],NA,week_13,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_13,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_13,New Orleans Saints,2011
+['Tracy Porter'],NA,week_13,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_13,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_13,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_13,New Orleans Saints,2011
+['Scott Shanle'],NA,week_13,New Orleans Saints,2011
+['Will Smith'],NA,week_13,New Orleans Saints,2011
+['Zach Strief'],NA,week_13,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_13,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_13,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_13,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_13,New Orleans Saints,2011
+['Martez Wilson'],NA,week_13,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_14,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_14,New Orleans Saints,2011
+['Joique Bell'],NA,week_14,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_14,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_14,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_14,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_14,New Orleans Saints,2011
+['Marques Colston'],NA,week_14,New Orleans Saints,2011
+['Sedrick Ellis'],Questionable: hamstring,week_14,New Orleans Saints,2011
+['Jahri Evans'],NA,week_14,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_14,New Orleans Saints,2011
+['Junior Galette'],NA,week_14,New Orleans Saints,2011
+['John Gilmore'],NA,week_14,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_14,New Orleans Saints,2011
+['Jabari Greer'],NA,week_14,New Orleans Saints,2011
+['Roman Harper'],NA,week_14,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_14,New Orleans Saints,2011
+['Devery Henderson'],NA,week_14,New Orleans Saints,2011
+['Will Herring'],NA,week_14,New Orleans Saints,2011
+['Ramon Humber'],NA,week_14,New Orleans Saints,2011
+['Mark Ingram'],Doubtful: toe,week_14,New Orleans Saints,2011
+['Chris Ivory'],NA,week_14,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_14,New Orleans Saints,2011
+['Tom Johnson'],NA,week_14,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_14,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_14,New Orleans Saints,2011
+['Turk McBride'],Questionable: ankle,week_14,New Orleans Saints,2011
+['Robert Meachem'],NA,week_14,New Orleans Saints,2011
+['Lance Moore'],NA,week_14,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_14,New Orleans Saints,2011
+['Carl Nicks'],NA,week_14,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_14,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_14,New Orleans Saints,2011
+['Tracy Porter'],NA,week_14,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_14,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_14,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_14,New Orleans Saints,2011
+['Scott Shanle'],Questionable: shoulder,week_14,New Orleans Saints,2011
+['Will Smith'],NA,week_14,New Orleans Saints,2011
+['Zach Strief'],NA,week_14,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_14,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_14,New Orleans Saints,2011
+['Jonathan Vilma'],Probable: knee,week_14,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_14,New Orleans Saints,2011
+['Martez Wilson'],NA,week_14,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_15,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_15,New Orleans Saints,2011
+['Joique Bell'],NA,week_15,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_15,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_15,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_15,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_15,New Orleans Saints,2011
+['Marques Colston'],NA,week_15,New Orleans Saints,2011
+['Sedrick Ellis'],Probable: hamstring,week_15,New Orleans Saints,2011
+['Jahri Evans'],NA,week_15,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_15,New Orleans Saints,2011
+['Junior Galette'],NA,week_15,New Orleans Saints,2011
+['John Gilmore'],NA,week_15,New Orleans Saints,2011
+['Jimmy Graham'],Probable: back,week_15,New Orleans Saints,2011
+['Jabari Greer'],NA,week_15,New Orleans Saints,2011
+['Roman Harper'],NA,week_15,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_15,New Orleans Saints,2011
+['Devery Henderson'],NA,week_15,New Orleans Saints,2011
+['Will Herring'],NA,week_15,New Orleans Saints,2011
+['Ramon Humber'],NA,week_15,New Orleans Saints,2011
+['Mark Ingram'],Doubtful: toe,week_15,New Orleans Saints,2011
+['Chris Ivory'],NA,week_15,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_15,New Orleans Saints,2011
+['Tom Johnson'],NA,week_15,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_15,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_15,New Orleans Saints,2011
+['Turk McBride'],Questionable: ankle,week_15,New Orleans Saints,2011
+['Robert Meachem'],NA,week_15,New Orleans Saints,2011
+['Lance Moore'],NA,week_15,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_15,New Orleans Saints,2011
+['Carl Nicks'],NA,week_15,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_15,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_15,New Orleans Saints,2011
+['Tracy Porter'],Probable: wrist,week_15,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_15,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_15,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_15,New Orleans Saints,2011
+['Scott Shanle'],Probable: shoulder,week_15,New Orleans Saints,2011
+['Will Smith'],NA,week_15,New Orleans Saints,2011
+['Zach Strief'],NA,week_15,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_15,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_15,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_15,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_15,New Orleans Saints,2011
+['Martez Wilson'],NA,week_15,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_16,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_16,New Orleans Saints,2011
+['Joique Bell'],NA,week_16,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_16,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_16,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_16,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_16,New Orleans Saints,2011
+['Marques Colston'],NA,week_16,New Orleans Saints,2011
+['Sedrick Ellis'],Questionable: hamstring,week_16,New Orleans Saints,2011
+['Jahri Evans'],Questionable: knee,week_16,New Orleans Saints,2011
+['Aubrayo Franklin'],Questionable: ankle,week_16,New Orleans Saints,2011
+['Junior Galette'],NA,week_16,New Orleans Saints,2011
+['John Gilmore'],NA,week_16,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_16,New Orleans Saints,2011
+['Jabari Greer'],NA,week_16,New Orleans Saints,2011
+['Roman Harper'],NA,week_16,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_16,New Orleans Saints,2011
+['Devery Henderson'],NA,week_16,New Orleans Saints,2011
+['Will Herring'],NA,week_16,New Orleans Saints,2011
+['Ramon Humber'],Questionable: knee,week_16,New Orleans Saints,2011
+['Mark Ingram'],Questionable: toe,week_16,New Orleans Saints,2011
+['Chris Ivory'],NA,week_16,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_16,New Orleans Saints,2011
+['Tom Johnson'],NA,week_16,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_16,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_16,New Orleans Saints,2011
+['Turk McBride'],NA,week_16,New Orleans Saints,2011
+['Robert Meachem'],NA,week_16,New Orleans Saints,2011
+['Lance Moore'],Questionable: hamstring,week_16,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_16,New Orleans Saints,2011
+['Carl Nicks'],NA,week_16,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_16,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_16,New Orleans Saints,2011
+['Tracy Porter'],NA,week_16,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_16,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_16,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_16,New Orleans Saints,2011
+['Scott Shanle'],NA,week_16,New Orleans Saints,2011
+['Will Smith'],NA,week_16,New Orleans Saints,2011
+['Zach Strief'],NA,week_16,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_16,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_16,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_16,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_16,New Orleans Saints,2011
+['Martez Wilson'],NA,week_16,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_17,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_17,New Orleans Saints,2011
+['Joique Bell'],NA,week_17,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_17,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_17,New Orleans Saints,2011
+['Jonathan Casillas'],Probable: knee,week_17,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_17,New Orleans Saints,2011
+['Marques Colston'],NA,week_17,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_17,New Orleans Saints,2011
+['Jahri Evans'],NA,week_17,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_17,New Orleans Saints,2011
+['Junior Galette'],NA,week_17,New Orleans Saints,2011
+['John Gilmore'],Questionable: ankle,week_17,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_17,New Orleans Saints,2011
+['Jabari Greer'],NA,week_17,New Orleans Saints,2011
+['Roman Harper'],NA,week_17,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_17,New Orleans Saints,2011
+['Devery Henderson'],NA,week_17,New Orleans Saints,2011
+['Will Herring'],NA,week_17,New Orleans Saints,2011
+['Ramon Humber'],NA,week_17,New Orleans Saints,2011
+['Mark Ingram'],Doubtful: toe,week_17,New Orleans Saints,2011
+['Chris Ivory'],NA,week_17,New Orleans Saints,2011
+['Malcolm Jenkins'],Questionable: neck,week_17,New Orleans Saints,2011
+['Tom Johnson'],NA,week_17,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_17,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_17,New Orleans Saints,2011
+['Turk McBride'],NA,week_17,New Orleans Saints,2011
+['Robert Meachem'],NA,week_17,New Orleans Saints,2011
+['Lance Moore'],Questionable: hamstring,week_17,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_17,New Orleans Saints,2011
+['Carl Nicks'],NA,week_17,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_17,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_17,New Orleans Saints,2011
+['Tracy Porter'],NA,week_17,New Orleans Saints,2011
+['Patrick Robinson'],Probable: hip,week_17,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_17,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_17,New Orleans Saints,2011
+['Scott Shanle'],NA,week_17,New Orleans Saints,2011
+['Will Smith'],NA,week_17,New Orleans Saints,2011
+['Zach Strief'],NA,week_17,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_17,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_17,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_17,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_17,New Orleans Saints,2011
+['Martez Wilson'],NA,week_17,New Orleans Saints,2011
+['Jonathon Amaya'],Probable: shoulder,week_18,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_18,New Orleans Saints,2011
+['Joique Bell'],NA,week_18,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_18,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_18,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_18,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_18,New Orleans Saints,2011
+['Marques Colston'],NA,week_18,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_18,New Orleans Saints,2011
+['Jahri Evans'],NA,week_18,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_18,New Orleans Saints,2011
+['Junior Galette'],NA,week_18,New Orleans Saints,2011
+['John Gilmore'],Questionable: toe,week_18,New Orleans Saints,2011
+['Jimmy Graham'],NA,week_18,New Orleans Saints,2011
+['Jabari Greer'],NA,week_18,New Orleans Saints,2011
+['Roman Harper'],NA,week_18,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_18,New Orleans Saints,2011
+['Devery Henderson'],NA,week_18,New Orleans Saints,2011
+['Will Herring'],Injured Reserve: hamstring,week_18,New Orleans Saints,2011
+['Ramon Humber'],NA,week_18,New Orleans Saints,2011
+['Mark Ingram'],Injured Reserve: toe,week_18,New Orleans Saints,2011
+['Chris Ivory'],NA,week_18,New Orleans Saints,2011
+['Malcolm Jenkins'],Probable: neck,week_18,New Orleans Saints,2011
+['Tom Johnson'],NA,week_18,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_18,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_18,New Orleans Saints,2011
+['Turk McBride'],NA,week_18,New Orleans Saints,2011
+['Robert Meachem'],Probable: knee,week_18,New Orleans Saints,2011
+['Lance Moore'],Questionable: hamstring,week_18,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_18,New Orleans Saints,2011
+['Carl Nicks'],NA,week_18,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_18,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_18,New Orleans Saints,2011
+['Tracy Porter'],NA,week_18,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_18,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_18,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_18,New Orleans Saints,2011
+['Scott Shanle'],NA,week_18,New Orleans Saints,2011
+['Will Smith'],NA,week_18,New Orleans Saints,2011
+['Zach Strief'],NA,week_18,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_18,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_18,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_18,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_18,New Orleans Saints,2011
+['Martez Wilson'],NA,week_18,New Orleans Saints,2011
+['Jonathon Amaya'],NA,week_19,New Orleans Saints,2011
+['Adrian Arrington'],NA,week_19,New Orleans Saints,2011
+['Joique Bell'],NA,week_19,New Orleans Saints,2011
+['Charles Brown'],Injured Reserve: hip,week_19,New Orleans Saints,2011
+['Jermon Bushrod'],NA,week_19,New Orleans Saints,2011
+['Jonathan Casillas'],Questionable: knee,week_19,New Orleans Saints,2011
+['Patrick Cobbs'],Injured Reserve: undisclosed,week_19,New Orleans Saints,2011
+['Marques Colston'],NA,week_19,New Orleans Saints,2011
+['Sedrick Ellis'],NA,week_19,New Orleans Saints,2011
+['Jahri Evans'],NA,week_19,New Orleans Saints,2011
+['Aubrayo Franklin'],NA,week_19,New Orleans Saints,2011
+['Junior Galette'],NA,week_19,New Orleans Saints,2011
+['John Gilmore'],Questionable: toe,week_19,New Orleans Saints,2011
+['Jimmy Graham'],Probable: head,week_19,New Orleans Saints,2011
+['Jabari Greer'],NA,week_19,New Orleans Saints,2011
+['Roman Harper'],Questionable: ankle,week_19,New Orleans Saints,2011
+['Garrett Hartley'],Injured Reserve: right hip,week_19,New Orleans Saints,2011
+['Devery Henderson'],NA,week_19,New Orleans Saints,2011
+['Will Herring'],Injured Reserve: hamstring,week_19,New Orleans Saints,2011
+['Ramon Humber'],NA,week_19,New Orleans Saints,2011
+['Mark Ingram'],Injured Reserve: toe,week_19,New Orleans Saints,2011
+['Chris Ivory'],NA,week_19,New Orleans Saints,2011
+['Malcolm Jenkins'],NA,week_19,New Orleans Saints,2011
+['Tom Johnson'],NA,week_19,New Orleans Saints,2011
+['Cameron Jordan'],NA,week_19,New Orleans Saints,2011
+['Olin Kreutz'],Out: personal,week_19,New Orleans Saints,2011
+['Turk McBride'],NA,week_19,New Orleans Saints,2011
+['Robert Meachem'],Probable: knee,week_19,New Orleans Saints,2011
+['Lance Moore'],Questionable: hamstring,week_19,New Orleans Saints,2011
+['Joe Morgan'],Injured Reserve: knee,week_19,New Orleans Saints,2011
+['Carl Nicks'],NA,week_19,New Orleans Saints,2011
+['Paul Oliver'],Injured Reserve: undisclosed,week_19,New Orleans Saints,2011
+['Johnny Patrick'],NA,week_19,New Orleans Saints,2011
+['Tracy Porter'],NA,week_19,New Orleans Saints,2011
+['Patrick Robinson'],NA,week_19,New Orleans Saints,2011
+['Shaun Rogers'],NA,week_19,New Orleans Saints,2011
+['Greg Romeus'],Physically Unable to Perform: knee,week_19,New Orleans Saints,2011
+['Scott Shanle'],NA,week_19,New Orleans Saints,2011
+['Will Smith'],NA,week_19,New Orleans Saints,2011
+['Zach Strief'],NA,week_19,New Orleans Saints,2011
+['David Thomas'],Injured Reserve: undisclosed,week_19,New Orleans Saints,2011
+['Pierre Thomas'],NA,week_19,New Orleans Saints,2011
+['Jonathan Vilma'],Questionable: knee,week_19,New Orleans Saints,2011
+['Fabian Washington'],Injured Reserve: hamstring,week_19,New Orleans Saints,2011
+['Martez Wilson'],NA,week_19,New Orleans Saints,2011

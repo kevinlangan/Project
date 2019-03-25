@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Antwan Barnes'],NA,week_1,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_1,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_1,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_1,Los Angeles Chargers,2011
+['Vincent Brown'],Out: quadriceps,week_1,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_1,Los Angeles Chargers,2011
+['Antoine Cason'],Probable: hand,week_1,Los Angeles Chargers,2011
+['Luis Castillo'],NA,week_1,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_1,Los Angeles Chargers,2011
+['Stephen Cooper'],NA,week_1,Los Angeles Chargers,2011
+['Patrick Crayton'],Probable: ankle,week_1,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_1,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_1,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_1,Los Angeles Chargers,2011
+['Larry English'],NA,week_1,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_1,Los Angeles Chargers,2011
+['Andrew Gachkar'],Probable: back,week_1,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_1,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_1,Los Angeles Chargers,2011
+['Antonio Gates'],Probable: foot,week_1,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_1,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_1,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_1,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_1,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_1,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_1,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_1,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_1,Los Angeles Chargers,2011
+['Nate Kaeding'],NA,week_1,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_1,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_1,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_1,Los Angeles Chargers,2011
+['Marcus McNeill'],Probable: knee,week_1,Los Angeles Chargers,2011
+['Jonas Mouton'],Questionable: shoulder,week_1,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_1,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_1,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_1,Los Angeles Chargers,2011
+['Bob Sanders'],NA,week_1,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_1,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_1,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_1,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_1,Los Angeles Chargers,2011
+['Shareece Wright'],Questionable: leg,week_1,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_2,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_2,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_2,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_2,Los Angeles Chargers,2011
+['Vincent Brown'],Questionable: quadriceps,week_2,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_2,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_2,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_2,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_2,Los Angeles Chargers,2011
+['Stephen Cooper'],NA,week_2,Los Angeles Chargers,2011
+['Patrick Crayton'],Questionable: ankle,week_2,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_2,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_2,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_2,Los Angeles Chargers,2011
+['Larry English'],NA,week_2,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_2,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_2,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_2,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_2,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_2,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_2,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_2,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_2,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_2,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_2,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_2,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_2,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_2,Los Angeles Chargers,2011
+['Nate Kaeding'],Out: left knee,week_2,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_2,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_2,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_2,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_2,Los Angeles Chargers,2011
+['Jonas Mouton'],Questionable: shoulder,week_2,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_2,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_2,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_2,Los Angeles Chargers,2011
+['Bob Sanders'],NA,week_2,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_2,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_2,Los Angeles Chargers,2011
+['Mike Tolbert'],Probable: leg,week_2,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_2,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_2,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_3,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_3,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_3,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_3,Los Angeles Chargers,2011
+['Vincent Brown'],Questionable: quadriceps,week_3,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_3,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_3,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_3,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_3,Los Angeles Chargers,2011
+['Stephen Cooper'],NA,week_3,Los Angeles Chargers,2011
+['Patrick Crayton'],Probable: ankle,week_3,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_3,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_3,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_3,Los Angeles Chargers,2011
+['Larry English'],NA,week_3,Los Angeles Chargers,2011
+['Malcom Floyd'],Doubtful: groin,week_3,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_3,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_3,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_3,Los Angeles Chargers,2011
+['Antonio Gates'],Probable: foot,week_3,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_3,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_3,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_3,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_3,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_3,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_3,Los Angeles Chargers,2011
+['Vincent Jackson'],Probable: abdomen,week_3,Los Angeles Chargers,2011
+['Quentin Jammer'],Probable: illness,week_3,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_3,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_3,Los Angeles Chargers,2011
+['Corey Liuget'],Doubtful: ankle,week_3,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_3,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_3,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_3,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_3,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_3,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_3,Los Angeles Chargers,2011
+['Bob Sanders'],Doubtful: knee,week_3,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_3,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_3,Los Angeles Chargers,2011
+['Mike Tolbert'],Questionable: calf,week_3,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_3,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_3,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_4,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_4,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_4,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_4,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_4,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_4,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_4,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_4,Los Angeles Chargers,2011
+['Jacques Cesaire'],Out: knee,week_4,Los Angeles Chargers,2011
+['Stephen Cooper'],NA,week_4,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_4,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_4,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",Probable: groin,week_4,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_4,Los Angeles Chargers,2011
+['Larry English'],NA,week_4,Los Angeles Chargers,2011
+['Malcom Floyd'],Questionable: groin,week_4,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_4,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_4,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_4,Los Angeles Chargers,2011
+['Antonio Gates'],Out: foot,week_4,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_4,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_4,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_4,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_4,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_4,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_4,Los Angeles Chargers,2011
+['Vincent Jackson'],Questionable: abdomen,week_4,Los Angeles Chargers,2011
+['Quentin Jammer'],Probable: hamstring,week_4,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_4,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_4,Los Angeles Chargers,2011
+['Corey Liuget'],Questionable: ankle,week_4,Los Angeles Chargers,2011
+['Ryan Mathews'],Questionable: foot,week_4,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_4,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_4,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_4,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_4,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_4,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_4,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_4,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_4,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_4,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_4,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_4,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_5,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_5,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_5,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_5,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_5,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_5,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_5,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_5,Los Angeles Chargers,2011
+['Jacques Cesaire'],Out: knee,week_5,Los Angeles Chargers,2011
+['Stephen Cooper'],NA,week_5,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_5,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_5,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_5,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_5,Los Angeles Chargers,2011
+['Larry English'],NA,week_5,Los Angeles Chargers,2011
+['Malcom Floyd'],Questionable: groin,week_5,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_5,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_5,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_5,Los Angeles Chargers,2011
+['Antonio Gates'],Questionable: foot,week_5,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_5,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_5,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_5,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_5,Los Angeles Chargers,2011
+['Nick Hardwick'],Questionable: neck,week_5,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_5,Los Angeles Chargers,2011
+['Vincent Jackson'],Questionable: leg/abdomen,week_5,Los Angeles Chargers,2011
+['Quentin Jammer'],Probable: hamstring,week_5,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_5,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_5,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_5,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_5,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_5,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_5,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_5,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_5,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_5,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_5,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_5,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_5,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_5,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_5,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_5,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_7,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_7,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_7,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_7,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_7,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_7,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_7,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_7,Los Angeles Chargers,2011
+['Jacques Cesaire'],Probable: knee,week_7,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_7,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_7,Los Angeles Chargers,2011
+['Kris Dielman'],NA,week_7,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_7,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_7,Los Angeles Chargers,2011
+['Larry English'],NA,week_7,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_7,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_7,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_7,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_7,Los Angeles Chargers,2011
+['Antonio Gates'],Questionable: foot,week_7,Los Angeles Chargers,2011
+['Marcus Gilchrist'],Questionable: knee,week_7,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_7,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_7,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_7,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_7,Los Angeles Chargers,2011
+['Jacob Hester'],Probable: foot,week_7,Los Angeles Chargers,2011
+['Vincent Jackson'],Questionable: hamstring,week_7,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_7,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_7,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_7,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_7,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_7,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_7,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_7,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_7,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_7,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_7,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_7,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_7,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_7,Los Angeles Chargers,2011
+['Mike Tolbert'],Probable: concussion,week_7,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_7,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_7,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_8,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_8,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_8,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_8,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_8,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_8,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_8,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_8,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_8,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_8,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_8,Los Angeles Chargers,2011
+['Kris Dielman'],Out: concussion/seizure,week_8,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_8,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_8,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_8,Los Angeles Chargers,2011
+['Malcom Floyd'],Probable: hip,week_8,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_8,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_8,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_8,Los Angeles Chargers,2011
+['Antonio Gates'],Probable: foot,week_8,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_8,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_8,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_8,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_8,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_8,Los Angeles Chargers,2011
+['Jacob Hester'],Questionable: foot,week_8,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_8,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_8,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_8,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_8,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_8,Los Angeles Chargers,2011
+['Ryan Mathews'],Probable: thumb,week_8,Los Angeles Chargers,2011
+['Marcus McNeill'],Questionable: neck,week_8,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_8,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Questionable: neck,week_8,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_8,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_8,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_8,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_8,Los Angeles Chargers,2011
+['Darrell Stuckey'],Questionable: groin,week_8,Los Angeles Chargers,2011
+['Mike Tolbert'],Doubtful: hand/hamstring,week_8,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_8,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_8,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_9,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_9,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_9,Los Angeles Chargers,2011
+['Curtis Brinkley'],Questionable: concussion,week_9,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_9,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_9,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_9,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_9,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_9,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_9,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_9,Los Angeles Chargers,2011
+['Kris Dielman'],Out: concussion/seizure,week_9,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",Questionable: knee,week_9,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_9,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_9,Los Angeles Chargers,2011
+['Malcom Floyd'],Questionable: hip,week_9,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_9,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_9,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_9,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_9,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_9,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_9,Los Angeles Chargers,2011
+['Tyronne Green'],Questionable: hand,week_9,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_9,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_9,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_9,Los Angeles Chargers,2011
+['Vincent Jackson'],Questionable: hamstring,week_9,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_9,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_9,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_9,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_9,Los Angeles Chargers,2011
+['Ryan Mathews'],Questionable: groin,week_9,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_9,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_9,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_9,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_9,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_9,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_9,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_9,Los Angeles Chargers,2011
+['Darrell Stuckey'],Questionable: groin,week_9,Los Angeles Chargers,2011
+['Mike Tolbert'],Probable: hand/hamstring,week_9,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_9,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_9,Los Angeles Chargers,2011
+['Antwan Barnes'],Questionable: calf,week_10,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_10,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_10,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_10,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_10,Los Angeles Chargers,2011
+['Donald Butler'],Probable: illness,week_10,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_10,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_10,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_10,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_10,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_10,Los Angeles Chargers,2011
+['Kris Dielman'],Out: concussion/seizure,week_10,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",Questionable: knee,week_10,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_10,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_10,Los Angeles Chargers,2011
+['Malcom Floyd'],Questionable: hip,week_10,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_10,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_10,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_10,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_10,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_10,Los Angeles Chargers,2011
+['Richard Goodman'],Questionable: groin,week_10,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_10,Los Angeles Chargers,2011
+['Steve Gregory'],Probable: thigh,week_10,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_10,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_10,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_10,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_10,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_10,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_10,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_10,Los Angeles Chargers,2011
+['Ryan Mathews'],Probable: groin,week_10,Los Angeles Chargers,2011
+['Marcus McNeill'],NA,week_10,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_10,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_10,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_10,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_10,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_10,Los Angeles Chargers,2011
+['Takeo Spikes'],Questionable: arm,week_10,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_10,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_10,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_10,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_10,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_11,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_11,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_11,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_11,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_11,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_11,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_11,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_11,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_11,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_11,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_11,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_11,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_11,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_11,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_11,Los Angeles Chargers,2011
+['Malcom Floyd'],Doubtful: hip,week_11,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_11,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_11,Los Angeles Chargers,2011
+['Antonio Garay'],Questionable: hip,week_11,Los Angeles Chargers,2011
+['Antonio Gates'],Probable: foot,week_11,Los Angeles Chargers,2011
+['Marcus Gilchrist'],Questionable: hamstring,week_11,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_11,Los Angeles Chargers,2011
+['Tyronne Green'],Doubtful: hand,week_11,Los Angeles Chargers,2011
+['Steve Gregory'],Probable: thigh,week_11,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_11,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_11,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_11,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_11,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_11,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_11,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_11,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_11,Los Angeles Chargers,2011
+['Marcus McNeill'],Questionable: neck,week_11,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_11,Los Angeles Chargers,2011
+['Scott Mruczkowski'],NA,week_11,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_11,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_11,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_11,Los Angeles Chargers,2011
+['Takeo Spikes'],Probable: concussion,week_11,Los Angeles Chargers,2011
+['Darrell Stuckey'],Questionable: thigh,week_11,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_11,Los Angeles Chargers,2011
+['Louis Vasquez'],Questionable: ankle,week_11,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_11,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_12,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_12,Los Angeles Chargers,2011
+['Bront Bird'],Probable: ankle,week_12,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_12,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_12,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_12,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_12,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_12,Los Angeles Chargers,2011
+['Jacques Cesaire'],Probable: knee,week_12,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_12,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_12,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_12,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_12,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_12,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_12,Los Angeles Chargers,2011
+['Malcom Floyd'],Questionable: hip,week_12,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_12,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_12,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_12,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_12,Los Angeles Chargers,2011
+['Marcus Gilchrist'],Questionable: hamstring,week_12,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_12,Los Angeles Chargers,2011
+['Tyronne Green'],Questionable: hand,week_12,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_12,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_12,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_12,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_12,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_12,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_12,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_12,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_12,Los Angeles Chargers,2011
+['Ryan Mathews'],Probable: knee,week_12,Los Angeles Chargers,2011
+['Marcus McNeill'],Questionable: neck,week_12,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_12,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_12,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_12,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_12,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_12,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_12,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_12,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_12,Los Angeles Chargers,2011
+['Louis Vasquez'],Questionable: ankle,week_12,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_12,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_13,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_13,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_13,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_13,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_13,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_13,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_13,Los Angeles Chargers,2011
+['Luis Castillo'],Out: knee,week_13,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_13,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_13,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_13,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_13,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",Questionable: chest,week_13,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],Questionable: foot,week_13,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_13,Los Angeles Chargers,2011
+['Malcom Floyd'],Probable: hip,week_13,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_13,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_13,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_13,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_13,Los Angeles Chargers,2011
+['Marcus Gilchrist'],Questionable: hamstring,week_13,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_13,Los Angeles Chargers,2011
+['Tyronne Green'],Probable: hand,week_13,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_13,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_13,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_13,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_13,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_13,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_13,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_13,Los Angeles Chargers,2011
+['Corey Liuget'],Questionable: leg,week_13,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_13,Los Angeles Chargers,2011
+['Marcus McNeill'],Injured Reserve: neck,week_13,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_13,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_13,Los Angeles Chargers,2011
+['Shaun Phillips'],Probable: foot,week_13,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_13,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_13,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_13,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_13,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_13,Los Angeles Chargers,2011
+['Louis Vasquez'],Probable: ankle,week_13,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_13,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_14,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_14,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_14,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_14,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_14,Los Angeles Chargers,2011
+['Donald Butler'],Questionable: foot,week_14,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_14,Los Angeles Chargers,2011
+['Luis Castillo'],Injured Reserve: knee,week_14,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_14,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_14,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_14,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_14,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",Probable: chest,week_14,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],Probable: foot,week_14,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_14,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_14,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_14,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_14,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_14,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_14,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_14,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_14,Los Angeles Chargers,2011
+['Tyronne Green'],Probable: hand,week_14,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_14,Los Angeles Chargers,2011
+['Nick Hardwick'],Probable: neck,week_14,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_14,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_14,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_14,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_14,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_14,Los Angeles Chargers,2011
+['Corey Liuget'],Probable: leg,week_14,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_14,Los Angeles Chargers,2011
+['Marcus McNeill'],Injured Reserve: neck,week_14,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_14,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_14,Los Angeles Chargers,2011
+['Shaun Phillips'],Questionable: foot,week_14,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_14,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_14,Los Angeles Chargers,2011
+['Takeo Spikes'],Probable: back,week_14,Los Angeles Chargers,2011
+['Darrell Stuckey'],Questionable: groin,week_14,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_14,Los Angeles Chargers,2011
+['Louis Vasquez'],Probable: ankle,week_14,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_14,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_15,Los Angeles Chargers,2011
+['Colin Baxter'],Questionable: ankle,week_15,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_15,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_15,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_15,Los Angeles Chargers,2011
+['Donald Butler'],Questionable: foot,week_15,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_15,Los Angeles Chargers,2011
+['Luis Castillo'],Injured Reserve: knee,week_15,Los Angeles Chargers,2011
+['Jacques Cesaire'],Doubtful: ankle,week_15,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_15,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_15,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_15,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_15,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_15,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_15,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_15,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_15,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_15,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_15,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_15,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_15,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_15,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_15,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_15,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_15,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_15,Los Angeles Chargers,2011
+['Vincent Jackson'],NA,week_15,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_15,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_15,Los Angeles Chargers,2011
+['Travis LaBoy'],NA,week_15,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_15,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_15,Los Angeles Chargers,2011
+['Marcus McNeill'],Injured Reserve: neck,week_15,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_15,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_15,Los Angeles Chargers,2011
+['Shaun Phillips'],NA,week_15,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_15,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_15,Los Angeles Chargers,2011
+['Takeo Spikes'],Questionable: back,week_15,Los Angeles Chargers,2011
+['Darrell Stuckey'],Questionable: groin,week_15,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_15,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_15,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_15,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_16,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_16,Los Angeles Chargers,2011
+['Bront Bird'],NA,week_16,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_16,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_16,Los Angeles Chargers,2011
+['Donald Butler'],Questionable: foot,week_16,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_16,Los Angeles Chargers,2011
+['Luis Castillo'],Injured Reserve: knee,week_16,Los Angeles Chargers,2011
+['Jacques Cesaire'],Questionable: ankle,week_16,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_16,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_16,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_16,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_16,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_16,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_16,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_16,Los Angeles Chargers,2011
+['Andrew Gachkar'],NA,week_16,Los Angeles Chargers,2011
+['Jared Gaither'],NA,week_16,Los Angeles Chargers,2011
+['Antonio Garay'],Questionable: toe,week_16,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_16,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_16,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_16,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_16,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_16,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_16,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_16,Los Angeles Chargers,2011
+['Vincent Jackson'],Questionable: groin,week_16,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_16,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_16,Los Angeles Chargers,2011
+['Travis LaBoy'],Questionable: knee,week_16,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_16,Los Angeles Chargers,2011
+['Ryan Mathews'],NA,week_16,Los Angeles Chargers,2011
+['Marcus McNeill'],Injured Reserve: neck,week_16,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_16,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_16,Los Angeles Chargers,2011
+['Shaun Phillips'],Probable: head,week_16,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_16,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_16,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_16,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_16,Los Angeles Chargers,2011
+['Mike Tolbert'],NA,week_16,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_16,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_16,Los Angeles Chargers,2011
+['Antwan Barnes'],NA,week_17,Los Angeles Chargers,2011
+['Colin Baxter'],NA,week_17,Los Angeles Chargers,2011
+['Bront Bird'],Injured Reserve: knee,week_17,Los Angeles Chargers,2011
+['Curtis Brinkley'],NA,week_17,Los Angeles Chargers,2011
+['Vincent Brown'],NA,week_17,Los Angeles Chargers,2011
+['Donald Butler'],NA,week_17,Los Angeles Chargers,2011
+['Antoine Cason'],NA,week_17,Los Angeles Chargers,2011
+['Luis Castillo'],Injured Reserve: knee,week_17,Los Angeles Chargers,2011
+['Jacques Cesaire'],NA,week_17,Los Angeles Chargers,2011
+['Stephen Cooper'],Injured Reserve: biceps,week_17,Los Angeles Chargers,2011
+['Patrick Crayton'],NA,week_17,Los Angeles Chargers,2011
+['Kris Dielman'],Injured Reserve: concussion,week_17,Los Angeles Chargers,2011
+"[""Na'il Diggs""]",NA,week_17,Los Angeles Chargers,2011
+['Brandyn Dombrowski'],NA,week_17,Los Angeles Chargers,2011
+['Larry English'],Injured Reserve: foot,week_17,Los Angeles Chargers,2011
+['Malcom Floyd'],NA,week_17,Los Angeles Chargers,2011
+['Andrew Gachkar'],Probable: hamstring,week_17,Los Angeles Chargers,2011
+['Jared Gaither'],Probable: ankle,week_17,Los Angeles Chargers,2011
+['Antonio Garay'],NA,week_17,Los Angeles Chargers,2011
+['Antonio Gates'],NA,week_17,Los Angeles Chargers,2011
+['Marcus Gilchrist'],NA,week_17,Los Angeles Chargers,2011
+['Richard Goodman'],NA,week_17,Los Angeles Chargers,2011
+['Tyronne Green'],NA,week_17,Los Angeles Chargers,2011
+['Steve Gregory'],NA,week_17,Los Angeles Chargers,2011
+['Nick Hardwick'],NA,week_17,Los Angeles Chargers,2011
+['Jacob Hester'],NA,week_17,Los Angeles Chargers,2011
+['Vincent Jackson'],Doubtful: groin,week_17,Los Angeles Chargers,2011
+['Quentin Jammer'],NA,week_17,Los Angeles Chargers,2011
+['Nate Kaeding'],Injured Reserve: left knee,week_17,Los Angeles Chargers,2011
+['Travis LaBoy'],Questionable: knee,week_17,Los Angeles Chargers,2011
+['Corey Liuget'],NA,week_17,Los Angeles Chargers,2011
+['Ryan Mathews'],Probable: calf,week_17,Los Angeles Chargers,2011
+['Marcus McNeill'],Injured Reserve: neck,week_17,Los Angeles Chargers,2011
+['Jonas Mouton'],Injured Reserve: shoulder,week_17,Los Angeles Chargers,2011
+['Scott Mruczkowski'],Injured Reserve: concussion,week_17,Los Angeles Chargers,2011
+['Shaun Phillips'],Probable: back,week_17,Los Angeles Chargers,2011
+['Nick Polk'],Injured Reserve: hand,week_17,Los Angeles Chargers,2011
+['Bob Sanders'],Injured Reserve: knee,week_17,Los Angeles Chargers,2011
+['Takeo Spikes'],NA,week_17,Los Angeles Chargers,2011
+['Darrell Stuckey'],NA,week_17,Los Angeles Chargers,2011
+['Mike Tolbert'],Questionable: hamstring,week_17,Los Angeles Chargers,2011
+['Louis Vasquez'],NA,week_17,Los Angeles Chargers,2011
+['Shareece Wright'],NA,week_17,Los Angeles Chargers,2011

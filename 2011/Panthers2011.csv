@@ -1,0 +1,641 @@
+﻿name,injury,week,team,year
+['James Anderson'],NA,week_1,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_1,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_1,Carolina Panthers,2011
+['Jon Beason'],Questionable: Achilles,week_1,Carolina Panthers,2011
+['Mackenzy Bernadeau'],Questionable: foot,week_1,Carolina Panthers,2011
+['Bryant Browning'],NA,week_1,Carolina Panthers,2011
+['Darius Butler'],NA,week_1,Carolina Panthers,2011
+['Dan Connor'],NA,week_1,Carolina Panthers,2011
+['Thomas Davis'],NA,week_1,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_1,Carolina Panthers,2011
+['Sione Fua'],NA,week_1,Carolina Panthers,2011
+['Omar Gaither'],NA,week_1,Carolina Panthers,2011
+['Chris Gamble'],NA,week_1,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_1,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_1,Carolina Panthers,2011
+['Mike Goodson'],NA,week_1,Carolina Panthers,2011
+['Jordan Gross'],NA,week_1,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_1,Carolina Panthers,2011
+['Greg Hardy'],Probable: abdominal,week_1,Carolina Panthers,2011
+['Jermale Hines'],NA,week_1,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_1,Carolina Panthers,2011
+['Charles Johnson'],NA,week_1,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_1,Carolina Panthers,2011
+['Terrell McClain'],NA,week_1,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_1,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_1,Carolina Panthers,2011
+['Andre Neblett'],NA,week_1,Carolina Panthers,2011
+['Cam Newton'],NA,week_1,Carolina Panthers,2011
+['Greg Olsen'],NA,week_1,Carolina Panthers,2011
+['Jeff Otah'],Questionable: knee,week_1,Carolina Panthers,2011
+['Jason Phillips'],NA,week_1,Carolina Panthers,2011
+['Kealoha Pilares'],Doubtful: ankle,week_1,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_1,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_1,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_1,Carolina Panthers,2011
+['Josh Thomas'],Out: thigh,week_1,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_1,Carolina Panthers,2011
+['Thomas Williams'],NA,week_1,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_1,Carolina Panthers,2011
+['Kion Wilson'],NA,week_1,Carolina Panthers,2011
+['James Anderson'],NA,week_2,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_2,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_2,Carolina Panthers,2011
+['Jon Beason'],Out: Achilles,week_2,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_2,Carolina Panthers,2011
+['Bryant Browning'],NA,week_2,Carolina Panthers,2011
+['Darius Butler'],NA,week_2,Carolina Panthers,2011
+['Dan Connor'],NA,week_2,Carolina Panthers,2011
+['Thomas Davis'],Questionable: groin,week_2,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_2,Carolina Panthers,2011
+['Sione Fua'],NA,week_2,Carolina Panthers,2011
+['Omar Gaither'],NA,week_2,Carolina Panthers,2011
+['Chris Gamble'],NA,week_2,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_2,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_2,Carolina Panthers,2011
+['Mike Goodson'],NA,week_2,Carolina Panthers,2011
+['Jordan Gross'],NA,week_2,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_2,Carolina Panthers,2011
+['Greg Hardy'],NA,week_2,Carolina Panthers,2011
+['Jermale Hines'],NA,week_2,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_2,Carolina Panthers,2011
+['Charles Johnson'],NA,week_2,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_2,Carolina Panthers,2011
+['Terrell McClain'],NA,week_2,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_2,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_2,Carolina Panthers,2011
+['Andre Neblett'],NA,week_2,Carolina Panthers,2011
+['Cam Newton'],NA,week_2,Carolina Panthers,2011
+['Greg Olsen'],NA,week_2,Carolina Panthers,2011
+['Jeff Otah'],Questionable: head,week_2,Carolina Panthers,2011
+['Jason Phillips'],NA,week_2,Carolina Panthers,2011
+['Kealoha Pilares'],Probable: ankle,week_2,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_2,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_2,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_2,Carolina Panthers,2011
+['Josh Thomas'],Probable: thigh,week_2,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_2,Carolina Panthers,2011
+['Thomas Williams'],NA,week_2,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_2,Carolina Panthers,2011
+['Kion Wilson'],NA,week_2,Carolina Panthers,2011
+['James Anderson'],NA,week_3,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_3,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_3,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_3,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_3,Carolina Panthers,2011
+['Bryant Browning'],NA,week_3,Carolina Panthers,2011
+['Darius Butler'],NA,week_3,Carolina Panthers,2011
+['Dan Connor'],NA,week_3,Carolina Panthers,2011
+['Thomas Davis'],Out: knee,week_3,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_3,Carolina Panthers,2011
+['Sione Fua'],NA,week_3,Carolina Panthers,2011
+['Omar Gaither'],NA,week_3,Carolina Panthers,2011
+['Chris Gamble'],Questionable: ankle,week_3,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_3,Carolina Panthers,2011
+['Charles Godfrey'],Doubtful: concussion,week_3,Carolina Panthers,2011
+['Mike Goodson'],NA,week_3,Carolina Panthers,2011
+['Jordan Gross'],NA,week_3,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_3,Carolina Panthers,2011
+['Greg Hardy'],NA,week_3,Carolina Panthers,2011
+['Jermale Hines'],NA,week_3,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_3,Carolina Panthers,2011
+['Charles Johnson'],NA,week_3,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_3,Carolina Panthers,2011
+['Terrell McClain'],NA,week_3,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_3,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_3,Carolina Panthers,2011
+['Andre Neblett'],NA,week_3,Carolina Panthers,2011
+['Cam Newton'],Probable: ankle,week_3,Carolina Panthers,2011
+['Greg Olsen'],NA,week_3,Carolina Panthers,2011
+['Jeff Otah'],Questionable: head,week_3,Carolina Panthers,2011
+['Jason Phillips'],NA,week_3,Carolina Panthers,2011
+['Kealoha Pilares'],Questionable: ankle,week_3,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_3,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_3,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_3,Carolina Panthers,2011
+['Josh Thomas'],Questionable: thigh,week_3,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_3,Carolina Panthers,2011
+['Thomas Williams'],NA,week_3,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_3,Carolina Panthers,2011
+['Kion Wilson'],NA,week_3,Carolina Panthers,2011
+['James Anderson'],NA,week_4,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_4,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_4,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_4,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_4,Carolina Panthers,2011
+['Bryant Browning'],NA,week_4,Carolina Panthers,2011
+['Darius Butler'],NA,week_4,Carolina Panthers,2011
+['Dan Connor'],NA,week_4,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_4,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_4,Carolina Panthers,2011
+['Sione Fua'],NA,week_4,Carolina Panthers,2011
+['Omar Gaither'],NA,week_4,Carolina Panthers,2011
+['Chris Gamble'],Questionable: head,week_4,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_4,Carolina Panthers,2011
+['Charles Godfrey'],Probable: concussion,week_4,Carolina Panthers,2011
+['Mike Goodson'],NA,week_4,Carolina Panthers,2011
+['Jordan Gross'],NA,week_4,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_4,Carolina Panthers,2011
+['Greg Hardy'],NA,week_4,Carolina Panthers,2011
+['Jermale Hines'],NA,week_4,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_4,Carolina Panthers,2011
+['Charles Johnson'],NA,week_4,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_4,Carolina Panthers,2011
+['Terrell McClain'],NA,week_4,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_4,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_4,Carolina Panthers,2011
+['Andre Neblett'],NA,week_4,Carolina Panthers,2011
+['Cam Newton'],NA,week_4,Carolina Panthers,2011
+['Greg Olsen'],NA,week_4,Carolina Panthers,2011
+['Jeff Otah'],Questionable: back,week_4,Carolina Panthers,2011
+['Jason Phillips'],NA,week_4,Carolina Panthers,2011
+['Kealoha Pilares'],Questionable: ankle,week_4,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_4,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_4,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_4,Carolina Panthers,2011
+['Josh Thomas'],Questionable: thigh,week_4,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_4,Carolina Panthers,2011
+['Thomas Williams'],NA,week_4,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_4,Carolina Panthers,2011
+['Kion Wilson'],NA,week_4,Carolina Panthers,2011
+['James Anderson'],NA,week_5,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_5,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_5,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_5,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_5,Carolina Panthers,2011
+['Bryant Browning'],NA,week_5,Carolina Panthers,2011
+['Darius Butler'],NA,week_5,Carolina Panthers,2011
+['Dan Connor'],NA,week_5,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_5,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_5,Carolina Panthers,2011
+['Sione Fua'],NA,week_5,Carolina Panthers,2011
+['Omar Gaither'],NA,week_5,Carolina Panthers,2011
+['Chris Gamble'],Probable: head,week_5,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_5,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_5,Carolina Panthers,2011
+['Mike Goodson'],Questionable: illness,week_5,Carolina Panthers,2011
+['Jordan Gross'],NA,week_5,Carolina Panthers,2011
+['Geoff Hangartner'],Probable: back,week_5,Carolina Panthers,2011
+['Greg Hardy'],NA,week_5,Carolina Panthers,2011
+['Jermale Hines'],NA,week_5,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_5,Carolina Panthers,2011
+['Charles Johnson'],NA,week_5,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_5,Carolina Panthers,2011
+['Terrell McClain'],NA,week_5,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_5,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_5,Carolina Panthers,2011
+['Andre Neblett'],NA,week_5,Carolina Panthers,2011
+['Cam Newton'],NA,week_5,Carolina Panthers,2011
+['Greg Olsen'],NA,week_5,Carolina Panthers,2011
+['Jeff Otah'],Probable: back,week_5,Carolina Panthers,2011
+['Jason Phillips'],NA,week_5,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_5,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_5,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_5,Carolina Panthers,2011
+['Jeremy Shockey'],Questionable: finger/concussion,week_5,Carolina Panthers,2011
+['Josh Thomas'],NA,week_5,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_5,Carolina Panthers,2011
+['Thomas Williams'],NA,week_5,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_5,Carolina Panthers,2011
+['Kion Wilson'],NA,week_5,Carolina Panthers,2011
+['James Anderson'],NA,week_6,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_6,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_6,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_6,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_6,Carolina Panthers,2011
+['Bryant Browning'],NA,week_6,Carolina Panthers,2011
+['Darius Butler'],NA,week_6,Carolina Panthers,2011
+['Dan Connor'],NA,week_6,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_6,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_6,Carolina Panthers,2011
+['Sione Fua'],NA,week_6,Carolina Panthers,2011
+['Omar Gaither'],Out: knee,week_6,Carolina Panthers,2011
+['Chris Gamble'],NA,week_6,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_6,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_6,Carolina Panthers,2011
+['Mike Goodson'],Questionable: illness,week_6,Carolina Panthers,2011
+['Jordan Gross'],NA,week_6,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_6,Carolina Panthers,2011
+['Greg Hardy'],NA,week_6,Carolina Panthers,2011
+['Jermale Hines'],Questionable: illness,week_6,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_6,Carolina Panthers,2011
+['Charles Johnson'],Questionable: hip,week_6,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_6,Carolina Panthers,2011
+['Terrell McClain'],NA,week_6,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_6,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_6,Carolina Panthers,2011
+['Andre Neblett'],NA,week_6,Carolina Panthers,2011
+['Cam Newton'],NA,week_6,Carolina Panthers,2011
+['Greg Olsen'],NA,week_6,Carolina Panthers,2011
+['Jeff Otah'],Questionable: back,week_6,Carolina Panthers,2011
+['Jason Phillips'],NA,week_6,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_6,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_6,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_6,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_6,Carolina Panthers,2011
+['Josh Thomas'],NA,week_6,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_6,Carolina Panthers,2011
+['Thomas Williams'],NA,week_6,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_6,Carolina Panthers,2011
+['Kion Wilson'],NA,week_6,Carolina Panthers,2011
+['James Anderson'],NA,week_7,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_7,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_7,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_7,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_7,Carolina Panthers,2011
+['Bryant Browning'],NA,week_7,Carolina Panthers,2011
+['Darius Butler'],NA,week_7,Carolina Panthers,2011
+['Dan Connor'],NA,week_7,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_7,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_7,Carolina Panthers,2011
+['Sione Fua'],NA,week_7,Carolina Panthers,2011
+['Omar Gaither'],Out: knee,week_7,Carolina Panthers,2011
+['Chris Gamble'],NA,week_7,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_7,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_7,Carolina Panthers,2011
+['Mike Goodson'],NA,week_7,Carolina Panthers,2011
+['Jordan Gross'],NA,week_7,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_7,Carolina Panthers,2011
+['Greg Hardy'],NA,week_7,Carolina Panthers,2011
+['Jermale Hines'],NA,week_7,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_7,Carolina Panthers,2011
+['Charles Johnson'],NA,week_7,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_7,Carolina Panthers,2011
+['Terrell McClain'],NA,week_7,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_7,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_7,Carolina Panthers,2011
+['Andre Neblett'],NA,week_7,Carolina Panthers,2011
+['Cam Newton'],NA,week_7,Carolina Panthers,2011
+['Greg Olsen'],Probable: toe,week_7,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_7,Carolina Panthers,2011
+['Jason Phillips'],NA,week_7,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_7,Carolina Panthers,2011
+['Jordan Pugh'],Questionable: head,week_7,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_7,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_7,Carolina Panthers,2011
+['Josh Thomas'],NA,week_7,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_7,Carolina Panthers,2011
+['Thomas Williams'],Probable: head,week_7,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_7,Carolina Panthers,2011
+['Kion Wilson'],NA,week_7,Carolina Panthers,2011
+['James Anderson'],NA,week_8,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_8,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_8,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_8,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_8,Carolina Panthers,2011
+['Bryant Browning'],NA,week_8,Carolina Panthers,2011
+['Darius Butler'],NA,week_8,Carolina Panthers,2011
+['Dan Connor'],NA,week_8,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_8,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_8,Carolina Panthers,2011
+['Sione Fua'],NA,week_8,Carolina Panthers,2011
+['Omar Gaither'],Probable: knee,week_8,Carolina Panthers,2011
+['Chris Gamble'],NA,week_8,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_8,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_8,Carolina Panthers,2011
+['Mike Goodson'],NA,week_8,Carolina Panthers,2011
+['Jordan Gross'],NA,week_8,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_8,Carolina Panthers,2011
+['Greg Hardy'],NA,week_8,Carolina Panthers,2011
+['Jermale Hines'],NA,week_8,Carolina Panthers,2011
+['Brandon Hogan'],Physically Unable to Perform: knee,week_8,Carolina Panthers,2011
+['Charles Johnson'],NA,week_8,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_8,Carolina Panthers,2011
+['Terrell McClain'],NA,week_8,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_8,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_8,Carolina Panthers,2011
+['Andre Neblett'],NA,week_8,Carolina Panthers,2011
+['Cam Newton'],Probable: illness,week_8,Carolina Panthers,2011
+['Greg Olsen'],NA,week_8,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_8,Carolina Panthers,2011
+['Jason Phillips'],NA,week_8,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_8,Carolina Panthers,2011
+['Jordan Pugh'],Questionable: head,week_8,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_8,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_8,Carolina Panthers,2011
+['Josh Thomas'],NA,week_8,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_8,Carolina Panthers,2011
+['Thomas Williams'],NA,week_8,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_8,Carolina Panthers,2011
+['Kion Wilson'],NA,week_8,Carolina Panthers,2011
+['James Anderson'],Questionable: ankle,week_10,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_10,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_10,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_10,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_10,Carolina Panthers,2011
+['Bryant Browning'],NA,week_10,Carolina Panthers,2011
+['Darius Butler'],NA,week_10,Carolina Panthers,2011
+['Dan Connor'],NA,week_10,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_10,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_10,Carolina Panthers,2011
+['Sione Fua'],NA,week_10,Carolina Panthers,2011
+['Omar Gaither'],Probable: leg,week_10,Carolina Panthers,2011
+['Chris Gamble'],NA,week_10,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_10,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_10,Carolina Panthers,2011
+['Mike Goodson'],Out: hamstring,week_10,Carolina Panthers,2011
+['Jordan Gross'],NA,week_10,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_10,Carolina Panthers,2011
+['Greg Hardy'],NA,week_10,Carolina Panthers,2011
+['Jermale Hines'],NA,week_10,Carolina Panthers,2011
+['Brandon Hogan'],Probable: knee,week_10,Carolina Panthers,2011
+['Charles Johnson'],NA,week_10,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_10,Carolina Panthers,2011
+['Terrell McClain'],NA,week_10,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_10,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_10,Carolina Panthers,2011
+['Andre Neblett'],NA,week_10,Carolina Panthers,2011
+['Cam Newton'],Probable: right shoulder,week_10,Carolina Panthers,2011
+['Greg Olsen'],NA,week_10,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_10,Carolina Panthers,2011
+['Jason Phillips'],Doubtful: calf,week_10,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_10,Carolina Panthers,2011
+['Jordan Pugh'],Questionable: head,week_10,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_10,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_10,Carolina Panthers,2011
+['Josh Thomas'],NA,week_10,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_10,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_10,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_10,Carolina Panthers,2011
+['Kion Wilson'],NA,week_10,Carolina Panthers,2011
+['James Anderson'],Questionable: ankle,week_11,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_11,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_11,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_11,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_11,Carolina Panthers,2011
+['Bryant Browning'],NA,week_11,Carolina Panthers,2011
+['Darius Butler'],NA,week_11,Carolina Panthers,2011
+['Dan Connor'],Questionable: shoulder,week_11,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_11,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_11,Carolina Panthers,2011
+['Sione Fua'],NA,week_11,Carolina Panthers,2011
+['Omar Gaither'],NA,week_11,Carolina Panthers,2011
+['Chris Gamble'],NA,week_11,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_11,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_11,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_11,Carolina Panthers,2011
+['Jordan Gross'],NA,week_11,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_11,Carolina Panthers,2011
+['Greg Hardy'],NA,week_11,Carolina Panthers,2011
+['Jermale Hines'],NA,week_11,Carolina Panthers,2011
+['Brandon Hogan'],Questionable: knee,week_11,Carolina Panthers,2011
+['Charles Johnson'],NA,week_11,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_11,Carolina Panthers,2011
+['Terrell McClain'],NA,week_11,Carolina Panthers,2011
+['Captain Munnerlyn'],Questionable: quadricep,week_11,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_11,Carolina Panthers,2011
+['Andre Neblett'],NA,week_11,Carolina Panthers,2011
+['Cam Newton'],NA,week_11,Carolina Panthers,2011
+['Greg Olsen'],NA,week_11,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_11,Carolina Panthers,2011
+['Jason Phillips'],Questionable: calf,week_11,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_11,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_11,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_11,Carolina Panthers,2011
+['Jeremy Shockey'],Questionable: ribs,week_11,Carolina Panthers,2011
+['Josh Thomas'],NA,week_11,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_11,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_11,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_11,Carolina Panthers,2011
+['Kion Wilson'],NA,week_11,Carolina Panthers,2011
+['James Anderson'],Questionable: ankle,week_12,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_12,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_12,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_12,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_12,Carolina Panthers,2011
+['Bryant Browning'],NA,week_12,Carolina Panthers,2011
+['Darius Butler'],NA,week_12,Carolina Panthers,2011
+['Dan Connor'],Questionable: shoulder,week_12,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_12,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_12,Carolina Panthers,2011
+['Sione Fua'],NA,week_12,Carolina Panthers,2011
+['Omar Gaither'],Questionable: knee,week_12,Carolina Panthers,2011
+['Chris Gamble'],NA,week_12,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_12,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_12,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_12,Carolina Panthers,2011
+['Jordan Gross'],NA,week_12,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_12,Carolina Panthers,2011
+['Greg Hardy'],NA,week_12,Carolina Panthers,2011
+['Jermale Hines'],NA,week_12,Carolina Panthers,2011
+['Brandon Hogan'],Questionable: knee,week_12,Carolina Panthers,2011
+['Charles Johnson'],Questionable: shoulder,week_12,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_12,Carolina Panthers,2011
+['Terrell McClain'],NA,week_12,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_12,Carolina Panthers,2011
+['Legedu Naanee'],Questionable: Achilles,week_12,Carolina Panthers,2011
+['Andre Neblett'],NA,week_12,Carolina Panthers,2011
+['Cam Newton'],NA,week_12,Carolina Panthers,2011
+['Greg Olsen'],Probable: undisclosed,week_12,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_12,Carolina Panthers,2011
+['Jason Phillips'],Questionable: calf,week_12,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_12,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_12,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_12,Carolina Panthers,2011
+['Jeremy Shockey'],Questionable: ribs,week_12,Carolina Panthers,2011
+['Josh Thomas'],NA,week_12,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_12,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_12,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_12,Carolina Panthers,2011
+['Kion Wilson'],NA,week_12,Carolina Panthers,2011
+['James Anderson'],NA,week_13,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_13,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_13,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_13,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_13,Carolina Panthers,2011
+['Bryant Browning'],NA,week_13,Carolina Panthers,2011
+['Darius Butler'],NA,week_13,Carolina Panthers,2011
+['Dan Connor'],NA,week_13,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_13,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_13,Carolina Panthers,2011
+['Sione Fua'],NA,week_13,Carolina Panthers,2011
+['Omar Gaither'],Questionable: knee,week_13,Carolina Panthers,2011
+['Chris Gamble'],NA,week_13,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_13,Carolina Panthers,2011
+['Charles Godfrey'],NA,week_13,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_13,Carolina Panthers,2011
+['Jordan Gross'],NA,week_13,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_13,Carolina Panthers,2011
+['Greg Hardy'],NA,week_13,Carolina Panthers,2011
+['Jermale Hines'],NA,week_13,Carolina Panthers,2011
+['Brandon Hogan'],NA,week_13,Carolina Panthers,2011
+['Charles Johnson'],NA,week_13,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_13,Carolina Panthers,2011
+['Terrell McClain'],NA,week_13,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_13,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_13,Carolina Panthers,2011
+['Andre Neblett'],NA,week_13,Carolina Panthers,2011
+['Cam Newton'],NA,week_13,Carolina Panthers,2011
+['Greg Olsen'],NA,week_13,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_13,Carolina Panthers,2011
+['Jason Phillips'],Questionable: calf,week_13,Carolina Panthers,2011
+['Kealoha Pilares'],Questionable: thigh,week_13,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_13,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_13,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_13,Carolina Panthers,2011
+['Josh Thomas'],NA,week_13,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_13,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_13,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_13,Carolina Panthers,2011
+['Kion Wilson'],NA,week_13,Carolina Panthers,2011
+['James Anderson'],NA,week_14,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_14,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_14,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_14,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_14,Carolina Panthers,2011
+['Bryant Browning'],NA,week_14,Carolina Panthers,2011
+['Darius Butler'],NA,week_14,Carolina Panthers,2011
+['Dan Connor'],NA,week_14,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_14,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_14,Carolina Panthers,2011
+['Sione Fua'],Injured Reserve: hamstring,week_14,Carolina Panthers,2011
+['Omar Gaither'],Questionable: knee,week_14,Carolina Panthers,2011
+['Chris Gamble'],NA,week_14,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_14,Carolina Panthers,2011
+['Charles Godfrey'],Questionable: shoulder,week_14,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_14,Carolina Panthers,2011
+['Jordan Gross'],Questionable: ankle,week_14,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_14,Carolina Panthers,2011
+['Greg Hardy'],NA,week_14,Carolina Panthers,2011
+['Jermale Hines'],NA,week_14,Carolina Panthers,2011
+['Brandon Hogan'],NA,week_14,Carolina Panthers,2011
+['Charles Johnson'],NA,week_14,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_14,Carolina Panthers,2011
+['Terrell McClain'],Injured Reserve: knee,week_14,Carolina Panthers,2011
+['Captain Munnerlyn'],NA,week_14,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_14,Carolina Panthers,2011
+['Andre Neblett'],NA,week_14,Carolina Panthers,2011
+['Cam Newton'],NA,week_14,Carolina Panthers,2011
+['Greg Olsen'],Probable: knee,week_14,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_14,Carolina Panthers,2011
+['Jason Phillips'],Questionable: calf,week_14,Carolina Panthers,2011
+['Kealoha Pilares'],Probable: thigh,week_14,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_14,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_14,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_14,Carolina Panthers,2011
+['Josh Thomas'],NA,week_14,Carolina Panthers,2011
+['Travelle Wharton'],Probable: back,week_14,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_14,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_14,Carolina Panthers,2011
+['Kion Wilson'],Questionable: calf,week_14,Carolina Panthers,2011
+['James Anderson'],NA,week_15,Carolina Panthers,2011
+['Antwan Applewhite'],Probable: hamstring,week_15,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_15,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_15,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_15,Carolina Panthers,2011
+['Bryant Browning'],Out: wrist,week_15,Carolina Panthers,2011
+['Darius Butler'],Questionable: head,week_15,Carolina Panthers,2011
+['Dan Connor'],NA,week_15,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_15,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_15,Carolina Panthers,2011
+['Sione Fua'],Injured Reserve: hamstring,week_15,Carolina Panthers,2011
+['Omar Gaither'],NA,week_15,Carolina Panthers,2011
+['Chris Gamble'],NA,week_15,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_15,Carolina Panthers,2011
+['Charles Godfrey'],Questionable: shoulder,week_15,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_15,Carolina Panthers,2011
+['Jordan Gross'],Questionable: ankle,week_15,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_15,Carolina Panthers,2011
+['Greg Hardy'],NA,week_15,Carolina Panthers,2011
+['Jermale Hines'],NA,week_15,Carolina Panthers,2011
+['Brandon Hogan'],NA,week_15,Carolina Panthers,2011
+['Charles Johnson'],NA,week_15,Carolina Panthers,2011
+['Ryan Kalil'],Probable: shoulder,week_15,Carolina Panthers,2011
+['Terrell McClain'],Injured Reserve: knee,week_15,Carolina Panthers,2011
+['Captain Munnerlyn'],Questionable: ankle,week_15,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_15,Carolina Panthers,2011
+['Andre Neblett'],NA,week_15,Carolina Panthers,2011
+['Cam Newton'],NA,week_15,Carolina Panthers,2011
+['Greg Olsen'],Probable: back,week_15,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_15,Carolina Panthers,2011
+['Jason Phillips'],Injured Reserve: calf,week_15,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_15,Carolina Panthers,2011
+['Jordan Pugh'],NA,week_15,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_15,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_15,Carolina Panthers,2011
+['Josh Thomas'],NA,week_15,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_15,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_15,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_15,Carolina Panthers,2011
+['Kion Wilson'],Probable: calf,week_15,Carolina Panthers,2011
+['James Anderson'],NA,week_16,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_16,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_16,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_16,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_16,Carolina Panthers,2011
+['Bryant Browning'],Injured Reserve: wrist,week_16,Carolina Panthers,2011
+['Darius Butler'],Questionable: head,week_16,Carolina Panthers,2011
+['Dan Connor'],NA,week_16,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_16,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_16,Carolina Panthers,2011
+['Sione Fua'],Injured Reserve: hamstring,week_16,Carolina Panthers,2011
+['Omar Gaither'],NA,week_16,Carolina Panthers,2011
+['Chris Gamble'],NA,week_16,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_16,Carolina Panthers,2011
+['Charles Godfrey'],Questionable: shoulder,week_16,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_16,Carolina Panthers,2011
+['Jordan Gross'],Questionable: ankle,week_16,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_16,Carolina Panthers,2011
+['Greg Hardy'],Probable: illness,week_16,Carolina Panthers,2011
+['Jermale Hines'],NA,week_16,Carolina Panthers,2011
+['Brandon Hogan'],NA,week_16,Carolina Panthers,2011
+['Charles Johnson'],Questionable: back,week_16,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_16,Carolina Panthers,2011
+['Terrell McClain'],Injured Reserve: knee,week_16,Carolina Panthers,2011
+['Captain Munnerlyn'],Questionable: ankle,week_16,Carolina Panthers,2011
+['Legedu Naanee'],NA,week_16,Carolina Panthers,2011
+['Andre Neblett'],NA,week_16,Carolina Panthers,2011
+['Cam Newton'],NA,week_16,Carolina Panthers,2011
+['Greg Olsen'],NA,week_16,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_16,Carolina Panthers,2011
+['Jason Phillips'],Injured Reserve: calf,week_16,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_16,Carolina Panthers,2011
+['Jordan Pugh'],Questionable: head,week_16,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_16,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_16,Carolina Panthers,2011
+['Josh Thomas'],NA,week_16,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_16,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_16,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_16,Carolina Panthers,2011
+['Kion Wilson'],Questionable: calf,week_16,Carolina Panthers,2011
+['James Anderson'],NA,week_17,Carolina Panthers,2011
+['Antwan Applewhite'],NA,week_17,Carolina Panthers,2011
+['Gary Barnidge'],Injured Reserve: ankle,week_17,Carolina Panthers,2011
+['Jon Beason'],Injured Reserve: Achilles,week_17,Carolina Panthers,2011
+['Mackenzy Bernadeau'],NA,week_17,Carolina Panthers,2011
+['Bryant Browning'],Injured Reserve: wrist,week_17,Carolina Panthers,2011
+['Darius Butler'],NA,week_17,Carolina Panthers,2011
+['Dan Connor'],NA,week_17,Carolina Panthers,2011
+['Thomas Davis'],Injured Reserve: knee,week_17,Carolina Panthers,2011
+['Ron Edwards'],Injured Reserve: triceps,week_17,Carolina Panthers,2011
+['Sione Fua'],Injured Reserve: hamstring,week_17,Carolina Panthers,2011
+['Omar Gaither'],NA,week_17,Carolina Panthers,2011
+['Chris Gamble'],NA,week_17,Carolina Panthers,2011
+['David Gettis'],Injured Reserve: knee,week_17,Carolina Panthers,2011
+['Charles Godfrey'],Questionable: shoulder,week_17,Carolina Panthers,2011
+['Mike Goodson'],Injured Reserve: hamstring,week_17,Carolina Panthers,2011
+['Jordan Gross'],NA,week_17,Carolina Panthers,2011
+['Geoff Hangartner'],NA,week_17,Carolina Panthers,2011
+['Greg Hardy'],NA,week_17,Carolina Panthers,2011
+['Jermale Hines'],NA,week_17,Carolina Panthers,2011
+['Brandon Hogan'],NA,week_17,Carolina Panthers,2011
+['Charles Johnson'],Questionable: back,week_17,Carolina Panthers,2011
+['Ryan Kalil'],NA,week_17,Carolina Panthers,2011
+['Terrell McClain'],Injured Reserve: knee,week_17,Carolina Panthers,2011
+['Captain Munnerlyn'],Injured Reserve: hamstring,week_17,Carolina Panthers,2011
+['Legedu Naanee'],Out: foot,week_17,Carolina Panthers,2011
+['Andre Neblett'],Questionable: head,week_17,Carolina Panthers,2011
+['Cam Newton'],NA,week_17,Carolina Panthers,2011
+['Greg Olsen'],NA,week_17,Carolina Panthers,2011
+['Jeff Otah'],Injured Reserve: back/knee,week_17,Carolina Panthers,2011
+['Jason Phillips'],Injured Reserve: calf,week_17,Carolina Panthers,2011
+['Kealoha Pilares'],NA,week_17,Carolina Panthers,2011
+['Jordan Pugh'],Questionable: head,week_17,Carolina Panthers,2011
+['Geoff Schwartz'],Injured Reserve: hip,week_17,Carolina Panthers,2011
+['Jeremy Shockey'],NA,week_17,Carolina Panthers,2011
+['Josh Thomas'],NA,week_17,Carolina Panthers,2011
+['Travelle Wharton'],NA,week_17,Carolina Panthers,2011
+['Thomas Williams'],Injured Reserve: neck,week_17,Carolina Panthers,2011
+['Zack Williams'],Injured Reserve: knee,week_17,Carolina Panthers,2011
+['Kion Wilson'],NA,week_17,Carolina Panthers,2011

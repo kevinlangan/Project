@@ -1,0 +1,577 @@
+﻿name,injury,week,team,year
+['Eugene Amano'],NA,week_1,Tennessee Titans,2011
+['Donnie Avery'],NA,week_1,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_1,Tennessee Titans,2011
+['Dave Ball'],NA,week_1,Tennessee Titans,2011
+['Rob Bironas'],NA,week_1,Tennessee Titans,2011
+['Kenny Britt'],NA,week_1,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_1,Tennessee Titans,2011
+['Jared Cook'],NA,week_1,Tennessee Titans,2011
+['Daniel Graham'],NA,week_1,Tennessee Titans,2011
+['Michael Griffin'],NA,week_1,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_1,Tennessee Titans,2011
+['Leroy Harris'],NA,week_1,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_1,Tennessee Titans,2011
+['Lavelle Hawkins'],Probable: foot,week_1,Tennessee Titans,2011
+['William Hayes'],NA,week_1,Tennessee Titans,2011
+['Chris Hope'],NA,week_1,Tennessee Titans,2011
+['Chris Johnson'],NA,week_1,Tennessee Titans,2011
+['Jason Jones'],Questionable: knee,week_1,Tennessee Titans,2011
+['Karl Klug'],NA,week_1,Tennessee Titans,2011
+['Jake Locker'],NA,week_1,Tennessee Titans,2011
+['Marc Mariani'],NA,week_1,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_1,Tennessee Titans,2011
+['Jason McCourty'],NA,week_1,Tennessee Titans,2011
+['Gerald McRath'],NA,week_1,Tennessee Titans,2011
+['Derrick Morgan'],Out: knee,week_1,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_1,Tennessee Titans,2011
+['Javon Ringer'],Questionable: hip/back,week_1,Tennessee Titans,2011
+['Michael Roos'],NA,week_1,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_1,Tennessee Titans,2011
+['Jake Scott'],NA,week_1,Tennessee Titans,2011
+['Anthony Smith'],NA,week_1,Tennessee Titans,2011
+['Shaun Smith'],NA,week_1,Tennessee Titans,2011
+['Craig Stevens'],NA,week_1,Tennessee Titans,2011
+['David Stewart'],NA,week_1,Tennessee Titans,2011
+['Nate Washington'],NA,week_1,Tennessee Titans,2011
+['Damian Williams'],NA,week_1,Tennessee Titans,2011
+['Eugene Amano'],NA,week_2,Tennessee Titans,2011
+['Donnie Avery'],NA,week_2,Tennessee Titans,2011
+['Patrick Bailey'],Questionable: head,week_2,Tennessee Titans,2011
+['Dave Ball'],NA,week_2,Tennessee Titans,2011
+['Rob Bironas'],NA,week_2,Tennessee Titans,2011
+['Kenny Britt'],NA,week_2,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_2,Tennessee Titans,2011
+['Jared Cook'],NA,week_2,Tennessee Titans,2011
+['Daniel Graham'],NA,week_2,Tennessee Titans,2011
+['Michael Griffin'],NA,week_2,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_2,Tennessee Titans,2011
+['Leroy Harris'],NA,week_2,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_2,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_2,Tennessee Titans,2011
+['William Hayes'],Questionable: shoulder,week_2,Tennessee Titans,2011
+['Chris Hope'],Questionable: shoulder,week_2,Tennessee Titans,2011
+['Chris Johnson'],NA,week_2,Tennessee Titans,2011
+['Jason Jones'],Probable: knee,week_2,Tennessee Titans,2011
+['Karl Klug'],NA,week_2,Tennessee Titans,2011
+['Jake Locker'],NA,week_2,Tennessee Titans,2011
+['Marc Mariani'],NA,week_2,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_2,Tennessee Titans,2011
+['Jason McCourty'],NA,week_2,Tennessee Titans,2011
+['Gerald McRath'],NA,week_2,Tennessee Titans,2011
+['Derrick Morgan'],Probable: knee,week_2,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_2,Tennessee Titans,2011
+['Javon Ringer'],Probable: hip/back,week_2,Tennessee Titans,2011
+['Michael Roos'],NA,week_2,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_2,Tennessee Titans,2011
+['Jake Scott'],NA,week_2,Tennessee Titans,2011
+['Anthony Smith'],NA,week_2,Tennessee Titans,2011
+['Shaun Smith'],NA,week_2,Tennessee Titans,2011
+['Craig Stevens'],NA,week_2,Tennessee Titans,2011
+['David Stewart'],NA,week_2,Tennessee Titans,2011
+['Nate Washington'],NA,week_2,Tennessee Titans,2011
+['Damian Williams'],Questionable: hamstring,week_2,Tennessee Titans,2011
+['Eugene Amano'],NA,week_3,Tennessee Titans,2011
+['Donnie Avery'],NA,week_3,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_3,Tennessee Titans,2011
+['Dave Ball'],NA,week_3,Tennessee Titans,2011
+['Rob Bironas'],NA,week_3,Tennessee Titans,2011
+['Kenny Britt'],Probable: thigh,week_3,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_3,Tennessee Titans,2011
+['Jared Cook'],NA,week_3,Tennessee Titans,2011
+['Daniel Graham'],NA,week_3,Tennessee Titans,2011
+['Michael Griffin'],NA,week_3,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_3,Tennessee Titans,2011
+['Leroy Harris'],NA,week_3,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_3,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_3,Tennessee Titans,2011
+['William Hayes'],Probable: shoulder,week_3,Tennessee Titans,2011
+['Chris Hope'],Questionable: shoulder,week_3,Tennessee Titans,2011
+['Chris Johnson'],Probable: ribs,week_3,Tennessee Titans,2011
+['Jason Jones'],NA,week_3,Tennessee Titans,2011
+['Karl Klug'],NA,week_3,Tennessee Titans,2011
+['Jake Locker'],NA,week_3,Tennessee Titans,2011
+['Marc Mariani'],NA,week_3,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_3,Tennessee Titans,2011
+['Jason McCourty'],NA,week_3,Tennessee Titans,2011
+['Gerald McRath'],NA,week_3,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_3,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_3,Tennessee Titans,2011
+['Javon Ringer'],NA,week_3,Tennessee Titans,2011
+['Michael Roos'],NA,week_3,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_3,Tennessee Titans,2011
+['Jake Scott'],NA,week_3,Tennessee Titans,2011
+['Anthony Smith'],NA,week_3,Tennessee Titans,2011
+['Shaun Smith'],NA,week_3,Tennessee Titans,2011
+['Craig Stevens'],NA,week_3,Tennessee Titans,2011
+['David Stewart'],NA,week_3,Tennessee Titans,2011
+['Nate Washington'],NA,week_3,Tennessee Titans,2011
+['Damian Williams'],Probable: hamstring,week_3,Tennessee Titans,2011
+['Eugene Amano'],NA,week_4,Tennessee Titans,2011
+['Donnie Avery'],NA,week_4,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_4,Tennessee Titans,2011
+['Dave Ball'],NA,week_4,Tennessee Titans,2011
+['Rob Bironas'],NA,week_4,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_4,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_4,Tennessee Titans,2011
+['Jared Cook'],NA,week_4,Tennessee Titans,2011
+['Daniel Graham'],NA,week_4,Tennessee Titans,2011
+['Michael Griffin'],NA,week_4,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_4,Tennessee Titans,2011
+['Leroy Harris'],NA,week_4,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_4,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_4,Tennessee Titans,2011
+['William Hayes'],NA,week_4,Tennessee Titans,2011
+['Chris Hope'],Probable: shoulder,week_4,Tennessee Titans,2011
+['Chris Johnson'],NA,week_4,Tennessee Titans,2011
+['Jason Jones'],NA,week_4,Tennessee Titans,2011
+['Karl Klug'],NA,week_4,Tennessee Titans,2011
+['Jake Locker'],NA,week_4,Tennessee Titans,2011
+['Marc Mariani'],NA,week_4,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_4,Tennessee Titans,2011
+['Jason McCourty'],NA,week_4,Tennessee Titans,2011
+['Gerald McRath'],Questionable: knee,week_4,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_4,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_4,Tennessee Titans,2011
+['Javon Ringer'],NA,week_4,Tennessee Titans,2011
+['Michael Roos'],NA,week_4,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_4,Tennessee Titans,2011
+['Jake Scott'],NA,week_4,Tennessee Titans,2011
+['Anthony Smith'],NA,week_4,Tennessee Titans,2011
+['Shaun Smith'],NA,week_4,Tennessee Titans,2011
+['Craig Stevens'],NA,week_4,Tennessee Titans,2011
+['David Stewart'],NA,week_4,Tennessee Titans,2011
+['Nate Washington'],NA,week_4,Tennessee Titans,2011
+['Damian Williams'],NA,week_4,Tennessee Titans,2011
+['Eugene Amano'],NA,week_5,Tennessee Titans,2011
+['Donnie Avery'],NA,week_5,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_5,Tennessee Titans,2011
+['Dave Ball'],NA,week_5,Tennessee Titans,2011
+['Rob Bironas'],NA,week_5,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_5,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_5,Tennessee Titans,2011
+['Jared Cook'],NA,week_5,Tennessee Titans,2011
+['Daniel Graham'],NA,week_5,Tennessee Titans,2011
+['Michael Griffin'],Questionable: illness,week_5,Tennessee Titans,2011
+['Ahmard Hall'],Probable: four-game suspension served,week_5,Tennessee Titans,2011
+['Leroy Harris'],Questionable: knee,week_5,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_5,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_5,Tennessee Titans,2011
+['William Hayes'],NA,week_5,Tennessee Titans,2011
+['Chris Hope'],Out: forearm,week_5,Tennessee Titans,2011
+['Chris Johnson'],NA,week_5,Tennessee Titans,2011
+['Jason Jones'],NA,week_5,Tennessee Titans,2011
+['Karl Klug'],NA,week_5,Tennessee Titans,2011
+['Jake Locker'],NA,week_5,Tennessee Titans,2011
+['Marc Mariani'],Probable: rib,week_5,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_5,Tennessee Titans,2011
+['Jason McCourty'],NA,week_5,Tennessee Titans,2011
+['Gerald McRath'],Probable: knee,week_5,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_5,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_5,Tennessee Titans,2011
+['Javon Ringer'],NA,week_5,Tennessee Titans,2011
+['Michael Roos'],NA,week_5,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_5,Tennessee Titans,2011
+['Jake Scott'],NA,week_5,Tennessee Titans,2011
+['Anthony Smith'],NA,week_5,Tennessee Titans,2011
+['Shaun Smith'],NA,week_5,Tennessee Titans,2011
+['Craig Stevens'],Questionable: rib,week_5,Tennessee Titans,2011
+['David Stewart'],NA,week_5,Tennessee Titans,2011
+['Nate Washington'],NA,week_5,Tennessee Titans,2011
+['Damian Williams'],NA,week_5,Tennessee Titans,2011
+['Eugene Amano'],NA,week_7,Tennessee Titans,2011
+['Donnie Avery'],NA,week_7,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_7,Tennessee Titans,2011
+['Dave Ball'],NA,week_7,Tennessee Titans,2011
+['Rob Bironas'],NA,week_7,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_7,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_7,Tennessee Titans,2011
+['Jared Cook'],NA,week_7,Tennessee Titans,2011
+['Daniel Graham'],NA,week_7,Tennessee Titans,2011
+['Michael Griffin'],NA,week_7,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_7,Tennessee Titans,2011
+['Leroy Harris'],NA,week_7,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_7,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_7,Tennessee Titans,2011
+['William Hayes'],Questionable: back,week_7,Tennessee Titans,2011
+['Chris Hope'],Out: forearm,week_7,Tennessee Titans,2011
+['Chris Johnson'],NA,week_7,Tennessee Titans,2011
+['Jason Jones'],NA,week_7,Tennessee Titans,2011
+['Karl Klug'],NA,week_7,Tennessee Titans,2011
+['Jake Locker'],NA,week_7,Tennessee Titans,2011
+['Marc Mariani'],NA,week_7,Tennessee Titans,2011
+['Colin McCarthy'],Questionable: hamstring,week_7,Tennessee Titans,2011
+['Jason McCourty'],NA,week_7,Tennessee Titans,2011
+['Gerald McRath'],NA,week_7,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_7,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_7,Tennessee Titans,2011
+['Javon Ringer'],NA,week_7,Tennessee Titans,2011
+['Michael Roos'],NA,week_7,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_7,Tennessee Titans,2011
+['Jake Scott'],NA,week_7,Tennessee Titans,2011
+['Anthony Smith'],NA,week_7,Tennessee Titans,2011
+['Shaun Smith'],NA,week_7,Tennessee Titans,2011
+['Craig Stevens'],Questionable: rib,week_7,Tennessee Titans,2011
+['David Stewart'],NA,week_7,Tennessee Titans,2011
+['Nate Washington'],NA,week_7,Tennessee Titans,2011
+['Damian Williams'],NA,week_7,Tennessee Titans,2011
+['Eugene Amano'],NA,week_8,Tennessee Titans,2011
+['Donnie Avery'],NA,week_8,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_8,Tennessee Titans,2011
+['Dave Ball'],NA,week_8,Tennessee Titans,2011
+['Rob Bironas'],NA,week_8,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_8,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_8,Tennessee Titans,2011
+['Jared Cook'],NA,week_8,Tennessee Titans,2011
+['Daniel Graham'],NA,week_8,Tennessee Titans,2011
+['Michael Griffin'],NA,week_8,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_8,Tennessee Titans,2011
+['Leroy Harris'],NA,week_8,Tennessee Titans,2011
+['Matt Hasselbeck'],Probable: right thumb,week_8,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_8,Tennessee Titans,2011
+['William Hayes'],Questionable: back,week_8,Tennessee Titans,2011
+['Chris Hope'],Out: forearm,week_8,Tennessee Titans,2011
+['Chris Johnson'],NA,week_8,Tennessee Titans,2011
+['Jason Jones'],NA,week_8,Tennessee Titans,2011
+['Karl Klug'],NA,week_8,Tennessee Titans,2011
+['Jake Locker'],NA,week_8,Tennessee Titans,2011
+['Marc Mariani'],NA,week_8,Tennessee Titans,2011
+['Colin McCarthy'],Questionable: hamstring,week_8,Tennessee Titans,2011
+['Jason McCourty'],NA,week_8,Tennessee Titans,2011
+['Gerald McRath'],NA,week_8,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_8,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_8,Tennessee Titans,2011
+['Javon Ringer'],NA,week_8,Tennessee Titans,2011
+['Michael Roos'],NA,week_8,Tennessee Titans,2011
+['Barrett Ruud'],Questionable: shoulder,week_8,Tennessee Titans,2011
+['Jake Scott'],Questionable: neck,week_8,Tennessee Titans,2011
+['Anthony Smith'],NA,week_8,Tennessee Titans,2011
+['Shaun Smith'],NA,week_8,Tennessee Titans,2011
+['Craig Stevens'],Questionable: rib,week_8,Tennessee Titans,2011
+['David Stewart'],NA,week_8,Tennessee Titans,2011
+['Nate Washington'],NA,week_8,Tennessee Titans,2011
+['Damian Williams'],NA,week_8,Tennessee Titans,2011
+['Eugene Amano'],NA,week_9,Tennessee Titans,2011
+['Donnie Avery'],NA,week_9,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_9,Tennessee Titans,2011
+['Dave Ball'],Questionable: achilles,week_9,Tennessee Titans,2011
+['Rob Bironas'],NA,week_9,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_9,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_9,Tennessee Titans,2011
+['Jared Cook'],NA,week_9,Tennessee Titans,2011
+['Daniel Graham'],NA,week_9,Tennessee Titans,2011
+['Michael Griffin'],Questionable: hip,week_9,Tennessee Titans,2011
+['Ahmard Hall'],Questionable: back,week_9,Tennessee Titans,2011
+['Leroy Harris'],NA,week_9,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_9,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_9,Tennessee Titans,2011
+['William Hayes'],NA,week_9,Tennessee Titans,2011
+['Chris Hope'],Out: forearm,week_9,Tennessee Titans,2011
+['Chris Johnson'],NA,week_9,Tennessee Titans,2011
+['Jason Jones'],NA,week_9,Tennessee Titans,2011
+['Karl Klug'],NA,week_9,Tennessee Titans,2011
+['Jake Locker'],NA,week_9,Tennessee Titans,2011
+['Marc Mariani'],NA,week_9,Tennessee Titans,2011
+['Colin McCarthy'],Probable: hamstring,week_9,Tennessee Titans,2011
+['Jason McCourty'],NA,week_9,Tennessee Titans,2011
+['Gerald McRath'],NA,week_9,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_9,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_9,Tennessee Titans,2011
+['Javon Ringer'],NA,week_9,Tennessee Titans,2011
+['Michael Roos'],NA,week_9,Tennessee Titans,2011
+['Barrett Ruud'],NA,week_9,Tennessee Titans,2011
+['Jake Scott'],NA,week_9,Tennessee Titans,2011
+['Anthony Smith'],NA,week_9,Tennessee Titans,2011
+['Shaun Smith'],NA,week_9,Tennessee Titans,2011
+['Craig Stevens'],Probable: rib,week_9,Tennessee Titans,2011
+['David Stewart'],NA,week_9,Tennessee Titans,2011
+['Nate Washington'],NA,week_9,Tennessee Titans,2011
+['Damian Williams'],NA,week_9,Tennessee Titans,2011
+['Eugene Amano'],NA,week_10,Tennessee Titans,2011
+['Donnie Avery'],NA,week_10,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_10,Tennessee Titans,2011
+['Dave Ball'],Questionable: concussion,week_10,Tennessee Titans,2011
+['Rob Bironas'],NA,week_10,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_10,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_10,Tennessee Titans,2011
+['Jared Cook'],Questionable: leg,week_10,Tennessee Titans,2011
+['Daniel Graham'],NA,week_10,Tennessee Titans,2011
+['Michael Griffin'],NA,week_10,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_10,Tennessee Titans,2011
+['Leroy Harris'],NA,week_10,Tennessee Titans,2011
+['Matt Hasselbeck'],Probable: knee/thumb,week_10,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_10,Tennessee Titans,2011
+['William Hayes'],NA,week_10,Tennessee Titans,2011
+['Chris Hope'],Probable: forearm,week_10,Tennessee Titans,2011
+['Chris Johnson'],NA,week_10,Tennessee Titans,2011
+['Jason Jones'],NA,week_10,Tennessee Titans,2011
+['Karl Klug'],NA,week_10,Tennessee Titans,2011
+['Jake Locker'],NA,week_10,Tennessee Titans,2011
+['Marc Mariani'],NA,week_10,Tennessee Titans,2011
+['Colin McCarthy'],Questionable: hamstring,week_10,Tennessee Titans,2011
+['Jason McCourty'],NA,week_10,Tennessee Titans,2011
+['Gerald McRath'],NA,week_10,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_10,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_10,Tennessee Titans,2011
+['Javon Ringer'],NA,week_10,Tennessee Titans,2011
+['Michael Roos'],NA,week_10,Tennessee Titans,2011
+['Barrett Ruud'],Questionable: groin,week_10,Tennessee Titans,2011
+['Jake Scott'],NA,week_10,Tennessee Titans,2011
+['Anthony Smith'],NA,week_10,Tennessee Titans,2011
+['Shaun Smith'],NA,week_10,Tennessee Titans,2011
+['Craig Stevens'],NA,week_10,Tennessee Titans,2011
+['David Stewart'],NA,week_10,Tennessee Titans,2011
+['Nate Washington'],Probable: hip,week_10,Tennessee Titans,2011
+['Damian Williams'],NA,week_10,Tennessee Titans,2011
+['Eugene Amano'],NA,week_11,Tennessee Titans,2011
+['Donnie Avery'],NA,week_11,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_11,Tennessee Titans,2011
+['Dave Ball'],Doubtful: concussion,week_11,Tennessee Titans,2011
+['Rob Bironas'],NA,week_11,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_11,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_11,Tennessee Titans,2011
+['Jared Cook'],NA,week_11,Tennessee Titans,2011
+['Daniel Graham'],NA,week_11,Tennessee Titans,2011
+['Michael Griffin'],NA,week_11,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_11,Tennessee Titans,2011
+['Leroy Harris'],NA,week_11,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_11,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_11,Tennessee Titans,2011
+['William Hayes'],NA,week_11,Tennessee Titans,2011
+['Chris Hope'],NA,week_11,Tennessee Titans,2011
+['Chris Johnson'],NA,week_11,Tennessee Titans,2011
+['Jason Jones'],NA,week_11,Tennessee Titans,2011
+['Karl Klug'],NA,week_11,Tennessee Titans,2011
+['Jake Locker'],NA,week_11,Tennessee Titans,2011
+['Marc Mariani'],NA,week_11,Tennessee Titans,2011
+['Colin McCarthy'],Probable: knee,week_11,Tennessee Titans,2011
+['Jason McCourty'],NA,week_11,Tennessee Titans,2011
+['Gerald McRath'],Questionable: hamstring,week_11,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_11,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_11,Tennessee Titans,2011
+['Javon Ringer'],NA,week_11,Tennessee Titans,2011
+['Michael Roos'],NA,week_11,Tennessee Titans,2011
+['Barrett Ruud'],Probable: groin,week_11,Tennessee Titans,2011
+['Jake Scott'],NA,week_11,Tennessee Titans,2011
+['Anthony Smith'],NA,week_11,Tennessee Titans,2011
+['Shaun Smith'],NA,week_11,Tennessee Titans,2011
+['Craig Stevens'],NA,week_11,Tennessee Titans,2011
+['David Stewart'],NA,week_11,Tennessee Titans,2011
+['Nate Washington'],Probable: illness,week_11,Tennessee Titans,2011
+['Damian Williams'],NA,week_11,Tennessee Titans,2011
+['Eugene Amano'],Questionable: hip,week_12,Tennessee Titans,2011
+['Donnie Avery'],NA,week_12,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_12,Tennessee Titans,2011
+['Dave Ball'],Questionable: concussion,week_12,Tennessee Titans,2011
+['Rob Bironas'],Questionable: back,week_12,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_12,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_12,Tennessee Titans,2011
+['Jared Cook'],NA,week_12,Tennessee Titans,2011
+['Daniel Graham'],NA,week_12,Tennessee Titans,2011
+['Michael Griffin'],NA,week_12,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_12,Tennessee Titans,2011
+['Leroy Harris'],NA,week_12,Tennessee Titans,2011
+['Matt Hasselbeck'],Questionable: elbow,week_12,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_12,Tennessee Titans,2011
+['William Hayes'],NA,week_12,Tennessee Titans,2011
+['Chris Hope'],NA,week_12,Tennessee Titans,2011
+['Chris Johnson'],NA,week_12,Tennessee Titans,2011
+['Jason Jones'],NA,week_12,Tennessee Titans,2011
+['Karl Klug'],Questionable: knee,week_12,Tennessee Titans,2011
+['Jake Locker'],NA,week_12,Tennessee Titans,2011
+['Marc Mariani'],NA,week_12,Tennessee Titans,2011
+['Colin McCarthy'],Questionable: knee,week_12,Tennessee Titans,2011
+['Jason McCourty'],NA,week_12,Tennessee Titans,2011
+['Gerald McRath'],NA,week_12,Tennessee Titans,2011
+['Derrick Morgan'],Questionable: ankle,week_12,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_12,Tennessee Titans,2011
+['Javon Ringer'],NA,week_12,Tennessee Titans,2011
+['Michael Roos'],Questionable: groin,week_12,Tennessee Titans,2011
+['Barrett Ruud'],Questionable: groin,week_12,Tennessee Titans,2011
+['Jake Scott'],NA,week_12,Tennessee Titans,2011
+['Anthony Smith'],NA,week_12,Tennessee Titans,2011
+['Shaun Smith'],NA,week_12,Tennessee Titans,2011
+['Craig Stevens'],NA,week_12,Tennessee Titans,2011
+['David Stewart'],Questionable: calf,week_12,Tennessee Titans,2011
+['Nate Washington'],NA,week_12,Tennessee Titans,2011
+['Damian Williams'],NA,week_12,Tennessee Titans,2011
+['Eugene Amano'],Questionable: hip,week_13,Tennessee Titans,2011
+['Donnie Avery'],Probable: hamstring,week_13,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_13,Tennessee Titans,2011
+['Dave Ball'],NA,week_13,Tennessee Titans,2011
+['Rob Bironas'],NA,week_13,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_13,Tennessee Titans,2011
+['Tommie Campbell'],Doubtful: shoulder,week_13,Tennessee Titans,2011
+['Jared Cook'],Probable: concussion,week_13,Tennessee Titans,2011
+['Daniel Graham'],NA,week_13,Tennessee Titans,2011
+['Michael Griffin'],NA,week_13,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_13,Tennessee Titans,2011
+['Leroy Harris'],NA,week_13,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_13,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_13,Tennessee Titans,2011
+['William Hayes'],NA,week_13,Tennessee Titans,2011
+['Chris Hope'],NA,week_13,Tennessee Titans,2011
+['Chris Johnson'],NA,week_13,Tennessee Titans,2011
+['Jason Jones'],Probable: knee,week_13,Tennessee Titans,2011
+['Karl Klug'],NA,week_13,Tennessee Titans,2011
+['Jake Locker'],NA,week_13,Tennessee Titans,2011
+['Marc Mariani'],NA,week_13,Tennessee Titans,2011
+['Colin McCarthy'],Questionable: knee,week_13,Tennessee Titans,2011
+['Jason McCourty'],NA,week_13,Tennessee Titans,2011
+['Gerald McRath'],NA,week_13,Tennessee Titans,2011
+['Derrick Morgan'],Probable: ankle,week_13,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_13,Tennessee Titans,2011
+['Javon Ringer'],NA,week_13,Tennessee Titans,2011
+['Michael Roos'],NA,week_13,Tennessee Titans,2011
+['Barrett Ruud'],Doubtful: groin,week_13,Tennessee Titans,2011
+['Jake Scott'],NA,week_13,Tennessee Titans,2011
+['Anthony Smith'],NA,week_13,Tennessee Titans,2011
+['Shaun Smith'],NA,week_13,Tennessee Titans,2011
+['Craig Stevens'],NA,week_13,Tennessee Titans,2011
+['David Stewart'],Questionable: calf,week_13,Tennessee Titans,2011
+['Nate Washington'],NA,week_13,Tennessee Titans,2011
+['Damian Williams'],NA,week_13,Tennessee Titans,2011
+['Eugene Amano'],Probable: knee,week_14,Tennessee Titans,2011
+['Donnie Avery'],NA,week_14,Tennessee Titans,2011
+['Patrick Bailey'],Questionable: hamstring,week_14,Tennessee Titans,2011
+['Dave Ball'],NA,week_14,Tennessee Titans,2011
+['Rob Bironas'],NA,week_14,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_14,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_14,Tennessee Titans,2011
+['Jared Cook'],NA,week_14,Tennessee Titans,2011
+['Daniel Graham'],NA,week_14,Tennessee Titans,2011
+['Michael Griffin'],NA,week_14,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_14,Tennessee Titans,2011
+['Leroy Harris'],NA,week_14,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_14,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_14,Tennessee Titans,2011
+['William Hayes'],NA,week_14,Tennessee Titans,2011
+['Chris Hope'],NA,week_14,Tennessee Titans,2011
+['Chris Johnson'],NA,week_14,Tennessee Titans,2011
+['Jason Jones'],NA,week_14,Tennessee Titans,2011
+['Karl Klug'],NA,week_14,Tennessee Titans,2011
+['Jake Locker'],NA,week_14,Tennessee Titans,2011
+['Marc Mariani'],NA,week_14,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_14,Tennessee Titans,2011
+['Jason McCourty'],Questionable: concussion,week_14,Tennessee Titans,2011
+['Gerald McRath'],NA,week_14,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_14,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_14,Tennessee Titans,2011
+['Javon Ringer'],NA,week_14,Tennessee Titans,2011
+['Michael Roos'],NA,week_14,Tennessee Titans,2011
+['Barrett Ruud'],Questionable: groin,week_14,Tennessee Titans,2011
+['Jake Scott'],NA,week_14,Tennessee Titans,2011
+['Anthony Smith'],NA,week_14,Tennessee Titans,2011
+['Shaun Smith'],NA,week_14,Tennessee Titans,2011
+['Craig Stevens'],NA,week_14,Tennessee Titans,2011
+['David Stewart'],NA,week_14,Tennessee Titans,2011
+['Nate Washington'],Questionable: ankle,week_14,Tennessee Titans,2011
+['Damian Williams'],NA,week_14,Tennessee Titans,2011
+['Eugene Amano'],NA,week_15,Tennessee Titans,2011
+['Donnie Avery'],NA,week_15,Tennessee Titans,2011
+['Patrick Bailey'],Questionable: hamstring,week_15,Tennessee Titans,2011
+['Dave Ball'],NA,week_15,Tennessee Titans,2011
+['Rob Bironas'],NA,week_15,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_15,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_15,Tennessee Titans,2011
+['Jared Cook'],NA,week_15,Tennessee Titans,2011
+['Daniel Graham'],NA,week_15,Tennessee Titans,2011
+['Michael Griffin'],NA,week_15,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_15,Tennessee Titans,2011
+['Leroy Harris'],NA,week_15,Tennessee Titans,2011
+['Matt Hasselbeck'],Questionable: calf,week_15,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_15,Tennessee Titans,2011
+['William Hayes'],Questionable: groin,week_15,Tennessee Titans,2011
+['Chris Hope'],NA,week_15,Tennessee Titans,2011
+['Chris Johnson'],NA,week_15,Tennessee Titans,2011
+['Jason Jones'],NA,week_15,Tennessee Titans,2011
+['Karl Klug'],NA,week_15,Tennessee Titans,2011
+['Jake Locker'],Probable: ribs,week_15,Tennessee Titans,2011
+['Marc Mariani'],NA,week_15,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_15,Tennessee Titans,2011
+['Jason McCourty'],Probable: concussion,week_15,Tennessee Titans,2011
+['Gerald McRath'],Out: knee,week_15,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_15,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_15,Tennessee Titans,2011
+['Javon Ringer'],Out: hand,week_15,Tennessee Titans,2011
+['Michael Roos'],NA,week_15,Tennessee Titans,2011
+['Barrett Ruud'],Injured Reserve: groin,week_15,Tennessee Titans,2011
+['Jake Scott'],NA,week_15,Tennessee Titans,2011
+['Anthony Smith'],Injured Reserve: groin,week_15,Tennessee Titans,2011
+['Shaun Smith'],NA,week_15,Tennessee Titans,2011
+['Craig Stevens'],NA,week_15,Tennessee Titans,2011
+['David Stewart'],NA,week_15,Tennessee Titans,2011
+['Nate Washington'],Questionable: ankle/back,week_15,Tennessee Titans,2011
+['Damian Williams'],NA,week_15,Tennessee Titans,2011
+['Eugene Amano'],NA,week_16,Tennessee Titans,2011
+['Donnie Avery'],NA,week_16,Tennessee Titans,2011
+['Patrick Bailey'],Questionable: hamstring,week_16,Tennessee Titans,2011
+['Dave Ball'],NA,week_16,Tennessee Titans,2011
+['Rob Bironas'],NA,week_16,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_16,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_16,Tennessee Titans,2011
+['Jared Cook'],NA,week_16,Tennessee Titans,2011
+['Daniel Graham'],NA,week_16,Tennessee Titans,2011
+['Michael Griffin'],NA,week_16,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_16,Tennessee Titans,2011
+['Leroy Harris'],NA,week_16,Tennessee Titans,2011
+['Matt Hasselbeck'],Probable: calf,week_16,Tennessee Titans,2011
+['Lavelle Hawkins'],NA,week_16,Tennessee Titans,2011
+['William Hayes'],Probable: groin,week_16,Tennessee Titans,2011
+['Chris Hope'],NA,week_16,Tennessee Titans,2011
+['Chris Johnson'],Questionable: ankle,week_16,Tennessee Titans,2011
+['Jason Jones'],NA,week_16,Tennessee Titans,2011
+['Karl Klug'],NA,week_16,Tennessee Titans,2011
+['Jake Locker'],NA,week_16,Tennessee Titans,2011
+['Marc Mariani'],NA,week_16,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_16,Tennessee Titans,2011
+['Jason McCourty'],NA,week_16,Tennessee Titans,2011
+['Gerald McRath'],Questionable: knee,week_16,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_16,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_16,Tennessee Titans,2011
+['Javon Ringer'],Injured Reserve: hand,week_16,Tennessee Titans,2011
+['Michael Roos'],NA,week_16,Tennessee Titans,2011
+['Barrett Ruud'],Injured Reserve: groin,week_16,Tennessee Titans,2011
+['Jake Scott'],NA,week_16,Tennessee Titans,2011
+['Anthony Smith'],Injured Reserve: groin,week_16,Tennessee Titans,2011
+['Shaun Smith'],NA,week_16,Tennessee Titans,2011
+['Craig Stevens'],NA,week_16,Tennessee Titans,2011
+['David Stewart'],NA,week_16,Tennessee Titans,2011
+['Nate Washington'],Probable: ankle,week_16,Tennessee Titans,2011
+['Damian Williams'],NA,week_16,Tennessee Titans,2011
+['Eugene Amano'],NA,week_17,Tennessee Titans,2011
+['Donnie Avery'],NA,week_17,Tennessee Titans,2011
+['Patrick Bailey'],NA,week_17,Tennessee Titans,2011
+['Dave Ball'],NA,week_17,Tennessee Titans,2011
+['Rob Bironas'],NA,week_17,Tennessee Titans,2011
+['Kenny Britt'],Injured Reserve: knee,week_17,Tennessee Titans,2011
+['Tommie Campbell'],NA,week_17,Tennessee Titans,2011
+['Jared Cook'],NA,week_17,Tennessee Titans,2011
+['Daniel Graham'],Questionable: illness,week_17,Tennessee Titans,2011
+['Michael Griffin'],NA,week_17,Tennessee Titans,2011
+['Ahmard Hall'],NA,week_17,Tennessee Titans,2011
+['Leroy Harris'],NA,week_17,Tennessee Titans,2011
+['Matt Hasselbeck'],NA,week_17,Tennessee Titans,2011
+['Lavelle Hawkins'],Questionable: ankle,week_17,Tennessee Titans,2011
+['William Hayes'],NA,week_17,Tennessee Titans,2011
+['Chris Hope'],NA,week_17,Tennessee Titans,2011
+['Chris Johnson'],Questionable: ankle,week_17,Tennessee Titans,2011
+['Jason Jones'],Questionable: ankle,week_17,Tennessee Titans,2011
+['Karl Klug'],NA,week_17,Tennessee Titans,2011
+['Jake Locker'],NA,week_17,Tennessee Titans,2011
+['Marc Mariani'],NA,week_17,Tennessee Titans,2011
+['Colin McCarthy'],NA,week_17,Tennessee Titans,2011
+['Jason McCourty'],NA,week_17,Tennessee Titans,2011
+['Gerald McRath'],Probable: knee,week_17,Tennessee Titans,2011
+['Derrick Morgan'],NA,week_17,Tennessee Titans,2011
+['Ryan Mouton'],Injured Reserve: Achilles,week_17,Tennessee Titans,2011
+['Javon Ringer'],Injured Reserve: hand,week_17,Tennessee Titans,2011
+['Michael Roos'],NA,week_17,Tennessee Titans,2011
+['Barrett Ruud'],Injured Reserve: groin,week_17,Tennessee Titans,2011
+['Jake Scott'],NA,week_17,Tennessee Titans,2011
+['Anthony Smith'],Injured Reserve: groin,week_17,Tennessee Titans,2011
+['Shaun Smith'],Questionable: knee,week_17,Tennessee Titans,2011
+['Craig Stevens'],NA,week_17,Tennessee Titans,2011
+['David Stewart'],NA,week_17,Tennessee Titans,2011
+['Nate Washington'],NA,week_17,Tennessee Titans,2011
+['Damian Williams'],NA,week_17,Tennessee Titans,2011

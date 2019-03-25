@@ -1,0 +1,689 @@
+﻿name,injury,week,team,year
+['Doug Baldwin'],NA,week_1,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_1,Seattle Seahawks,2011
+['Alan Branch'],NA,week_1,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_1,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_1,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_1,Seattle Seahawks,2011
+['James Carpenter'],NA,week_1,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_1,Seattle Seahawks,2011
+['Chris Clemons'],Probable: ankle,week_1,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_1,Seattle Seahawks,2011
+['Dexter Davis'],NA,week_1,Seattle Seahawks,2011
+['Kris Durham'],NA,week_1,Seattle Seahawks,2011
+['Robert Gallery'],Questionable: knee,week_1,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_1,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_1,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_1,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_1,Seattle Seahawks,2011
+['Tarvaris Jackson'],NA,week_1,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_1,Seattle Seahawks,2011
+['Jarriel King'],Out: ankle,week_1,Seattle Seahawks,2011
+['Jameson Konz'],NA,week_1,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_1,Seattle Seahawks,2011
+['Marshawn Lynch'],Probable: ankle,week_1,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_1,Seattle Seahawks,2011
+['Matt McCoy'],NA,week_1,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_1,Seattle Seahawks,2011
+['Zach Miller'],NA,week_1,Seattle Seahawks,2011
+['John Moffitt'],NA,week_1,Seattle Seahawks,2011
+['Cameron Morrah'],Physically Unable to Perform: toe,week_1,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_1,Seattle Seahawks,2011
+['Russell Okung'],Probable: ankle,week_1,Seattle Seahawks,2011
+['Ron Parker'],NA,week_1,Seattle Seahawks,2011
+['Sidney Rice'],Doubtful: shoulder,week_1,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_1,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_1,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_1,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_1,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_1,Seattle Seahawks,2011
+['Marcus Trufant'],NA,week_1,Seattle Seahawks,2011
+['Max Unger'],NA,week_1,Seattle Seahawks,2011
+['David Vobora'],NA,week_1,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_1,Seattle Seahawks,2011
+['Mike Williams'],NA,week_1,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_2,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_2,Seattle Seahawks,2011
+['Alan Branch'],NA,week_2,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_2,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_2,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_2,Seattle Seahawks,2011
+['James Carpenter'],NA,week_2,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_2,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_2,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_2,Seattle Seahawks,2011
+['Dexter Davis'],Questionable: hip,week_2,Seattle Seahawks,2011
+['Kris Durham'],NA,week_2,Seattle Seahawks,2011
+['Robert Gallery'],Probable: knee,week_2,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_2,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_2,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_2,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_2,Seattle Seahawks,2011
+['Tarvaris Jackson'],NA,week_2,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_2,Seattle Seahawks,2011
+['Jarriel King'],Questionable: ankle,week_2,Seattle Seahawks,2011
+['Jameson Konz'],NA,week_2,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_2,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_2,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_2,Seattle Seahawks,2011
+['Matt McCoy'],NA,week_2,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_2,Seattle Seahawks,2011
+['Zach Miller'],NA,week_2,Seattle Seahawks,2011
+['John Moffitt'],NA,week_2,Seattle Seahawks,2011
+['Cameron Morrah'],Physically Unable to Perform: toe,week_2,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_2,Seattle Seahawks,2011
+['Russell Okung'],NA,week_2,Seattle Seahawks,2011
+['Ron Parker'],NA,week_2,Seattle Seahawks,2011
+['Sidney Rice'],Doubtful: shoulder,week_2,Seattle Seahawks,2011
+['Michael Robinson'],Doubtful: ankle,week_2,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_2,Seattle Seahawks,2011
+['Malcolm Smith'],Questionable: hamstring,week_2,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_2,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_2,Seattle Seahawks,2011
+['Marcus Trufant'],NA,week_2,Seattle Seahawks,2011
+['Max Unger'],NA,week_2,Seattle Seahawks,2011
+['David Vobora'],NA,week_2,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_2,Seattle Seahawks,2011
+['Mike Williams'],NA,week_2,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_3,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_3,Seattle Seahawks,2011
+['Alan Branch'],NA,week_3,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_3,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_3,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_3,Seattle Seahawks,2011
+['James Carpenter'],NA,week_3,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_3,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_3,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_3,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_3,Seattle Seahawks,2011
+['Kris Durham'],NA,week_3,Seattle Seahawks,2011
+['Robert Gallery'],Out: groin,week_3,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_3,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_3,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_3,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_3,Seattle Seahawks,2011
+['Tarvaris Jackson'],NA,week_3,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_3,Seattle Seahawks,2011
+['Jarriel King'],Out: ankle,week_3,Seattle Seahawks,2011
+['Jameson Konz'],NA,week_3,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_3,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_3,Seattle Seahawks,2011
+['Byron Maxwell'],Out: ankle,week_3,Seattle Seahawks,2011
+['Matt McCoy'],NA,week_3,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_3,Seattle Seahawks,2011
+['Zach Miller'],NA,week_3,Seattle Seahawks,2011
+['John Moffitt'],NA,week_3,Seattle Seahawks,2011
+['Cameron Morrah'],Physically Unable to Perform: toe,week_3,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_3,Seattle Seahawks,2011
+['Russell Okung'],NA,week_3,Seattle Seahawks,2011
+['Ron Parker'],NA,week_3,Seattle Seahawks,2011
+['Sidney Rice'],Questionable: shoulder,week_3,Seattle Seahawks,2011
+['Michael Robinson'],Questionable: ankle,week_3,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_3,Seattle Seahawks,2011
+['Malcolm Smith'],Questionable: hamstring,week_3,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_3,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_3,Seattle Seahawks,2011
+['Marcus Trufant'],NA,week_3,Seattle Seahawks,2011
+['Max Unger'],NA,week_3,Seattle Seahawks,2011
+['David Vobora'],NA,week_3,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_3,Seattle Seahawks,2011
+['Mike Williams'],NA,week_3,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_4,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_4,Seattle Seahawks,2011
+['Alan Branch'],NA,week_4,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_4,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_4,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_4,Seattle Seahawks,2011
+['James Carpenter'],NA,week_4,Seattle Seahawks,2011
+['Kam Chancellor'],Doubtful: quadricep,week_4,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_4,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_4,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_4,Seattle Seahawks,2011
+['Kris Durham'],NA,week_4,Seattle Seahawks,2011
+['Robert Gallery'],Questionable: groin,week_4,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_4,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_4,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_4,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_4,Seattle Seahawks,2011
+['Tarvaris Jackson'],NA,week_4,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_4,Seattle Seahawks,2011
+['Jarriel King'],Questionable: ankle,week_4,Seattle Seahawks,2011
+['Jameson Konz'],NA,week_4,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_4,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_4,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_4,Seattle Seahawks,2011
+['Matt McCoy'],Probable: shoulder/head,week_4,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_4,Seattle Seahawks,2011
+['Zach Miller'],NA,week_4,Seattle Seahawks,2011
+['John Moffitt'],NA,week_4,Seattle Seahawks,2011
+['Cameron Morrah'],Physically Unable to Perform: toe,week_4,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_4,Seattle Seahawks,2011
+['Russell Okung'],NA,week_4,Seattle Seahawks,2011
+['Ron Parker'],NA,week_4,Seattle Seahawks,2011
+['Sidney Rice'],NA,week_4,Seattle Seahawks,2011
+['Michael Robinson'],Questionable: ankle,week_4,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_4,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_4,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_4,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_4,Seattle Seahawks,2011
+['Marcus Trufant'],NA,week_4,Seattle Seahawks,2011
+['Max Unger'],NA,week_4,Seattle Seahawks,2011
+['David Vobora'],NA,week_4,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_4,Seattle Seahawks,2011
+['Mike Williams'],NA,week_4,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_5,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_5,Seattle Seahawks,2011
+['Alan Branch'],NA,week_5,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_5,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_5,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_5,Seattle Seahawks,2011
+['James Carpenter'],NA,week_5,Seattle Seahawks,2011
+['Kam Chancellor'],Questionable: quadricep,week_5,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_5,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_5,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_5,Seattle Seahawks,2011
+['Kris Durham'],Questionable: hamstring,week_5,Seattle Seahawks,2011
+['Robert Gallery'],Out: groin,week_5,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_5,Seattle Seahawks,2011
+['Anthony Hargrove'],Questionable: hamstring,week_5,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_5,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_5,Seattle Seahawks,2011
+['Tarvaris Jackson'],NA,week_5,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_5,Seattle Seahawks,2011
+['Jarriel King'],Questionable: ankle,week_5,Seattle Seahawks,2011
+['Jameson Konz'],NA,week_5,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_5,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_5,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_5,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_5,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_5,Seattle Seahawks,2011
+['Zach Miller'],Questionable: knee,week_5,Seattle Seahawks,2011
+['John Moffitt'],NA,week_5,Seattle Seahawks,2011
+['Cameron Morrah'],Physically Unable to Perform: toe,week_5,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_5,Seattle Seahawks,2011
+['Russell Okung'],NA,week_5,Seattle Seahawks,2011
+['Ron Parker'],NA,week_5,Seattle Seahawks,2011
+['Sidney Rice'],NA,week_5,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_5,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_5,Seattle Seahawks,2011
+['Malcolm Smith'],Questionable: hamstring,week_5,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_5,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_5,Seattle Seahawks,2011
+['Marcus Trufant'],NA,week_5,Seattle Seahawks,2011
+['Max Unger'],NA,week_5,Seattle Seahawks,2011
+['David Vobora'],NA,week_5,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_5,Seattle Seahawks,2011
+['Mike Williams'],Out: concussion,week_5,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_7,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_7,Seattle Seahawks,2011
+['Alan Branch'],NA,week_7,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_7,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_7,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_7,Seattle Seahawks,2011
+['James Carpenter'],NA,week_7,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_7,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_7,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_7,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_7,Seattle Seahawks,2011
+['Kris Durham'],NA,week_7,Seattle Seahawks,2011
+['Robert Gallery'],Probable: groin,week_7,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_7,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_7,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_7,Seattle Seahawks,2011
+['LeRoy Hill'],Questionable: hamstring,week_7,Seattle Seahawks,2011
+['Tarvaris Jackson'],Questionable: pectoral,week_7,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_7,Seattle Seahawks,2011
+['Jarriel King'],Questionable: ankle,week_7,Seattle Seahawks,2011
+['Jameson Konz'],Out: knee,week_7,Seattle Seahawks,2011
+['Roy Lewis'],Physically Unable to Perform: knee,week_7,Seattle Seahawks,2011
+['Marshawn Lynch'],Probable: ankle,week_7,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_7,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_7,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_7,Seattle Seahawks,2011
+['Zach Miller'],Questionable: concussion,week_7,Seattle Seahawks,2011
+['John Moffitt'],NA,week_7,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_7,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_7,Seattle Seahawks,2011
+['Russell Okung'],NA,week_7,Seattle Seahawks,2011
+['Ron Parker'],NA,week_7,Seattle Seahawks,2011
+['Sidney Rice'],NA,week_7,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_7,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_7,Seattle Seahawks,2011
+['Malcolm Smith'],Probable: hamstring,week_7,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_7,Seattle Seahawks,2011
+['Walter Thurmond'],NA,week_7,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_7,Seattle Seahawks,2011
+['Max Unger'],Questionable: foot,week_7,Seattle Seahawks,2011
+['David Vobora'],NA,week_7,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_7,Seattle Seahawks,2011
+['Mike Williams'],Probable: concussion,week_7,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_8,Seattle Seahawks,2011
+['Atari Bigby'],Probable: hamstring,week_8,Seattle Seahawks,2011
+['Alan Branch'],NA,week_8,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_8,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_8,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_8,Seattle Seahawks,2011
+['James Carpenter'],NA,week_8,Seattle Seahawks,2011
+['Kam Chancellor'],Probable: knee,week_8,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_8,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_8,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_8,Seattle Seahawks,2011
+['Kris Durham'],NA,week_8,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_8,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_8,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_8,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_8,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_8,Seattle Seahawks,2011
+['Tarvaris Jackson'],Questionable: pectoral,week_8,Seattle Seahawks,2011
+['Jeron Johnson'],Probable: ankle,week_8,Seattle Seahawks,2011
+['Jarriel King'],NA,week_8,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_8,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_8,Seattle Seahawks,2011
+['Marshawn Lynch'],Questionable: back,week_8,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_8,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_8,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_8,Seattle Seahawks,2011
+['Zach Miller'],Questionable: concussion/neck,week_8,Seattle Seahawks,2011
+['John Moffitt'],NA,week_8,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_8,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_8,Seattle Seahawks,2011
+['Russell Okung'],NA,week_8,Seattle Seahawks,2011
+['Ron Parker'],NA,week_8,Seattle Seahawks,2011
+['Sidney Rice'],NA,week_8,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_8,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_8,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_8,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_8,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_8,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_8,Seattle Seahawks,2011
+['Max Unger'],Questionable: foot,week_8,Seattle Seahawks,2011
+['David Vobora'],NA,week_8,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_8,Seattle Seahawks,2011
+['Mike Williams'],NA,week_8,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_9,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_9,Seattle Seahawks,2011
+['Alan Branch'],Questionable: knee/hip,week_9,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_9,Seattle Seahawks,2011
+['Deon Butler'],Physically Unable to Perform: leg,week_9,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_9,Seattle Seahawks,2011
+['James Carpenter'],NA,week_9,Seattle Seahawks,2011
+['Kam Chancellor'],Questionable: knee,week_9,Seattle Seahawks,2011
+['Chris Clemons'],Questionable: hamstring,week_9,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_9,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_9,Seattle Seahawks,2011
+['Kris Durham'],NA,week_9,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_9,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_9,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_9,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_9,Seattle Seahawks,2011
+['LeRoy Hill'],Questionable: knee,week_9,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_9,Seattle Seahawks,2011
+['Jeron Johnson'],Probable: ankle,week_9,Seattle Seahawks,2011
+['Jarriel King'],NA,week_9,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_9,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_9,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_9,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_9,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_9,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_9,Seattle Seahawks,2011
+['Zach Miller'],NA,week_9,Seattle Seahawks,2011
+['John Moffitt'],NA,week_9,Seattle Seahawks,2011
+['Cameron Morrah'],Questionable: knee,week_9,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_9,Seattle Seahawks,2011
+['Russell Okung'],NA,week_9,Seattle Seahawks,2011
+['Ron Parker'],NA,week_9,Seattle Seahawks,2011
+['Sidney Rice'],Probable: foot,week_9,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_9,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_9,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_9,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_9,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_9,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_9,Seattle Seahawks,2011
+['Max Unger'],NA,week_9,Seattle Seahawks,2011
+['David Vobora'],Questionable: calf,week_9,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_9,Seattle Seahawks,2011
+['Mike Williams'],Questionable: hamstring,week_9,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_10,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_10,Seattle Seahawks,2011
+['Alan Branch'],NA,week_10,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_10,Seattle Seahawks,2011
+['Deon Butler'],Probable: leg,week_10,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_10,Seattle Seahawks,2011
+['James Carpenter'],NA,week_10,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_10,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_10,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_10,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_10,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_10,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_10,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_10,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_10,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_10,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_10,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_10,Seattle Seahawks,2011
+['Jeron Johnson'],Questionable: ankle,week_10,Seattle Seahawks,2011
+['Jarriel King'],NA,week_10,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_10,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_10,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_10,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_10,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_10,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_10,Seattle Seahawks,2011
+['Zach Miller'],NA,week_10,Seattle Seahawks,2011
+['John Moffitt'],NA,week_10,Seattle Seahawks,2011
+['Cameron Morrah'],Questionable: knee,week_10,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_10,Seattle Seahawks,2011
+['Russell Okung'],NA,week_10,Seattle Seahawks,2011
+['Ron Parker'],NA,week_10,Seattle Seahawks,2011
+['Sidney Rice'],Questionable: foot,week_10,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_10,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_10,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_10,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_10,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_10,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_10,Seattle Seahawks,2011
+['Max Unger'],NA,week_10,Seattle Seahawks,2011
+['David Vobora'],Questionable: concussion,week_10,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_10,Seattle Seahawks,2011
+['Mike Williams'],NA,week_10,Seattle Seahawks,2011
+['Doug Baldwin'],Probable: concussion,week_11,Seattle Seahawks,2011
+['Atari Bigby'],Questionable: hamstring,week_11,Seattle Seahawks,2011
+['Alan Branch'],NA,week_11,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_11,Seattle Seahawks,2011
+['Deon Butler'],Questionable: leg,week_11,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_11,Seattle Seahawks,2011
+['James Carpenter'],Out: knee,week_11,Seattle Seahawks,2011
+['Kam Chancellor'],Probable: concussion,week_11,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_11,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_11,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_11,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_11,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_11,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_11,Seattle Seahawks,2011
+['Anthony Hargrove'],Questionable: hamstring,week_11,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_11,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_11,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_11,Seattle Seahawks,2011
+['Jeron Johnson'],Questionable: ankle,week_11,Seattle Seahawks,2011
+['Jarriel King'],NA,week_11,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_11,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_11,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_11,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_11,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_11,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_11,Seattle Seahawks,2011
+['Zach Miller'],NA,week_11,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee,week_11,Seattle Seahawks,2011
+['Cameron Morrah'],Probable: knee,week_11,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_11,Seattle Seahawks,2011
+['Russell Okung'],NA,week_11,Seattle Seahawks,2011
+['Ron Parker'],NA,week_11,Seattle Seahawks,2011
+['Sidney Rice'],Probable: concussion,week_11,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_11,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_11,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_11,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_11,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_11,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_11,Seattle Seahawks,2011
+['Max Unger'],NA,week_11,Seattle Seahawks,2011
+['David Vobora'],Probable: concussion,week_11,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_11,Seattle Seahawks,2011
+['Mike Williams'],NA,week_11,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_12,Seattle Seahawks,2011
+['Atari Bigby'],Probable: hamstring,week_12,Seattle Seahawks,2011
+['Alan Branch'],Questionable: ankle,week_12,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_12,Seattle Seahawks,2011
+['Deon Butler'],NA,week_12,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_12,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_12,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_12,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_12,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_12,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_12,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_12,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_12,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_12,Seattle Seahawks,2011
+['Anthony Hargrove'],Probable: hamstring,week_12,Seattle Seahawks,2011
+['David Hawthorne'],NA,week_12,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_12,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_12,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_12,Seattle Seahawks,2011
+['Jarriel King'],NA,week_12,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_12,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_12,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_12,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_12,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_12,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_12,Seattle Seahawks,2011
+['Zach Miller'],NA,week_12,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee,week_12,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_12,Seattle Seahawks,2011
+['Ben Obomanu'],Questionable: knee,week_12,Seattle Seahawks,2011
+['Russell Okung'],NA,week_12,Seattle Seahawks,2011
+['Ron Parker'],NA,week_12,Seattle Seahawks,2011
+['Sidney Rice'],Questionable: knee,week_12,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_12,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_12,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_12,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_12,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_12,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_12,Seattle Seahawks,2011
+['Max Unger'],NA,week_12,Seattle Seahawks,2011
+['David Vobora'],NA,week_12,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_12,Seattle Seahawks,2011
+['Mike Williams'],NA,week_12,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_13,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_13,Seattle Seahawks,2011
+['Alan Branch'],Questionable: ankle,week_13,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_13,Seattle Seahawks,2011
+['Deon Butler'],NA,week_13,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_13,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_13,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_13,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_13,Seattle Seahawks,2011
+['Kennard Cox'],NA,week_13,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_13,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_13,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_13,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_13,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_13,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_13,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_13,Seattle Seahawks,2011
+['Tarvaris Jackson'],Questionable: pectoral,week_13,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_13,Seattle Seahawks,2011
+['Jarriel King'],NA,week_13,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_13,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_13,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_13,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: ankle,week_13,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_13,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_13,Seattle Seahawks,2011
+['Zach Miller'],NA,week_13,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee,week_13,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_13,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_13,Seattle Seahawks,2011
+['Russell Okung'],NA,week_13,Seattle Seahawks,2011
+['Ron Parker'],NA,week_13,Seattle Seahawks,2011
+['Sidney Rice'],Questionable: head,week_13,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_13,Seattle Seahawks,2011
+['Richard Sherman'],Questionable: calf,week_13,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_13,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_13,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_13,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_13,Seattle Seahawks,2011
+['Max Unger'],NA,week_13,Seattle Seahawks,2011
+['David Vobora'],Injured Reserve: shoulder,week_13,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_13,Seattle Seahawks,2011
+['Mike Williams'],Questionable: shoulder,week_13,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_14,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_14,Seattle Seahawks,2011
+['Alan Branch'],NA,week_14,Seattle Seahawks,2011
+['Raheem Brock'],Questionable: calf,week_14,Seattle Seahawks,2011
+['Deon Butler'],NA,week_14,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_14,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_14,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_14,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_14,Seattle Seahawks,2011
+['Kennard Cox'],Questionable: hamstring,week_14,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_14,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_14,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_14,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_14,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_14,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_14,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_14,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_14,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_14,Seattle Seahawks,2011
+['Jarriel King'],NA,week_14,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_14,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_14,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_14,Seattle Seahawks,2011
+['Byron Maxwell'],Questionable: illness,week_14,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_14,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_14,Seattle Seahawks,2011
+['Zach Miller'],NA,week_14,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee/four-game suspension,week_14,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_14,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_14,Seattle Seahawks,2011
+['Russell Okung'],Injured Reserve: pectoral,week_14,Seattle Seahawks,2011
+['Ron Parker'],NA,week_14,Seattle Seahawks,2011
+['Sidney Rice'],Injured Reserve: head,week_14,Seattle Seahawks,2011
+['Michael Robinson'],Questionable: groin,week_14,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_14,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_14,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_14,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_14,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_14,Seattle Seahawks,2011
+['Max Unger'],NA,week_14,Seattle Seahawks,2011
+['David Vobora'],Injured Reserve: shoulder,week_14,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_14,Seattle Seahawks,2011
+['Mike Williams'],NA,week_14,Seattle Seahawks,2011
+['Doug Baldwin'],Questionable: ankle,week_15,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_15,Seattle Seahawks,2011
+['Alan Branch'],NA,week_15,Seattle Seahawks,2011
+['Raheem Brock'],Questionable: calf,week_15,Seattle Seahawks,2011
+['Deon Butler'],NA,week_15,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_15,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_15,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_15,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_15,Seattle Seahawks,2011
+['Kennard Cox'],Probable: hamstring,week_15,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_15,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_15,Seattle Seahawks,2011
+['Robert Gallery'],Questionable: hip,week_15,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_15,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_15,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_15,Seattle Seahawks,2011
+['LeRoy Hill'],Probable: neck,week_15,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_15,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_15,Seattle Seahawks,2011
+['Jarriel King'],Probable: hamstring,week_15,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_15,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_15,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_15,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_15,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_15,Seattle Seahawks,2011
+['Clinton McDonald'],NA,week_15,Seattle Seahawks,2011
+['Zach Miller'],NA,week_15,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee/four-game suspension,week_15,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_15,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_15,Seattle Seahawks,2011
+['Russell Okung'],Injured Reserve: pectoral,week_15,Seattle Seahawks,2011
+['Ron Parker'],Injured Reserve: Achilles,week_15,Seattle Seahawks,2011
+['Sidney Rice'],Injured Reserve: head,week_15,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_15,Seattle Seahawks,2011
+['Richard Sherman'],Probable: knee,week_15,Seattle Seahawks,2011
+['Malcolm Smith'],NA,week_15,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_15,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_15,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_15,Seattle Seahawks,2011
+['Max Unger'],NA,week_15,Seattle Seahawks,2011
+['David Vobora'],Injured Reserve: shoulder,week_15,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_15,Seattle Seahawks,2011
+['Mike Williams'],NA,week_15,Seattle Seahawks,2011
+['Doug Baldwin'],Questionable: ankle,week_16,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_16,Seattle Seahawks,2011
+['Alan Branch'],NA,week_16,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_16,Seattle Seahawks,2011
+['Deon Butler'],NA,week_16,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_16,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_16,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_16,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_16,Seattle Seahawks,2011
+['Kennard Cox'],Questionable: hamstring,week_16,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_16,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_16,Seattle Seahawks,2011
+['Robert Gallery'],Probable: pelvis,week_16,Seattle Seahawks,2011
+['Breno Giacomini'],NA,week_16,Seattle Seahawks,2011
+['Anthony Hargrove'],NA,week_16,Seattle Seahawks,2011
+['David Hawthorne'],Probable: knee,week_16,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_16,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_16,Seattle Seahawks,2011
+['Jeron Johnson'],NA,week_16,Seattle Seahawks,2011
+['Jarriel King'],Questionable: hamstring,week_16,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_16,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_16,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_16,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_16,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_16,Seattle Seahawks,2011
+['Clinton McDonald'],Questionable: concussion,week_16,Seattle Seahawks,2011
+['Zach Miller'],NA,week_16,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee,week_16,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_16,Seattle Seahawks,2011
+['Ben Obomanu'],NA,week_16,Seattle Seahawks,2011
+['Russell Okung'],Injured Reserve: pectoral,week_16,Seattle Seahawks,2011
+['Ron Parker'],Injured Reserve: Achilles,week_16,Seattle Seahawks,2011
+['Sidney Rice'],Injured Reserve: head,week_16,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_16,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_16,Seattle Seahawks,2011
+['Malcolm Smith'],Questionable: concussion,week_16,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_16,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_16,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_16,Seattle Seahawks,2011
+['Max Unger'],NA,week_16,Seattle Seahawks,2011
+['David Vobora'],Injured Reserve: shoulder,week_16,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_16,Seattle Seahawks,2011
+['Mike Williams'],Injured Reserve: ankle,week_16,Seattle Seahawks,2011
+['Doug Baldwin'],NA,week_17,Seattle Seahawks,2011
+['Atari Bigby'],NA,week_17,Seattle Seahawks,2011
+['Alan Branch'],NA,week_17,Seattle Seahawks,2011
+['Raheem Brock'],NA,week_17,Seattle Seahawks,2011
+['Deon Butler'],NA,week_17,Seattle Seahawks,2011
+['John Carlson'],Injured Reserve: shoulder,week_17,Seattle Seahawks,2011
+['James Carpenter'],Injured Reserve: knee,week_17,Seattle Seahawks,2011
+['Kam Chancellor'],NA,week_17,Seattle Seahawks,2011
+['Chris Clemons'],NA,week_17,Seattle Seahawks,2011
+['Kennard Cox'],Probable: hamstring,week_17,Seattle Seahawks,2011
+['Dexter Davis'],Injured Reserve: hip,week_17,Seattle Seahawks,2011
+['Kris Durham'],Injured Reserve: shoulder,week_17,Seattle Seahawks,2011
+['Robert Gallery'],NA,week_17,Seattle Seahawks,2011
+['Breno Giacomini'],Questionable: abdomen,week_17,Seattle Seahawks,2011
+['Anthony Hargrove'],Questionable: calf,week_17,Seattle Seahawks,2011
+['David Hawthorne'],Questionable: knee,week_17,Seattle Seahawks,2011
+['LeRoy Hill'],NA,week_17,Seattle Seahawks,2011
+['Tarvaris Jackson'],Probable: pectoral,week_17,Seattle Seahawks,2011
+['Jeron Johnson'],Probable: illness,week_17,Seattle Seahawks,2011
+['Jarriel King'],NA,week_17,Seattle Seahawks,2011
+['Jameson Konz'],Injured Reserve: knee,week_17,Seattle Seahawks,2011
+['Roy Lewis'],NA,week_17,Seattle Seahawks,2011
+['Marshawn Lynch'],NA,week_17,Seattle Seahawks,2011
+['Byron Maxwell'],NA,week_17,Seattle Seahawks,2011
+['Matt McCoy'],Injured Reserve: knee,week_17,Seattle Seahawks,2011
+['Clinton McDonald'],Probable: concussion,week_17,Seattle Seahawks,2011
+['Zach Miller'],NA,week_17,Seattle Seahawks,2011
+['John Moffitt'],Injured Reserve: knee,week_17,Seattle Seahawks,2011
+['Cameron Morrah'],NA,week_17,Seattle Seahawks,2011
+['Ben Obomanu'],Questionable: knee,week_17,Seattle Seahawks,2011
+['Russell Okung'],Injured Reserve: pectoral,week_17,Seattle Seahawks,2011
+['Ron Parker'],Injured Reserve: Achilles,week_17,Seattle Seahawks,2011
+['Sidney Rice'],Injured Reserve: head,week_17,Seattle Seahawks,2011
+['Michael Robinson'],NA,week_17,Seattle Seahawks,2011
+['Richard Sherman'],NA,week_17,Seattle Seahawks,2011
+['Malcolm Smith'],Probable: concussion,week_17,Seattle Seahawks,2011
+['Isaiah Stanback'],Injured Reserve: hamstring,week_17,Seattle Seahawks,2011
+['Walter Thurmond'],Injured Reserve: leg,week_17,Seattle Seahawks,2011
+['Marcus Trufant'],Injured Reserve: concussion,week_17,Seattle Seahawks,2011
+['Max Unger'],NA,week_17,Seattle Seahawks,2011
+['David Vobora'],Injured Reserve: shoulder,week_17,Seattle Seahawks,2011
+['Jimmy Wilkerson'],Injured Reserve: knee,week_17,Seattle Seahawks,2011
+['Mike Williams'],Injured Reserve: ankle,week_17,Seattle Seahawks,2011

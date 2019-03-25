@@ -1,0 +1,664 @@
+﻿name,injury,week,team,year
+['Desmond Bishop'],NA,week_1,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_1,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_1,Green Bay Packers,2011
+['Chad Clifton'],Probable: knee,week_1,Green Bay Packers,2011
+['Randall Cobb'],Probable: knee,week_1,Green Bay Packers,2011
+['Nick Collins'],NA,week_1,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_1,Green Bay Packers,2011
+['Donald Driver'],Questionable: ankle,week_1,Green Bay Packers,2011
+['Jermichael Finley'],Probable: ankle,week_1,Green Bay Packers,2011
+['Rob Francois'],NA,week_1,Green Bay Packers,2011
+['Ryan Grant'],NA,week_1,Green Bay Packers,2011
+['Alex Green'],NA,week_1,Green Bay Packers,2011
+['Howard Green'],NA,week_1,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_1,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_1,Green Bay Packers,2011
+['Davon House'],Out: ankle,week_1,Green Bay Packers,2011
+['Greg Jennings'],NA,week_1,Green Bay Packers,2011
+['Brad Jones'],NA,week_1,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_1,Green Bay Packers,2011
+['Pat Lee'],NA,week_1,Green Bay Packers,2011
+['Clay Matthews'],NA,week_1,Green Bay Packers,2011
+['Mike Neal'],Probable: knee,week_1,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_1,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_1,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_1,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_1,Green Bay Packers,2011
+['Brandon Saine'],NA,week_1,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_1,Green Bay Packers,2011
+['Sam Shields'],NA,week_1,Green Bay Packers,2011
+['Josh Sitton'],NA,week_1,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_1,Green Bay Packers,2011
+"[""Vic So'oto""]",Out: back,week_1,Green Bay Packers,2011
+['James Starks'],NA,week_1,Green Bay Packers,2011
+['Ryan Taylor'],Probable: hip,week_1,Green Bay Packers,2011
+['Brandon Underwood'],Questionable: knee,week_1,Green Bay Packers,2011
+['Erik Walden'],NA,week_1,Green Bay Packers,2011
+['Tramon Williams'],NA,week_1,Green Bay Packers,2011
+['Charles Woodson'],NA,week_1,Green Bay Packers,2011
+['Frank Zombo'],Out: shoulder,week_1,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_2,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_2,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_2,Green Bay Packers,2011
+['Chad Clifton'],Probable: knee,week_2,Green Bay Packers,2011
+['Randall Cobb'],NA,week_2,Green Bay Packers,2011
+['Nick Collins'],Questionable: wrist,week_2,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_2,Green Bay Packers,2011
+['Donald Driver'],NA,week_2,Green Bay Packers,2011
+['Jermichael Finley'],Questionable: ankle,week_2,Green Bay Packers,2011
+['Rob Francois'],NA,week_2,Green Bay Packers,2011
+['Ryan Grant'],NA,week_2,Green Bay Packers,2011
+['Alex Green'],Questionable: Achilles,week_2,Green Bay Packers,2011
+['Howard Green'],NA,week_2,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_2,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_2,Green Bay Packers,2011
+['Davon House'],Probable: ankle,week_2,Green Bay Packers,2011
+['Greg Jennings'],NA,week_2,Green Bay Packers,2011
+['Brad Jones'],NA,week_2,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_2,Green Bay Packers,2011
+['Pat Lee'],NA,week_2,Green Bay Packers,2011
+['Clay Matthews'],NA,week_2,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_2,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_2,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_2,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_2,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_2,Green Bay Packers,2011
+['Brandon Saine'],NA,week_2,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_2,Green Bay Packers,2011
+['Sam Shields'],NA,week_2,Green Bay Packers,2011
+['Josh Sitton'],NA,week_2,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_2,Green Bay Packers,2011
+"[""Vic So'oto""]",Questionable: back,week_2,Green Bay Packers,2011
+['James Starks'],NA,week_2,Green Bay Packers,2011
+['Ryan Taylor'],Probable: hip,week_2,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_2,Green Bay Packers,2011
+['Erik Walden'],NA,week_2,Green Bay Packers,2011
+['Tramon Williams'],Questionable: shoulder,week_2,Green Bay Packers,2011
+['Charles Woodson'],NA,week_2,Green Bay Packers,2011
+['Frank Zombo'],Out: shoulder,week_2,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_3,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_3,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_3,Green Bay Packers,2011
+['Chad Clifton'],Probable: knee,week_3,Green Bay Packers,2011
+['Randall Cobb'],NA,week_3,Green Bay Packers,2011
+['Nick Collins'],Out: neck,week_3,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_3,Green Bay Packers,2011
+['Donald Driver'],NA,week_3,Green Bay Packers,2011
+['Jermichael Finley'],Probable: ankle,week_3,Green Bay Packers,2011
+['Rob Francois'],NA,week_3,Green Bay Packers,2011
+['Ryan Grant'],NA,week_3,Green Bay Packers,2011
+['Alex Green'],Probable: Achilles,week_3,Green Bay Packers,2011
+['Howard Green'],NA,week_3,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_3,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_3,Green Bay Packers,2011
+['Davon House'],Probable: ankle,week_3,Green Bay Packers,2011
+['Greg Jennings'],NA,week_3,Green Bay Packers,2011
+['Brad Jones'],NA,week_3,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_3,Green Bay Packers,2011
+['Pat Lee'],NA,week_3,Green Bay Packers,2011
+['Clay Matthews'],Probable: quadriceps,week_3,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_3,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_3,Green Bay Packers,2011
+['Ryan Pickett'],Questionable: foot,week_3,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_3,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_3,Green Bay Packers,2011
+['Brandon Saine'],NA,week_3,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_3,Green Bay Packers,2011
+['Sam Shields'],NA,week_3,Green Bay Packers,2011
+['Josh Sitton'],NA,week_3,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_3,Green Bay Packers,2011
+"[""Vic So'oto""]",Probable: back,week_3,Green Bay Packers,2011
+['James Starks'],NA,week_3,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_3,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_3,Green Bay Packers,2011
+['Erik Walden'],NA,week_3,Green Bay Packers,2011
+['Tramon Williams'],Questionable: shoulder,week_3,Green Bay Packers,2011
+['Charles Woodson'],Probable: foot,week_3,Green Bay Packers,2011
+['Frank Zombo'],Out: shoulder,week_3,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_4,Green Bay Packers,2011
+['Bryan Bulaga'],Out: knee,week_4,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_4,Green Bay Packers,2011
+['Chad Clifton'],Probable: knee,week_4,Green Bay Packers,2011
+['Randall Cobb'],NA,week_4,Green Bay Packers,2011
+['Nick Collins'],Out: neck,week_4,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_4,Green Bay Packers,2011
+['Donald Driver'],NA,week_4,Green Bay Packers,2011
+['Jermichael Finley'],Probable: ankle,week_4,Green Bay Packers,2011
+['Rob Francois'],NA,week_4,Green Bay Packers,2011
+['Ryan Grant'],Questionable: kidney,week_4,Green Bay Packers,2011
+['Alex Green'],Questionable: Achilles,week_4,Green Bay Packers,2011
+['Howard Green'],NA,week_4,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_4,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_4,Green Bay Packers,2011
+['Davon House'],Questionable: ankle,week_4,Green Bay Packers,2011
+['Greg Jennings'],NA,week_4,Green Bay Packers,2011
+['Brad Jones'],Questionable: hamstring,week_4,Green Bay Packers,2011
+['Jamari Lattimore'],Questionable: shoulder,week_4,Green Bay Packers,2011
+['Pat Lee'],Questionable: back,week_4,Green Bay Packers,2011
+['Clay Matthews'],Questionable: thigh,week_4,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_4,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_4,Green Bay Packers,2011
+['Ryan Pickett'],Probable: foot,week_4,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_4,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_4,Green Bay Packers,2011
+['Brandon Saine'],NA,week_4,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_4,Green Bay Packers,2011
+['Sam Shields'],NA,week_4,Green Bay Packers,2011
+['Josh Sitton'],NA,week_4,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_4,Green Bay Packers,2011
+"[""Vic So'oto""]",Probable: back,week_4,Green Bay Packers,2011
+['James Starks'],NA,week_4,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_4,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_4,Green Bay Packers,2011
+['Erik Walden'],NA,week_4,Green Bay Packers,2011
+['Tramon Williams'],Probable: shoulder,week_4,Green Bay Packers,2011
+['Charles Woodson'],Questionable: foot,week_4,Green Bay Packers,2011
+['Frank Zombo'],Out: shoulder,week_4,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_5,Green Bay Packers,2011
+['Bryan Bulaga'],Questionable: knee,week_5,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_5,Green Bay Packers,2011
+['Chad Clifton'],Probable: knee,week_5,Green Bay Packers,2011
+['Randall Cobb'],NA,week_5,Green Bay Packers,2011
+['Nick Collins'],Out: neck,week_5,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_5,Green Bay Packers,2011
+['Donald Driver'],Probable: knee,week_5,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_5,Green Bay Packers,2011
+['Rob Francois'],NA,week_5,Green Bay Packers,2011
+['Ryan Grant'],Probable: kidney,week_5,Green Bay Packers,2011
+['Alex Green'],NA,week_5,Green Bay Packers,2011
+['Howard Green'],NA,week_5,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_5,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_5,Green Bay Packers,2011
+['Davon House'],NA,week_5,Green Bay Packers,2011
+['Greg Jennings'],NA,week_5,Green Bay Packers,2011
+['Brad Jones'],Questionable: hamstring,week_5,Green Bay Packers,2011
+['Jamari Lattimore'],Questionable: shoulder,week_5,Green Bay Packers,2011
+['Pat Lee'],Questionable: back,week_5,Green Bay Packers,2011
+['Clay Matthews'],Questionable: quadricep,week_5,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_5,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_5,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_5,Green Bay Packers,2011
+['Andrew Quarless'],Questionable: knee,week_5,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_5,Green Bay Packers,2011
+['Brandon Saine'],NA,week_5,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_5,Green Bay Packers,2011
+['Sam Shields'],NA,week_5,Green Bay Packers,2011
+['Josh Sitton'],NA,week_5,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_5,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_5,Green Bay Packers,2011
+['James Starks'],NA,week_5,Green Bay Packers,2011
+['Ryan Taylor'],Probable: shoulder,week_5,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_5,Green Bay Packers,2011
+['Erik Walden'],NA,week_5,Green Bay Packers,2011
+['Tramon Williams'],Questionable: shoulder,week_5,Green Bay Packers,2011
+['Charles Woodson'],Questionable: foot/knee,week_5,Green Bay Packers,2011
+['Frank Zombo'],Questionable: shoulder,week_5,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_6,Green Bay Packers,2011
+['Bryan Bulaga'],Probable: knee,week_6,Green Bay Packers,2011
+['Morgan Burnett'],Probable: hand,week_6,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_6,Green Bay Packers,2011
+['Randall Cobb'],NA,week_6,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_6,Green Bay Packers,2011
+['Evan Dietrich-Smith'],Questionable: foot,week_6,Green Bay Packers,2011
+['Donald Driver'],NA,week_6,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_6,Green Bay Packers,2011
+['Rob Francois'],NA,week_6,Green Bay Packers,2011
+['Ryan Grant'],NA,week_6,Green Bay Packers,2011
+['Alex Green'],NA,week_6,Green Bay Packers,2011
+['Howard Green'],NA,week_6,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_6,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_6,Green Bay Packers,2011
+['Davon House'],NA,week_6,Green Bay Packers,2011
+['Greg Jennings'],Questionable: groin,week_6,Green Bay Packers,2011
+['Brad Jones'],NA,week_6,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_6,Green Bay Packers,2011
+['Pat Lee'],Probable: back,week_6,Green Bay Packers,2011
+['Clay Matthews'],Questionable: thigh,week_6,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_6,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_6,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_6,Green Bay Packers,2011
+['Andrew Quarless'],Probable: knee,week_6,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_6,Green Bay Packers,2011
+['Brandon Saine'],NA,week_6,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_6,Green Bay Packers,2011
+['Sam Shields'],NA,week_6,Green Bay Packers,2011
+['Josh Sitton'],Questionable: ankle,week_6,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_6,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_6,Green Bay Packers,2011
+['James Starks'],NA,week_6,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_6,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_6,Green Bay Packers,2011
+['Erik Walden'],NA,week_6,Green Bay Packers,2011
+['Tramon Williams'],NA,week_6,Green Bay Packers,2011
+['Charles Woodson'],Questionable: knee/foot,week_6,Green Bay Packers,2011
+['Frank Zombo'],Probable: shoulder,week_6,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_7,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_7,Green Bay Packers,2011
+['Morgan Burnett'],Questionable: hand,week_7,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_7,Green Bay Packers,2011
+['Randall Cobb'],NA,week_7,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_7,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_7,Green Bay Packers,2011
+['Donald Driver'],NA,week_7,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_7,Green Bay Packers,2011
+['Rob Francois'],NA,week_7,Green Bay Packers,2011
+['Ryan Grant'],NA,week_7,Green Bay Packers,2011
+['Alex Green'],NA,week_7,Green Bay Packers,2011
+['Howard Green'],NA,week_7,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_7,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_7,Green Bay Packers,2011
+['Davon House'],NA,week_7,Green Bay Packers,2011
+['Greg Jennings'],NA,week_7,Green Bay Packers,2011
+['Brad Jones'],NA,week_7,Green Bay Packers,2011
+['Jamari Lattimore'],Questionable: shoulder,week_7,Green Bay Packers,2011
+['Pat Lee'],NA,week_7,Green Bay Packers,2011
+['Clay Matthews'],Questionable: quadricep,week_7,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_7,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_7,Green Bay Packers,2011
+['Ryan Pickett'],Questionable: knee,week_7,Green Bay Packers,2011
+['Andrew Quarless'],Probable: knee,week_7,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_7,Green Bay Packers,2011
+['Brandon Saine'],NA,week_7,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_7,Green Bay Packers,2011
+['Sam Shields'],Questionable: concussion,week_7,Green Bay Packers,2011
+['Josh Sitton'],Questionable: knee,week_7,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_7,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_7,Green Bay Packers,2011
+['James Starks'],NA,week_7,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_7,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_7,Green Bay Packers,2011
+['Erik Walden'],NA,week_7,Green Bay Packers,2011
+['Tramon Williams'],NA,week_7,Green Bay Packers,2011
+['Charles Woodson'],Questionable: foot/knee,week_7,Green Bay Packers,2011
+['Frank Zombo'],Out: knee,week_7,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_9,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_9,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_9,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_9,Green Bay Packers,2011
+['Randall Cobb'],NA,week_9,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_9,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_9,Green Bay Packers,2011
+['Donald Driver'],NA,week_9,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_9,Green Bay Packers,2011
+['Rob Francois'],NA,week_9,Green Bay Packers,2011
+['Ryan Grant'],NA,week_9,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_9,Green Bay Packers,2011
+['Howard Green'],NA,week_9,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_9,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_9,Green Bay Packers,2011
+['Davon House'],NA,week_9,Green Bay Packers,2011
+['Greg Jennings'],Probable: hand,week_9,Green Bay Packers,2011
+['Brad Jones'],NA,week_9,Green Bay Packers,2011
+['Jamari Lattimore'],Probable: shoulder,week_9,Green Bay Packers,2011
+['Pat Lee'],NA,week_9,Green Bay Packers,2011
+['Clay Matthews'],Questionable: quadricep,week_9,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_9,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_9,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_9,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_9,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_9,Green Bay Packers,2011
+['Brandon Saine'],NA,week_9,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_9,Green Bay Packers,2011
+['Sam Shields'],Probable: concussion,week_9,Green Bay Packers,2011
+['Josh Sitton'],Questionable: knee,week_9,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_9,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_9,Green Bay Packers,2011
+['James Starks'],NA,week_9,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_9,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_9,Green Bay Packers,2011
+['Erik Walden'],NA,week_9,Green Bay Packers,2011
+['Tramon Williams'],NA,week_9,Green Bay Packers,2011
+['Charles Woodson'],NA,week_9,Green Bay Packers,2011
+['Frank Zombo'],Probable: knee,week_9,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_10,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_10,Green Bay Packers,2011
+['Morgan Burnett'],Probable: hand,week_10,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_10,Green Bay Packers,2011
+['Randall Cobb'],NA,week_10,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_10,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_10,Green Bay Packers,2011
+['Donald Driver'],NA,week_10,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_10,Green Bay Packers,2011
+['Rob Francois'],NA,week_10,Green Bay Packers,2011
+['Ryan Grant'],NA,week_10,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_10,Green Bay Packers,2011
+['Howard Green'],NA,week_10,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_10,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_10,Green Bay Packers,2011
+['Davon House'],NA,week_10,Green Bay Packers,2011
+['Greg Jennings'],NA,week_10,Green Bay Packers,2011
+['Brad Jones'],NA,week_10,Green Bay Packers,2011
+['Jamari Lattimore'],Questionable: shoulder,week_10,Green Bay Packers,2011
+['Pat Lee'],NA,week_10,Green Bay Packers,2011
+['Clay Matthews'],Questionable: knee,week_10,Green Bay Packers,2011
+['Mike Neal'],Out: knee,week_10,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_10,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_10,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_10,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_10,Green Bay Packers,2011
+['Brandon Saine'],NA,week_10,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_10,Green Bay Packers,2011
+['Sam Shields'],NA,week_10,Green Bay Packers,2011
+['Josh Sitton'],Questionable: knee,week_10,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_10,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_10,Green Bay Packers,2011
+['James Starks'],NA,week_10,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_10,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_10,Green Bay Packers,2011
+['Erik Walden'],NA,week_10,Green Bay Packers,2011
+['Tramon Williams'],NA,week_10,Green Bay Packers,2011
+['Charles Woodson'],NA,week_10,Green Bay Packers,2011
+['Frank Zombo'],Questionable: hamstring,week_10,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_11,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_11,Green Bay Packers,2011
+['Morgan Burnett'],Probable: hand,week_11,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_11,Green Bay Packers,2011
+['Randall Cobb'],NA,week_11,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_11,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_11,Green Bay Packers,2011
+['Donald Driver'],NA,week_11,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_11,Green Bay Packers,2011
+['Rob Francois'],NA,week_11,Green Bay Packers,2011
+['Ryan Grant'],Questionable: hamstring,week_11,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_11,Green Bay Packers,2011
+['Howard Green'],NA,week_11,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_11,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_11,Green Bay Packers,2011
+['Davon House'],NA,week_11,Green Bay Packers,2011
+['Greg Jennings'],NA,week_11,Green Bay Packers,2011
+['Brad Jones'],NA,week_11,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_11,Green Bay Packers,2011
+['Pat Lee'],NA,week_11,Green Bay Packers,2011
+['Clay Matthews'],Probable: ankle,week_11,Green Bay Packers,2011
+['Mike Neal'],Questionable: knee,week_11,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_11,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_11,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_11,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_11,Green Bay Packers,2011
+['Brandon Saine'],NA,week_11,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_11,Green Bay Packers,2011
+['Sam Shields'],NA,week_11,Green Bay Packers,2011
+['Josh Sitton'],Probable: knee,week_11,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_11,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_11,Green Bay Packers,2011
+['James Starks'],NA,week_11,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_11,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_11,Green Bay Packers,2011
+['Erik Walden'],NA,week_11,Green Bay Packers,2011
+['Tramon Williams'],NA,week_11,Green Bay Packers,2011
+['Charles Woodson'],NA,week_11,Green Bay Packers,2011
+['Frank Zombo'],Doubtful: hamstring,week_11,Green Bay Packers,2011
+['Desmond Bishop'],Questionable: calf,week_12,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_12,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_12,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_12,Green Bay Packers,2011
+['Randall Cobb'],NA,week_12,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_12,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_12,Green Bay Packers,2011
+['Donald Driver'],NA,week_12,Green Bay Packers,2011
+['Jermichael Finley'],Probable: wrist,week_12,Green Bay Packers,2011
+['Rob Francois'],NA,week_12,Green Bay Packers,2011
+['Ryan Grant'],NA,week_12,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_12,Green Bay Packers,2011
+['Howard Green'],NA,week_12,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_12,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_12,Green Bay Packers,2011
+['Davon House'],NA,week_12,Green Bay Packers,2011
+['Greg Jennings'],Questionable: knee,week_12,Green Bay Packers,2011
+['Brad Jones'],NA,week_12,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_12,Green Bay Packers,2011
+['Pat Lee'],NA,week_12,Green Bay Packers,2011
+['Clay Matthews'],Probable: ankle,week_12,Green Bay Packers,2011
+['Mike Neal'],NA,week_12,Green Bay Packers,2011
+['Marshall Newhouse'],Questionable: knee,week_12,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_12,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_12,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_12,Green Bay Packers,2011
+['Brandon Saine'],NA,week_12,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_12,Green Bay Packers,2011
+['Sam Shields'],NA,week_12,Green Bay Packers,2011
+['Josh Sitton'],Questionable: knee,week_12,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_12,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_12,Green Bay Packers,2011
+['James Starks'],Doubtful: knee,week_12,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_12,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_12,Green Bay Packers,2011
+['Erik Walden'],NA,week_12,Green Bay Packers,2011
+['Tramon Williams'],NA,week_12,Green Bay Packers,2011
+['Charles Woodson'],NA,week_12,Green Bay Packers,2011
+['Frank Zombo'],Doubtful: hamstring,week_12,Green Bay Packers,2011
+['Desmond Bishop'],Questionable: calf,week_13,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_13,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_13,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_13,Green Bay Packers,2011
+['Randall Cobb'],NA,week_13,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_13,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_13,Green Bay Packers,2011
+['Donald Driver'],NA,week_13,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_13,Green Bay Packers,2011
+['Rob Francois'],NA,week_13,Green Bay Packers,2011
+['Ryan Grant'],NA,week_13,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_13,Green Bay Packers,2011
+['Howard Green'],NA,week_13,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_13,Green Bay Packers,2011
+['A.J. Hawk'],Questionable: calf,week_13,Green Bay Packers,2011
+['Davon House'],NA,week_13,Green Bay Packers,2011
+['Greg Jennings'],NA,week_13,Green Bay Packers,2011
+['Brad Jones'],NA,week_13,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_13,Green Bay Packers,2011
+['Pat Lee'],NA,week_13,Green Bay Packers,2011
+['Clay Matthews'],NA,week_13,Green Bay Packers,2011
+['Mike Neal'],NA,week_13,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_13,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_13,Green Bay Packers,2011
+['Andrew Quarless'],NA,week_13,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_13,Green Bay Packers,2011
+['Brandon Saine'],NA,week_13,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_13,Green Bay Packers,2011
+['Sam Shields'],NA,week_13,Green Bay Packers,2011
+['Josh Sitton'],Out: knee,week_13,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_13,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_13,Green Bay Packers,2011
+['James Starks'],Probable: ankle/knee,week_13,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_13,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_13,Green Bay Packers,2011
+['Erik Walden'],NA,week_13,Green Bay Packers,2011
+['Tramon Williams'],NA,week_13,Green Bay Packers,2011
+['Charles Woodson'],NA,week_13,Green Bay Packers,2011
+['Frank Zombo'],NA,week_13,Green Bay Packers,2011
+['Desmond Bishop'],Questionable: calf,week_14,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_14,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_14,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_14,Green Bay Packers,2011
+['Randall Cobb'],NA,week_14,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_14,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_14,Green Bay Packers,2011
+['Donald Driver'],NA,week_14,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_14,Green Bay Packers,2011
+['Rob Francois'],NA,week_14,Green Bay Packers,2011
+['Ryan Grant'],NA,week_14,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_14,Green Bay Packers,2011
+['Howard Green'],NA,week_14,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_14,Green Bay Packers,2011
+['A.J. Hawk'],Questionable: calf,week_14,Green Bay Packers,2011
+['Davon House'],NA,week_14,Green Bay Packers,2011
+['Greg Jennings'],NA,week_14,Green Bay Packers,2011
+['Brad Jones'],NA,week_14,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_14,Green Bay Packers,2011
+['Pat Lee'],NA,week_14,Green Bay Packers,2011
+['Clay Matthews'],NA,week_14,Green Bay Packers,2011
+['Mike Neal'],NA,week_14,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_14,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_14,Green Bay Packers,2011
+['Andrew Quarless'],Out: knee,week_14,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_14,Green Bay Packers,2011
+['Brandon Saine'],NA,week_14,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_14,Green Bay Packers,2011
+['Sam Shields'],NA,week_14,Green Bay Packers,2011
+['Josh Sitton'],Out: knee,week_14,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_14,Green Bay Packers,2011
+"[""Vic So'oto""]",Questionable: back,week_14,Green Bay Packers,2011
+['James Starks'],Questionable: ankle,week_14,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_14,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_14,Green Bay Packers,2011
+['Erik Walden'],Probable: legal,week_14,Green Bay Packers,2011
+['Tramon Williams'],NA,week_14,Green Bay Packers,2011
+['Charles Woodson'],Probable: concussion,week_14,Green Bay Packers,2011
+['Frank Zombo'],NA,week_14,Green Bay Packers,2011
+['Desmond Bishop'],Questionable: calf,week_15,Green Bay Packers,2011
+['Bryan Bulaga'],NA,week_15,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_15,Green Bay Packers,2011
+['Chad Clifton'],Out: hamstring,week_15,Green Bay Packers,2011
+['Randall Cobb'],NA,week_15,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_15,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_15,Green Bay Packers,2011
+['Donald Driver'],NA,week_15,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_15,Green Bay Packers,2011
+['Rob Francois'],NA,week_15,Green Bay Packers,2011
+['Ryan Grant'],NA,week_15,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_15,Green Bay Packers,2011
+['Howard Green'],NA,week_15,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_15,Green Bay Packers,2011
+['A.J. Hawk'],Probable: calf,week_15,Green Bay Packers,2011
+['Davon House'],NA,week_15,Green Bay Packers,2011
+['Greg Jennings'],Out: knee,week_15,Green Bay Packers,2011
+['Brad Jones'],NA,week_15,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_15,Green Bay Packers,2011
+['Pat Lee'],NA,week_15,Green Bay Packers,2011
+['Clay Matthews'],NA,week_15,Green Bay Packers,2011
+['Mike Neal'],NA,week_15,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_15,Green Bay Packers,2011
+['Ryan Pickett'],Questionable: head,week_15,Green Bay Packers,2011
+['Andrew Quarless'],Injured Reserve: knee,week_15,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_15,Green Bay Packers,2011
+['Brandon Saine'],Doubtful: head,week_15,Green Bay Packers,2011
+['Derek Sherrod'],NA,week_15,Green Bay Packers,2011
+['Sam Shields'],NA,week_15,Green Bay Packers,2011
+['Josh Sitton'],Questionable: knee,week_15,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_15,Green Bay Packers,2011
+"[""Vic So'oto""]",Questionable: back,week_15,Green Bay Packers,2011
+['James Starks'],Doubtful: ankle,week_15,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_15,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_15,Green Bay Packers,2011
+['Erik Walden'],NA,week_15,Green Bay Packers,2011
+['Tramon Williams'],NA,week_15,Green Bay Packers,2011
+['Charles Woodson'],NA,week_15,Green Bay Packers,2011
+['Frank Zombo'],NA,week_15,Green Bay Packers,2011
+['Desmond Bishop'],Questionable: calf,week_16,Green Bay Packers,2011
+['Bryan Bulaga'],Out: knee,week_16,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_16,Green Bay Packers,2011
+['Chad Clifton'],Doubtful: hamstring/back,week_16,Green Bay Packers,2011
+['Randall Cobb'],NA,week_16,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_16,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_16,Green Bay Packers,2011
+['Donald Driver'],NA,week_16,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_16,Green Bay Packers,2011
+['Rob Francois'],NA,week_16,Green Bay Packers,2011
+['Ryan Grant'],NA,week_16,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_16,Green Bay Packers,2011
+['Howard Green'],Questionable: foot,week_16,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_16,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_16,Green Bay Packers,2011
+['Davon House'],NA,week_16,Green Bay Packers,2011
+['Greg Jennings'],Doubtful: knee,week_16,Green Bay Packers,2011
+['Brad Jones'],NA,week_16,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_16,Green Bay Packers,2011
+['Pat Lee'],NA,week_16,Green Bay Packers,2011
+['Clay Matthews'],NA,week_16,Green Bay Packers,2011
+['Mike Neal'],Questionable: shoulder,week_16,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_16,Green Bay Packers,2011
+['Ryan Pickett'],Questionable: head,week_16,Green Bay Packers,2011
+['Andrew Quarless'],Injured Reserve: knee,week_16,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_16,Green Bay Packers,2011
+['Brandon Saine'],Probable: head,week_16,Green Bay Packers,2011
+['Derek Sherrod'],Injured Reserve: leg,week_16,Green Bay Packers,2011
+['Sam Shields'],NA,week_16,Green Bay Packers,2011
+['Josh Sitton'],NA,week_16,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_16,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_16,Green Bay Packers,2011
+['James Starks'],Probable: ankle,week_16,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_16,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_16,Green Bay Packers,2011
+['Erik Walden'],NA,week_16,Green Bay Packers,2011
+['Tramon Williams'],NA,week_16,Green Bay Packers,2011
+['Charles Woodson'],NA,week_16,Green Bay Packers,2011
+['Frank Zombo'],NA,week_16,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_17,Green Bay Packers,2011
+['Bryan Bulaga'],Probable: knee,week_17,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_17,Green Bay Packers,2011
+['Chad Clifton'],Probable: hamstring/back,week_17,Green Bay Packers,2011
+['Randall Cobb'],Doubtful: groin,week_17,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_17,Green Bay Packers,2011
+['Evan Dietrich-Smith'],NA,week_17,Green Bay Packers,2011
+['Donald Driver'],NA,week_17,Green Bay Packers,2011
+['Jermichael Finley'],Probable: knee,week_17,Green Bay Packers,2011
+['Rob Francois'],NA,week_17,Green Bay Packers,2011
+['Ryan Grant'],NA,week_17,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_17,Green Bay Packers,2011
+['Howard Green'],NA,week_17,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_17,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_17,Green Bay Packers,2011
+['Davon House'],NA,week_17,Green Bay Packers,2011
+['Greg Jennings'],Out: knee,week_17,Green Bay Packers,2011
+['Brad Jones'],NA,week_17,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_17,Green Bay Packers,2011
+['Pat Lee'],NA,week_17,Green Bay Packers,2011
+['Clay Matthews'],Questionable: ankle,week_17,Green Bay Packers,2011
+['Mike Neal'],NA,week_17,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_17,Green Bay Packers,2011
+['Ryan Pickett'],Questionable: head,week_17,Green Bay Packers,2011
+['Andrew Quarless'],Injured Reserve: knee,week_17,Green Bay Packers,2011
+['Aaron Rodgers'],Out: rest,week_17,Green Bay Packers,2011
+['Brandon Saine'],NA,week_17,Green Bay Packers,2011
+['Derek Sherrod'],Injured Reserve: leg,week_17,Green Bay Packers,2011
+['Sam Shields'],NA,week_17,Green Bay Packers,2011
+['Josh Sitton'],NA,week_17,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_17,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_17,Green Bay Packers,2011
+['James Starks'],Doubtful: ankle,week_17,Green Bay Packers,2011
+['Ryan Taylor'],NA,week_17,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_17,Green Bay Packers,2011
+['Erik Walden'],NA,week_17,Green Bay Packers,2011
+['Tramon Williams'],NA,week_17,Green Bay Packers,2011
+['Charles Woodson'],Questionable: knee,week_17,Green Bay Packers,2011
+['Frank Zombo'],NA,week_17,Green Bay Packers,2011
+['Desmond Bishop'],NA,week_19,Green Bay Packers,2011
+['Bryan Bulaga'],Probable: knee,week_19,Green Bay Packers,2011
+['Morgan Burnett'],NA,week_19,Green Bay Packers,2011
+['Chad Clifton'],Probable: hamstring/back,week_19,Green Bay Packers,2011
+['Randall Cobb'],Questionable: groin,week_19,Green Bay Packers,2011
+['Nick Collins'],Injured Reserve: neck,week_19,Green Bay Packers,2011
+['Evan Dietrich-Smith'],Probable: illness,week_19,Green Bay Packers,2011
+['Donald Driver'],NA,week_19,Green Bay Packers,2011
+['Jermichael Finley'],NA,week_19,Green Bay Packers,2011
+['Rob Francois'],Questionable: hamstring,week_19,Green Bay Packers,2011
+['Ryan Grant'],NA,week_19,Green Bay Packers,2011
+['Alex Green'],Injured Reserve: knee,week_19,Green Bay Packers,2011
+['Howard Green'],NA,week_19,Green Bay Packers,2011
+['Lawrence Guy'],Injured Reserve: concussion,week_19,Green Bay Packers,2011
+['A.J. Hawk'],NA,week_19,Green Bay Packers,2011
+['Davon House'],NA,week_19,Green Bay Packers,2011
+['Greg Jennings'],Probable: knee,week_19,Green Bay Packers,2011
+['Brad Jones'],NA,week_19,Green Bay Packers,2011
+['Jamari Lattimore'],NA,week_19,Green Bay Packers,2011
+['Pat Lee'],NA,week_19,Green Bay Packers,2011
+['Clay Matthews'],NA,week_19,Green Bay Packers,2011
+['Mike Neal'],NA,week_19,Green Bay Packers,2011
+['Marshall Newhouse'],NA,week_19,Green Bay Packers,2011
+['Ryan Pickett'],NA,week_19,Green Bay Packers,2011
+['Andrew Quarless'],Injured Reserve: knee,week_19,Green Bay Packers,2011
+['Aaron Rodgers'],NA,week_19,Green Bay Packers,2011
+['Brandon Saine'],NA,week_19,Green Bay Packers,2011
+['Derek Sherrod'],Injured Reserve: leg,week_19,Green Bay Packers,2011
+['Sam Shields'],NA,week_19,Green Bay Packers,2011
+['Josh Sitton'],NA,week_19,Green Bay Packers,2011
+['Shaky Smithson'],Injured Reserve: shoulder,week_19,Green Bay Packers,2011
+"[""Vic So'oto""]",NA,week_19,Green Bay Packers,2011
+['James Starks'],Probable: ankle,week_19,Green Bay Packers,2011
+['Ryan Taylor'],Questionable: ankle,week_19,Green Bay Packers,2011
+['Brandon Underwood'],NA,week_19,Green Bay Packers,2011
+['Erik Walden'],NA,week_19,Green Bay Packers,2011
+['Tramon Williams'],NA,week_19,Green Bay Packers,2011
+['Charles Woodson'],NA,week_19,Green Bay Packers,2011
+['Frank Zombo'],NA,week_19,Green Bay Packers,2011

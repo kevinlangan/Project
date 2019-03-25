@@ -1,0 +1,657 @@
+﻿name,injury,week,team,year
+['Joseph Addai'],NA,week_1,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_1,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_1,Indianapolis Colts,2011
+['Antoine Bethea'],Probable: hamstring,week_1,Indianapolis Colts,2011
+['Gary Brackett'],Questionable: elbow,week_1,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_1,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_1,Indianapolis Colts,2011
+['Melvin Bullitt'],NA,week_1,Indianapolis Colts,2011
+['Delone Carter'],NA,week_1,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_1,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_1,Indianapolis Colts,2011
+['Austin Collie'],Probable: foot,week_1,Indianapolis Colts,2011
+['Kerry Collins'],NA,week_1,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_1,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_1,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_1,Indianapolis Colts,2011
+['Brody Eldridge'],NA,week_1,Indianapolis Colts,2011
+['Eric Foster'],NA,week_1,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_1,Indianapolis Colts,2011
+['Anthony Gonzalez'],Questionable: hamstring,week_1,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_1,Indianapolis Colts,2011
+['Ben Ijalana'],NA,week_1,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_1,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_1,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_1,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_1,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_1,Indianapolis Colts,2011
+['Fili Moala'],NA,week_1,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_1,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: foot,week_1,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_1,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_1,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_1,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_1,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_1,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_1,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_1,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_1,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_1,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_1,Indianapolis Colts,2011
+['Blair White'],Questionable: back,week_1,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_2,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_2,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_2,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_2,Indianapolis Colts,2011
+['Gary Brackett'],Out: shoulder,week_2,Indianapolis Colts,2011
+['Tyler Brayton'],Probable: knee,week_2,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_2,Indianapolis Colts,2011
+['Melvin Bullitt'],NA,week_2,Indianapolis Colts,2011
+['Delone Carter'],NA,week_2,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_2,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_2,Indianapolis Colts,2011
+['Austin Collie'],NA,week_2,Indianapolis Colts,2011
+['Kerry Collins'],NA,week_2,Indianapolis Colts,2011
+['Kavell Conner'],Questionable: foot,week_2,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_2,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_2,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: knee,week_2,Indianapolis Colts,2011
+['Eric Foster'],Questionable: knee,week_2,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_2,Indianapolis Colts,2011
+['Anthony Gonzalez'],Probable: hamstring,week_2,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_2,Indianapolis Colts,2011
+['Ben Ijalana'],NA,week_2,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_2,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_2,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_2,Indianapolis Colts,2011
+['Robert Mathis'],Questionable: neck,week_2,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_2,Indianapolis Colts,2011
+['Fili Moala'],NA,week_2,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_2,Indianapolis Colts,2011
+['Drake Nevis'],NA,week_2,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_2,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_2,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_2,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_2,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_2,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_2,Indianapolis Colts,2011
+['Ernie Sims'],Out: knee,week_2,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_2,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_2,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_2,Indianapolis Colts,2011
+['Blair White'],Questionable: back,week_2,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_3,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_3,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_3,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_3,Indianapolis Colts,2011
+['Gary Brackett'],Questionable: shoulder,week_3,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_3,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_3,Indianapolis Colts,2011
+['Melvin Bullitt'],Questionable: undisclosed,week_3,Indianapolis Colts,2011
+['Delone Carter'],NA,week_3,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_3,Indianapolis Colts,2011
+['Dallas Clark'],Questionable: foot,week_3,Indianapolis Colts,2011
+['Austin Collie'],NA,week_3,Indianapolis Colts,2011
+['Kerry Collins'],Probable: right shoulder,week_3,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_3,Indianapolis Colts,2011
+['Ryan Diem'],Questionable: ankle,week_3,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_3,Indianapolis Colts,2011
+['Brody Eldridge'],Probable: chest,week_3,Indianapolis Colts,2011
+['Eric Foster'],Probable: hamstring,week_3,Indianapolis Colts,2011
+['Dwight Freeney'],Questionable: abdomen,week_3,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_3,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_3,Indianapolis Colts,2011
+['Ben Ijalana'],NA,week_3,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_3,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_3,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_3,Indianapolis Colts,2011
+['Robert Mathis'],Probable: chest,week_3,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_3,Indianapolis Colts,2011
+['Fili Moala'],Questionable: ankle,week_3,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_3,Indianapolis Colts,2011
+['Drake Nevis'],NA,week_3,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_3,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_3,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_3,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_3,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_3,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_3,Indianapolis Colts,2011
+['Ernie Sims'],Out: knee,week_3,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_3,Indianapolis Colts,2011
+['Jacob Tamme'],Questionable: concussion,week_3,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_3,Indianapolis Colts,2011
+['Blair White'],Probable: back,week_3,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_4,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_4,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_4,Indianapolis Colts,2011
+['Antoine Bethea'],Questionable: Achilles,week_4,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_4,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_4,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_4,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_4,Indianapolis Colts,2011
+['Delone Carter'],NA,week_4,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_4,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_4,Indianapolis Colts,2011
+['Austin Collie'],NA,week_4,Indianapolis Colts,2011
+['Kerry Collins'],Doubtful: head,week_4,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_4,Indianapolis Colts,2011
+['Ryan Diem'],Questionable: ankle,week_4,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_4,Indianapolis Colts,2011
+['Brody Eldridge'],Probable: knee,week_4,Indianapolis Colts,2011
+['Eric Foster'],NA,week_4,Indianapolis Colts,2011
+['Dwight Freeney'],Questionable: ankle,week_4,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_4,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_4,Indianapolis Colts,2011
+['Ben Ijalana'],NA,week_4,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_4,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_4,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_4,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_4,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_4,Indianapolis Colts,2011
+['Fili Moala'],Questionable: ankle,week_4,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_4,Indianapolis Colts,2011
+['Drake Nevis'],NA,week_4,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_4,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_4,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_4,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_4,Indianapolis Colts,2011
+['Joe Reitz'],Questionable: ankle,week_4,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_4,Indianapolis Colts,2011
+['Ernie Sims'],Questionable: knee,week_4,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_4,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_4,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_4,Indianapolis Colts,2011
+['Blair White'],NA,week_4,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_5,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_5,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_5,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_5,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_5,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_5,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_5,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_5,Indianapolis Colts,2011
+['Delone Carter'],NA,week_5,Indianapolis Colts,2011
+['Anthony Castonzo'],Out: ankle,week_5,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_5,Indianapolis Colts,2011
+['Austin Collie'],NA,week_5,Indianapolis Colts,2011
+['Kerry Collins'],Questionable: concussion,week_5,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_5,Indianapolis Colts,2011
+['Ryan Diem'],Questionable: ankle,week_5,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_5,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: knee,week_5,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_5,Indianapolis Colts,2011
+['Dwight Freeney'],Probable: abdomen,week_5,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_5,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_5,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_5,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_5,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_5,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_5,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_5,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_5,Indianapolis Colts,2011
+['Fili Moala'],Questionable: ankle,week_5,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_5,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_5,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_5,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_5,Indianapolis Colts,2011
+['Mike Pollak'],Probable: arm,week_5,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_5,Indianapolis Colts,2011
+['Joe Reitz'],Probable: ankle,week_5,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_5,Indianapolis Colts,2011
+['Ernie Sims'],Questionable: knee,week_5,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_5,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_5,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_5,Indianapolis Colts,2011
+['Blair White'],NA,week_5,Indianapolis Colts,2011
+['Joseph Addai'],Doubtful: hamstring,week_6,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_6,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_6,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_6,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_6,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_6,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_6,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_6,Indianapolis Colts,2011
+['Delone Carter'],NA,week_6,Indianapolis Colts,2011
+['Anthony Castonzo'],Out: ankle,week_6,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_6,Indianapolis Colts,2011
+['Austin Collie'],NA,week_6,Indianapolis Colts,2011
+['Kerry Collins'],Doubtful: concussion,week_6,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_6,Indianapolis Colts,2011
+['Ryan Diem'],Probable: ankle,week_6,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_6,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: knee,week_6,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_6,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_6,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_6,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_6,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_6,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_6,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_6,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_6,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_6,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_6,Indianapolis Colts,2011
+['Fili Moala'],NA,week_6,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_6,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_6,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_6,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_6,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_6,Indianapolis Colts,2011
+['Jerraud Powers'],Questionable: hamstring,week_6,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_6,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_6,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_6,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_6,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_6,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_6,Indianapolis Colts,2011
+['Blair White'],NA,week_6,Indianapolis Colts,2011
+['Joseph Addai'],Doubtful: hamstring,week_7,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_7,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_7,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_7,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_7,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_7,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_7,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_7,Indianapolis Colts,2011
+['Delone Carter'],NA,week_7,Indianapolis Colts,2011
+['Anthony Castonzo'],Doubtful: ankle,week_7,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_7,Indianapolis Colts,2011
+['Austin Collie'],NA,week_7,Indianapolis Colts,2011
+['Kerry Collins'],Questionable: concussion,week_7,Indianapolis Colts,2011
+['Kavell Conner'],Probable: foot,week_7,Indianapolis Colts,2011
+['Ryan Diem'],Questionable: ankle,week_7,Indianapolis Colts,2011
+['A.J. Edds'],Questionable: head,week_7,Indianapolis Colts,2011
+['Brody Eldridge'],Probable: knee,week_7,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_7,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_7,Indianapolis Colts,2011
+['Anthony Gonzalez'],Questionable: groin,week_7,Indianapolis Colts,2011
+['Chris Gronkowski'],NA,week_7,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_7,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_7,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_7,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_7,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_7,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_7,Indianapolis Colts,2011
+['Fili Moala'],NA,week_7,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_7,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_7,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_7,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_7,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_7,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_7,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_7,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_7,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_7,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_7,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_7,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_7,Indianapolis Colts,2011
+['Blair White'],NA,week_7,Indianapolis Colts,2011
+['Joseph Addai'],Questionable: hamstring,week_8,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_8,Indianapolis Colts,2011
+['Pat Angerer'],Questionable: knee,week_8,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_8,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_8,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_8,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_8,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_8,Indianapolis Colts,2011
+['Delone Carter'],NA,week_8,Indianapolis Colts,2011
+['Anthony Castonzo'],Questionable: ankle,week_8,Indianapolis Colts,2011
+['Dallas Clark'],NA,week_8,Indianapolis Colts,2011
+['Austin Collie'],NA,week_8,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_8,Indianapolis Colts,2011
+['Kavell Conner'],Probable: knee,week_8,Indianapolis Colts,2011
+['Ryan Diem'],Doubtful: ankle,week_8,Indianapolis Colts,2011
+['A.J. Edds'],Questionable: head,week_8,Indianapolis Colts,2011
+['Brody Eldridge'],Probable: knee,week_8,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_8,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_8,Indianapolis Colts,2011
+['Anthony Gonzalez'],Questionable: groin,week_8,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_8,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_8,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_8,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_8,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_8,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_8,Indianapolis Colts,2011
+['Pat McAfee'],Questionable: right hamstring,week_8,Indianapolis Colts,2011
+['Fili Moala'],NA,week_8,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_8,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_8,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_8,Indianapolis Colts,2011
+['Seth Olsen'],Questionable: hand,week_8,Indianapolis Colts,2011
+['Mike Pollak'],Questionable: hamstring,week_8,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_8,Indianapolis Colts,2011
+['Joe Reitz'],Out: knee,week_8,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_8,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_8,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_8,Indianapolis Colts,2011
+['Jacob Tamme'],Probable: head,week_8,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_8,Indianapolis Colts,2011
+['Blair White'],NA,week_8,Indianapolis Colts,2011
+['Joseph Addai'],Probable: hamstring,week_9,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_9,Indianapolis Colts,2011
+['Pat Angerer'],Questionable: knee,week_9,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_9,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_9,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_9,Indianapolis Colts,2011
+['Stevie Brown'],NA,week_9,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_9,Indianapolis Colts,2011
+['Delone Carter'],NA,week_9,Indianapolis Colts,2011
+['Anthony Castonzo'],Questionable: ankle,week_9,Indianapolis Colts,2011
+['Dallas Clark'],Probable: knee,week_9,Indianapolis Colts,2011
+['Austin Collie'],NA,week_9,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_9,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_9,Indianapolis Colts,2011
+['Ryan Diem'],Probable: ankle,week_9,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_9,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: knee,week_9,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_9,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_9,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_9,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_9,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_9,Indianapolis Colts,2011
+['Terrence Johnson'],Questionable: hamstring,week_9,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_9,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_9,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_9,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_9,Indianapolis Colts,2011
+['Fili Moala'],NA,week_9,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_9,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_9,Indianapolis Colts,2011
+['Quinn Ojinnaka'],Probable: shoulder,week_9,Indianapolis Colts,2011
+['Seth Olsen'],NA,week_9,Indianapolis Colts,2011
+['Mike Pollak'],Questionable: hamstring,week_9,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_9,Indianapolis Colts,2011
+['Joe Reitz'],Out: knee,week_9,Indianapolis Colts,2011
+['Jeff Saturday'],Probable: knee,week_9,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_9,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_9,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_9,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_9,Indianapolis Colts,2011
+['Blair White'],Questionable: knee,week_9,Indianapolis Colts,2011
+['Joseph Addai'],Questionable: hamstring,week_10,Indianapolis Colts,2011
+['Jamaal Anderson'],Questionable: hip,week_10,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_10,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_10,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_10,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_10,Indianapolis Colts,2011
+['Stevie Brown'],Questionable: hamstring,week_10,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_10,Indianapolis Colts,2011
+['Delone Carter'],NA,week_10,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_10,Indianapolis Colts,2011
+['Dallas Clark'],Out: leg,week_10,Indianapolis Colts,2011
+['Austin Collie'],NA,week_10,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_10,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_10,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_10,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_10,Indianapolis Colts,2011
+['Brody Eldridge'],Out: hand,week_10,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_10,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_10,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_10,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_10,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_10,Indianapolis Colts,2011
+['Terrence Johnson'],Questionable: hamstring,week_10,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_10,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_10,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_10,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_10,Indianapolis Colts,2011
+['Fili Moala'],NA,week_10,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_10,Indianapolis Colts,2011
+['Drake Nevis'],Probable: back,week_10,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_10,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_10,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_10,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_10,Indianapolis Colts,2011
+['Joe Reitz'],Out: knee,week_10,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_10,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_10,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_10,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_10,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_10,Indianapolis Colts,2011
+['Blair White'],Questionable: knee,week_10,Indianapolis Colts,2011
+['Joseph Addai'],Probable: hamstring,week_12,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_12,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_12,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_12,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_12,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_12,Indianapolis Colts,2011
+['Stevie Brown'],Probable: hamstring,week_12,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_12,Indianapolis Colts,2011
+['Delone Carter'],NA,week_12,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_12,Indianapolis Colts,2011
+['Dallas Clark'],Out: leg,week_12,Indianapolis Colts,2011
+['Austin Collie'],NA,week_12,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_12,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_12,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_12,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_12,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: hand,week_12,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_12,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_12,Indianapolis Colts,2011
+['Anthony Gonzalez'],Questionable: groin,week_12,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_12,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_12,Indianapolis Colts,2011
+['Terrence Johnson'],Probable: hamstring,week_12,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_12,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_12,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_12,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_12,Indianapolis Colts,2011
+['Fili Moala'],NA,week_12,Indianapolis Colts,2011
+['Adrian Moten'],Questionable: undisclosed,week_12,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_12,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_12,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_12,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_12,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_12,Indianapolis Colts,2011
+['Joe Reitz'],Questionable: knee,week_12,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_12,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_12,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_12,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_12,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_12,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_12,Indianapolis Colts,2011
+['Joseph Addai'],Questionable: hamstring,week_13,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_13,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_13,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_13,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_13,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_13,Indianapolis Colts,2011
+['Stevie Brown'],Injured Reserve: undisclosed,week_13,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_13,Indianapolis Colts,2011
+['Delone Carter'],NA,week_13,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_13,Indianapolis Colts,2011
+['Dallas Clark'],Out: leg,week_13,Indianapolis Colts,2011
+['Austin Collie'],NA,week_13,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_13,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_13,Indianapolis Colts,2011
+['Ryan Diem'],Questionable: knee,week_13,Indianapolis Colts,2011
+['A.J. Edds'],NA,week_13,Indianapolis Colts,2011
+['Brody Eldridge'],Questionable: hand,week_13,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_13,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_13,Indianapolis Colts,2011
+['Anthony Gonzalez'],Doubtful: groin,week_13,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_13,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_13,Indianapolis Colts,2011
+['Terrence Johnson'],NA,week_13,Indianapolis Colts,2011
+['Ryan Mahaffey'],Questionable: concussion,week_13,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_13,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_13,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_13,Indianapolis Colts,2011
+['Fili Moala'],NA,week_13,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_13,Indianapolis Colts,2011
+['Drake Nevis'],Questionable: back,week_13,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_13,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_13,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_13,Indianapolis Colts,2011
+['Jerraud Powers'],NA,week_13,Indianapolis Colts,2011
+['Joe Reitz'],Probable: knee,week_13,Indianapolis Colts,2011
+['Jeff Saturday'],Questionable: knee,week_13,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_13,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_13,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_13,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_13,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_13,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_14,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_14,Indianapolis Colts,2011
+['Pat Angerer'],Questionable: knee,week_14,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_14,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_14,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_14,Indianapolis Colts,2011
+['Stevie Brown'],Injured Reserve: undisclosed,week_14,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_14,Indianapolis Colts,2011
+['Delone Carter'],NA,week_14,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_14,Indianapolis Colts,2011
+['Dallas Clark'],Probable: leg,week_14,Indianapolis Colts,2011
+['Austin Collie'],NA,week_14,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_14,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_14,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_14,Indianapolis Colts,2011
+['A.J. Edds'],Questionable: ankle,week_14,Indianapolis Colts,2011
+['Brody Eldridge'],Probable: hand,week_14,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_14,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_14,Indianapolis Colts,2011
+['Anthony Gonzalez'],Questionable: groin,week_14,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_14,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_14,Indianapolis Colts,2011
+['Terrence Johnson'],Injured Reserve: foream,week_14,Indianapolis Colts,2011
+['Ryan Mahaffey'],Probable: concussion,week_14,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_14,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_14,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_14,Indianapolis Colts,2011
+['Fili Moala'],NA,week_14,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_14,Indianapolis Colts,2011
+['Drake Nevis'],Injured Reserve: back,week_14,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_14,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_14,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_14,Indianapolis Colts,2011
+['Jerraud Powers'],Injured Reserve: elbow,week_14,Indianapolis Colts,2011
+['Joe Reitz'],Questionable: knee,week_14,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_14,Indianapolis Colts,2011
+['Ernie Sims'],Questionable: toe,week_14,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_14,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_14,Indianapolis Colts,2011
+['Philip Wheeler'],NA,week_14,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_14,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_15,Indianapolis Colts,2011
+['Jamaal Anderson'],Questionable: groin,week_15,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_15,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_15,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_15,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_15,Indianapolis Colts,2011
+['Stevie Brown'],Injured Reserve: undisclosed,week_15,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_15,Indianapolis Colts,2011
+['Delone Carter'],NA,week_15,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_15,Indianapolis Colts,2011
+['Dallas Clark'],Questionable: burner,week_15,Indianapolis Colts,2011
+['Austin Collie'],NA,week_15,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_15,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_15,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_15,Indianapolis Colts,2011
+['A.J. Edds'],Out: ankle,week_15,Indianapolis Colts,2011
+['Brody Eldridge'],NA,week_15,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_15,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_15,Indianapolis Colts,2011
+['Anthony Gonzalez'],Probable: groin,week_15,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_15,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_15,Indianapolis Colts,2011
+['Terrence Johnson'],Injured Reserve: foream,week_15,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_15,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_15,Indianapolis Colts,2011
+['Robert Mathis'],Questionable: knee,week_15,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_15,Indianapolis Colts,2011
+['Fili Moala'],NA,week_15,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_15,Indianapolis Colts,2011
+['Drake Nevis'],Injured Reserve: back,week_15,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_15,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_15,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_15,Indianapolis Colts,2011
+['Jerraud Powers'],Injured Reserve: elbow,week_15,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_15,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_15,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_15,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_15,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_15,Indianapolis Colts,2011
+['Philip Wheeler'],Questionable: foot,week_15,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_15,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_16,Indianapolis Colts,2011
+['Jamaal Anderson'],Questionable: groin,week_16,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_16,Indianapolis Colts,2011
+['Antoine Bethea'],Questionable: knee,week_16,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_16,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_16,Indianapolis Colts,2011
+['Stevie Brown'],Injured Reserve: undisclosed,week_16,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_16,Indianapolis Colts,2011
+['Delone Carter'],Probable: forearm,week_16,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_16,Indianapolis Colts,2011
+['Dallas Clark'],Doubtful: neck,week_16,Indianapolis Colts,2011
+['Austin Collie'],NA,week_16,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_16,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_16,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_16,Indianapolis Colts,2011
+['A.J. Edds'],Questionable: ankle,week_16,Indianapolis Colts,2011
+['Brody Eldridge'],NA,week_16,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_16,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_16,Indianapolis Colts,2011
+['Anthony Gonzalez'],NA,week_16,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_16,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_16,Indianapolis Colts,2011
+['Terrence Johnson'],Injured Reserve: foream,week_16,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_16,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_16,Indianapolis Colts,2011
+['Robert Mathis'],Questionable: knee,week_16,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_16,Indianapolis Colts,2011
+['Fili Moala'],NA,week_16,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_16,Indianapolis Colts,2011
+['Drake Nevis'],Injured Reserve: back,week_16,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_16,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_16,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_16,Indianapolis Colts,2011
+['Jerraud Powers'],Injured Reserve: elbow,week_16,Indianapolis Colts,2011
+['Joe Reitz'],NA,week_16,Indianapolis Colts,2011
+['Jeff Saturday'],Probable: foot,week_16,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_16,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_16,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_16,Indianapolis Colts,2011
+['Philip Wheeler'],Questionable: foot,week_16,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_16,Indianapolis Colts,2011
+['Joseph Addai'],NA,week_17,Indianapolis Colts,2011
+['Jamaal Anderson'],NA,week_17,Indianapolis Colts,2011
+['Pat Angerer'],NA,week_17,Indianapolis Colts,2011
+['Antoine Bethea'],NA,week_17,Indianapolis Colts,2011
+['Gary Brackett'],Injured Reserve: shoulder,week_17,Indianapolis Colts,2011
+['Tyler Brayton'],NA,week_17,Indianapolis Colts,2011
+['Stevie Brown'],Injured Reserve: undisclosed,week_17,Indianapolis Colts,2011
+['Melvin Bullitt'],Injured Reserve: shoulder,week_17,Indianapolis Colts,2011
+['Delone Carter'],NA,week_17,Indianapolis Colts,2011
+['Anthony Castonzo'],NA,week_17,Indianapolis Colts,2011
+['Dallas Clark'],Probable: neck,week_17,Indianapolis Colts,2011
+['Austin Collie'],NA,week_17,Indianapolis Colts,2011
+['Kerry Collins'],Injured Reserve: concussion,week_17,Indianapolis Colts,2011
+['Kavell Conner'],NA,week_17,Indianapolis Colts,2011
+['Ryan Diem'],NA,week_17,Indianapolis Colts,2011
+['A.J. Edds'],Questionable: ankle,week_17,Indianapolis Colts,2011
+['Brody Eldridge'],NA,week_17,Indianapolis Colts,2011
+['Eric Foster'],Injured Reserve: ankle,week_17,Indianapolis Colts,2011
+['Dwight Freeney'],NA,week_17,Indianapolis Colts,2011
+['Anthony Gonzalez'],Probable: illness,week_17,Indianapolis Colts,2011
+['Chris Gronkowski'],Injured Reserve: torn pectoral muscle,week_17,Indianapolis Colts,2011
+['Ben Ijalana'],Injured Reserve: knee,week_17,Indianapolis Colts,2011
+['Terrence Johnson'],Injured Reserve: foream,week_17,Indianapolis Colts,2011
+['Ryan Mahaffey'],NA,week_17,Indianapolis Colts,2011
+['Peyton Manning'],Out: neck,week_17,Indianapolis Colts,2011
+['Robert Mathis'],NA,week_17,Indianapolis Colts,2011
+['Pat McAfee'],NA,week_17,Indianapolis Colts,2011
+['Fili Moala'],NA,week_17,Indianapolis Colts,2011
+['Adrian Moten'],NA,week_17,Indianapolis Colts,2011
+['Drake Nevis'],Injured Reserve: back,week_17,Indianapolis Colts,2011
+['Quinn Ojinnaka'],NA,week_17,Indianapolis Colts,2011
+['Seth Olsen'],Injured Reserve: hand,week_17,Indianapolis Colts,2011
+['Mike Pollak'],NA,week_17,Indianapolis Colts,2011
+['Jerraud Powers'],Injured Reserve: elbow,week_17,Indianapolis Colts,2011
+['Joe Reitz'],Questionable: ankle,week_17,Indianapolis Colts,2011
+['Jeff Saturday'],NA,week_17,Indianapolis Colts,2011
+['Ernie Sims'],NA,week_17,Indianapolis Colts,2011
+['Chad Spann'],Injured Reserve: hamstring,week_17,Indianapolis Colts,2011
+['Jacob Tamme'],NA,week_17,Indianapolis Colts,2011
+['Philip Wheeler'],Questionable: foot,week_17,Indianapolis Colts,2011
+['Blair White'],Injured Reserve: knee,week_17,Indianapolis Colts,2011

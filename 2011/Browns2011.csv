@@ -1,0 +1,721 @@
+﻿name,injury,week,team,year
+['Mike Adams'],NA,week_1,Cleveland Browns,2011
+['Marcus Benard'],NA,week_1,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_1,Cleveland Browns,2011
+['Titus Brown'],Out: ankle,week_1,Cleveland Browns,2011
+['Josh Cribbs'],Probable: hamstring,week_1,Cleveland Browns,2011
+['Phil Dawson'],NA,week_1,Cleveland Browns,2011
+['Auston English'],NA,week_1,Cleveland Browns,2011
+['Scott Fujita'],NA,week_1,Cleveland Browns,2011
+['Chris Gocong'],Questionable: neck,week_1,Cleveland Browns,2011
+['Joe Haden'],NA,week_1,Cleveland Browns,2011
+['Eric Hagg'],Out: knee,week_1,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_1,Cleveland Browns,2011
+['Artis Hicks'],NA,week_1,Cleveland Browns,2011
+['Peyton Hillis'],NA,week_1,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_1,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_1,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_1,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_1,Cleveland Browns,2011
+['Alex Mack'],NA,week_1,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_1,Cleveland Browns,2011
+['Owen Marecic'],NA,week_1,Cleveland Browns,2011
+['Mohamed Massaquoi'],Probable: ankle/foot,week_1,Cleveland Browns,2011
+['Brad Maynard'],NA,week_1,Cleveland Browns,2011
+['Colt McCoy'],NA,week_1,Cleveland Browns,2011
+['Richmond McGee'],NA,week_1,Cleveland Browns,2011
+['Carlton Mitchell'],Probable: finger,week_1,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_1,Cleveland Browns,2011
+['Evan Moore'],NA,week_1,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_1,Cleveland Browns,2011
+['Tony Pashos'],Doubtful: ankle,week_1,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_1,Cleveland Browns,2011
+['Scott Paxson'],NA,week_1,Cleveland Browns,2011
+['Jason Pinkston'],Probable: knee,week_1,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_1,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_1,Cleveland Browns,2011
+['Buster Skrine'],NA,week_1,Cleveland Browns,2011
+['Alex Smith'],NA,week_1,Cleveland Browns,2011
+['Quinton Spears'],NA,week_1,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_1,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_1,Cleveland Browns,2011
+['Joe Thomas'],NA,week_1,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_1,Cleveland Browns,2011
+['T.J. Ward'],Probable: hamstring,week_1,Cleveland Browns,2011
+['Ben Watson'],Questionable: hip,week_1,Cleveland Browns,2011
+['Usama Young'],Questionable: hamstring,week_1,Cleveland Browns,2011
+['Mike Adams'],NA,week_2,Cleveland Browns,2011
+['Marcus Benard'],NA,week_2,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_2,Cleveland Browns,2011
+['Titus Brown'],Out: ankle,week_2,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_2,Cleveland Browns,2011
+['Phil Dawson'],NA,week_2,Cleveland Browns,2011
+['Auston English'],NA,week_2,Cleveland Browns,2011
+['Scott Fujita'],NA,week_2,Cleveland Browns,2011
+['Chris Gocong'],NA,week_2,Cleveland Browns,2011
+['Joe Haden'],NA,week_2,Cleveland Browns,2011
+['Eric Hagg'],Questionable: knee,week_2,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_2,Cleveland Browns,2011
+['Artis Hicks'],NA,week_2,Cleveland Browns,2011
+['Peyton Hillis'],NA,week_2,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_2,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_2,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_2,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_2,Cleveland Browns,2011
+['Alex Mack'],NA,week_2,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_2,Cleveland Browns,2011
+['Owen Marecic'],NA,week_2,Cleveland Browns,2011
+['Mohamed Massaquoi'],Probable: hamstring,week_2,Cleveland Browns,2011
+['Brad Maynard'],NA,week_2,Cleveland Browns,2011
+['Colt McCoy'],NA,week_2,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_2,Cleveland Browns,2011
+['Carlton Mitchell'],Probable: finger,week_2,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_2,Cleveland Browns,2011
+['Evan Moore'],NA,week_2,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_2,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_2,Cleveland Browns,2011
+['Dimitri Patterson'],Probable: ankle,week_2,Cleveland Browns,2011
+['Scott Paxson'],NA,week_2,Cleveland Browns,2011
+['Jason Pinkston'],Probable: knee,week_2,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_2,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_2,Cleveland Browns,2011
+['Buster Skrine'],NA,week_2,Cleveland Browns,2011
+['Alex Smith'],NA,week_2,Cleveland Browns,2011
+['Quinton Spears'],NA,week_2,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_2,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_2,Cleveland Browns,2011
+['Joe Thomas'],NA,week_2,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_2,Cleveland Browns,2011
+['T.J. Ward'],Probable: hamstring,week_2,Cleveland Browns,2011
+['Ben Watson'],NA,week_2,Cleveland Browns,2011
+['Usama Young'],Probable: hamstring,week_2,Cleveland Browns,2011
+['Mike Adams'],NA,week_3,Cleveland Browns,2011
+['Marcus Benard'],NA,week_3,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_3,Cleveland Browns,2011
+['Titus Brown'],Out: ankle,week_3,Cleveland Browns,2011
+['Josh Cribbs'],Questionable: groin,week_3,Cleveland Browns,2011
+['Phil Dawson'],NA,week_3,Cleveland Browns,2011
+['Auston English'],NA,week_3,Cleveland Browns,2011
+['Scott Fujita'],NA,week_3,Cleveland Browns,2011
+['Chris Gocong'],NA,week_3,Cleveland Browns,2011
+['Joe Haden'],NA,week_3,Cleveland Browns,2011
+['Eric Hagg'],Questionable: knee,week_3,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_3,Cleveland Browns,2011
+['Artis Hicks'],NA,week_3,Cleveland Browns,2011
+['Peyton Hillis'],Questionable: illness,week_3,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_3,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_3,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_3,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_3,Cleveland Browns,2011
+['Alex Mack'],NA,week_3,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_3,Cleveland Browns,2011
+['Owen Marecic'],NA,week_3,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: ankle,week_3,Cleveland Browns,2011
+['Brad Maynard'],NA,week_3,Cleveland Browns,2011
+['Colt McCoy'],NA,week_3,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_3,Cleveland Browns,2011
+['Carlton Mitchell'],Probable: finger,week_3,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_3,Cleveland Browns,2011
+['Evan Moore'],NA,week_3,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_3,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_3,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_3,Cleveland Browns,2011
+['Scott Paxson'],Probable: shoulder,week_3,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_3,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_3,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_3,Cleveland Browns,2011
+['Buster Skrine'],NA,week_3,Cleveland Browns,2011
+['Alex Smith'],NA,week_3,Cleveland Browns,2011
+['Quinton Spears'],NA,week_3,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_3,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_3,Cleveland Browns,2011
+['Joe Thomas'],NA,week_3,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_3,Cleveland Browns,2011
+['T.J. Ward'],NA,week_3,Cleveland Browns,2011
+['Ben Watson'],NA,week_3,Cleveland Browns,2011
+['Usama Young'],NA,week_3,Cleveland Browns,2011
+['Mike Adams'],NA,week_4,Cleveland Browns,2011
+['Marcus Benard'],NA,week_4,Cleveland Browns,2011
+['Sheldon Brown'],Questionable: groin,week_4,Cleveland Browns,2011
+['Titus Brown'],Questionable: ankle,week_4,Cleveland Browns,2011
+['Josh Cribbs'],Probable: groin,week_4,Cleveland Browns,2011
+['Phil Dawson'],NA,week_4,Cleveland Browns,2011
+['Auston English'],NA,week_4,Cleveland Browns,2011
+['Scott Fujita'],NA,week_4,Cleveland Browns,2011
+['Chris Gocong'],Questionable: groin,week_4,Cleveland Browns,2011
+['Joe Haden'],NA,week_4,Cleveland Browns,2011
+['Eric Hagg'],Questionable: knee,week_4,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_4,Cleveland Browns,2011
+['Artis Hicks'],NA,week_4,Cleveland Browns,2011
+['Peyton Hillis'],Probable: illness,week_4,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_4,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_4,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_4,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_4,Cleveland Browns,2011
+['Alex Mack'],NA,week_4,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_4,Cleveland Browns,2011
+['Owen Marecic'],NA,week_4,Cleveland Browns,2011
+['Mohamed Massaquoi'],Probable: foot,week_4,Cleveland Browns,2011
+['Brad Maynard'],NA,week_4,Cleveland Browns,2011
+['Colt McCoy'],NA,week_4,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_4,Cleveland Browns,2011
+['Carlton Mitchell'],Probable: finger,week_4,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_4,Cleveland Browns,2011
+['Evan Moore'],NA,week_4,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_4,Cleveland Browns,2011
+['Tony Pashos'],Probable: ankle,week_4,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_4,Cleveland Browns,2011
+['Scott Paxson'],NA,week_4,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_4,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_4,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_4,Cleveland Browns,2011
+['Buster Skrine'],NA,week_4,Cleveland Browns,2011
+['Alex Smith'],NA,week_4,Cleveland Browns,2011
+['Quinton Spears'],NA,week_4,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_4,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_4,Cleveland Browns,2011
+['Joe Thomas'],Probable: knee,week_4,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_4,Cleveland Browns,2011
+['T.J. Ward'],NA,week_4,Cleveland Browns,2011
+['Ben Watson'],NA,week_4,Cleveland Browns,2011
+['Usama Young'],NA,week_4,Cleveland Browns,2011
+['Mike Adams'],NA,week_6,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_6,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_6,Cleveland Browns,2011
+['Titus Brown'],Probable: ankle,week_6,Cleveland Browns,2011
+['Josh Cribbs'],Probable: knee,week_6,Cleveland Browns,2011
+['Phil Dawson'],NA,week_6,Cleveland Browns,2011
+['Auston English'],NA,week_6,Cleveland Browns,2011
+['Scott Fujita'],NA,week_6,Cleveland Browns,2011
+['Chris Gocong'],NA,week_6,Cleveland Browns,2011
+['Joe Haden'],Questionable: knee,week_6,Cleveland Browns,2011
+['Eric Hagg'],Probable: knee,week_6,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_6,Cleveland Browns,2011
+['Artis Hicks'],NA,week_6,Cleveland Browns,2011
+['Peyton Hillis'],NA,week_6,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_6,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_6,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_6,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_6,Cleveland Browns,2011
+['Alex Mack'],NA,week_6,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_6,Cleveland Browns,2011
+['Owen Marecic'],NA,week_6,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: shoulder,week_6,Cleveland Browns,2011
+['Brad Maynard'],NA,week_6,Cleveland Browns,2011
+['Colt McCoy'],NA,week_6,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_6,Cleveland Browns,2011
+['Carlton Mitchell'],Questionable: finger,week_6,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_6,Cleveland Browns,2011
+['Evan Moore'],NA,week_6,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_6,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_6,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_6,Cleveland Browns,2011
+['Scott Paxson'],NA,week_6,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_6,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_6,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_6,Cleveland Browns,2011
+['Buster Skrine'],NA,week_6,Cleveland Browns,2011
+['Alex Smith'],NA,week_6,Cleveland Browns,2011
+['Quinton Spears'],NA,week_6,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_6,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_6,Cleveland Browns,2011
+['Joe Thomas'],NA,week_6,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_6,Cleveland Browns,2011
+['T.J. Ward'],NA,week_6,Cleveland Browns,2011
+['Ben Watson'],NA,week_6,Cleveland Browns,2011
+['Usama Young'],NA,week_6,Cleveland Browns,2011
+['Mike Adams'],NA,week_7,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_7,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_7,Cleveland Browns,2011
+['Titus Brown'],Probable: ankle,week_7,Cleveland Browns,2011
+['Josh Cribbs'],Probable: knee,week_7,Cleveland Browns,2011
+['Phil Dawson'],NA,week_7,Cleveland Browns,2011
+['Auston English'],NA,week_7,Cleveland Browns,2011
+['Scott Fujita'],Doubtful: concussion,week_7,Cleveland Browns,2011
+['Chris Gocong'],NA,week_7,Cleveland Browns,2011
+['Joe Haden'],NA,week_7,Cleveland Browns,2011
+['Eric Hagg'],NA,week_7,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_7,Cleveland Browns,2011
+['Artis Hicks'],Questionable: back,week_7,Cleveland Browns,2011
+['Peyton Hillis'],Questionable: hamstring,week_7,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_7,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_7,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_7,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_7,Cleveland Browns,2011
+['Alex Mack'],Questionable: illness,week_7,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_7,Cleveland Browns,2011
+['Owen Marecic'],NA,week_7,Cleveland Browns,2011
+['Mohamed Massaquoi'],NA,week_7,Cleveland Browns,2011
+['Brad Maynard'],NA,week_7,Cleveland Browns,2011
+['Colt McCoy'],NA,week_7,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_7,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_7,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_7,Cleveland Browns,2011
+['Evan Moore'],Probable: ankle,week_7,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_7,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_7,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_7,Cleveland Browns,2011
+['Scott Paxson'],NA,week_7,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_7,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_7,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_7,Cleveland Browns,2011
+['Buster Skrine'],Questionable: hip,week_7,Cleveland Browns,2011
+['Alex Smith'],NA,week_7,Cleveland Browns,2011
+['Quinton Spears'],NA,week_7,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_7,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_7,Cleveland Browns,2011
+['Joe Thomas'],NA,week_7,Cleveland Browns,2011
+['Raymond Ventrone'],Questionable: hamstring,week_7,Cleveland Browns,2011
+['T.J. Ward'],NA,week_7,Cleveland Browns,2011
+['Ben Watson'],NA,week_7,Cleveland Browns,2011
+['Usama Young'],NA,week_7,Cleveland Browns,2011
+['Mike Adams'],NA,week_8,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_8,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_8,Cleveland Browns,2011
+['Titus Brown'],NA,week_8,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_8,Cleveland Browns,2011
+['Phil Dawson'],Probable: right thigh,week_8,Cleveland Browns,2011
+['Auston English'],Out: knee,week_8,Cleveland Browns,2011
+['Scott Fujita'],Probable: concussion,week_8,Cleveland Browns,2011
+['Chris Gocong'],NA,week_8,Cleveland Browns,2011
+['Joe Haden'],Questionable: knee,week_8,Cleveland Browns,2011
+['Eric Hagg'],NA,week_8,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_8,Cleveland Browns,2011
+['Artis Hicks'],Probable: back,week_8,Cleveland Browns,2011
+['Peyton Hillis'],Questionable: hamstring,week_8,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_8,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_8,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_8,Cleveland Browns,2011
+['Shawn Lauvao'],Questionable: knee,week_8,Cleveland Browns,2011
+['Alex Mack'],NA,week_8,Cleveland Browns,2011
+['Kaluka Maiava'],Questionable: knee,week_8,Cleveland Browns,2011
+['Owen Marecic'],NA,week_8,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: concussion,week_8,Cleveland Browns,2011
+['Brad Maynard'],NA,week_8,Cleveland Browns,2011
+['Colt McCoy'],NA,week_8,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_8,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_8,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_8,Cleveland Browns,2011
+['Evan Moore'],NA,week_8,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_8,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_8,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_8,Cleveland Browns,2011
+['Scott Paxson'],NA,week_8,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_8,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_8,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_8,Cleveland Browns,2011
+['Buster Skrine'],Probable: hip,week_8,Cleveland Browns,2011
+['Alex Smith'],NA,week_8,Cleveland Browns,2011
+['Quinton Spears'],NA,week_8,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_8,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_8,Cleveland Browns,2011
+['Joe Thomas'],NA,week_8,Cleveland Browns,2011
+['Raymond Ventrone'],Questionable: hamstring,week_8,Cleveland Browns,2011
+['T.J. Ward'],NA,week_8,Cleveland Browns,2011
+['Ben Watson'],Questionable: concussion,week_8,Cleveland Browns,2011
+['Usama Young'],NA,week_8,Cleveland Browns,2011
+['Mike Adams'],NA,week_9,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_9,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_9,Cleveland Browns,2011
+['Titus Brown'],NA,week_9,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_9,Cleveland Browns,2011
+['Phil Dawson'],NA,week_9,Cleveland Browns,2011
+['Auston English'],Questionable: knee,week_9,Cleveland Browns,2011
+['Scott Fujita'],NA,week_9,Cleveland Browns,2011
+['Chris Gocong'],Questionable: shoulder,week_9,Cleveland Browns,2011
+['Joe Haden'],NA,week_9,Cleveland Browns,2011
+['Eric Hagg'],NA,week_9,Cleveland Browns,2011
+['Montario Hardesty'],Out: calf,week_9,Cleveland Browns,2011
+['Artis Hicks'],Questionable: back,week_9,Cleveland Browns,2011
+['Peyton Hillis'],Probable: hamstring,week_9,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_9,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_9,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_9,Cleveland Browns,2011
+['Shawn Lauvao'],Probable: knee,week_9,Cleveland Browns,2011
+['Alex Mack'],NA,week_9,Cleveland Browns,2011
+['Kaluka Maiava'],Questionable: knee,week_9,Cleveland Browns,2011
+['Owen Marecic'],NA,week_9,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: concussion,week_9,Cleveland Browns,2011
+['Brad Maynard'],NA,week_9,Cleveland Browns,2011
+['Colt McCoy'],NA,week_9,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_9,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_9,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_9,Cleveland Browns,2011
+['Evan Moore'],NA,week_9,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_9,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_9,Cleveland Browns,2011
+['Dimitri Patterson'],Questionable: knee,week_9,Cleveland Browns,2011
+['Scott Paxson'],NA,week_9,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_9,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_9,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_9,Cleveland Browns,2011
+['Buster Skrine'],NA,week_9,Cleveland Browns,2011
+['Alex Smith'],NA,week_9,Cleveland Browns,2011
+['Quinton Spears'],NA,week_9,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_9,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_9,Cleveland Browns,2011
+['Joe Thomas'],NA,week_9,Cleveland Browns,2011
+['Raymond Ventrone'],Questionable: hamstring,week_9,Cleveland Browns,2011
+['T.J. Ward'],Questionable: knee,week_9,Cleveland Browns,2011
+['Ben Watson'],NA,week_9,Cleveland Browns,2011
+['Usama Young'],NA,week_9,Cleveland Browns,2011
+['Mike Adams'],NA,week_10,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_10,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_10,Cleveland Browns,2011
+['Titus Brown'],NA,week_10,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_10,Cleveland Browns,2011
+['Phil Dawson'],Questionable: headache,week_10,Cleveland Browns,2011
+['Auston English'],Questionable: knee,week_10,Cleveland Browns,2011
+['Scott Fujita'],NA,week_10,Cleveland Browns,2011
+['Chris Gocong'],NA,week_10,Cleveland Browns,2011
+['Joe Haden'],NA,week_10,Cleveland Browns,2011
+['Eric Hagg'],NA,week_10,Cleveland Browns,2011
+['Montario Hardesty'],Out: calf,week_10,Cleveland Browns,2011
+['Artis Hicks'],NA,week_10,Cleveland Browns,2011
+['Peyton Hillis'],Out: hamstring,week_10,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_10,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_10,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_10,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_10,Cleveland Browns,2011
+['Alex Mack'],NA,week_10,Cleveland Browns,2011
+['Kaluka Maiava'],Questionable: knee,week_10,Cleveland Browns,2011
+['Owen Marecic'],NA,week_10,Cleveland Browns,2011
+['Mohamed Massaquoi'],Out: head,week_10,Cleveland Browns,2011
+['Brad Maynard'],Questionable: left thigh,week_10,Cleveland Browns,2011
+['Colt McCoy'],NA,week_10,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_10,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_10,Cleveland Browns,2011
+['Jayme Mitchell'],Questionable: chest/ankle,week_10,Cleveland Browns,2011
+['Evan Moore'],NA,week_10,Cleveland Browns,2011
+['Jordan Norwood'],Probable: finger,week_10,Cleveland Browns,2011
+['Tony Pashos'],Questionable: knee,week_10,Cleveland Browns,2011
+['Dimitri Patterson'],Questionable: knee,week_10,Cleveland Browns,2011
+['Scott Paxson'],NA,week_10,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_10,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_10,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_10,Cleveland Browns,2011
+['Buster Skrine'],NA,week_10,Cleveland Browns,2011
+['Alex Smith'],NA,week_10,Cleveland Browns,2011
+['Quinton Spears'],Probable: ankle,week_10,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_10,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_10,Cleveland Browns,2011
+['Joe Thomas'],NA,week_10,Cleveland Browns,2011
+['Raymond Ventrone'],Questionable: hamstring,week_10,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_10,Cleveland Browns,2011
+['Ben Watson'],NA,week_10,Cleveland Browns,2011
+['Usama Young'],Questionable: hip,week_10,Cleveland Browns,2011
+['Mike Adams'],NA,week_11,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_11,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_11,Cleveland Browns,2011
+['Titus Brown'],NA,week_11,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_11,Cleveland Browns,2011
+['Phil Dawson'],NA,week_11,Cleveland Browns,2011
+['Auston English'],Questionable: knee,week_11,Cleveland Browns,2011
+['Scott Fujita'],NA,week_11,Cleveland Browns,2011
+['Chris Gocong'],NA,week_11,Cleveland Browns,2011
+['Joe Haden'],NA,week_11,Cleveland Browns,2011
+['Eric Hagg'],NA,week_11,Cleveland Browns,2011
+['Montario Hardesty'],Questionable: calf,week_11,Cleveland Browns,2011
+['Artis Hicks'],NA,week_11,Cleveland Browns,2011
+['Peyton Hillis'],Out: hamstring,week_11,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_11,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_11,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_11,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_11,Cleveland Browns,2011
+['Alex Mack'],NA,week_11,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_11,Cleveland Browns,2011
+['Owen Marecic'],NA,week_11,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: head,week_11,Cleveland Browns,2011
+['Brad Maynard'],NA,week_11,Cleveland Browns,2011
+['Colt McCoy'],NA,week_11,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_11,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_11,Cleveland Browns,2011
+['Jayme Mitchell'],Questionable: chest/ankle,week_11,Cleveland Browns,2011
+['Evan Moore'],NA,week_11,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_11,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_11,Cleveland Browns,2011
+['Dimitri Patterson'],Questionable: knee,week_11,Cleveland Browns,2011
+['Scott Paxson'],NA,week_11,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_11,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_11,Cleveland Browns,2011
+['Jabaal Sheard'],Questionable: thigh,week_11,Cleveland Browns,2011
+['Buster Skrine'],NA,week_11,Cleveland Browns,2011
+['Alex Smith'],NA,week_11,Cleveland Browns,2011
+['Quinton Spears'],NA,week_11,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_11,Cleveland Browns,2011
+['Emmanuel Stephens'],NA,week_11,Cleveland Browns,2011
+['Joe Thomas'],NA,week_11,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_11,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_11,Cleveland Browns,2011
+['Ben Watson'],NA,week_11,Cleveland Browns,2011
+['Usama Young'],Probable: shoulder,week_11,Cleveland Browns,2011
+['Mike Adams'],NA,week_12,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_12,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_12,Cleveland Browns,2011
+['Titus Brown'],NA,week_12,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_12,Cleveland Browns,2011
+['Phil Dawson'],NA,week_12,Cleveland Browns,2011
+['Auston English'],Probable: knee,week_12,Cleveland Browns,2011
+['Scott Fujita'],NA,week_12,Cleveland Browns,2011
+['Chris Gocong'],NA,week_12,Cleveland Browns,2011
+['Joe Haden'],NA,week_12,Cleveland Browns,2011
+['Eric Hagg'],NA,week_12,Cleveland Browns,2011
+['Montario Hardesty'],Questionable: calf,week_12,Cleveland Browns,2011
+['Artis Hicks'],NA,week_12,Cleveland Browns,2011
+['Peyton Hillis'],NA,week_12,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_12,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_12,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_12,Cleveland Browns,2011
+['Shawn Lauvao'],Probable: knee,week_12,Cleveland Browns,2011
+['Alex Mack'],NA,week_12,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_12,Cleveland Browns,2011
+['Owen Marecic'],Questionable: concussion,week_12,Cleveland Browns,2011
+['Mohamed Massaquoi'],NA,week_12,Cleveland Browns,2011
+['Brad Maynard'],NA,week_12,Cleveland Browns,2011
+['Colt McCoy'],Probable: right shoulder,week_12,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_12,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_12,Cleveland Browns,2011
+['Jayme Mitchell'],Probable: ankle,week_12,Cleveland Browns,2011
+['Evan Moore'],NA,week_12,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_12,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_12,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_12,Cleveland Browns,2011
+['Scott Paxson'],NA,week_12,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_12,Cleveland Browns,2011
+['Brian Schaefering'],Questionable: ankle,week_12,Cleveland Browns,2011
+['Jabaal Sheard'],Probable: thigh,week_12,Cleveland Browns,2011
+['Buster Skrine'],NA,week_12,Cleveland Browns,2011
+['Alex Smith'],NA,week_12,Cleveland Browns,2011
+['Quinton Spears'],Questionable: hamstring,week_12,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_12,Cleveland Browns,2011
+['Emmanuel Stephens'],Probable: foot,week_12,Cleveland Browns,2011
+['Joe Thomas'],NA,week_12,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_12,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_12,Cleveland Browns,2011
+['Ben Watson'],Probable: elbow,week_12,Cleveland Browns,2011
+['Usama Young'],NA,week_12,Cleveland Browns,2011
+['Mike Adams'],Questionable: shoulder,week_13,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_13,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_13,Cleveland Browns,2011
+['Titus Brown'],NA,week_13,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_13,Cleveland Browns,2011
+['Phil Dawson'],NA,week_13,Cleveland Browns,2011
+['Auston English'],NA,week_13,Cleveland Browns,2011
+['Scott Fujita'],Injured Reserve: hand,week_13,Cleveland Browns,2011
+['Chris Gocong'],NA,week_13,Cleveland Browns,2011
+['Joe Haden'],NA,week_13,Cleveland Browns,2011
+['Eric Hagg'],NA,week_13,Cleveland Browns,2011
+['Montario Hardesty'],Questionable: calf,week_13,Cleveland Browns,2011
+['Artis Hicks'],NA,week_13,Cleveland Browns,2011
+['Peyton Hillis'],Probable: hamstring,week_13,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_13,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_13,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_13,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_13,Cleveland Browns,2011
+['Alex Mack'],NA,week_13,Cleveland Browns,2011
+['Kaluka Maiava'],Questionable: knee,week_13,Cleveland Browns,2011
+['Owen Marecic'],Probable: concussion,week_13,Cleveland Browns,2011
+['Mohamed Massaquoi'],NA,week_13,Cleveland Browns,2011
+['Brad Maynard'],NA,week_13,Cleveland Browns,2011
+['Colt McCoy'],Probable: right elbow,week_13,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_13,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_13,Cleveland Browns,2011
+['Jayme Mitchell'],Questionable: ankle,week_13,Cleveland Browns,2011
+['Evan Moore'],NA,week_13,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_13,Cleveland Browns,2011
+['Tony Pashos'],Probable: ankle,week_13,Cleveland Browns,2011
+['Dimitri Patterson'],Probable: ankle,week_13,Cleveland Browns,2011
+['Scott Paxson'],Probable: shin,week_13,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_13,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_13,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_13,Cleveland Browns,2011
+['Buster Skrine'],NA,week_13,Cleveland Browns,2011
+['Alex Smith'],NA,week_13,Cleveland Browns,2011
+['Quinton Spears'],Questionable: hamstring,week_13,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_13,Cleveland Browns,2011
+['Emmanuel Stephens'],Injured Reserve: pectoral,week_13,Cleveland Browns,2011
+['Joe Thomas'],NA,week_13,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_13,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_13,Cleveland Browns,2011
+['Ben Watson'],NA,week_13,Cleveland Browns,2011
+['Usama Young'],NA,week_13,Cleveland Browns,2011
+['Mike Adams'],Questionable: shoulder,week_14,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_14,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_14,Cleveland Browns,2011
+['Titus Brown'],NA,week_14,Cleveland Browns,2011
+['Josh Cribbs'],NA,week_14,Cleveland Browns,2011
+['Phil Dawson'],NA,week_14,Cleveland Browns,2011
+['Auston English'],NA,week_14,Cleveland Browns,2011
+['Scott Fujita'],Injured Reserve: hand,week_14,Cleveland Browns,2011
+['Chris Gocong'],Probable: hip,week_14,Cleveland Browns,2011
+['Joe Haden'],NA,week_14,Cleveland Browns,2011
+['Eric Hagg'],NA,week_14,Cleveland Browns,2011
+['Montario Hardesty'],Probable: calf,week_14,Cleveland Browns,2011
+['Artis Hicks'],NA,week_14,Cleveland Browns,2011
+['Peyton Hillis'],Questionable: hip,week_14,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_14,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_14,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_14,Cleveland Browns,2011
+['Shawn Lauvao'],NA,week_14,Cleveland Browns,2011
+['Alex Mack'],NA,week_14,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_14,Cleveland Browns,2011
+['Owen Marecic'],NA,week_14,Cleveland Browns,2011
+['Mohamed Massaquoi'],NA,week_14,Cleveland Browns,2011
+['Brad Maynard'],NA,week_14,Cleveland Browns,2011
+['Colt McCoy'],Probable: knee,week_14,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_14,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_14,Cleveland Browns,2011
+['Jayme Mitchell'],Probable: ankle,week_14,Cleveland Browns,2011
+['Evan Moore'],NA,week_14,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_14,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_14,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_14,Cleveland Browns,2011
+['Scott Paxson'],NA,week_14,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_14,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_14,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_14,Cleveland Browns,2011
+['Buster Skrine'],NA,week_14,Cleveland Browns,2011
+['Alex Smith'],NA,week_14,Cleveland Browns,2011
+['Quinton Spears'],Questionable: hamstring,week_14,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_14,Cleveland Browns,2011
+['Emmanuel Stephens'],Injured Reserve: pectoral,week_14,Cleveland Browns,2011
+['Joe Thomas'],NA,week_14,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_14,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_14,Cleveland Browns,2011
+['Ben Watson'],NA,week_14,Cleveland Browns,2011
+['Usama Young'],NA,week_14,Cleveland Browns,2011
+['Mike Adams'],NA,week_15,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_15,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_15,Cleveland Browns,2011
+['Titus Brown'],NA,week_15,Cleveland Browns,2011
+['Josh Cribbs'],Questionable: groin,week_15,Cleveland Browns,2011
+['Phil Dawson'],NA,week_15,Cleveland Browns,2011
+['Auston English'],NA,week_15,Cleveland Browns,2011
+['Scott Fujita'],Injured Reserve: hand,week_15,Cleveland Browns,2011
+['Chris Gocong'],NA,week_15,Cleveland Browns,2011
+['Joe Haden'],NA,week_15,Cleveland Browns,2011
+['Eric Hagg'],NA,week_15,Cleveland Browns,2011
+['Montario Hardesty'],Questionable: calf,week_15,Cleveland Browns,2011
+['Artis Hicks'],Questionable: shoulder,week_15,Cleveland Browns,2011
+['Peyton Hillis'],Probable: hip,week_15,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_15,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_15,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_15,Cleveland Browns,2011
+['Shawn Lauvao'],Questionable: ankle,week_15,Cleveland Browns,2011
+['Alex Mack'],NA,week_15,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_15,Cleveland Browns,2011
+['Owen Marecic'],Questionable: head,week_15,Cleveland Browns,2011
+['Mohamed Massaquoi'],NA,week_15,Cleveland Browns,2011
+['Brad Maynard'],NA,week_15,Cleveland Browns,2011
+['Colt McCoy'],Doubtful: concussion/left hand,week_15,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_15,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_15,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_15,Cleveland Browns,2011
+['Evan Moore'],NA,week_15,Cleveland Browns,2011
+['Jordan Norwood'],NA,week_15,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle,week_15,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_15,Cleveland Browns,2011
+['Scott Paxson'],NA,week_15,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_15,Cleveland Browns,2011
+['Brian Schaefering'],Questionable: ankle,week_15,Cleveland Browns,2011
+['Jabaal Sheard'],Probable: forearm,week_15,Cleveland Browns,2011
+['Buster Skrine'],NA,week_15,Cleveland Browns,2011
+['Alex Smith'],NA,week_15,Cleveland Browns,2011
+['Quinton Spears'],Questionable: hamstring,week_15,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_15,Cleveland Browns,2011
+['Emmanuel Stephens'],Injured Reserve: pectoral,week_15,Cleveland Browns,2011
+['Joe Thomas'],NA,week_15,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_15,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_15,Cleveland Browns,2011
+['Ben Watson'],Out: concussion,week_15,Cleveland Browns,2011
+['Usama Young'],NA,week_15,Cleveland Browns,2011
+['Mike Adams'],NA,week_16,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_16,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_16,Cleveland Browns,2011
+['Titus Brown'],Injured Reserve: knee,week_16,Cleveland Browns,2011
+['Josh Cribbs'],Questionable: groin,week_16,Cleveland Browns,2011
+['Phil Dawson'],NA,week_16,Cleveland Browns,2011
+['Auston English'],NA,week_16,Cleveland Browns,2011
+['Scott Fujita'],Injured Reserve: hand,week_16,Cleveland Browns,2011
+['Chris Gocong'],NA,week_16,Cleveland Browns,2011
+['Joe Haden'],Questionable: thigh,week_16,Cleveland Browns,2011
+['Eric Hagg'],NA,week_16,Cleveland Browns,2011
+['Montario Hardesty'],Probable: calf,week_16,Cleveland Browns,2011
+['Artis Hicks'],NA,week_16,Cleveland Browns,2011
+['Peyton Hillis'],NA,week_16,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_16,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_16,Cleveland Browns,2011
+['Ben Jacobs'],Questionable: concussion,week_16,Cleveland Browns,2011
+['Shawn Lauvao'],Probable: ankle,week_16,Cleveland Browns,2011
+['Alex Mack'],NA,week_16,Cleveland Browns,2011
+['Kaluka Maiava'],NA,week_16,Cleveland Browns,2011
+['Owen Marecic'],Questionable: head,week_16,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: foot,week_16,Cleveland Browns,2011
+['Brad Maynard'],NA,week_16,Cleveland Browns,2011
+['Colt McCoy'],Doubtful: concussion/left hand,week_16,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_16,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_16,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_16,Cleveland Browns,2011
+['Evan Moore'],NA,week_16,Cleveland Browns,2011
+['Jordan Norwood'],Questionable: concussion,week_16,Cleveland Browns,2011
+['Tony Pashos'],Probable: ankle,week_16,Cleveland Browns,2011
+['Dimitri Patterson'],NA,week_16,Cleveland Browns,2011
+['Scott Paxson'],Questionable: hand/calf,week_16,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_16,Cleveland Browns,2011
+['Brian Schaefering'],Probable: ankle,week_16,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_16,Cleveland Browns,2011
+['Buster Skrine'],NA,week_16,Cleveland Browns,2011
+['Alex Smith'],Injured Reserve: shoulder,week_16,Cleveland Browns,2011
+['Quinton Spears'],NA,week_16,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_16,Cleveland Browns,2011
+['Emmanuel Stephens'],Injured Reserve: pectoral,week_16,Cleveland Browns,2011
+['Joe Thomas'],NA,week_16,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_16,Cleveland Browns,2011
+['T.J. Ward'],Out: foot,week_16,Cleveland Browns,2011
+['Ben Watson'],Injured Reserve: concussion,week_16,Cleveland Browns,2011
+['Usama Young'],Questionable: shoulder,week_16,Cleveland Browns,2011
+['Mike Adams'],NA,week_17,Cleveland Browns,2011
+['Marcus Benard'],Out: hand,week_17,Cleveland Browns,2011
+['Sheldon Brown'],NA,week_17,Cleveland Browns,2011
+['Titus Brown'],Injured Reserve: knee,week_17,Cleveland Browns,2011
+['Josh Cribbs'],Questionable: groin,week_17,Cleveland Browns,2011
+['Phil Dawson'],NA,week_17,Cleveland Browns,2011
+['Auston English'],NA,week_17,Cleveland Browns,2011
+['Scott Fujita'],Injured Reserve: hand,week_17,Cleveland Browns,2011
+['Chris Gocong'],NA,week_17,Cleveland Browns,2011
+['Joe Haden'],NA,week_17,Cleveland Browns,2011
+['Eric Hagg'],NA,week_17,Cleveland Browns,2011
+['Montario Hardesty'],NA,week_17,Cleveland Browns,2011
+['Artis Hicks'],NA,week_17,Cleveland Browns,2011
+['Peyton Hillis'],Probable: elbow,week_17,Cleveland Browns,2011
+['Reggie Hodges'],Injured Reserve: Achilles,week_17,Cleveland Browns,2011
+['Brandon Jackson'],Injured Reserve: foot,week_17,Cleveland Browns,2011
+['Ben Jacobs'],NA,week_17,Cleveland Browns,2011
+['Shawn Lauvao'],Probable: ankle,week_17,Cleveland Browns,2011
+['Alex Mack'],NA,week_17,Cleveland Browns,2011
+['Kaluka Maiava'],Questionable: hand,week_17,Cleveland Browns,2011
+['Owen Marecic'],Probable: ankle,week_17,Cleveland Browns,2011
+['Mohamed Massaquoi'],Questionable: foot,week_17,Cleveland Browns,2011
+['Brad Maynard'],NA,week_17,Cleveland Browns,2011
+['Colt McCoy'],Doubtful: concussion,week_17,Cleveland Browns,2011
+['Richmond McGee'],Injured Reserve: back,week_17,Cleveland Browns,2011
+['Carlton Mitchell'],NA,week_17,Cleveland Browns,2011
+['Jayme Mitchell'],NA,week_17,Cleveland Browns,2011
+['Evan Moore'],NA,week_17,Cleveland Browns,2011
+['Jordan Norwood'],Out: concussion,week_17,Cleveland Browns,2011
+['Tony Pashos'],Questionable: ankle/illness,week_17,Cleveland Browns,2011
+['Dimitri Patterson'],Probable: hand,week_17,Cleveland Browns,2011
+['Scott Paxson'],Questionable: hand/calf,week_17,Cleveland Browns,2011
+['Jason Pinkston'],NA,week_17,Cleveland Browns,2011
+['Brian Schaefering'],NA,week_17,Cleveland Browns,2011
+['Jabaal Sheard'],NA,week_17,Cleveland Browns,2011
+['Buster Skrine'],NA,week_17,Cleveland Browns,2011
+['Alex Smith'],Injured Reserve: shoulder,week_17,Cleveland Browns,2011
+['Quinton Spears'],Doubtful: concussion,week_17,Cleveland Browns,2011
+['Eric Steinbach'],Injured Reserve: back,week_17,Cleveland Browns,2011
+['Emmanuel Stephens'],Injured Reserve: pectoral,week_17,Cleveland Browns,2011
+['Joe Thomas'],NA,week_17,Cleveland Browns,2011
+['Raymond Ventrone'],NA,week_17,Cleveland Browns,2011
+['T.J. Ward'],Injured Reserve: foot,week_17,Cleveland Browns,2011
+['Ben Watson'],Injured Reserve: concussion,week_17,Cleveland Browns,2011
+['Usama Young'],NA,week_17,Cleveland Browns,2011

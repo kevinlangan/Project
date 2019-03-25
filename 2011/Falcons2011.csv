@@ -1,0 +1,715 @@
+﻿name,injury,week,team,year
+['John Abraham'],NA,week_1,Atlanta Falcons,2011
+['Jonathan Babineaux'],Questionable: knee/shoulder,week_1,Atlanta Falcons,2011
+['Sam Baker'],NA,week_1,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_1,Atlanta Falcons,2011
+['Rob Bruggeman'],Probable: concussion,week_1,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_1,Atlanta Falcons,2011
+['Tyson Clabo'],Questionable: elbow,week_1,Atlanta Falcons,2011
+['Mike Cox'],NA,week_1,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_1,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_1,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_1,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_1,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_1,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_1,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_1,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_1,Atlanta Falcons,2011
+['Julio Jones'],NA,week_1,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_1,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_1,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_1,Atlanta Falcons,2011
+['Todd McClure'],Out: knee,week_1,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_1,Atlanta Falcons,2011
+['William Moore'],NA,week_1,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_1,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_1,Atlanta Falcons,2011
+['Chris Owens'],NA,week_1,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_1,Atlanta Falcons,2011
+['Corey Peters'],Questionable: knee,week_1,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_1,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_1,Atlanta Falcons,2011
+['Dunta Robinson'],Probable: hamstring,week_1,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_1,Atlanta Falcons,2011
+['James Sanders'],NA,week_1,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_1,Atlanta Falcons,2011
+['Lawrence Sidbury'],Probable: ankle,week_1,Atlanta Falcons,2011
+['Antone Smith'],NA,week_1,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_1,Atlanta Falcons,2011
+['Will Svitek'],NA,week_1,Atlanta Falcons,2011
+['Michael Turner'],NA,week_1,Atlanta Falcons,2011
+['Vance Walker'],NA,week_1,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_1,Atlanta Falcons,2011
+['Roddy White'],Probable: thigh,week_1,Atlanta Falcons,2011
+['John Abraham'],NA,week_2,Atlanta Falcons,2011
+['Jonathan Babineaux'],Out: knee,week_2,Atlanta Falcons,2011
+['Sam Baker'],NA,week_2,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_2,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_2,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_2,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_2,Atlanta Falcons,2011
+['Mike Cox'],NA,week_2,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: concussion,week_2,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_2,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_2,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_2,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_2,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_2,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_2,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_2,Atlanta Falcons,2011
+['Julio Jones'],NA,week_2,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_2,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_2,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_2,Atlanta Falcons,2011
+['Todd McClure'],Questionable: knee,week_2,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_2,Atlanta Falcons,2011
+['William Moore'],NA,week_2,Atlanta Falcons,2011
+['Ovie Mughelli'],Questionable: knee,week_2,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_2,Atlanta Falcons,2011
+['Chris Owens'],Questionable: knee,week_2,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_2,Atlanta Falcons,2011
+['Corey Peters'],Probable: knee,week_2,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_2,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_2,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_2,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_2,Atlanta Falcons,2011
+['James Sanders'],NA,week_2,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_2,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_2,Atlanta Falcons,2011
+['Antone Smith'],NA,week_2,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_2,Atlanta Falcons,2011
+['Will Svitek'],NA,week_2,Atlanta Falcons,2011
+['Michael Turner'],NA,week_2,Atlanta Falcons,2011
+['Vance Walker'],NA,week_2,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_2,Atlanta Falcons,2011
+['Roddy White'],Probable: knee,week_2,Atlanta Falcons,2011
+['John Abraham'],Questionable: thigh,week_3,Atlanta Falcons,2011
+['Jonathan Babineaux'],Out: knee,week_3,Atlanta Falcons,2011
+['Sam Baker'],NA,week_3,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_3,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_3,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_3,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_3,Atlanta Falcons,2011
+['Mike Cox'],NA,week_3,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_3,Atlanta Falcons,2011
+['Ray Edwards'],Questionable: foot,week_3,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_3,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_3,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_3,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: hamstring,week_3,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_3,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_3,Atlanta Falcons,2011
+['Julio Jones'],NA,week_3,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_3,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_3,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_3,Atlanta Falcons,2011
+['Todd McClure'],Questionable: knee,week_3,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_3,Atlanta Falcons,2011
+['William Moore'],NA,week_3,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_3,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: calf,week_3,Atlanta Falcons,2011
+['Chris Owens'],NA,week_3,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_3,Atlanta Falcons,2011
+['Corey Peters'],Probable: back,week_3,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_3,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_3,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_3,Atlanta Falcons,2011
+['Matt Ryan'],Questionable: knee,week_3,Atlanta Falcons,2011
+['James Sanders'],NA,week_3,Atlanta Falcons,2011
+['Shann Schillinger'],Probable: neck,week_3,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_3,Atlanta Falcons,2011
+['Antone Smith'],NA,week_3,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_3,Atlanta Falcons,2011
+['Will Svitek'],NA,week_3,Atlanta Falcons,2011
+['Michael Turner'],NA,week_3,Atlanta Falcons,2011
+['Vance Walker'],NA,week_3,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_3,Atlanta Falcons,2011
+['Roddy White'],Questionable: thigh,week_3,Atlanta Falcons,2011
+['John Abraham'],NA,week_4,Atlanta Falcons,2011
+['Jonathan Babineaux'],Out: knee,week_4,Atlanta Falcons,2011
+['Sam Baker'],Questionable: ankle,week_4,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_4,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_4,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_4,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_4,Atlanta Falcons,2011
+['Mike Cox'],NA,week_4,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_4,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_4,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_4,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_4,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_4,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: hamstring,week_4,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_4,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_4,Atlanta Falcons,2011
+['Julio Jones'],NA,week_4,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_4,Atlanta Falcons,2011
+['Curtis Lofton'],Questionable: foot,week_4,Atlanta Falcons,2011
+['Cliff Matthews'],Out: knee,week_4,Atlanta Falcons,2011
+['Todd McClure'],NA,week_4,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_4,Atlanta Falcons,2011
+['William Moore'],NA,week_4,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_4,Atlanta Falcons,2011
+['Stephen Nicholas'],Doubtful: calf,week_4,Atlanta Falcons,2011
+['Chris Owens'],NA,week_4,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_4,Atlanta Falcons,2011
+['Corey Peters'],NA,week_4,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_4,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_4,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_4,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_4,Atlanta Falcons,2011
+['James Sanders'],NA,week_4,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_4,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_4,Atlanta Falcons,2011
+['Antone Smith'],NA,week_4,Atlanta Falcons,2011
+['Jason Snelling'],Doubtful: concussion,week_4,Atlanta Falcons,2011
+['Will Svitek'],NA,week_4,Atlanta Falcons,2011
+['Michael Turner'],NA,week_4,Atlanta Falcons,2011
+['Vance Walker'],NA,week_4,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_4,Atlanta Falcons,2011
+['Roddy White'],Questionable: thigh,week_4,Atlanta Falcons,2011
+['John Abraham'],Questionable: hip,week_5,Atlanta Falcons,2011
+['Jonathan Babineaux'],Questionable: knee,week_5,Atlanta Falcons,2011
+['Sam Baker'],NA,week_5,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_5,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_5,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_5,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_5,Atlanta Falcons,2011
+['Mike Cox'],NA,week_5,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_5,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_5,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_5,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_5,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_5,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_5,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_5,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_5,Atlanta Falcons,2011
+['Julio Jones'],NA,week_5,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_5,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_5,Atlanta Falcons,2011
+['Cliff Matthews'],Questionable: knee,week_5,Atlanta Falcons,2011
+['Todd McClure'],Questionable: knee,week_5,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_5,Atlanta Falcons,2011
+['William Moore'],Questionable: neck,week_5,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_5,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: calf,week_5,Atlanta Falcons,2011
+['Chris Owens'],Probable: ankle,week_5,Atlanta Falcons,2011
+['Michael Palmer'],Questionable: ankle,week_5,Atlanta Falcons,2011
+['Corey Peters'],NA,week_5,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_5,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_5,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_5,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_5,Atlanta Falcons,2011
+['James Sanders'],NA,week_5,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_5,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_5,Atlanta Falcons,2011
+['Antone Smith'],NA,week_5,Atlanta Falcons,2011
+['Jason Snelling'],Probable: concussion,week_5,Atlanta Falcons,2011
+['Will Svitek'],NA,week_5,Atlanta Falcons,2011
+['Michael Turner'],NA,week_5,Atlanta Falcons,2011
+['Vance Walker'],NA,week_5,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_5,Atlanta Falcons,2011
+['Roddy White'],Questionable: thigh,week_5,Atlanta Falcons,2011
+['John Abraham'],Questionable: hip,week_6,Atlanta Falcons,2011
+['Jonathan Babineaux'],Questionable: knee,week_6,Atlanta Falcons,2011
+['Sam Baker'],NA,week_6,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_6,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_6,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_6,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_6,Atlanta Falcons,2011
+['Mike Cox'],NA,week_6,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_6,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_6,Atlanta Falcons,2011
+['Tony Gonzalez'],Questionable: elbow,week_6,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_6,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_6,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_6,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_6,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_6,Atlanta Falcons,2011
+['Julio Jones'],Out: hamstring,week_6,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_6,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_6,Atlanta Falcons,2011
+['Cliff Matthews'],Questionable: knee,week_6,Atlanta Falcons,2011
+['Todd McClure'],Questionable: knee,week_6,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_6,Atlanta Falcons,2011
+['William Moore'],Questionable: neck/shoulder,week_6,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_6,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_6,Atlanta Falcons,2011
+['Chris Owens'],Questionable: concussion,week_6,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_6,Atlanta Falcons,2011
+['Corey Peters'],NA,week_6,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_6,Atlanta Falcons,2011
+['Garrett Reynolds'],Questionable: ankle,week_6,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_6,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_6,Atlanta Falcons,2011
+['James Sanders'],Questionable: hamstring,week_6,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_6,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_6,Atlanta Falcons,2011
+['Antone Smith'],NA,week_6,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_6,Atlanta Falcons,2011
+['Will Svitek'],NA,week_6,Atlanta Falcons,2011
+['Michael Turner'],NA,week_6,Atlanta Falcons,2011
+['Vance Walker'],NA,week_6,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_6,Atlanta Falcons,2011
+['Roddy White'],Probable: thigh,week_6,Atlanta Falcons,2011
+['John Abraham'],Questionable: groin,week_7,Atlanta Falcons,2011
+['Jonathan Babineaux'],Probable: knee,week_7,Atlanta Falcons,2011
+['Sam Baker'],Questionable: back,week_7,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_7,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_7,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_7,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_7,Atlanta Falcons,2011
+['Mike Cox'],NA,week_7,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_7,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_7,Atlanta Falcons,2011
+['Tony Gonzalez'],Probable: elbow,week_7,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_7,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_7,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_7,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_7,Atlanta Falcons,2011
+['Mike Johnson'],NA,week_7,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_7,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_7,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_7,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_7,Atlanta Falcons,2011
+['Todd McClure'],Questionable: knee,week_7,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_7,Atlanta Falcons,2011
+['William Moore'],NA,week_7,Atlanta Falcons,2011
+['Ovie Mughelli'],NA,week_7,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_7,Atlanta Falcons,2011
+['Chris Owens'],Questionable: concussion,week_7,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_7,Atlanta Falcons,2011
+['Corey Peters'],NA,week_7,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_7,Atlanta Falcons,2011
+['Garrett Reynolds'],Questionable: ankle,week_7,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_7,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_7,Atlanta Falcons,2011
+['James Sanders'],Questionable: hamstring,week_7,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_7,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_7,Atlanta Falcons,2011
+['Antone Smith'],NA,week_7,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_7,Atlanta Falcons,2011
+['Will Svitek'],NA,week_7,Atlanta Falcons,2011
+['Michael Turner'],NA,week_7,Atlanta Falcons,2011
+['Vance Walker'],NA,week_7,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_7,Atlanta Falcons,2011
+['Roddy White'],Probable: knee,week_7,Atlanta Falcons,2011
+['John Abraham'],NA,week_9,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_9,Atlanta Falcons,2011
+['Sam Baker'],Out: back,week_9,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_9,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_9,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_9,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_9,Atlanta Falcons,2011
+['Mike Cox'],NA,week_9,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_9,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_9,Atlanta Falcons,2011
+['Tony Gonzalez'],Questionable: back,week_9,Atlanta Falcons,2011
+['Brent Grimes'],NA,week_9,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_9,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_9,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_9,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_9,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_9,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_9,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_9,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_9,Atlanta Falcons,2011
+['Todd McClure'],NA,week_9,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_9,Atlanta Falcons,2011
+['William Moore'],NA,week_9,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_9,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_9,Atlanta Falcons,2011
+['Chris Owens'],Probable: concussion,week_9,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_9,Atlanta Falcons,2011
+['Corey Peters'],NA,week_9,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_9,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_9,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_9,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_9,Atlanta Falcons,2011
+['James Sanders'],NA,week_9,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_9,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_9,Atlanta Falcons,2011
+['Antone Smith'],NA,week_9,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_9,Atlanta Falcons,2011
+['Will Svitek'],NA,week_9,Atlanta Falcons,2011
+['Michael Turner'],NA,week_9,Atlanta Falcons,2011
+['Vance Walker'],NA,week_9,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_9,Atlanta Falcons,2011
+['Roddy White'],NA,week_9,Atlanta Falcons,2011
+['John Abraham'],NA,week_10,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_10,Atlanta Falcons,2011
+['Sam Baker'],Out: back,week_10,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_10,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_10,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_10,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_10,Atlanta Falcons,2011
+['Mike Cox'],NA,week_10,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_10,Atlanta Falcons,2011
+['Ray Edwards'],Questionable: thigh,week_10,Atlanta Falcons,2011
+['Tony Gonzalez'],Questionable: back,week_10,Atlanta Falcons,2011
+['Brent Grimes'],Probable: knee,week_10,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_10,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_10,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_10,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_10,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_10,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_10,Atlanta Falcons,2011
+['Curtis Lofton'],Probable: groin,week_10,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_10,Atlanta Falcons,2011
+['Todd McClure'],NA,week_10,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_10,Atlanta Falcons,2011
+['William Moore'],Questionable: thigh,week_10,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_10,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_10,Atlanta Falcons,2011
+['Chris Owens'],NA,week_10,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_10,Atlanta Falcons,2011
+['Corey Peters'],Probable: knee,week_10,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_10,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_10,Atlanta Falcons,2011
+['Dunta Robinson'],Probable: thigh,week_10,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_10,Atlanta Falcons,2011
+['James Sanders'],NA,week_10,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_10,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_10,Atlanta Falcons,2011
+['Antone Smith'],NA,week_10,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_10,Atlanta Falcons,2011
+['Will Svitek'],NA,week_10,Atlanta Falcons,2011
+['Michael Turner'],NA,week_10,Atlanta Falcons,2011
+['Vance Walker'],NA,week_10,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_10,Atlanta Falcons,2011
+['Roddy White'],NA,week_10,Atlanta Falcons,2011
+['John Abraham'],NA,week_11,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_11,Atlanta Falcons,2011
+['Sam Baker'],Out: back,week_11,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_11,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_11,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_11,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_11,Atlanta Falcons,2011
+['Mike Cox'],NA,week_11,Atlanta Falcons,2011
+['Harry Douglas'],Probable: thigh,week_11,Atlanta Falcons,2011
+['Ray Edwards'],Probable: knee,week_11,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_11,Atlanta Falcons,2011
+['Brent Grimes'],Questionable: knee,week_11,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_11,Atlanta Falcons,2011
+['Kelvin Hayden'],NA,week_11,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_11,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_11,Atlanta Falcons,2011
+['Julio Jones'],Doubtful: hamstring,week_11,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_11,Atlanta Falcons,2011
+['Curtis Lofton'],Questionable: ankle,week_11,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_11,Atlanta Falcons,2011
+['Todd McClure'],NA,week_11,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_11,Atlanta Falcons,2011
+['William Moore'],Doubtful: thigh,week_11,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_11,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_11,Atlanta Falcons,2011
+['Chris Owens'],NA,week_11,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_11,Atlanta Falcons,2011
+['Corey Peters'],NA,week_11,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_11,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_11,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_11,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_11,Atlanta Falcons,2011
+['James Sanders'],NA,week_11,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_11,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_11,Atlanta Falcons,2011
+['Antone Smith'],Probable: knee,week_11,Atlanta Falcons,2011
+['Jason Snelling'],Questionable: hamstring,week_11,Atlanta Falcons,2011
+['Will Svitek'],NA,week_11,Atlanta Falcons,2011
+['Michael Turner'],NA,week_11,Atlanta Falcons,2011
+['Vance Walker'],NA,week_11,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_11,Atlanta Falcons,2011
+['Roddy White'],NA,week_11,Atlanta Falcons,2011
+['John Abraham'],NA,week_12,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_12,Atlanta Falcons,2011
+['Sam Baker'],Questionable: back,week_12,Atlanta Falcons,2011
+['Justin Blalock'],Questionable: ankle,week_12,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_12,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_12,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_12,Atlanta Falcons,2011
+['Mike Cox'],NA,week_12,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_12,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_12,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_12,Atlanta Falcons,2011
+['Brent Grimes'],Questionable: knee,week_12,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_12,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: foot/leg,week_12,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_12,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_12,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_12,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_12,Atlanta Falcons,2011
+['Curtis Lofton'],Questionable: ankle,week_12,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_12,Atlanta Falcons,2011
+['Todd McClure'],NA,week_12,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_12,Atlanta Falcons,2011
+['William Moore'],Questionable: thigh,week_12,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_12,Atlanta Falcons,2011
+['Stephen Nicholas'],NA,week_12,Atlanta Falcons,2011
+['Chris Owens'],NA,week_12,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_12,Atlanta Falcons,2011
+['Corey Peters'],Questionable: knee,week_12,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_12,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_12,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_12,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_12,Atlanta Falcons,2011
+['James Sanders'],NA,week_12,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_12,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_12,Atlanta Falcons,2011
+['Antone Smith'],NA,week_12,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_12,Atlanta Falcons,2011
+['Will Svitek'],NA,week_12,Atlanta Falcons,2011
+['Michael Turner'],NA,week_12,Atlanta Falcons,2011
+['Vance Walker'],NA,week_12,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_12,Atlanta Falcons,2011
+['Roddy White'],NA,week_12,Atlanta Falcons,2011
+['John Abraham'],NA,week_13,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_13,Atlanta Falcons,2011
+['Sam Baker'],Questionable: back,week_13,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_13,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_13,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_13,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_13,Atlanta Falcons,2011
+['Mike Cox'],NA,week_13,Atlanta Falcons,2011
+['Harry Douglas'],NA,week_13,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_13,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_13,Atlanta Falcons,2011
+['Brent Grimes'],Out: knee,week_13,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_13,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: toe,week_13,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_13,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_13,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_13,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_13,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_13,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_13,Atlanta Falcons,2011
+['Todd McClure'],NA,week_13,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_13,Atlanta Falcons,2011
+['William Moore'],NA,week_13,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_13,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: quadricep,week_13,Atlanta Falcons,2011
+['Chris Owens'],NA,week_13,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_13,Atlanta Falcons,2011
+['Corey Peters'],NA,week_13,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_13,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_13,Atlanta Falcons,2011
+['Dunta Robinson'],Probable: neck,week_13,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_13,Atlanta Falcons,2011
+['James Sanders'],NA,week_13,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_13,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_13,Atlanta Falcons,2011
+['Antone Smith'],NA,week_13,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_13,Atlanta Falcons,2011
+['Will Svitek'],NA,week_13,Atlanta Falcons,2011
+['Michael Turner'],Questionable: groin,week_13,Atlanta Falcons,2011
+['Vance Walker'],Questionable: groin,week_13,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_13,Atlanta Falcons,2011
+['Roddy White'],NA,week_13,Atlanta Falcons,2011
+['John Abraham'],NA,week_14,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_14,Atlanta Falcons,2011
+['Sam Baker'],Questionable: back,week_14,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_14,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_14,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_14,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_14,Atlanta Falcons,2011
+['Mike Cox'],NA,week_14,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: groin,week_14,Atlanta Falcons,2011
+['Ray Edwards'],Probable: shoulder,week_14,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_14,Atlanta Falcons,2011
+['Brent Grimes'],Out: knee,week_14,Atlanta Falcons,2011
+['Joe Hawley'],Probable: ankle,week_14,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: toe,week_14,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_14,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_14,Atlanta Falcons,2011
+['Julio Jones'],Questionable: hamstring,week_14,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_14,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_14,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_14,Atlanta Falcons,2011
+['Todd McClure'],NA,week_14,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_14,Atlanta Falcons,2011
+['William Moore'],NA,week_14,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_14,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: quadricep,week_14,Atlanta Falcons,2011
+['Chris Owens'],Questionable: hand,week_14,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_14,Atlanta Falcons,2011
+['Corey Peters'],NA,week_14,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_14,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_14,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_14,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_14,Atlanta Falcons,2011
+['James Sanders'],NA,week_14,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_14,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_14,Atlanta Falcons,2011
+['Antone Smith'],NA,week_14,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_14,Atlanta Falcons,2011
+['Will Svitek'],Questionable: groin,week_14,Atlanta Falcons,2011
+['Michael Turner'],Questionable: groin,week_14,Atlanta Falcons,2011
+['Vance Walker'],Probable: groin,week_14,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_14,Atlanta Falcons,2011
+['Roddy White'],Probable: shoulder,week_14,Atlanta Falcons,2011
+['John Abraham'],NA,week_15,Atlanta Falcons,2011
+['Jonathan Babineaux'],Questionable: ankle,week_15,Atlanta Falcons,2011
+['Sam Baker'],NA,week_15,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_15,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_15,Atlanta Falcons,2011
+['Matt Bryant'],Probable: illness,week_15,Atlanta Falcons,2011
+['Tyson Clabo'],Probable: illness,week_15,Atlanta Falcons,2011
+['Mike Cox'],NA,week_15,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: groin,week_15,Atlanta Falcons,2011
+['Ray Edwards'],Probable: neck,week_15,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_15,Atlanta Falcons,2011
+['Brent Grimes'],Out: knee,week_15,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_15,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: toe,week_15,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_15,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_15,Atlanta Falcons,2011
+['Julio Jones'],Questionable: back,week_15,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_15,Atlanta Falcons,2011
+['Curtis Lofton'],NA,week_15,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_15,Atlanta Falcons,2011
+['Todd McClure'],NA,week_15,Atlanta Falcons,2011
+['Kerry Meier'],NA,week_15,Atlanta Falcons,2011
+['William Moore'],NA,week_15,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_15,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: quadricep,week_15,Atlanta Falcons,2011
+['Chris Owens'],Probable: hand,week_15,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_15,Atlanta Falcons,2011
+['Corey Peters'],NA,week_15,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_15,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_15,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_15,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_15,Atlanta Falcons,2011
+['James Sanders'],NA,week_15,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_15,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_15,Atlanta Falcons,2011
+['Antone Smith'],NA,week_15,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_15,Atlanta Falcons,2011
+['Will Svitek'],Questionable: groin,week_15,Atlanta Falcons,2011
+['Michael Turner'],Questionable: groin,week_15,Atlanta Falcons,2011
+['Vance Walker'],NA,week_15,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_15,Atlanta Falcons,2011
+['Roddy White'],NA,week_15,Atlanta Falcons,2011
+['John Abraham'],NA,week_16,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_16,Atlanta Falcons,2011
+['Sam Baker'],NA,week_16,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_16,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_16,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_16,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_16,Atlanta Falcons,2011
+['Mike Cox'],NA,week_16,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: groin,week_16,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_16,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_16,Atlanta Falcons,2011
+['Brent Grimes'],Questionable: knee,week_16,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_16,Atlanta Falcons,2011
+['Kelvin Hayden'],Questionable: toe,week_16,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_16,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_16,Atlanta Falcons,2011
+['Julio Jones'],NA,week_16,Atlanta Falcons,2011
+['Reggie Kelly'],NA,week_16,Atlanta Falcons,2011
+['Curtis Lofton'],Questionable: ankle,week_16,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_16,Atlanta Falcons,2011
+['Todd McClure'],NA,week_16,Atlanta Falcons,2011
+['Kerry Meier'],Doubtful: groin,week_16,Atlanta Falcons,2011
+['William Moore'],NA,week_16,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_16,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: toe,week_16,Atlanta Falcons,2011
+['Chris Owens'],Probable: hand,week_16,Atlanta Falcons,2011
+['Michael Palmer'],NA,week_16,Atlanta Falcons,2011
+['Corey Peters'],Questionable: knee,week_16,Atlanta Falcons,2011
+['Mike Peterson'],NA,week_16,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_16,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_16,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_16,Atlanta Falcons,2011
+['James Sanders'],NA,week_16,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_16,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_16,Atlanta Falcons,2011
+['Antone Smith'],NA,week_16,Atlanta Falcons,2011
+['Jason Snelling'],Questionable: illness,week_16,Atlanta Falcons,2011
+['Will Svitek'],Questionable: groin,week_16,Atlanta Falcons,2011
+['Michael Turner'],Questionable: groin,week_16,Atlanta Falcons,2011
+['Vance Walker'],NA,week_16,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_16,Atlanta Falcons,2011
+['Roddy White'],NA,week_16,Atlanta Falcons,2011
+['John Abraham'],NA,week_17,Atlanta Falcons,2011
+['Jonathan Babineaux'],NA,week_17,Atlanta Falcons,2011
+['Sam Baker'],NA,week_17,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_17,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_17,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_17,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_17,Atlanta Falcons,2011
+['Mike Cox'],NA,week_17,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: groin/shoulder,week_17,Atlanta Falcons,2011
+['Ray Edwards'],Questionable: groin,week_17,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_17,Atlanta Falcons,2011
+['Brent Grimes'],Questionable: knee,week_17,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_17,Atlanta Falcons,2011
+['Kelvin Hayden'],Injured Reserve: toe,week_17,Atlanta Falcons,2011
+['Peria Jerry'],NA,week_17,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_17,Atlanta Falcons,2011
+['Julio Jones'],Probable: ankle,week_17,Atlanta Falcons,2011
+['Reggie Kelly'],Questionable: back,week_17,Atlanta Falcons,2011
+['Curtis Lofton'],Questionable: ankle,week_17,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_17,Atlanta Falcons,2011
+['Todd McClure'],NA,week_17,Atlanta Falcons,2011
+['Kerry Meier'],Questionable: groin,week_17,Atlanta Falcons,2011
+['William Moore'],NA,week_17,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_17,Atlanta Falcons,2011
+['Stephen Nicholas'],Questionable: toe,week_17,Atlanta Falcons,2011
+['Chris Owens'],Probable: hand,week_17,Atlanta Falcons,2011
+['Michael Palmer'],Questionable: knee,week_17,Atlanta Falcons,2011
+['Corey Peters'],NA,week_17,Atlanta Falcons,2011
+['Mike Peterson'],Injured Reserve: triceps,week_17,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_17,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_17,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_17,Atlanta Falcons,2011
+['James Sanders'],NA,week_17,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_17,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_17,Atlanta Falcons,2011
+['Antone Smith'],NA,week_17,Atlanta Falcons,2011
+['Jason Snelling'],NA,week_17,Atlanta Falcons,2011
+['Will Svitek'],Probable: groin,week_17,Atlanta Falcons,2011
+['Michael Turner'],Questionable: groin,week_17,Atlanta Falcons,2011
+['Vance Walker'],NA,week_17,Atlanta Falcons,2011
+['Sean Weatherspoon'],NA,week_17,Atlanta Falcons,2011
+['Roddy White'],NA,week_17,Atlanta Falcons,2011
+['John Abraham'],NA,week_18,Atlanta Falcons,2011
+['Jonathan Babineaux'],Probable: hamstring,week_18,Atlanta Falcons,2011
+['Sam Baker'],NA,week_18,Atlanta Falcons,2011
+['Justin Blalock'],NA,week_18,Atlanta Falcons,2011
+['Rob Bruggeman'],NA,week_18,Atlanta Falcons,2011
+['Matt Bryant'],NA,week_18,Atlanta Falcons,2011
+['Tyson Clabo'],NA,week_18,Atlanta Falcons,2011
+['Mike Cox'],Probable: finger,week_18,Atlanta Falcons,2011
+['Harry Douglas'],Questionable: groin,week_18,Atlanta Falcons,2011
+['Ray Edwards'],NA,week_18,Atlanta Falcons,2011
+['Tony Gonzalez'],NA,week_18,Atlanta Falcons,2011
+['Brent Grimes'],Questionable: knee,week_18,Atlanta Falcons,2011
+['Joe Hawley'],NA,week_18,Atlanta Falcons,2011
+['Kelvin Hayden'],Injured Reserve: toe,week_18,Atlanta Falcons,2011
+['Peria Jerry'],Probable: calf,week_18,Atlanta Falcons,2011
+['Mike Johnson'],Injured Reserve: foot,week_18,Atlanta Falcons,2011
+['Julio Jones'],Probable: thumb,week_18,Atlanta Falcons,2011
+['Reggie Kelly'],Probable: back,week_18,Atlanta Falcons,2011
+['Curtis Lofton'],Probable: ankle,week_18,Atlanta Falcons,2011
+['Cliff Matthews'],NA,week_18,Atlanta Falcons,2011
+['Todd McClure'],NA,week_18,Atlanta Falcons,2011
+['Kerry Meier'],Questionable: groin,week_18,Atlanta Falcons,2011
+['William Moore'],Questionable: groin,week_18,Atlanta Falcons,2011
+['Ovie Mughelli'],Injured Reserve: knee,week_18,Atlanta Falcons,2011
+['Stephen Nicholas'],Doubtful: toe,week_18,Atlanta Falcons,2011
+['Chris Owens'],Probable: hand,week_18,Atlanta Falcons,2011
+['Michael Palmer'],Questionable: knee,week_18,Atlanta Falcons,2011
+['Corey Peters'],NA,week_18,Atlanta Falcons,2011
+['Mike Peterson'],Injured Reserve: triceps,week_18,Atlanta Falcons,2011
+['Garrett Reynolds'],NA,week_18,Atlanta Falcons,2011
+['Dunta Robinson'],NA,week_18,Atlanta Falcons,2011
+['Matt Ryan'],NA,week_18,Atlanta Falcons,2011
+['James Sanders'],NA,week_18,Atlanta Falcons,2011
+['Shann Schillinger'],NA,week_18,Atlanta Falcons,2011
+['Lawrence Sidbury'],NA,week_18,Atlanta Falcons,2011
+['Antone Smith'],NA,week_18,Atlanta Falcons,2011
+['Jason Snelling'],Questionable: knee,week_18,Atlanta Falcons,2011
+['Will Svitek'],NA,week_18,Atlanta Falcons,2011
+['Michael Turner'],Probable: groin,week_18,Atlanta Falcons,2011
+['Vance Walker'],NA,week_18,Atlanta Falcons,2011
+['Sean Weatherspoon'],Probable: head,week_18,Atlanta Falcons,2011
+['Roddy White'],Probable: hip,week_18,Atlanta Falcons,2011

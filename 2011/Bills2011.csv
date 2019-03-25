@@ -1,0 +1,673 @@
+﻿name,injury,week,team,year
+['Nick Barnett'],NA,week_1,Buffalo Bills,2011
+['Demetress Bell'],NA,week_1,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_1,Buffalo Bills,2011
+['Mike Caussin'],NA,week_1,Buffalo Bills,2011
+['Scott Chandler'],NA,week_1,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_1,Buffalo Bills,2011
+['Marcus Easley'],Questionable: illness,week_1,Buffalo Bills,2011
+['Robert Eddins'],NA,week_1,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_1,Buffalo Bills,2011
+['Chris Hairston'],NA,week_1,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_1,Buffalo Bills,2011
+['Fred Jackson'],NA,week_1,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_1,Buffalo Bills,2011
+['Steve Johnson'],NA,week_1,Buffalo Bills,2011
+['Donald Jones'],NA,week_1,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_1,Buffalo Bills,2011
+['Andy Levitre'],NA,week_1,Buffalo Bills,2011
+['Rian Lindell'],NA,week_1,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_1,Buffalo Bills,2011
+['Terrence McGee'],NA,week_1,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_1,Buffalo Bills,2011
+['Shawne Merriman'],NA,week_1,Buffalo Bills,2011
+['Arthur Moats'],Out: calf,week_1,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_1,Buffalo Bills,2011
+['David Nelson'],NA,week_1,Buffalo Bills,2011
+['Roscoe Parrish'],NA,week_1,Buffalo Bills,2011
+['Erik Pears'],NA,week_1,Buffalo Bills,2011
+['Dave Rayner'],NA,week_1,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_1,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_1,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_1,Buffalo Bills,2011
+['Brad Smith'],NA,week_1,Buffalo Bills,2011
+['Lee Smith'],NA,week_1,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_1,Buffalo Bills,2011
+['Torell Troup'],Questionable: back,week_1,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_1,Buffalo Bills,2011
+['Chris White'],NA,week_1,Buffalo Bills,2011
+['Johnny White'],NA,week_1,Buffalo Bills,2011
+['Aaron Williams'],NA,week_1,Buffalo Bills,2011
+['Kyle Williams'],NA,week_1,Buffalo Bills,2011
+['George Wilson'],NA,week_1,Buffalo Bills,2011
+['Eric Wood'],NA,week_1,Buffalo Bills,2011
+['Nick Barnett'],NA,week_2,Buffalo Bills,2011
+['Demetress Bell'],NA,week_2,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_2,Buffalo Bills,2011
+['Mike Caussin'],NA,week_2,Buffalo Bills,2011
+['Scott Chandler'],NA,week_2,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_2,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_2,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_2,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_2,Buffalo Bills,2011
+['Chris Hairston'],NA,week_2,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_2,Buffalo Bills,2011
+['Fred Jackson'],NA,week_2,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_2,Buffalo Bills,2011
+['Steve Johnson'],Probable: groin,week_2,Buffalo Bills,2011
+['Donald Jones'],NA,week_2,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_2,Buffalo Bills,2011
+['Andy Levitre'],NA,week_2,Buffalo Bills,2011
+['Rian Lindell'],NA,week_2,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_2,Buffalo Bills,2011
+['Terrence McGee'],Out: hamstring,week_2,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_2,Buffalo Bills,2011
+['Shawne Merriman'],Probable: shoulder,week_2,Buffalo Bills,2011
+['Arthur Moats'],Questionable: calf,week_2,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_2,Buffalo Bills,2011
+['David Nelson'],NA,week_2,Buffalo Bills,2011
+['Roscoe Parrish'],NA,week_2,Buffalo Bills,2011
+['Erik Pears'],NA,week_2,Buffalo Bills,2011
+['Dave Rayner'],NA,week_2,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_2,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_2,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_2,Buffalo Bills,2011
+['Brad Smith'],NA,week_2,Buffalo Bills,2011
+['Lee Smith'],NA,week_2,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_2,Buffalo Bills,2011
+['Torell Troup'],Questionable: back,week_2,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_2,Buffalo Bills,2011
+['Chris White'],NA,week_2,Buffalo Bills,2011
+['Johnny White'],NA,week_2,Buffalo Bills,2011
+['Aaron Williams'],NA,week_2,Buffalo Bills,2011
+['Kyle Williams'],NA,week_2,Buffalo Bills,2011
+['George Wilson'],NA,week_2,Buffalo Bills,2011
+['Eric Wood'],NA,week_2,Buffalo Bills,2011
+['Nick Barnett'],NA,week_3,Buffalo Bills,2011
+['Demetress Bell'],NA,week_3,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_3,Buffalo Bills,2011
+['Mike Caussin'],NA,week_3,Buffalo Bills,2011
+['Scott Chandler'],NA,week_3,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_3,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_3,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_3,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_3,Buffalo Bills,2011
+['Chris Hairston'],NA,week_3,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_3,Buffalo Bills,2011
+['Fred Jackson'],NA,week_3,Buffalo Bills,2011
+['Spencer Johnson'],Probable: hip,week_3,Buffalo Bills,2011
+['Steve Johnson'],Probable: groin,week_3,Buffalo Bills,2011
+['Donald Jones'],NA,week_3,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_3,Buffalo Bills,2011
+['Andy Levitre'],NA,week_3,Buffalo Bills,2011
+['Rian Lindell'],NA,week_3,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_3,Buffalo Bills,2011
+['Terrence McGee'],Out: hamstring,week_3,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_3,Buffalo Bills,2011
+['Shawne Merriman'],NA,week_3,Buffalo Bills,2011
+['Arthur Moats'],NA,week_3,Buffalo Bills,2011
+['Kirk Morrison'],Questionable: hamstring,week_3,Buffalo Bills,2011
+['David Nelson'],NA,week_3,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_3,Buffalo Bills,2011
+['Erik Pears'],NA,week_3,Buffalo Bills,2011
+['Dave Rayner'],NA,week_3,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_3,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_3,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_3,Buffalo Bills,2011
+['Brad Smith'],NA,week_3,Buffalo Bills,2011
+['Lee Smith'],NA,week_3,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_3,Buffalo Bills,2011
+['Torell Troup'],Probable: back,week_3,Buffalo Bills,2011
+['Kraig Urbik'],Out: knee,week_3,Buffalo Bills,2011
+['Chris White'],NA,week_3,Buffalo Bills,2011
+['Johnny White'],NA,week_3,Buffalo Bills,2011
+['Aaron Williams'],NA,week_3,Buffalo Bills,2011
+['Kyle Williams'],NA,week_3,Buffalo Bills,2011
+['George Wilson'],NA,week_3,Buffalo Bills,2011
+['Eric Wood'],NA,week_3,Buffalo Bills,2011
+['Nick Barnett'],NA,week_4,Buffalo Bills,2011
+['Demetress Bell'],NA,week_4,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_4,Buffalo Bills,2011
+['Mike Caussin'],NA,week_4,Buffalo Bills,2011
+['Scott Chandler'],NA,week_4,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_4,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_4,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_4,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_4,Buffalo Bills,2011
+['Chris Hairston'],NA,week_4,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_4,Buffalo Bills,2011
+['Fred Jackson'],NA,week_4,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_4,Buffalo Bills,2011
+['Steve Johnson'],Probable: groin,week_4,Buffalo Bills,2011
+['Donald Jones'],NA,week_4,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_4,Buffalo Bills,2011
+['Andy Levitre'],NA,week_4,Buffalo Bills,2011
+['Rian Lindell'],NA,week_4,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_4,Buffalo Bills,2011
+['Terrence McGee'],Out: hamstring,week_4,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_4,Buffalo Bills,2011
+['Shawne Merriman'],NA,week_4,Buffalo Bills,2011
+['Arthur Moats'],NA,week_4,Buffalo Bills,2011
+['Kirk Morrison'],Probable: hamstring,week_4,Buffalo Bills,2011
+['David Nelson'],NA,week_4,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_4,Buffalo Bills,2011
+['Erik Pears'],NA,week_4,Buffalo Bills,2011
+['Dave Rayner'],NA,week_4,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_4,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_4,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_4,Buffalo Bills,2011
+['Brad Smith'],NA,week_4,Buffalo Bills,2011
+['Lee Smith'],NA,week_4,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_4,Buffalo Bills,2011
+['Torell Troup'],Probable: back,week_4,Buffalo Bills,2011
+['Kraig Urbik'],Out: knee,week_4,Buffalo Bills,2011
+['Chris White'],Out: hamstring,week_4,Buffalo Bills,2011
+['Johnny White'],Probable: ankle,week_4,Buffalo Bills,2011
+['Aaron Williams'],Out: chest/collarbone,week_4,Buffalo Bills,2011
+['Kyle Williams'],NA,week_4,Buffalo Bills,2011
+['George Wilson'],NA,week_4,Buffalo Bills,2011
+['Eric Wood'],NA,week_4,Buffalo Bills,2011
+['Nick Barnett'],Questionable: ankle,week_5,Buffalo Bills,2011
+['Demetress Bell'],Out: shoulder,week_5,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_5,Buffalo Bills,2011
+['Mike Caussin'],NA,week_5,Buffalo Bills,2011
+['Scott Chandler'],NA,week_5,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_5,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_5,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_5,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_5,Buffalo Bills,2011
+['Chris Hairston'],NA,week_5,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_5,Buffalo Bills,2011
+['Fred Jackson'],NA,week_5,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_5,Buffalo Bills,2011
+['Steve Johnson'],NA,week_5,Buffalo Bills,2011
+['Donald Jones'],NA,week_5,Buffalo Bills,2011
+['Chris Kelsay'],Probable: calf,week_5,Buffalo Bills,2011
+['Andy Levitre'],NA,week_5,Buffalo Bills,2011
+['Rian Lindell'],NA,week_5,Buffalo Bills,2011
+['Ruvell Martin'],Questionable: knee,week_5,Buffalo Bills,2011
+['Terrence McGee'],Probable: hamstring,week_5,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_5,Buffalo Bills,2011
+['Shawne Merriman'],Questionable: shoulder,week_5,Buffalo Bills,2011
+['Arthur Moats'],NA,week_5,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_5,Buffalo Bills,2011
+['David Nelson'],NA,week_5,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_5,Buffalo Bills,2011
+['Erik Pears'],NA,week_5,Buffalo Bills,2011
+['Dave Rayner'],NA,week_5,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_5,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_5,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_5,Buffalo Bills,2011
+['Brad Smith'],NA,week_5,Buffalo Bills,2011
+['Lee Smith'],NA,week_5,Buffalo Bills,2011
+['C.J. Spiller'],Questionable: knee,week_5,Buffalo Bills,2011
+['Torell Troup'],Questionable: back,week_5,Buffalo Bills,2011
+['Kraig Urbik'],Probable: knee,week_5,Buffalo Bills,2011
+['Chris White'],Out: hamstring,week_5,Buffalo Bills,2011
+['Johnny White'],NA,week_5,Buffalo Bills,2011
+['Aaron Williams'],Out: chest/collarbone,week_5,Buffalo Bills,2011
+['Kyle Williams'],NA,week_5,Buffalo Bills,2011
+['George Wilson'],NA,week_5,Buffalo Bills,2011
+['Eric Wood'],Questionable: ankle,week_5,Buffalo Bills,2011
+['Nick Barnett'],Questionable: ankle,week_6,Buffalo Bills,2011
+['Demetress Bell'],Out: shoulder,week_6,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_6,Buffalo Bills,2011
+['Mike Caussin'],NA,week_6,Buffalo Bills,2011
+['Scott Chandler'],NA,week_6,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_6,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_6,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_6,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_6,Buffalo Bills,2011
+['Chris Hairston'],NA,week_6,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_6,Buffalo Bills,2011
+['Fred Jackson'],NA,week_6,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_6,Buffalo Bills,2011
+['Steve Johnson'],NA,week_6,Buffalo Bills,2011
+['Donald Jones'],Out: ankle,week_6,Buffalo Bills,2011
+['Chris Kelsay'],Out: calf,week_6,Buffalo Bills,2011
+['Andy Levitre'],Probable: knee,week_6,Buffalo Bills,2011
+['Rian Lindell'],NA,week_6,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_6,Buffalo Bills,2011
+['Terrence McGee'],Probable: hamstring,week_6,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_6,Buffalo Bills,2011
+['Shawne Merriman'],Doubtful: Achilles,week_6,Buffalo Bills,2011
+['Arthur Moats'],NA,week_6,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_6,Buffalo Bills,2011
+['David Nelson'],NA,week_6,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_6,Buffalo Bills,2011
+['Erik Pears'],NA,week_6,Buffalo Bills,2011
+['Dave Rayner'],NA,week_6,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_6,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_6,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",Questionable: ankle,week_6,Buffalo Bills,2011
+['Brad Smith'],NA,week_6,Buffalo Bills,2011
+['Lee Smith'],NA,week_6,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_6,Buffalo Bills,2011
+['Torell Troup'],Probable: back,week_6,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_6,Buffalo Bills,2011
+['Chris White'],Probable: hamstring,week_6,Buffalo Bills,2011
+['Johnny White'],NA,week_6,Buffalo Bills,2011
+['Aaron Williams'],Out: chest/collarbone,week_6,Buffalo Bills,2011
+['Kyle Williams'],Questionable: ankle,week_6,Buffalo Bills,2011
+['George Wilson'],NA,week_6,Buffalo Bills,2011
+['Eric Wood'],NA,week_6,Buffalo Bills,2011
+['Nick Barnett'],NA,week_8,Buffalo Bills,2011
+['Demetress Bell'],Questionable: shoulder,week_8,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_8,Buffalo Bills,2011
+['Mike Caussin'],NA,week_8,Buffalo Bills,2011
+['Scott Chandler'],NA,week_8,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_8,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_8,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_8,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_8,Buffalo Bills,2011
+['Chris Hairston'],Out: ankle,week_8,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_8,Buffalo Bills,2011
+['Fred Jackson'],NA,week_8,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_8,Buffalo Bills,2011
+['Steve Johnson'],NA,week_8,Buffalo Bills,2011
+['Donald Jones'],Out: ankle,week_8,Buffalo Bills,2011
+['Chris Kelsay'],Probable: calf,week_8,Buffalo Bills,2011
+['Andy Levitre'],NA,week_8,Buffalo Bills,2011
+['Rian Lindell'],NA,week_8,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_8,Buffalo Bills,2011
+['Terrence McGee'],NA,week_8,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_8,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_8,Buffalo Bills,2011
+['Arthur Moats'],NA,week_8,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_8,Buffalo Bills,2011
+['David Nelson'],NA,week_8,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_8,Buffalo Bills,2011
+['Erik Pears'],NA,week_8,Buffalo Bills,2011
+['Dave Rayner'],NA,week_8,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_8,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_8,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_8,Buffalo Bills,2011
+['Brad Smith'],NA,week_8,Buffalo Bills,2011
+['Lee Smith'],NA,week_8,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_8,Buffalo Bills,2011
+['Torell Troup'],NA,week_8,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_8,Buffalo Bills,2011
+['Chris White'],NA,week_8,Buffalo Bills,2011
+['Johnny White'],NA,week_8,Buffalo Bills,2011
+['Aaron Williams'],Out: chest/collarbone,week_8,Buffalo Bills,2011
+['Kyle Williams'],Out: ankle,week_8,Buffalo Bills,2011
+['George Wilson'],NA,week_8,Buffalo Bills,2011
+['Eric Wood'],NA,week_8,Buffalo Bills,2011
+['Nick Barnett'],NA,week_9,Buffalo Bills,2011
+['Demetress Bell'],Doubtful: shoulder,week_9,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_9,Buffalo Bills,2011
+['Mike Caussin'],NA,week_9,Buffalo Bills,2011
+['Scott Chandler'],NA,week_9,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_9,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_9,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_9,Buffalo Bills,2011
+['Ryan Fitzpatrick'],Probable: chest,week_9,Buffalo Bills,2011
+['Chris Hairston'],Questionable: ankle,week_9,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_9,Buffalo Bills,2011
+['Fred Jackson'],NA,week_9,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_9,Buffalo Bills,2011
+['Steve Johnson'],NA,week_9,Buffalo Bills,2011
+['Donald Jones'],Probable: ankle,week_9,Buffalo Bills,2011
+['Chris Kelsay'],Questionable: calf,week_9,Buffalo Bills,2011
+['Andy Levitre'],Questionable: shoulder,week_9,Buffalo Bills,2011
+['Rian Lindell'],NA,week_9,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_9,Buffalo Bills,2011
+['Terrence McGee'],NA,week_9,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_9,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_9,Buffalo Bills,2011
+['Arthur Moats'],NA,week_9,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_9,Buffalo Bills,2011
+['David Nelson'],NA,week_9,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_9,Buffalo Bills,2011
+['Erik Pears'],NA,week_9,Buffalo Bills,2011
+['Dave Rayner'],NA,week_9,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_9,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_9,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_9,Buffalo Bills,2011
+['Brad Smith'],NA,week_9,Buffalo Bills,2011
+['Lee Smith'],NA,week_9,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_9,Buffalo Bills,2011
+['Torell Troup'],NA,week_9,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_9,Buffalo Bills,2011
+['Chris White'],NA,week_9,Buffalo Bills,2011
+['Johnny White'],Probable: illness,week_9,Buffalo Bills,2011
+['Aaron Williams'],Questionable: chest/collarbone,week_9,Buffalo Bills,2011
+['Kyle Williams'],Questionable: ankle,week_9,Buffalo Bills,2011
+['George Wilson'],NA,week_9,Buffalo Bills,2011
+['Eric Wood'],NA,week_9,Buffalo Bills,2011
+['Nick Barnett'],NA,week_10,Buffalo Bills,2011
+['Demetress Bell'],Out: shoulder,week_10,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_10,Buffalo Bills,2011
+['Mike Caussin'],NA,week_10,Buffalo Bills,2011
+['Scott Chandler'],NA,week_10,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_10,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_10,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_10,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_10,Buffalo Bills,2011
+['Chris Hairston'],Questionable: ankle,week_10,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_10,Buffalo Bills,2011
+['Fred Jackson'],NA,week_10,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_10,Buffalo Bills,2011
+['Steve Johnson'],Probable: illness,week_10,Buffalo Bills,2011
+['Donald Jones'],NA,week_10,Buffalo Bills,2011
+['Chris Kelsay'],Questionable: calf,week_10,Buffalo Bills,2011
+['Andy Levitre'],NA,week_10,Buffalo Bills,2011
+['Rian Lindell'],Out: shoulder,week_10,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_10,Buffalo Bills,2011
+['Terrence McGee'],NA,week_10,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_10,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_10,Buffalo Bills,2011
+['Arthur Moats'],NA,week_10,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_10,Buffalo Bills,2011
+['David Nelson'],NA,week_10,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_10,Buffalo Bills,2011
+['Erik Pears'],NA,week_10,Buffalo Bills,2011
+['Dave Rayner'],NA,week_10,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_10,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_10,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_10,Buffalo Bills,2011
+['Brad Smith'],NA,week_10,Buffalo Bills,2011
+['Lee Smith'],NA,week_10,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_10,Buffalo Bills,2011
+['Torell Troup'],NA,week_10,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_10,Buffalo Bills,2011
+['Chris White'],NA,week_10,Buffalo Bills,2011
+['Johnny White'],Questionable: illness,week_10,Buffalo Bills,2011
+['Aaron Williams'],Questionable: chest/collarbone,week_10,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_10,Buffalo Bills,2011
+['George Wilson'],NA,week_10,Buffalo Bills,2011
+['Eric Wood'],NA,week_10,Buffalo Bills,2011
+['Nick Barnett'],NA,week_11,Buffalo Bills,2011
+['Demetress Bell'],Questionable: shoulder,week_11,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_11,Buffalo Bills,2011
+['Mike Caussin'],NA,week_11,Buffalo Bills,2011
+['Scott Chandler'],NA,week_11,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_11,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_11,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_11,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_11,Buffalo Bills,2011
+['Chris Hairston'],Probable: ankle,week_11,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_11,Buffalo Bills,2011
+['Fred Jackson'],NA,week_11,Buffalo Bills,2011
+['Spencer Johnson'],Questionable: calf,week_11,Buffalo Bills,2011
+['Steve Johnson'],Questionable: shoulder,week_11,Buffalo Bills,2011
+['Donald Jones'],NA,week_11,Buffalo Bills,2011
+['Chris Kelsay'],Questionable: calf,week_11,Buffalo Bills,2011
+['Andy Levitre'],NA,week_11,Buffalo Bills,2011
+['Rian Lindell'],Out: shoulder,week_11,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_11,Buffalo Bills,2011
+['Terrence McGee'],NA,week_11,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_11,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_11,Buffalo Bills,2011
+['Arthur Moats'],NA,week_11,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_11,Buffalo Bills,2011
+['David Nelson'],Questionable: ankle,week_11,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_11,Buffalo Bills,2011
+['Erik Pears'],Questionable: groin,week_11,Buffalo Bills,2011
+['Dave Rayner'],NA,week_11,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_11,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_11,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_11,Buffalo Bills,2011
+['Brad Smith'],NA,week_11,Buffalo Bills,2011
+['Lee Smith'],NA,week_11,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_11,Buffalo Bills,2011
+['Torell Troup'],NA,week_11,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_11,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_11,Buffalo Bills,2011
+['Johnny White'],NA,week_11,Buffalo Bills,2011
+['Aaron Williams'],Questionable: chest/collarbone,week_11,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_11,Buffalo Bills,2011
+['George Wilson'],Questionable: neck,week_11,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_11,Buffalo Bills,2011
+['Nick Barnett'],NA,week_12,Buffalo Bills,2011
+['Demetress Bell'],Questionable: shoulder,week_12,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_12,Buffalo Bills,2011
+['Mike Caussin'],NA,week_12,Buffalo Bills,2011
+['Scott Chandler'],NA,week_12,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_12,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_12,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_12,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_12,Buffalo Bills,2011
+['Chris Hairston'],NA,week_12,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_12,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_12,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_12,Buffalo Bills,2011
+['Steve Johnson'],Probable: shoulder,week_12,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_12,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_12,Buffalo Bills,2011
+['Andy Levitre'],NA,week_12,Buffalo Bills,2011
+['Rian Lindell'],Out: shoulder,week_12,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_12,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_12,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_12,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_12,Buffalo Bills,2011
+['Arthur Moats'],NA,week_12,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_12,Buffalo Bills,2011
+['David Nelson'],Probable: illness,week_12,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_12,Buffalo Bills,2011
+['Erik Pears'],NA,week_12,Buffalo Bills,2011
+['Dave Rayner'],NA,week_12,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_12,Buffalo Bills,2011
+['Naaman Roosevelt'],Questionable: shoulder,week_12,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_12,Buffalo Bills,2011
+['Brad Smith'],NA,week_12,Buffalo Bills,2011
+['Lee Smith'],NA,week_12,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_12,Buffalo Bills,2011
+['Torell Troup'],NA,week_12,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_12,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_12,Buffalo Bills,2011
+['Johnny White'],NA,week_12,Buffalo Bills,2011
+['Aaron Williams'],NA,week_12,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_12,Buffalo Bills,2011
+['George Wilson'],Questionable: neck,week_12,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_12,Buffalo Bills,2011
+['Nick Barnett'],NA,week_13,Buffalo Bills,2011
+['Demetress Bell'],NA,week_13,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_13,Buffalo Bills,2011
+['Mike Caussin'],NA,week_13,Buffalo Bills,2011
+['Scott Chandler'],NA,week_13,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_13,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_13,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_13,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_13,Buffalo Bills,2011
+['Chris Hairston'],NA,week_13,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_13,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_13,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_13,Buffalo Bills,2011
+['Steve Johnson'],NA,week_13,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_13,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_13,Buffalo Bills,2011
+['Andy Levitre'],NA,week_13,Buffalo Bills,2011
+['Rian Lindell'],Out: shoulder,week_13,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_13,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_13,Buffalo Bills,2011
+['Leodis McKelvin'],Doubtful: ribs,week_13,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_13,Buffalo Bills,2011
+['Arthur Moats'],NA,week_13,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_13,Buffalo Bills,2011
+['David Nelson'],NA,week_13,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_13,Buffalo Bills,2011
+['Erik Pears'],NA,week_13,Buffalo Bills,2011
+['Dave Rayner'],NA,week_13,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_13,Buffalo Bills,2011
+['Naaman Roosevelt'],Questionable: shoulder,week_13,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_13,Buffalo Bills,2011
+['Brad Smith'],NA,week_13,Buffalo Bills,2011
+['Lee Smith'],NA,week_13,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_13,Buffalo Bills,2011
+['Torell Troup'],Injured Reserve: back,week_13,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_13,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_13,Buffalo Bills,2011
+['Johnny White'],NA,week_13,Buffalo Bills,2011
+['Aaron Williams'],NA,week_13,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_13,Buffalo Bills,2011
+['George Wilson'],Questionable: neck,week_13,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_13,Buffalo Bills,2011
+['Nick Barnett'],NA,week_14,Buffalo Bills,2011
+['Demetress Bell'],NA,week_14,Buffalo Bills,2011
+['Jairus Byrd'],Probable: shin,week_14,Buffalo Bills,2011
+['Mike Caussin'],NA,week_14,Buffalo Bills,2011
+['Scott Chandler'],Doubtful: ankle,week_14,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_14,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_14,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_14,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_14,Buffalo Bills,2011
+['Chris Hairston'],NA,week_14,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_14,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_14,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_14,Buffalo Bills,2011
+['Steve Johnson'],NA,week_14,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_14,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_14,Buffalo Bills,2011
+['Andy Levitre'],NA,week_14,Buffalo Bills,2011
+['Rian Lindell'],Injured Reserve: shoulder,week_14,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_14,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_14,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_14,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_14,Buffalo Bills,2011
+['Arthur Moats'],NA,week_14,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_14,Buffalo Bills,2011
+['David Nelson'],NA,week_14,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_14,Buffalo Bills,2011
+['Erik Pears'],NA,week_14,Buffalo Bills,2011
+['Dave Rayner'],NA,week_14,Buffalo Bills,2011
+['Chad Rinehart'],Probable: shoulder,week_14,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_14,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_14,Buffalo Bills,2011
+['Brad Smith'],NA,week_14,Buffalo Bills,2011
+['Lee Smith'],NA,week_14,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_14,Buffalo Bills,2011
+['Torell Troup'],Injured Reserve: back,week_14,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_14,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_14,Buffalo Bills,2011
+['Johnny White'],NA,week_14,Buffalo Bills,2011
+['Aaron Williams'],Out: knee,week_14,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_14,Buffalo Bills,2011
+['George Wilson'],Questionable: neck,week_14,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_14,Buffalo Bills,2011
+['Nick Barnett'],NA,week_15,Buffalo Bills,2011
+['Demetress Bell'],NA,week_15,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_15,Buffalo Bills,2011
+['Mike Caussin'],NA,week_15,Buffalo Bills,2011
+['Scott Chandler'],Out: ankle,week_15,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_15,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_15,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_15,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_15,Buffalo Bills,2011
+['Chris Hairston'],NA,week_15,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_15,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_15,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_15,Buffalo Bills,2011
+['Steve Johnson'],Probable: hand,week_15,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_15,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_15,Buffalo Bills,2011
+['Andy Levitre'],NA,week_15,Buffalo Bills,2011
+['Rian Lindell'],Injured Reserve: shoulder,week_15,Buffalo Bills,2011
+['Ruvell Martin'],NA,week_15,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_15,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_15,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_15,Buffalo Bills,2011
+['Arthur Moats'],NA,week_15,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_15,Buffalo Bills,2011
+['David Nelson'],NA,week_15,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_15,Buffalo Bills,2011
+['Erik Pears'],NA,week_15,Buffalo Bills,2011
+['Dave Rayner'],Questionable: groin,week_15,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_15,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_15,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_15,Buffalo Bills,2011
+['Brad Smith'],NA,week_15,Buffalo Bills,2011
+['Lee Smith'],NA,week_15,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_15,Buffalo Bills,2011
+['Torell Troup'],Injured Reserve: back,week_15,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_15,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_15,Buffalo Bills,2011
+['Johnny White'],NA,week_15,Buffalo Bills,2011
+['Aaron Williams'],Probable: knee,week_15,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_15,Buffalo Bills,2011
+['George Wilson'],NA,week_15,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_15,Buffalo Bills,2011
+['Nick Barnett'],NA,week_16,Buffalo Bills,2011
+['Demetress Bell'],NA,week_16,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_16,Buffalo Bills,2011
+['Mike Caussin'],NA,week_16,Buffalo Bills,2011
+['Scott Chandler'],Questionable: ankle,week_16,Buffalo Bills,2011
+['Marcell Dareus'],Questionable: hand/wrist,week_16,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_16,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_16,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_16,Buffalo Bills,2011
+['Chris Hairston'],NA,week_16,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_16,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_16,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_16,Buffalo Bills,2011
+['Steve Johnson'],Probable: groin,week_16,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_16,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_16,Buffalo Bills,2011
+['Andy Levitre'],NA,week_16,Buffalo Bills,2011
+['Rian Lindell'],Injured Reserve: shoulder,week_16,Buffalo Bills,2011
+['Ruvell Martin'],Questionable: hamstring,week_16,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_16,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_16,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_16,Buffalo Bills,2011
+['Arthur Moats'],NA,week_16,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_16,Buffalo Bills,2011
+['David Nelson'],NA,week_16,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_16,Buffalo Bills,2011
+['Erik Pears'],NA,week_16,Buffalo Bills,2011
+['Dave Rayner'],NA,week_16,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_16,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_16,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_16,Buffalo Bills,2011
+['Brad Smith'],NA,week_16,Buffalo Bills,2011
+['Lee Smith'],Injured Reserve: ankle,week_16,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_16,Buffalo Bills,2011
+['Torell Troup'],Injured Reserve: back,week_16,Buffalo Bills,2011
+['Kraig Urbik'],NA,week_16,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_16,Buffalo Bills,2011
+['Johnny White'],Questionable: concussion,week_16,Buffalo Bills,2011
+['Aaron Williams'],NA,week_16,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_16,Buffalo Bills,2011
+['George Wilson'],NA,week_16,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_16,Buffalo Bills,2011
+['Nick Barnett'],NA,week_17,Buffalo Bills,2011
+['Demetress Bell'],Doubtful: knee,week_17,Buffalo Bills,2011
+['Jairus Byrd'],NA,week_17,Buffalo Bills,2011
+['Mike Caussin'],Out: knee,week_17,Buffalo Bills,2011
+['Scott Chandler'],NA,week_17,Buffalo Bills,2011
+['Marcell Dareus'],NA,week_17,Buffalo Bills,2011
+['Marcus Easley'],Injured Reserve: illness,week_17,Buffalo Bills,2011
+['Robert Eddins'],Injured Reserve: foot,week_17,Buffalo Bills,2011
+['Ryan Fitzpatrick'],NA,week_17,Buffalo Bills,2011
+['Chris Hairston'],NA,week_17,Buffalo Bills,2011
+['Bruce Hall'],Injured Reserve: undisclosed,week_17,Buffalo Bills,2011
+['Fred Jackson'],Injured Reserve: calf,week_17,Buffalo Bills,2011
+['Spencer Johnson'],NA,week_17,Buffalo Bills,2011
+['Steve Johnson'],NA,week_17,Buffalo Bills,2011
+['Donald Jones'],Injured Reserve: ankle,week_17,Buffalo Bills,2011
+['Chris Kelsay'],NA,week_17,Buffalo Bills,2011
+['Andy Levitre'],NA,week_17,Buffalo Bills,2011
+['Rian Lindell'],Injured Reserve: shoulder,week_17,Buffalo Bills,2011
+['Ruvell Martin'],Probable: hamstring,week_17,Buffalo Bills,2011
+['Terrence McGee'],Injured Reserve: knee,week_17,Buffalo Bills,2011
+['Leodis McKelvin'],NA,week_17,Buffalo Bills,2011
+['Shawne Merriman'],Injured Reserve: Achilles,week_17,Buffalo Bills,2011
+['Arthur Moats'],NA,week_17,Buffalo Bills,2011
+['Kirk Morrison'],NA,week_17,Buffalo Bills,2011
+['David Nelson'],NA,week_17,Buffalo Bills,2011
+['Roscoe Parrish'],Injured Reserve: ankle,week_17,Buffalo Bills,2011
+['Erik Pears'],NA,week_17,Buffalo Bills,2011
+['Dave Rayner'],Injured Reserve: hip,week_17,Buffalo Bills,2011
+['Chad Rinehart'],NA,week_17,Buffalo Bills,2011
+['Naaman Roosevelt'],NA,week_17,Buffalo Bills,2011
+"[""Da'Norris Searcy""]",NA,week_17,Buffalo Bills,2011
+['Brad Smith'],Questionable: hamstring,week_17,Buffalo Bills,2011
+['Lee Smith'],Injured Reserve: ankle,week_17,Buffalo Bills,2011
+['C.J. Spiller'],NA,week_17,Buffalo Bills,2011
+['Torell Troup'],Injured Reserve: back,week_17,Buffalo Bills,2011
+['Kraig Urbik'],Out: knee,week_17,Buffalo Bills,2011
+['Chris White'],Injured Reserve: knee,week_17,Buffalo Bills,2011
+['Johnny White'],Probable: concussion,week_17,Buffalo Bills,2011
+['Aaron Williams'],NA,week_17,Buffalo Bills,2011
+['Kyle Williams'],Injured Reserve: ankle,week_17,Buffalo Bills,2011
+['George Wilson'],NA,week_17,Buffalo Bills,2011
+['Eric Wood'],Injured Reserve: knee,week_17,Buffalo Bills,2011

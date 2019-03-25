@@ -1,0 +1,783 @@
+﻿name,injury,week,team,year
+['Geno Atkins'],NA,week_1,Cincinnati Bengals,2011
+['Cedric Benson'],Probable: personal/legal,week_1,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_1,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_1,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_1,Cincinnati Bengals,2011
+['Chris Crocker'],NA,week_1,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_1,Cincinnati Bengals,2011
+['Carlos Dunlap'],Probable: knee,week_1,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_1,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_1,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_1,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_1,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_1,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_1,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_1,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_1,Cincinnati Bengals,2011
+['Otis Hudson'],Out: knee,week_1,Cincinnati Bengals,2011
+['Kelly Jennings'],Questionable: hamstring,week_1,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_1,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_1,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_1,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_1,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_1,Cincinnati Bengals,2011
+['Brian Leonard'],Probable: finger,week_1,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_1,Cincinnati Bengals,2011
+['Taylor Mays'],Questionable: knee,week_1,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_1,Cincinnati Bengals,2011
+['Dontay Moch'],Out: foot,week_1,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_1,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_1,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_1,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_1,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_1,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_1,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_1,Cincinnati Bengals,2011
+['Bernard Scott'],Probable: hamstring,week_1,Cincinnati Bengals,2011
+['Jordan Shipley'],NA,week_1,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_1,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_1,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_1,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_1,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_1,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_1,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_1,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_1,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_1,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_2,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_2,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_2,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_2,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_2,Cincinnati Bengals,2011
+['Chris Crocker'],NA,week_2,Cincinnati Bengals,2011
+['Andy Dalton'],Questionable: right wrist,week_2,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_2,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_2,Cincinnati Bengals,2011
+['Robert Geathers'],Questionable: shoulder,week_2,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_2,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_2,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_2,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_2,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_2,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_2,Cincinnati Bengals,2011
+['Otis Hudson'],Questionable: knee,week_2,Cincinnati Bengals,2011
+['Kelly Jennings'],Probable: hamstring,week_2,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_2,Cincinnati Bengals,2011
+['Michael Johnson'],Questionable: groin,week_2,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_2,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_2,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_2,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_2,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_2,Cincinnati Bengals,2011
+['Taylor Mays'],Questionable: knee,week_2,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_2,Cincinnati Bengals,2011
+['Dontay Moch'],Out: foot,week_2,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_2,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_2,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_2,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_2,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_2,Cincinnati Bengals,2011
+['Frostee Rucker'],Probable: illness,week_2,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_2,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_2,Cincinnati Bengals,2011
+['Jordan Shipley'],NA,week_2,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_2,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_2,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_2,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_2,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_2,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_2,Cincinnati Bengals,2011
+['Andrew Whitworth'],Questionable: knee,week_2,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_2,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_2,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_3,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_3,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_3,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_3,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_3,Cincinnati Bengals,2011
+['Chris Crocker'],NA,week_3,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_3,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_3,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_3,Cincinnati Bengals,2011
+['Robert Geathers'],Questionable: shoulder,week_3,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_3,Cincinnati Bengals,2011
+['A.J. Green'],Questionable: toe,week_3,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_3,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_3,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_3,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_3,Cincinnati Bengals,2011
+['Otis Hudson'],Questionable: knee,week_3,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_3,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_3,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_3,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_3,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_3,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_3,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_3,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_3,Cincinnati Bengals,2011
+['Taylor Mays'],Probable: knee,week_3,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_3,Cincinnati Bengals,2011
+['Dontay Moch'],Out: foot,week_3,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_3,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_3,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_3,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_3,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_3,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_3,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_3,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_3,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_3,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_3,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_3,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_3,Cincinnati Bengals,2011
+['Andre Smith'],Probable: ankle,week_3,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_3,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_3,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_3,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_3,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_3,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_4,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_4,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_4,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_4,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_4,Cincinnati Bengals,2011
+['Chris Crocker'],NA,week_4,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_4,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_4,Cincinnati Bengals,2011
+['Jonathan Fanene'],Questionable: knee,week_4,Cincinnati Bengals,2011
+['Robert Geathers'],Questionable: shoulder,week_4,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_4,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_4,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_4,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_4,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_4,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_4,Cincinnati Bengals,2011
+['Otis Hudson'],Questionable: knee,week_4,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_4,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_4,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_4,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_4,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_4,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_4,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_4,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_4,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_4,Cincinnati Bengals,2011
+['Jeromy Miles'],Questionable: groin,week_4,Cincinnati Bengals,2011
+['Dontay Moch'],Out: foot,week_4,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_4,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_4,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_4,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_4,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_4,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_4,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_4,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_4,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_4,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_4,Cincinnati Bengals,2011
+['Pat Sims'],Probable: elbow,week_4,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_4,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_4,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_4,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_4,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_4,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_4,Cincinnati Bengals,2011
+['Gibril Wilson'],Probable: knee,week_4,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_5,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_5,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_5,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_5,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_5,Cincinnati Bengals,2011
+['Chris Crocker'],Probable: knee,week_5,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_5,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_5,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_5,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_5,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_5,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_5,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_5,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_5,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_5,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_5,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_5,Cincinnati Bengals,2011
+['Kelly Jennings'],Questionable: hamstring,week_5,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_5,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_5,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_5,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_5,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_5,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_5,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_5,Cincinnati Bengals,2011
+['Taylor Mays'],Probable: illness,week_5,Cincinnati Bengals,2011
+['Jeromy Miles'],Questionable: groin,week_5,Cincinnati Bengals,2011
+['Dontay Moch'],Questionable: foot,week_5,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_5,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_5,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_5,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_5,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_5,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_5,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_5,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_5,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_5,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_5,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_5,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_5,Cincinnati Bengals,2011
+['Andre Smith'],Questionable: foot,week_5,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_5,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_5,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_5,Cincinnati Bengals,2011
+['Bobbie Williams'],Probable: four-game suspension served,week_5,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_5,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_6,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_6,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_6,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_6,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_6,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_6,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_6,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_6,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_6,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_6,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_6,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_6,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_6,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_6,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_6,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_6,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_6,Cincinnati Bengals,2011
+['Kelly Jennings'],Probable: hamstring,week_6,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_6,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_6,Cincinnati Bengals,2011
+['Adam Jones'],Physically Unable to Perform: neck,week_6,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_6,Cincinnati Bengals,2011
+['Donald Lee'],Probable: groin,week_6,Cincinnati Bengals,2011
+['Brian Leonard'],Probable: groin,week_6,Cincinnati Bengals,2011
+['Rey Maualuga'],Questionable: ankle,week_6,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_6,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_6,Cincinnati Bengals,2011
+['Dontay Moch'],Probable: foot,week_6,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_6,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_6,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_6,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_6,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_6,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_6,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_6,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_6,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_6,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_6,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_6,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_6,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_6,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_6,Cincinnati Bengals,2011
+['Ryan Whalen'],Questionable: hamstring,week_6,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_6,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_6,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_6,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_8,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_8,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_8,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: knee,week_8,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_8,Cincinnati Bengals,2011
+['Chris Crocker'],NA,week_8,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_8,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_8,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_8,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_8,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_8,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_8,Cincinnati Bengals,2011
+['Jermaine Gresham'],Probable: hamstring,week_8,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_8,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_8,Cincinnati Bengals,2011
+['Thomas Howard'],Questionable: hamstring,week_8,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_8,Cincinnati Bengals,2011
+['Kelly Jennings'],Questionable: hamstring,week_8,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_8,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_8,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_8,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_8,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_8,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_8,Cincinnati Bengals,2011
+['Rey Maualuga'],Doubtful: ankle,week_8,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_8,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_8,Cincinnati Bengals,2011
+['Dontay Moch'],NA,week_8,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_8,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_8,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_8,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_8,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_8,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_8,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_8,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_8,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_8,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_8,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_8,Cincinnati Bengals,2011
+['Dan Skuta'],Questionable: groin,week_8,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_8,Cincinnati Bengals,2011
+['Morgan Trent'],Questionable: ankle,week_8,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_8,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_8,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_8,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_8,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_9,Cincinnati Bengals,2011
+['Cedric Benson'],Probable: one-game suspension served,week_9,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_9,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: knee,week_9,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_9,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_9,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_9,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: groin,week_9,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_9,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_9,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_9,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_9,Cincinnati Bengals,2011
+['Jermaine Gresham'],Doubtful: hamstring,week_9,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_9,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_9,Cincinnati Bengals,2011
+['Thomas Howard'],Questionable: hamstring,week_9,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_9,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_9,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_9,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_9,Cincinnati Bengals,2011
+['Adam Jones'],Questionable: hamstring,week_9,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_9,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_9,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_9,Cincinnati Bengals,2011
+['Rey Maualuga'],Questionable: ankle,week_9,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_9,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_9,Cincinnati Bengals,2011
+['Dontay Moch'],NA,week_9,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_9,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_9,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_9,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_9,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_9,Cincinnati Bengals,2011
+['Frostee Rucker'],Probable: shoulder,week_9,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_9,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_9,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_9,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_9,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_9,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_9,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_9,Cincinnati Bengals,2011
+['Morgan Trent'],Questionable: ankle,week_9,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_9,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_9,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_9,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_9,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_10,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_10,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_10,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: knee,week_10,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_10,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_10,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_10,Cincinnati Bengals,2011
+['Carlos Dunlap'],Probable: hamstring,week_10,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_10,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_10,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_10,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_10,Cincinnati Bengals,2011
+['Jermaine Gresham'],Questionable: hamstring,week_10,Cincinnati Bengals,2011
+['Leon Hall'],NA,week_10,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_10,Cincinnati Bengals,2011
+['Thomas Howard'],Questionable: hamstring,week_10,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_10,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_10,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_10,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_10,Cincinnati Bengals,2011
+['Adam Jones'],Questionable: hamstring,week_10,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_10,Cincinnati Bengals,2011
+['Donald Lee'],Questionable: foot,week_10,Cincinnati Bengals,2011
+['Brian Leonard'],Questionable: knee,week_10,Cincinnati Bengals,2011
+['Rey Maualuga'],Questionable: ankle,week_10,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_10,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_10,Cincinnati Bengals,2011
+['Dontay Moch'],NA,week_10,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_10,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_10,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_10,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_10,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_10,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_10,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_10,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_10,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_10,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_10,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_10,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_10,Cincinnati Bengals,2011
+['Andre Smith'],Questionable: toe,week_10,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_10,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_10,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_10,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_10,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_10,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_11,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_11,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_11,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: knee,week_11,Cincinnati Bengals,2011
+['Kyle Cook'],Questionable: foot,week_11,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_11,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_11,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: hamstring,week_11,Cincinnati Bengals,2011
+['Jonathan Fanene'],Questionable: illness,week_11,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_11,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_11,Cincinnati Bengals,2011
+['A.J. Green'],Questionable: knee,week_11,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_11,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_11,Cincinnati Bengals,2011
+['Andrew Hawkins'],Questionable: hamstring,week_11,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_11,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_11,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_11,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_11,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_11,Cincinnati Bengals,2011
+['Adam Jones'],Questionable: groin,week_11,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_11,Cincinnati Bengals,2011
+['Donald Lee'],Questionable: foot,week_11,Cincinnati Bengals,2011
+['Brian Leonard'],Questionable: knee,week_11,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_11,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_11,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_11,Cincinnati Bengals,2011
+['Dontay Moch'],Probable: illness,week_11,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_11,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_11,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_11,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_11,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_11,Cincinnati Bengals,2011
+['Frostee Rucker'],Questionable: knee,week_11,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_11,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_11,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_11,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_11,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_11,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_11,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_11,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_11,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_11,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_11,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_11,Cincinnati Bengals,2011
+['Gibril Wilson'],Questionable: ankle,week_11,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_12,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_12,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_12,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: knee,week_12,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_12,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_12,Cincinnati Bengals,2011
+['Andy Dalton'],Questionable: right shoulder,week_12,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: hamstring,week_12,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_12,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_12,Cincinnati Bengals,2011
+['Brandon Ghee'],Questionable: groin,week_12,Cincinnati Bengals,2011
+['A.J. Green'],Questionable: knee,week_12,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_12,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_12,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_12,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_12,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_12,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_12,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_12,Cincinnati Bengals,2011
+['Michael Johnson'],Questionable: shoulder,week_12,Cincinnati Bengals,2011
+['Adam Jones'],Questionable: groin,week_12,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_12,Cincinnati Bengals,2011
+['Donald Lee'],Questionable: foot,week_12,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_12,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_12,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_12,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_12,Cincinnati Bengals,2011
+['Dontay Moch'],NA,week_12,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_12,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_12,Cincinnati Bengals,2011
+['Domata Peko'],Questionable: foot,week_12,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_12,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_12,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_12,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_12,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_12,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_12,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_12,Cincinnati Bengals,2011
+['Pat Sims'],NA,week_12,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_12,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_12,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_12,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_12,Cincinnati Bengals,2011
+['Andrew Whitworth'],Questionable: thigh,week_12,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_12,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_12,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_13,Cincinnati Bengals,2011
+['Cedric Benson'],Questionable: foot,week_13,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_13,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: hamstring,week_13,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_13,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: biceps,week_13,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_13,Cincinnati Bengals,2011
+['Carlos Dunlap'],Doubtful: hamstring,week_13,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_13,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_13,Cincinnati Bengals,2011
+['Brandon Ghee'],Questionable: groin,week_13,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_13,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_13,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_13,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_13,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_13,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_13,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_13,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_13,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_13,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_13,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_13,Cincinnati Bengals,2011
+['Donald Lee'],Questionable: foot,week_13,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_13,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_13,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_13,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_13,Cincinnati Bengals,2011
+['Dontay Moch'],NA,week_13,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_13,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_13,Cincinnati Bengals,2011
+['Domata Peko'],Questionable: foot,week_13,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_13,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_13,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_13,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_13,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_13,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_13,Cincinnati Bengals,2011
+['Jerome Simpson'],Questionable: ankle,week_13,Cincinnati Bengals,2011
+['Pat Sims'],Doubtful: ankle,week_13,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_13,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_13,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_13,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_13,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_13,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_13,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_13,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_14,Cincinnati Bengals,2011
+['Cedric Benson'],Questionable: foot,week_14,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_14,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: hamstring,week_14,Cincinnati Bengals,2011
+['Kyle Cook'],Questionable: shoulder,week_14,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_14,Cincinnati Bengals,2011
+['Andy Dalton'],Probable: hip,week_14,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: hamstring,week_14,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_14,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_14,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_14,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_14,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_14,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_14,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_14,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_14,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_14,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_14,Cincinnati Bengals,2011
+['Brandon Johnson'],Questionable: knee,week_14,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_14,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_14,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_14,Cincinnati Bengals,2011
+['Donald Lee'],Probable: foot,week_14,Cincinnati Bengals,2011
+['Brian Leonard'],Questionable: knee,week_14,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_14,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_14,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_14,Cincinnati Bengals,2011
+['Dontay Moch'],Out: illness,week_14,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_14,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_14,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_14,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_14,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_14,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_14,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_14,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_14,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_14,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_14,Cincinnati Bengals,2011
+['Pat Sims'],Injured Reserve: ankle,week_14,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_14,Cincinnati Bengals,2011
+['Andre Smith'],Doubtful: ankle,week_14,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_14,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_14,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_14,Cincinnati Bengals,2011
+['Bobbie Williams'],NA,week_14,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_14,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_15,Cincinnati Bengals,2011
+['Cedric Benson'],Questionable: foot,week_15,Cincinnati Bengals,2011
+['Andre Caldwell'],NA,week_15,Cincinnati Bengals,2011
+['Nate Clements'],Questionable: hamstring,week_15,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_15,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_15,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_15,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: hamstring,week_15,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_15,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_15,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_15,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_15,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_15,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_15,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_15,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_15,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_15,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_15,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_15,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_15,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_15,Cincinnati Bengals,2011
+['Manny Lawson'],Questionable: ankle,week_15,Cincinnati Bengals,2011
+['Donald Lee'],Questionable: foot,week_15,Cincinnati Bengals,2011
+['Brian Leonard'],Questionable: knee,week_15,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_15,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_15,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_15,Cincinnati Bengals,2011
+['Dontay Moch'],Questionable: illness,week_15,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_15,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_15,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_15,Cincinnati Bengals,2011
+['Chris Pressley'],Questionable: knee,week_15,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_15,Cincinnati Bengals,2011
+['Frostee Rucker'],Questionable: hamstring,week_15,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_15,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_15,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_15,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_15,Cincinnati Bengals,2011
+['Pat Sims'],Injured Reserve: ankle,week_15,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_15,Cincinnati Bengals,2011
+['Andre Smith'],Questionable: ankle,week_15,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_15,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_15,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_15,Cincinnati Bengals,2011
+['Bobbie Williams'],Injured Reserve: ankle,week_15,Cincinnati Bengals,2011
+['Gibril Wilson'],Questionable: back,week_15,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_16,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_16,Cincinnati Bengals,2011
+['Andre Caldwell'],Doubtful: abdomen/groin,week_16,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_16,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_16,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_16,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_16,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_16,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_16,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_16,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_16,Cincinnati Bengals,2011
+['A.J. Green'],Probable: shoulder,week_16,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_16,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_16,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_16,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_16,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_16,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_16,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_16,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_16,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_16,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_16,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_16,Cincinnati Bengals,2011
+['Brian Leonard'],Questionable: knee,week_16,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_16,Cincinnati Bengals,2011
+['Taylor Mays'],NA,week_16,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_16,Cincinnati Bengals,2011
+['Dontay Moch'],Questionable: illness,week_16,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_16,Cincinnati Bengals,2011
+['Reggie Nelson'],Questionable: hip,week_16,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_16,Cincinnati Bengals,2011
+['Chris Pressley'],Questionable: knee,week_16,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_16,Cincinnati Bengals,2011
+['Frostee Rucker'],NA,week_16,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_16,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_16,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_16,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_16,Cincinnati Bengals,2011
+['Pat Sims'],Injured Reserve: ankle,week_16,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_16,Cincinnati Bengals,2011
+['Andre Smith'],Questionable: ankle,week_16,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_16,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_16,Cincinnati Bengals,2011
+['Andrew Whitworth'],Questionable: knee,week_16,Cincinnati Bengals,2011
+['Bobbie Williams'],Injured Reserve: ankle,week_16,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_16,Cincinnati Bengals,2011
+['Geno Atkins'],NA,week_17,Cincinnati Bengals,2011
+['Cedric Benson'],NA,week_17,Cincinnati Bengals,2011
+['Andre Caldwell'],Injured Reserve: abdomen/groin,week_17,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_17,Cincinnati Bengals,2011
+['Kyle Cook'],NA,week_17,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_17,Cincinnati Bengals,2011
+['Andy Dalton'],NA,week_17,Cincinnati Bengals,2011
+['Carlos Dunlap'],Questionable: hamstring,week_17,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_17,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_17,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_17,Cincinnati Bengals,2011
+['A.J. Green'],Probable: shoulder,week_17,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_17,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_17,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_17,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_17,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_17,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_17,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_17,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_17,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_17,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_17,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_17,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_17,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_17,Cincinnati Bengals,2011
+['Taylor Mays'],Questionable: hamstring,week_17,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_17,Cincinnati Bengals,2011
+['Dontay Moch'],Questionable: illness,week_17,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_17,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_17,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_17,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_17,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_17,Cincinnati Bengals,2011
+['Frostee Rucker'],Questionable: neck,week_17,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_17,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_17,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_17,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_17,Cincinnati Bengals,2011
+['Pat Sims'],Injured Reserve: ankle,week_17,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_17,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_17,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_17,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_17,Cincinnati Bengals,2011
+['Andrew Whitworth'],Questionable: knee,week_17,Cincinnati Bengals,2011
+['Bobbie Williams'],Injured Reserve: ankle,week_17,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_17,Cincinnati Bengals,2011
+['Geno Atkins'],Questionable: Achilles,week_18,Cincinnati Bengals,2011
+['Cedric Benson'],Questionable: foot,week_18,Cincinnati Bengals,2011
+['Andre Caldwell'],Injured Reserve: abdomen/groin,week_18,Cincinnati Bengals,2011
+['Nate Clements'],NA,week_18,Cincinnati Bengals,2011
+['Kyle Cook'],Questionable: foot,week_18,Cincinnati Bengals,2011
+['Chris Crocker'],Questionable: knee,week_18,Cincinnati Bengals,2011
+['Andy Dalton'],Probable: illness,week_18,Cincinnati Bengals,2011
+['Carlos Dunlap'],NA,week_18,Cincinnati Bengals,2011
+['Jonathan Fanene'],NA,week_18,Cincinnati Bengals,2011
+['Robert Geathers'],NA,week_18,Cincinnati Bengals,2011
+['Brandon Ghee'],NA,week_18,Cincinnati Bengals,2011
+['A.J. Green'],NA,week_18,Cincinnati Bengals,2011
+['Jermaine Gresham'],NA,week_18,Cincinnati Bengals,2011
+['Leon Hall'],Injured Reserve: Achilles,week_18,Cincinnati Bengals,2011
+['Andrew Hawkins'],NA,week_18,Cincinnati Bengals,2011
+['Thomas Howard'],NA,week_18,Cincinnati Bengals,2011
+['Otis Hudson'],NA,week_18,Cincinnati Bengals,2011
+['Kelly Jennings'],NA,week_18,Cincinnati Bengals,2011
+['Brandon Johnson'],NA,week_18,Cincinnati Bengals,2011
+['Michael Johnson'],NA,week_18,Cincinnati Bengals,2011
+['Adam Jones'],NA,week_18,Cincinnati Bengals,2011
+['Manny Lawson'],NA,week_18,Cincinnati Bengals,2011
+['Donald Lee'],NA,week_18,Cincinnati Bengals,2011
+['Brian Leonard'],NA,week_18,Cincinnati Bengals,2011
+['Rey Maualuga'],NA,week_18,Cincinnati Bengals,2011
+['Taylor Mays'],Questionable: hamstring,week_18,Cincinnati Bengals,2011
+['Jeromy Miles'],NA,week_18,Cincinnati Bengals,2011
+['Dontay Moch'],Questionable: illness,week_18,Cincinnati Bengals,2011
+['Roddrick Muckelroy'],Injured Reserve: Achilles,week_18,Cincinnati Bengals,2011
+['Reggie Nelson'],NA,week_18,Cincinnati Bengals,2011
+['Domata Peko'],NA,week_18,Cincinnati Bengals,2011
+['Chris Pressley'],NA,week_18,Cincinnati Bengals,2011
+['Keith Rivers'],Out: wrist,week_18,Cincinnati Bengals,2011
+['Frostee Rucker'],Questionable: shoulder,week_18,Cincinnati Bengals,2011
+['Bo Scaife'],Injured Reserve: shoulder,week_18,Cincinnati Bengals,2011
+['Bernard Scott'],NA,week_18,Cincinnati Bengals,2011
+['Jordan Shipley'],Injured Reserve: knee,week_18,Cincinnati Bengals,2011
+['Jerome Simpson'],NA,week_18,Cincinnati Bengals,2011
+['Pat Sims'],Injured Reserve: ankle,week_18,Cincinnati Bengals,2011
+['Dan Skuta'],NA,week_18,Cincinnati Bengals,2011
+['Andre Smith'],NA,week_18,Cincinnati Bengals,2011
+['Morgan Trent'],NA,week_18,Cincinnati Bengals,2011
+['Ryan Whalen'],NA,week_18,Cincinnati Bengals,2011
+['Andrew Whitworth'],NA,week_18,Cincinnati Bengals,2011
+['Bobbie Williams'],Injured Reserve: ankle,week_18,Cincinnati Bengals,2011
+['Gibril Wilson'],NA,week_18,Cincinnati Bengals,2011

@@ -1,0 +1,595 @@
+﻿name,injury,week,team,year
+['Dontavia Bogan'],Injured Reserve: knee,week_1,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_1,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_1,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_1,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_1,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_1,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_1,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_1,San Francisco 49ers,2011
+['Braylon Edwards'],NA,week_1,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_1,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: knee,week_1,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_1,San Francisco 49ers,2011
+['Frank Gore'],NA,week_1,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_1,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_1,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_1,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_1,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_1,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_1,San Francisco 49ers,2011
+['Josh Morgan'],NA,week_1,San Francisco 49ers,2011
+['Moran Norris'],NA,week_1,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_1,San Francisco 49ers,2011
+['Alex Smith'],NA,week_1,San Francisco 49ers,2011
+['Reggie Smith'],Probable: knee,week_1,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_1,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_1,San Francisco 49ers,2011
+['Shawntae Spencer'],Probable: hamstring,week_1,San Francisco 49ers,2011
+['Joe Staley'],NA,week_1,San Francisco 49ers,2011
+['Will Tukuafu'],NA,week_1,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_1,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_1,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_1,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_1,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_2,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_2,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_2,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_2,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_2,San Francisco 49ers,2011
+['Michael Crabtree'],Questionable: foot,week_2,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_2,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_2,San Francisco 49ers,2011
+['Braylon Edwards'],NA,week_2,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_2,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: knee,week_2,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_2,San Francisco 49ers,2011
+['Frank Gore'],NA,week_2,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_2,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_2,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_2,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_2,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_2,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_2,San Francisco 49ers,2011
+['Josh Morgan'],NA,week_2,San Francisco 49ers,2011
+['Moran Norris'],NA,week_2,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_2,San Francisco 49ers,2011
+['Alex Smith'],NA,week_2,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_2,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_2,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_2,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_2,San Francisco 49ers,2011
+['Joe Staley'],NA,week_2,San Francisco 49ers,2011
+['Will Tukuafu'],NA,week_2,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_2,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_2,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_2,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_2,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_3,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_3,San Francisco 49ers,2011
+['Tramaine Brock'],Probable: hand,week_3,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_3,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_3,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_3,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_3,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_3,San Francisco 49ers,2011
+['Braylon Edwards'],Out: knee,week_3,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_3,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: knee,week_3,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_3,San Francisco 49ers,2011
+['Frank Gore'],NA,week_3,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_3,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_3,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_3,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_3,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_3,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_3,San Francisco 49ers,2011
+['Josh Morgan'],NA,week_3,San Francisco 49ers,2011
+['Moran Norris'],Out: leg,week_3,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_3,San Francisco 49ers,2011
+['Alex Smith'],Probable: concussion,week_3,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_3,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_3,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_3,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_3,San Francisco 49ers,2011
+['Joe Staley'],NA,week_3,San Francisco 49ers,2011
+['Will Tukuafu'],NA,week_3,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_3,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_3,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_3,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_3,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_4,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_4,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_4,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_4,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_4,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_4,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_4,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_4,San Francisco 49ers,2011
+['Braylon Edwards'],Out: knee,week_4,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_4,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_4,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_4,San Francisco 49ers,2011
+['Frank Gore'],Questionable: ankle,week_4,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_4,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_4,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_4,San Francisco 49ers,2011
+['Mike Iupati'],Probable: neck,week_4,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_4,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_4,San Francisco 49ers,2011
+['Josh Morgan'],NA,week_4,San Francisco 49ers,2011
+['Moran Norris'],Out: leg,week_4,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_4,San Francisco 49ers,2011
+['Alex Smith'],NA,week_4,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_4,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_4,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_4,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_4,San Francisco 49ers,2011
+['Joe Staley'],NA,week_4,San Francisco 49ers,2011
+['Will Tukuafu'],NA,week_4,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_4,San Francisco 49ers,2011
+['Donte Whitner'],Questionable: hip,week_4,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_4,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_4,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_5,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_5,San Francisco 49ers,2011
+['Tramaine Brock'],Out: hand,week_5,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_5,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_5,San Francisco 49ers,2011
+['Michael Crabtree'],Questionable: feet,week_5,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_5,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_5,San Francisco 49ers,2011
+['Braylon Edwards'],Out: knee,week_5,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_5,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_5,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_5,San Francisco 49ers,2011
+['Frank Gore'],Questionable: ankle,week_5,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_5,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_5,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_5,San Francisco 49ers,2011
+['Mike Iupati'],Questionable: neck,week_5,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_5,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_5,San Francisco 49ers,2011
+['Josh Morgan'],NA,week_5,San Francisco 49ers,2011
+['Moran Norris'],Out: leg,week_5,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_5,San Francisco 49ers,2011
+['Alex Smith'],NA,week_5,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_5,San Francisco 49ers,2011
+['Adam Snyder'],Questionable: hamstring,week_5,San Francisco 49ers,2011
+['Isaac Sopoaga'],Questionable: infection,week_5,San Francisco 49ers,2011
+['Shawntae Spencer'],Questionable: toe,week_5,San Francisco 49ers,2011
+['Joe Staley'],NA,week_5,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_5,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_5,San Francisco 49ers,2011
+['Donte Whitner'],Questionable: hip,week_5,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_5,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_5,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_6,San Francisco 49ers,2011
+['NaVorro Bowman'],Questionable: neck,week_6,San Francisco 49ers,2011
+['Tramaine Brock'],Out: hand,week_6,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_6,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_6,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: feet,week_6,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_6,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_6,San Francisco 49ers,2011
+['Braylon Edwards'],Out: knee,week_6,San Francisco 49ers,2011
+['Ted Ginn'],Probable: finger,week_6,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: knee,week_6,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_6,San Francisco 49ers,2011
+['Frank Gore'],NA,week_6,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_6,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_6,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_6,San Francisco 49ers,2011
+['Mike Iupati'],Questionable: knee,week_6,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_6,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_6,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_6,San Francisco 49ers,2011
+['Moran Norris'],Out: leg,week_6,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_6,San Francisco 49ers,2011
+['Alex Smith'],NA,week_6,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_6,San Francisco 49ers,2011
+['Adam Snyder'],Questionable: forearm,week_6,San Francisco 49ers,2011
+['Isaac Sopoaga'],Questionable: infection,week_6,San Francisco 49ers,2011
+['Shawntae Spencer'],Questionable: toe,week_6,San Francisco 49ers,2011
+['Joe Staley'],NA,week_6,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_6,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_6,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_6,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_6,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_6,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_8,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_8,San Francisco 49ers,2011
+['Tramaine Brock'],Questionable: hand,week_8,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_8,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_8,San Francisco 49ers,2011
+['Michael Crabtree'],Questionable: foot,week_8,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: shoulder,week_8,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_8,San Francisco 49ers,2011
+['Braylon Edwards'],Questionable: knee,week_8,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_8,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_8,San Francisco 49ers,2011
+['Jonathan Goodwin'],Questionable: concussion,week_8,San Francisco 49ers,2011
+['Frank Gore'],NA,week_8,San Francisco 49ers,2011
+['Parys Haralson'],Probable: hamstring,week_8,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_8,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_8,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_8,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_8,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_8,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_8,San Francisco 49ers,2011
+['Moran Norris'],Questionable: leg,week_8,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_8,San Francisco 49ers,2011
+['Alex Smith'],NA,week_8,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_8,San Francisco 49ers,2011
+['Adam Snyder'],Probable: stinger,week_8,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_8,San Francisco 49ers,2011
+['Shawntae Spencer'],Probable: toe,week_8,San Francisco 49ers,2011
+['Joe Staley'],NA,week_8,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_8,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_8,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_8,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_8,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_8,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_9,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_9,San Francisco 49ers,2011
+['Tramaine Brock'],Probable: hand,week_9,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_9,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_9,San Francisco 49ers,2011
+['Michael Crabtree'],Questionable: foot,week_9,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: shoulder,week_9,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_9,San Francisco 49ers,2011
+['Braylon Edwards'],Questionable: knee,week_9,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_9,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: knee,week_9,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_9,San Francisco 49ers,2011
+['Frank Gore'],NA,week_9,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_9,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_9,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_9,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_9,San Francisco 49ers,2011
+['Ray McDonald'],Questionable: hamstring,week_9,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: thumb,week_9,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_9,San Francisco 49ers,2011
+['Moran Norris'],Questionable: leg,week_9,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_9,San Francisco 49ers,2011
+['Alex Smith'],NA,week_9,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_9,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_9,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_9,San Francisco 49ers,2011
+['Shawntae Spencer'],Probable: toe,week_9,San Francisco 49ers,2011
+['Joe Staley'],NA,week_9,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_9,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_9,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_9,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_9,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_9,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_10,San Francisco 49ers,2011
+['NaVorro Bowman'],Probable: shoulder,week_10,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_10,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_10,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_10,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_10,San Francisco 49ers,2011
+['Chris Culliver'],Probable: shoulder,week_10,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_10,San Francisco 49ers,2011
+['Braylon Edwards'],Probable: knee,week_10,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_10,San Francisco 49ers,2011
+['Dashon Goldson'],Probable: knee,week_10,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_10,San Francisco 49ers,2011
+['Frank Gore'],Probable: ankle,week_10,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_10,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_10,San Francisco 49ers,2011
+['Kendall Hunter'],Probable: ankle,week_10,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_10,San Francisco 49ers,2011
+['Ray McDonald'],Questionable: hamstring,week_10,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_10,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_10,San Francisco 49ers,2011
+['Moran Norris'],Questionable: leg,week_10,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_10,San Francisco 49ers,2011
+['Alex Smith'],NA,week_10,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_10,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_10,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_10,San Francisco 49ers,2011
+['Shawntae Spencer'],Questionable: toe,week_10,San Francisco 49ers,2011
+['Joe Staley'],NA,week_10,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_10,San Francisco 49ers,2011
+['Delanie Walker'],Probable: knee,week_10,San Francisco 49ers,2011
+['Donte Whitner'],Probable: thigh,week_10,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_10,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_10,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_11,San Francisco 49ers,2011
+['NaVorro Bowman'],Questionable: neck,week_11,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_11,San Francisco 49ers,2011
+['Tarell Brown'],Questionable: knee,week_11,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_11,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_11,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: shoulder,week_11,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_11,San Francisco 49ers,2011
+['Braylon Edwards'],Probable: knee,week_11,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_11,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_11,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_11,San Francisco 49ers,2011
+['Frank Gore'],Probable: knee,week_11,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_11,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_11,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_11,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_11,San Francisco 49ers,2011
+['Ray McDonald'],Questionable: hamstring,week_11,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_11,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_11,San Francisco 49ers,2011
+['Moran Norris'],Doubtful: leg,week_11,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_11,San Francisco 49ers,2011
+['Alex Smith'],NA,week_11,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_11,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_11,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_11,San Francisco 49ers,2011
+['Shawntae Spencer'],Probable: toe,week_11,San Francisco 49ers,2011
+['Joe Staley'],NA,week_11,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_11,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_11,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_11,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_11,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_11,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_12,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_12,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_12,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_12,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_12,San Francisco 49ers,2011
+['Michael Crabtree'],Probable: foot,week_12,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: shoulder,week_12,San Francisco 49ers,2011
+['Anthony Davis'],Questionable: ankle,week_12,San Francisco 49ers,2011
+['Braylon Edwards'],Probable: knee,week_12,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_12,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_12,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_12,San Francisco 49ers,2011
+['Frank Gore'],Probable: ankle,week_12,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_12,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_12,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_12,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_12,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_12,San Francisco 49ers,2011
+['Bruce Miller'],Doubtful: concussion,week_12,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_12,San Francisco 49ers,2011
+['Moran Norris'],NA,week_12,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_12,San Francisco 49ers,2011
+['Alex Smith'],NA,week_12,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_12,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_12,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_12,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_12,San Francisco 49ers,2011
+['Joe Staley'],NA,week_12,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_12,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_12,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_12,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_12,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_12,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_13,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_13,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_13,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_13,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_13,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_13,San Francisco 49ers,2011
+['Chris Culliver'],Probable: shoulder,week_13,San Francisco 49ers,2011
+['Anthony Davis'],Probable: ankle,week_13,San Francisco 49ers,2011
+['Braylon Edwards'],Questionable: shoulder/knee,week_13,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_13,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_13,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_13,San Francisco 49ers,2011
+['Frank Gore'],Probable: ankle,week_13,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_13,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_13,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_13,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_13,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_13,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: concussion,week_13,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_13,San Francisco 49ers,2011
+['Moran Norris'],NA,week_13,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_13,San Francisco 49ers,2011
+['Alex Smith'],NA,week_13,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_13,San Francisco 49ers,2011
+['Adam Snyder'],Questionable: hamstring,week_13,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_13,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_13,San Francisco 49ers,2011
+['Joe Staley'],NA,week_13,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_13,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_13,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_13,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_13,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_13,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_14,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_14,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_14,San Francisco 49ers,2011
+['Tarell Brown'],Questionable: ankle,week_14,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_14,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_14,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_14,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_14,San Francisco 49ers,2011
+['Braylon Edwards'],Questionable: shoulder/knee,week_14,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_14,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_14,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_14,San Francisco 49ers,2011
+['Frank Gore'],NA,week_14,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_14,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_14,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_14,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_14,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_14,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_14,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_14,San Francisco 49ers,2011
+['Moran Norris'],NA,week_14,San Francisco 49ers,2011
+['Carlos Rogers'],Questionable: knee,week_14,San Francisco 49ers,2011
+['Alex Smith'],NA,week_14,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_14,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_14,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_14,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_14,San Francisco 49ers,2011
+['Joe Staley'],NA,week_14,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_14,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_14,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_14,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_14,San Francisco 49ers,2011
+['Patrick Willis'],Doubtful: hamstring,week_14,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_15,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_15,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_15,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_15,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_15,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_15,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_15,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_15,San Francisco 49ers,2011
+['Braylon Edwards'],Questionable: knee,week_15,San Francisco 49ers,2011
+['Ted Ginn'],NA,week_15,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_15,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_15,San Francisco 49ers,2011
+['Frank Gore'],NA,week_15,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_15,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_15,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_15,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_15,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_15,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: knee,week_15,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_15,San Francisco 49ers,2011
+['Moran Norris'],NA,week_15,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_15,San Francisco 49ers,2011
+['Alex Smith'],NA,week_15,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_15,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_15,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_15,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_15,San Francisco 49ers,2011
+['Joe Staley'],Questionable: head,week_15,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_15,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_15,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_15,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_15,San Francisco 49ers,2011
+['Patrick Willis'],Questionable: hamstring,week_15,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_16,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_16,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_16,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_16,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_16,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_16,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_16,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_16,San Francisco 49ers,2011
+['Braylon Edwards'],Probable: knee,week_16,San Francisco 49ers,2011
+['Ted Ginn'],Questionable: ankle,week_16,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_16,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_16,San Francisco 49ers,2011
+['Frank Gore'],NA,week_16,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_16,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_16,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_16,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_16,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_16,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: knee,week_16,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_16,San Francisco 49ers,2011
+['Moran Norris'],NA,week_16,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_16,San Francisco 49ers,2011
+['Alex Smith'],NA,week_16,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_16,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_16,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_16,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_16,San Francisco 49ers,2011
+['Joe Staley'],NA,week_16,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_16,San Francisco 49ers,2011
+['Delanie Walker'],NA,week_16,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_16,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_16,San Francisco 49ers,2011
+['Patrick Willis'],Out: hamstring,week_16,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_17,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_17,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_17,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_17,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_17,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_17,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: shoulder,week_17,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_17,San Francisco 49ers,2011
+['Braylon Edwards'],NA,week_17,San Francisco 49ers,2011
+['Ted Ginn'],Doubtful: ankle,week_17,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_17,San Francisco 49ers,2011
+['Jonathan Goodwin'],NA,week_17,San Francisco 49ers,2011
+['Frank Gore'],NA,week_17,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_17,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_17,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_17,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_17,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_17,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: knee,week_17,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_17,San Francisco 49ers,2011
+['Moran Norris'],NA,week_17,San Francisco 49ers,2011
+['Carlos Rogers'],Questionable: knee,week_17,San Francisco 49ers,2011
+['Alex Smith'],NA,week_17,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_17,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_17,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_17,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_17,San Francisco 49ers,2011
+['Joe Staley'],NA,week_17,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_17,San Francisco 49ers,2011
+['Delanie Walker'],Out: jaw,week_17,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_17,San Francisco 49ers,2011
+['Kyle Williams'],Doubtful: concussion,week_17,San Francisco 49ers,2011
+['Patrick Willis'],Questionable: hamstring,week_17,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_19,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_19,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_19,San Francisco 49ers,2011
+['Tarell Brown'],NA,week_19,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_19,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_19,San Francisco 49ers,2011
+['Chris Culliver'],Questionable: knee/illness,week_19,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_19,San Francisco 49ers,2011
+['Braylon Edwards'],NA,week_19,San Francisco 49ers,2011
+['Ted Ginn'],Questionable: ankle,week_19,San Francisco 49ers,2011
+['Dashon Goldson'],NA,week_19,San Francisco 49ers,2011
+['Jonathan Goodwin'],Probable: leg,week_19,San Francisco 49ers,2011
+['Frank Gore'],NA,week_19,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_19,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_19,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_19,San Francisco 49ers,2011
+['Mike Iupati'],NA,week_19,San Francisco 49ers,2011
+['Ray McDonald'],Questionable: hamstring,week_19,San Francisco 49ers,2011
+['Bruce Miller'],Questionable: knee,week_19,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_19,San Francisco 49ers,2011
+['Moran Norris'],NA,week_19,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_19,San Francisco 49ers,2011
+['Alex Smith'],NA,week_19,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_19,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_19,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_19,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_19,San Francisco 49ers,2011
+['Joe Staley'],NA,week_19,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_19,San Francisco 49ers,2011
+['Delanie Walker'],Out: jaw,week_19,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_19,San Francisco 49ers,2011
+['Kyle Williams'],Questionable: concussion,week_19,San Francisco 49ers,2011
+['Patrick Willis'],NA,week_19,San Francisco 49ers,2011
+['Dontavia Bogan'],Injured Reserve: knee,week_20,San Francisco 49ers,2011
+['NaVorro Bowman'],NA,week_20,San Francisco 49ers,2011
+['Tramaine Brock'],NA,week_20,San Francisco 49ers,2011
+['Tarell Brown'],Questionable: head/neck,week_20,San Francisco 49ers,2011
+['Nate Byham'],Injured Reserve: knee,week_20,San Francisco 49ers,2011
+['Michael Crabtree'],NA,week_20,San Francisco 49ers,2011
+['Chris Culliver'],NA,week_20,San Francisco 49ers,2011
+['Anthony Davis'],NA,week_20,San Francisco 49ers,2011
+['Braylon Edwards'],NA,week_20,San Francisco 49ers,2011
+['Ted Ginn'],Questionable: knee,week_20,San Francisco 49ers,2011
+['Dashon Goldson'],Questionable: ankle,week_20,San Francisco 49ers,2011
+['Jonathan Goodwin'],Questionable: calf,week_20,San Francisco 49ers,2011
+['Frank Gore'],NA,week_20,San Francisco 49ers,2011
+['Parys Haralson'],NA,week_20,San Francisco 49ers,2011
+['Curtis Holcomb'],Injured Reserve: Achilles,week_20,San Francisco 49ers,2011
+['Kendall Hunter'],NA,week_20,San Francisco 49ers,2011
+['Mike Iupati'],Probable: ankle,week_20,San Francisco 49ers,2011
+['Ray McDonald'],NA,week_20,San Francisco 49ers,2011
+['Bruce Miller'],NA,week_20,San Francisco 49ers,2011
+['Josh Morgan'],Injured Reserve: leg,week_20,San Francisco 49ers,2011
+['Moran Norris'],NA,week_20,San Francisco 49ers,2011
+['Carlos Rogers'],NA,week_20,San Francisco 49ers,2011
+['Alex Smith'],NA,week_20,San Francisco 49ers,2011
+['Reggie Smith'],NA,week_20,San Francisco 49ers,2011
+['Adam Snyder'],NA,week_20,San Francisco 49ers,2011
+['Isaac Sopoaga'],NA,week_20,San Francisco 49ers,2011
+['Shawntae Spencer'],NA,week_20,San Francisco 49ers,2011
+['Joe Staley'],NA,week_20,San Francisco 49ers,2011
+['Will Tukuafu'],Injured Reserve: wrist,week_20,San Francisco 49ers,2011
+['Delanie Walker'],Questionable: jaw,week_20,San Francisco 49ers,2011
+['Donte Whitner'],NA,week_20,San Francisco 49ers,2011
+['Kyle Williams'],NA,week_20,San Francisco 49ers,2011
+['Patrick Willis'],Probable: knee,week_20,San Francisco 49ers,2011

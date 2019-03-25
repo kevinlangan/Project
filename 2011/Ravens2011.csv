@@ -1,0 +1,703 @@
+﻿name,injury,week,team,year
+['Anthony Allen'],NA,week_1,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_1,Baltimore Ravens,2011
+['Matt Birk'],NA,week_1,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_1,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_1,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_1,Baltimore Ravens,2011
+['Chris Carr'],NA,week_1,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_1,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_1,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_1,Baltimore Ravens,2011
+['Lee Evans'],NA,week_1,Baltimore Ravens,2011
+['Domonique Foxworth'],NA,week_1,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_1,Baltimore Ravens,2011
+['Ben Grubbs'],Probable: thigh,week_1,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_1,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_1,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_1,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_1,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_1,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_1,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_1,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_1,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_1,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_1,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_1,Baltimore Ravens,2011
+['Jason Phillips'],Questionable: concussion,week_1,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_1,Baltimore Ravens,2011
+['Cory Redding'],NA,week_1,Baltimore Ravens,2011
+['David Reed'],NA,week_1,Baltimore Ravens,2011
+['Ed Reed'],NA,week_1,Baltimore Ravens,2011
+['Ray Rice'],NA,week_1,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_1,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_1,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_1,Baltimore Ravens,2011
+['Cary Williams'],NA,week_1,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_1,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_1,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_1,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_1,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_2,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_2,Baltimore Ravens,2011
+['Matt Birk'],NA,week_2,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_2,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_2,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_2,Baltimore Ravens,2011
+['Chris Carr'],Out: hamstring,week_2,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_2,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_2,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_2,Baltimore Ravens,2011
+['Lee Evans'],Probable: ankle,week_2,Baltimore Ravens,2011
+['Domonique Foxworth'],NA,week_2,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_2,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_2,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_2,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_2,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_2,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_2,Baltimore Ravens,2011
+['Vonta Leach'],Probable: foot,week_2,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_2,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_2,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_2,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_2,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_2,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_2,Baltimore Ravens,2011
+['Jason Phillips'],Questionable: concussion,week_2,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_2,Baltimore Ravens,2011
+['Cory Redding'],NA,week_2,Baltimore Ravens,2011
+['David Reed'],Probable: one-game suspension served,week_2,Baltimore Ravens,2011
+['Ed Reed'],NA,week_2,Baltimore Ravens,2011
+['Ray Rice'],NA,week_2,Baltimore Ravens,2011
+['Jimmy Smith'],Out: ankle,week_2,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_2,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_2,Baltimore Ravens,2011
+['Cary Williams'],NA,week_2,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_2,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_2,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_2,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_2,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_3,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_3,Baltimore Ravens,2011
+['Matt Birk'],Probable: knee,week_3,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_3,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_3,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_3,Baltimore Ravens,2011
+['Chris Carr'],Questionable: hamstring,week_3,Baltimore Ravens,2011
+['Terrence Cody'],Questionable: head,week_3,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_3,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_3,Baltimore Ravens,2011
+['Lee Evans'],Doubtful: ankle,week_3,Baltimore Ravens,2011
+['Domonique Foxworth'],NA,week_3,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_3,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_3,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_3,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_3,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_3,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_3,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_3,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_3,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_3,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_3,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_3,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_3,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_3,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_3,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_3,Baltimore Ravens,2011
+['Cory Redding'],Questionable: toe,week_3,Baltimore Ravens,2011
+['David Reed'],Out: shoulder,week_3,Baltimore Ravens,2011
+['Ed Reed'],NA,week_3,Baltimore Ravens,2011
+['Ray Rice'],NA,week_3,Baltimore Ravens,2011
+['Jimmy Smith'],Out: ankle,week_3,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_3,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_3,Baltimore Ravens,2011
+['Cary Williams'],NA,week_3,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_3,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_3,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_3,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_3,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_4,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_4,Baltimore Ravens,2011
+['Matt Birk'],Questionable: knee,week_4,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_4,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_4,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_4,Baltimore Ravens,2011
+['Chris Carr'],Questionable: thigh,week_4,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_4,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_4,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: hamstring,week_4,Baltimore Ravens,2011
+['Lee Evans'],Doubtful: ankle,week_4,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_4,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_4,Baltimore Ravens,2011
+['Ben Grubbs'],Probable: toe,week_4,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_4,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_4,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_4,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_4,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_4,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_4,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_4,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_4,Baltimore Ravens,2011
+['Haruki Nakamura'],Out: knee,week_4,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_4,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_4,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_4,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_4,Baltimore Ravens,2011
+['Cory Redding'],Probable: toe,week_4,Baltimore Ravens,2011
+['David Reed'],Out: shoulder,week_4,Baltimore Ravens,2011
+['Ed Reed'],NA,week_4,Baltimore Ravens,2011
+['Ray Rice'],NA,week_4,Baltimore Ravens,2011
+['Jimmy Smith'],Out: ankle,week_4,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_4,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_4,Baltimore Ravens,2011
+['Cary Williams'],NA,week_4,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_4,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_4,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_4,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_4,Baltimore Ravens,2011
+['Anthony Allen'],Probable: thigh,week_6,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_6,Baltimore Ravens,2011
+['Matt Birk'],NA,week_6,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_6,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_6,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_6,Baltimore Ravens,2011
+['Chris Carr'],Questionable: thigh,week_6,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_6,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_6,Baltimore Ravens,2011
+['Dannell Ellerbe'],Probable: hamstring,week_6,Baltimore Ravens,2011
+['Lee Evans'],Questionable: ankle,week_6,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_6,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_6,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_6,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_6,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_6,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_6,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_6,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_6,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_6,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_6,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_6,Baltimore Ravens,2011
+['Haruki Nakamura'],Probable: knee,week_6,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_6,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_6,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_6,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_6,Baltimore Ravens,2011
+['Cory Redding'],NA,week_6,Baltimore Ravens,2011
+['David Reed'],Probable: shoulder,week_6,Baltimore Ravens,2011
+['Ed Reed'],NA,week_6,Baltimore Ravens,2011
+['Ray Rice'],NA,week_6,Baltimore Ravens,2011
+['Jimmy Smith'],Out: ankle,week_6,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_6,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_6,Baltimore Ravens,2011
+['Cary Williams'],NA,week_6,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_6,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_6,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_6,Baltimore Ravens,2011
+['Tom Zbikowski'],Questionable: head,week_6,Baltimore Ravens,2011
+['Anthony Allen'],Out: thigh,week_7,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_7,Baltimore Ravens,2011
+['Matt Birk'],NA,week_7,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_7,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_7,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_7,Baltimore Ravens,2011
+['Chris Carr'],Questionable: thigh,week_7,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_7,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_7,Baltimore Ravens,2011
+['Dannell Ellerbe'],Out: thigh,week_7,Baltimore Ravens,2011
+['Lee Evans'],Doubtful: ankle,week_7,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_7,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_7,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_7,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_7,Baltimore Ravens,2011
+['Jarret Johnson'],Probable: back,week_7,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_7,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_7,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_7,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_7,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_7,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_7,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_7,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_7,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_7,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_7,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_7,Baltimore Ravens,2011
+['Cory Redding'],NA,week_7,Baltimore Ravens,2011
+['David Reed'],NA,week_7,Baltimore Ravens,2011
+['Ed Reed'],NA,week_7,Baltimore Ravens,2011
+['Ray Rice'],NA,week_7,Baltimore Ravens,2011
+['Jimmy Smith'],Probable: ankle,week_7,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_7,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_7,Baltimore Ravens,2011
+['Cary Williams'],NA,week_7,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_7,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_7,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_7,Baltimore Ravens,2011
+['Tom Zbikowski'],Doubtful: concussion,week_7,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_8,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_8,Baltimore Ravens,2011
+['Matt Birk'],NA,week_8,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_8,Baltimore Ravens,2011
+['Chykie Brown'],Probable: illness,week_8,Baltimore Ravens,2011
+['Prescott Burgess'],NA,week_8,Baltimore Ravens,2011
+['Chris Carr'],Probable: thigh,week_8,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_8,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_8,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: thigh,week_8,Baltimore Ravens,2011
+['Lee Evans'],Questionable: ankle,week_8,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_8,Baltimore Ravens,2011
+['Danny Gorrer'],Questionable: thigh,week_8,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_8,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_8,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_8,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_8,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_8,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_8,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_8,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_8,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_8,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_8,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_8,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_8,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_8,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_8,Baltimore Ravens,2011
+['Cory Redding'],NA,week_8,Baltimore Ravens,2011
+['David Reed'],NA,week_8,Baltimore Ravens,2011
+['Ed Reed'],Questionable: neck,week_8,Baltimore Ravens,2011
+['Ray Rice'],NA,week_8,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_8,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_8,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_8,Baltimore Ravens,2011
+['Cary Williams'],NA,week_8,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_8,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_8,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_8,Baltimore Ravens,2011
+['Tom Zbikowski'],Probable: concussion,week_8,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_9,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_9,Baltimore Ravens,2011
+['Matt Birk'],Questionable: hamstring,week_9,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_9,Baltimore Ravens,2011
+['Chykie Brown'],Questionable: knee,week_9,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_9,Baltimore Ravens,2011
+['Chris Carr'],NA,week_9,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_9,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_9,Baltimore Ravens,2011
+['Dannell Ellerbe'],Out: thigh,week_9,Baltimore Ravens,2011
+['Lee Evans'],Doubtful: ankle,week_9,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_9,Baltimore Ravens,2011
+['Danny Gorrer'],Questionable: thigh,week_9,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_9,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_9,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_9,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_9,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_9,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_9,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_9,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_9,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_9,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_9,Baltimore Ravens,2011
+['Haloti Ngata'],Questionable: thigh,week_9,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_9,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_9,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_9,Baltimore Ravens,2011
+['Cory Redding'],NA,week_9,Baltimore Ravens,2011
+['David Reed'],Questionable: knee,week_9,Baltimore Ravens,2011
+['Ed Reed'],NA,week_9,Baltimore Ravens,2011
+['Ray Rice'],NA,week_9,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_9,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_9,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_9,Baltimore Ravens,2011
+['Cary Williams'],NA,week_9,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_9,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_9,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_9,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_9,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_10,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],Probable: concussion,week_10,Baltimore Ravens,2011
+['Matt Birk'],Probable: neck,week_10,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_10,Baltimore Ravens,2011
+['Chykie Brown'],Probable: knee,week_10,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_10,Baltimore Ravens,2011
+['Chris Carr'],NA,week_10,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_10,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_10,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: thigh,week_10,Baltimore Ravens,2011
+['Lee Evans'],Questionable: ankle,week_10,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_10,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_10,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_10,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_10,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_10,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_10,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_10,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_10,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_10,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_10,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_10,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_10,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_10,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_10,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_10,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_10,Baltimore Ravens,2011
+['Cory Redding'],NA,week_10,Baltimore Ravens,2011
+['David Reed'],NA,week_10,Baltimore Ravens,2011
+['Ed Reed'],Questionable: shoulder,week_10,Baltimore Ravens,2011
+['Ray Rice'],NA,week_10,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_10,Baltimore Ravens,2011
+['Terrell Suggs'],Questionable: knee,week_10,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_10,Baltimore Ravens,2011
+['Cary Williams'],NA,week_10,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_10,Baltimore Ravens,2011
+['Kris Wilson'],Questionable: calf,week_10,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_10,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_10,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_11,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_11,Baltimore Ravens,2011
+['Matt Birk'],NA,week_11,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_11,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_11,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_11,Baltimore Ravens,2011
+['Chris Carr'],NA,week_11,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_11,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_11,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: thigh,week_11,Baltimore Ravens,2011
+['Lee Evans'],Questionable: ankle,week_11,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_11,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_11,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_11,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_11,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_11,Baltimore Ravens,2011
+['Arthur Jones'],Questionable: head,week_11,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_11,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_11,Baltimore Ravens,2011
+['Ray Lewis'],Questionable: foot,week_11,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_11,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_11,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_11,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_11,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_11,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_11,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_11,Baltimore Ravens,2011
+['Cory Redding'],NA,week_11,Baltimore Ravens,2011
+['David Reed'],NA,week_11,Baltimore Ravens,2011
+['Ed Reed'],NA,week_11,Baltimore Ravens,2011
+['Ray Rice'],NA,week_11,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_11,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_11,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_11,Baltimore Ravens,2011
+['Cary Williams'],NA,week_11,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_11,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_11,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_11,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_11,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_12,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_12,Baltimore Ravens,2011
+['Matt Birk'],NA,week_12,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_12,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_12,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_12,Baltimore Ravens,2011
+['Chris Carr'],Questionable: back,week_12,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_12,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_12,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: thigh,week_12,Baltimore Ravens,2011
+['Lee Evans'],NA,week_12,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_12,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_12,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_12,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_12,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_12,Baltimore Ravens,2011
+['Arthur Jones'],Questionable: head,week_12,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_12,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_12,Baltimore Ravens,2011
+['Ray Lewis'],Doubtful: foot,week_12,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_12,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_12,Baltimore Ravens,2011
+['Haruki Nakamura'],Questionable: thigh,week_12,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_12,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_12,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_12,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_12,Baltimore Ravens,2011
+['Cory Redding'],NA,week_12,Baltimore Ravens,2011
+['David Reed'],NA,week_12,Baltimore Ravens,2011
+['Ed Reed'],NA,week_12,Baltimore Ravens,2011
+['Ray Rice'],NA,week_12,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_12,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_12,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_12,Baltimore Ravens,2011
+['Cary Williams'],NA,week_12,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_12,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_12,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_12,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_12,Baltimore Ravens,2011
+['Anthony Allen'],Probable: thigh,week_13,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_13,Baltimore Ravens,2011
+['Matt Birk'],NA,week_13,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_13,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_13,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_13,Baltimore Ravens,2011
+['Chris Carr'],Questionable: back,week_13,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_13,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_13,Baltimore Ravens,2011
+['Dannell Ellerbe'],Probable: thigh,week_13,Baltimore Ravens,2011
+['Lee Evans'],NA,week_13,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_13,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_13,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_13,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_13,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_13,Baltimore Ravens,2011
+['Arthur Jones'],Probable: head,week_13,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_13,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_13,Baltimore Ravens,2011
+['Ray Lewis'],Doubtful: foot,week_13,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_13,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_13,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_13,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_13,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_13,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_13,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_13,Baltimore Ravens,2011
+['Cory Redding'],NA,week_13,Baltimore Ravens,2011
+['David Reed'],NA,week_13,Baltimore Ravens,2011
+['Ed Reed'],NA,week_13,Baltimore Ravens,2011
+['Ray Rice'],NA,week_13,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_13,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_13,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_13,Baltimore Ravens,2011
+['Cary Williams'],NA,week_13,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_13,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_13,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_13,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_13,Baltimore Ravens,2011
+['Anthony Allen'],Probable: thigh,week_14,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_14,Baltimore Ravens,2011
+['Matt Birk'],Questionable: shoulder,week_14,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_14,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_14,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_14,Baltimore Ravens,2011
+['Chris Carr'],Questionable: back,week_14,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_14,Baltimore Ravens,2011
+['Billy Cundiff'],Questionable: calf,week_14,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_14,Baltimore Ravens,2011
+['Lee Evans'],NA,week_14,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_14,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_14,Baltimore Ravens,2011
+['Ben Grubbs'],Probable: toe,week_14,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_14,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_14,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_14,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_14,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_14,Baltimore Ravens,2011
+['Ray Lewis'],Out: foot,week_14,Baltimore Ravens,2011
+['Michael McAdoo'],Injured Reserve: undisclosed,week_14,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_14,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_14,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_14,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_14,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_14,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_14,Baltimore Ravens,2011
+['Cory Redding'],NA,week_14,Baltimore Ravens,2011
+['David Reed'],NA,week_14,Baltimore Ravens,2011
+['Ed Reed'],NA,week_14,Baltimore Ravens,2011
+['Ray Rice'],NA,week_14,Baltimore Ravens,2011
+['Jimmy Smith'],Probable: thigh,week_14,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_14,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_14,Baltimore Ravens,2011
+['Cary Williams'],NA,week_14,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_14,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_14,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_14,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_14,Baltimore Ravens,2011
+['Anthony Allen'],Probable: thigh,week_15,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_15,Baltimore Ravens,2011
+['Matt Birk'],NA,week_15,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_15,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_15,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_15,Baltimore Ravens,2011
+['Chris Carr'],Questionable: back,week_15,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_15,Baltimore Ravens,2011
+['Billy Cundiff'],Doubtful: calf,week_15,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_15,Baltimore Ravens,2011
+['Lee Evans'],NA,week_15,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_15,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_15,Baltimore Ravens,2011
+['Ben Grubbs'],Questionable: toe,week_15,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_15,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_15,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_15,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_15,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_15,Baltimore Ravens,2011
+['Ray Lewis'],Questionable: foot,week_15,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_15,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_15,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_15,Baltimore Ravens,2011
+['Haloti Ngata'],Questionable: back,week_15,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_15,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_15,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_15,Baltimore Ravens,2011
+['Cory Redding'],Questionable: ankle,week_15,Baltimore Ravens,2011
+['David Reed'],NA,week_15,Baltimore Ravens,2011
+['Ed Reed'],NA,week_15,Baltimore Ravens,2011
+['Ray Rice'],NA,week_15,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_15,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_15,Baltimore Ravens,2011
+['Lardarius Webb'],Questionable: toe,week_15,Baltimore Ravens,2011
+['Cary Williams'],NA,week_15,Baltimore Ravens,2011
+['Chavis Williams'],NA,week_15,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_15,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_15,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_15,Baltimore Ravens,2011
+['Anthony Allen'],Questionable: thigh,week_16,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_16,Baltimore Ravens,2011
+['Matt Birk'],NA,week_16,Baltimore Ravens,2011
+['Anquan Boldin'],Questionable: knee,week_16,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_16,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_16,Baltimore Ravens,2011
+['Chris Carr'],Questionable: back,week_16,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_16,Baltimore Ravens,2011
+['Billy Cundiff'],Questionable: left calf,week_16,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_16,Baltimore Ravens,2011
+['Lee Evans'],NA,week_16,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_16,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_16,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_16,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_16,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_16,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_16,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_16,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_16,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_16,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_16,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_16,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_16,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_16,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_16,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_16,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_16,Baltimore Ravens,2011
+['Cory Redding'],Questionable: ankle,week_16,Baltimore Ravens,2011
+['David Reed'],NA,week_16,Baltimore Ravens,2011
+['Ed Reed'],NA,week_16,Baltimore Ravens,2011
+['Ray Rice'],NA,week_16,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_16,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_16,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_16,Baltimore Ravens,2011
+['Cary Williams'],NA,week_16,Baltimore Ravens,2011
+['Chavis Williams'],Injured Reserve: foot,week_16,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_16,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_16,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_16,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_17,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_17,Baltimore Ravens,2011
+['Matt Birk'],NA,week_17,Baltimore Ravens,2011
+['Anquan Boldin'],Out: knee,week_17,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_17,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_17,Baltimore Ravens,2011
+['Chris Carr'],NA,week_17,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_17,Baltimore Ravens,2011
+['Billy Cundiff'],Questionable: left calf,week_17,Baltimore Ravens,2011
+['Dannell Ellerbe'],Questionable: concussion,week_17,Baltimore Ravens,2011
+['Lee Evans'],NA,week_17,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_17,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_17,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_17,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_17,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_17,Baltimore Ravens,2011
+['Arthur Jones'],Probable: illness,week_17,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_17,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_17,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_17,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_17,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_17,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_17,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_17,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_17,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_17,Baltimore Ravens,2011
+['Bernard Pollard'],Questionable: illness,week_17,Baltimore Ravens,2011
+['Cory Redding'],Questionable: ankle,week_17,Baltimore Ravens,2011
+['David Reed'],Out: knee,week_17,Baltimore Ravens,2011
+['Ed Reed'],NA,week_17,Baltimore Ravens,2011
+['Ray Rice'],NA,week_17,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_17,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_17,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_17,Baltimore Ravens,2011
+['Cary Williams'],Questionable: concussion,week_17,Baltimore Ravens,2011
+['Chavis Williams'],Injured Reserve: foot,week_17,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_17,Baltimore Ravens,2011
+['Marshal Yanda'],Doubtful: ribs,week_17,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_17,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_19,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],Questionable: thigh,week_19,Baltimore Ravens,2011
+['Matt Birk'],NA,week_19,Baltimore Ravens,2011
+['Anquan Boldin'],Probable: knee,week_19,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_19,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_19,Baltimore Ravens,2011
+['Chris Carr'],NA,week_19,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_19,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_19,Baltimore Ravens,2011
+['Dannell Ellerbe'],Probable: concussion,week_19,Baltimore Ravens,2011
+['Lee Evans'],NA,week_19,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_19,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_19,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_19,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_19,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_19,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_19,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_19,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_19,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_19,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_19,Baltimore Ravens,2011
+['Jameel McClain'],Questionable: knee,week_19,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_19,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_19,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_19,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_19,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_19,Baltimore Ravens,2011
+['Cory Redding'],NA,week_19,Baltimore Ravens,2011
+['David Reed'],Injured Reserve: knee,week_19,Baltimore Ravens,2011
+['Ed Reed'],NA,week_19,Baltimore Ravens,2011
+['Ray Rice'],NA,week_19,Baltimore Ravens,2011
+['Jimmy Smith'],Probable: concussion,week_19,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_19,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_19,Baltimore Ravens,2011
+['Cary Williams'],NA,week_19,Baltimore Ravens,2011
+['Chavis Williams'],Injured Reserve: foot,week_19,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_19,Baltimore Ravens,2011
+['Marshal Yanda'],Probable: chest,week_19,Baltimore Ravens,2011
+['Tom Zbikowski'],Probable: concussion,week_19,Baltimore Ravens,2011
+['Anthony Allen'],NA,week_20,Baltimore Ravens,2011
+['Brendon Ayanbadejo'],NA,week_20,Baltimore Ravens,2011
+['Matt Birk'],NA,week_20,Baltimore Ravens,2011
+['Anquan Boldin'],NA,week_20,Baltimore Ravens,2011
+['Chykie Brown'],NA,week_20,Baltimore Ravens,2011
+['Prescott Burgess'],Injured Reserve: abdomen,week_20,Baltimore Ravens,2011
+['Chris Carr'],NA,week_20,Baltimore Ravens,2011
+['Terrence Cody'],NA,week_20,Baltimore Ravens,2011
+['Billy Cundiff'],NA,week_20,Baltimore Ravens,2011
+['Dannell Ellerbe'],NA,week_20,Baltimore Ravens,2011
+['Lee Evans'],NA,week_20,Baltimore Ravens,2011
+['Domonique Foxworth'],Injured Reserve: knee,week_20,Baltimore Ravens,2011
+['Danny Gorrer'],NA,week_20,Baltimore Ravens,2011
+['Ben Grubbs'],NA,week_20,Baltimore Ravens,2011
+['Ramon Harewood'],Injured Reserve: ankle,week_20,Baltimore Ravens,2011
+['Jarret Johnson'],NA,week_20,Baltimore Ravens,2011
+['Arthur Jones'],NA,week_20,Baltimore Ravens,2011
+['Matt Lawrence'],Injured Reserve: concussion,week_20,Baltimore Ravens,2011
+['Vonta Leach'],NA,week_20,Baltimore Ravens,2011
+['Ray Lewis'],NA,week_20,Baltimore Ravens,2011
+['Michael McAdoo'],NA,week_20,Baltimore Ravens,2011
+['Jameel McClain'],NA,week_20,Baltimore Ravens,2011
+['Haruki Nakamura'],NA,week_20,Baltimore Ravens,2011
+['Haloti Ngata'],NA,week_20,Baltimore Ravens,2011
+['Marcus Paschal'],Injured Reserve: quadriceps,week_20,Baltimore Ravens,2011
+['Jason Phillips'],NA,week_20,Baltimore Ravens,2011
+['Bernard Pollard'],NA,week_20,Baltimore Ravens,2011
+['Cory Redding'],NA,week_20,Baltimore Ravens,2011
+['David Reed'],Injured Reserve: knee,week_20,Baltimore Ravens,2011
+['Ed Reed'],Questionable: ankle,week_20,Baltimore Ravens,2011
+['Ray Rice'],Questionable: leg,week_20,Baltimore Ravens,2011
+['Jimmy Smith'],NA,week_20,Baltimore Ravens,2011
+['Terrell Suggs'],NA,week_20,Baltimore Ravens,2011
+['Lardarius Webb'],NA,week_20,Baltimore Ravens,2011
+['Cary Williams'],NA,week_20,Baltimore Ravens,2011
+['Chavis Williams'],Injured Reserve: foot,week_20,Baltimore Ravens,2011
+['Kris Wilson'],NA,week_20,Baltimore Ravens,2011
+['Marshal Yanda'],NA,week_20,Baltimore Ravens,2011
+['Tom Zbikowski'],NA,week_20,Baltimore Ravens,2011
